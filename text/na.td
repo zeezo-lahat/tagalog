@@ -1,0 +1,30 @@
+
+
+   ____________________
+
+Meaning of "na"
+
+na •
+
+   adv.
+     *
+          + 1. now, already. Ako na. It's my turn to do it now or I'll do
+            it instead of someone else.
+          + 2. after nouns or pronouns: acts as an emphatic marker. Bukas
+            na. Let it be tomorrow. Si Maria na. Let it be Maria's turn.
+          + 3. after verbs: if in the past tense form, denotes completion
+            of action expressible in the past or present perfect in
+            English. Nagsipilyo na siya. He has already brushed (his
+            teeth).
+          + 4. if in the infinitive form or future form, denotes now,
+            right away, immediately, soon. Magsipilyo ka na. Brush (your
+            teeth) now. Papasok na ako. I'm going to school now.
+          + 5. If after the verb roots, denotes completed action. Bukas
+            na. It's already open. Tapos na. It's already finished. na
+            lig. connects modifier and word modified, takes the form -ng
+            when the word it follows ends in a vowel sound. Mabait na bata
+            or Batang mabait. Good child. na part. with sa/kay, marks
+            nouns indicating position, location, possession of something;
+            -ng when the word it follows ends in a vowel sound
+
+
