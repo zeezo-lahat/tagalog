@@ -1,0 +1,129 @@
+-an	to do something in direction of (ex. dalhan - bring to, sing to, go to, write to)
+	to do something for a beneficiary (ex. tirhan - leave something for someone)
+	to cause something to become foo (ex, gandahan, habaan, hinaan, lakasán) (object)
+-an	nouns of place, period, tools, joint performance
+i-	to cause (ng) an object (ang) to undergo action (to throw, stop, close, plan, teach, etc <something>)
+           teach -> lesson, soak -> clothes, throw -> trash, give -> wallet
+	to do (ng) something for (ang)  (sa may or may not be there)
+           bring, read, ask, ... something FOR someone else
+ika-	to CAUSE the root to come about
+ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verbs)
+ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
+-in	to do something to something
+           rip paper, burn garbage, finish what I'm doing
+	to be affected by something (inulán -> rained on)
+-in	nouns nominalizing actions
+-in	adj of being prone or susceptible to something (ex. sakitin)
+ipa-	(ng) has (sa) do something re. (ang) (write, fix, eat, etc.)
+ipaki-	request a third party to do something; request/please (like paki- but benefactor focus)
+ipag-	an object undergoes action*; benefactor* (*like i- but with mag- verbs)
+ipagma-	to exhibit the root word's characteristic
+ipagpa-	causative/benefactive - person 1 (ang) -> person 2 (ng) for the benefit of person 1
+ipang-	an object undergoes action*; benefactor* (*like i- but with mag- verbs)
+ipapang-	causative (ng -> sa using ang); instrumental focus
+isa-	cause condition to be (obj.)
+ka-	nouns of sharing or togetherness
+ka-	adj. of commonness (ex. kapareho, katulad)
+ka-REPREP	adj. in extreme (katawa-tawa - hilarious)
+kaCV/kaka-	nouns of excessiveness or repeated behavior
+kaCV/kaka-	express something that just happened; present only, no focus
+ka-an	nouns of exchanging; of abstract qualities; of groups of things
+ka-an	action of mind or feelings; locative (as -an)
+ka-in	combo of ka- noun and -in verb
+ma-	adj. of quality or large amount of something
+ma-	abilitative (obj.); accidental or involuntary action (obj.); mental/emotional (actor)
+ma-an	abilitative/locative; opinion (actor); to affect an object (obj.)
+ma-in	adj. of quality in high degree (ex. matulungin - helpful)
+maCV-in	adj. of quality in high degree (akin to ma-in)
+maka-	adj. of favor, fondness, or support (ex. makabago - modern, progressive)
+mag-	deliberate, intentional action
+mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
+magCum-	to exert great effort in doing
+mag-an	reciprocal action
+magCV-	mag- with great intensity or deliberateness
+magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolola) (also with ka-)
+magCV-	nouns referring to a person associated with something (ex. magbobote)
+mag-REP-REP-an	act like or pretend
+magka-	to acquire/become something; to occur involuntarily/accidentally
+	reciprocal action (denoted by "ka") (actor)
+	adj. of two persons or things having something in common, similar to ka- (ex. magkapareho), 
+magka-an	reciprocal action (denoted by "ka") ma- root verbs mainly (actor)
+magkaka-	adj. of 3+ persons or things having something in common
+magkang-	do something hurriedly
+magma-	trying, pretending, showing off, sim. to mag-root-root-an, "ma" begins adj. (actor)
+magpa-	causative (ang -> sa); increased intensity causative
+magpa-an	take part in a contest
+magpaka-	forcing or trying hard to be X
+magpasa-	enter or exist in condition of X
+magpati-	do something violent to yourself; allow something to happen to yourself (both actor)
+magsa-	act the role of, or imitate; to translate
+magsi-	pluralized -um- with several people doing act (actor)
+magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
+magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
+magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
+mai-	abilitative of i-
+maipa-	abilitative of ipa- (causative)
+maipag-	abilitative of ipag- (object undergoes action; benefactor)
+maipang-	abilitative of ipang- (object undergoes action; benefactor)
+maisa-	abilitative of isa- (cause condition to be)
+maka-	abilitative -um- (actor), abilitative ika- (actor), abilitative ka-in (obj); actor focus (accidental) of ma-
+makapag-	abilative
+makapag-an	abilative
+makapagpaka-	abilative
+makapang-	abilative
+maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um-
+maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
+makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag-
+makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
+mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
+     	to do some GENERAL ACTION, somewhat vague (ex. mangyari - to happen) (actor)
+     	to do something intentionally HARMFUL or DESTRUCTIVE (ex. mangdaya - to cheat, manggulo - cause disorder) (actor)
+     	to become something PARTIALLY or TEMPORARILY (ex. manigas - to become hard, manitim - become dark) (actor)
+     	to do a recreational or CASUAL ACTIVITY (visiting, boating) (actor)
+mangCV-	nouns of FREQUENT ACTION, referring to a person associated with something (ex. manlalaro)
+manga-	to do COLLECTIVE ACTIONS involving/happening to many people (actor)
+mapa-	ability/possibility to (ng) CAUSE something to happen / be done (ang).  (able/unable, can/can't)
+	ability/possibility to (ng) CAUSE someone (ang) to do something.  (able/unable, can/can't)
+	CAUSED to do/become something (actor/doer/becomer) (eg, mapahiya - become humiliated, mapaiyak - caused to cry)
+mapag-	PERSONAL CHARACTERISTIC (ex. mapagbigay - generous)
+mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)
+naka-	current TEMPORARY STATE (ex. nakaupo - sitting, nakaitim - wearing black)
+nakaka-	CAUSING/creating/producing something (ex. nakakainis - annoying)
+nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
+pa-	MANNER (ex. pabulong - in a whisper)
+	ABOUT TO (ex. parating/paalis - about to arrive/leave)
+	"CAN I", "MAY I" have/see/borrow, etc
+	REQUESTED/ORDERED THINGS OR ACTIONS (padala)
+	something that brings about / creates something (pabango, palamig)
+paREP-REP	adj. of OCCASIONAL or "here and there" (ex. pasama-sama - tagging along here and there)
+pa-an	ng HAS SOMEONE (sa) do something (ang) - pa-an, pina-an, pinapa-an, papa-an
+	non-focus form of certain ma-root verbs (eg. pakinggan siya. - hear him.)
+pa-an	nouns of location or contests
+pa-in	ng HAS OR ALLOWS SOMEONE (ang) to do something - pa-in, pina, pinapa, papa-in
+	to INCREASE something (beauty, shortness..) - pa-in, pina, pinapa, papa-in
+	non-focus form of certain ma-root verbs (eg. panoorin ko ang movie)
+pag-	the act or manner of doing an action
+pagCV-	the act or manner of doing an action repeatedly, gerund former for mag- verbs
+pag-an	to do something WITH SOMEONE/SOMETHING (reciprocal action on object) (obj)
+pag-in	to INCREASE something DELIBERATELY or THOROUGHLY
+	to do something to/with MULTIPLE THINGS JOINTLY
+pagka-	the act of having done something, after/upon doing something
+pagkAka-	the MANNER in which something was done (pagkakasabi)
+		the act of BECOMING something
+pagpa-	causative for pa- indirect stems (pagpapa-)
+pagpa-an	causative
+pagpa-in	causative
+pagsasa-	gerunds for magsa- verbs
+paka-an	to do something INTENSELY
+paka-in	to do something THOROUGHLY or to HIGH DEGREE
+paki-	favor/request/please (obj.)
+pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
+pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
+pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
+pang-	an instrument/tool/object FOR performing action described by root (ie, something FOR cooking, buying, cleaning, etc..)
+	adj. referring to intended use (FOR) (ex. pambata - for kids)
+pangCV-	a practice or action (ex panggagamot - practice of medicine, pangmomolestiya - multiple molesting)
+tag-	a season (ex. tag-init)
+taga-	expresses origin of a person
+taga-, tagapag-, tagapang-	nouns of profession (ex. tagapaglinis)
+REP-REPan	nouns of imitation, fakeness (bahay-bahayan)

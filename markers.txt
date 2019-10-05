@@ -1,0 +1,121 @@
+### These are the noun markers..
+### ang markers indicate that the (pro)noun they are tied to is in focus
+### ng markers indicate that the (pro)noun they are tied to is not in focus
+### sa markers indicate direction, location, future time, or beneficiary of action
+
+   Ako si Mr. Wot Wah	     I am Mr. Wot Wah
+
+* ang
+> ang 1/2: marks focus (if the focus is not a name)
+   Abogado ang babae. 	     The woman is a lawyer.
+   Masaya ang piknik. 	     The picnic was fun.
+   Natulog ang bata sa kwarto. 	     The child slept in the room.
+   May isang kapatid ang lalaki. 	     The man has a brother.
+   Nasa mesa ang kape. 	     The coffee is on the table.
+
+> ang 2/2: makes a noun as definite (rather than indefinite as with ng)
+   Gusto ko ang mangga. 	    I like the mango.
+   Gusto ko ng mangga. 	     I like mangoes.
+   Kailangan ko ang libro. 	     I need the book.
+   Kailangan ko ng libro. 	     I need a book.
+   
+* si, sina indicate the named person/people is/are the focus of the sentence
+> si (singular)
+   Estudyante si Rita sa UP. 	     Rita is a student at UP.
+   Mabait si Lito. 	     Lito is nice.
+   Nag-aaral si Fely sa salas. 	     Fely is studying in the living room.
+   May dalawang kotse si Dolly. 	     Dolly has two cars
+   Nasa Maynila si Lorna. 	     Lorna is in Manila.
+> sina (plural)
+   Estudyante sina Rita at Fe sa UP. 	     Rita and Fe are students at UP.
+   Mabait sina Lito at kapatid niya. 	     Lito and his brother are nice.
+   Nag-aaral sina Fely. 	     Fely and company are studying .
+   May dalawang kotse sina Dolly at Joe. 	     Dolly and Joe have two cars.
+   Nasa Maynila sina Lorna. 	     Lorna and company are in Manila.
+
+* ng marks possession, direct object, unfocused actor/doer
+> ng 1/3: possession marker
+   bahay ng pamilya Santos 	     house of the Santos family
+   kotse ng babae 	     car of the woman
+   ang titser ng mga bata 	     the teacher of the kids
+   ang hardin ng matandang lalaki 	     the garden of the old man
+   
+> ng 2/3: marker of direct object
+   Bumili si Ana ng lapis sa tindahan. 	   Ana bought a pencil at the store.
+   Nanood sina Pedro ng sine kahapon. 	   Pedro and friends watched a movie yesterday.
+   Nagbasa ako ng libro sa laybrari. 	    I read a book in the library.
+   Naglinis kami ng bahay noong Linggo. 	    We cleaned a house last Sunday.
+   
+> ng 3/3: marker of unfocused doer/actor
+   Ibinigay ng titser(Actor) ang libro sa estudyante. 	   The book was given to the student by the teacher(Actor).
+   Binigyan ng titser(Actor) ng libro(Direct Object) ang estudyante. 	   The student was given a book(Direct Object) by the teacher(Actor).
+   Sinulat ng makata(A) ang tula para sa nanay. 	    The poem was written by the poet(A) for mother.
+   Sinulatan ng makata(A) ng tula(D.O.) ang nanay. 	    Mother was written a poem(D.O.) by the poet(A).
+   
+* ni/nina
+> ni/nina 1/2: marker of possessor
+   kaibigan ni Juan 	     a friend of Juan
+   kaklase ni Maria 	     a friend of Maria
+   ang bahay nina Tina 	     the house of Tina and family
+   ang libro nina Fe at Kim 	     the books of Fe and Kim
+   
+> ni/nina 2/2: marker of unfocussed actor/doer when actor/doer is name(s)
+   Binili ni Rita ang damit sa tindahan. 	   The dress was bought by Rita at the store.
+   Binigyan ni Jose ng pera si Bob. 	   Bob was given some money by Jose.
+   Niluto nina Tony ang isda sa kusina. 	   The fish was cooked by Tony and company in the kitchen.
+   Itinapon nina Fred at Melvin ang basura sa labas. 	   The garbage was thrown outside by Fred and Melvin.
+   
+* sa marks nouns that are not in focus, indicating:
+> sa 1/4: Location
+   May party sa bahay ko sa Sabado. 	    There's going to be a party at my house on Saturday.
+   Nakatira ako sa San Juan Village. 	     I live in San Juan Village.
+   Nag-aaral si Maya sa Unibersidad ng Pilipinas. 	     Maya studies at the University of the Philippines.
+   Nagluluto ang nanay sa kusina. 	    Mom is cooking in the kitchen.
+
+>  sa 2/4: direction
+   Pumunta sila sa Zamboanga noong bakasyon. 	     They went to Zamboanga last vacation.
+   Umalis siya sa klase nang maaga. 	     He left (from) the class early.
+   Ibinigay niya ang bulaklak sa nanay. 	     He gave the flowers to mother.
+   Kinuha niya ang libro sa akin. 	     He got the book from me.
+
+> sa 3/4: beneficiary of an action (para sa..)
+   Gumawa siya ng eksamen para sa klase. 	    She made an exam for the class.
+   Naghanda kami ng sorpresa para sa tatay. 	     We prepared a surprise for dad.
+   Bumili si Ana ng regalo para sa asawa niya. 	    Ana bought a gift for her husband.
+   Nagdala si Butch ng laruan para sa bata. 	    Butch brought a toy for the kid.
+
+> sa 4/4: future time      
+   May trabaho ako sa Lunes. 	     I have work on Monday.
+   Uuwi si Ellen sa Cebu sa Pasko. 	     Ellen is going home to Cebu at Christmas.
+   Magtatapos siya ng pag-aaral sa summer. 	    She is graduating in the summer.
+   Kaarawan ni Jun sa Pebrero 16. 	     It is Jun's birthday on February 16.
+   
+* kay and kina replace sa when the noun being marked is a name (kay) or names (kina) indicating 1. Location 2. direction
+*  3. beneficiary of an action, or 4. possessor when it comes before the noun that is possessed.
+
+> kay/kina 1/4 location:
+   Nandoon kay Rudy ang libro mo. 	    Your book is with Rudy.
+   Naroon kay Tina ang gamit mo. 	    Your stuff is with Tina.
+   May salu-salo kina Aida. 	    There's a get-together at Aida's.
+   Nakatira ako kina Tiya Selma. 	     I am staying at Aunt Selma's.
+   
+> kay/kina 2/4 direction:
+   Dadalaw ako kay Lola Sela bukas. 	    I am going to visit Grandmother Sela tomorrow.
+   Ibinigay ni Ana ang susi kay Sally. 	    Ana gave the key to Sally.
+   Umalis siya kina Mrs. Santos. 	    He left (from) Mrs. Santos' place.
+   Itinago ni Luz ang libro (mula) kina Pedro at Juan. 	   Luz hid the the book from Pedro and Juan.
+   
+> kay/kina 3/4 beneficiary of an action:
+   Gumawa ako ng cake para kay Kit. 	    I baked a cake for Kit.
+   Binili ko ang bulaklak para kay Ida. 	    I bought the flowers for Ida.
+   Nagluto ako ng adobo para kina Rita at Carlo. 	    I cooked adobo for Rita and Carlo.
+   Itinago ko ang mga sulat para kina Susan. 	    I kept the letters for Susan and company.
+   
+> kay/kina 4/4 
+> (kay and kina mark the possessor when it comes before the noun possessed. Structurally, the possessor-phrase is used as a 
+> modifier of the noun possessed. Thus,  the linker NA (i.e., -ng or na) is required between the two nouns. This function is
+> limited to spoken discourse in its use.)
+   kay Mariang kapatid 	     Maria's brother
+   kay Bob na kotse 	     Bob's car
+   kina Litang hardin 	     Lita's family's garden
+   kina Mr. Ramos na bahay 	     Mr. Ramos' family's house

@@ -1,0 +1,219 @@
+abot (deliver/hand over)              nag-abot            nag-aabot           mag-aabot           mag-abot            kaaabot
+agaw (take by force)                  nag-agaw            nag-aagaw           mag-aagaw           mag-agaw            kaaagaw
+akyat (climb)                         umakyat             umaakyat            aakyat              umakyat             kaaakyat
+alaga (care for)                      nag-alaga           nag-aalaga          mag-aalaga          mag-alaga           kaaalaga
+alam (find out)                       umalam              umaalam             aalam               umalam              kaaalam
+alay (offer as a gift)                nag-alay            nag-aalay           mag-aalay           mag-alay            kaaalay
+alis (leave/depart)                   umalis              umaalis             aalis               umalis              kaaalis
+aliw (entertain)                      nag-aliw            nag-aaliw           mag-aaliw           mag-aliw            kaaaliw
+alok (offer)                          nag-alok            nag-aalok           mag-aalok           mag-alok            kaaalok
+amin (confess/admit)                  nag-amin            nag-aamin           mag-aamin           mag-amin            kaaamin
+amoy (smell/savor)                    umamoy              umaamoy             aamoy               umamoy              kaaamoy
+ani (harvest)                         nag-ani             nag-aani            mag-aani            mag-ani             kaaani
+anyaya (invite)                       nag-anyaya          nag-aanyaya         mag-aanyaya         mag-anyaya          kaaanyaya
+aral (study)                          nag-aral            nag-aaral           mag-aaral           mag-aral            kaaaral
+asa (hope/expect/depend on)           umasa               umaasa              aasa                umasa               kaaasa
+awit (sing)                           umawit              umaawit             aawit               umawit              kaaawit
+ayos (fix/organize)                   nag-ayos            nag-aayos           mag-aayos           mag-ayos            kaaayos
+baba (go down/get off)                bumaba              bumababa            bababa              bumaba              kabababa
+bago (change)                         nagbago             nagbabago           magbabago           magbago             kababago
+balik (come back/return)              bumalik             bumabalik           babalik             bumalik             kababalik
+balot (wrap/pack)                     nagbalot            nagbabalot          magbabalot          magbalot            kababalot
+bangga (crash into)                   bumangga            bumabangga          babangga            bumangga            kababangga
+bangon (rise up)                      bumangon            bumabangon          babangon            bumangon            kababangon
+banlaw (rinse)                        nagbanlaw           nagbabanlaw         magbabanlaw         magbanlaw           kababanlaw
+bantay (guard)                        nagbantay           nagbabantay         magbabantay         magbantay           kababantay
+basa (read)                           nagbasa             nagbabasa           magbabasa           magbasa             kababasa
+basag (break intentionally)           nagbasag            nagbabasag          magbabasag          magbasag            kababasag
+bayad (pay)                           nagbayad            nagbabayad          magbabayad          magbayad            kababayad
+benta (sell)                          nagbenta            nagbebenta          magbebenta          magbenta            kabebenta
+bigay (give/bestow)                   nagbigay            nagbibigay          magbibigay          magbigay            kabibigay
+bihis (dress/change clothes)          nagbihis            nagbibihis          magbibihis          magbihis            kabibihis
+bilang (count/ enumerate)             nagbilang           nagbibilang         magbibilang         magbilang           kabibilang
+bili (buy)                            bumili              bumibili            bibili              bumili              kabibili
+binyag (baptize)                      nagbinyag           nagbibinyag         magbibinyag         magbinyag           kabibinyag
+buhat (lift)                          nagbuhat            nagbubuhat          magbubuhat          magbuhat            kabubuhat
+buhay (live/exist)                    nabuhay             nabubuhay           mabubuhay           mabuhay             kabubuhay
+bukas (open/turn on)                  nagbukas            nagbubukas          magbubukas          magbukas            kabubukas
+buod (summarize)                      nagbuod             nagbubuod           magbubuod           magbuod             kabubuod
+buo (complete/assemble)               nagbuo              nagbubuo            magbubuo            magbuo              kabubuo
+daan (pass through or over/drop by)   dumaan               dumadaan           dadaan              dumaan              kadadaan
+dagdag (add)                          nagdagdag           nagdadagdag         magdadagdag         magdagdag           kadadagdag
+dakip (capture/arrest)                dumakip             dumadakip           dadakip             dumakip             kadadakip
+dala (bring/carry)                    nagdala             nagdadala           magdadala           magdala             kadadala
+dalaw (visit)                         nagdalaw            nagdadalaw          magdadalaw          magdalaw            kadadalaw
+damay (express sympathy)              dumamay             dumadamay           dadamay             dumamay             kadadamay
+dasal (pray)                          nagdasal            nagdarasal          magdarasal          magdasal            kadarasal
+dating (arrive)                       dumating            dumarating          darating            dumating            kararating
+dilig (water plants)                  nagdilig            nagdidilig          magdidilig          magdilig            kadidilig
+durog (crush/grind)                   nagdurog            nagdudurog          magdudurog          magdurog            kadudurog
+ensayo (rehearse)                     nag-ensayo          nag-eensayo         mag-eensayo         mag-ensayo          kaeensayo
+galaw (move)                          gumalaw             gumagalaw           gagalaw             gumalaw             kagagalaw
+galing (get better)                   gumaling            gumagaling          gagaling            gumaling            kagagaling
+gamit (use)                           gumamit             gumagamit           gagamit             gumamit             kagagamit
+gastos (spend money)                  gumastos            gumagastos          gagastos            gumastos            kagagastos
+gawa (do/make)                        gumawa              gumagawa            gagawa              gumawa              kagagawa
+gawad (award)                         naggawad            naggagawad          maggagawad          maggawad            kagagawad
+gaya (copy/imitate)                   gumaya              gumagaya            gagaya              gumaya              kagagaya
+gising (wake up)                      nagising            nagigising          magigising          magising            kagigising
+guhit (draw/sketch)                   gumuhit             gumuguhit           guguhit             gumuhit             kaguguhit
+gupit (cut)                           naggupit            naggugupit          maggugupit          maggupit            kagugupit
+habol (chase)                         humabol             humahabol           hahabol             humabol             kahahabol
+hagis (cast/throw/toss)               naghagis            naghahagis          maghahagis          maghagis            kahahagis
+halik (kiss)                          humalik             humahalik           hahalik             humalik             kahahalik
+halo (stir/mix)                       naghalo             naghahalo           maghahalo           maghalo             kahahalo
+hanap (look for)                      naghanap            naghahanap          maghahanap          maghanap            kahahanap
+handa (prepare)                       naghanda            naghahanda          maghahanda          maghanda            kahahanda
+hatid (escort/convey)                 naghatid            naghahatid          maghahatid          maghatid            kahahatid
+hawak (take hold of)                  naghawak            naghahawak          maghahawak          maghawak            kahahawak
+higa (lie down)                       humiga              humihiga            hihiga              humiga              kahihiga
+hila (pull)                           naghila             naghihila           maghihila           maghila             kahihila
+hingi (ask for)                       humingi             humihingi           hihingi             humingi             kahihingi
+hintay (wait)                         naghintay           naghihintay         maghihintay         maghintay           kahihintay
+hinto (stop)                          huminto             humihinto           hihinto             huminto             kahihinto
+hiram (borrow)                        humiram             humihiram           hihiram             humiram             kahihiram
+hiwa (cut into slices)                humiwa              humihiwa            hihiwa              humiwa              kahihiwa
+hugas (wash)                          naghugas            naghuhugas          maghuhugas          maghugas            kahuhugas
+hula (guess/predict)                  humula              humuhula            huhula              humula              kahuhula
+huli (capture)                        humuli              humuhuli            huhuli              humuli              kahuhuli
+hulog (fall)                          nahulog             nahuhulog           mahuhulog           mahulog             kahuhulog
+ibig (fall in love)                   umibig              umiibig             iibig               umibig              kaiibig
+igib (fetch water)                    nag-igib            nag-iigib           mag-iigib           mag-igib            kaiigib
+ilipat (move/transfer)                inilipat            inililipat          ililipat            ilipat              kalilipat
+inom (drink)                          uminom              umiinom             iinom               uminom              kaiinom
+ingat (be cautious or careful)        nag-ingat           nag-iingat          mag-iingat          mag-ingat           kaiingat
+ipon (collect/save)                   nag-ipon            nag-iipon           mag-iipon           mag-ipon            kaiipon
+isampay (hang clothes)                isinampay           isinasampay         isasampay           isampay             kasasampay
+isip (think)                          nag-isip            nag-iisip           mag-iiisip          mag-isip            kaiisip
+isip (come to mind)                   naisip              naiisip             maiisip             maisip              kaiisip
+iwas (avoid)                          umiwas              umiiwas             iiwas               umiwas              kaiiwas
+iyak (cry/weep)                       umiyak              umiiyak             iiyak               umiyak              kaiiyak
+kagat (bite)                          kumagat             kumakagat           kakagat             kumagat             kakakagat
+karga (carry/load)                    nagkarga            nagkakarga          magkakarga          magkarga            kakakarga
+kain (eat)                            kumain              kumakain            kakain              kumain              kakakain
+kamit (obtain/get)                    nagkamit            nagkakamit          magkakamit          magkamit            kakakamit
+katok (knock on door)                 kumatok             kumakatok           kakatok             kumatok             kakakatok
+kilos (act/take action)               kumilos             kumikilos           kikilos             kumilos             kakikilos
+kinig (listen/hear)                   nakinig             nakikinig           makikinig           makinig             kakikinig
+kuha (get/obtain)                     kumuha              kumukuha            kukuha              kumuha              kakukuha
+kulong (imprison/confine)             nagkulong           nagkukulong         magkukulong         magkulong           kakukulong
+kumpuni (repair)                      nagkumpuni          nagkukumpuni        magkukumpuni        magkumpuni          kakukumpuni
+laba (launder)                        naglaba             naglalaba           maglalaba           maglaba             kalalaba
+laban (fight/defy)                    lumaban             lumalaban           lalaban             lumaban             kalalaban
+labas (go out/come out)               lumabas             lumalabas           lalabas             lumabas             kalalabas
+lagay (put/place)                     naglagay            naglalagay          maglalagay          maglagay            kalalagay
+lakad (walk)                          naglakad            naglalakad          maglalakad          maglakad            kalalakad
+langoy (swim)                         lumangoy            lumalangoy          lalangoy            lumangoy            kalalangoy
+lapit (approach/come close)           lumapit             lumalapit           lalapit             lumapit             kalalapit
+laro (play)                           naglaro             naglalaro           maglalaro           maglaro             kalalaro
+ligo (bathe)                          naligo              naliligo            maliligo            maligo              kaliligo
+linang (till/cultivate)               naglinang           naglilinang         maglilinang         maglinang           kalilinang
+lingkod (serve/work for)              naglingkod          naglilingkod        maglilingkod        maglingkod          kalilingkod
+linis (clean)                         naglinis            naglilinis          maglilinis          maglinis            kalilinis
+lipad (fly)                           lumipad             lumilipad           lilipad             lumipad             kalilipad
+lumutang (float)                      lumutang            lumulutang          lulutang            lumutang            kalulutang
+lumutas (solve/settle)                lumutas             lumulutas           lulutas             lulutas             kalulutas
+luto (cook)                           nagluto             nagluluto           magluluto           magluto             kaluluto
+maneho (drive)                        nagmaneho           nagmamaneho         magmamaneho         magmaneho           kamamaneho
+nakaw (steal )                        nagnakaw            nagnanakaw          magnanakaw          magnakaw            kananakaw
+nood (watch a show/ look at)          nanood              nanonood            manonood            manood              kanonood
+ngiti (smile)                         ngumiti             ngumigniti          ngingiti            ngumiti             kangingiti
+paalam (ask permission/say goodbye)   nagpaalam           nagpapaalam         magpapaalam         magpaalam           kapapaalam
+pahinga (rest)                        nagpahinga          nagpapahinga        magpapahinga        magpahinga          kapapahinga
+pakilala (introduce oneself)          nagpakilala         nagpapakilala       magpapakilala       magpakilala         kapapakilala
+paliwanag (explain)                   nagpaliwanag        nagpapaliwanag      magpapaliwanag      magpaliwanag        kapapaliwanag
+panalo (win)                          nanalo              nananalo            mananalo            manalo              kapapanalo
+paniwala (believe)                    naniwala            naniniwala          maniniwala          maniwala            kapapaniwala
+pansin (pay attention to)             pumansin            pumapansin          papansin            pumansin            kapapansin
+parusa (punish)                       nagparusa           nagpaparusa         magpaparusa         magparusa           kapaparusa
+pasok (enter/go to work or school)    pumasok             pumapasok           papasok             pumasok             kapapasok
+patay (die)                           namatay             namamatay           mamamatay           mamatay             kamamatay
+payag (consent)                       pumayag             pumapayaga          papayag             pumayag             kapapayag
+pili (choose)                         pumili              pumipili            pipili              pumili              kapipili
+pinturahan (paint)                    pininturahan        pinipinturahan      pipinturahan        pinturahan          kapipintura
+pirma (sign)                          pumirma             pumipirma           pipirma             pumirma             kapipirma
+pitas (pick flowers or fruits)        pumitas             pumipitas           pipitas             pumitas             kapipitas
+plano (plan)                          nagplano            nagpaplano          magpaplano          magplano            kapaplano
+plantsa (iron clothes)                nagplantsa          nagpaplantsa        magpaplantsa        magplantsa          kapaplantsa
+pulot (pick up from the ground/floor) pumulot             pumupulot           pupulot             pumulot             kapupulot
+punas (wipe)                          nagpunas            nagpupunas          magpupunas          magpunas            kapupunas
+punta (go to a place or person)       pumunta             pumupunta           pupunta             pumunta             kapupunta
+putol (cut/chop)                      nagputol            nagpuputol          magpuputol          magputol            kapuputol
+sabi (say/tell)                       nagsabi             nagsasabi           magsasabi           magsabi             kasasabi
+sagot (reply/answer)                  sumagot             sumasagot           sasagot             sumagot             kasasagot
+saing (cook rice)                     nagsaing            nagsasaing          magsasaing          magsaing            kasasaing
+sakay (go aboard/ride)                sumakay             sumasakay           sasakay             sumakay             kasasakay
+salamat (thank)                       nagpasalamat        nagpapasalamat      magpapasalamat      magpasalamat        kapapasalamat
+sali (join an activity or group)      sumali              sumasali            sasali              sumali              kasasali
+salita (speak)                        nagsalita           nagsasalita         magsasalita         magsalita           kasasalita
+sampay (hang clothes)                 nagsampay           nagsasampay         magsasampay         magsampay           kasasampay
+sama (come along)                     sumama              sumasama            sasama              sumama              kasasama
+sara (close/shut off)                 nagsara             nagsasara           magsasara           magsara             kasasara
+sayaw (dance)                         sumayaw             sumasayaw           sasayaw             sumayaw             kasasayaw
+sigaw (shout)                         sumigaw             sumisigaw           sisigaw             sumigaw             kasisigaw
+silip (take a peek)                   sumilip             sumisilip           sisilip             sumilip             kasisilip
+simula (commence/begin)               nagsimula           nagsisimula         magsisimula         magsimula           kasisimula
+sindi (set fire to)                   nagsindi            nagsisindi          magsisindi          magsindi            kasisindi
+sipilyo (brush teeth)                 nagsipilyo          nagsisipilyo        magsisipilyo        magsipilyo          kasisipilyo
+sira (break down)                     nasira              nasisira            masisira            masira              kasisira
+subok (test/try out)                  sumubok             sumusubok           susubok             sumubok             kasusubok
+suklay (comb one's hair)              nagsuklay           nagsusuklay         magsusuklay         magsuklay           kasusuklay
+suko (surrender)                      sumuko              sumusuko            susuko              sumuko              kasusuko
+sulat (write)                         nagsulat            nagsusulat          magsusulat          magsulat            kasusulat
+sundo (fetch someone)                 sumundo             sumusundo           susundo             sumundo             kasusundo
+sunod (obey)                          sumunod             sumusunod           susunod             sumunod             kasusunod
+suot (wear)                           nagsuot             nagsusuot           magsusuot           magsuot             kasusuot
+suway (disobey/violate)               sumuway             sumusuway           susuway             sumuway             kasusuway
+tago (hide)                           nagtago             nagtatago           magtatago           magtago             katatago
+tahi (sew)                            tumahi              tumatahi            tatahi              tumahi              katatahi
+tahimik (keep quiet)                  tumahimik           tumatahimik         tatahimik           tumahimik           katatahimik
+takbo (run)                           tumakbo             tumatakbo           tatakbo             tumakbo             katatakbo
+talon (jump)                          tumalon             tumatalon           tatalon             tumalon             katatalon
+tanggal (detach/disconnect)           tumanggal           tumatanggal         tatanggal           tumanggal           katatanggal
+tanggap (receive)                     tumanggap           tumatanggap         tatanggap           tumanggap           katatanggap
+tanim (plant)                         nagtanim            nagtatanim          magtatanim          magtanim            katatanim
+tanong (ask/inquire)                  nagtanong           nagtatanong         magtatanong         magtanong           katatanong
+tapon (throw)                         nagtapon            nagtatapon          magtatapon          magtapon            katatapon
+tapos (finish/accomplish)             nagtapos            nagtatapos          magtatapos          magtapos            katatapos
+tawa (laugh)                          tumawa              tumatawa            tatawa              tumawa              katatawa
+tawag (call)                          tumawag             tumatawag           tatawag             tumawag             katatawag
+tawid (go across)                     tumawid             tumatawid           tatawid             tumawid             katatawid
+tibok (throb/pulsate)                 tumibok             tumitibok           titibok             tumibok             katitibok
+tiis (endure hardship)                nagtiis             nagtitiis           magtitiis           magtiis             katitiis
+timpla (blend/mix)                    nagtimpla           nagtitimpla         magtitimpla         magtimpla           katitimpla
+tindig (stand up)                     tumindig            tumitindig          titindig            tumindig            katitindig
+tingin (look at)                      tumingin            tumitingin          titingin            tumingin            katitingin
+tipid (economize/save)                nagtipid            nagtitipid          magtitipid          magtipid            katitipid
+trabaho (work)                        nagtrabaho          nagtatrabaho        magtatrabaho        magtrabaho          katatrabaho
+tubo (sprout/grow)                    tumubo              tumutubo            tutubo              tumubo              katutubo
+tulak (push/shove)                    nagtulak            nagtutulak          magtutulak          magtulak            katutulak
+tuklas (discover)                     tumuklas            tumutuklas          tutuklas            tumuklas            katutuklas
+tulog (sleep)                         natulog             natutulog           matutulog           matulog             katutulog
+tulong (help)                         tumulong            tumutulong          tutulong            tumulong            katutulong
+tuloy (proceed)                       tumuloy             tumutuloy           tutuloy             tumuloy             katutuloy
+tunaw (melt/dissolve)                 natunaw             natutunaw           matutunaw           matunaw             katutunaw
+tungo (go to)                         tumungo             tumutungo           tutungo             tumungo             katutungo
+tupad (fulfill/accomplish)            tumupad             tumutupad           tutupad             tumupad             katutupad
+turo (teach)                          nagturo             nagtuturo           magtuturo           magturo             katuturo
+tuto (learn)                          natuto              natututo            matututo            matuto              katututo
+tutol (disagree with/object)          tumutol             tumututol           tututol             tumutol             katututol
+ubos (use up/consume completely)      umubos              umuubos             uubos               umubos              kauubos
+ulat (report)                         nag-ulat            nag-uulat           mag-uulat           mag-ulat            kauulat
+ulit (repeat)                         nag-ulit            nag-uulit           mag-uulit           mag-ulit            kauulit
+umurong (retreat/withdraw)            umurong             umuurong            uurong              umurong             kauurong
+umuwi (go home)                       umuwi               umuuwi              uuwi                umuwi               kauuwi
+unawa (understand)                    umunawa             umuunawa            uunawa              umunawa             kauunawa
+unlad (develop)                       umunlad             umuunlad            uunlad              umunlad             kauunlad
+upa (pay rent)                        umupa               umuupa              uupa                umupa               kauupa
+upo (sit)                             umupo               umuupo              uupo                umupo               kauupo
+usap (talk/converse)                  nag-usap            nag-uusap           mag-uusap           mag-usap            kauusap
+utang (borrow money)                  umutang             umuutang            uutang              umutang             kauutang
+utos (give an order)                  nag-utos            nag-uutos           mag-uutos           mag-utos            kauutos
+wakas (put an end to)                 nagwakas            nagwawakas          magwawakas          magwakas            kawawakas
+wala (disappear)                      nawala              nawawala            mawawala            mawala              kawawala
+walis (sweep)                         nagwalis            nagwawalis          magwawalis          magwalis            kawawalis
+wasak (demolish/wreck)                nagwasak            nagwawasak          magwawasak          magwasak            kawawasak
+wasto (correct/put in order)          nagwasto            nagwawasto          magwawasto          magwasto            kawawasto
+wumagayway (wave)                     wumagayway          wumawagayway        wawagayway          wumagayway          kawawagayway
+yakap (hug/embrace)                   yumakap             yumayakap           yayakap             yumakap             kayayakap
+yuko (bend down or forward)           yumuko              yumuyuko            yuyuko              yumuko              kayuyuko

@@ -1,0 +1,100 @@
+https://en.wikibooks.org/wiki/Tagalog/Lesson_5
+
+Every sentence has a focus.  It can be a noun, noun phrase, or pronoun.
+
+If not a pronoun, the focus will be preceded by "ang" or "si"/"sina".  If it's a pronoun, it will be an ang pronoun:
+ ako, ka, siya, kami, tayo, kayo, sila, ito, iyan, iyon, or kita
+( => the focus will not be preceeded by "sa" or "na", etc..)
+
+(ang mga for plural nouns, sina for plural of si)
+
+1) Adjectives can describe the focus: <adjective> {particle} <focus>
+
+(particle is si, sina, or ang.  absent if focus is pronoun.)
+
+Malaki ang bahay.
+Mabais si Freddy.
+Matangkad siya.
+Magaganda ang mga rosas. <- note plural form of adjective.
+
+To negate, put "hindi" before the adjective ("Hindi matangkad si Freddy.")  unless the focus is a pronoun.  
+
+If the focus is a pronoun,  the pronoun needs to be moved after hindi:
+
+Hindi ka mabait.
+Hindi siya tahimik.
+
+
+2) To say "(the) <focus> is (a/an) <something>" where <something> is a noun: <something> {particle} <focus>
+This is referred to as an "equation sentence" here.
+
+Hayop ang aso.  (The dog is an animal.)
+Karpintero si Albert.  (Albert is a carpenter.)
+Bisita ka.  (You are a visitor.)
+
+To say that the focus is a *particular* someone/something, you need to add a focus particle: <particle> <something> {particle} <focus>
+
+*Ang* lalaki ang magnanakaw.  (The thief is *that* man.)
+*Si* Andy ang drayber.  (*Andy* is the driver.)
+
+Also, to say the cleaner is *you*. (ie, it is your responsibility) rather than you are a cleaner (Taga-linis ka.):
+Ikaw ang taga-linis.
+
+To negate an equation sentence, hindi goes at the front again but this time it's in front of a noun rather than an adjective as with 1) above:
+
+Hindi hayop ang tao. (a human is not an animal.)
+
+3) Relationship between two nouns: the particle "ng"
+
+<specific word> ng <general word>
+
+Some relationships:
+
+* Part -> Whole
+ gulong ng kotse (the wheel of a car)
+ bubong ng bahay (the roof of a house)
+
+* Member -> Group
+ kawani ng kompanya (employee of a company)
+ lider ng grupo (leader of the group)
+
+* Thing -> Owner of thing
+ kuwaderno ng estudyante (a student's notebook)
+ kotse ng pangulo (the president's car)
+
+* Specific location -> place or object
+ tuktok ng bundok (the top of a mountain)
+ ibabaw ng mesa (on the table)
+
+* Agent -> patient or field
+ manggagawa ng sapatos (maker of shoes)
+ diyosa ng pag-ibig (goddess of love)
+
+if <general word> is a person, use "ni" instead of "ng".  If it is a list of persons, use "nina":
+
+kotse ni Anthony
+bahay nina Angel, Lucy, at Freddy
+
+4) Location sentences - location of focus: Nasa <location> {particle} <focus>
+
+<location> is a noun or noun phrase expressing a location.  The particle "nasa" signals the relationship of <focus> to
+<location>.
+
+Nasa opisina si Anthony.
+Nasa garahe ang kotse.
+Nasa palengke siya.
+
+<location> can be a noun phrase of the form <specific location> ng <place>, as in 3) above
+
+Nasa ibabaw ng mesa ang kutsara. (The spoon is on the table.)
+Nasa ilalim ng mesa ang bola. (The ball is under the table.)
+Nasa loob ng opisina si Wilma. (Wilma is inside the office.)
+Nasa haráp ng aklatan ang opisina ng prínsipal. (The principal's office is in front of the library.)
+Nasa tabí ng silya ang laruán ni Tommy. (Tommy's toy is beside the chair.)
+
+If <location> is a noun phrase and the focus is a pronoun, place the pronoun beside the location word:
+
+Nasa labás siyá ng opisina.
+Nasa likód iyón ng bahay.
+
+("Nasa labás ng opisina siyá" is WRONG!)

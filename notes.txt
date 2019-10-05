@@ -1,0 +1,107 @@
+die: mamatay
+kill: magpatay, pumatay, patayin
+died: namatay
+killed: nagpatay, pumatay, pinatay
+
+-in verbs: (generally goal focused)
+  infinitive is "******in".  past tense is "*in****"
+buy (something): bilhin
+bought (something): binili
+drink (something): inumin
+drank (something): ininom
+say/tell (something): sabihin
+said/told (something): sinabi
+eat (something): kainin
+ate (something): kinain
+
+do (something): gawin
+did (something): ginawa
+doing (something): ginagawa
+will do (something): gagawin
+
+kill: patayin
+killed: pinatay
+killing: pinapatay
+will kill: papatayin
+
+say/tell:       sabihin 
+said/told:      sinabi
+saying/telling: sinasabi
+will say/tell:  sasabihin
+
+
+-an verbs: (generally location focused)
+  infinitive is "******an".  past tense is "*in****an"
+look at:   tingnan
+looked at: tiningnan
+give: bigyan
+gave: binigyan
+kiss:   halikan
+kissed: hinalikan
+
+note that all aspects end with "an":
+open:      buksan
+opened:    binuksan
+opening:   binubuksan
+will open: bubuksan
+sit on:       upuan
+sat on:       inupuan
+sitting on:   inuupuan
+will sit on:  uupuan
+
+For both -in and -an verbs:
+  infinitive is just root + in/an
+  past tense is RO + infinitive
+  infix (only used for past and ongoing) is "in"
+
+buy:       bilhin
+open:      buksan
+
+bought:    binili
+opened:    binuksan
+
+buying:    binibili
+opening:   binubuksan
+
+will buy:  bibilhin
+will open: bubuksan
+
+die: mamatay
+kill: magpatay, pumatay, patayin
+died: namatay
+killed: nagpatay, pumatay, pinatay
+
+   patay
+   dead
+--
+   Araw ng Mga Patay
+   Day of the Dead (11/1)
+--
+   patay-gutom
+   suffering from extreme hunger
+--
+   mamatay
+   to die
+--
+   Huwag kang mamatay!
+   Don’t die.
+--
+   patayin
+   to kill
+   Papatayin kita.
+   I will kill you.
+--
+   Pinatay nila ang elepante.
+   They killed the elephant.
+--
+   Namatay ang aso.
+   The dog died.
+--
+   Namatay ang kuryente.
+   The power went off.
+--
+   Patay kang bata ka.
+   “You’re dead, kid.”
+--
+   Ang hindi papatay sa iyo ay siyang magpapalakas sa iyo.
+   What doesn’t kill you makes you stronger.

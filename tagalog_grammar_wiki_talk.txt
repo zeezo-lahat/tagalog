@@ -1,0 +1,612 @@
+
+Talk:Tagalog grammar
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+WikiProject icon	
+icon	Language portal
+This article is within the scope of WikiProject Languages, a collaborative effort to improve the coverage of standardized, informative and easy-to-use resources about languages on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.	
+ Start 	This article has been rated as Start-Class on the project's quality scale.
+ ??? 	This article has not yet received a rating on the project's importance scale.
+WikiProject icon	
+flag	Philippines portal
+This article is within the scope of WikiProject Tambayan Philippines, a collaborative effort to improve the coverage of topics related to the Philippines on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.	
+ Start 	This article has been rated as Start-Class on the project's quality scale.
+ Mid 	This article has been rated as Mid-importance on the project's importance scale.
+
+Contents
+1	Untitled
+2	Ergativity
+3	Future aspect?
+4	Bata
+5	Mistake in example?
+6	Correlation between markers and interrogatives
+7	Verb conjugations
+8	various comments about article
+9	Pronunciation
+10	An -in/-an example
+11	not ergative-absolutive
+12	Karagdagang paglilinaw
+13	Enclitic Particles
+14	Conjugation Chart
+15	Daw/Raw
+16	Because
+17	Comments
+18	Only 1 Citation after Three Years?
+19	Word Modifier
+20	Conjunctions?
+21	Unexplained parts
+22	Two different sections on 'trigger' vs 'focus'
+23	Causative, social and distributive *moods*?
+24	Variation between ang, 'yung and iyong and between ng, n'ung and niyong
+25	"Note that in the Philippine languages, even proper nouns require a case marker"?
+26	Syntax section too specialised and without explanations of function
+Untitled
+This article is much better suited for WikiPilipinas instead. Zollerriia (talk) 11:19, 11 February 2010 (UTC)
+
+Ergativity
+I'm making a report comparing the verbal systems of some languages, one of which is Tagalog, and all the information that I have found talks mainly about focused and non focused elements, but only here I have found this classification in ergative and absolutive cases. Are you really sure that it is so? Could you give some examples combining ergativity with focus?
+
+Does Tagalog qualify as an Ergative-absolutive language ?--Jondel 05:07, 31 Aug 2004 (UTC)
+
+Yes, it does. But ergativity is different in every language. Looking at the examples that were provided in that article that was written by the late Larry Trask, here's how I'd change it to reflect Tagalog.
+
+Gizona etorri da. "The man has arrived."
+Gizonak mutila ikusi du. "The man saw the boy."
+
+Dumating ang lalaki. "The man has arrived."
+Nakita ng lalaki ang bata. "The man saw the boy."
+
+'In Basque, gizon is "man", mutil is "boy", and a suffixed -a shows the definite form ("the"). You will notice that gizon is different depending on whether it is the subject of a transitive or intransitive verb. The first form is in the absolutive case (marked by a null morpheme) and the second form is in the ergative case (marked by a suffixed -k).
+
+In Tagalog, lalaki is "man", "bata" is "boy" and an article preceding it which could mean either "the" or "a". You will notice that the word preceding lalaki is different depending on whether it is the subject of a transitive or intransitive verb. The first form is in the absolutive case (marked by the article ang) and the second form is in the ergative case (marked by the article ng).
+
+There is a tendancy to say that Tagalog is usually spoken in the passive, but that analogy really isn't accurate.
+
+--Chris 04:40, 1 Sep 2004 (UTC)
+
+Thanks --Jondel 04:43, 1 Sep 2004 (UTC)
+Please see this note. Analyzing ergative features as passive voice was a common mistake in linguistics of old times, but it seems Tagalog is not ergative or accusative and there really isn't need to postulate a passive voice -- it's just a different type of language. --Pablo D. Flores 28 June 2005 11:22 (UTC)
+
+
+"Ergative or genitive markers mark the object (usually indefinite) of an intransitive verb ..." Can anyone explain this sentence? I don't know anything about Tagalog (that's why I'm reading!) but for me an intransitive verb doesn't have an object. I'm also interested to know if indefinite and definite objects are treated differently, which is what happens in Hungarian. Gailtb 11:25, 12 November 2005 (UTC)
+
+I would appreciate if the philippine languages were described paying more attention to what you can really find in these languages. There may be philippine languages (Kapampangan) which show an Ergative-System, but as I see it, Tagalog is not among them. My opinion is, that it is better to describe what you can see - even if at the moment it doesn't make a lot of sense - than trying to match an already known grammatical system upon a languages which doesn't fit. Some of you might remember the mistakes we made trying to describe the Basque language as a Nominative-Accusative-language based on what we knew from Indo-European languages. Finally I agree with Pablo D. Flores. It's just a different type of language. 84.119.42.143 (talk) 19:10, 24 May 2008 (UTC)
+
+Future aspect?
+My understanding was the aspect referred to in this article as future aspect should be more properly described as the contemplated aspect, which can translate into English using either the particles will or would. The difference between Tagalog contemplated and English future would then be that the speaker understands that there is a somewhat higher degree of uncertainty that the action will occur; or even that the action will not occur but is expressed to signify past intention. Consider the following sentence as an example of a non-future contemplated aspect using the particle sana:
+
+Matutulog na sana ako, pero dumating ka. (I would have already gone to sleep, but you arrived.)
+
+I'm a native English speaker, and am currently studying the language, so perhaps I've missed something. But if my impression is correct, should we change the article? - Ken A. 11/13/04 20:53
+
+I'm not comfortable with the word contemplated maybe unrealized would be better. In Waray-Waray this a contemplated or intentional aspect that refers to things that'll happen in the near future in addition to future/contemplated/unrealized aspect that Tagalog has. For now, I'd settle with future for the sake of simplicity unless you could propose something better.
+--Chris 16:15, 22 Dec 2004 (UTC)
+
+Bata
+bata in tagalog is NOT boy. It is kid in English
+
+Tama ka nga riyan - alam ko na iyan. Pero sa tingin ko, it's pretty much the same thing. --Chris 16:17, 22 Dec 2004 (UTC)
+It cannot be the same thing - Batang babae (a child who is a girl) and Batang lalaki(a child who is a boy)
+
+I have the option of specifying the gender of the child. I chose not to in the Tagalog version but did in the English. It depended on the context and sure enough, context refered to a boy. It's like "kapatid" which means sibling but people frequently translate it as brother or sister depending on the context. It's really no big deal. --Chris 03:35, 23 Dec 2004 (UTC)
+
+Mistake in example?
+Nakita ni Juan si Maria.
+"John saw Maria."
+
+Shouldn't this be "Maria saw John"?
+
+Since "Nakita" is actor focus and "Maria" has the absolutive marker, doesn't that make her the person that saw? (I'm just learning) --Person1
+
+Hi there. No, it's definitely "John saw Maria."
+Nakita is not actor focus, it's object focus and it's in the potential mode. If it were just in the regular or indicative mode, it'd be kinita but it's not used in Tagalog anymore(?). A related language, Tausug, uses the indicative mode; in which case it'd be kīta' ( kīta' < *kiyita') .
+In any case, the actor focus equivalent of the above sentence would be: Nakakita si Juan kay Maria. Remember that in the actor focus, the personal objects take kay rather than ni.
+Hope this helps... --Chris 18:28, 1 Feb 2005 (UTC)
+Thanks, but there's still something amiss. None of the object focuses, according to the focuses table in the article, give a "na" prefix. The only focus that does is the actor focus (type 3) in the "completed" sense. Is the table wrong or incomplete? --Person1
+The conjugation chart includes only the most basic prefixes. I didn't include affixes from the potential mode like maka-, makapag-, na-, ma-CV-, etc. Maybe that's something I can put in when I have time. --Chris 06:55, 2 Feb 2005 (UTC)
+OK, I've got it now, thanks. A particularly useful thing, if/when you have time, would be to add to the focus table any focuses used in the examples of the article. Currently the examples appear, to the non-tagalog speaker, to contradict the article. Thanks for writing the article. --Person1
+Why many people saying focus rather simply than subject of the sentences. Many of us complicating the simple grammatical role of the subject and verbs since they are all subjects and verbs. The general truth is the verb focuses only to its given objects, whether it is on passive or active. Tagalog only had the tendency to construct them on the same way. Filipino will not bloom if continue to do this practice sharing very old fashioned, nasty and confusing rather than simple yet effective informations. Rosemarie sarenas (talk) 19:09, 10 December 2015 (UTC)
+
+Correlation between markers and interrogatives
+It might be useful to demonstrate somewhere on the page the correlation between markers and interrogatives. The markers in Tagalog have correlating interrogatives which make it easier for a student to remember which to use.
+
+ 	Marker	Interrogative
+Locative	sa	saan
+Subjective	ang	ano
+Personal Subjective	si	sino
+Personal Posessive	kay	kanino
+Personal Posessive - object focus	ni	nino
+-	nasa	nasaan
+-	ba	bakit
+Verb conjugations
+Just how many forms of verbs do we have?
+
+And there are some modes not discussed. These verb forms have the same focus (object) but different meanings:
+
+Pínatay/pinatáy ko siyá.
+"I (intentionally) killed him."
+
+Nápatay/napatáy ko siyá.
+"I (accidentally) killed him."
+
+I think there should be an "intent" mode?
+
+And how to explain these cases? All have the same focus (akó) but the meanings are almost all different.
+
+Akó ang pumatáy sa kaniyá.
+"I am the one who killed him."
+
+Akó ang nagpatáy sa kaniyá.
+"I am the one who killed him."
+
+Akó ang nakápatay sa kaniyá.
+"I am the one who (unintentionally) killed him."
+
+Akó ang nagpapátay sa kaniyá.
+"I am the one who ordered him killed."
+
+Last example is different from [note the stress]:
+Akó ang nagpapatáy sa kaniyá.
+"I am the one who is killing him." (conjugate nagCV-, not conjugate nagpa-)
+And taking the root word lúto which means to cook, we have the following dizzying array of conjugations. Is there any encyclopedic way of explaining all of these? And include the grammatical umlaut of changing /o/ to /u/, or /p/ and /b/ to /m/ when morphing.
+
+maluto       maluluto                     naluluto                         naluto
+lumuto       luluto                       lumuluto                         lumuto
+magluto      magluluto                    nagluluto                        nagluto
+mangluto     mangluluto                   nangluluto                       nanluto
+lutuin       lulutuin                     linuluto                         linuto
+iluto        iluluto                      ilinuluto /iniluluto             ilinuto/iniluto
+lutuan       lulutuan                     linulutuan/nilulutuan            linutuan/nilutuan
+ipaluto      ipaluluto/ipapaluto          ipinaluluto/ipinapaluto          ipinaluto
+ipan[g]luto  ipan[g]luluto/ipapan[g]luto  ipinan[g]luluto/ipinapan[g]luto  ipinan[g]luto
+ikaluto      ikaluluto/ikakaluto          ikinaluluto/ikinakaluto          ikinaluto
+mapaluto     mapaluluto/mapapaluto        napaluluto/napapaluto            napaluto
+magpaluto    magpaluluto/magpapaluto      nagpaluluto/nagpapaluto          nagpaluto
+nakiluto     nakiluluto/nakikiluto        nakikipagluto                    nakipagluto
+makiluto     makiluluto/makikiluto        makikipagluto                    makipagluto
+?            pakiluto                     pikikiluto                       ?
+nakaluto     nakaluluto/nakakaluto        nakapagluluto/nakakapagluto      nakapagluto
+makaluto     makaluluto/makakaluto        makapagluluto/makakapagluto      makapagluto
+?            ?                            pakikipagluto                    ?
+I'm not even sure if all of the forms above are even valid. =P
+
+It's a wonder non-native speakers get to learn Tagalog at all. =) --seav 16:02, 12 November 2005 (UTC)
+
+To the person who brought up the other mode... You are correct. For each Indicative/Intentional mode/mood verb form there is a Potentive/Circumstantial form most of which start with m-' or n-, e.g., maka-, naka- for actor focused forms, ma-/na- for the other foci. Joemaza 16:45, 12 November 2007 (UTC)
+
+various comments about article
+Came across the article on Tagalog grammar (and talk page) a few days ago, during another online “hunting session” for information on Tagalog grammar. First time that I read about Tagalog as an “absolutive-ergative” language. I think, however, that such a designation is not entirely appropriate. Hope these comments can be of help. [**Would also like to know comments of others regarding my own questions.]
+
+Comment on "mag-ahit" and "umahit" - As a native-born Tagalog speaker, I haven't used or heard "umahit" to mean "to shave someone". There is a proper prefix for that: "mang-", therefore, to shave someone is "mang-ahit"! Mag-ahit ka ng balbas mong pagkahaba-haba na! = Shave your beard "that is so very long already"! I would say not all "um-" verbs have a "mag-" counterpart and vice versa. There is "umulan" but no "mag-ulan"; there is "magluto" but no "lumuto". There are the prefixes "i-" & suffix "-in" to fill the gaps. So, "to shave [the beard}" = "ahitin" and "to rain [on someone, something]" = "ulanin". Ahitin mo na nga iyang balbas mong pagkahaba-haba! = Will you shave that beard of yours that is so very long!Forming verbs from affixes and root words alone does not serve the purpose of giving factual examples. It can be tricky. [I am another commentator.]
+
+
+
+I. References
+
+Before anything else – the following article by Schachter explains the Tagalog focus system (which he terms “trigger” system) concisely:
+
+Schachter, Paul. “Tagalog.” In International Encyclopedia of Linguistics, Vol. 4, pp. 123-126. Ed-in-chief: William Bright. Oxford: Oxford University Press, 1992.
+
+I still recall the feeling of “eureka” I had when I first came across the article.
+
+The following article:
+
+Nikolaus P. Himmelmann. “Tagalog.” Artikel 135 in: Morphology: An International Handbook on Inflection and Word Formation, pp. 1473-1490. Edited by Geert Booij, Christian Lehmann, Joachim Mugdan & Stavros Skopeteas. Berlin: de Gruyter, 2005. [Manuscript turned in 9/1991!]
+
+gives a detailed explanation of the Tagalog grammar, including the focus system, the use of specific markers and verb affixes (and semantic difference between “maN-” and “-um-”) and the relationship of focus to aspect and mood. Himmelmann’s analysis of Tagalog verb aspects is also different from the more common division into perfective, continuous, and contemplated. I downloaded the online version of this article in 2004 from http://www.linguistics.ruhr-uni-bochum.de/~himmelmann/HSKM135_hp.pdf. Unfortunately, I again tried to access the article online today, but failed. Apparently the article is no longer on the site, but is still listed in http://www.linguistics.ruhr-uni-bochum.de/~himmelmann/publications.html
+
+
+II. Comments on absolutive-ergative classification of Tagalog
+
+In the article, the noun markers are called “case markers” and are classified as common and personal markers. However, it seems inappropriate to call these “case markers” because the use of these markers is dependent on the focus of the sentence
+
+First we consider the common markers. In the article they are listed as:
+
+                Absolutive	      Ergative	      Oblique
+Common singular   ang		   ng		   sa
+Common plural 	  ang mga	   ng mga	   sa mga
+As mentioned in the article: “Absolutive (or nominative) markers mark the actor of an intransitive verb and the object of a transitive verb. Ergative (or genitive) markers mark the object (usually indefinite) of an intransitive verb and the actor of a transitive one. They also mark possession. Oblique markers are similar to prepositions in English. They mark things such as location and direction.”
+
+However, some sample sentences will show that such is not the case:
+
+(1) Bumunot ng baril ang magnanakaw.
+    The thief pulled (out) a gun.
+(2) Nakita ng pulis ang magnanakaw.
+    A/The policeman/police officer saw the thief.
+    or: The thief was seen by a/the policeman.
+(3) Binigyan ang magnanakaw ng babala.
+    The thief was given a warning.
+(4) Hinanapan ang magnanakaw ng papeles.
+    (Identification) Papers were asked/demanded of the thief.
+(5) Tumakbo ang magnanakaw.
+    The thief ran.
+(6) Tinago ng magnanakaw ang baril.
+    The thief hid the gun.
+(7) Naghanap ang mga pulis ng magnanakaw.
+    The police [plural] searched for a thief.
+      [“magnanakaw” indefinite in this sentence]
+(8) Walang tumulong sa magnanakaw.
+    No one helped the thief.
+(9) Hindi nagbigay ng tulong ang mga tao sa magnanakaw.
+    The people did not give aid to the thief.
+(10) Nainis ang mga tao sa magnanakaw.
+     The people were annoyed at [or: disgusted with] the thief.  
+Consider the word “magnanakaw” (thief). Its situations in the above sentences are as follows:
+
+       Marker	 Focus or Not	  Semantic Role        Verb
+1        ang	      focus	      agent	      transitive
+2	 ang	      focus	      patient	      transitive
+3        ang	      focus	 benefactive/dative   transitive
+4	 ang	      focus	 oblique? locative?   transitive
+5	 ang	      focus	 agent/experiencer    intransitive
+6	 ng	    not focus	      agent	      transitive
+7	 ng	    not focus	      patient	      transitive
+8	 sa	    not focus	      patient	      transitive
+9	 sa	    not focus    benefactive/dative   transitive
+10	 sa	    not focus	      oblique		
+“Ang” can be the marker of the agent/actor of a transitive verb. It can also be the marker of arguments with other semantic roles. It appears then that neither the semantic role nor the transitivity of the verb predicts the marker for the noun argument (in this case, “magnanakaw”), but rather whether or not the argument is the focus. The use of “ng” and “sa” as genitive marker also conforms to this rule:
+
+(11) Nahanap ang baril ng magnanakaw.     [“baril” (gun) is focus]
+     The gun of the thief (or: thief’s gun) was found.
+(12) Ang baril na nahanap ay sa magnanakaw.	  [“baril” is focus]
+     The gun that was found was the thief’s.
+“Sa” is also used to mark location and direction.
+
+Substituting “ang magnanakaw” with “ang mga magnanakaw” (thieves) in sentences (1)-(5), “ng magnanakaw” with “ng mga magnanakaw” in sentences (6)-(7), and “sa magnanakaw” with “sa mga magnanakaw” in sentences (8)-(10) leads to the same conclusion. Thus, it is better to regard “ang” and “ang mga” as “focus markers” and the rest as “non-focus markers”.
+
+Now we analyze the personal markers. In the article, the personal markers are categorized as follows:
+
+                       Absolutive	     Ergative	       Oblique
+Personal singular	  si		   ni		   kay
+Personal plural 	  sina	           nina            kina
+Let us assume that the “thief” in the previous examples is named Pedro. We can substitute “si Pedro” for “ang magnanakaw” in sentences (1)-(5), “ni Pedro” for “ng magnanakaw” in sentences (6)-(7), and “kay Pedro” for “sa magnanakaw” in sentences (8)-(10).
+
+(13) Bumunot ng baril si Pedro.   
+     Pedro pulled (out) a gun.
+(14) Nakita ng pulis si Pedro.   
+     A/The policeman/police officer saw Pedro.   
+     or: Pedro was seen by a/the policeman.
+(15) Binigyan si Pedro ng babala.   
+     Pedro was given a warning.
+(16) Hinanapan si Pedro ng papeles.   
+     (Identification) Papers were asked/demanded of Pedro.
+(17) Tumakbo si Pedro.   
+     Pedro ran.
+(18) Tinago ni Pedro ang baril.   
+     Pedro hid the gun.
+(19) *Naghanap ang mga pulis ni Pedro.   
+     (The police searched for Pedro.)
+(20) Walang tumulong kay Pedro.   
+     No one helped Pedro.
+(21) Hindi nagbigay ng tulong ang mga tao kay Pedro.   
+     The people did not give aid to Pedro.
+(22) Nainis ang mga tao kay Pedro.                    
+     The people were annoyed at [or: disgusted with] Pedro.  
+The sentences are all fine, except (19), which is the supposed equivalent of sentence (7). Sentence (19) in itself is grammatically correct, but it is “incorrect” in the sense that it is not the intended statement. “Naghanap ang mga pulis ni Pedro” means “Pedro’s policemen searched (for someone/something)”. The “ni” in this sentence is understood as a genitive marker. Consider sentence (7) again:
+
+(7) Naghanap ang mga pulis ng magnanakaw.
+    The police searched for a thief
+In reality, “ng” in this sentence can be a genitive marker, so another interpretation of (7) could be “The thief’s policemen searched (for …)”. There is nothing against this interpretation on grounds of grammar. It is just that the situation is “less plausible” (policemen working under the thief) – which means the reason is not grammar but semantics. So the interpretation of “ng” as a patient marker is preferred, and “The police searched for a thief” would also be the “natural” or “automatic” translation most people would give for the sentence. (Consider “Naghanap ang mga pulis ng sarhento” which could be “The police looked for a sergeant” or “The sergeant’s policemen looked for…”)
+
+We see that “magnanakaw” preceded by “ng” becomes an indefinite argument – a thief, and not the thief in our “storyline”. By analogy, “ni Pedro” has to be interpreted as “a” Pedro, but this is impossible, because Pedro is a definite person. The alternative is to consider “ni” a genitive marker, so “ni Pedro” is understood to mean “of Pedro”, which makes the sentence sensible. To express the sense of “The police searched for Pedro” the marker used is “kay”:
+
+(23) Naghanap ang mga pulis kay Pedro.	[with “pulis” as agent focus]
+This can also be restated as:
+
+(24) Hinanap ng mga pulis si Pedro.   [with “Pedro” as patient focus]
+To express “The police searched for a Pedro [i.e., someone named Pedro], the common marker “ng” is used:
+
+(25) Naghanap ang mga pulis ng Pedro.
+In this case, “Pedro” functions like an indefinite common noun.
+
+“Ni” can only mark the agent of a transitive verb, as in (18). Although “ni” could properly be considered an ergative marker, “si” could not be considered an absolutive marker (because it can also mark the agent of a transitive verb: sentence (13)), and “kay” is not simply an oblique marker (because it can also mark the patient: sentence (23)). Therefore the categories of “absolutive”, “ergative”, and “oblique” are also not appropriate for the personal markers. Since “si” can mark the agent of a transitive verb and the patient of a transitive verb, the pronouns also do not conform to a tripartite system. [See wikipedia article on tripartite language.] They also do not seem to fit any language type of Milewski’s typology. [wikipedia article on morphosyntactic alignment]
+
+Now, the personal pronouns. In the article, the personal pronouns are classified as follows:
+
+                      Absolutive      Ergative	    Oblique
+1st person singular 	ako		ko 		akin
+1st person dual	       kata/kita	kita		kanita
+2nd person singular	ikaw (ka)	mo		iyo
+3rd person singular	siya		niya		kaniya
+1st per plur inclusive	tayo		natin		atin
+1st per plur exclusive	kami		namin		amin
+2nd person plural 	kayo		ninyo		inyo
+3rd person plural	sila		nila		kanila
+As in the case of the markers, the use of personal pronouns is also tied to the system of focus. To avoid confusion, we consider sentences with only one personal pronoun. For illustration, we use the 3rd person singular pronouns:
+
+(26) Nagturo siya ng matematika sa mga mag-aaral.  	
+       [“siya” is focus, agent; transitive verb]
+     He/She taught students/the students mathematics.	 	
+(27) Pinuri siya ng mga mag-aaral.	 		
+       [“siya” is focus, patient; transitive]
+     He/She was praised by students/the students.
+     [or: Students/The students praised him/her.]
+(28) Binigyan siya ng mga mag-aaral ng regalo.		
+       [“siya” is focus, benefactive (dative); transitive]
+     Students/The students gave him/her a gift.		  
+     [or: A gift was given to him/her by students/the students.
+          He/She was given a gift by students/the students.]
+(29) Kinunan siya ng litrato.	 [“siya” is focus, oblique?; transitive]
+     A picture of him/her was taken.
+(30) Umiyak siya.     [“siya” is focus, agent/experiencer; intransitive]
+     He/She cried.
+(31) Tinuruan niya ang mga mag-aaral ng matematika.       
+       [“niya” is agent, not focus; transitive]
+     He/She taught students/the students mathematics.		 
+(32) Nagpasalamat sa kaniya ang mga mag-aaral.	     
+       [“kaniya” is patient, not focus; transitive]
+     The students thanked him/her.			
+(33) Iniabot sa kaniya ang regalo.	  
+       [“kaniya” is benefactive, not focus; transitive]
+     The gift was handed to him/her.
+(34) Mahalaga sa kaniya ang pagtuturo.       
+       [“kaniya” is oblique argument, not focus]
+     Teaching is important to him/her.
+The marker “sa” is obligatory before “kaniya” (and similarly, “akin”, “amin”, “iyo”, etc.) when it is not used as a genitive. “Sa” is optional in genitive constructions; for example “kaniya ito” and “sa kaniya ito” both mean “this is his/hers”.
+
+Just like the markers, the personal pronouns are better classified as “focus” or “non-focus” rather than “absolutive”, “ergative”, and “oblique”. This also applies to the demonstrative pronouns.
+
+
+III. Comments on shift of focus
+
+Analyzing (7), (19), and (23), an interesting feature of common nouns can be discerned. Sentence (23) shows that for a proper noun (which is considered a definite argument), the noun can function as patient even with an agent focus. However, with a common noun, the noun cannot be definite and at the same time act as patient, in the presence of an agent focus. Consider:
+
+(35) *Naghanap ang mga pulis sa magnanakaw.
+In this sentence, “pulis” is the agent of the verb. The presence of “ang mga” indicates that “pulis” is the focus, while the presence of “sa” in this sentence indicates that “magnanakaw” refers to a definite thief. The sentence is incorrect, and has to be restated as:
+
+(36) Hinanap ng mga pulis ang magnanakaw.
+     Police/The police searched for the thief.
+Observation 1: If a common noun acts as patient, definiteness shifts the focus to the patient.
+
+The nature of the verb also affects the focus of the sentence. Consider:
+
+(37) Tumingin ako sa kaniya.      [“ako” is agent focus; “kaniya” is patient]
+(38) Tiningnan ko siya.	  [“siya” is patient focus; “ko” is agent]
+Both sentences mean “I looked at him/her.” In contrast:
+
+(39) Nakita ko siya.	[“siya” is patient focus; “ko” is agent]
+     I saw him/her.
+Sentence (39) cannot be restated with the agent (“I”) as the focus. It can only be paraphrased in a roundabout way, like:
+
+(40) Ako ang nakakita sa kaniya.
+     I was the one who saw him/her.
+Similarly:
+
+(41) Nakinig ako sa kaniya.
+(42) Pinakinggan ko siya.
+Both mean “I listened to him/her.” In contrast:
+
+(43) Narinig ko siya.
+     I heard him/her.
+The verbs “look (at)” and “listen (to)” are volitional verbs, whereas “see” and “hear” are non-volitional verbs. Observation 2: In a sentence with an agent, patient, and non-volitional verb, focus shifts to the patient.
+
+The two statements in bold are my personal observations. [**Can anyone confirm or negate them?]
+
+
+IV. Comments on Interrogative Words
+
+Two more interrogative words can be added to the list in the article. These are: tig-ilan – means “how many each”, pang-ilan – equivalent to Latin “quotus”
+
+(44) Tig-ilan ang nakuha nila?
+     How many each did they get?
+     or: How many did each one of them get?
+The answer is supposed to be a cardinal number with the first syllable reduplicated and also prefixed with “tig-”:
+
+(45) Tig-ilan ang nakuha nila?
+(46) Tig-lilima.
+     (They got) Five each.
+The plural form “tig-iilan” is also used.
+
+“Pang-ilan” is used when the expected answer is an ordinal number. It is used in the trick question:
+
+(47) Pang-ilang presidente ng Pilipinas si ____________?
+One is supposed to translate the question into English. The difficulty lies in the fact that “pang-ilan” has no exact English equivalent. The sentence could be translated in a roundabout way. For example:
+
+(48) Pang-ilang presidente ng Pilipinas si Manuel Quezon?
+     What is the number of Manuel Quezon in the order of Philippine 
+       presidents?
+       [** Perhaps someone could think of a better translation?]
+(49) Pangalawa.
+     Second. [i.e., He was the second President of the Philippines.]
+(50) Pang-ilan siya sa pila?
+     What is his/her place/position in line?
+(51) Pang-apat.
+     (He/She is) Fourth (in line).
+(52) Pang-ilan siya sa karera?
+     What is his/her place in the race?
+     or: What place did he/she win in the race?
+(53) Pangatlo.
+     (He/She took/won) Third (place).
+
+V. Comments about additional sections
+
+1. Some description of other pronouns is also needed. These include “mismo” (intensive pronoun), “bawat” (each, every), “pareho” (both).
+
+2. section on numerals: cardinal, ordinal, distributives (“tig-iisa”, etc.), multiplicatives (“doble”, etc.)
+
+3. section on nouns (existing section on Nouns discusses only the markers)
+
+
+202.81.182.139 18:08, 12 February 2006 (UTC)dnong
+
+
+I wish I had the time to read all your comments and improve the article based on that. I do want to address the absolutive-ergative thing. The "trigger system" stuff is outdated terminology and the current usage among linguists like Reid and Rubino is the absolutive/ergative distinction. So I think I'll leave that part intact. I'll address your comments hopefully when school's done next month. --Chris S. 04:18, 21 February 2006 (UTC)
+
+Thanks. I also tried searching the net for other discussions of the absolutive/ergative issue. The content of a number of sites/pages were just lifted from wikipedia articles. As for the others, they just left me more confused. (One site, for example, http://www.ling.hawaii.edu/afla/AbAldridge.htm, has a sample sentence "Ano ang bumabasa si Maria?" which apparently is not a typographical error.) Really looking forward to your comments (once you're free of course). 202.124.159.175 14:26, 27 February 2006 (UTC)dnong
+
+Oh, no. That's definitely wrong. --Chris S. 19:55, 27 February 2006 (UTC)
+Pronunciation
+I just want to share how some example Tagalog sentences in this article are actually pronounced in spoken Tagalog. (I'm a native Tagalog speaker, by the way.)
+
+Written --> Spoken
+
+Pupuntá sina Elena at Roberto sa bahay ni Miguél. --> Púpunta sina Elena at Roberto sa bahay ni Miguél.
+"Elena and Roberto will go to Miguel's house."
+
+Nasaán ang mga libró? --> Násaan ang mga libró?
+"Where are the books?"
+
+Ibibigáy ko [itó] sa kaniyá. --> Ibíbigáy ko [itó] sa kanyá
+"I will give it [or this] to her."
+
+Walâ táyong bigás. --> Walá tayong bigás.
+"We (you and I) don't have rice."
+
+Walâ kamíng bigás. --> Walá kamíng bigás.
+"We (someone else and I, but not you) don't have rice."
+
+Bibigyán kitá ng pera. --> Bíbigyan kitá ng pera.
+"I will give you money."
+
+Noóng batà pa akó, umiinóm akó ng kapé. --> Noóng bata pa akó, umiinóm [or umíinóm] akó ng kapé.
+When I was a child, I used to drink coffee.
+
+- Perryv 11:59, 13 July 2006 (UTC)
+
+Hi Perry. The accents are correct as they are. With pupunta, ibibigay, and bibigyan you are marking the secondary stress. The accents mark only primary stress which can only occur on the penult or final syllable. As for walâ, it is correct although Manileños tend to pronounce it as walá in a sentence while walâ at the end of a sentence. The same with batà. I suggest reading the section on phonology at the Tagalog language article. Thanks. And yes, I'm a native speaker who wrote this article. --Chris S. 02:25, 14 July 2006 (UTC)
+I am another native-born Tagalog speaker. In the cases of pupunta and nasaan, it seems the secondary stress is stronger than the primary stress, if that ever happens. In earlier grammars, we learned this as the "mariin" stress. Other examples are: táhanan; líbingan.
+
+Without getting into metrical theory, many roots have primary stress on the penult (syllable before last) and the ultima (last syllable). As a consequence, when a root is suffixed, that stress will shift over one syllable to the right to maintain the same stress pattern, again to the right of the syllable. Secondary stresses, do occur; however, you may be noticing the higher pitch and not the actual vocal stress. Joemaza (talk) 01:17, 26 January 2008 (UTC)
+In regards to the other stresses that you mention, please, explain those terms as I am not familiar with that terminology.
+It would be easier if you listed the terms that you do not understand. However, as this is wikipedia, you should be able to find articles on metrical stress. From that point we can talk more about the subject. Joemaza (talk) 01:17, 26 January 2008 (UTC)
+An -in/-an example
+The following example is quite easy to understand:
+
+Hanapan mo ako - find [one] for me!
+Hanapin mo ako - find me!
+But I don't know exactly where to put it. A few more examples like this would help to explain the difference between the types of focus. Gronky 14:52, 15 November 2006 (UTC)
+
+not ergative-absolutive
+I came across this page while researching materials for a grammatical sketch of Tagalog. I'm already using Schachter's rather longer summary The World's Major Languages (ed. by Bernard Comrie, 1990, Oxford University Press; pp 936-958), Schachter & Otanes, Ramos and Bautista, and other sources. dnong (I think that's the ID) wrote: First time that I read about Tagalog as an “absolutive-ergative” language. I think, however, that such a designation is not entirely appropriate. I agree. Thnidu 20:24, 13 March 2007 (UTC)
+
+My two cents: When doing a cross linguistic analysis, you will find that Maya grammar has a pronoun set similar to that of the Philippine languages. In addition, their use is similar: the "ko" set is used as the actor/subject marker AND as a possessive. And, Maya is designated as 'Ergative-Absolutive". Joemaza 17:01, 12 November 2007 (UTC)
+"new" discovery about ergative-absolutive issue: I had expressed my doubts more than 3 years ago (Feb 2006) about the classification of Tagalog as an ergative-absolutive language. It is still classified as such in the wikipedia "Tagalog grammar" article. However, the article "Austronesian alignment" (created in August 2006?) seems to offer a better explanation. In that article, the Philippine languages are considered as neither nominative-accusative nor ergative-absolutive. The "focus" system ("focus" is supposedly also used in linguistics in another sense) or voice system of Philippine languages is termed "Austronesian type," not exactly identical to the nominative-accusative or ergative-absolutive systems. (I had added this comment last week as a new section, but it was removed because it was somehow considered "vandalism.") 125.5.36.66 (talk) 09:28, 13 July 2009 (UTC)dnong
+
+Assuming bumasa ng aklat ang tao "the person (tao) read a book (aklat)" is correct Tagalog, it's not very sensible to call ng "ergative": the patient of a clause cannot be ergative, even when antipassive. I will rewrite the article to call ng "indirect" (=erg or acc, depending on the focus of the verb) and ang "direct". kwami (talk) 14:00, 9 April 2010 (UTC)
+Karagdagang paglilinaw
+Sa bahagi ng 'Locative', 'di ba ang "Binilhán ng lalaki ng saging ang tindahan" sa Ingles ay "The man bought bananas for the store" at hindi "...at the store"? Sa palagay ko'y may kailangang baguhin sa pangungusap na ginamit sa halimbawa. Sinomang nais magsagawa ng isang pagpuna sa nasabi ko ay maaaring magsulat sa ibaba. Salamat. Ü Zxyggrhyn 14:22, 27 June 2007 (UTC)
+
+To open this discussion up to those who do not understand Tagalog, but would like to participate:
+In the 'Locative' section, isn't "Binilhán ng lalaki ng saging ang tindahan", "The man bought bananas for the store" in English and not "...at the store"? I think it necessary to update the sentence used as an example. Whoever wants to add a comment (or criticism) regarding what I've said, should write below. (This is a rather rough translation)
+Response: According to the markers, it is correct. Binilhan is in the 'Locative' focus; the 'location' must be marked with 'ang'. But, I do see where could be some confusion, maybe a simpler sentence where there is only one oblique argument would suffice: Pinuntahan ng lalaki ang tindahan, The man went to the store. If it were inflected for such a meaning (it's rather absurd in some sense, but plausible): Ibinili ng lakaki ng saging ang tindahan., The man bought bananas (the bananas) for the store.
+Joemaza 17:24, 12 November 2007 (UTC)
+Enclitic Particles
+Tagalog particles are independent at least in writing. A good example, ba.
+
+Pumunta ba kayo?
+...BUT...
+
+Pumunta ka ba?
+If it were enclitic, then neither ka nor other monosyllabic pronouns could intervene, yet they do.
+
+Joemaza 17:32, 12 November 2007 (UTC)
+I changed the heading. Joemaza (talk) 10:24, 28 October 2008 (UTC)
+
+Conjugation Chart
+I see superscript numerals, but I don't see where they refer. After a second look, I finally get what's going on. But, just to be sure, could they link to some reference or footnote?
+
+Joemaza 17:49, 12 November 2007 (UTC)
+Hi Joe! It just means it's the first type, second type, third, etc. Should it be something different? --Chris S. 18:37, 12 November 2007 (UTC)
+Oh, OK. Maybe a foot note to the section inticating what the superscripts are for. Or, maybe another way like Actor Focus (1)... But, overall this is a big artcle and I admire your work and the work of others to disseminate this information. Joemaza (talk) 01:23, 26 January 2008 (UTC)
+Daw/Raw
+Can someone explain what the phrase "actual translations..." is in reference to?
+
+Also, I've seen the exact, perplexing, inane paragraph that is not germain the the "particles" and is overly done at the end of the section. BTW, it was too confusing that I removed in in the Iloko Grammar article. —Preceding unsigned comment added by Joemaza (talk • contribs) 10:28, 28 October 2008 (UTC)
+
+Because
+The text towards the end of the Particles section should be reworded and put into the section regarding subordinating conjunctions NOT in the particles sections. It just muddies the section. —Preceding unsigned comment added by Joemaza (talk • contribs) 10:34, 28 October 2008 (UTC)
+
+Comments
+If we look at constructions with "agent focus" such as "Bumili ng mangga ang babae" "the woman bought mangoes", the allegedly "ergative" marker is actually used as an accusative there (quite abnormal for an ergative lang). Obviously, then, it makes more sense to call it simply an "indirect" marker as in the Austronesian alignment article. Alternatively, the erg analysis would be saved by the claim that "agent focus" is somehow a secondary voice (antipassive), while "object focus" is the default (I don't know just how true this is, b/c I don't speak the language; but if it so, why is "agent focus" listed first and "object focus" second?) The other focuses are then ... God knows what. In any case, the current article is very misleading in not mentioning this issue, and in not explaining in more detail how "focus" and case interact. --130.237.199.85 (talk) 10:19, 4 September 2009 (UTC)
+
+I cleaned it up a bit. There is no passive/antipassive in the sense of a derived intransitive; rather, both voices are transitive and are distinguished by semantic markedness. Patient trigger is the more common / default, which is what gives rise to ergative analyses. Best IMO to avoid both erg/abs and nom/acc terminology altogether; various authors also prefer to avoid voice/focus terminology. kwami (talk) 15:38, 9 April 2010 (UTC)
+This article is very unreliable even native speakers like me can never understand the contents of this. Rosemarie sarenas (talk) 18:49, 10 December 2015 (UTC)
+
+Only 1 Citation after Three Years?
+With so much text and only one citation, I am inclined to think that this is a poor entry that probably infringes on someone's copyrighted material, or is perhaps original research. In any case, I am considering excising a large amount of unsourced text, as this article clearly does not meet Wikipedia's quality standards. I may also nominate it for deletion.Elchori01 (talk) 14:56, 24 October 2011 (UTC)
+
+I agree with you. This not only a poor one but a disaster. Even native speaker like me, it made me like a foreigner. It complicates all the simple aspects. Rosemarie sarenas (talk) 19:25, 10 December 2015 (UTC)
+
+I don't think you realize that Wikipedia isn't here to make things complicated or uncomplicated. Also, as a native speaker of Tagalog myself, the grammar--and, therefore, the terms used to describe it--can be so much more complicated than you may think. Native speakers have tacit knowledge of the language; they just know how to speak it but might not be able to articulate the reasons behind each of the complex rules of the language. What we need on this article is explicit knowledge.
+That said: yes, this article is not very well-sourced and could definitely be improved on greatly to make the information clearer and more accessible. Mr. Gerbear|Talk 04:29, 13 December 2015 (UTC)
+Word Modifier
+I want to add to the article on the prefixes/suffixes used in Tagalog language, which can create a new word/meaning from the base word.
+
+Example:
+
+word	affix	meaning	notes
+kain	-	eat
+kumakain	-uma-	eating
+kumain	-um-	ate
+kinain	-in-	(was) eaten
+kakain	-ak-	will eat	repetition of first syllable
+kainan	-an	restaurant, dining feast
+pagkain	pag-	food
+Another example:
+
+word	affix	meaning	notes
+aral	-	study
+mag-aral	mag-	to study
+mag-aarál	mag-a-	student	stress on fourth syllable
+mag-aáral	mag-a-	will study	stress on third syllable
+pinag-aaral	pinag-a-	being urged or helped to study
+nag-aral	nag-	studied
+paaralan	pa- -an	school
+Chitetskoy (talk) 05:11, 27 December 2012 (UTC)
+
+It seems to me that a large part of this overlaps with the verb conjugation section, so should probably go there instead. But a section on affixes and word derivation in general would be nice, yes, perhaps merging Common Noun Affixes and the rest of your new material into a new section.
+On a related note, this entry has too few references as it is, and it would be good to provide references for all new or planned material, so the problem doesn't get worse, at least. do you have any sources for your text? The Crab Who Played With The Sea (talk) 12:07, 27 December 2012 (UTC)
+Conjunctions?
+There is a section for conjunctions, but now, it's empty, save for the headings and a hidden comment. That section is helpful, but why remove it, instead of addressing any issue, like sources, tone, or grammar? TagaSanPedroAko (talk) 07:20, 29 July 2017 (UTC)
+
+Unexplained parts
+The article doesn't explain how the directional and reciprocal trigger verb forms are constructed, and it also doesn't say anything about the cases in which man- (or is it mang-, as the table asserts?), i.e. Actor Trigger IV, is used. Also, a 'potentiative' form is mentioned once in passing, but never introduced or explained. The ways in which the distributive and social 'moods' are formed are not stated either and the examples are insufficient for people who don't already know the language. The meaning of the distributive is neither explained nor made clear by the example, and the usual meaning of the term 'distributive' doesn't seem to fit the example in any obvious way.--94.155.68.202 (talk) 10:00, 16 September 2018 (UTC)
+
+Two different sections on 'trigger' vs 'focus'
+These are the same things from slightly different theoretical perspectives, yet they are presented as two different categories in two different sections, partly contradicting each other (with the latter asserting irregularity, for instance).--94.155.68.202 (talk) 14:57, 16 September 2018 (UTC)
+
+Causative, social and distributive *moods*?
+And are the causative, social and distributive really considered moods in Tagalog grammar, given that these are not modalities at all from a semantical point of view? They have nothing to do with the opposition between indicative and imperative, since you can, logically, command people to do something collectively or to cause other people to do something. --94.155.68.202 (talk) 15:59, 16 September 2018 (UTC)
+
+Variation between ang, 'yung and iyong and between ng, n'ung and niyong
+These are given as variants in the table, but it is not explained whether the variation is stylistic, dialectal or determined by something else.--94.155.68.202 (talk) 16:12, 16 September 2018 (UTC)
+
+"Note that in the Philippine languages, even proper nouns require a case marker"?
+What is the point of this note? In which languages do proper nouns *not* require a case marker? Or is this just because of the imprecise intuitive identification with English articles, which really aren't required by proper nouns?--94.155.68.202 (talk) 16:14, 16 September 2018 (UTC)
+
+Syntax section too specialised and without explanations of function
+The stuff towards the end, with subject lowering, the prosodic constraint WeakStart and God knows what else is extremely abstract - generativist talk of no use to most readers who just want to learn how the language works. Whatever useful insights there are in it should be possible to reformulate in a theory-neutral, widely accessible way. At the same time, something much more important is omitted - it is never explained what the functional difference is between the different word orders, including both the mutual (re)arrangement of the noun phrase complements after the verb and the constructions with fronting. Such information would be of interest to far more readers. Not to mention that image 13b is missing and there is a second copy of 13a instead. --94.155.68.202 (talk) 20:46, 17 September 2018 (UTC)
+
+Categories: Start-Class language articlesUnknown-importance language articlesWikiProject Languages articlesStart-Class Philippine-related articlesMid-importance Philippine-related articles
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditNew sectionView historySearch
+Search Wikipedia
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Interaction
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Print/export
+Create a book
+Download as PDF
+Printable version
+
+Languages
+This page was last edited on 17 September 2018, at 20:46 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaDevelopersCookie statementMobile viewWikimedia Foundation Powered by MediaWiki
