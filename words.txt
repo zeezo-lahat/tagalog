@@ -79,6 +79,7 @@ bahíng	sneeze (also bahín)
 baít	kindness; the mind
 bakâ	perhaps, maybe, might
 bakasakalì	by chance
+bakbák	detached
 bakla	gay, homosexual
 baklás	pry off, detach from
 bakuna	vaccine
@@ -127,6 +128,7 @@ batikán	spotted, tried, tested, expert
 bato	a stone, rock; kidney; something to throw
 bawal	prohibited
 bawas	discount, reduction
+bawas-perwisyo	harm reduction
 bawat	(bawa't) each, all, every, often followed by "lahat" or "isa"
 bawì	retraction, recovery
 bawiin	to take something back
@@ -453,6 +455,8 @@ ipatapon	to exile
 ipatupád	to enforce
 ipayo	to advise
 ipIt	to be squeezed, caught in something (lit. or fig.)
+ipon	gather, collect
+ipunin	to gather, collect, save
 ipuwesto	to install in place
 isagawa	to put into effect
 isahod	catch something falling
@@ -679,6 +683,7 @@ lapitan	to come near something
 lasa	the taste or flavor of something
 lata	can
 lawak	expanse, extent, area
+lawig	long duration (less commonly used than tagal)
 layà	freedom, liberty
 layo	far away
 liban	absence, absent, an omission
@@ -712,6 +717,7 @@ lumakas	became stronger, recuperated
 lumangoy	to swim/swam
 lumapit	to approach
 lumawak	to expand, to spread
+lumawig	to prolong
 lumaya	to become free
 lumayo	go/stay/keep away
 lumimot	to forget
@@ -835,6 +841,7 @@ maínam	pleasant, tasty, good, exquisite, delicate; elegant, gentile
 maingay	noisy
 mainis	to be annoyed
 makabayan	patriotic
+makaipon	to be able to save (money, etc)
 makaisip	to be able to think
 makakalimutin	forgetful
 makakasama	able to go with
@@ -1139,6 +1146,7 @@ palakasan	a competition to see who’s stronger
 palamigan	a cooler
 palamigin	to chill, refrigerate
 palawakin	to expand even more
+palawigin	to extend the time
 palay	unhusked rice grains
 palaya	free
 palayain	to free someone/something
@@ -1199,6 +1207,7 @@ pasamain	to make worse
 pasarapin	to make delicious
 pasaway	contrarian, hardheaded, stubborn, difficult
 pasók	entry, admission; work, school
+patagalin	to make longer
 patagilid	sideways
 patak	drop
 patawad	forgiveness, apology
@@ -1221,6 +1230,7 @@ payat	thin, slender
 payo	guidance, advice
 payong	umbrella
 payuhan	to advise
+perwísyo	damage
 pikón	quick to anger
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
