@@ -266,6 +266,8 @@ galák	joy, delight
 galakín	to cheer up someone
 galamáy	tentacle; helper, enabler
 galang	respect
+galaw	movement
+galawin	to move, disturb something
 gáling	from where
 galíng	merit, skillfulness, proficiency
 galít	angry
@@ -310,6 +312,7 @@ gúlong	to roll
 gulóng	wheel
 gulpí	to beat up; to hit, strike
 gumaling	to get better from a sickness
+gumalaw	to move
 gumanap	to perform, act
 gumanda	beautify
 gumasta	to spend money
@@ -409,6 +412,7 @@ idaan	to drop something by
 idiin	to stress, emphasize
 idlíp	dozing off for a bit, snoozing, napping
 igalang	to honor, respect
+igalaw	to move something
 igiit	insist on; persist; obtrude; force one’s way (iginiit, iginigiit, igigiit)
 igisa	to sauté/stir-fry something
 ihayag	disclose, reveal, divulte
@@ -505,7 +509,7 @@ kaguluhan	melee, confusion
 kahabaan	length, extent
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
-kahit	although, even if, in spite of
+kahit	although, even if; in spite of (kahit na)
 kaingayan	noisiness
 kailángan	to need
 kaisipan	the mind, intellect, attitude
@@ -521,7 +525,7 @@ kalayaan	freedom
 kalikasan	nature
 kakulitan	peskiness, badgering
 lawit	suspended, hanging
-kalimItan	normally, usually
+kalimItan	normally, typically, usually
 kalimutan	to forget
 kalsada	road
 kalungkutan	sadness
@@ -659,7 +663,7 @@ lakas-loob	courage
 lalagyan	container where something is placed; will place in
 lalakwe	gay
 lalò	more, increasingly, very, especially
-lamang	only
+lamang	only, even, mere
 lamangan	advantage over others
 lambót	softness, tenderness
 lamig	coldness
@@ -711,6 +715,7 @@ lumawak	to expand, to spread
 lumaya	to become free
 lumayo	go/stay/keep away
 lumimot	to forget
+lumindol	to have an earthquake
 lumipad	to fly, take off, flew
 lumipad-lipad	to hover
 lungkot	sadness, sorrow
@@ -738,6 +743,7 @@ mabilis	fast, quick
 mabilis	rapidly
 madaanan	passable, drivable
 madahan	slow
+madAlang	seldom
 madalás	frequently
 madalI	easy
 madaling-araw	“soon to be day” = dawn
@@ -922,7 +928,7 @@ masayá	happy, fun
 masikap	diligent, industrious
 masipag	hardworking
 masira	spoil, damage, break down
-maski	even (maski na: even though)
+maski	even, mere (maski na: even so/though)
 masyado	"too", more, exceedingly, very (labis)
 matá	eye
 mataás	tall, high
@@ -1104,6 +1110,7 @@ pahingi	"please give me.." (hingi. var: "pengi")
 pahintulot	permission, authorization
 pahiram	"may I borrow..."
 pahirap	burden
+pákay	purpose, aim
 pake	slang abbrev of pakialam. to have a shit to give.
 paki-abot	"please pass.."
 pakialam	caring/concern
@@ -1288,6 +1295,7 @@ salâ	broken, dislocated (bones)
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 sali	to join
+salisi	alternately, in opposite directions
 salitâ	word; language; talk
 salitain	to put into words
 salpók	collision, impact (syn of banggâ)
@@ -1347,7 +1355,7 @@ sirà	break, damage, ruin (milder than wasak)
 sirâ	broken
 siraulo	brain-broken (crazy)
 sisánte	dismiss, sack, fire
-sitserya	junk food
+sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
 siyá	he, she, it, other meanings used in short phrases
 siyanga	of course, indeed
