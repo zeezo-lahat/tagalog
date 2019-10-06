@@ -145,6 +145,7 @@ bigay-sala	accusation
 bigay-todo	giving one’s all
 bigô	frustrated, disappointed; failure
 bigyan	to give something
+bihira	seldom
 bílang	number; "as X"
 bilanggo	prisoner, captive
 bilangguan	jail
@@ -361,6 +362,7 @@ hiling	a request, claim, application
 himalâ	miracle
 hímig	tune, melody; note
 hinalà	suspicion
+hinding-hindi	never
 hingi	to ask for something; a request
 hingin	to ask for something
 hintay	wait
@@ -490,7 +492,7 @@ kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabulagan	state of blindness
 kabuuan	composition, entirety
-kadalasan	often, frequently, usually
+kadalAsan	frequently, usually
 kadena	a chain
 kagabí	last night
 kagagawan	responsibility for
@@ -519,6 +521,7 @@ kalayaan	freedom
 kalikasan	nature
 kakulitan	peskiness, badgering
 lawit	suspended, hanging
+kalimItan	normally, usually
 kalimutan	to forget
 kalsada	road
 kalungkutan	sadness
@@ -646,7 +649,7 @@ labás	outside
 labì	lip, brim; excess; remains (as of a body)
 labis	surplus, excess, too/so much
 lagáy	to put; a bribe
-lagi	always, often
+lagi	always
 lahì	(also láhi) race, people, breed, lineage
 lahók	entry; something included
 lákad	walk
@@ -863,6 +866,7 @@ mali	wrong
 maliban		absent / if not ('maliban kung': unless, if not)
 maligáya	happy, joyful
 malilimutin	forgetful
+malImit	often
 malimutan	to forget, neglect
 malinis	clean, neat, hygienic; clear, chaste
 malisya	malice
@@ -918,6 +922,7 @@ masayá	happy, fun
 masikap	diligent, industrious
 masipag	hardworking
 masira	spoil, damage, break down
+maski	even (maski na: even though)
 masyado	"too", more, exceedingly, very (labis)
 matá	eye
 mataás	tall, high
@@ -952,7 +957,7 @@ mayaman	rich, wealthy
 maya-maya	a bit later (today)
 mayari	to be finished, to be made
 mga	pluralizer; about, approximately
-minsan	once, at one time, sometimes
+minsan	sometimes; once, at one time
 minsanan	a one-time thing
 mismo	myself, himself, herself; exactly, precisely
 mukha	face; seems, appears to be, "looks X"
@@ -1140,7 +1145,7 @@ pambansâ	national
 pamigay	giveaway
 pamiliin	to let someone choose
 pamilya	family
-paminsan-minsan	sometimes, from time to time
+paminsan-minsan	occasionally, from time to time
 panahon	time; season, weather; all the days there have been or ever will be
 panalunan	winnings
 pananakot	scaring, intimidation
@@ -1342,6 +1347,7 @@ sirà	break, damage, ruin (milder than wasak)
 sirâ	broken
 siraulo	brain-broken (crazy)
 sisánte	dismiss, sack, fire
+sitserya	junk food
 siwalat	to disclose, reveal, confess
 siyá	he, she, it, other meanings used in short phrases
 siyanga	of course, indeed
