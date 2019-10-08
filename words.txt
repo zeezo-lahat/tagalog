@@ -14,8 +14,8 @@ akalà	idea, belief/thought/assumption (often incorrect)
 akto	doing, acting, performing, behaving, carrying out (actor)
 alaála	memory, keepsake, souvenir
 alabok	dust
-alagà	ward
 alaga	to care for, to protect
+alagà	ward
 alagad	follower, disciple
 alahas	jewelry
 alak	alcohol
@@ -94,9 +94,8 @@ balikat	shoulder
 balot	wrapper, wrapping
 banál	holy, virtuous, blessed
 banat	stretching, tense, stretched, hitting
-banatin	to stretch by pulling
-mabanatan	to be beat up
 banatan	to go hard at someone/something
+banatin	to stretch by pulling
 bandá	place, part, near, around, towards (hard to translate, various uses)
 banggâ	collision, bang into
 banggit	mention
@@ -211,8 +210,8 @@ dagdag-singil	price hike
 dahán-dahán	slowly
 dahil	because
 dahilan	reason (noun)
-dalâ	to be wary
 dalá	carried, brought; accompanied/caused by
+dalâ	to be wary
 dalás	frequency
 dálaw	visit; guest
 dalhin	to bring, carry
@@ -237,11 +236,7 @@ dating	arrival
 dati-rati	formerly, previously
 dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
 dayà	deceit, fraud
-magdaya	to cheat, trick
 dayain	to cheat someone
-mandaraya	cheater
-mandaraya	one who goes around the rules
-pandaraya	act of cheating
 dayo	visitor, stranger, foreigner
 dayúhan	foreigner
 detálye	detail
@@ -323,8 +318,8 @@ gulo	disorder
 gúlong	to roll
 gulóng	wheel
 gulpí	to beat up; to hit, strike
-gumaling	to get better from a sickness
 gumalaw	to move
+gumaling	to get better from a sickness
 gumanap	to perform, act
 gumanda	beautify
 gumasta	to spend money
@@ -528,21 +523,20 @@ kahabaan	length, extent
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
 kahit	although, even if; in spite of (kahit na)
-kaingayan	noisiness
 kailángan	to need
+kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
 kakambal	fellow twin, being like someone
+kakulitan	peskiness, badgering
 kalaban	opponent
+kalagayan	state or condition
 kalahati	half
 kalahok	contestant
 kalaro	playmate, play partner
-kalawakan	space, especially referring to outer space
 kalát	scattered, disordered, spreading as on internet
-kalagayan	state or condition
+kalawakan	space, especially referring to outer space
 kalayaan	freedom
 kalikasan	nature
-kakulitan	peskiness, badgering
-lawit	suspended, hanging
 kalimItan	normally, typically, usually
 kalimutan	to forget
 kalsada	road
@@ -616,8 +610,8 @@ katawAn	body
 katibayan	proof
 katiwalian	irregularity, corruption
 katotohanan	the truth
-katUmbas	an equivalent
 katúlad	like, similar
+katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
@@ -699,6 +693,7 @@ lasa	the taste or flavor of something
 lata	can
 lawak	expanse, extent, area
 lawig	long duration (less commonly used than tagal)
+lawit	suspended, hanging
 layà	freedom, liberty
 layo	far away
 liban	absence, absent, an omission
@@ -724,11 +719,11 @@ lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
 lubhâ	extremely
 lubóg	submerged, sunken, buried (lit. or fig.)
 lumà	old, not new, antiquated (used for objects, not like matanda)
-lumalâ	became worse
 lumabág	to violate (eg, the law)
 lumagi	to remain (lagi)
 lumakad	to walk
 lumakas	became stronger, recuperated
+lumalâ	became worse
 lumangoy	to swim/swam
 lumapit	to approach
 lumawak	to expand, to spread
@@ -755,6 +750,7 @@ mababa	low
 mababawi	to undo something
 mabAgal	slow
 mabaít	nice, kind
+mabanatan	to be beat up
 mabanatan	to be beat up
 mabasag	to be broken
 mabatid	to be informed
@@ -785,6 +781,7 @@ magbitiw	to resign; to utter - "let go" word(s)
 magbulag-bulagan	pretend to be blind
 magbuo	to assemble, complete
 magdasal	to pray
+magdaya	to cheat, trick
 magdikit	to stick together
 maghawak	to hold each other by the hand
 mag-iba	to change or switch
@@ -911,6 +908,8 @@ mamayâ	later (today)
 mamulot	to pick up things, glean
 man	although, even if, with, too
 manatili	to stay, be permanent (check into this word further)
+mandaraya	cheater
+mandaraya	one who goes around the rules
 mang-aagaw	someone who snatches away (a thing or lover)
 mangako	to promise
 manghamak	to insult, disparage
@@ -1118,11 +1117,11 @@ pagsikláb	blazing, outbreak
 pagsisikap	attempt, effort, enthusiasm, zeal
 pagsumikapan	to strive
 pagtanggal	removal
-pagtatanggál	removal
 pagtanggap	a welcoming; reception; acceptance
-pagtutuloy	continuation
+pagtatanggál	removal
 pagtutol	resistance
 pagtutulad	(simile)
+pagtutuloy	continuation
 pagtutunton	giving guidance at the start
 pagulungin	to roll an object; cause to roll
 pag-uwi	upon returning home
@@ -1155,13 +1154,13 @@ palabaybayan	spelling
 palagay	opinion, judgement
 palagian	regular, steady (lagi)
 palainom	habitual drinker
+palakasan	a competition to see who’s stronger
 palakasan	a strength competition
 palakasin	to strengthen something
-palangiti	always smiling
-palatawa	laughing all the time
-palakasan	a competition to see who’s stronger
 palamigan	a cooler
 palamigin	to chill, refrigerate
+palangiti	always smiling
+palatawa	laughing all the time
 palawakin	to expand even more
 palawigin	to extend the time
 palay	unhusked rice grains
@@ -1182,6 +1181,7 @@ paminsan-minsan	occasionally, from time to time
 panahon	time; season, weather; all the days there have been or ever will be
 panalunan	winnings
 pananakot	scaring, intimidation
+pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing
 pangako	promise
@@ -1332,11 +1332,11 @@ salúkoy	root of kasalukúyan.  root word not commonly used.
 samâ	bad, evil, wicked
 sáma	to go with, join, accompany
 samahan	to accompany someone
-samantalá	to capitalize, take advantage of
+samakalawá	on the day after tomorrow
 samantala	meanwhile, while, for the time being
+samantalá	to capitalize, take advantage of
 samantalahIn	to take advantage of
 sama-sama	together (multiple)
-samakalawá	on the day after tomorrow
 samsám	confiscation, seizure
 sana	I hope, I wish
 sanay	practice
@@ -1415,8 +1415,8 @@ sundálo	soldier
 sundin	to obey (sunod)
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
-súnog	fire
 sunóg	burnt
+súnog	fire
 suntok	a fist punch
 suót	clothes
 suutan	to dress someone
