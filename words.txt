@@ -800,7 +800,8 @@ magkamali	to make a mistake
 magkanó	how much?
 magkapareho	the same (ref. to two things/people)
 magkapatid	siblings
-magkaroón	to have/happen/take place; be affected
+magkaroón	
+magkaroon	to come to have, to have happen, to acquire (doon)
 magkasama	together
 magkatulad	similar (two things)
 maglagi	to stay(??)
@@ -1097,6 +1098,7 @@ pag-iba	love
 pagkabulag	blindness
 pagkagising	upon waking
 pagkakaalam	knowledge
+pagkakaroon	having, availability
 pagkakasundo	consensus
 pagkatalo	defeat
 pagkatao	character
