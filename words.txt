@@ -228,6 +228,7 @@ damot	stinginess, selfishness
 dánas	experience
 dapâ	to trip, fall over
 dapat	should, ought to, must
+dapatwa	but, however (an "old word")
 dasal	prayer
 dasalan	book of prayer, place of prayer
 dáti	former(ly), previous(ly), old, ex
@@ -522,7 +523,7 @@ kaguluhan	melee, confusion
 kahabaan	length, extent
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
-kahit	although, even if; in spite of (kahit na)
+kahit	despite, although, even if (in spite of: kahit na)
 kailángan	to need
 kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
@@ -1038,6 +1039,7 @@ nakaraan	past, previous (daan)
 nakarananas	is experiencing (dánas)
 nakatagilid	askew, tilted
 nakatakda	is set, fixed (in time, amount, etc.)
+nakatikim	to have tasted/tried something
 nakatutulong	helpful
 nakauuhaw	causing thirst
 nakaw	stolen item
@@ -1098,8 +1100,10 @@ pag-iba	love
 pagkabulag	blindness
 pagkagising	upon waking
 pagkakaalam	knowledge
+pagkakagusto	the state of liking someone or something, infatuation
 pagkakaroon	having, availability
 pagkakasundo	consensus
+pagkakataon	an opportunity or occasion
 pagkatalo	defeat
 pagkatao	character
 paglabág	violating; in violation
@@ -1393,6 +1397,8 @@ siwalat	to disclose, reveal, confess
 siyá	he, she, it, other meanings used in short phrases
 siyanga	of course, indeed
 sóbra	too much; excessive
+subali	objection or reservation
+subalit	but, however (subali't)
 subok	trying, trial, test, experiment; proven
 subukan	to try; to try (taste, etc.) something
 súgat	cut, sore, wound
@@ -1472,6 +1478,7 @@ tangkád	tallness and slenderness
 tanong	question
 tantô	realize, understand
 táo	person
+taón	year
 tapát	honest, upright, honorable
 tapát	the place in front, that which is across, in front of
 tapon	to throw (away)
@@ -1479,6 +1486,7 @@ tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
 tauhan	underling, staff, personnel; character in a performance
+taunan	annual, yearly
 tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
 tayútay	figure of speech
@@ -1487,7 +1495,7 @@ tibay	sturdiness
 tigás	hardness, toughness, stiffness
 tigil	stop, pause
 tikim	to taste, to try
-tikmán	to taste 
+tikmán	to taste something (tikim)
 tíla	apparently
 tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
