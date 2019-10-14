@@ -7,7 +7,8 @@ abot-tanaw	horizon
 abutan	to hand something over
 abutin	to reach for
 agad	immediately, at once, quickly
-agad-agad	very quickly
+agad-agad	at once, very quickly
+agam-agam	doubt; hesitation; suspicion
 ágap	quickness, alertness, anticipation
 agaw	to snatch, grab
 akalà	idea, belief/thought/assumption (often incorrect)
@@ -119,6 +120,7 @@ baryo	barrio
 bása	to read / reading
 basâ	wet (adj.)
 baság	cracked, broken, shattered
+basag-ulo	a quarrel
 basagulero	troublemaker
 basag-ulo	“broken head” = quarrel
 báso	drinking glass
@@ -130,7 +132,7 @@ bátáyan	ground, basis, cause
 batayán	standard, criterion
 batíd	known, awareness (slightly formal term)
 batikán	spotted, tried, tested, expert
-bato	a stone, rock; kidney; something to throw
+bato	a stone, rock; kidney; something to throw, throwing
 bawal	prohibited
 bawas	discount, reduction
 bawas-perwisyo	harm reduction
@@ -150,6 +152,8 @@ bigay-alam	notice/notification
 bigay-hilig	indulgence
 bigay-sala	accusation
 bigay-todo	giving one’s all
+bigla	sudden, immediate, unexpected
+biglang-bigla	suddenly, unexpectedly
 bigô	frustrated, disappointed; failure
 bigyan	to give something
 bihira	seldom
@@ -163,6 +167,7 @@ binabae	pc term for gay man (bakla)
 binalaki	pc term for lesbian (bakla)
 binata	bachelor, young man
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
+binato	to throw something
 bisà	force; effect; strength
 bisi	busy
 bistado	obvious, exposed
@@ -256,6 +261,8 @@ dinggín	to listen to, to hear (dinig)
 diníg	audible
 dinuguan	“bloodied” blood stew, meat dish
 di-sanáy	unskilled, unused to
+di-umanó	it is said, allegedly
+di-umanó	they say
 doon	there ("dun", "duon")
 dugô	blood
 duguan	bloody
@@ -536,6 +543,8 @@ kagiliran	surroundings, environment, horizon
 kagulat-gulat	startling, amazing
 kaguluhan	melee, confusion
 kahabaan	length, extent
+kahéra	female store cashier
+kahéro	male store cashier
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
 kahit	despite, although, even if (in spite of: kahit na)
@@ -639,6 +648,7 @@ kaugnayan	relation
 kausapin	to speak/converse with
 kawag	wave, wag
 kawalan	loss, a lack of X, void, nothingness
+kawat	stealing, theft (Visaya)
 kawatán	thief
 kawáy	waving of the hand
 káya	ability, competence
@@ -867,6 +877,7 @@ magsuót	to wear
 magtabi	to set aside
 magtagumpay	to succeed
 magtapat	to tell the truth, to be frank, sincere, honest
+magtawíd	to carry across
 magtuksuhan	to tease one another
 magulat	to be shocked
 mag-ulat	to report, give an account of
@@ -1085,6 +1096,7 @@ nakaraan	past, previous (daan)
 nakarananas	is experiencing (dánas)
 nakatagilid	askew, tilted
 nakatakda	is set, fixed (in time, amount, etc.)
+nakatanod	is on guard; is watching over…
 nakatikim	to have tasted/tried something
 nakatutulong	helpful
 nakauuhaw	causing thirst
@@ -1196,6 +1208,7 @@ pahingi	"please give me.." (hingi. var: "pengi")
 pahintulot	permission, authorization
 pahiram	"may I borrow..."
 pahirap	burden
+pakainin	to feed
 pákay	purpose, aim
 pake	slang abbrev of pakialam. to have a shit to give.
 paki-abot	"please pass.."
@@ -1536,6 +1549,7 @@ tanghál	to be shown, on display
 tanghalan	exhibition
 tanghali	noon
 tangkád	tallness and slenderness
+tanod	guard
 tanong	question
 tantô	realize, understand
 táo	person
@@ -1550,6 +1564,8 @@ tauhan	underling, staff, personnel; character in a performance
 taunan	annual, yearly
 tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
+tawíd	crossing
+táwiran	crossing point, crosswalk
 tayútay	figure of speech
 testigo	witness
 tibay	sturdiness
@@ -1595,6 +1611,7 @@ tuloy-tuloy	continual
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
 tumapat	to stand in front of
+tumawíd	to cross
 tumestigo	testify
 tumigil	to stop
 tumupád	to peform, accomplish
@@ -1610,6 +1627,7 @@ turò	point (as with your finger)
 turò	teach
 turò-turò	a restaraunt where you point to what you want
 tutál	anyway
+tutok	point (a gun at), aim, focus attention on
 tutol	objection, disapproval, opposition, protest
 tuwâ	joy, happiness, fun
 ubó	cough
@@ -1630,6 +1648,7 @@ umalis	to leave, depart
 umalma	have a tantrum or a fit, rise on one’s hind legs (like a bucking horse)
 umamin	admitted/confessed (amin)
 umaming	abbrev of "umamin na" admitted/confessed already
+umanó	allegedly
 umawit	to sing
 umiiral	is existing
 umiyak	to cry/cried
