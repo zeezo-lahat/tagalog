@@ -66,8 +66,10 @@ baba	lowness; to descend
 bababa	will come down, descend, get off (as vehicle)
 babalâ	caution, warning, notice, alarm
 babasagin	breakable, fragile
+bagá	an emphatic marker
 bagahe	baggage, luggage
 bagal	slowness
+bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bágay	appropriate, fitting
 bágay	thing, object
 bágo	new, fresh; before, prior to, previous 
@@ -1369,7 +1371,7 @@ rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
 saan	sa- -an. -an refers to place where an action takes place 
 saanmán	everywhere
-saan-saan	in/at what place
+saan-saan	in/at what place; everywhere
 sabá	a type of banana
 sabák	blind attack on someone or something
 sabat	interrupt
@@ -1606,7 +1608,7 @@ tulak	push, shove; "drug pusher"
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
-tuloy	to enter, stay somewhere
+tuloy	to enter, stay somewhere; as a result of (cause/effect)
 tuloy-tuloy	continual
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
