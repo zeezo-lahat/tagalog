@@ -124,9 +124,9 @@ baryo	barrio
 bása	to read / reading
 basâ	wet (adj.)
 baság	cracked, broken, shattered
-basag-ulo	a quarrel
 basagulero	troublemaker
 basag-ulo	“broken head” = quarrel
+basag-ulo	a quarrel
 báso	drinking glass
 basta	enough, "it is enough"; As a declaration: "just because", "what matters is.."
 batà	a child
@@ -574,6 +574,8 @@ kalungkutan	sadness
 kalungkut-lungkot	sorrowful
 kamag-anak	relative(s)
 kamalian	mistake
+kamay	hand
+kamayin	use your hands
 kambál	twins
 kambal-patinig	dipthong
 kamit	obtaining, getting, achieving
@@ -666,6 +668,8 @@ kinabukasan	future
 kinagabihan	on that night
 kinaiinisan	to be annoyed at someone
 kinakapatid	step-sibling, godsib, god-sibling
+kinamay	used hands on something
+kinamayan	to shake hands with
 kiníg	something heard
 kinita	income earned
 kislap	sparkle, scintillation, to glitter, twinkle
@@ -1031,6 +1035,7 @@ matapos	after
 matauhan	to recover consciousness
 matigás	hard, tough, stiff
 matindi	intense, severe, extreme
+matinik	thorny
 matira	sturdy, tough, strong, hardy
 matira	to endure, survive
 matiyagâ	diligent, persevering
@@ -1046,6 +1051,7 @@ mayaman	rich, wealthy
 maya-maya	a bit later (today)
 mayari	to be finished, to be made
 may-itsúra	has an attractive appearance
+mensahe	message
 mga	pluralizer; about, approximately
 minsan	sometimes; once, at one time
 minsanan	a one-time thing
@@ -1124,6 +1130,7 @@ nanlilito	(someone) trying to confuse another
 napakalinis	to be very clean
 napakasipag	very diligent
 napapanahon	timely
+napasakamay	to fall into the hands of
 napatawad	was able to be forgiven
 napilitan	was forced
 naririto	is/are here
@@ -1484,6 +1491,7 @@ sugatan	wounded person, casualty
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 sukò	surrender
+sulat	writing, letter
 sulit	worth it, a good deal; a test
 súlong	advance, progress; go ahead!
 sumabit	to get lodged, caught
@@ -1588,8 +1596,10 @@ timog	south
 tinda	selling, merchandise
 tindahan	a store
 tindero	a male seller
+tindíg	posture, bearing
 tingín	look, view, sight (lit and fig); opinion, estimate (palagay)
 tinig	voice
+tinik	fishbone, thorn
 tira	residence; enduring; left-over, residue
 tirhan	to spare, set aside for someone
 tiwala	trust, faith
