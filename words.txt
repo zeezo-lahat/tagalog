@@ -94,6 +94,8 @@ bála	bullet, pellet, slug
 bálak	plan, intention
 bálang-araw	someday, one day
 bale	as if; equal in value to; cash advance
+bale-bale	worth ones salt, worthy
+bale-wala	not worth ones salt, not worthy
 baligtad	inside-out, upside-down (also 'baliktad')
 balikat	shoulder
 balot	wrapper, wrapping
@@ -554,6 +556,7 @@ kaisipan	the mind, intellect, attitude
 kakambal	fellow twin, being like someone
 kakulitan	peskiness, badgering
 kalaban	opponent
+kalabóso	prison
 kalagayan	state or condition
 kalahati	half
 kalahok	contestant
@@ -611,7 +614,7 @@ kasalanan	fault, error, mistake, blame, sin
 kasali	included
 kasalukúyan	current, present time (salúkoy)
 kasalungat	opposite
-kasáma	companion, comrade, fellow, associate; together, with
+kasáma	companion, comrade, fellow, associate; together, with, including
 kasamahan	
 kasanayan	skill, proficiency
 kasanggulan	infancy
@@ -809,7 +812,7 @@ magalak	to rejoice
 mag-alalá	to worry
 magalang	respectful, well-mannered
 magaling	to be good at something; to improve at something, recover, get better
-maganap	to happen, take place
+maganap	to happen, take place (syn. mangyari)
 magandá	beautiful, pretty, lovely
 magastos	costly
 magawa	to be able to do; to happen or be done
@@ -844,6 +847,7 @@ magkapatid	siblings
 magkaroón	
 magkaroon	to come to have, to have happen, to acquire (doon)
 magkasama	together
+magkasintahan	a couple in a romantic relationship
 magkatulad	similar (two things)
 magkaunawaan	to have an understanding of each other’s position
 maglagi	to stay(??)
@@ -1536,6 +1540,7 @@ tamaan	to hit a target
 tamád	lazy, indolent
 tambák	pile, mound
 tambakan	place where something is piled
+tambáng	ambush
 tampók	center of attraction
 tanáw	view
 tandâ	sign, mark; signal; evidence
