@@ -735,6 +735,7 @@ lasa	the taste or flavor of something
 lata	can
 lawak	expanse, extent, area
 lawig	long duration (less commonly used than tagal)
+lawin	hawk
 lawit	suspended, hanging
 layà	freedom, liberty
 layo	far away
@@ -761,6 +762,7 @@ litráto	picture
 liwanag	light, shine
 liwayway	dawn
 liyab	blaze, flame
+lobo	balloon
 lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
 lubhâ	extremely
 lubóg	submerged, sunken, buried (lit. or fig.)
@@ -970,6 +972,7 @@ man	although, even if, with, too
 manatili	to stay, be permanent (check into this word further)
 mandaraya	cheater
 mandaraya	one who goes around the rules
+mandurukot	pickpocket
 mang-aagaw	someone who snatches away (a thing or lover)
 mangako	to promise
 manghamak	to insult, disparage
@@ -1463,6 +1466,7 @@ sikap	diligence, hard work
 sikapin	to try, seek
 sikát	popular, famous
 síkat	shining (as the sun)
+sikíp	tightness
 sikláb	blaze, flame
 silid	a room
 silip	to peek, peer
@@ -1540,6 +1544,8 @@ takda	measure, limitation, limit, restriction; stated, limited, restricted
 takdang-aralin	lesson assignment (school homework)
 takdang-araw	assigned date
 takdang-oras	time limit, death
+takót	scared, fearful
+takot	fear
 takwil	renunciation
 talamák	serious, critical, hard to cure; fallen; addicted
 talíno	smarts, talent
