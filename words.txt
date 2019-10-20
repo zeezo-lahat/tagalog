@@ -85,6 +85,7 @@ bahid-dungis	dirt stain, stain on one’s name
 bahíng	sneeze (also bahín)
 baít	kindness; the mind
 bakâ	perhaps, maybe, might
+bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
 bakla	gay, homosexual
@@ -200,6 +201,7 @@ bulóng	murmur, whisper; a magical incantation
 bumaba	to go lower
 bumagsak	to fail
 bumahíng	to sneeze, sneezed (also bumahín)
+bumakas	made an imprint
 bumaligtad	to reverse oneself, to turn upside down
 bumanat	“to go in hard”
 bumawi	to make up for something (bawì)
@@ -370,6 +372,8 @@ hamakin	to belittle, scorn
 hámon	a challenge
 hampas	to hit, to strike
 hanap	search, find
+handâ	ready, prepared
+handaan	a party with prepared food
 hanggan	end, boundary, limit
 hanggang	until, up to
 hangin	air, wind
@@ -425,6 +429,7 @@ huli	catch
 hulí	end, last; late
 húlog	fall, drop
 humamak	to treat with contempt
+humanda	to prepare
 humawak	to hold on to something
 humigít	to outnumber, exceed, outweigh
 humigpít	to become tight
@@ -933,6 +938,7 @@ makiníg	to hear, to listen
 makipagkapwa-tao	to get along with others
 makipagpalitan	to exchange, to barter
 makipag-usap	to converse, communicate with
+makisabay	to go at the same time
 makislap	luminous, brilliant, glittering, lambent, lucent
 makiusap	to request, ask for, plead
 makulit	importunate, pesky; a person who is a pest
@@ -969,6 +975,7 @@ mamasukan	to have a job
 mamayâ	later (today)
 mamulot	to pick up things, glean
 man	although, even if, with, too
+manakot	to scare
 manatili	to stay, be permanent (check into this word further)
 mandaraya	cheater
 mandaraya	one who goes around the rules
@@ -1025,6 +1032,7 @@ matagal	long in duration
 matagpuán	to happen to find, discover
 matagumpay	successful
 matahimik	quiet
+matakot	to be afraid
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matanaw	view (n)
@@ -1130,6 +1138,7 @@ nanghipo	touched
 nangyari	incident; happened
 nanlamig	became cold
 nanlilito	(someone) trying to confuse another
+nanloob	burglar; entered, particularly unwelcomed
 napakalinis	to be very clean
 napakasipag	very diligent
 napapanahon	timely
@@ -1173,6 +1182,7 @@ pagdurugo	bleeding
 paggalang	respecting
 paggigiit	assertion, insistence of one's rights
 paggunita	remembrance, memorial
+paghahanda	preparation, provision
 paghamak	insult, contempt, belittling
 paghinto	stoppage, intermission
 pag-iba	love
@@ -1263,6 +1273,7 @@ paligid	vicinity; circumference
 palikuran	a toilet, especially an outhouse
 palit	exchange, substitute, replace
 paliwanag	explanation
+palpak	failure, badly done - cannot be redeemed or justified
 pámahalaán	government (bahala)
 pamalagiin	to stabilize
 pamatay-apoy	fire extinguisher
@@ -1282,6 +1293,7 @@ pangarap	dream as in wish or hope (not sleeping dream)
 panggabi	for the evening
 panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
+panghanda	preparation for
 pangkariniwa	typical
 pangulo	president
 pangyayari	happening, an incident
@@ -1391,6 +1403,7 @@ sabák	blind attack on someone or something
 sabat	interrupt
 sabatin	to interrupt
 sabáy	simultaneous, concurrent; to go together/accompany
+sabayán	to accompany
 sabáy-sabáy	all at the same time
 sabi	to say
 sabihin	to say, to tell
@@ -1448,6 +1461,7 @@ sará	closed; to close
 sarado	closed
 saráp	tastiness, deliciousness
 sarili	self; private
+sasabay	will go together
 sasakyán	vehicle
 sasakyan	will ride (sakay)
 sawà	satiated, fed up
@@ -1513,6 +1527,7 @@ sumugod	to attack, impulsively go forth
 sumuway	to disobey, violate, oppose
 sundálo	soldier
 sundin	to obey (sunod)
+sundô	fetch someone from somewhere
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
 sunóg	burnt
@@ -1544,8 +1559,9 @@ takda	measure, limitation, limit, restriction; stated, limited, restricted
 takdang-aralin	lesson assignment (school homework)
 takdang-araw	assigned date
 takdang-oras	time limit, death
-takót	scared, fearful
 takot	fear
+takót	scared, fearful
+takutin	to frighten
 takwil	renunciation
 talamák	serious, critical, hard to cure; fallen; addicted
 talíno	smarts, talent
