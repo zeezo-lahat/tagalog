@@ -1,3 +1,4 @@
+á·ga	   earliness
 aberya	mechanical trouble; a snag; literal or metaphorical malfunction
 abiso	notice, notification (mag: i: an)
 abók	dust, ash
@@ -44,6 +45,8 @@ amoy-araw	smell of sweat after being in the sun
 amuyin	to smell something
 anák	child (offspring)
 anak-anakan	foster chld
+Ang aga mo!	   You’re so early!
+Ang aga nila!	   They’re so early!
 antála	delay
 anuman	whatever (ano + man)
 anyô	form, appearance, figure
@@ -524,6 +527,7 @@ iwan	leaving, abandoning, omitting
 iwas	avoidance
 jack-en-poy	rock-paper-scissors
 jokla	gay
+kaagahan, pagka-maaga, katempranuhan, pagsapit o pagdating nang una sa	   takdang oras
 kaarawan	birthday, anniversary
 kaaway	enemy
 kababaang-loob	humility
@@ -793,6 +797,7 @@ lungsód	city
 lupa	earth
 luwag	looseness, ease, with space/allowance
 maaarì	possible, can, may (less common than puwede)
+maaga	   early
 maaga	early
 maágap	quick, prompt, in time
 maalaala	to remember
@@ -1175,6 +1180,7 @@ pag-asa	hope
 pagbabago	repeated changes
 pagbibigay-katauhan	(personification)
 pagbubukas	the time being open, as in a store
+pagdating	
 pagdikitin	to stick things together
 pagdinig	a hearing (judicial, etc.)
 pagdugo	bleeds / act of bleeding
@@ -1210,6 +1216,7 @@ pagpapalit-saklaw	(synecdoche)
 pagpapalit-tawag	(metonymy)
 pagpupumilit	the act of coercing
 pagsama	to combine
+pagsapit	approaching, arriving, coming, eventuality
 pagsasatao	personification (also pagsasakatao)
 pagsikapan	to try, attempt
 pagsikláb	blazing, outbreak

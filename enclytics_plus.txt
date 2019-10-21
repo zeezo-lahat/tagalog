@@ -1,6 +1,6 @@
-first are: ka ko mo
+* MUNA: ka ko mo
 
-enclytics:
+* TAPOS:
 na/pa
 man - even (if, though), although (as kahit) 
 nga - indeed, affirmation
@@ -18,10 +18,11 @@ kasI - because, cause
 yata`
 sana - hope, unrealized condition
 
-personal pronouns following the above:
- niya namin natin ninyo nila ako siya kami tayo kayo sila
+* HULI:
+niya namin natin ninyo nila ako siya kami tayo kayo sila
 
-other stuff:
+
+OTHER STUFF:
 bagaman - although, in spite of, while
 tuwI - whenever, every
 tuwI na - always (also lagi, parati)
