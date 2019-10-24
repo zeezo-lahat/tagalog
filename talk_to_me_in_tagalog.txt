@@ -1,3 +1,58 @@
+# daily routine
+gumigising ako nang maaga	I wake up early
+gumigising ako ng alas-singko ng umaga.	I wake up at 5am
+tanghali na ako gumigising	I wake up late
+bumabAngon ako agad pagkagising	I get out of bed right away
+bumabAngon ako pagkatapos ng limang minuto pagkagising	I get up 5 minutes after waking up
+pagkatops, naliligo ako	afterwards I take a shower
+naliligo ako sa umaga	I take a bath in the morning
+nagsIsipilyo ako pagkatapos maligo	I brush my teeth after taking a bath
+tapos, nagsIsipilyo ako	then I brush my teeth
+nagbibihis ako pagkatapos maligo I get dressed after taking a bath
+pagkatapos maligo nagbibihis ako I get dressed after taking a bath
+tapos, nagbibihis ako	then I get dressed
+nagsUsuklay ako pagkatapos maligo	I comb my hair after taking a bath
+tapos, nagsUsuklay ako	then I comb my hair
+nag-Aalmusal ako sa umaga	I eat breakfast in the morning
+hindi ako nag-Aalmusal sa umaga	I don't eat breakfast in the morning
+nagkAkape lang ako sa umaga	I only drink coffee in the morning
+nagkAkape ako tuwing umaga	I drink coffee every morning
+nagbAbasa ako ng dyaryo sa umaga	I read the newspaper in the morning
+pagkatapos, nagbAbasa ako ng e-mails	then I read my emails
+maaga akong umAalis ng bahay	I leave the house early
+mga alas-singko ng umaga	around 5 in the morning
+pumapAsok ako sa eskwelahan ng alas-syete ng umaga	I go to school at 7am
+pumapAsok ako sa trabaho ng mga bandAng alas-sais ng umaga	I go to work around 6am
+naglAlakad ako papasOk sa opisina	I walk to work
+naglAlakad lang kami papunta sa sakAyan ng jeep	we only walk going to the jeepney stand
+nagmAmaneho ako papasOk sa trabaho araw-araw	I drive to work every day
+nagmAmaneho ako mula sa trabaho pauwi ng bahay	I drive home from work
+nagdyi-jeep ako papasOk sa trabaho tuwing umaga	I ride a jeepney going to work every morning
+nagbu-bus ako pauwI ng bahay	I take the bus going home
+nag-Uumpisa ang araw ko ng alas-otso ng umaga	my day starts at 8am
+nag-Uumpisa ang klase/trabaho ko ng alas-nuwebe ng umaga	my class/work starts at 9am
+nagtAtrabaho ako mula umaga hanggang gabi	I work from morning until evening
+nagtAtrabaho ako sa gabi	I work at night
+nanAnanghalian kami pagsapit ng also-dose	we have (are having) lunch by 12 noon
+kumakAin kami ng tanghalIan pagdating ng alas-dose	we eat lunch at 12 noon
+nag-aAral kami tuwing gabi	we study every night
+pagkatapos mananghalIan, nag-aAral kami ng leksyon	after lunch, we study our lessons
+nagmEmeryenda kami ng kape at tinapay	we snack on coffee and bread
+habang nagkUkwentUhan, nagmEmeryenda kami ni Jannette	while chatting, Jannette and I snack
+alas-kwatro natatApos ang klase namin sa hapon	our classes end at 4 in the afternoon
+gabI na ako natatApos sa trabaho	I get off work at night
+umUuwi ako kaagAd pagkatapos ng eskwela	I go home right after school
+kasabAy ko si Anna kapag umUuwi sa hapon	Anna and I go home together in the afternoon
+naghAhapUnan kami ng alas-siyete ng gabi	we have dinner at 7pm
+kumakAin kami ng hapUnan ng alas-otso ng gabi	we eat dinner at 8pm
+naghIhilAmos ako bago matUlog	I wash my face before going to sleep
+naghIhilAmos ako tatlong beses sa isang araw	I wash my face 3 times a day
+pagdatIng sa bahay, nagpApalit agad ako ng damIt	I change my clothes right when I get home
+nagpApalit ako ng damIt sa gabI	I change my clothes at night
+natutUlog ako ng alas-diyes ng gabI	I go to bed at 10pm
+pagkatapos magsipilyo ng ngipin, natutUlog na ako	after brushing my teeth I go to sleep
+
+
 araw-araw - every day
 GABI-GABI - every night
 DIKIT-DIKIT - close to each other/ cursive handwriting
