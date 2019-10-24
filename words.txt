@@ -124,9 +124,9 @@ baryo	barrio
 bása	to read / reading
 basâ	wet (adj.)
 baság	cracked, broken, shattered
-basag-ulo	a quarrel
 basagulero	troublemaker
 basag-ulo	“broken head” = quarrel
+basag-ulo	a quarrel
 báso	drinking glass
 basta	enough, "it is enough"; As a declaration: "just because", "what matters is.."
 batà	a child
@@ -513,6 +513,7 @@ itsúra	shape, form; appearance (alt. "hitsura")
 ituloy	to continue, proceed
 ituro	to point something out
 ituro	to teach something
+ituwíd	to straighten, to correct
 iugnay	to connect
 iuwi	to take someone home
 iwan	leaving, abandoning, omitting
@@ -649,6 +650,7 @@ katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
+katwiran	reason, argument
 kaugnayan	relation
 kausapin	to speak/converse with
 kawag	wave, wag
@@ -921,6 +923,7 @@ makatagpô	to discover, come across
 makatao	humanitarian, humane
 makatotohanan	realistic
 makatulog	to be able to sleep
+makatwiran	rational, reasonable
 makikiha	???? see making out in tagalog "please get.."
 makilala	to meet
 makiníg	to hear, to listen
@@ -1038,6 +1041,7 @@ matiyak	to ensure, be certain
 matumal	slow (business)
 matuto	to learn
 matuwa	to enjoy, have fun, be happy
+matwíd	first, just, legitimate
 maunawaan 	to be able to understand
 mausok	smoky
 mautak	brainy
@@ -1614,7 +1618,7 @@ tulay	bridge
 túlog	sleep
 túlong	help, aid, support
 tuloy	to enter, stay somewhere; as a result of (cause/effect)
-tuloy-tuloy	continual
+tuloy-tuloy	continual, straight and unchanging
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
 tumapat	to stand in front of
@@ -1637,6 +1641,7 @@ tutál	anyway
 tutok	point (a gun at), aim, focus attention on
 tutol	objection, disapproval, opposition, protest
 tuwâ	joy, happiness, fun
+tuwíd	straight, erect, direct
 ubó	cough
 ugnay	connection, relation, relevance
 ugnayan	connection, links, interdependence
