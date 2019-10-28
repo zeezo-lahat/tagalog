@@ -1,4 +1,3 @@
-á·ga	   earliness
 aberya	mechanical trouble; a snag; literal or metaphorical malfunction
 abiso	notice, notification (mag: i: an)
 abók	dust, ash
@@ -7,6 +6,7 @@ abot-kamay	within reach
 abot-tanaw	horizon
 abutan	to hand something over
 abutin	to reach for
+ága	earliness
 agad	immediately, at once, quickly
 agad-agad	at once, very quickly
 agam-agam	doubt; hesitation; suspicion
@@ -25,6 +25,8 @@ alalá	worried, anxious, thinking about
 alalahanin	to recall, remember; think about, consider; cause of worry
 alám	knowledge, to know
 alamin	to find out, to investigate
+alat	saltiness
+maalat	salty
 alay	offering
 alin	which?
 alinman	any, anything
@@ -45,8 +47,8 @@ amoy-araw	smell of sweat after being in the sun
 amuyin	to smell something
 anák	child (offspring)
 anak-anakan	foster chld
-Ang aga mo!	   You’re so early!
-Ang aga nila!	   They’re so early!
+ang aga mo!	   you’re so early!
+ang aga nila!	   they’re so early!
 antála	delay
 anuman	whatever (ano + man)
 anyô	form, appearance, figure
@@ -73,8 +75,7 @@ bagá	an emphatic marker
 bagahe	baggage, luggage
 bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
-bágay	appropriate, fitting
-bágay	thing, object
+bágay	appropriate, fitting; thing, object
 bágo	new, fresh; before, prior to, previous 
 bagsak	decline, failure, dropoff; sudden fall or crash
 baguhin	to change
@@ -88,6 +89,7 @@ bahid-dungis	dirt stain, stain on one’s name
 bahíng	sneeze (also bahín)
 baít	kindness; the mind
 bakâ	perhaps, maybe, might
+baka	beef; cow
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
@@ -99,8 +101,9 @@ bakwit	evacuate
 bála	bullet, pellet, slug
 bálak	plan, intention
 bálang-araw	someday, one day
+balasa	shuffling (of playing cards, etc.)
 bale	as if; equal in value to; cash advance
-bale-bale	worth ones salt, worthy
+bale-bale	worth one's salt, worthy
 bale-wala	not worth ones salt, not worthy
 baligtad	inside-out, upside-down (also 'baliktad')
 balikat	shoulder
@@ -129,8 +132,7 @@ bása	to read / reading
 basâ	wet (adj.)
 baság	cracked, broken, shattered
 basagulero	troublemaker
-basag-ulo	“broken head” = quarrel
-basag-ulo	a quarrel
+basag-ulo	quarrel (“broken head”)
 báso	drinking glass
 basta	enough, "it is enough"; As a declaration: "just because", "what matters is.."
 batà	a child
@@ -139,7 +141,8 @@ batay	based on, by, with
 bátáyan	ground, basis, cause
 batayán	standard, criterion
 batíd	known, awareness (slightly formal term)
-batikán	spotted, tried, tested, expert
+batik	spot, stain, blemish
+batikán	spotted; tried, tested, expert
 bato	a stone, rock; kidney; something to throw, throwing
 bawal	prohibited
 bawas	discount, reduction
@@ -265,6 +268,7 @@ detálye	detail
 diin	emphasizing, stressing, pressing, insisting
 dikit	stick, adhere, paste
 dikitán	to attach, stick
+di-mapigil	unstoppable
 din	too, also - expression modified is like a corresponding earlier idea
 dinggín	to listen to, to hear (dinig)
 diníg	audible
@@ -335,6 +339,7 @@ ginugol	spent
 gisa	to sauté, stir-fry
 gitna	middle, center
 grabe	wow!
+granada	pomegranate; hand grenade
 guhò	landslide; collapse; ruins
 gulang	age
 gulát	(adj.) scared, frightenened, shocked
@@ -354,6 +359,7 @@ gumawa	to make, do, produce, form
 gunitâ	memory, recollection
 guro	teacher
 gusalì	building
+gusto pa	still want
 habà	length
 habaan	extend, lengthen
 habágat	southwest, often ref. to storm winds
@@ -363,7 +369,8 @@ habang-panahon	"while time", forever
 hablot	grab
 habol	pursue, run after, chase
 hagdán	ladder, stairs
-halaga	worth, value, importance
+haginít	cracking sound, swishing sound
+halagA	price, cost, charge, worth, value, importance
 halál	vote, elective
 halalan	election
 halika	come here
@@ -405,6 +412,8 @@ himalâ	miracle
 hímig	tune, melody; note
 hinalà	suspicion
 hinding-hindi	never
+hingá	breath, breathing (humingá)
+paghingá	respiration
 hingi	to ask for something; a request
 hingin	to ask for something
 hintay	wait
@@ -431,11 +440,13 @@ hulaan	to guess
 huli	catch
 hulí	end, last; late
 húlog	fall, drop
+humaginit to swish by, to swish / swished
 humamak	to treat with contempt
 humanda	to prepare
 humawak	to hold on to something
 humigít	to outnumber, exceed, outweigh
 humigpít	to become tight
+humingá	to breathe, breathing
 humingi	to ask/request
 humuhumi	twittering/tweeting (huni)
 humupa	subside
@@ -543,7 +554,7 @@ kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
 kabulagan	state of blindness
-kabuuan	composition, entirety
+kabuuAn	composition, entirety
 kadalAsan	frequently, usually
 kadena	a chain
 kadugo	a blood relative
@@ -556,12 +567,14 @@ kagiliran	surroundings, environment, horizon
 kagulat-gulat	startling, amazing
 kaguluhan	melee, confusion
 kahabaan	length, extent
+kahapon pa	since yesterday
 kahéra	female store cashier
 kahéro	male store cashier
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
 kahit	despite, although, even if (in spite of: kahit na)
 kailángan	to need
+kailángan pa	still need
 kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
 kakambal	fellow twin, being like someone
@@ -591,6 +604,7 @@ kamit	obtaining, getting, achieving
 kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kanais-nais	desirable
+kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	to each his own, individual
 kanta	song
 kantá	to sing
@@ -651,6 +665,7 @@ katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
 katawAn	body
+katawá-tawá	ridiculous, laughable
 katibayan	proof
 katiwalian	irregularity, corruption
 katotohanan	the truth
@@ -662,6 +677,7 @@ katunAyan	truth
 katúpáran	accomplishment, fulfillment
 kaugnayan	relation
 kausapin	to speak/converse with
+kautusan	order, mandate, command (utos)
 kawag	wave, wag
 kawalan	loss, a lack of X, void, nothingness
 kawat	stealing, theft (Visaya)
@@ -795,6 +811,7 @@ lumipad-lipad	to hover
 lungkot	sadness, sorrow
 lungsód	city
 lupa	earth
+lupit	cruelty, mercilessness, savageness, harshness
 luwag	looseness, ease, with space/allowance
 maaarì	possible, can, may (less common than puwede)
 maaga	   early
@@ -810,7 +827,6 @@ mababawi	to undo something
 mabAgal	slow
 mabaít	nice, kind
 mabanatan	to be beat up
-mabanatan	to be beat up
 mabasag	to be broken
 mabatid	to be informed
 mabenta	very marketable (is selling a lot)
@@ -824,6 +840,7 @@ madalás	frequently
 madalI	easy
 madaling-araw	“soon to be day” = dawn
 madinig	to hear
+magaan	light, not heavy (gaan)
 mag-abot	hand over
 magagawa	able to be done
 magalak	to rejoice
@@ -900,6 +917,7 @@ magtabi	to set aside
 magtagumpay	to succeed
 magtapat	to tell the truth, to be frank, sincere, honest
 magtawíd	to carry across
+magtulOy	to proceed, go ahead
 magtuksuhan	to tease one another
 magulat	to be shocked
 mag-ulat	to report, give an account of
@@ -974,10 +992,12 @@ malubáy	calm, relaxed, slack
 malubha	serious (ref to sickness or medical condition)
 malungkot	sad
 malungkutin	prone to sadness
+malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
 mamasukan	to have a job
-mamayâ	later (today)
+mamayâ	later today
+mamayâ pa	not now, but later today
 mamulot	to pick up things, glean
 man	although, even if, with, too
 manakot	to scare
@@ -1090,6 +1110,7 @@ nagkapalit	ended up switched
 nagmamadali	hurrying, in a hurry
 nagmamadali	in a hurry
 nagpapalakas	to stay on the good side of someone (slang)
+nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
 nagsipatnubay	guide, companion, escort
 nahihibang	delirious, “crazy”
@@ -1109,7 +1130,9 @@ nakakalungkot	depressing, makes one sad (also nakalulungkot)
 nakakasawa	describes things that never get tiresome or old
 nakakatakot	scary
 nakakatawa	causing laughter, funny
+nakakatawa	funny, comical
 nakakatuwa	amusing, funny
+nakakatuwa	fun, funny
 nakakausap	able to talk (with)
 nakalibing	is buried
 nakalikha	was able to create
@@ -1164,6 +1187,9 @@ ngiti	a smile
 ngunit	but, on the other hand
 nilito	was confused by something
 nito	ng + ito - (of) this/these
+pa	still, yet, else, more
+pa lang	indicates that something is just about to be done
+pa pala	implies mild surprise that a condition still exists
 paalala	reminder (alala)
 paalalahanan	remind
 paalam	goodbye, farewell
@@ -1209,6 +1235,7 @@ paglalakad	act of walking
 pagliban	absence
 paglikha	creation
 pagmamalabis	(hyperbole)
+pagmamalupit	abuse, harsh treatment
 pagnanakaw	burglary, stealing, larceny
 pagpapalaya	liberation
 pagpapaliban	postponement
@@ -1226,6 +1253,7 @@ pagsumikapan	to strive
 pagtanggal	removal
 pagtanggap	a welcoming; reception; acceptance
 pagtatanggál	removal
+pagtawanan	to make fun of
 pagtutol	resistance
 pagtutulad	(simile)
 pagtutuloy	continuation
@@ -1269,6 +1297,7 @@ palakasin	to strengthen something
 palamigan	a cooler
 palamigin	to chill, refrigerate
 palangiti	always smiling
+palatawa	has a tendency to always laugh
 palatawa	laughing all the time
 palawakin	to expand even more
 palawigin	to extend the time
@@ -1362,14 +1391,23 @@ payo	guidance, advice
 payong	umbrella
 payuhan	to advise
 perwísyo	damage
+pigil	detention, control, restraint
+pigilin	to control, restrain, keep back, hold back
 pikón	quick to anger
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
+pilipit	wring, squeeze, twist; twisty, awry, contorted
+mamilipit	to writhe, squirm, convulse
+namimilipit	is writhing, squirming, convulsing
 pílit	forcing, coercing
 pinaglalaban	the cause that one is fighting for
+pinagtatawanan	is being made fun of
+pinagtawanan	made fun of
 pinagtulungang	to collaborate
 pinakamadalas	most often
+pinakamatanda	oldest
+pinigilan	stopped from doing something
 pinsala	damages, losses, harm
 pínsan	cousin
 pintíg	throb, pulse
@@ -1399,9 +1437,12 @@ puslít	smuggling, low-key escape: squirt, spurt
 putól	cut (adj)
 pútol	cut (noun, verb)
 puwéde	can, possible
+puwersa	force, strength, pressure
+puwersahin	to force
 puwesto	place, position, employment
 rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
+sa kabuuan	altogether; for the most part(?)
 saan	sa- -an. -an refers to place where an action takes place 
 saanmán	everywhere
 saan-saan	in/at what place; everywhere
@@ -1452,7 +1493,7 @@ samantalá	to capitalize, take advantage of
 samantalahIn	to take advantage of
 sama-sama	together (multiple)
 samsám	confiscation, seizure
-sana	I hope, I wish
+sana	I hope, I wish; was going to, but; should (not) have
 sanay	practice
 sanáy	skilled, proficient, used to
 sanayan	a place for practice
@@ -1478,6 +1519,7 @@ sawî	to die or suffer misfortune; ill-fated
 sayá	joy, happiness, fun
 sayáng	What a loss/waste/pity!
 sayaw	dance
+saysáy	statement; value
 selos	jealousy
 sibák	chopping wood with an axe.  slang for firing someone.
 sidlan	to fill a container
@@ -1489,11 +1531,13 @@ sikát	popular, famous
 síkat	shining (as the sun)
 sikíp	tightness
 sikláb	blaze, flame
+siko	elbow
 silid	a room
 silip	to peek, peer
 singganda as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
 sinibak	fired, dismissed, axed (slang)
+siniko	elbowed
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sinungaling	liar; lie
 sípag	diligence, hard work
@@ -1608,6 +1652,7 @@ tauhan	underling, staff, personnel; character in a performance
 taunan	annual, yearly
 tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
+tawanan	to laugh at
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayútay	figure of speech
@@ -1652,11 +1697,13 @@ tulak	push, shove; "drug pusher"
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
-tuloy	to enter, stay somewhere; as a result of (cause/effect)
+tuloy	staying somewhere; as a result of (cause/effect)
+tulOy	proceeding, entering, continuing, progressing
 tuloy-tuloy	continual
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
 tumapat	to stand in front of
+tumapos	to finish
 tumawíd	to cross
 tumestigo	testify
 tumigil	to stop
@@ -1713,6 +1760,7 @@ urong-sulong	“going backward, going forward” = indecisive, hesitation
 usápan	conversation
 usap-usapan	what people are talking about = rumors, gossip
 usok	smoke (n)
+utang	debt
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
@@ -1737,3 +1785,4 @@ yaman	wealth, treasure, riches
 yamót	boredom
 yari	making, constructing, finishing (mag-,-in)
 yata	maybe, perhaps
+yung	that (abbrev. of "iyong")

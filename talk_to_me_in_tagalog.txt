@@ -1,3 +1,34 @@
+# pa part 2
+hindi pa ako pagod	I'm not yet tired
+okay pa ako	I'm still okay
+hindi pa ako tapos	I'm not done yet
+may ginagawa pa ako	I'm still doing something
+wala pang asawa si Marlo	Marlo is not yet married
+ayoko pang umuwi	I don't want to go home yet
+gusto ko pang gumala	I still want to take a stroll
+ayaw ko pang maligo	I don't want to take a bath yet
+tinAtamad pa ako	I still feel lazy
+may pizza pa ba?	is there still pizza left?
+kilala o pa ba ako?	do you still know me?
+busy pa ba siya?	is he/she still busy?
+may bus pa ba sa terminal ng ganitong oras?	is there still a bus at the terminal at this time?
+gutom na kami pero magluluto pa lang si nanay	we are already hungry, but mom is just about to cook
+nandiyan ka na?	are you there now?
+naku, sorry magbibihis pa lang ako	oh, sorry.  I'm just about to get dressed
+
+# sana
+sana mag-snow ngayon	I hope it snows today
+sana yumaman ka	I hope you get rich
+sana nandito ka	I wish you were here
+sana magkasama tayo	I wish we were together
+sana maka-travel ako sa Norway sa susunod na winter	I wish we could travel to norway next winter
+malakas ako kumain pero ang payat ko pa rin.	I eat a lot but I'm still skinny
+sana tumaba na ako	I hope I could gain weight
+dumating sana nang maaga si Dennis	I hope dennis comes by early
+sana hindi umulan mamaya kasi wala akong dalang payong	I hope it will not rain later because I didn't bring an umbrella
+magma-mountain climbing sana kami ngayon kaya lang nagkasakit si Erol	We are supposed to go mountain climbing today but Erol got sick
+kakain sana tayo sa labas kaso nagluto si Rowena	we were going to eat out but Rowena cooked for us
+
 # daily routine
 gumigising ako nang maaga	I wake up early
 gumigising ako ng alas-singko ng umaga.	I wake up at 5am
