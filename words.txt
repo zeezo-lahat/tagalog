@@ -26,7 +26,6 @@ alalahanin	to recall, remember; think about, consider; cause of worry
 alám	knowledge, to know
 alamin	to find out, to investigate
 alat	saltiness
-maalat	salty
 alay	offering
 alin	which?
 alinman	any, anything
@@ -55,6 +54,9 @@ anyô	form, appearance, figure
 apíd	fornication
 apó	grandchild
 apoy	fire, flame
+arì	property
+arí-arian	possessions, property, goods
+ariin	to consider, acknowledge
 aruga	nurture, tender care
 arugain	to nurture
 asahan	expect, be sure that something will happen
@@ -88,8 +90,8 @@ bahid	stain, smear, trace
 bahid-dungis	dirt stain, stain on one’s name
 bahíng	sneeze (also bahín)
 baít	kindness; the mind
-bakâ	perhaps, maybe, might
 baka	beef; cow
+bakâ	perhaps, maybe, might
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
@@ -413,7 +415,6 @@ hímig	tune, melody; note
 hinalà	suspicion
 hinding-hindi	never
 hingá	breath, breathing (humingá)
-paghingá	respiration
 hingi	to ask for something; a request
 hingin	to ask for something
 hintay	wait
@@ -573,8 +574,8 @@ kahéro	male store cashier
 kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
 kahit	despite, although, even if (in spite of: kahit na)
-kailángan	to need
 kailángan pa	still need
+kailángan	to need
 kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
 kakambal	fellow twin, being like someone
@@ -628,6 +629,7 @@ kapwa-tao	relations with others
 karamihan	most, majority, nearly all
 karanasán	an experience
 karapatán	a right, a legal claim; something that is due to a person
+karapatang-ari	copyright
 karapat-dapat	qualified, worthy, fitting, deserving
 karera	a race
 karibal	rival (often in romance)
@@ -819,6 +821,7 @@ maaga	early
 maágap	quick, prompt, in time
 maalaala	to remember
 maalalahanin	thoughtful
+maalat	salty
 maantala	to be delayed
 maawa	to take pity or mercy
 maayos	orderly
@@ -917,8 +920,8 @@ magtabi	to set aside
 magtagumpay	to succeed
 magtapat	to tell the truth, to be frank, sincere, honest
 magtawíd	to carry across
-magtulOy	to proceed, go ahead
 magtuksuhan	to tease one another
+magtulOy	to proceed, go ahead
 magulat	to be shocked
 mag-ulat	to report, give an account of
 magwala	to go amuck
@@ -970,6 +973,7 @@ malalâ	serious, acute
 malamán	meaty (lamán)
 maláman	to know
 malamang	probably, likely
+malambót	soft, tender
 malamig	cold
 malampasan	be able to overtake
 malapit	near, close
@@ -996,8 +1000,9 @@ malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
 mamasukan	to have a job
-mamayâ	later today
 mamayâ pa	not now, but later today
+mamayâ	later today
+mamilipit	to writhe, squirm, convulse
 mamulot	to pick up things, glean
 man	although, even if, with, too
 manakot	to scare
@@ -1085,6 +1090,7 @@ mautak	brainy
 mauwi	to develop into, to happen as a result
 mayaman	rich, wealthy
 maya-maya	a bit later (today)
+may-arì	owner
 mayari	to be finished, to be made
 may-itsúra	has an attractive appearance
 mensahe	message
@@ -1159,6 +1165,7 @@ nalampasan	overtook
 nalito	became confused
 namán	also, too, really, anyway; also used to soften requests and questions
 nambola	flattery
+namimilipit	is writhing, squirming, convulsing
 namiminto	expected/likely to happen soon ("on the threshold") (pintô)
 nandidito	is/are here
 nandito	here (same as narito)
@@ -1187,20 +1194,22 @@ ngiti	a smile
 ngunit	but, on the other hand
 nilito	was confused by something
 nito	ng + ito - (of) this/these
-pa	still, yet, else, more
 pa lang	indicates that something is just about to be done
 pa pala	implies mild surprise that a condition still exists
+pa	still, yet, else, more
 paalala	reminder (alala)
 paalalahanan	remind
 paalam	goodbye, farewell
 paalisin	to make someone go, to evict someone
 paamoy	"let me smell.."
+paarî	possessive
 pababa	downward
 pabayâ	without care or attention, careless, negligent
 padaliin	to make easy
 pag	(kapág) if, when, on, whenever, upon, in case that
 pag-aalaga	caretaking, protecting
 pag-aalay	an offering
+pag-aarì	property
 pagalingin	to heal
 pag-asa	hope
 pagbabago	repeated changes
@@ -1216,6 +1225,7 @@ paggigiit	assertion, insistence of one's rights
 paggunita	remembrance, memorial
 paghahanda	preparation, provision
 paghamak	insult, contempt, belittling
+paghingá	respiration
 paghinto	stoppage, intermission
 pag-iba	love
 pagkabulag	blindness
@@ -1227,6 +1237,7 @@ pagkakasundo	consensus
 pagkakataon	an opportunity or occasion
 pagkalito	confusion
 pagkamapanlikha	originality
+pagka-may-arì	ownership, possession
 pagkatalo	defeat
 pagkatao	character
 paglabág	violating; in violation
@@ -1398,8 +1409,6 @@ pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
 pilipit	wring, squeeze, twist; twisty, awry, contorted
-mamilipit	to writhe, squirm, convulse
-namimilipit	is writhing, squirming, convulsing
 pílit	forcing, coercing
 pinaglalaban	the cause that one is fighting for
 pinagtatawanan	is being made fun of
@@ -1697,8 +1706,8 @@ tulak	push, shove; "drug pusher"
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
-tuloy	staying somewhere; as a result of (cause/effect)
 tulOy	proceeding, entering, continuing, progressing
+tuloy	staying somewhere; as a result of (cause/effect)
 tuloy-tuloy	continual
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
