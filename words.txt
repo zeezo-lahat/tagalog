@@ -446,7 +446,7 @@ hulaan	to guess
 huli	catch
 hulí	end, last; late
 húlog	fall, drop
-humaginit to swish by, to swish / swished
+humaginit	to swish by, to swish / swished
 humamak	to treat with contempt
 humanda	to prepare
 humawak	to hold on to something
@@ -684,8 +684,7 @@ katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
-katutubo	native (tubo, syn: taal)
-katutubo	native, indigenous, ethnic
+katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 kaugnayan	relation
 kausapin	to speak/converse with
@@ -1013,6 +1012,7 @@ malungkutin	prone to sadness
 malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
+mamamayan	a native of a place (mangCV - báyan)
 mamasukan	to have a job
 mamayâ pa	not now, but later today
 mamayâ	later today
@@ -1020,10 +1020,9 @@ mamilipit	to writhe, squirm, convulse
 mamuhunan	to invest
 mamulot	to pick up things, glean
 man	although, even if, with, too
-manakot	to scare
+manakot	to scare (ma-)
 manatili	to stay, be permanent (check into this word further)
-mandaraya	cheater
-mandaraya	one who goes around the rules
+mandaraya	cheater, one who goes around the rules
 mandurukot	pickpocket
 mang-aagaw	someone who snatches away (a thing or lover)
 mangako	to promise
@@ -1100,6 +1099,7 @@ matumal	slow (business)
 matuto	to learn
 matuwa	to enjoy, have fun, be happy
 maunawaan 	to be able to understand
+maunawain	understanding (ma-in)
 mausok	smoky
 mautak	brainy
 mauwi	to develop into, to happen as a result
@@ -1442,6 +1442,7 @@ pintuan	doorway
 pintúra	paint
 pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
+porsiyénto	percent (syn: bahagdán)
 pósas	handcuffs
 preso	prisoner
 prito	fried
@@ -1565,7 +1566,7 @@ sikláb	blaze, flame
 siko	elbow
 silid	a room
 silip	to peek, peer
-singganda as beautiful as
+singganda	as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
 sinibak	fired, dismissed, axed (slang)
 siniko	elbowed
@@ -1780,12 +1781,14 @@ umawit	to sing
 umiiral	is existing
 umiyak	to cry/cried
 umpisá	beginning, start
+umunawA	to understand, to grasp mentally
 umurong	to retreat, withdraw, retract
 umuwi	to go home
 una	primary, first, chief
 únan	pillow
 unang-una	firstly, first of all
 unawa	to understand, comprehend (like intindi)
+unawain	to understand, to grasp mentally
 untî	bit, small amount
 upang	so that, for, in order to (syn: "para")
 urong	retreat, backward movement
