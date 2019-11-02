@@ -283,6 +283,7 @@ dinuguan	“bloodied” blood stew, meat dish
 di-sanáy	unskilled, unused to
 di-umanó	it is said, allegedly
 di-umanó	they say
+diwang	ceremony, celebration (prefer pagdiriwang)
 doon	there ("dun", "duon")
 dugô	blood
 duguan	bloody
@@ -1170,6 +1171,7 @@ nakatagilid	askew, tilted
 nakatakda	is set, fixed (in time, amount, etc.)
 nakatanod	is on guard; is watching over…
 nakatikim	to have tasted/tried something
+nakatungo	with head bent down
 nakatutulong	helpful
 nakauuhaw	causing thirst
 nakaw	stolen item
@@ -1233,6 +1235,7 @@ pagbubukas	the time being open, as in a store
 pagdating	
 pagdikitin	to stick things together
 pagdinig	a hearing (judicial, etc.)
+pagdiriwang	ceremony, celebration
 pagdugo	bleeds / act of bleeding
 pagdurugo	bleeding
 paggalang	respecting
@@ -1264,6 +1267,7 @@ paglikha	creation
 pagmamalabis	(hyperbole)
 pagmamalupit	abuse, harsh treatment
 pagnanakaw	burglary, stealing, larceny
+pagpapahalaga	importance, regard, appreciation, regard
 pagpapalaya	liberation
 pagpapaliban	postponement
 pagpapalit-saklaw	(synecdoche)
@@ -1351,6 +1355,7 @@ pananakot	scaring, intimidation
 pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing
+pandiriwang	ceremonial, celebratory (adj)
 pangako	promise
 pangarap	dream as in wish or hope (not sleeping dream)
 panggabi	for the evening
@@ -1407,6 +1412,8 @@ patók	a sure winner, a big hit
 patuloy	constant, continuous, ongoing
 patunay	proof, testimony
 patunayan	to prove, testify, verify
+patungo	toward, going to a certain place
+patutunguhan	destination
 paulit-ulit	again and again, over and over
 paumanhín	"sorry" (very formal)
 pauróng	backward
@@ -1689,6 +1696,8 @@ tawanan	to laugh at
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayútay	figure of speech
+téma	theme
+tematiko	thematic
 testigo	witness
 tibay	sturdiness
 tigás	hardness, toughness, stiffness
@@ -1741,11 +1750,17 @@ tumapos	to finish
 tumawíd	to cross
 tumestigo	testify
 tumigil	to stop
+tumungo ka	bow your head
+tumungó	to bow one’s head in submissiveness
+tumungo	to go to
 tumupád	to peform, accomplish
 tumutol	objected
 túnay	true, correct, pure, real, genuine, legit
 tungkól	concerning, about
+tungó	bowing of the head
+tungo	goal, purpose, direction
 tungo	goal, purpose, direction; to deal with
+tungo	to deal with
 tuntón	tracing the path, source, origin; giving guidance at the start
 tuntunan	basis
 tuntunin	rule, principle
