@@ -14,6 +14,9 @@ agam-agam	doubt; hesitation; suspicion
 agaw	to snatch, grab
 akalà	idea, belief/thought/assumption (often incorrect)
 akto	doing, acting, performing, behaving, carrying out (actor)
+akyát	rise, climb
+akyat, baba	“up and down”
+akyat-bahay	“climb-house” = burglar
 alaála	memory, keepsake, souvenir
 alabok	dust
 alaga	to care for, to protect
@@ -181,6 +184,7 @@ binalaki	pc term for lesbian (bakla)
 binata	bachelor, young man
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
+binubuo	composing/comprising (buuin)
 bisà	force; effect; strength
 bisi	busy
 bistado	obvious, exposed
@@ -189,6 +193,7 @@ bitbitin	to hand-carry
 bitiw	to let go
 biyahe	trip, journey
 bola	flattery
+bote-bote	many bottles
 bugbóg	beating up, pummeling
 buháwi	whirlwind, cyclone, waterspout
 buháy	alive
@@ -453,6 +458,7 @@ humuhumi	twittering/tweeting (huni)
 humupa	subside
 huni	hoot, tweet, chirping sound
 iabot	to hand something over
+iakyat	to bring up
 ialay	to offer, to give
 iba	other, different, another
 iba’t-iba	 various, different, varied
@@ -648,6 +654,7 @@ kasamahan
 kasanayan	skill, proficiency
 kasanggulan	infancy
 kasapi	member of an organization (sapi)
+kasarinlan	independence, individuality
 kasaysayan	history
 kasí	because (also, kc, kz, ksi, kase, kse)
 kasing-pangit	as ugly as
@@ -677,6 +684,9 @@ katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
+katutubo	native (tubo, syn: taal)
+katutubo	native, indigenous, ethnic
+katutubong-ugali	native habits, behavior, instinct, nature
 kaugnayan	relation
 kausapin	to speak/converse with
 kautusan	order, mandate, command (utos)
@@ -771,6 +781,7 @@ libanan	to skip, omit
 libing	burial
 libingan	grave, cemetery
 libo	thousand
+libu-libo	thousands
 lígaw	to woo, court
 ligáya	happines, joy
 ligtas	saved, freed, redeemed; safe
@@ -834,6 +845,7 @@ mabasag	to be broken
 mabatid	to be informed
 mabenta	very marketable (is selling a lot)
 mabiga	fault-finding
+mabigát	heavy
 mabilis	fast, quick
 mabilis	rapidly
 madaanan	passable, drivable
@@ -893,6 +905,7 @@ maglapat	to administer; apply
 maglaro	to play
 maglinis	to clean
 magmadali	to hurry; "hurry up!"
+magmahal	to hold dear, value
 magmanEho	to drive
 magnanakaw	thief
 magpaalam	to bid goodbye
@@ -912,6 +925,7 @@ magpuri	to praise, compliment
 magsalita	to talk, to speak
 magsanay	to exercise, as in to practice
 magsapì	to join together
+magsarili	to become independent
 magsikap	to endeavor, make an effort to
 magsinungaling	to lie
 magsumikap	to strive
@@ -1003,6 +1017,7 @@ mamasukan	to have a job
 mamayâ pa	not now, but later today
 mamayâ	later today
 mamilipit	to writhe, squirm, convulse
+mamuhunan	to invest
 mamulot	to pick up things, glean
 man	although, even if, with, too
 manakot	to scare
@@ -1237,6 +1252,7 @@ pagkakasundo	consensus
 pagkakataon	an opportunity or occasion
 pagkalito	confusion
 pagkamapanlikha	originality
+pagkamasarili	egotism
 pagka-may-arì	ownership, possession
 pagkatalo	defeat
 pagkatao	character
@@ -1350,6 +1366,7 @@ panlahi	racial
 panood	watching (obj focus, alt of manood)
 panoorin	to watch something (object focus)
 pansamantala	for the time being
+pansarili	personal, private
 pansin	notice, attention, recognition
 pantanggal	something used for removing
 pantay	level, equal
@@ -1429,6 +1446,7 @@ pósas	handcuffs
 preso	prisoner
 prito	fried
 pugad	nest
+puhúnan	investment
 pulá	red
 pulô	island
 pulong	meeting
@@ -1441,6 +1459,7 @@ puná	criticism, remark, observation
 punô	full, filled
 punò	tree; chief, leader; origin, source, base
 puntahan	to go to a person or place
+puntód	mound; tomb
 puri	praise
 puslít	smuggling, low-key escape: squirt, spurt
 putól	cut (adj)
@@ -1451,7 +1470,9 @@ puwersahin	to force
 puwesto	place, position, employment
 rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
+sa kabilâ ng	in spite of 
 sa kabuuan	altogether; for the most part(?)
+sa puhunan	at cost
 saan	sa- -an. -an refers to place where an action takes place 
 saanmán	everywhere
 saan-saan	in/at what place; everywhere
@@ -1518,6 +1539,7 @@ sará	closed; to close
 sarado	closed
 saráp	tastiness, deliciousness
 sarili	self; private
+sariling atin	our own
 sasabay	will go together
 sasakyán	vehicle
 sasakyan	will ride (sakay)
@@ -1597,6 +1619,7 @@ suót	clothes
 suutan	to dress someone
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
 syonget	ugly
+taál	native, original
 taás	height
 tabí	side
 tagál	long duration
@@ -1685,6 +1708,7 @@ tinig	voice
 tinik	fishbone, thorn
 tira	residence; enduring; left-over, residue
 tirhan	to spare, set aside for someone
+tiwala sa sarili	self-confidence
 tiwala	trust, faith
 tiwalî	incorrect; inverted; absurd
 tiyagâ	diligence, perseverance
@@ -1746,6 +1770,7 @@ umaambag	is contributing
 umaapoy	blazing, is ablaze
 umabot	to reach for
 umakto	to act, perform as in a play, behave
+umakyat	to climb
 umalis	to leave, depart
 umalma	have a tantrum or a fit, rise on one’s hind legs (like a bucking horse)
 umamin	admitted/confessed (amin)
@@ -1773,6 +1798,7 @@ utang	debt
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
+wala sa kanyang sarili	absent-minded, not being oneself
 walâ	none, not there, absent.. (slang: waley, nawaley)
 walang-antala	without delay
 walang-galang	without respect
