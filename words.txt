@@ -52,7 +52,7 @@ anak-anakan	foster chld
 ang aga mo!	   you’re so early!
 ang aga nila!	   they’re so early!
 antála	delay
-anuman	whatever (ano + man)
+anuman	whatever, anything (ano + man)
 anyô	form, appearance, figure
 apíd	fornication
 apó	grandchild
@@ -502,6 +502,7 @@ ipagbigay-alam	to give notice
 ipagdasal	to pray for someone
 ipaggiitan	to assert, insist on
 ipagkapuri	be proud of or well satisfied with
+ipaglaban	to fight for something/someone
 ipagpaliban	to put something aside
 ipagpatawad	to pardon, excuse
 ipagpaumanhin	to excuse
