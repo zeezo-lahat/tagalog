@@ -191,6 +191,7 @@ bistado	obvious, exposed
 bitbít	hand carried / carrying by hand
 bitbitin	to hand-carry
 bitiw	to let go
+bituin	star
 biyahe	trip, journey
 bola	flattery
 bote-bote	many bottles
@@ -208,6 +209,7 @@ búkol	lump, tumor, swelling
 bulág	blind
 bulahaw	disturbance
 bulaklak	flower (noun)
+bulalákaw	meteorite, shooting star
 bulilít	tiny, drawfish; smallest/youngest person
 bulók	rotten, corrupt
 bulóng	murmur, whisper; a magical incantation
@@ -411,6 +413,7 @@ háyo	forward!, move ahead
 hayop	animal
 heto	"here"
 hibáng	a crazy person; delirious
+hidhid	a selfish person
 higít	more (than), over
 higpít	tightness; strictness, severity
 hilì	envy
@@ -442,6 +445,7 @@ hubô	naked (orig. from the waist down)
 hubo’t hubad	completely naked
 hugas	wash, rinse
 hugasan	to wash, rinse
+hugot	slang: knowledge of a person based on his or her past experiences, romantic or otherwise
 hulà	guess, forecast
 hulaan	to guess
 huli	catch
@@ -651,7 +655,8 @@ kasalanan	fault, error, mistake, blame, sin
 kasali	included
 kasalukúyan	current, present time (salúkoy)
 kasalungat	opposite
-kasáma	companion, comrade, fellow, associate; together, with, including
+kasáma	companion, comrade, fellow, associate
+kasama	among, together, with, including
 kasamahan	
 kasanayan	skill, proficiency
 kasanggulan	infancy
@@ -1518,6 +1523,7 @@ salâ	broken, dislocated (bones)
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 sali	to join
+saligang-batas	national constitution
 salisi	alternately, in opposite directions
 salitâ	word; language; talk
 salitain	to put into words
