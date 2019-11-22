@@ -52,6 +52,7 @@ anak-anakan	foster chld
 ang aga mo!	   you’re so early!
 ang aga nila!	   they’re so early!
 antála	delay
+anu-ano	other (plural)
 anuman	whatever, anything (ano + man)
 anyô	form, appearance, figure
 apíd	fornication
@@ -196,6 +197,8 @@ biyahe	trip, journey
 bola	flattery
 bote-bote	many bottles
 bugbóg	beating up, pummeling
+bugsô	crowd of people
+bugsô	flush, blast, downpour
 buháwi	whirlwind, cyclone, waterspout
 buháy	alive
 búhay	life
@@ -240,6 +243,7 @@ dagat	the sea
 dagdág	extension, increase, addition
 dagdag-sahod	additional salary
 dagdag-singil	price hike
+dagsâ	violent forward rush
 dahán-dahán	slowly
 dahil	because
 dahilan	reason (noun)
@@ -268,12 +272,15 @@ dáti	former(ly), previous(ly), old, ex
 datihan	used to, accustomed
 dating	arrival
 dati-rati	formerly, previously
+datnan	to find or discover upon arrival (dating)
 dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
 dayà	deceit, fraud
 dayain	to cheat someone
 dayo	visitor, stranger, foreigner
 dayúhan	foreigner
 detálye	detail
+dibdib	chest, bosom (do not use a hyphen!)
+dibdibin	to brood over something
 diin	emphasizing, stressing, pressing, insisting
 dikit	stick, adhere, paste
 dikitán	to attach, stick
@@ -283,6 +290,7 @@ dinggín	to listen to, to hear (dinig)
 diníg	audible
 dinuguan	“bloodied” blood stew, meat dish
 di-sanáy	unskilled, unused to
+disgrasya	mishap
 di-umanó	it is said, allegedly
 di-umanó	they say
 diwang	ceremony, celebration (prefer pagdiriwang)
@@ -594,6 +602,7 @@ kakambal	fellow twin, being like someone
 kakulitan	peskiness, badgering
 kalaban	opponent
 kalabóso	prison
+kaladkád	drag/dragging
 kalagayan	state or condition
 kalahati	half
 kalahok	contestant
@@ -655,8 +664,8 @@ kasalanan	fault, error, mistake, blame, sin
 kasali	included
 kasalukúyan	current, present time (salúkoy)
 kasalungat	opposite
-kasáma	companion, comrade, fellow, associate
 kasama	among, together, with, including
+kasáma	companion, comrade, fellow, associate
 kasamahan	
 kasanayan	skill, proficiency
 kasanggulan	infancy
@@ -711,6 +720,7 @@ kinabukasan	future
 kinagabihan	on that night
 kinaiinisan	to be annoyed at someone
 kinakapatid	step-sibling, godsib, god-sibling
+kinaladkad	dragged
 kinamay	used hands on something
 kinamayan	to shake hands with
 kiníg	something heard
@@ -721,6 +731,8 @@ kita	income
 kita	seeing
 kítang-kíta	very easily seen; obvious
 klase	case, type, category
+kótong	bribe (chinese origin.  syn. lagáy)
+kotongan	solicit a bribe from
 kukunin	will take/get
 kúlang	deficient, lacking, inadequate
 kulay	color
@@ -741,6 +753,7 @@ kunwari	pretend (also kunyari)
 kutsara	spoon
 kuwarto	room, bedroom
 kuwenta	(also kwenta) accounting/calculating; value
+kuwento	story, tale, narration
 kuwintas	necklace
 labág	against, contrary to, in violation
 laban	fight, duel, race, contest
@@ -854,6 +867,7 @@ mabiga	fault-finding
 mabigát	heavy
 mabilis	fast, quick
 mabilis	rapidly
+mabúti	fine, good
 madaanan	passable, drivable
 madahan	slow
 madAlang	seldom
@@ -1522,6 +1536,7 @@ saktan	injured/hurt (sakit)
 salâ	broken, dislocated (bones)
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
+salbáhe	naughty
 sali	to join
 saligang-batas	national constitution
 salisi	alternately, in opposite directions
@@ -1776,6 +1791,7 @@ turò	point (as with your finger)
 turò	teach
 turò-turò	a restaraunt where you point to what you want
 tutál	anyway
+túto	learning (mostly used as root, eg matúto)
 tutok	point (a gun at), aim, focus attention on
 tutol	objection, disapproval, opposition, protest
 tuwâ	joy, happiness, fun
