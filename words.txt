@@ -1,3 +1,4 @@
+aba	
 aberya	mechanical trouble; a snag; literal or metaphorical malfunction
 abiso	notice, notification (mag: i: an)
 abók	dust, ash
@@ -520,7 +521,7 @@ ipagpatawad	to pardon, excuse
 ipagpaumanhin	to excuse
 ipagsaya	to celebrate
 ipagtapát	to confide, confess, be truthful
-ipakilala	to make known, bring into acquaintance with
+ipakilala	to make known, introduce, bring into acquaintance with
 ipakita	to show (cause someone else to see)
 ipaliwanag	to explain, clarify
 ipatapon	to exile
@@ -649,6 +650,7 @@ kapwang	both, all
 kapwa-tao	relations with others
 karamihan	most, majority, nearly all
 karanasán	an experience
+karaniwan	usually, common, typical, ordinary
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
 karapat-dapat	qualified, worthy, fitting, deserving
@@ -794,6 +796,7 @@ lawig	long duration (less commonly used than tagal)
 lawin	hawk
 lawit	suspended, hanging
 layà	freedom, liberty
+layas	get out!
 layo	far away
 liban	absence, absent, an omission
 libanan	to skip, omit
@@ -898,7 +901,7 @@ magdaya	to cheat, trick
 magdikit	to stick together
 maghawak	to hold each other by the hand
 mag-iba	to change or switch
-maging	to happen, become
+maging	to happen, become, experience something
 mag-ingat	be careful
 mag-ingay	to make loud noise
 mag-isa	alone
@@ -1372,6 +1375,7 @@ paminsan-minsan	occasionally, from time to time
 panahon	time; season, weather; all the days there have been or ever will be
 panalunan	winnings
 pananakot	scaring, intimidation
+panauhin	a guest
 pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing

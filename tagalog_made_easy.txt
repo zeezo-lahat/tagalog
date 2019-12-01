@@ -1,3 +1,22 @@
+# part 76
+maaliwAlas	clear
+maaliwAlas ang panahon ngayon	today's weather is clear
+makulimlIm	cloudy
+magIging makulimlIm ang panahon bukas	the weather tomorrow will be cloudy
+karanIwan	usually
+karanIwan sa mga pilipino ay masayAhin	filipinos are usually happy people
+mapAgpakUmbabA	humble
+mapAgpakUmbabA	she is a humble person
+tulAran	imitate
+kabutIhan	goodness
+tularan natin ang kabutihan ng ating magulang	let us imitate the goodness of our parents
+dayuhan	foreigner
+naging masaya ang mga dayuhan sa pagbisita sa pilipinas	the foreigners enjoyed visiting the philipppines
+kahit saan	everywhere
+mag-ingat kahit saan ka man magpunta	be careful everywhere you go
+
+
+
 # part 83
 Gusto mo bang sumama sa amin para maghapunan?
 Would you like to join us for dinner?

@@ -1,190 +1,58 @@
-sa: for, than, with, ..
-mabuti: better
-mali: wrong
-muli: again
-may: with/including/having
-aba: well..., bla bla..
-sana: perhaps..  <- need to better understand use of this word
--> palagay
-
-sumama sa akin
-go with me
-
-Bagay na gawa sa tela ito.
-This thing is made of cloth.
-
-Dito na po kayo maghapunan.
-Please stay for dinner.
-
-Nasa-isip kita ng buong araw.
-I think about you all day.
-
-Nasa-isip kita ng buong araw.
-I think about you all day.
-
-Bata pa po kayo noon.
-You were young.
-
-Babala, mga usa
-Warning, deer
-
-Babala, mga usa
-Warning, deer
-
-Baka mabuhat niya ang mesa ngunit malamang hindi.
-He/she might be able to lift the table, but it is unlikely.
-
-Halos 4,000 piso ang halaga nito.
-It costs about 4,000 pesos..
-
-Saan banda ang kalye Malvar?
-Where is Malvar Street?
-
-May Kailangan mo ba?
-Do you need anything?(have need by-you)
-
-ang mga magulang at ang kanilang mga anak na lalaki.
-parents and their sons
-
-Do you-all want?
-Gusto ninyo ba?
-
-Remember this.
-Tandaan mo ito.
-
-I think i'm drunk already.
-Lasing na yata ako.
-
-Don't wait for me.
-Huwag mo akong hintayin.
-
-Let it be seven o'clock.
-Alas siete na lang.
-
-What would you like to eat?
-Anong gusto ninyong pagkain?
-
-I don't know when.
-Hindi ko alam kong kailan.
-
-Your voice is loud.
-Malakas ang boses mo.
-
-We are going to Carla's store. (exclusive we)
-Pupunta na naman kami sa tindahan ni Carla.
-
-Here's your trouble.
-Heto po ang problema ninyo.
-
-I'm already going to leave alone.
-Aalis na ako mag-isa.
-
-Which animals seldom swim?
-Aling mga hayop ang bihirang lumalangoy?
-
-I'm visiting my friends.
-Binibisita ko ang aking mga kaibigan.
-
-
-We know that this love is written as a poem.
-Alam nating nakasulat sa poem ang love letter ito.
-
-This new coat is great!
-Ang galing po ng bagong coat na ito!
-
-Which woman has the longest hair?
-Aling babae ang may pinakamahabang buhok?
-
-I'd like to buy a T-shirt.
-Gusto ko pong bumili ng t-shirt.
-
-She did his homework.
-Ginawa niya ang kaniyang homework.
-
-This is the right ball for playing basketball.
-Angkop ang bolang ito para sa paglalaro ng basketball.
-
-Which animal has all four legs off the ground?
-Aling tao ang may dalawang binting wala sa lupa?
-
-I will call the doctor.
-Tatawagan ko ang doktor.
-
-a man with his sister.
-ang lalaki at ang kanyang kapatid na babae.
-
-No, they are not sitting.
-Hindi sila nakaupo.
-
-Pretending to be asleep.
-Nagkukunwaring tulog.
-
-Mister, it seems that your taxi meter is moving too fast.
-Mama, parang ang bilis yata ng metro mo.
-
-What are you reading?
-Anong binabasa mo?
-
-Let's take her/him to the hospital.
-Dalhin natin siya sa ospital.
-
-I want to stay.
-Gusto kong mag-tagal.
-
-adults' clothing
-ang mga damit-pangmatanda
-
-It is nine forty-five at night.
-Alas otso kwarenta y singko na ng gabi.
-
-What is there to see here?
-Ano ang makikita dito?
-
-Please give me a bag.
-Pahingi naman ng supot.
-
-When will the bus leave for Manila?
-Kailan aalis ang bus para sa Maynila?
-
-The boys are ready to run.
-Handa nang tumakbo ang mga batang lalaki.
-
-My mom will be right down.
-Bababa na po kaagad ang nanay ko.
-
-I want to eat ice cream.
-Gusto kong kumain ng sorbetes.
-
-This thing is made of glass and stone.
-Bagay na gawa sa salamin at bato ito.
-
-Sweet dream.
-Matamis na panaginip.
-
-Which one is more painful?
-Alin dito ang mas masakit?
-
-I will follow you.
-Susundan kita.
-
-Is the flight delayed?
-Atrasado ba ang flight?
-
-She got sleepy.
-Inantok siya.
-
-The nurse is using a scale to weigh Eva.
-Gumagamit ng timbangan ang nars para timbangin si Eva.
-
-Can you please use the meter?
-Pwede bang pakigamit ang metro?
-
-This is my right.
-Karapatan ko ito.
-
-What did you buy yesterday?
-Anong binili mo kahapon?
-
-Are you thirsty? (plural, formal)
-Nauuhaw po ba kayo?
-
+sumama sa akin	go with me
+bagay na gawa sa tela ito	this thing is made of cloth.
+dito na po kayo maghapunan.	please stay for dinner.
+nasa-isip kita ng buong araw	I think about you all day.
+bata pa po kayo noon.	you were young.
+babala, mga usa	warning, deer
+baka mabuhat niya ang mesa ngunit malamang hindi.	she might be able to lift the table, but it is unlikely.
+halos 4,000 piso ang halaga nito.	it costs about 4,000 pesos..
+saan banda ang kalye malvar?	where is malvar street?
+may Kailangan mo ba?	Do you need anything?(have need by-you)
+ang mga magulang at ang kanilang mga anak na lalaki.	parents and their sons
+gusto ninyo ba?	do you-all want?
+tandaan mo ito	remember this
+lasing na yata ako	I think i'm drunk already
+huwag mo akong hintayin	don't wait for me
+alas siete na lang	let it be seven o'clock
+anong gusto ninyong pagkain?	what would you like to eat?
+hindi ko alam kong kailan	I don't know when
+malakas ang boses mo	your voice is loud
+pupunta na naman kami sa tindahan ni Carla	we are going to Carla's store
+heto po ang problema ninyo	here's your trouble
+aalis na ako mag-isa	I'm already going to leave alone
+aling mga hayop ang bihirang lumalangoy?	which animals seldom swim?
+binibisita ko ang aking mga kaibigan	I'm visiting my friends
+alam nating nakasulat sa poem ang love letter ito	we know that this love is written as a poem
+ang galing po ng bagong coat na ito!	this new coat is great!
+aling babae ang may pinakamahabang buhok?	which woman has the longest hair?
+gusto ko pong bumili ng t-shirt	I'd like to buy a T-shirt
+ginawa niya ang kaniyang homework.	she did his homework.
+angkop ang bolang ito para sa paglalaro ng basketball	this is the right ball for playing basketball
+aling tao ang may dalawang binting wala sa lupa?	which animal has all four legs off the ground?
+tatawagan ko ang doktor	I will call the doctor
+ang lalaki at ang kanyang kapatid na babae	a man with his sister
+hindi sila nakaupo	no, they are not sitting
+nagkukunwaring tulog	pretending to be asleep
+mama, parang ang bilis yata ng metro mo	mister, it seems that your taxi meter is moving too fast
+anong binabasa mo?	what are you reading?
+dalhin natin siya sa ospital	let's take her/him to the hospital
+gusto kong mag-tagal	I want to stay
+ang mga damit-pangmatanda	adults' clothing
+alas otso kwarenta y singko na ng gabi	it is nine forty-five at night
+ano ang makikita dito?	what is there to see here?
+pahingi naman ng supot	please give me a bag
+kailan aalis ang bus para sa Maynila?	when will the bus leave for Manila?
+handa nang tumakbo ang mga batang lalaki	the boys are ready to run
+bababa na po kaagad ang nanay ko	my mom will be right down
+gusto kong kumain ng sorbetes	I want to eat ice cream
+bagay na gawa sa salamin at bato ito	this thing is made of glass and stone
+matamis na panaginip	sweet dream
+alin dito ang mas masakit?	which one is more painful?
+susundan kita.	I will follow you
+atrasado ba ang flight?	is the flight delayed?
+inantok siya.	she got sleepy
+gumagamit ng timbangan ang nars para timbangin si Eva	the nurse is using a scale to weigh Eva
+pwede bang pakigamit ang metro?	can you please use the meter?
+karapatan ko ito	this is my right
+anong binili mo kahapon?	what did you buy yesterday?
+nauuhaw po ba kayo?	are you thirsty? (plural, formal)
