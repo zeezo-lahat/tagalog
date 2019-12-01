@@ -113,6 +113,7 @@ bale	as if; equal in value to; cash advance
 bale-bale	worth one's salt, worthy
 bale-wala	not worth ones salt, not worthy
 baligtad	inside-out, upside-down (also 'baliktad')
+balitaan	notify
 balikat	shoulder
 balot	wrapper, wrapping
 banál	holy, virtuous, blessed
@@ -223,6 +224,7 @@ bumahíng	to sneeze, sneezed (also bumahín)
 bumakas	made an imprint
 bumaligtad	to reverse oneself, to turn upside down
 bumanat	“to go in hard”
+bumAngon	to rise from a lying position, to get up
 bumawi	to make up for something (bawì)
 bumigay	collapse
 bumuô	to form, constitute, create
@@ -290,6 +292,7 @@ din	too, also - expression modified is like a corresponding earlier idea
 dinggín	to listen to, to hear (dinig)
 diníg	audible
 dinuguan	“bloodied” blood stew, meat dish
+dinumog	to mob/mobbed
 di-sanáy	unskilled, unused to
 disgrasya	mishap
 di-umanó	it is said, allegedly
@@ -576,6 +579,7 @@ kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
 kabulagan	state of blindness
+kabutihan	goodness
 kabuuAn	composition, entirety
 kadalAsan	frequently, usually
 kadena	a chain
@@ -959,6 +963,7 @@ magtapat	to tell the truth, to be frank, sincere, honest
 magtawíd	to carry across
 magtuksuhan	to tease one another
 magtulOy	to proceed, go ahead
+magulang	parents
 magulat	to be shocked
 mag-ulat	to report, give an account of
 magwala	to go amuck
@@ -1092,6 +1097,7 @@ masikap	diligent, industrious
 masipag	hardworking
 masira	spoil, damage, break down
 maski	even, mere (maski na: even so/though)
+masunurin	obedient
 masyado	"too", more, exceedingly, very (labis)
 matá	eye
 mataás	tall, high
@@ -1647,6 +1653,7 @@ sundin	to obey (sunod)
 sundô	fetch someone from somewhere
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
+sunod-sunod	sequence, order
 sunóg	burnt
 súnog	fire
 suntok	a fist punch
@@ -1657,6 +1664,7 @@ syonget	ugly
 taál	native, original
 taás	height
 tabí	side
+tagahanga	a fan (of something/someone)
 tagál	long duration
 tagalikha	producer, creator
 tagalinis	a cleaning person, person who cleans
@@ -1764,6 +1772,7 @@ tukuran	to prop up
 tula	poem
 tulad	(also katulad) imitation, like, similar to, followed by ng phrase
 tulak	push, shove; "drug pusher"
+tularan	imitate
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
