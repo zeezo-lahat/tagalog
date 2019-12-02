@@ -292,7 +292,7 @@ din	too, also - expression modified is like a corresponding earlier idea
 dinggín	to listen to, to hear (dinig)
 diníg	audible
 dinuguan	“bloodied” blood stew, meat dish
-dinumog	to mob/mobbed
+dinUmog	to mob, mobbed
 di-sanáy	unskilled, unused to
 disgrasya	mishap
 di-umanó	it is said, allegedly
@@ -457,7 +457,7 @@ hubô	naked (orig. from the waist down)
 hubo’t hubad	completely naked
 hugas	wash, rinse
 hugasan	to wash, rinse
-hugot	slang: knowledge of a person based on his or her past experiences, romantic or otherwise
+hugot	to pull or draw out; coll. drawing out feelings from deep within
 hulà	guess, forecast
 hulaan	to guess
 huli	catch
@@ -600,7 +600,7 @@ kahilingan	a request, claim, application
 kahirapan	poverty, hardship, difficulty
 kahit	despite, although, even if (in spite of: kahit na)
 kailángan pa	still need
-kailángan	to need
+kailángan	to need; needed
 kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
 kakambal	fellow twin, being like someone
@@ -639,6 +639,7 @@ kapâ	groping
 kapág	when, whenever, upon - (certainty though commonly used same as kung)
 kapahamakan	catastrophe, injury
 kapaín	to grope, search for
+kapalAran	fate
 kapaligiran	surroundings (ligid)
 kapalit	what is received in return
 kapatíd	sibling
@@ -709,6 +710,7 @@ katúpáran	accomplishment, fulfillment
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 kaugnayan	relation
+kaUnlarAn	progress (n)
 kausapin	to speak/converse with
 kautusan	order, mandate, command (utos)
 kawag	wave, wag
@@ -768,6 +770,7 @@ labì	lip, brim; excess; remains (as of a body)
 labis	surplus, excess, too/so much
 lagáy	to put; a bribe
 lagi	always
+lahat	all, everything, everyone
 lahì	(also láhi) race, people, breed, lineage
 lahók	entry; something included
 lákad	walk
@@ -810,7 +813,7 @@ libo	thousand
 libu-libo	thousands
 lígaw	to woo, court
 ligáya	happines, joy
-ligtas	saved, freed, redeemed; safe
+ligtAs	saved, freed, redeemed; safe
 likás	natural, inherent, innate, characteristic
 likha	creation
 likhain	to create
@@ -1156,6 +1159,7 @@ naaawa	to pity
 nabuhayan	to re-live something
 nadalâ	has become wary
 nag-aalala	worrying
+nagawa	an action done
 nagkalituhan	(people) getting mixed up
 nagkapalit	ended up switched
 nagmamadali	hurrying, in a hurry
@@ -1194,7 +1198,7 @@ nakapalda	wearing a skirt
 nakaparada	parking
 nakapasa	was able to pass (a test for school or work)
 nakapuwesto	in position
-nakaraan	past, previous (daan)
+nakaraAn	past, previous, recent (daan)
 nakarananas	is experiencing (dánas)
 nakatagilid	askew, tilted
 nakatakda	is set, fixed (in time, amount, etc.)
@@ -1234,6 +1238,7 @@ nasaktan	(was/were) injured/hurt (sakit)
 nasamsám	confiscated
 natatandaan	to remember (like naaalala)
 natilapon	was wildly thrown
+natutUnan	learned, something learned
 nauunawaan	to understand
 nginíg	to shake, shiver, tremble
 ngiti	a smile
@@ -1279,6 +1284,7 @@ pagkabulag	blindness
 pagkagising	upon waking
 pagkakaalam	knowledge
 pagkakagusto	the state of liking someone or something, infatuation
+pagkakAisa	unity
 pagkakaroon	having, availability
 pagkakasundo	consensus
 pagkakataon	an opportunity or occasion
@@ -1391,6 +1397,7 @@ pangarap	dream as in wish or hope (not sleeping dream)
 panggabi	for the evening
 panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
+panghabang buhay	lifelong
 panghanda	preparation for
 pangkariniwa	typical
 pangulo	president
@@ -1437,7 +1444,7 @@ patawad	forgiveness, apology
 patayutay	figuratively
 patí	including, even, as well
 patikim	"let me have a taste"
-patnubay	guide, companion, escort
+patnUbay	guide, companion, escort; guidance
 patók	a sure winner, a big hit
 patuloy	constant, continuous, ongoing
 patunay	proof, testimony
@@ -1527,6 +1534,7 @@ sabík	eager, keen, yearning
 sabit	hanging
 sabog	explosion, scattering
 sabón	soap
+sadyâ	purpose, aim; intended
 sagabal	hindrance, obstacle
 sagasà	to run over
 sagip	rescue, save
@@ -1610,6 +1618,7 @@ singganda	as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
 sinibak	fired, dismissed, axed (slang)
 siniko	elbowed
+sinisi	blamed
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sinungaling	liar; lie
 sípag	diligence, hard work
@@ -1618,6 +1627,7 @@ sirà	break, damage, ruin (milder than wasak)
 sirâ	broken
 siraulo	brain-broken (crazy)
 sisánte	dismiss, sack, fire
+sisi	remorse
 sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
 siyá	he, she, it, other meanings used in short phrases
@@ -1664,7 +1674,7 @@ syonget	ugly
 taál	native, original
 taás	height
 tabí	side
-tagahanga	a fan (of something/someone)
+tagahAnga	a fan (of something/someone)
 tagál	long duration
 tagalikha	producer, creator
 tagalinis	a cleaning person, person who cleans
