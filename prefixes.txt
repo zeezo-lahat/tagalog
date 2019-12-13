@@ -15,7 +15,7 @@
 * -in	nouns nominalizing actions
 8 -in	adj of being prone or susceptible to something (ex. sakitin)
 6 ipa-	someone (ng) has/causes someone else (sa) to do something re. (ang) (write, fix, eat, etc.)
-7 ipag-	(ng) does something for FOR someone else (ang) (*like i- but with mag- verbs) (benefactor)
+7 ipag-	(ng) does something for FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
 7 ipag-	(ng) does something regarding (to, with, etc.) a thing (ang) (object)
 * ipagCV-	to do something REPEATEDLY, INTENSIVELY or involving MULTIPLE OBJECTS
 9 ipagma-	to exhibit the root word's characteristic
@@ -75,7 +75,7 @@
 8 maisa-	abilitative of isa- (cause condition to be)
 6 maka-	abilitative -um- (actor), abilitative ika- (actor), abilitative ka-in (obj)
 9 maka-	accidental of ma- actor focus 
-7 makapag-	abilitative
+7 makapag-	abilitative (para makapag-focus siya sa..: so he can focus on..)
 7 makapag-an	abilitative
 7 makapagpaka-	abilitative
 7 makapang-	abilitative
@@ -88,7 +88,7 @@
 7 mang-	to do something intentionally HARMFUL or DESTRUCTIVE (ex. mangdaya - to cheat, manggulo - cause disorder) (actor)
 4 mang-	to become something PARTIALLY or TEMPORARILY (ex. manigas - to become hard, manitim - become dark) (actor)
 5 mang-	to do a recreational or CASUAL ACTIVITY (visiting, boating) (actor)
-4 mangCV-	nouns of FREQUENT ACTION, referring to a person associated with something (ex. manlalaro)
+4 mangCV-	nouns of FREQUENT ACTION, referring to a person associated with something (ex. manlalaro, mamamayan)
 5 manga-	to do COLLECTIVE ACTIONS involving/happening to many people (actor)
 4 mapa-	ability/possibility to (ng) CAUSE something to happen / be done (ang).  (able/unable, can/can't)
 6 mapa-	ability/possibility to (ng) CAUSE someone (ang) to do something.  (able/unable, can/can't)
@@ -126,6 +126,7 @@
 6 paka-an	to do something INTENSELY
 6 paka-in	to do something THOROUGHLY or to HIGH DEGREE
 2 paki-	favor/request/please (obj.)
+  paki-	there is another meening, eg "pakiramdam": feeling (n)
 5 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 5 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
 4 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)

@@ -1,3 +1,72 @@
+# pa part 2
+hindi pa ako pagod	I'm not yet tired
+okay pa ako	I'm still okay
+hindi pa ako tapos	I'm not done yet
+may ginagawa pa ako	I'm still doing something
+wala pang asawa si Marlo	Marlo is not yet married
+ayoko pang umuwi	I don't want to go home yet
+gusto ko pang gumala	I still want to take a stroll
+ayaw ko pang maligo	I don't want to take a bath yet
+tinAtamad pa ako	I still feel lazy
+may pizza pa ba?	is there still pizza left?
+kilala o pa ba ako?	do you still know me?
+busy pa ba siya?	is he/she still busy?
+may bus pa ba sa terminal ng ganitong oras?	is there still a bus at the terminal at this time?
+gutom na kami pero magluluto pa lang si nanay	we are already hungry, but mom is just about to cook
+nandiyan ka na?	are you there now?
+naku, sorry magbibihis pa lang ako	oh, sorry.  I'm just about to get dressed
+nasa Subic na kayo?	you're already in Subic?
+paalis pa lang kami ng Cavite	we are just about to leave Cavite
+gusto ko pa ng bulalo	I still want to have some bulalo
+ayoko pang matulog	I don't want to go to bed yet
+gusto ko pang manood ng Korean drama	I still want to watch Korean dramas
+kailangan ko pa ng yelo kasi mainit pa rin ang tubig	I still need some more ice because the water is still hot
+tanungin mo si Joe kung kailangan niya pa ng tulong	ask Joe if he still needs help
+may tinapay at palaman pa pala tayo	oh, we still have bread and sandwich spread
+hindi pa pala tapos	oh, it's not yet done
+may kasunod pa pala	there's still more
+ay, bukas pa pala ang pinto	oh, the door is still open
+nalimutan kong isara	I forgot to close it
+marami pa pala akong barya sa pitaka	oh, I still have a lot of loose change in my purse
+kahapon pa kita hinihintay	I have been waiting for you since yesterday
+mamaya pa kita tatawagan kasi busy po ako	I'll call you later because I'm still busy right now
+sa December pa ako uuwi sa Pilipinas	I'm going to the philippines in december (not now)
+sino pa ang walang ticket?	who else doesn't have a ticket?
+ako pa	me (in response to "sino pa...?")
+si Brannon pa	Brannon (in response to "sino pa...?")
+sina Brannon at Jose pa	Brannon and Jose (in response to "sino pa...?")
+aling parte pa ang dapat nating kulayan?	which other part should we color?
+yung mga pakpak pa	the wings (in response to "aling parte pa...?")
+saan pa tayo pupunta?	where else are we going?
+pupunta pa tayo sa Luxor	we still need to go to Luxor
+bakit hindi ppa nagsisimula/nag-uumpisa?	why hasn't it started yet?
+maaga pa kasi	(because) it's still early
+kailan ka pa dumating?	since when did you arrive?
+karating ko pa lang	 I just arrived / not long ago (response to "kailan ka pa dumating?")
+kumain ka pa	eat some more
+matulog ka pa	sleep some more
+wala pa akong asaws	I don't have a spouse yet
+busy ka pa ba?	are you still busy?
+galit ka pa ba sa akin?	are you still mad at me?
+mahal mo pa ba ako?	do you still love me?
+single ka pa ba?	are you still single?
+matagal ka pa ba?	are you going to take long?
+ikaw pa rin ang gusto ko	you are still the one I like
+meron pa ba?	is there more?
+
+# sana
+sana mag-snow ngayon	I hope it snows today
+sana yumaman ka	I hope you get rich
+sana nandito ka	I wish you were here
+sana magkasama tayo	I wish we were together
+sana maka-travel ako sa Norway sa susunod na winter	I wish we could travel to norway next winter
+malakas ako kumain pero ang payat ko pa rin.	I eat a lot but I'm still skinny
+sana tumaba na ako	I hope I could gain weight
+dumating sana nang maaga si Dennis	I hope dennis comes by early
+sana hindi umulan mamaya kasi wala akong dalang payong	I hope it will not rain later because I didn't bring an umbrella
+magma-mountain climbing sana kami ngayon kaya lang nagkasakit si Erol	We are supposed to go mountain climbing today but Erol got sick
+kakain sana tayo sa labas kaso nagluto si Rowena	we were going to eat out but Rowena cooked for us
+
 # daily routine
 gumigising ako nang maaga	I wake up early
 gumigising ako ng alas-singko ng umaga.	I wake up at 5am
@@ -8,8 +77,8 @@ pagkatops, naliligo ako	afterwards I take a shower
 naliligo ako sa umaga	I take a bath in the morning
 nagsIsipilyo ako pagkatapos maligo	I brush my teeth after taking a bath
 tapos, nagsIsipilyo ako	then I brush my teeth
-nagbibihis ako pagkatapos maligo I get dressed after taking a bath
-pagkatapos maligo nagbibihis ako I get dressed after taking a bath
+nagbibihis ako pagkatapos maligo	I get dressed after taking a bath
+pagkatapos maligo nagbibihis ako	I get dressed after taking a bath
 tapos, nagbibihis ako	then I get dressed
 nagsUsuklay ako pagkatapos maligo	I comb my hair after taking a bath
 tapos, nagsUsuklay ako	then I comb my hair
@@ -53,28 +122,28 @@ natutUlog ako ng alas-diyes ng gabI	I go to bed at 10pm
 pagkatapos magsipilyo ng ngipin, natutUlog na ako	after brushing my teeth I go to sleep
 
 
-araw-araw - every day
-GABI-GABI - every night
-DIKIT-DIKIT - close to each other/ cursive handwriting
-SINGSING - ring
-KILIKILI - armpit/underarm
-LOLO - grandfather
-OO - yes
-YAYA - nanny
-HALO-HALO - a popular Filipino dessert
-PAKPAK - wings
-ALAALA - memory
-ISA-ISA - one by one
-SABAY-SABAY - simultaneously/ in sequence/ in one time
-PANTAY-PANTAY - equal/even
-NGALANGALA - palate or roof of the mouth
-SAMA-SAMA - together
-GAYA-GAYA - a copycat
-BILBIL - love handle/ pot belly
-BOBO - stupid/ an unintelligent person
-BABA - chin/ come down
-UNTI-UNTI - gradually/ little by little
-DAHAN-DAHAN - slowly
-KARE-KARE - a popular Filipino stew
-UTO-UTO - gullible/ foolish/ naive
-DAGDAG - extra/ addition/ to increase
+araw-araw	every day
+GABI-GABI	every night
+DIKIT-DIKIT	close to each other/ cursive handwriting
+SINGSING	ring
+KILIKILI	armpit/underarm
+LOLO	grandfather
+OO	yes
+YAYA	nanny
+HALO-HALO	a popular Filipino dessert
+PAKPAK	wings
+ALAALA	memory
+ISA-ISA	one by one
+SABAY-SABAY	simultaneously/ in sequence/ in one time
+PANTAY-PANTAY	equal/even
+NGALANGALA	palate or roof of the mouth
+SAMA-SAMA	together
+GAYA-GAYA	a copycat
+BILBIL	love handle/ pot belly
+BOBO	stupid/ an unintelligent person
+BABA	chin/ come down
+UNTI-UNTI	gradually/ little by little
+DAHAN-DAHAN	slowly
+KARE-KARE	a popular Filipino stew
+UTO-UTO	gullible/ foolish/ naive
+DAGDAG	extra/ addition/ to increase
