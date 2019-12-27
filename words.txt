@@ -17,6 +17,7 @@ agad-agad	at once, very quickly
 agaw	to snatch, grab
 agos	flow (lit/fig)
 akalà	idea, belief/thought/assumption (often incorrect)
+ako man	I, too
 akto	doing, acting, performing, behaving, carrying out (actor)
 akyát	rise, climb
 akyát, baba	“up and down”
@@ -34,6 +35,7 @@ alám	knowledge, to know
 alamin	to find out, to investigate
 alat	saltiness
 alay	offering
+alin man	whichever
 alin	which?
 alinman	any, anything
 alinsunod	pursuant, in accordance to
@@ -60,6 +62,7 @@ ani	said by
 anihin	to harvest
 aniko	I said
 aniya	he/she said
+ano man	whatever
 antála	delay
 antás	step, degree, grade
 antasín	to classify, grade (not commonly used)
@@ -115,8 +118,8 @@ bakâ	perhaps, maybe, might
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
-bakbakán	to remove skin or bark (bakbák)
 bakbAkan	a fight, usually physical
+bakbakán	to remove skin or bark (bakbák)
 bakla	gay, homosexual
 baklás	pry off, detach from
 bakod	fence
@@ -193,6 +196,8 @@ bigay-alam	notice/notification
 bigay-hilig	indulgence
 bigay-sala	accusation
 bigay-todo	giving one’s all
+bigkás	pronunciation
+bigkasin	to pronounce, pronounced
 bigla	sudden, immediate, unexpected
 biglang-bigla	suddenly, unexpectedly
 bigô	frustrated, disappointed; failure
@@ -210,6 +215,7 @@ binata	bachelor, young man
 binati	greeted
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
+binigkas	pronounced
 binilang	to count
 binubuo	composing/comprising (buuin)
 bisà	force; effect; strength
@@ -256,6 +262,7 @@ bumAngon	to rise from a lying position, to get up
 bumawas	to reduce
 bumawi	to make up for something (bawì)
 bumigay	collapse
+bumigkas	to pronounce
 bumuô	to form, constitute, create
 bungad	front, threshold
 bunsô	youngest child in the family
@@ -357,10 +364,10 @@ dumating	to arrive, come
 dumí	feces
 dumoon	to go there
 dumumí	to defecate
-gaano man	however/however much
-gaano	how much
 gaano kalayo	how far?
 gaano man	however, however much
+gaano man	however/however much
+gaano	how much
 gabáy	guide, support; handrail
 gabí	night
 gabíng-gabi	late (at night)
@@ -670,13 +677,19 @@ kahapon pa	since yesterday
 kahati	shareholder; share (hati)
 kahéra	female store cashier
 kahéro	male store cashier
-kahina-hinala	suspicious; dubious (kahinahinala)
 kahilIngan	a request, claim, application
+kahina-hinala	suspicious; dubious (kahinahinala)
 kahirapan	poverty, hardship, difficulty
-kahit	despite, although, even, even if (in spite of: kahit na)
+kahit ano man	whatever
+kahit ano	anything
+kahit ganito	even though like this
+kahit kanino	whoever/whomever
+kahit na	although, even though, in spite of
 kahit pa	even though, despite
+kahit	despite, although, even, even if (khit)
 kaibahan	a difference
 kaibigang putik	“mud” friend = fake friend
+kailan man	whenever
 kailángan pa	still need
 kailángan	to need; needed
 kaingayan	noisiness
@@ -717,8 +730,8 @@ kambal-patinig	dipthong
 kamit	obtaining, getting, achieving
 kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
-kanan	right (vs. left)
 kanais-nais	desirable
+kanan	right (vs. left)
 kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	each on his own, individually
 kanta	song
@@ -788,10 +801,10 @@ katalo	opponent
 katanggap-tanggap	acceptable
 katapát	opposite
 katápátan	loyalty, integrity
-katatapos	just finished (kaCV - express something that just happened)
-katatapos lang ng bagyo noon	?
 katapusan	the end
 katapus-tapusan	the very end
+katatapos lang ng bagyo noon	?
+katatapos	just finished (kaCV - express something that just happened)
 katawAn	body
 katawá-tawá	ridiculous, laughable
 katibayan	proof
@@ -804,9 +817,9 @@ katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
-katwIran	(a) reason, logical argument
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
+katwIran	(a) reason, logical argument
 kaugnayan	relation
 kaUnlarAn	progress (n)
 kaunti	a small amount (unti)
@@ -857,7 +870,9 @@ kumawáy	to wave
 kumIkinang	sparkling
 kumpirma	to confirm
 kumpiyansa	confidence
-kundi	but rather; except (for), if not
+kundi	otherwise, but rather; except (for), if not
+kung hindi	if not
+kung nasaan	wherever
 kung	if (hypothetical, non-actual/possible condition, though used same as kapág)
 kungsabAgay	"as a matter of fact"
 kunwari	pretend (also kunyari)
@@ -880,9 +895,9 @@ labis	surplus, excess, too/so much
 lagáy	to put; a bribe
 lagi	always
 lagô	luxuriant growth
+lagsák	pagkadurog ng bagay na lumabis ang pagkaluto
 lagusan	exit tunnel, passageway
 lahat	all, everything, everyone
-lagsák	pagkadurog ng bagay na lumabis ang pagkaluto
 lahì	(also láhi) race, people, breed, lineage
 lahók	entry; something included
 lákad	walk
@@ -1069,6 +1084,7 @@ magkakambal	to be twins
 magkakapareho	the same (ref. to two(?) things/people)
 magkalapit	to be close together (two things/people)
 magkamali	to make a mistake
+magkano man	whatever the cost (price)
 magkanó	how much?
 magkapareho	the same (ref. to two things/people)
 magkapatid	siblings
@@ -1212,6 +1228,7 @@ mamilipit	to writhe, squirm, convulse
 maminsan-minsan	occasionally
 mamuhunan	to invest
 mamulot	to pick up things, glean
+man lamang	the minimum/least (magluto ka man lamang sana -> the least you could do is cook)
 man	although, even if, with, too
 manakot	to scare (ma-)
 manatili	to stay, be permanent (check into this word further)
@@ -1349,6 +1366,7 @@ nadalâ	has become wary
 nadulas	slipped; inadvertently blurted something out
 nag-aalala	worrying
 nagawa	an action done
+nagkaganoon	happened that way
 nagkalituhan	(people) getting mixed up
 nagkapalit	ended up switched
 nagkUsa	willingly
@@ -1461,8 +1479,9 @@ paalalahAnan	to remind
 paalam	goodbye, farewell
 paalisin	to make someone go, to evict someone
 paamoy	"let me smell.."
-paano	how
 paano kung	what if
+paano man	whatever the manner, etc
+paano	how (pno, pnu, panu)
 paarî	possessive
 pababa	downward
 pabago-bago	changing
@@ -1646,10 +1665,10 @@ pantanggal	something used for removing
 pantay	level, equal
 pantinig	vocal
 panunukso	the act of tempting (someone); teasing
-papaano	how will it be done?
+papaano	how did/will it be done/happen?
 papalapit	approaching(?)
-papasok	incoming
 papasok	about to go to school/work
+papasok	incoming
 papasukin	to allow someone to enter
 papuri	praise
 papurihan	to praise, to applaud
@@ -1774,10 +1793,12 @@ sa dako	toward, in the direction of
 sa kabilâ ng	in spite of 
 sa kabuuan	altogether; for the most part(?)
 sa kanan	on the right
+sa kanino man	whomever
 sa lalong madaling panahon	the earlier the better (as soon as possible)
 sa pangkalahAtan	in general
 sa puhunan	at cost
 sa wakas	finally
+saan man	wherever
 saan	sa- -an. -an refers to place where an action takes place 
 saanmán	everywhere
 saan-saan	in/at what place; everywhere
@@ -1828,12 +1849,12 @@ salpók	collision, impact (syn of banggâ)
 salúkoy	root of kasalukúyan. root word not commonly used.
 samâ	bad, evil, wicked
 sáma	to go with, join, accompany
-sama-sama	together (multiple)
 samahan	to accompany someone
 samakalawá	on the day after tomorrow
 samantala	meanwhile, while, for the time being
 samantalá	to capitalize, take advantage of
 samantalahIn	to take advantage of
+sama-sama	together (multiple)
 samsám	confiscation, seizure
 sana	I hope, I wish; was going to, but; should (not) have
 sanay	practice
@@ -1888,6 +1909,7 @@ singil	price quoted, charge, collection of payment of debt (-um-:-in)
 sinibak	fired, dismissed, axed (slang)
 siniko	elbowed
 sinisi	blamed
+sino man	whoever
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sinungaling	liar; lie
 sípag	diligence, hard work
@@ -2040,7 +2062,6 @@ tigil	stop, pause
 tikim	to taste, to try
 tikmán	to taste something (tikim)
 tiktík	spy, detective
-titik-hilig	italics
 tíla	apparently, seemingly
 tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
@@ -2056,6 +2077,7 @@ tinig	voice
 tinik	fishbone, thorn
 tira	residence; enduring; left-over, residue
 tirhan	to spare, set aside for someone
+titik-hilig	italics
 tiwala sa sarili	self-confidence
 tiwala	trust, faith
 tiwalî	incorrect; inverted; absurd
@@ -2080,8 +2102,8 @@ tularan	imitate
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
-tuloy	to enter, stay somewhere; as a result of (cause/effect)
 tulOy	proceeding, entering, continuing, progressing
+tuloy	to enter, stay somewhere; as a result of (cause/effect)
 tuloy-tuloy	continual/continuous, straight and unchanging
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
