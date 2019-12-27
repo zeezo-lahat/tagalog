@@ -623,6 +623,7 @@ ituloy	to continue, proceed
 ituring	to consider, regard, think of
 ituro	to point something out
 ituro	to teach something
+ituwíd	to straighten, to correct
 iugnay	to connect
 iuwi	to take someone home
 iwan	leaving, abandoning, omitting
@@ -803,9 +804,9 @@ katUmbas	an equivalent
 katunayan	actuality, fact
 katunAyan	truth
 katúpáran	accomplishment, fulfillment
+katwIran	(a) reason, logical argument
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
-katwIran	(a) reason
 kaugnayan	relation
 kaUnlarAn	progress (n)
 kaunti	a small amount (unti)
@@ -1158,6 +1159,7 @@ makatao	humanitarian, humane
 makatotohanan	realistic
 makatulog	to be able to sleep
 makatulong	to help, be helpful
+makatwiran	rational, reasonable
 makikiha	???? see making out in tagalog "please get.."
 makilala	to meet
 makiníg	to hear, to listen
@@ -1270,6 +1272,7 @@ masayá	happy, fun
 maselan	fastidious, meticulous, particular
 masigAsig	enthusiastic
 masikap	diligent, industrious
+masikip	tight
 masipag	hardworking
 masira	spoil, damage, break down
 maski	even, mere (maski na: even so/though)
@@ -1309,6 +1312,7 @@ matiyak	to ensure, be certain
 matumal	slow (business)
 matuto	to learn
 matuwa	to enjoy, have fun, be happy
+matwíd	first, just, legitimate
 maunawaan 	to be able to understand
 maUnawaIn	understanding (ma-unawa-in)
 maunlAd progressive
@@ -2076,9 +2080,9 @@ tularan	imitate
 tulay	bridge
 túlog	sleep
 túlong	help, aid, support
+tuloy	to enter, stay somewhere; as a result of (cause/effect)
 tulOy	proceeding, entering, continuing, progressing
-tuloy	staying somewhere; as a result of (cause/effect)
-tuloy-tuloy	continual/continuous
+tuloy-tuloy	continual/continuous, straight and unchanging
 tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
 tumangGI	to refuse, deny
@@ -2115,6 +2119,7 @@ tuwâ	joy, happiness, fun
 tuwáng	coordinate (grammar)
 tuwáng	supported on both sides
 tuwáng-tuwáng	in pairs
+tuwíd	straight, erect, direct
 ubó	cough
 ugnay	connection, relation, relevance
 ugnayan	connection, links, interdependence
