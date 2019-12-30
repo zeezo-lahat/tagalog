@@ -1,0 +1,57 @@
+adverbs of time	adverbs ng oras
+yesterday	kahapon
+today	ngayon
+tomorrow	bukas
+now	ngayon
+then	pagkatapos
+later	mamaya
+tonight	ngayong gabi
+right now	sa ngayon
+last night	kagabi
+this morning	ito umaga
+next week	susunod na linggo
+already	na
+recently	kamakailan lamang
+lately	kani-kanina lamang
+soon	maaga
+immediately	kaagad
+still	pa rin
+yet	pa
+ago	nakaraan
+adverbs of place	adverbs ng lugar
+here	dito
+there	doon
+over there	sa dako roon
+everywhere	sa lahat ng dako
+anywhere	kahit saan
+nowhere	wala kahit saan
+home	tahanan
+away	malayo
+out	palabas
+adverbs of manner	adverbs ng paraan
+very	tunay
+quite	lubos
+pretty	medyo
+really	tunay
+fast	mabilis
+well	mabuti
+hard	mahirap
+quickly	mabilis
+slowly	dahan-dahan
+carefully	mabuti
+hardly	parang hindi
+barely	bahagya
+mostly	halos lahat
+almost	halos
+absolutely	walang pasubali
+together	sama-sama
+alone	nag-iisa
+adverbs of frequency	adverbs ng dalas
+always	lagi
+frequently	madalas
+usually	karaniwan
+sometimes	kung minsan
+occasionally	paminsan-minsan
+seldom	bihira
+rarely	madalang
+never	hindi kailanman
