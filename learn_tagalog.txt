@@ -1,92 +1,35 @@
 #lesson 67 from Tagalog Made Easy
-payo advice
-sundin mo ang payo ko
-follow my advice
-
-nasasabik excited
-nasasabik ako na makita ka
-I am excited to see you
-
-maniwala ka sa akin
-believe me
-
-akala ko
-I thought
-
-akala ko darating ka
-I thought you are coming
-
-makakasama mo siya
-you will be with him/her
-
-ano ang dahilan?
-what is the reason?
-
-pumili ka ng gusto mo
-choose what you want
-
-nagustuhan mo ba?
-did you like it?
-
-huwag kang maniwala sa kanya
-do not believe him/her
-
-kung sakali
-in case
-
-kung sakali na dumating siya, ipaalam mo sa akin
-in case he arrives, let me know
-
-ipaliwanag mo sa kanya
-explain it to him/her
-
-intindihin
-understand
-
-intindihin mo ang kalagayan ko
-understand my situation
-
-sa mga araw na darating
-the coming days
-
-sa mga araw na darating ay uulan
-it will be raining in the coming days
-
-saka na lang
-some other time
-
-saka na lang ako dadalaw sa iyo
-I will visit you some other time
-
-ayan ka na naman
-there you go again
-
-nahirapan ako sa trabaho
-I had a hard time at work
-
-kaya kong gawin iyan
-I can do that
-
-kaya mo bang gawin ito para sa akin?
-can you do this for me?
-
-kasalanan mo
-your fault
-
-humingi ng tawad
-ask for forgiveness
-
-pangalawang pagkakataon
-second chance
-
-bigyan mo siya ng pangalawang pagkakataon
-give him/her a second chance
-
-kunwari
-pretend
-
-huwag kang magkunwari
-do not pretend
+payo	advice
+sundin mo ang payo ko	follow my advice
+nasasabik	excited
+nasasabik ako na makita ka	I am excited to see you
+maniwala ka sa akin	believe me
+akala ko	I thought
+akala ko darating ka	I thought you are coming
+makakasama mo siya	you will be with him/her
+ano ang dahilan?	what is the reason?
+pumili ka ng gusto mo	choose what you want
+nagustuhan mo ba?	 did you like it?
+huwag kang maniwala sa kanya	do not believe him/her
+kung sakali	in case
+kung sakali na dumating siya, ipaalam mo sa akin	in case he arrives, let me know
+ipaliwanag mo sa kanya	explain it to him/her
+intindihin	understand
+intindihin mo ang kalagayan ko	understand my situation
+sa mga araw na darating	the coming days
+sa mga araw na darating ay uulan	it will be raining in the coming days
+saka na lang	some other time
+saka na lang ako dadalaw sa iyo	I will visit you some other time
+ayan ka na naman	there you go again
+nahirapan ako sa trabaho	I had a hard time at work
+kaya kong gawin iyan	I can do that
+kaya mo bang gawin ito para sa akin?	can you do this for me?
+kasalanan mo	your fault
+humingi ng tawad	ask for forgiveness
+pangalawang pagkakataon	second chance
+bigyan mo siya ng pangalawang pagkakataon	give him/her a second chance
+kunwari	pretend
+huwag kang magkunwari	do not pretend
 
 diyan ka na lang
 just stay there
