@@ -15,8 +15,8 @@
 * -in	nouns nominalizing actions
 8 -in	adj of being prone or susceptible to something (ex. sakitin)
 6 ipa-	someone (ng) has/causes someone else (sa) to do something re. (ang) (write, fix, eat, etc.)
-7 ipag-	(ng) does something for FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
-7 ipag-	(ng) does something regarding (to, with, etc.) a thing (ang) (object)
+7 ipag-	(ng) does something FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
+7 ipag-	(ng) does something REGARDING (to, with, etc.) a thing (ang) (object)
 * ipagCV-	to do something REPEATEDLY, INTENSIVELY or involving MULTIPLE OBJECTS
 9 ipagma-	to exhibit the root word's characteristic
 9 ipagpa-	causative/benefactive - person 1 (ang) -> person 2 (ng) for the benefit of person 1
