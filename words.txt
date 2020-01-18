@@ -387,6 +387,7 @@ dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
 dalás	frequency
 dálaw	visit; guest
+dalawin	to visit someone/something
 dalhin	to bring, carry
 dali	quickness, rapidity, ease
 dalian	to hurry
@@ -402,6 +403,7 @@ dánas	experience
 dapâ	to trip, fall over; get down!
 dapat	should, ought to, must
 dapatwa	but, however (an "old word")
+darating	will come somewhere
 dasal	prayer
 dasalan	book of prayer, place of prayer
 dáti	former(ly), previous(ly), old, ex
@@ -783,7 +785,7 @@ kabaligtaran	(the) opposite
 kabatAan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
-kabilâ	next (?); the other side; in spite of (sa kabilâ ng)
+kabilâ	next (?); the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
 kabít	attached, connected; mistress
@@ -824,6 +826,7 @@ kahit	despite, although, even, even if (khit)
 kahulugan	meaning, significance
 kaibahan	a difference
 kaibigang putik	“mud” friend = fake friend
+kailan 	when (kelan)
 kailan man	whenever
 kailángan pa	still need
 kailángan	to need; needed
@@ -842,7 +845,7 @@ kalakbay	fellow traveller
 kalamidád	calamity
 kalapit	person or place nearby; neighboring, nearby
 kalaro	playmate, play partner
-kalát	scattered, disordered, spreading as on internet
+kalát	scattered, disordered; spreading as on internet
 kalawakan	space, especially referring to outer space
 kalayaan	freedom
 kalbaryo	calvary
@@ -876,7 +879,7 @@ kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	each on his own, individually
 kanta	song
 kantá	to sing
-kanto	corner
+kanto	corner, street corner
 kapâ	groping
 kapág	when, whenever, upon (implies certainty, though commonly used same as kung)
 kapahamakan	catastrophe, injury
@@ -1401,7 +1404,7 @@ malakas-lakas	somewhat strong
 malalâ	serious, acute
 malAlim	deep
 malamán	meaty (lamán)
-maláman	to know
+maláman	to know / be aware / learn about / discover something (obj); to find out (actor); (alam) 
 malamAng	probably, likely
 malambót	soft, tender
 malamig	cold
@@ -1650,6 +1653,7 @@ nakaparada	parking
 nakapasa	was able to pass (a test for school or work)
 nakapasok	entering
 nakapuwesto	in position
+nakaratIng	being somewhere, to be somewhere
 nakaraAn	past, former, previous, recent (daan)
 nakarananas	is experiencing (dánas)
 nakasalubong	encountered / bumped into
@@ -1664,6 +1668,7 @@ nakaw	stolen item
 naku po	oh, dear (nakupo, nakupu)
 naku	oh!, oh my!, omg! (nku, naks, haynako, aynako, aynaku)
 nakuha	got, managed, "got it" (kúha)
+nalalAman	being conscious/aware of, knows
 nalalapit	approaching (lit or fig)
 naláman	found out
 nalampasan	overtook
