@@ -83,6 +83,7 @@ alak	alcohol
 alalá	worried, anxious, thinking about
 alalahanin	to recall, remember; think/worry about, consider; cause of worry
 alám	knowledge, to know
+alamat	folklore, tradition, legend, myth
 alamin	to find out, to investigate
 alat	saltiness
 alay	offering
@@ -104,6 +105,7 @@ ambagan	contribution by several (diff. from ambagán)
 ambagán	to contribute
 ámin	confess, admit, acknowledge
 amin	ours (exclusive)
+amok	amuck, in a frenzy state
 amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
 ampón	adoptee
@@ -140,6 +142,8 @@ aruga	nurture, tender care
 arugain	to nurture
 asahan	expect, be sure that something will happen
 ásal	conduct, behavior
+asarín	to infuriate/offend/anger someone
+asár	infuriating, offensive, teasing
 asim	sourness
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
@@ -161,6 +165,7 @@ bagà	lung
 bagahe	baggage, luggage
 bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
+bagamat	although
 bágay	appropriate, fitting; thing, object
 bágo	new, fresh; before, prior to, previous 
 bagsak	decline, failure, dropoff; sudden fall or crash
@@ -259,6 +264,7 @@ bawiin	to take something back
 bayáan	let, allow
 bayad	pay, payment
 bayan	town, country, "home"
+bayani	hero, person who offers free service in a cooperative endeavor
 baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
 benta	sell
@@ -336,6 +342,7 @@ bulilít	tiny, drawfish; smallest/youngest person
 búlo	the hairy covering of some fruit
 bulók	rotten, corrupt
 bulóng	murmur, whisper; a magical incantation
+bulusok	sinking with the feet into soft mud; swishing sound; swift plunge downward by airplane
 bumaba	to go lower
 bumagsak	to fail
 bumahíng	to sneeze, sneezed (also bumahín)
@@ -427,6 +434,7 @@ diin	emphasizing, stressing, pressing, insisting
 dikit	stick, adhere, paste
 dikitán	to attach, stick
 di-mapigil	unstoppable
+dilà	tongue
 din	too, also (the expression modified is like a corresponding earlier idea)
 dinggín	to listen to, to hear (dinig)
 diníg	audible
@@ -1025,6 +1033,7 @@ kulitin	to badger, pester
 kulóng	jailed, caged
 kulot	curl
 kulungan	a cage, a prison
+kumanâ	to succeed
 kumanan	to go right
 kumapâ	search for by feeling / groping
 kumapit	to hold, grasp
@@ -1035,12 +1044,13 @@ kumIkinang	sparkling
 kumpirma	to confirm
 kumpiyansa	confidence
 kundi	otherwise, but rather; except (for), if not
-kung ano	that which, anything that, any that (however?)
+kung ano	that which, whatever, anything that, any that (however?)
 kung bagá	it’s as though…
 kung hindi	if not
 kung nasaan	wherever
-kung	if (hypothetical, non-actual/possible condition, though used same as kapág)
+kung	if, whether (hypothetical, non-actual/possible condition, though used same as kapág)
 kungsabAgay	"as a matter of fact"
+kunin	get, take
 kunwari	pretend (also kunyari)
 kurIpot	stingy
 kusà	deliberately, voluntarily
@@ -1048,6 +1058,7 @@ kusang palo	self-starter
 kusang-loób	free will
 kutà	fort, bulwark, hideout
 kutsara	spoon
+kutsilyo	table or kitchen knife
 kuwarto	room, bedroom
 kuwenta	(also kwenta) accounting/calculating; value
 kuwento	story, tale, narration
@@ -1055,6 +1066,7 @@ kuwento-kuwento	myth, urban legend
 kuwintas	necklace
 labág	against, contrary to, in violation
 laban	fight, duel, race, contest
+labanán	battle
 labás	outside
 labì	lip, brim; excess; remains (as of a body)
 labis	surplus, excess, too/so much
@@ -1092,6 +1104,7 @@ lamangan	advantage over others
 lambanóg	coconut booze
 lambót	softness, tenderness
 lamig	coldness
+lampara	a source of light, as a lamp
 lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
 langaw	housefly
@@ -1119,6 +1132,7 @@ layà	freedom, liberty
 layas	get out!, go away!
 layo	distance
 layUnin	purpose
+leeg	neck
 liban	absence, absent, an omission
 libanan	to skip, omit
 libing	burial
@@ -1207,6 +1221,7 @@ maalalahanin	thoughtful
 maalat	salty
 maAmo	gentle
 maantala	to be delayed
+maasár	to be furious, to be frustrated
 maasim	sour, acidic
 maawa	to take pity or mercy
 maayos	orderly
@@ -1410,6 +1425,7 @@ malambót	soft, tender
 malamig	cold
 malampasan	be able to overtake
 malapit	near, close
+malas	bad luck; unlucky; intent or searching look
 malawak	wide, extensive, vast, with a wide range; to widen, broaden (lit/fig)
 malay	knowledge, awareness, consciousness
 malaya	free, emancipated
@@ -1484,6 +1500,7 @@ mapagpapalit	interchangeable
 mapag-usApan	to discuss, to settle matters, to be talked about
 mapaguusapan	hopeful collective focus/attention(?)
 mapahiya	to lose face, to be put to shame
+mapait	acidic
 mapalaya	to free someone/something
 mapangwasak	destructive
 mapanira	destructive
@@ -1518,6 +1535,7 @@ masarap	feels good, enjoyable
 masayá	happy, fun
 maselan	fastidious, meticulous, particular
 masigAsig	enthusiastic
+masigla	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, briskly, smartly
 masikap	diligent, industrious
 masikip	tight
 masilaw	dazzled
@@ -1570,6 +1588,7 @@ maUnawaIn	understanding (ma-unawa-in)
 maunlAd	progressive
 mausok	smoky
 mautak	brainy
+mautas	to have ended or terminated, consummated
 mauwi	to develop into, to happen as a result
 mawala	be lost, vanish, disappear
 mawalang-galang	apologies for being disrespectful
@@ -1600,9 +1619,10 @@ na rin	used to emphasize, eg "namatay na rin"
 naaalala	to remember (like natatandaan)
 naaawa	to pity
 naaayon	associated with
+naabutan	happened to encounter
 nabuhayan	to re-live something
 nadalâ	has become wary
-nadulas	slipped; inadvertently blurted something out
+nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
 nag-aalala	worrying
 nagawa	an action done
 nagíng	became
@@ -1617,6 +1637,7 @@ nagpapalakas	to stay on the good side of someone (slang)
 nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
 nagsipatnubay	guide, companion, escort
+nagsísilbí	serving
 nahihibang	delirious, “crazy”
 nahulog	fell
 naidudulot	can offer
@@ -1677,7 +1698,7 @@ nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
 namamalimos	one who engages in begging
-namán	also, too; really, truly, anyway; also used to soften requests and questions
+namán	also, too; all things considered; really, truly, anyway; also used to soften requests and questions
 namanghA	amazed
 nambola	flattery
 namimilipit	is writhing, squirming, convulsing
@@ -1748,6 +1769,7 @@ pabayaan	to leave something/someone alone, not bother or pay attention to
 pabrika	factory (pagawaan)
 padaliin	to make easy
 pader	wall or fence made of stone; concrete or stone wall of a house, etc
+padyak	stamping of the foot/feet; sound of heavy steps; marking time (military term)
 pag	(kapág) when, on, whenever, upon, in case that
 pag-aalaga	caretaking, protecting
 pag-aalay	an offering
@@ -1783,6 +1805,7 @@ pagkaitan	to refuse (pinagkakaitan, pinagkaitan, pagkakaitan)
 pagkakaalam	knowledge
 pagkakagusto	the state of liking someone or something, infatuation
 pagkakAisa	unity
+pagkákakilanlán	identity
 pagkakAmali	mistake
 pagkakaroon	having, availability
 pagkakasundo	consensus
@@ -2050,6 +2073,7 @@ pinakamarami	the most/highest number
 pinakamatanda	oldest
 pinakapiligroso	most dangerous
 pinapasok	to allow to enter
+pinapuntá	(ng) sent (ang) somewhere
 pinatakas	allowed to escape
 pinauso	brought into vogue
 pinigilan	stopped from doing something
@@ -2078,6 +2102,7 @@ pulô	island
 pulong	meeting
 pulot	picking up from the ground; honey, syrup
 pumalit	to substitute for
+pumadyak	to stamp the feet
 pumanaw	to leave, depart; die
 pumasok	entered, attended
 pumayag	agreed, consented
@@ -2112,7 +2137,7 @@ rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
 reklAmo	complain
 rin	also, too; anyway, regardless
-sa	to, at, in, against, between, by, during, for, from, into, onto, through (by means of), upon, with
+sa	on, to, toward, at, in, with, of, the, next, by, during, for, from, into, onto, through (by means of), upon
 sa dako	toward, in the direction of
 sa halip na	instead of (imbes na)
 sa kabilâ ng	in spite of 
@@ -2201,6 +2226,7 @@ sangkáp	ingredient, part, element
 sangkataúhan	mankind
 sangkót	implicated, linked
 sanglinikha	universe, all creatures
+sanhi	cause, motive, reason
 sapa	small stream, brook
 sapak	hit, punch, smack, beat
 sápit	arrival
@@ -2227,6 +2253,7 @@ sayaw	dance
 saysáy	statement; value
 selos	jealousy
 sibák	chopping wood with an axe. slang for firing someone.
+sigla	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
 sidlan	to fill a container
 sigaw	shout, scream, yell
 siguro	maybe, perhaps, probably
@@ -2385,6 +2412,7 @@ tanáw	view
 tandâ	sign, mark; signal; evidence
 tandaan	to remember
 tangay	carried away (by force, seizure, abduction, mouth)
+tangay	carried away (by wind, current, bird or prey, or emotions)
 tange	stupid (less harsh than tanga) also "tangi"
 tangengot	stupid
 tanggál	remove by unfastening, detaching
@@ -2394,7 +2422,6 @@ tangGI	refusal, denial, negation
 tanghál	to be shown, on display
 tanghalan	exhibition
 tanghali	noon
-tangay	carried away (by wind, current, bird or prey, or emotions)
 tangi	only, particular; exceptional, special
 tangkád	tallness and slenderness
 tangkílik	tagúyod
@@ -2410,7 +2437,9 @@ tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
 tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
+tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
+tátawanan	will laugh at
 tauhan	underling, staff, personnel; character in a performance
 taunan	annual, yearly
 tawad	discount, bargain; forgiveness
@@ -2428,6 +2457,7 @@ testigo	witness
 tibay	sturdiness
 tigás	hardness, toughness, stiffness
 tigil	stop, pause
+tigok	sound produced in the throat by swallowing
 tikim	to taste, to try
 tikmán	to taste something (tikim)
 tiktík	spy, detective
@@ -2582,9 +2612,11 @@ uso	stylish, in vogue, in fashion
 usok	smoke (n)
 utak	brain
 utang	debt
+utas	completely finished, dead; completely obsessed with
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
+nagwagî	won
 wala sa kanyang sarili	absent-minded, not being oneself
 walâ	none, not there, absent, contrary to.. (slang: waley, nawaley)
 walang anu-ano	unexpectedly
