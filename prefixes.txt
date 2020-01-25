@@ -51,7 +51,7 @@
 8 magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolola) (also with ka-)
 2 magCV-	nouns referring to a person associated with something (ex. magbobote)
 8 mag-REP-REP-an	act like or pretend
-4 magka-	to acquire/become something; to occur involuntarily/accidentally
+4 magka-	to acquire/become something; to occur involuntarily/accidentally (magkasakit - to become sick)
 5 magka-	reciprocal action (denoted by "ka") (actor)
 3 magka-	adj. of two persons or things having something in common, similar to ka- (ex. magkapareho), 
 6 magka-an	reciprocal action (denoted by "ka") ma- root verbs mainly (actor)
@@ -84,6 +84,7 @@
 7 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
 6 makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag- (makipag-usap -> to initiate a chat with someone)
 6 makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
+? mala-	?????? (nagmalasakit na rider - rider that was injured??)
 2 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
 2 mang-	to do some GENERAL ACTION, somewhat vague (ex. mangyari - to happen) (actor)
 7 mang-	to do something intentionally HARMFUL or DESTRUCTIVE (ex. mangdaya - to cheat, manggulo - cause disorder) (actor)
@@ -131,7 +132,7 @@
 5 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 5 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
 4 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
-5 pang-	an instrument/tool/object FOR performing action described by root (ie, something FOR cooking, buying, cleaning, etc..)
+5 pang-	something FOR performing action described by root (ie, something FOR cooking, pamahalaan - government)
 6 pang-	adj. referring to intended use (FOR) (ex. pambata - for kids)
 4 pangCV-	a practice or action (ex panggagamot - practice of medicine, pangmomolestiya - multiple molesting)
 2 tag-	a season (ex. tag-init)
