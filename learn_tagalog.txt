@@ -31,409 +31,143 @@ bigyan mo siya ng pangalawang pagkakataon	give him/her a second chance
 kunwari	pretend
 huwag kang magkunwari	do not pretend
 
-diyan ka na lang
-just stay there
-
-ok ba sa iyo?
-is it alright with you?
-
-ok sa akin
-fine with me
-
-sang-ayon ka ba?
-do you agree?
-
-sang-ayon ako
-I agree
-
-katwiran
-reason
-
-may katwiran siya
-he/she has a reason
-
-alamin
-find out
-
-alamin mo ang gusto niya
-find out what he/she wants
+diyan ka na lang	just stay there
+ok ba sa iyo?	is it alright with you?
+ok sa akin	fine with me
+sang-ayon ka ba?	 do you agree?
+sang-ayon ako	I agree
+katwiran	reason
+may katwiran siya	he/she has a reason
+alamin	find out
+alamin mo ang gusto niya	find out what he/she wants
 
 #lesson 70
-pwede ba?
-is it possible?
-
-pwede ba kitang tawagan?
-may I phone you?
-
-pwede ba tayong magkita?
-can we meet?
-
-sasama ka ba?
-are you coming?
-
-sino ang gustong sumama?
-who wants to come along?
-
-saan tayo pupunta?
-where are we going?
-
-babalik ka ba?
-are you coming back?
-
-handa na ba ang hapunan?
-is dinner ready?
-
-alam mo ba ang gagawin?
-do you know what to do?
-
-ganito ba?
-is it like this?
-
-magkano ito?
-how much is this?
-
-mahal ba?
-is it expensive?
-
-nabili mo ba?
-did you buy it?
-
-maydala ka bang pera?
-did you bring some money?
-
-dala mo ba ang cellphone mo?
-do you have your cellphone with you?
-
-nakalimutan mo ba?
-did you forget it?
-
-nasaan ang susi?
-where is the key?
-
-nahanap mo ba?
-have you found it?
-
-bakit ka ba ganyan?
-why are you acting that way?
-
-naniniwala ka ba sa akin?
-do you believe me?
-
-umalis na ba sila?
-have they left?
-
-unalis ba siya?
-has he/she left?
-
-nakita mo ba siya?
-did you see him/her?
-
-bakit ka nagagalit sa akin?
-why are you mad at me?
-
-ano ang dahilan?
-what is the reason?
-
-bakit naman?
-why is it so?
-
-may kailangan ka ba?
-do you need anything?
-
-kailan mo kailangan?
-when do you need it?
-
-tama ba ako?
-am I right?
-
-magtatrabaho ka ba ngayon?
-are you working today?
-
-anong oras ka darating?
-what time are you coming?
-
-matatagalan ka ba?
-will it take you long?
-
-hihintayin ba kita?
-shall I wait for you?
-
-hihintayin mo ba ako?
-will you wait for me?
-
-yan ba ang gusto mo?
-is that what you want?
-
-sinabihan mo ba siya?
-did you tell him/her?
-
-paano mo nalaman?
-how did you know?
+pwede ba?	is it possible?
+pwede ba kitang tawagan?	may I phone you?
+pwede ba tayong magkita?	can we meet?
+sasama ka ba?	are you coming?
+sino ang gustong sumama?	who wants to come along?
+saan tayo pupunta?	where are we going?
+babalik ka ba?	are you coming back?
+handa na ba ang hapunan?	is dinner ready?
+alam mo ba ang gagawin?	do you know what to do?
+ganito ba?	is it like this?
+magkano ito?	how much is this?
+mahal ba?	is it expensive?
+nabili mo ba?	did you buy it?
+maydala ka bang pera?	did you bring some money?
+dala mo ba ang cellphone mo?	do you have your cellphone with you?
+nakalimutan mo ba?	did you forget it?
+nasaan ang susi?	where is the key?
+nahanap mo ba?	have you found it?
+bakit ka ba ganyan?	why are you acting that way?
+naniniwala ka ba sa akin?	do you believe me?
+umalis na ba sila?	have they left?
+unalis ba siya?	has he/she left?
+nakita mo ba siya?	did you see him/her?
+bakit ka nagagalit sa akin?	why are you mad at me?
+ano ang dahilan?	what is the reason?
+bakit naman?	why is it so?
+may kailangan ka ba?	do you need anything?
+kailan mo kailangan?	when do you need it?
+tama ba ako?	am I right?
+magtatrabaho ka ba ngayon?	are you working today?
+anong oras ka darating?	what time are you coming?
+matatagalan ka ba?	will it take you long?
+hihintayin ba kita?	shall I wait for you?
+hihintayin mo ba ako?	will you wait for me?
+yan ba ang gusto mo?	is that what you want?
+sinabihan mo ba siya?	did you tell him/her?
+paano mo nalaman?	how did you know?
 
 #lesson 71
-asahan
-expect
-
-asahan mo na darating ako bukas
-expect me to arrive tomorrow
-
-bigo
-failure/unsuccessful
-
-siya ay nabigo sa gusto niyang gawin
-he/she faild to do what he/she intended
-
-hangarin
-intention
-
-ang kanyang mga hangarin ay makakabuti sa lahat
-his intentions are good for everyone
-
-kulang
-inadequate
-
-kaalaman
-knowledge
-
-ang kanyang kaalaman ay kulang
-his knowledge is inadequate
-
-nanghinayang
-regretful
-
-nanghinayang ako na hindi ako nakapunta
-I regret that I did not come
-
-aminin
-admit
-
-aminin mo na nagkamali ka
-admit that you were wrong
-
-siyanga pala
-ty the way
-
-siyanga pala, kumusta ang iyong pamilya?
-by the way, how is your family?
-
-ikaw ang bahala
-it's up to you
-
-ikaw ang bahala kung ano ang gusto mong gawin
-it's up to you as what you want to do
-
-alam mo na ngayon
-now you know
-
-makatwiran
-reasonable
-
-ang iyong desisiyon ay makatwiran
-you decision is reasonable
-
-maginhawa
-convenient
-
-maginhawa kung walang matinding trapiko ngayon
-it is convenient when there is no heavy traffic today
-
-panatag
-calm, tranquil
-
-panatag ang buhay kung lahat ay nagkakasundo
-life is tranquil when everyone agrees with each other
-
-kalusugan
-health
-
-ingatan ang iyong kalusugan
-look after your health
-
-pilit
-forced
-
-pilit siyang sumama
-he was forced to come
-
-magtiwala
-trust
-
-huwag magtiwala kaagad
-do not trust right away
-
-masikap
-diligent
-
-siya ay masikap sa kanyang trabaho
-he is diligent in his job
-
-magsikap
-strive
-
-magsikap para magtagumpay
-strive to be successful
-
-pangangailangan
-needs
-
-ibigay mo ang pangangailangan ng iyong mga anak
-cater for you children's needs
-
-mahalaga
-important
-
-mahalaga ang kalusugan sa lahat
-good health is important to everyone
-
-kapaki-pakinabang
-useful
-
-kapaki-pakinabang ang kanyang nagawa
-what he/she did was useful
-
-walang saysay
-nonsense
-
-walang saysay ang kangang sinabi
-what he/she said was nonsense
+asahan	expect
+asahan mo na darating ako bukas	expect me to arrive tomorrow
+bigo	failure/unsuccessful
+siya ay nabigo sa gusto niyang gawin	he/she faild to do what he/she intended
+hangarin	intention
+ang kanyang mga hangarin ay makakabuti sa lahat	his intentions are good for everyone
+kulang	inadequate
+kaalaman	knowledge
+ang kanyang kaalaman ay kulang	his knowledge is inadequate
+nanghinayang	regretful
+nanghinayang ako na hindi ako nakapunta	I regret that I did not come
+aminin	admit
+aminin mo na nagkamali ka	admit that you were wrong
+siyanga pala	ty the way
+siyanga pala, kumusta ang iyong pamilya?	by the way, how is your family?
+ikaw ang bahala	it's up to you
+ikaw ang bahala kung ano ang gusto mong gawin	it's up to you as what you want to do
+alam mo na ngayon	now you know
+makatwiran	reasonable
+ang iyong desisiyon ay makatwiran	you decision is reasonable
+maginhawa	convenient
+maginhawa kung walang matinding trapiko ngayon	it is convenient when there is no heavy traffic today
+panatag	calm, tranquil
+panatag ang buhay kung lahat ay nagkakasundo	life is tranquil when everyone agrees with each other
+kalusugan	health
+ingatan ang iyong kalusugan	look after your health
+pilit	forced
+pilit siyang sumama	he was forced to come
+magtiwala	trust
+huwag magtiwala kaagad	do not trust right away
+masikap	diligent
+siya ay masikap sa kanyang trabaho	he is diligent in his job
+magsikap	strive
+magsikap para magtagumpay	strive to be successful
+pangangailangan	needs (n)
+ibigay mo ang pangangailangan ng iyong mga anak	cater for you children's needs
+mahalaga	important
+mahalaga ang kalusugan sa lahat	good health is important to everyone
+kapaki-pakinabang	useful
+kapaki-pakinabang ang kanyang nagawa	what he/she did was useful
+walang saysay	nonsense
+walang saysay ang kangang sinabi	what he/she said was nonsense
 
 # lesson 63
-karamihan sa atin
-most of us
-
-karamihan sa atin ay may trabaho
-most of us have a job
-
-karamihan sa kanila
-most of them
-
-karamihan sa kanila ay matalino
-most of them are intelligent
-
-ano ong dahilan?
-what is the reason?
-
-naguguluhan ako
-I am confused
-
-hindi ko alam
-I do not know
-
-sa akin na lang
-just let me have it
-
-nagmamadali ako
-I am in a hurry
-
-nagmamadali ka ba?
-are you in a hurry?
-
-huway kang magmadali
-don't be in a hurry
-
-makakarating din tayo
-we will get there
-
-dumating na sila
-they have just arrived
-
-mag-ingat ka
-take care of yourself
-
-mag-ingat kayo
-take care of yourselves
-
-kailangan pa ba?
-is it still necessary?
-
-galit ka ba sa akin?
-are you mad at me?
-
-kalimutan mo na yun
-just forget about it
-
-matagal ka na bang nakatira dito?
-have you lived here long?
-
-matagal na akong nakatira dito
-I have lived here for quite some time
-
-ipagpatuloy natin ang ating usapan
-let us continue our conversation
-
-wala siyang alam
-he does not know anything
-
-mayroon siyang alam
-he knows something
-
-ayain mo siyang sumama
-invite him to com along
-
-iniimbita kita
-I am inviting you
-
-sumama ka sa amin
-come along with us
-
-alam mo ba ang ibig sabihin nito?
-do you know what this means?
-
-mabuti at alam mo kung saan tayo pupunta
-goot that you know where we're going
-
-naintindihan mo ba ako?
-did you understand me?
-
-masaya ang lahat
-everyone is happy
-
-yan ang dapat
-that's the way it should be
-
-masaya kang kasama
-you are fun to be with
-
-kailan ka aalis?
-when are you leaving?
-
-aalis ako kaagad
-I am leaving soon
-
-kailan ka babalik?
-when are you coming back?
-
-babalik ako kaagad
-I will be back soon
-
-maikli lang ang buhay
-life is short
-
-magtulungan tayo
-let us help each other
-
-ano ang maitutulong ko sa iyo?
-how can I help you?
-
-ikaw na ang gumawa
-do it yourself
-
-siguro sa susunod na lang
-maybe next time
-
-huwag mong kalimutan gawin iyon
-don't forget to do it
-
-samantalahin mo na
-take advantage of it
-
-huwag ka ng mahiya
-don't be shy
-
-paki huha mo
-please take it
-
-maging masaya ka
-be happy
-
-
+karamihan sa atin	most of us
+karamihan sa atin ay may trabaho	most of us have a job
+karamihan sa kanila	most of them
+karamihan sa kanila ay matalino	most of them are intelligent
+ano ong dahilan?	 what is the reason?
+naguguluhan ako	I am confused
+hindi ko alam	I do not know
+sa akin na lang	just let me have it
+nagmamadali ako	I am in a hurry
+nagmamadali ka ba?	 are you in a hurry?
+huway kang magmadali	don't be in a hurry
+makakarating din tayo	we will get there
+dumating na sila	they have just arrived
+mag-ingat ka	take care of yourself
+mag-ingat kayo	take care of yourselves
+kailangan pa ba?	is it still necessary?
+galit ka ba sa akin?	are you mad at me?
+kalimutan mo na yun	just forget about it
+matagal ka na bang nakatira dito?	have you lived here long?
+matagal na akong nakatira dito	I have lived here for quite some time
+ipagpatuloy natin ang ating usapan	let us continue our conversation
+wala siyang alam	he does not know anything
+mayroon siyang alam	he knows something
+ayain mo siyang sumama	invite him to com along
+iniimbita kita	I am inviting you
+sumama ka sa amin	come along with us
+alam mo ba ang ibig sabihin nito?	do you know what this means?
+mabuti at alam mo kung saan tayo pupunta	good that you know where we're going
+naintindihan mo ba ako?	did you understand me?
+masaya ang lahat	everyone is happy
+yan ang dapat	that's the way it should be
+masaya kang kasama	you are fun to be with
+kailan ka aalis?	when are you leaving?
+aalis ako kaagad	I am leaving soon
+kailan ka babalik?	when are you coming back?
+babalik ako kaagad	I will be back soon
+maikli lang ang buhay	life is short
+magtulungan tayo	let us help each other
+ano ang maitutulong ko sa iyo?	how can I help you?
+ikaw na ang gumawa	do it yourself
+siguro sa susunod na lang	maybe next time
+huwag mong kalimutan gawin iyon	don't forget to do it
+samantalahin mo na	take advantage of it
+huwag ka ng mahiya	don't be shy
+paki huha mo	please take it
+maging masaya ka	be happy

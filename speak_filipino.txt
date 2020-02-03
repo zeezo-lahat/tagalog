@@ -76,3 +76,145 @@ Meron pa po.
 
 Magpahinga tayo. - Let’s rest.
 Magpahinga po tayo.
+
+Maaari niyo po ba akong tulungan? – Can you help me?
+Nagbebenta po ba kayo ng mga bag? – Do you sell bags?
+Meron po ba kayong mga jacket – Do you have jackets?
+Isa lang po. – Just one.
+Dalawa po. – Two.
+May stock po ba kayo nito? - Do you have this item in stock?
+May alam pa po ba kayong pwede kong pagbilhan? - Do you know where else I could try?
+Tumitingin lang po ako. – I’m just looking.
+Babalik po ako. – I’ll come back.
+Ano po ito? – What is this?
+Nakasale po ba ito? – Is this on sale?
+May discount po ba? – Is there a discount?
+Saan po ang fitting room? - Where is the changing/fitting room?
+Saan ko po pwedeng isukat? – Where can I try this on?
+Nagdedeliver po ba kayo? - Do you deliver?
+Nagrerefund po ba kayo? - Do you have a refund policy?
+May warranty po ba ito? - Does it come with a guarantee/warranty?
+May ibang kulay po ba kayo nito? – Do you have this in other colors?
+Sobrang laki po.  - It's too big.
+Maliit po. - It's small.
+May mas malaki po ba? – Do you have a larger size?
+May mas maliit po ba? – Do you have a smaller size?
+Mura pala. – Oh, it’s cheap.
+Ang mahal naman po. – It’s too expensive.
+May mas mura po ba? – Do you have something less pricey?
+Saan po mura? – Where can I buy affordable items?
+Alin po ang mas maganda? – Which is better?
+Sige, kukunin ko po. - OK, I'll take it.
+Bibilhin ko po. – I will buy it.
+Kukukin ko po lahat. – I will get all of it.
+Anong oras po kayo nagbubukas? - What time do you open?
+Anong oras po kayo nagsasara?- What time do you close?
+Hanggang anong oras po kayo nakabukas? – Until what time are you open?
+Magkano po? – How much?
+Magkano po lahat? – How much is the total?
+Tumatanggap po ba kayo ng credit card? – Do you accept credit cards?
+Wala po akong barya. – I have no coins.
+Magkano po ang sukli? – How much is the change?
+Sa inyo na lang po ang sukli. – Keep the change.
+Salamat po. – Thank you.
+
+Customer: Nagtitinda po ba kayo ng mga jacket? – Are you selling jackets?
+
+Assistant: Opo. Dito po. – Yes. Here, in this section.
+
+Customer: Pwede ko po bang tingnan ‘yon? – May I see that?
+
+Assistant: Anong kulay po ang gusto niyo? - What color would you like?
+
+Customer: ‘Yung kulay pula. – The red one.
+
+Assistant: Anong size po? – What size?
+
+Customer: Small po. – Small.
+
+Assistant: Gusto niyo po bang isukat? – Would you like to try it on?
+
+Customer: Opo. Saan po ang fitting room? – Yes. Where’s the fitting room?
+
+Assistant: Doon po. – Over there.
+
+Customer: Maliit po. May mas malaki po ba kayong size? – It’s small. Do you have a larger size?
+
+Assistant: Opo, Meron po. – Yes, we have.
+
+Customer: Magkano po ito? – How much is this?
+
+Assistant: Isang libo po. – It’s one thousand pesos.
+
+Customer: Medyo mahal pala. May discount po ba? – Oh, it’s quite expensive. Is there a discount?
+
+Assistant:  May 10% discount po. – There’s 10% discount.
+
+Customer: Sige, kukunin ko po. – Okay, I’ll take it.
+
+Assistant: May bibilhin pa po ba kayo? – Is there anything else?
+
+Customer: ito lang po. – Just this.
+
+Customer: Saan ko po babayaran? - Where do I pay?
+
+Assistant: Sa counter nalang po. – You may pay it at the counter.
+
+Customer: Sige po. Salamat. – Alright, thank you.
+
+Customer: Tumatanggap po ba kayo ng credit card? – Do you accept credit cards?
+
+Cashier: Pasensya na po pero cash lang po. – Sorry, but we only accept cash.
+
+Customer: Ganoon po ba? – Is that so?
+
+Customer: Heto po. – Here it is, (then).
+
+Cashier: Salamat po. Heto po ang resibo. – Thank you. Here’s your receipt.
+
+Customer: Salamat po. – Thank you.
+
+
+PO and OPO are used when talking to older persons.
+You can just omit these words if you're talking to someone younger.
+
+1. Kain tayo mamaya. - Let’s eat later.
+2. Kumakain ako ng manga - I'm eating mango
+3. Nagbabasa si ate. - My older sister is reading.
+4. Uuwi ako ng maaga. - I will go home early.
+5. Pagod ako. - I’m tired.
+6. Huwag mo akong kausapin. - Don’t talk to me.
+7. Magbasa ka ng balita. - Read news.
+8. Nanunuod ako ng balita - I’m watching news.
+9. Nagluluto ako ng kanin. - I’m cooking rice.
+10. Nag-aaral ako. - I’m studying.
+11. Nagtatrabaho ako. - I’m working.
+12. Natutulog ang aso. - The dog is sleeping.
+13. Kumakanta siya. - He/she is singing.
+14. Sumasayaw ang bata. - The child is dancing.
+15. Tumatakbo ako. - I’m running.
+16. Tumatakbo ang pusa. - The cat is running.
+17. Umiinom siya. - He/She is drinking.
+18. Nagdadasal siya. - He/she is praying.
+19. Magpapaliwanag ako. - I will explain.
+20. Lalabas kami mamaya. - We will go out later.
+21. Magkikita ba tayo mamaya? - Will we meet later?
+22. Anong kailangan mo? - What do you need?
+23. Bukas ko ibibigay. - I will give it tomorrow.
+24. Malamig ngayong araw. - It’s cold today.
+25. Masakit ang ulo ko. - My head hurts.
+26. Mag-isa ako. - I’m alone.
+27. Nakaupo ako. - I’m sitting.
+28. BIbili ako ng sapatos. - I will buy shoes.
+29. Mainit sa labas. - It’s hot outside.
+30. Sabihin mo sa akin. - Tell me.
+31. Kumain ka na ba? - Did you already eat?
+32. Pwedeng pahiram? - May I borrow?
+33. Hindi kita gusto. - I don’t like you.
+34. Gusto kita. - I like you.
+35. Sasamahan kita. - I will go with you.
+36. Sigurado ka ba? - Are you sure?
+37. Madali lang ito. - This is just easy.
+38. Alam ko. - I know.
+39. Pasensya na. - Sorry.
+40. Salamat sa lahat. - Thank you for everything.

@@ -1,5 +1,6 @@
 ## Note: for all "i*-" verbs, the leading "i" is optional with started forms, ie those with "in"
 1 -an	to do something in direction of (ex. dalhan - bring to, sing to, go to, write to)
+	Lagyan ng tubig ang ref. -> Put the water in the ref.
 4 -an	to do something for a beneficiary (ex. tirhan - leave something for someone)
 3 -an	to cause something to become X (ex, gandahan, habaan, hinaan, lakasán) (object)
 3 -an	to to something to someone/something (buksan, walisan, hugasan, hayaan)
@@ -7,6 +8,7 @@
 2 i-	to cause (ng) an object (ang) to undergo action - teach -> lesson, soak -> clothes, throw -> trash, give -> wallet
 5 i-	(ng) does something (bring, read, ask, ...) FOR someone else (ang) (benefactor)
 5 ika-	to CAUSE the root to come about (ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
+	ikagAgalak ko -> it would make me happy
 9 ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verbs)
 9 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
 1 -in	to do something to something (rip paper, burn garbage, finish what I'm doing)
@@ -36,7 +38,9 @@
 4 ka-in	combo of ka- noun and -in verb
 2 ka-an	nouns of exchanging; of abstract qualities; of groups of things
 1 ma-	adj. of quality or large amount of something
-3 ma-	abilitative (obj.); accidental or involuntary action (obj.); mental/emotional (actor)
+3 ma-	abilitative (obj.)
+3 ma-	accidental or involuntary action (obj.) (eg, makita)
+3 ma-	mental/emotional (actor), this is more like an adjective (eg, to be angry, annoyed)
 7 ma-an	abilitative/locative
 6 ma-an	opinion (actor)
 3 ma-an	to affect an object (obj.)
@@ -74,17 +78,31 @@
 9 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 9 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 8 maisa-	abilitative of isa- (cause condition to be)
-6 maka-	abilitative -um- (actor), abilitative ika- (actor), abilitative ka-in (obj)
 9 maka-	accidental of ma- actor focus 
-7 makapag-	abilitative (para makapag-focus siya sa..: so he can focus on..)
-7 makapag-an	abilitative
-7 makapagpaka-	abilitative
+6 maka-	to be able/have opportunity to do/cause/bring about something, assoc with -um- verbs (actor)
+	-> compare this with makapag- (assoc with mag verbs)
+	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
+	Nakatulong ang gamót -> The medicine was helpful.
+	Nakaratíng na ba si Tony? -> Has Tony arrived yet?
+	Nakakuha ng ideya si Lani mulâ kay Paco. -> Lani got an idea from Paco.
+	May nakákakita kayâ sa atin? -> Could someone see/be watching us?
+6 maka-	abilitative ka-in (obj)
+7 maka-	abilitative/causative (ika-) (actor)
+	makapanAkot -> to (be able to) frighten
+6 maka-	adjectives of fondness, association, orientation, inclination
+		makasarili, makaako, makabago, makabayan, makakalimutan, makaluma, makatao
+7 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
+		-> compare this with maka- (assoc with um verbs)
+		para makapag-focus siya sa.. -> so he can focus on..
+		nakapagbiyahe ka na ba? -> have you travelled (been able to travel)?
+9 makapag-an	abilitative
+9 makapagpaka-	abilitative
 7 makapang-	abilitative
 3 maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um-
 7 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
 6 makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag- (makipag-usap -> to initiate a chat with someone)
 6 makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
-? mala-	?????? (nagmalasakit na rider - rider that was injured??)
+x mala-	?????? (nagmalasakit na rider - rider that was injured??) note, 2/2/20 "malasakit" is a root.
 2 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
 2 mang-	to do some GENERAL ACTION, somewhat vague (ex. mangyari - to happen) (actor)
 7 mang-	to do something intentionally HARMFUL or DESTRUCTIVE (ex. mangdaya - to cheat, manggulo - cause disorder) (actor)
@@ -104,7 +122,7 @@
 5 pa-	ABOUT TO (ex. parating/paalis - about to arrive/leave)
 4 pa-	"CAN I", "MAY I" have/see/borrow, etc
 5 pa-	REQUESTED/ORDERED THINGS OR ACTIONS (padala)
-6 pa-	something that brings about / creates something (pabango, palamig)
+6 pa-	something that brings about / causes / creates something (pabango, palamig)
 5 paREP-REP	adj. of OCCASIONAL or "here and there" (ex. pasama-sama - tagging along here and there)
 5 pa-an	ng HAS SOMEONE (sa) do something (ang) - pa-an, pina-an, pinapa-an, papa-an
 5 pa-an	non-focus form of certain ma-root verbs (eg. pakinggan siya. - hear him.)
@@ -119,8 +137,11 @@
 6 pag-in	to INCREASE something DELIBERATELY or THOROUGHLY
 8 pag-in	to do something to/with MULTIPLE THINGS JOINTLY
 2 pagka-	the act of having done something, after/upon doing something
-6 pagkAka-	the MANNER in which something was done (pagkakasabi)
-7 pagkaka-	the act of BECOMING something
+7 pagka-	nouns of state, condition, typically temporary or specific
+		childhood, blindness, defeat, ownership, death, confusion
+8 pagkAka-	the MANNER in which something was done (pagkakasabi)
+7 pagkaka-	conceptual, universal, abstract nouns
+		knowledge, unity, identity, opportunity, fault, consensus
 7 pagpa-	causative for pa- indirect stems (pagpapa-)
 7 pagpa-an	causative
 7 pagpa-in	causative
@@ -128,7 +149,7 @@
 6 paka-an	to do something INTENSELY
 6 paka-in	to do something THOROUGHLY or to HIGH DEGREE
 2 paki-	favor/request/please (obj.)
-  paki-	there is another meening, eg "pakiramdam": feeling (n)
+? paki-	??, eg "pakiramdam": feeling (n)
 5 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 5 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
 4 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
