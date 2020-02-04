@@ -8,7 +8,12 @@
 2 i-	to cause (ng) an object (ang) to undergo action - teach -> lesson, soak -> clothes, throw -> trash, give -> wallet
 5 i-	(ng) does something (bring, read, ask, ...) FOR someone else (ang) (benefactor)
 5 ika-	to CAUSE the root to come about (ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
+	-> ika-, ikina-, ikinaCV-, ikaCV-
 	ikagAgalak ko -> it would make me happy
+	Ikamámatáy ko kung maghíhiwaláy tayo. -> I will die if we separate.
+	Anó ang kaniyáng ikinamatáy? -> What did he die from?
+	Ikasasawî mo ang katigasan ng ulo mo. -> Your stubbornness will kill you.
+7 ika-	first, second, third, etc. (ikalawá -> second)
 9 ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verbs)
 9 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
 1 -in	to do something to something (rip paper, burn garbage, finish what I'm doing)
@@ -17,11 +22,24 @@
 * -in	nouns nominalizing actions
 8 -in	adj of being prone or susceptible to something (ex. sakitin)
 6 ipa-	someone (ng) has/causes someone else (sa) to do something re. (ang) (write, fix, eat, etc.)
+	Nasunód mo ba ang ipinápagawâ ko sa iyó? -> Were you able to follow through what I asked you to do?
+	Magkano ang ginastos mo para ipagawâ ang kotse mo? -> How much did you spend to have your car repaired?
 7 ipag-	(ng) does something FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
+	Ipaglutò mo ang nanay ng pansít. -> Cook pansit for Mom.
+	Ipaghugas mo siyá ng mga plato. -> Do the dishes for him.
 7 ipag-	(ng) does something REGARDING (to, with, etc.) a thing (ang) (object)
+	Ipinagmámalakí kitá, Roy. -> I'm proud of you Roy.
+	Ipinagbabawal ang paninigarilyo dito. -> Smoking cigarettes is prohibited here.
+	Ipinagtátanggól nilá ang kaniláng mga desisyón. -> They're defending their decisions.
+	Ipinagtanggól niya ang matandáng babae. -> He defended the old woman.
+	Anó ang ipinagkaibá ninyó ni Alice? -> What makes you different from Alice?
 * ipagCV-	to do something REPEATEDLY, INTENSIVELY or involving MULTIPLE OBJECTS
 9 ipagma-	to exhibit the root word's characteristic
+	Ipagmalakí mo ang mga tagumpáy mo. -> Be proud of your achievements.
 9 ipagpa-	causative/benefactive - person 1 (ang) -> person 2 (ng) for the benefit of person 1
+	Ipagpatuloy ninyó ang inyóng ginagawâ. -> Continue with what you're doing.
+	Ipagpatuloy tayo. -> Let's continue.
+	Ipinagpápatuloy ni Elmer ang pag-aaral niyá. -> Elmer is continuing his schooling.
 8 ipaki-	request a third party to do something; request/please (like paki- but benefactor focus)
 * ipang-	(ng) does something using an INSTRUMENT (ang)
 * ipang-	(ng) does something to a person or thing (ang)
@@ -79,6 +97,7 @@
 9 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 8 maisa-	abilitative of isa- (cause condition to be)
 9 maka-	accidental of ma- actor focus 
+6 maka-	abilitative ka-in (obj)
 6 maka-	to be able/have opportunity to do/cause/bring about something, assoc with -um- verbs (actor)
 	-> compare this with makapag- (assoc with mag verbs)
 	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
@@ -86,9 +105,7 @@
 	Nakaratíng na ba si Tony? -> Has Tony arrived yet?
 	Nakakuha ng ideya si Lani mulâ kay Paco. -> Lani got an idea from Paco.
 	May nakákakita kayâ sa atin? -> Could someone see/be watching us?
-6 maka-	abilitative ka-in (obj)
 7 maka-	abilitative/causative (ika-) (actor)
-	makapanAkot -> to (be able to) frighten
 6 maka-	adjectives of fondness, association, orientation, inclination
 		makasarili, makaako, makabago, makabayan, makakalimutan, makaluma, makatao
 7 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
@@ -98,6 +115,7 @@
 9 makapag-an	abilitative
 9 makapagpaka-	abilitative
 7 makapang-	abilitative
+		makapanAkot -> to (be able to) frighten
 3 maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um-
 7 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
 6 makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag- (makipag-usap -> to initiate a chat with someone)
