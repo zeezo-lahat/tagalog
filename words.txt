@@ -744,6 +744,7 @@ inís	irritation, annoyance; suffocation
 intensibo	intensive
 ipaalam	to inform
 ipabatid	to inform
+ipag-utos	to command/order someone
 ipagawâ	to have or make someone fix or repair something; to have or make someone do something
 ipagbawal	to prohibit / ban /forbid / outlaw something
 ipagbigay-alam	to give notice
@@ -844,6 +845,7 @@ kagagawan	cause of something being done
 kagalakán	joy, delight
 kagAlang-gAlang	honorable, respectable/respected
 kagat	to bite
+kagatín	to bite something
 kagawaran	department (as govt., university, etc.)
 kagiliran	surroundings, environment, horizon
 kagubAtan	wilds, thick forest (masinsing kasukalan)
@@ -1018,6 +1020,7 @@ katapus-tapusan	the very end
 katatapos lang ng bagyo noon	?
 katatapos	just finished (kaCV - express something that just happened)
 katawAn	body
+katawanín	to represent/symbolize/embody something (-in, obj. focus)
 katawá-tawá	ridiculous, laughable
 katibayan	proof
 katigasan	hardness, firmness, stiffness, inflexibility, determination

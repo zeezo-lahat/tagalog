@@ -18,7 +18,12 @@
 9 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
 1 -in	to do something to something (rip paper, burn garbage, finish what I'm doing)
 * -in	do something in direction of (pasukin, dalawin, suntukin) (object/direction)
-6 -in	to be affected by something (inulán -> rained on)
+	Kinatók niyá ang pintô ng silíd. -> He knocked on the door of the room.
+	Mahirap katawanín ang mga taong waláng kooperasyón. -> It's difficult to represent people who don't cooperate.
+	Bakit ka kinagát ng aso? -> Why did the dog bite you?
+	Huwág mong sisipain ang aso at bakâ kagatín ka. -> Don't kick the dog as it might bite you.
+6 -in	to be affected by something
+	inulán -> rained on
 * -in	nouns nominalizing actions
 8 -in	adj of being prone or susceptible to something (ex. sakitin)
 6 ipa-	someone (ng) has/causes someone else (sa) to do something re. (ang) (write, fix, eat, etc.)
@@ -27,12 +32,16 @@
 7 ipag-	(ng) does something FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
 	Ipaglutò mo ang nanay ng pansít. -> Cook pansit for Mom.
 	Ipaghugas mo siyá ng mga plato. -> Do the dishes for him.
+	Ipaghandâ mo si Mary ng damít. -> Prepare clothes for Mary.
 7 ipag-	(ng) does something REGARDING (to, with, etc.) a thing (ang) (object)
 	Ipinagmámalakí kitá, Roy. -> I'm proud of you Roy.
 	Ipinagbabawal ang paninigarilyo dito. -> Smoking cigarettes is prohibited here.
 	Ipinagtátanggól nilá ang kaniláng mga desisyón. -> They're defending their decisions.
 	Ipinagtanggól niya ang matandáng babae. -> He defended the old woman.
 	Anó ang ipinagkaibá ninyó ni Alice? -> What makes you different from Alice?
+	Ipag-utos mo sa kaniyá na umalís agád-agád. -> Order her to leave at once.
+	Súsundín mo ba ang mga ipinag-uutos niyá? -> Will you do what she commands?
+	Paano ninyó ipinagdiwang ang inyóng anibersaryo? -> How did you celebrate your anniversary?
 * ipagCV-	to do something REPEATEDLY, INTENSIVELY or involving MULTIPLE OBJECTS
 9 ipagma-	to exhibit the root word's characteristic
 	Ipagmalakí mo ang mga tagumpáy mo. -> Be proud of your achievements.
@@ -57,6 +66,7 @@
 2 ka-an	nouns of exchanging; of abstract qualities; of groups of things
 1 ma-	adj. of quality or large amount of something
 3 ma-	abilitative (obj.)
+	Ikinulóng ko ang nangángagát na aso. -> I confined the biting dog. (ma- -kagat)
 3 ma-	accidental or involuntary action (obj.) (eg, makita)
 3 ma-	mental/emotional (actor), this is more like an adjective (eg, to be angry, annoyed)
 7 ma-an	abilitative/locative
@@ -66,9 +76,14 @@
 6 maCV-in	adj. of quality in high degree (akin to ma-in)
 6 maka-	adj. of favor, fondness, or support (ex. makabago - modern, progressive)
 1 mag-	deliberate, intentional action
+	Takót akóng magdaán sa lagusan. -> I'm afraid to pass through the tunnel.
 3 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
 7 magCum-	to exert great effort in doing
 6 mag-an	reciprocal action
+	magmahalan -> to love each other
+	magsigawan -> to shout at each other
+	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá. -> The friends laughed when one of them tripped.
+	Nagtakbuhan silá nang kumilos ang inakalà niláng patáy. -> They all ran when the one they thought was dead moved.
 6 magCV-	mag- with great intensity or deliberateness
 8 magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolola) (also with ka-)
 2 magCV-	nouns referring to a person associated with something (ex. magbobote)
