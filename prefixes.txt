@@ -26,15 +26,33 @@
 	inulán -> rained on
 * -in	nouns nominalizing actions
 8 -in	adj of being prone or susceptible to something (ex. sakitin)
-6 ipa-	someone (ng) has/causes someone else (sa) to do something re. (ang) (write, fix, eat, etc.)
+6 ipa-	(ng) has/causes (sa) something (ang) <have something done, cause something. ng is causer.>
+	ipapatáy -> to have someone killed
+	Ipápaliwanag ko sa inyó ang nangyari. -> I will explain to you what happened.
+	Ipáliwanag mo itó sa amin kasí hindî namin siyá maintindihán. -> Explain this to us because we can't understand.
+	Makiníg tayo sa ipínapaliwanag ng titser. -> Let's listen to what the teacher is explaining.
 	Nasunód mo ba ang ipinápagawâ ko sa iyó? -> Were you able to follow through what I asked you to do?
 	Magkano ang ginastos mo para ipagawâ ang kotse mo? -> How much did you spend to have your car repaired?
-7 ipag-	(ng) does something FOR someone/something else (ang) (ex: ipaglaban) (*like i- but with mag- verbs) (benefactor)
+	May gustó kamíng ipaalám sa iyó. -> There's something we'd like you to know.
+	Ipápaalám ninyó sa akin kung áalís na kayó. -> You (pl) should inform me if you're about to leave.
+	Ipinápaalám ko sa inyó na mag-áasawa na akó. -> I'm letting you know that I'm already getting married.
+	Ipapakilala ko siyá sa iyó. -> I will introduce her to you.
+	Ipakilala mo akó sa kaibigan mo. -> Introduce me to your friend.
+	Bakit hindî mo akó ipakilala sa kaniyá? -> Why won't you introduce me to her?
+	Ipinakíkilala siyá sa ilalim ng ibáng mga pangalan. -> He is known by other names.
+	Ipakita mo sa akin ang passport mo. -> Show me your passport.
+	Ipinakita sa TV yung aksidente kaninang umaga. -> This morning's accident was shown on TV.
+	Anó ang ipinangakò mo kay Vicky? -> What did you promise Vicky?
+	Bakit ayaw mong ipakita sa akin ang picture mo? -> Why don't you want to show me your picture?
+	Ipinangakò ko kay Berna na uuwî akó nang maaga. -> I promised Berna that I would come home early.
+7 ipag-	(ng) does something FOR (ang) (benefactor)
+	-> like i- but with mag- verbs
+	ipaglaban -> to fight for someone/thing
 	Ipaglutò mo ang nanay ng pansít. -> Cook pansit for Mom.
 	Ipaghugas mo siyá ng mga plato. -> Do the dishes for him.
 	Ipaghandâ mo si Mary ng damít. -> Prepare clothes for Mary.
-7 ipag-	(ng) does something REGARDING (to, with, etc.) a thing (ang) (object)
-	Ipinagmámalakí kitá, Roy. -> I'm proud of you Roy.
+7 ipag-	(ng) does something to/with/etc. (ang)
+	ipagbawal -> to prohibit/ban/forbid/outlaw something
 	Ipinagbabawal ang paninigarilyo dito. -> Smoking cigarettes is prohibited here.
 	Ipinagtátanggól nilá ang kaniláng mga desisyón. -> They're defending their decisions.
 	Ipinagtanggól niya ang matandáng babae. -> He defended the old woman.
@@ -45,6 +63,7 @@
 * ipagCV-	to do something REPEATEDLY, INTENSIVELY or involving MULTIPLE OBJECTS
 9 ipagma-	to exhibit the root word's characteristic
 	Ipagmalakí mo ang mga tagumpáy mo. -> Be proud of your achievements.
+	Ipinagmámalakí kitá, Roy. -> I'm proud of you Roy.
 9 ipagpa-	causative/benefactive - person 1 (ang) -> person 2 (ng) for the benefit of person 1
 	Ipagpatuloy ninyó ang inyóng ginagawâ. -> Continue with what you're doing.
 	Ipagpatuloy tayo. -> Let's continue.
