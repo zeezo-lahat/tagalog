@@ -1,3 +1,4 @@
+#!/usr/bin/python3.7
 from collections import defaultdict
 import sys
 import re
@@ -13,8 +14,10 @@ _d = defaultdict(int)
 _mychars = set()
 
 try:
-    myfile = open(sys.argv[1], 'r')
-    mysearchstring = sys.argv[2]
+    #myfile = open(sys.argv[1], 'r')
+    myfile = sys.stdin
+    #mysearchstring = sys.argv[2]
+    mysearchstring = sys.argv[1]
 except:
     print('I need a filename and a pattern to search, dumb-ass')
     exit(1)
