@@ -120,6 +120,7 @@
 	Ipinangakò ko kay Berna na uuwî akó nang maaga. -> I promised Berna that I would come home early.
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo. -> I have not yet given Bill the gift you sent me to give him.
 	Anó ang ipápangalan natin sa aso natin? -> What should we name our dog?
+	Ipaalala mo sa akin. -> Remind me.
 7 ipag-	(ng) does something FOR (ang) (benefactor)
 	-> like i- but with mag- verbs
 	ipaglaban -> to fight for someone/thing
@@ -164,7 +165,8 @@
 	Ikinulóng ko ang nangángagát na aso. -> I confined the biting dog. (ma- -kagat)
 3 ma-	accidental or involuntary action (obj.) (eg, makita)
 3 ma-	mental/emotional (actor), this is more like an adjective (eg, to be angry, annoyed)
-7 ma-an	abilitative/locative
+7 ma-an	abilitative (locative)
+	Sana maintindihan mo. -> I hope you will understand.
 6 ma-an	opinion (actor)
 3 ma-an	to affect an object (obj.)
 6 ma-in	adj. of quality in high degree (ex. matulungin - helpful)
@@ -190,8 +192,11 @@
 8 magkaka-	adj. of 3+ persons or things having something in common
 6 magkang-	do something hurriedly
 7 magma-	trying, pretending, showing off, sim. to mag-root-root-an, "ma" begins adj. (actor)
-7 magpa-	to cause an action or increase its intensity (ang -> sa)  
-7 magpa-	to control/operate something???? (ang -> ng) (magpatakbó ng páaralán -> run a school, magpatakbó ng trak -> drive a truck)
+7 magpa-	to cause an action (ang -> sa)  
+7 magpa-	to increase the intensity/amount of something (ang -> sa)  
+	Magpagaling ka agad.    Get well soon.
+7 magpa-	to control/operate something???? (ang -> ng)
+	magpatakbó ng páaralán -> run a school, magpatakbó ng trak -> drive a truck
 8 magpa-an	take part in a contest
 7 magpaka-	forcing or trying hard to be X
 	Gustó ko nang magpakamatáy. -> I want to end my life.
@@ -205,8 +210,9 @@
 7 magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
 7 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
 7 magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
-5 mai-	abilitative of i-
+5 mai-	abilitative of i- (?) <ang> from <ng> to <sa>
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo. -> I have not yet given Bill the gift you sent me to give him.
+	MalakI and naitulong mo sa akin. -> You have helped me a lot.
 8 maipa-	abilitative of ipa- (causative)
 9 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 9 maipang-	abilitative of ipang- (object undergoes action; benefactor)
@@ -223,6 +229,7 @@
 7 maka-	abilitative/causative (ika-) (actor)
 6 maka-	adjectives of fondness, association, orientation, inclination
 		makasarili, makaako, makabago, makabayan, makakalimutan, makaluma, makatao
+	Gagawin ko ang aking makakaya. -> I will do my best.
 7 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		para makapag-focus siya sa.. -> so he can focus on..
@@ -249,6 +256,7 @@ x mala-	?????? (nagmalasakit na rider - rider that was injured??) note, 2/2/20 "
 	Kailangan nating mapatigil ang kónstruksiyón ng gusalì. -> We need to stop the construction of the building.
 	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo. -> We can only stop the passage of the bill if we unite.
 6 mapa-	ability/possibility to (ng) CAUSE someone (ang) to do something.
+	Napaligaya mo ako. -> You made me happy.
   mapa- to be able to get or cause someone to do something (object)
 	Sinikap ni Gary na mapangitî si Patrick. -> Gary strived to make Patrick smile.
 4 mapa-	CAUSED to do/become something (actor/doer/becomer) (eg, mapahiya - become humiliated, mapaiyak - caused to cry)
