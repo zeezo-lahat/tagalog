@@ -1,40 +1,201 @@
-misc things from 8/7/19 Umagang Kay Ganda, which has Tagalog subtitles
-magkasama
-pagsikat
-pangarap
-dumating din
-harapin natin
-basta
-laging
-pagsikat
-may dalang liwanag
-haharapin natin
-pasok
-bangon
-salubungin ang isang
-sabay-sabay
-nahanap na
-pagtaob ng 3 bangka
-biyahe
-patuloy
-para tutukan
-nasabat
-bawas-singil
-katumbas
-sinagot
-hiwalayang
-nagpakalat
-pambu-bully
-nagkaroon
-itinapon
-nahulog sa tulay
-magsasagawa
-libu-libo
-bahagyang
-sinisi ang
-magkalituhan
-makiisa
-kalituhan
-pagpapatupad ng
-taga-sulat
-
+Put the water in the ref.	Lagyan ng tubig ang ref.
+Stay tuned for the next episode.	Abangán ang súsunód na kabanatà.
+I kept an eye out for you at the street corner last night.	Inabangán kitá sa kanto kagabí.
+I will keep an eye out for you here tomorrow.	Dito kitá áabangán bukas.
+John bought flowers/a flower for his Mom.	Binilhán ni John ng bulaklák ang nanay niyá.
+Buy me some fruits at the supermarket.	Bilhán mo akó ng prutas sa supermarket.
+Give me an example.	Bigyán mo akó ng halimbawà.
+Give me one/some of that.	Bigyán mo akó niyán.
+I gave you some money.	Binigyán kitá ng pera.
+John gave brewed coffee to the boss.	Binigyán ni John ng brewed coffee si boss.
+Don't you want to give me one/some?	Ayaw mo ba akóng bigyán?
+If they're giving you something, just take it.	Pag biníbigyán ka, tanggapín mo lang.
+Sonia offered to get her a copy of the book.	Nag-alók si Sonia na bigyán siyá ng kopya ng libró.
+She will try to get a higher test score in the exam.	Tátangkaín niyáng taasán ang iskór sa pagsusulit.
+Amado will drive faster.	Bíbilisán ni Amado ang pagmamaneho.
+Let's move faster as we might still be able to catch the bus.	Bilisán natin at bakâ maabutan pa natin ang bus.
+Walk slowly.	Bagalan mo ang paglakad mo.
+Do your best.	Galingán mo.
+I will try to do better next time.	Gágalingán ko sa súsunód.
+Let me know.	Sabihan mo akó.
+Please tell Jack to come here.	Pakisabihan mo si Jack na pumuntá dito.
+Just tell him later.	Mamayâ mo na lang siyá sabihan.
+Do you still need to be told?	Kailangan ka pa bang sabihan?
+Jack plans to court Jill.	Planong ligawan ni Jack si Jill.
+Is Richard courting you?	Nilíligawan ka ba ni Richard?
+Please help me.	Tulungan mo namán akó.
+Let's help the teacher advance the lesson.	Tulungan nating isulong ng gurò ang aralín.
+Would you like me to help you?	Gustó mong tulungan kitá?
+Why don't you want to man the restaurant?	Bakit ayaw mong tauhan ang restawrán?
+He manned their stall in Quiapo.	Tinauhan niyá ang puwesto nilá sa Quiapo.
+I will give you less work to do.	Bábawasan kitá ng trabaho.
+Please reduce it. (Ex: the price) (polite)	Bawasan pô ninyó.
+Eat less sweets.	Bawasan mo ang pagkain ng matatamís.
+When are you coming back for me?	Kailán mo akó bábalikán?
+Return to me. / Come back for me.	Balikán mo akó.
+I should go back to Alice because she's waiting for me.	Dapat balikán ko si Alice kasí hiníhintáy niyá akó.
+Did Tom go back to you like he said he would?	Binalikán ka ba ni Tom gaya ng sinabi niyá?
+Don't worry, I'll be back to see you again on Monday.	Pabayaan mo, bábalikán kitá ulî sa Lunes.
+Let me know when you will be retiring from the company.	Balitaan mo akó kung kailán ka magreretiro sa kompanyá.
+I brought you an apple.	Dinalhán kitá ng mansanas.
+To whom are you bringing that?	Sino ang dádalhán mo niyán?
+Bring us something to eat.	Dalhán mo kamí ng mákakain.
+Mel is manning their shop now.	Tinátauhan ngayón ni Mel ang shop nilá.
+Ask the parents for insights.	Hingán mo ng mga ideya ang mga magulang.
+She requested the actor a photograph.	Hiningán niyá ng retrato ang aktór.
+I kissed her.	Hinalikán ko siyá.
+Kiss me.	Halikán mo akó.
+I don't want to smile at the male neighbor.	Ayaw kong ngitián ang lalaking kapitbahay.
+She's smiling at the shoe seller.	Nginíngitián niyá ang nagbebenta ng sapatos.
+The organization he once belonged to is gone.	Walâ na ang organisasyóng dati niyáng kinabilangan.
+We live in a violent society.	Marahás ang lipunang kinabíbilangan natin.
+I was requested to sign the ticket.	Pinakiusapan akóng lagdaán ang tiket.
+Did you sign the agreement?	Nilagdaán mo ba ang kásunduan?
+They are signing your request for funds.	Nilálagdaán na nilá ang iyóng hilíng na pondo.
+The invitations for the conference will be signed tomorrow.	Lálagdaán bukas ang mga paanyaya para sa kumperénsiyá.
+I brought the box upstairs to the room.	Iniakyát ko ang kahón sa kuwarto.
+I am giving back his money.	Ibinábalík ko ang pera niyá.
+Give that back to me.	Ibalík mo iyán sa akin.
+Richard is bringing his car back to the repair shop.	Ibinábalík ni Richard ang kotse niyá sa talyér.
+Please lend it to me first and I'll give it right back.	Pahirám muna at ibábalík ko agád.
+Give that back to me and I'll replace it.	Ibalík mo iyán sa akin at pápalitán ko.
+John sold the apple to Mary.	Ibinenta ni John ang mansanas kay Mary.
+To whom did you sell your car?	Kanino mo ibinenta ang kotse mo?
+Just sell your car to me.	Ibenta mo na lang sa akin ang kotse mo.
+Give your cellphone to us.	Ibigáy mo ang cellphone mo sa amin.
+Give it to me.	Ibigáy mo sa akin.
+The money you gave me is too much.	Sobra ang binigáy mo sa aking pera.
+To whom did you give it?	Kanino mo ibinigáy?
+Did April balk at the task you assigned her?	Umurong ba si April sa gawaing iniatas mo sa kaniyá?
+I bought her clothes.	Ibinilí ko siyá ng damít.
+Buy shoes for Mom.	Ibilí mo nanay ng sapatos.
+I bought you bread.	Ibinilí kitá ng tinapay.
+He bought rice for the family from the grocery store.	Ibinilí niyá ng bigás sa gróserí ang pamilya.
+way of making a living	ikinabubuhay
+it would make me happy	ikagAgalak ko
+I will die if we separate.	Ikamámatáy ko kung maghíhiwaláy tayo.
+What did he die from?	Anó ang kaniyáng ikinamatáy?
+Your stubbornness will kill you.	Ikasasawî mo ang katigasan ng ulo mo.
+second) 7 ika-	first, second, third, etc. (ikalawá
+He knocked on the door of the room.	Kinatók niyá ang pintô ng silíd.
+It's difficult to represent people who don't cooperate.	Mahirap katawanín ang mga taong waláng kooperasyón.
+Why did the dog bite you?	Bakit ka kinagát ng aso?
+Don't kick the dog as it might bite you.	Huwág mong sisipain ang aso at bakâ kagatín ka.
+rained on	inulán
+to have someone killed	ipapatáy
+I will explain to you what happened.	Ipápaliwanag ko sa inyó ang nangyari.
+Explain this to us because we can't understand.	Ipáliwanag mo itó sa amin kasí hindî namin siyá maintindihán.
+Let's listen to what the teacher is explaining.	Makiníg tayo sa ipínapaliwanag ng titser.
+Were you able to follow through what I asked you to do?	Nasunód mo ba ang ipinápagawâ ko sa iyó?
+How much did you spend to have your car repaired?	Magkano ang ginastos mo para ipagawâ ang kotse mo?
+There's something we'd like you to know.	May gustó kamíng ipaalám sa iyó.
+You (pl) should inform me if you're about to leave.	Ipápaalám ninyó sa akin kung áalís na kayó.
+I'm letting you know that I'm already getting married.	Ipinápaalám ko sa inyó na mag-áasawa na akó.
+I will introduce her to you.	Ipapakilala ko siyá sa iyó.
+Introduce me to your friend.	Ipakilala mo akó sa kaibigan mo.
+Why won't you introduce me to her?	Bakit hindî mo akó ipakilala sa kaniyá?
+He is known by other names.	Ipinakíkilala siyá sa ilalim ng ibáng mga pangalan.
+Show me your passport.	Ipakita mo sa akin ang passport mo.
+This morning's accident was shown on TV.	Ipinakita sa TV yung aksidente kaninang umaga.
+What did you promise Vicky?	Anó ang ipinangakò mo kay Vicky?
+Why don't you want to show me your picture?	Bakit ayaw mong ipakita sa akin ang picture mo?
+I promised Berna that I would come home early.	Ipinangakò ko kay Berna na uuwî akó nang maaga.
+I have not yet given Bill the gift you sent me to give him.	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.
+What should we name our dog?	Anó ang ipápangalan natin sa aso natin?
+Remind me.	Ipaalala mo sa akin.
+like i- but with mag- verbs	-
+to fight for someone/thing	ipaglaban
+Cook pansit for Mom.	Ipaglutò mo ang nanay ng pansít.
+Do the dishes for him.	Ipaghugas mo siyá ng mga plato.
+Prepare clothes for Mary.	Ipaghandâ mo si Mary ng damít.
+to prohibit/ban/forbid/outlaw something	ipagbawal
+Smoking cigarettes is prohibited here.	Ipinagbabawal ang paninigarilyo dito.
+They're defending their decisions.	Ipinagtátanggól nilá ang kaniláng mga desisyón.
+He defended the old woman.	Ipinagtanggól niya ang matandáng babae.
+What makes you different from Alice?	Anó ang ipinagkaibá ninyó ni Alice?
+Order her to leave at once.	Ipag-utos mo sa kaniyá na umalís agád-agád.
+Will you do what she commands?	Súsundín mo ba ang mga ipinag-uutos niyá?
+How did you celebrate your anniversary?	Paano ninyó ipinagdiwang ang inyóng anibersaryo?
+They will be kidnapped and sold in other countries.	Dudukutin silá at ipagbíbilí sa ibáng mga bansâ.
+Be proud of your achievements.	Ipagmalakí mo ang mga tagumpáy mo.
+I'm proud of you Roy.	Ipinagmámalakí kitá, Roy.
+Continue with what you're doing.	Ipagpatuloy ninyó ang inyóng ginagawâ.
+Let's continue.	Ipagpatuloy tayo.
+Elmer is continuing his schooling.	Ipinagpápatuloy ni Elmer ang pag-aaral niyá.
+sa using ang); instrumental focus 9 ipapang-	causative (ng
+I confined the biting dog. (ma- -kagat)	Ikinulóng ko ang nangángagát na aso.
+I hope you will understand.	Sana maintindihan mo.
+I'm afraid to pass through the tunnel.	Takót akóng magdaán sa lagusan.
+to love each other	magmahalan
+to shout at each other	magsigawan
+The friends laughed when one of them tripped.	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá.
+They all ran when the one they thought was dead moved.	Nagtakbuhan silá nang kumilos ang inakalà niláng patáy.
+sa)   7 magpa-	to cause an action (ang
+sa)   7 magpa-	to increase the intensity/amount of something (ang
+ng) 7 magpa-	to control/operate something???? (ang
+run a school, magpatakbó ng trak -	magpatakbó ng páaralán
+I want to end my life.	Gustó ko nang magpakamatáy.
+He stabbed his wife and committed suicide.	Sinaksák niyá ang kaniyáng asawa at saká nagpakamatáy.
+The town will be flooded once the dam releases water.	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.
+You will be given blessings (blessed) if you become nice.	Mabíbigyán ka ng biyayà kung magpápakabaít ka.
+I have not yet given Bill the gift you sent me to give him.	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.
+You have helped me a lot.	MalakI and naitulong mo sa akin.
+compare this with makapag- (assoc with mag verbs)	-
+The medicine was helpful.	Nakatulong ang gamót
+Has Tony arrived yet?	Nakaratíng na ba si Tony?
+Lani got an idea from Paco.	Nakakuha ng ideya si Lani mulâ kay Paco.
+Could someone see/be watching us?	May nakákakita kayâ sa atin?
+I will do my best.	Gagawin ko ang aking makakaya.
+compare this with maka- (assoc with um verbs)		-
+so he can focus on..		para makapag-focus siya sa..
+have you travelled (been able to travel)?		nakapagbiyahe ka na ba?
+to (be able to) frighten		makapanAkot
+to initiate a chat with someone	makipag-usap
+There's nothing you can do to stop it.	Walâ kang magagawâ para mapatigil itó.
+We need to stop the construction of the building.	Kailangan nating mapatigil ang kónstruksiyón ng gusalì.
+We can only stop the passage of the bill if we unite.	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo.
+You made me happy.	Napaligaya mo ako.
+Gary strived to make Patrick smile.	Sinikap ni Gary na mapangitî si Patrick.
+Marga stopped what she was doing when Kristoff arrived.	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.
+I am shaking my head in disbelief at what you're saying.	Napápailíng akó sa pinagsasabí mo.
+He was happy when he realized that he would be a dad.	Natuwâ siyá nang mapag-alamáng magiging amá siyá.
+Think about it carefully before you answer.	Pag-isipan mong mabuti bago ka sumagót.
+Getting married should be given a lot of thought.	Dapat pinag-íisipan nang mabuti ang pag-aasawa.
+Wait, I'm still thinking about it.	Teka, pinag-íisipan ko pa.
+to grow up with	pagkalakhán
+to vacation somewhere	pagbakasyunán
+to cover-up/whitewash something	pagtakpán
+to hide from someone	pagtaguan
+Don't scold them.	Huwág mo siláng pagalitan.
+Anna will be reprimanded by her dad if she gets home late.	Pagágalitan si Anna ng tatay niyá kapág ginabí siyá nang uwî.
+Study the sentences.	Pag-aralan mo ang mga pangungusap.
+Let's continue with what we were studying yesterday.	Ipagpatuloy natin ang pinag-áaralan natin kahapon.
+Give me some slack.	Pagbigyán mo namán akó.
+I obliged/indulged you before, that's enough.	Pinagbigyán na kitá dati, tamà na iyón.
+Don't play with that.	Huwág mo iyáng paglaruán.
+It looks like your girlfriend is just playing with you.	Mukháng pinaglálaruán ka lang ng girlfriend mo.
+What game are we going to play today?	Anóng larô ang paglálaruán natin ngayón?
+I understand what you're going through right now.	Naíintindihán ko ang pinagdádaanan mo ngayón.
+My parents don't want me to go through what they went through.	Ayaw ng mga magulang ko na pagdaanan ko ang mga pinagdaanan nilá.
+You will also experience that when you become a mother.	Pagdádaanan mo rin iyán kapág nagíng isáng iná ka na.
+I don't want them to make fun of me.	Ayaw kong pagtawanán nilá akó.
+The disabled should not be mocked.	Ang mga taong may kapansanan ay hindî dapat pinagtátawanán.
+We are endowed with freewill.	Pinagkaloobán tayo ng malayang kalooban.
+We were blessed with a smart child.	Pinagkaloobán kamí ng matalinong anák.
+The government will provide us with housing.	Pagkákaloobán kamí ng pámahalaán ng pabahay.
+They will be provided with financial assistance.	Pagkákaloobán silá ng pinánsiyál na tulong.
+Where will the funds come from?	Anó ang pagmúmulán ng mga pondo?
+He's looking for the source of the sound.	Hinahanap niya ang pinagmúmulán ng tunóg.
+Money is often the source of conflicts.	Ang pera ang madalás na pagmulán ng away.
+I know that Liza will be the source of chaos.	Alám kong si Liza ang pagmúmulán ng kaguluhan.
+The teacher reprimanded the student.	Pinagsabihan ng gurò ang estudyante.
+I won't tell anyone.	Walâ akóng pagsasabihan.
+He took advantage of my kindness.	Pinagsamantalahan niyá ang kabaitan ko.
+You should benefit from what you worked hard for.	Dapat makinabang ka sa pinaghirapan mo.
+If you want to achieve your dreams, you have to work hard for it.	Kung gustó mong makamít ang iyóng pangarap, paghirapan mo itó.
+Julia stars in the television show.	Pinagbibidahan ni Julia ang palabás sa telebisyón.
+Take them all out and shoot them!	Kunin ninyó siláng lahát at pagbabarilín!
+Erwan shot the door lock to enter the building.	Pinagbabaríl ni Erwan ang kandado para makapasok sa gusalì.
+The soldiers arrived to shoot the rebels.	Dumatíng ang mga sundalo para pagbabarilín ang mga rebelde.
+Christine shot down Harry's ideas.	Pinagbabaríl ni Christine ang mga ideya ni Harry.
+Arrange the words to form the sentence.	Ayusin mo ang mga salitâ para mabuô ang pangungusap.
