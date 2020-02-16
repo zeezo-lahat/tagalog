@@ -289,6 +289,9 @@ pag-an	to do something WITH/REGARDING ang (obj)
 	Pag-isipan mong mabuti bago ka sumagót.  |  Think about it carefully before you answer.
 	Dapat pinag-íisipan nang mabuti ang pag-aasawa.  |  Getting married should be thought about a lot.
 	Teka, pinag-íisipan ko pa.  |  Wait, I'm still thinking about it.
+	Hindî mo na kailangang pag-isipan pa iyán.  |   You don't need to spend time to still think about that.
+	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
+	pagtaasán   |   to raise something
 	pagkalakhán  |  to grow up with
 	pagbakasyunán  |  to vacation somewhere
 	pagtakpán  |  to cover-up/whitewash something
@@ -305,6 +308,9 @@ pag-an	to do something WITH/REGARDING ang (obj)
 	Naíintindihán ko ang pinagdádaanan mo ngayón.  |  I understand what you're going through right now.
 	Ayaw ng mga magulang ko na pagdaanan ko ang mga pinagdaanan nilá.  |  My parents don't want me to go through what they went through.
 	Pagdádaanan mo rin iyán kapág nagíng isáng iná ka na.  |  You will also experience that when you become a mother.
+	Naka-relate siláng lahát sa pinagdaanan ng bida.  |   They all related to the protagonist's ordeals.
+	Maraming hirap ang pinagdaanan ni Juliet sa buhay. |   Juliet went through a lot of hardships in life.
+	Naíintindihán ko ang pinagdádaanan mo ngayón.  |   I understand what you're going through right now.
 	Ayaw kong pagtawanán nilá akó.  |  I don't want them to make fun of me.
 	Ang mga taong may kapansanan ay hindî dapat pinagtátawanán.  |  The disabled should not be mocked.
 	Pinagkaloobán tayo ng malayang kalooban.  |  We are endowed with freewill.

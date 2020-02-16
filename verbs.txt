@@ -1,258 +1,340 @@
-maabutan: to happen to encounter something; to catch up with / to something or someone <naabutan, naáabutan, maáabutan>
-mabigyán: to be given; to be granted. (benefactor) <nabigyán, nabíbigyán, mabíbigyán>
-mabinbín: to be postponed <nabinbín, nabíbinbín, mabíbinbín>
-mabitín: to be left hanging; <nabitín, nabibitín, mabibitín>
-mabutihin: to prefer; to favor. (object) <minabuti, minámabuti, mámabutihin>
-madaliín: to make faster; to hurry; to rush. (object) <minadalî, minámadalî, mámadaliín>
-madatnán: to come upon someone/something; to be caught in the act of doing something <nadatnán, nadádatnán, madádatnán>
-madiligán: to be able to water. (benefactor) <nadiligán, nadídiligán, madídiligán>
-madumihán: to make something dirty; to get something dirty. (object) <nadumihán, nadúdumihán, madúdumihán>
-mag-alalá: to worry; to be concerned; to be anxious; to be apprehensive. (actor) <nag-alalá, nag-áalalá, mag-áalalá>
-magbabâ: to bring down; to demote. (actor) <nagbabâ, nagbababâ, magbababâ>
-magbalità: to report (news). (actor) <nagbalità, nagbábalità, magbábalità>
-magbaybáy: to spell. (actor) <nagbaybáy, nagbábaybáy, magbábaybáy>
-magbilin: to give instructions; to brief; to order. (actor) <nagbilin, nagbibilin, magbibilin>
-magdiwang: to celebrate. (actor) <nagdiwang, nagdiriwang, magdiriwang>
-maghain: to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.). (actor) <naghain, naghahain, maghahain>
-mag-isíp: to think; to think of; to think intensely; to plan; to devise (plan); * deliberate, intentional thinking. (actor) <nag-isíp, nag-íisíp, mag-íisíp>
-magkaín: to devour; to eat often. (actor) <nagkaín, nagkakaín, magkakaín>
-magkamayan: to shake hands. (actor) <nagkamayan, nagkákamayan, magkákamayan>
-magkumpará: to compare. (actor) <nagkumpará, nagkúkumpará, magkúkumpará>
-magkuwento: to tell a story; to narrate. (actor) <nagkuwento, nagkukuwento, magkukuwento>
-maglabá: to wash clothes; to do the laundry. (actor) <naglabá, naglálabá, maglálabá>
-maglabás: to bring out; to take out; to put out. (actor) <naglabás, naglálabás, maglálabás>
-maglagà: to cook by boiling; to boil. (actor) <naglagà, naglalagà, maglalagà>
-maglagáy: to place; to apply; to put; to situate; to bribe. (actor) <naglagáy, naglálagáy, maglálagáy>
-maglakád: to walk; to walk around; to engage in trade; to do the legwork; to walk or hand-carry over. (actor) <naglakád, naglálakád, maglálakád>
-maglakbáy: to travel; to journey; to tour around. (actor) <naglakbáy, naglálakbáy, maglálakbáy>
-maglarô: to play. (actor) <naglarô, naglalarô, maglalarô>
-maglaslás: to slash; to lacerate. (actor) <naglaslás, naglálaslás, maglálaslás>
-maglinis: to clean; to clean up. (actor) <naglinis, naglilinis, maglilinis>
-maglipát: to move something; to transfer something. (actor) <naglipát, naglílipát, maglílipát>
-maglipon: to converse with one another. (actor) <naglipon, naglilipon, maglilipon>
-magliwanag: to light up; to glow; to give out a bright light; to twinkle; to make clear. (actor) <nagliwanag, naglíliwanag, maglíliwanag>
-maglutò: to cook. (actor) <naglutò, naglulutò, maglulutò>
-magmadalî: to hurry up; to hasten; to rush; to be in a hurry; to go in a hurry. (actor) <nagmadalî, nagmámadalî, magmámadalî>
-magmahál: to love; to become expensive. (actor) <nagmahál, nagmámahál, magmámahál>
-magmahalan: to love each other or one another. (actor) <nagmahalan, nagmámahalan, magmámahalan>
-magmaneho: to drive. (actor) <nagmaneho, nagmámaneho, magmámaneho>
-magmano: to kiss the hand of someone; to put the hand of an elder to one's forehead to show respect; to bless. (actor) <nagmano, nagmamano, magmamano>
-magmasahe: to massage. (actor) <nagmasahe, nagmámasahe, magmámasahe>
-magmasíd: to observe. (actor) <nagmasíd, nagmámasíd, magmámasíd>
-magmúni-muni: to ponder; to reflect; to self reflect; to contemplate. (actor) <nagmúni-muni, nagmumúni-muni, magmumúni-muni>
-magnakaw: to steal. (actor) <nagnakaw, nagnanakaw, magnanakaw>
-magpaalam: to say goodbye; to seek permission. (actor) <nagpaalam, nagpápaalam, magpápaalam>
-magpadalá: to send; to transmit; to carry away; to be swayed. (actor) <nagpadalá, nagpápadalá, magpápadalá>
-magpagandá: to make beautiful; to embellish. (actor) <nagpagandá, nagpápagandá, magpápagandá>
-magpagupít: to get a haircut. (actor) <nagpagupít, nagpápagupít, magpápagupít>
-magpahangin: to get some fresh air. (actor) <nagpahangin, nagpápahangin, magpápahangin>
-magpahayág: to declare; to express; to announce; to assert. (actor) <nagpahayág, nagpápahayág, magpápahayág>
-magpahingá: to rest; to take a break; to take a rest. (actor) <nagpahingá, nagpápahingá, magpápahingá>
-magpakabít: to have someone install something; to have someone attach something; to have someone connect something. (actor) <nagpakabít, nagpápakabít, magpápakabít>
-magpakain: to feed someone; to allow others to eat. (actor) <nagpakain, nagpápakain, magpápakain>
-magpasán: to carry on one's back or shoulder. (actor) <nagpasán, nagpápasán, magpápasán>
-magpatingín: to be examined; to consult; to seek the advice of someone. (actor) <nagpatingín, nagpápatingín, magpápatingín>
-magsalamín: to wear glasses. (actor) <nagsalamín, nagsásalamín, magsásalamín>
-magsayawan: to dance together. (actor) <nagsayawan, nagsásayawan, magsásayawan>
-magsigawan: to shout at each other. (actor) <nagsigawan, nagsísigawan, magsísigawan>
-magtaguán: to play hide-and-seek. (actor) <nagtaguán, nagtátaguán, magtátaguán>
-magtanan: to elope. (actor) <nagtanan, nagtatanan, magtatanan>
-magtipon: to gather; to assemble; to meet; to accumulate. (actor) <nagtipon, nagtitipon, magtitipon>
-magtungo: to head toward; to go toward. (actor) <nagtungo, nagtutungo, magtutungo>
-magulat: to be surprised  (actor) ; to be startled  (actor) ; to be frightened  (actor) ; to surprise someone  (object) ; to startle someone  (object) . <nagulat, nagugulat, magugulat>
-magustuhán: to like something; to enjoy something. (object) <nagustuhán, nagúgustuhán, magúgustuhán>
-mahalín: to love someone/something; to take care of someone/something; to treasure something; to cherish something. (object) <minahál, minámahál, mámahalín>
-mahulaan: to be able to predict something  (object) ; to be able to guess something (object)  <nahulaan, nahúhulaan, mahúhulaan>
-maintindihán: to understand something; to be able to understand something; to comprehend something; to be able to comprehend something. (object) <naintindihán, naíintindihán, maíintindihán>
-maisipan: to have something occur to one to do; to have something come to mind; to think of doing something. (object) <naisipan, naíisipan, maíisipan>
-maiwan: to be left out  (actor) ; to be left behind (actor) ; to be able to leave something behind  (object)  <naiwan, naiiwan, maiiwan>
-maiwasan: to prevent something; to avoid something; to evade something. (object) <naiwasan, naíiwasan, maíiwasan>
-makain: to be able to eat something  (object) ; to happen to eat something (object)  <nakain, nakakain, makakain>
-makakain: to be able to eat. (actor) <nakakain, nakakakain, makakakain>
-makalimutan: to forget something; to fail to remember something;. (loc/dir) <nakalimutan, nakákalimutan, makákalimutan>
-makamtán: to secure; to possess; to achieve <nakamtán, nakákamtán, makákamtán>
-makapaghain: to be able to set the table; to be able to prepare for; to be able to lay the groundwork for; to be able to file (a complaint, case, etc.).
-makaraán: to be able to pass; to be able to get over/across. (actor) <nakaraán, nakákaraán, makákaraán>
-makatingín: to be able to look. (actor) <nakatingín, nakákatingín, makákatingín>
-maki+root: [affix/verb] [1] to join in doing something; to do something with others; [2] to ask someone to do the root; [3] to ask permission to join others in doing something;. (actor) <naki+root, nakiki+root, makiki+root>
-makialám: to meddle; to interfere. (actor) <nakialám, nakíkialám, makíkialám>
-makibagay: to adjust oneself to; to conform to. (actor) <nakibagay, nakikibagay, makikibagay>
-makibahagi: to take part; to share in; to share together. <nakibahagi, nakikibahagi, makikibahagi>
-makidaán: to ask permission to pass through. (actor) <nakidaán, nakíkidaán, makíkidaán>
-makiisá: to unite with; to become one with; to join in. <nakiisá, nakíkiisá, makíkiisá>
-makikain: to join others in eating; to eat with others; to eat together. <nakikain, nakikikain, makikikain>
-makilala: to meet someone; to get to know someone; to become acquainted with someone; to come to know someone/something; to recognize someone. (object) <nakilala, nakíkilala, makíkilala>
-makilitî: to feel ticklish. (actor) <nakilitî, nakikilitî, makikilitî>
-makinabang: to benefit from; to profit from; to take advantage of. (actor) <nakinabang, nakíkinabang, makíkinabang>
-makiníg: to listen. (actor) <nakiníg, nakíkiníg, makíkiníg>
-makinílyahín: to type. (object) <minakinilya, minámakinilya, mámakinílyahín>
-makipag+root: [affix/verb] to do something with someone. <nakipag+root, nakikipag+root, makikipag+root>
-makipag-away: to quarrel with each other; to argue with each other. <nakipag-away, nakíkipag-away, makíkipag-away>
-makipagbarilán: to get in a shoot out; to exchange gunfire. <nakipagbarilán, nakikipagbarilán, makikipagbarilán>
-makipag-debate: to debate each other; to debate one another; * Taglish verb from the English word "debate". <nakipag-debate, nakikipag-debate, makikipag-debate>
-makipaggiyera: to make war with each other; to make war among each other. <nakipaggiyera, nakikipaggiyera, makikipaggiyera>
-makipagkaibigan: to become a friend; to become friendly; to make friends. <nakipagkaibigan, nakíkipagkaibigan, makíkipagkaibigan>
-makipagkamáy: to shake hands with someone. <nakipagkamáy, nakíkipagkamáy, makíkipagkamáy>
-makipagkilala: to meet; to know someone; to meet each other. <nakipagkilala, nakíkipagkilala, makíkipagkilala>
-makipagkita: to meet up with. (actor) <nakipagkita, nakíkipagkita, makíkipagkita>
-makipaglaban: to contend with; to fight with. <nakipaglaban, nakíkipaglaban, makíkipaglaban>
-makipaglarô: to play with someone; to play with others. <nakipaglarô, nakikipaglarô, makikipaglarô>
-makipagpulong: to have a meeting with. (actor) <nakipagpulong, nakikipagpulong, makikipagpulong>
-makipagsabayán: to be able to join;. (actor) <nakipagsabayán, nakikipagsabayán, makikipagsabayán>
-makipagtalik: to have sex. <nakipagtalik, nakikipagtalik, makikipagtalik>
-makipagtalo: to argue with. <nakipagtalo, nakíkipagtalo, makíkipagtalo>
-makipagtulungán: to cooperate; to help each other. <nakipagtulungán, nakíkipagtulungán, makíkipagtulungán>
-makipag-ugnayan: to associate with; to coordinate. <nakipag-ugnayan, nakíkipag-ugnayan, makíkipag-ugnayan>
-makipag-usap: to talk with; to converse with; to communicate with; * on actor who is talking. (actor) <nakipag-usap, nakíkipag-usap, makíkipag-usap>
-makiramdám: to sharpen one's senses. (actor) <nakiramdám, nakikiramdám, makikiramdán>
-makisakáy: to ride together. <nakisakáy, nakikisakáy, makikisakáy>
-makisalamuha: to mingle; to interact with. (actor) <nakisalamuha, nakíkisalamuha, makíkisalamuha>
-makisali: to participate; to join in. <nakisali, nakíkisali, makíkisali>
-makisama: to get along with. (actor) <nakisama, nakikisama, makikisama>
-makita: to be able to see something; to see something; to catch sight of something. (object) <nakita, nakikita, makikita>
-makitawa: to join in laughing. <nakitawa, nakíkitawa, makíkitawa>
-makituloy: to stay somewhere temporarily. <nakituloy, nakikituloy, makikituloy>
-makitungo: to deal with; to act toward. <nakitungo, nakíkitungo, makíkitungo>
-makiusap: to request; to ask for; to plead; to beg. (actor) <nakiusap, nakíkiusap, makíkiusap>
-malaman: to know something  (object) ; to find out something (object) ; to learn about something (object) ; to be conscious of something (object) ; to be informed  (actor) ; to find out (actor)  <nalaman, nalalaman, malalaman>
-malasin: to have bad luck; to suffer harm; to be unlucky. (object) <minalas, minamalas, mamalasin>
-maliitín: to underestimate; to belittle. (object) <minaliít, minámaliít, mámaliitín>
-manahin: to inherit something. (object) <minana, minamana, mamanahin>
-manalangin: to pray  (actor) ; to pray for something  (object)  <nanalangin, nanánalangin, manánalangin>
-manehuhin: to drive something (a vehicle); to manage something. (object) <minaneho, minámaneho, mámanehuhin>
-mangailangan: to need something. (actor) <nangailangan, nangángailangan, mangángailangan>
-manirahan: to reside; to dwell; to live. (actor) <nanirahan, nanínirahan, manínirahan>
-mapag-alamán: to come to realize something; to come to learn something; to come to find out something. (object) <napag-alamán, napag-áalamán, mapag-áalamán>
-mapagkalakhán: to outgrow; to grow too large for <napagkalakhán, napagkákalakhán, mapagkákalakhán>
-mapanalunan: to win <napanalunan, napápanalunan, mapápanalunan>
-mápansín: to happen to notice something  (object) ; to realize something (object) ; to be noticed  (actor) .(object) <nápansín, napápansín, mapápansín>
-mapasaakin: to become mine <napasaakin, napápasaakin, mapápasaakin>
-mapasaamin: to become ours <napasaamin, napápasaamin, mapápasaamin>
-mapasaatin: to become ours <napasaatin, napápasaatin, mapápasaatin``>
-mapatingín: to happen to look at; to happen to see; to suddenly look at. (actor) <napatingín, napápatingín, mapápatingín>
-mapigilan: to stop; to be able to stop; to be able to hold back <napigilan, napípigilan, mapípigilan>
-mapilitan: to be forced; to have no choice; to be obliged. (actor) <napilitan, napípilitan, mapípilitan>
-maramdamán: to feel something (physically or emotionally). (object) <naramdamán, naráramdamán, maráramdamán>
-maranasan: to experience <naranasan, naráranasan, maráranasan>
-masahihin: to massage. (object) <minasahe, minámasahe, mámasahihin>
-masaktán: to be hurt  (actor) ; to be injured (actor) ; to have one's feelings hurt (actor) ; to be offended (actor) ; to hurt someone's feelings  (loc/dir)  <nasaktán, nasásaktán, masásaktán>
-masamain: to take something wrong; to take something the wrong way; to take something poorly; to turn bad; to take a turn for the worse. (object) <minasamâ, minámasamâ, mámasamaín>
-masdán: to observe. (object) <minasdán, minámasdán, mámasdán>
-matahín: to underestimate something; to eye something (with suspicion or skepticism); to belittle something; to disdain something; to despise something. (object) <minatá, minámatá, mámatahín>
-matandaán: to be able to remember <natandaán, natátandaán, matátandaán>
-matangkarán: to grow or become tall <natangkarán, natátangkarán, matátangkarán>
-matigilan: to be bewildered; to be stunned; to be surprised; to be dumbfounded; to falter. (actor) <natigilan, natítigilan, matítigilan>
-matugunán ang pangangailangan: to meet the need <natugunán ang pangangailangan, natutugunán ang pangangailangan, matutugunán ang pangangailangan>
-matugunán: to meet a need; to satisfy a need or desire <natugunán, natútugunán, matútugunán>
-matuklasán: to find out about something; to discover something <natuklasán, natútuklasán, matútuklasán>
-maunawaan: to be able to understand something; to be able to realize something. (object) <naunawaan, naúunawaan, maúunawaan>
-paalisín: to send someone or something away. (object) <pinaalís, pinaáalís, paáalisín>
-paandarín: to cause something to operate; to cause to run or set in motion; to drive something. (object) <pinaandár, pinapaandár, papaandarín>
-pabayaan: to abandon something; to neglect something; to disregard something; to let something be; to never mind about something. (object) <pinabayaan, pinápabayaan, pápabayaan>
-pabilisín: to speed up; to expedite. <pinabilís, pinabíbilís, pabíbilisín>
-paborán: to favor. <pinaborán, pinápaborán, pápaborán>
-pabutihin: to improve. <pinabuti, pinabubuti, pabúbutihin>
-pagalawín: to move; to cause to move. (object) <pinagaláw, pinápagaláw, pápagalawín>
-pagalingín: to heal; to cure; to make better. (object) <pinagalíng, pinagágalíng, pagágalingín>
-pagalitan: to scold someone; to reprimand someone; to get angry at someone. (loc/dir) <pinagalitan, pinagágalitan, pagágalitan>
-pagandahín: to make something beautiful; to beautify something; to make something better. (object) <pinagandá, pinagágandá, pagágandahín>
-pag-aralan: to study something. (object) <pinag-aralan, pinag-áaralan, pag-áaralan>
-pagawaín: to make someone do (something); to have someone do. (object) <pinagawâ, pinapagawâ, papagawaín>
-pagbabarilín: to shoot up something/somewhere; to shoot down something. (object) <pinagbabaríl, pinagbábabaríl, pagbábarilín>
-pagbakasyunán: to spend a vacation somewhere. <pinagbakasyunán, pinagbábakasyunán, pagbábakasyunán>
-pagbidahan: to star in something (movie, TV show, etc.) <pinagbidahan, pinagbibidahan, pagbibidahan>
-pagbigyán: to give in to someone; to let someone have their way; to accommodate someone; to oblige someone; to make a concession to someone. <pinagbigyán, pinagbíbigyán, pagbíbigyán>
-pagbilhán: to sell to someone; to sell somewhere. (loc/dir) <pinagbilhán, pinagbíbilhán, pagbíbilhán>
-pagbilinan: to brief someone; to instruct someone <pinagbilinan, pinagbíbilinan, pagbíbilinan>
-pagbuhatín: to lift/carry for someone else. <pinagbuhát, pinagbubuhât, pagbúbuhatín>
-pagbutihin: to make something perfect; to do something well. <pinagbuti, pinagbubuti, pagbubutihin>
-pagdaanan: to go through something; to pass through something; to endure something (go through difficulties); to bring something by to someone. <pinagdaanan, pinagdádaanan, pagdádaanan>
-pagdausan: to hold an event <pinagdausan, pinagdárausan, pagdárausan>
-pagdudahan: to doubt someone/something. <pinagdudahan, pinagdúdudahan, pagdúdudahan>
-pagdusahan: to suffer. <pinagdusahan, pinagdurusahan, pagdúrusahan>
-paghahampasín: to strike someone; to strike someone repeatedly <pinaghahampás, pinagháhahampás, pagháhahampasín>
-pagháhanapín: to hunt down. <pinaghahanáp, pinagháhahanáp, pagháhahanapín>
-paghariin: to let someone reign. (object) <pinagharì, pinaghaharì, pagháhariin>
-paghinalaan: to suspect someone (of something). (object) <pinaghinalaan, pinaghíhinalaan, paghíhinalaan>
-paghirapan: to work hard for something; to strain for something. (object) <pinaghirapan, pinaghíhirapan, paghíhirapan>
-pághiwalayín: to separate one from another. (object) <pinághiwaláy, pinaghíhiwaláy, paghíhiwalayín>
-paghusayan: to do one's best. (object) <pinaghusayan, pinaghuhusayan, paghuhusayan>
-pag-ibayuhin: to redouble <pinag-ibayo, pinag-íibayo, pag-íibayuhin>
-pag-ingatan: to take care of something <pinag-ingatan, pinag-íingatan, pag-íingatan>
-pag-ingatin: to caution <pinag-ingat, pinag-iingat, pag-iingatin>
-pag-ipunan: to save up; to save up money. <pinag-ipunan, pinag-íipunan, pag-íipunan>
-pag-isipan: to think about something; to consider something. (object) <pinag-isipan, pinag-íisipan, pag-íisipan>
-pagkáabalahán: to be very busy with something; to be engrossed in something <pinagkáabalahán, pinagkákaabalahán, pagkákaabalahán>
-pagkáisahán: to gang up on; to be ganged up on; to have consensus <pinagkáisahán, pinagkakáisahán, pagkakáisahán>
-pagkalakhán: to grow up with. <pinagkalakhán, pinagkákalakhán, pagkákalakhán>
-pagkaloobán: to be provided with; to be endowed with; to be granted; to furnish. (benefactor) <pinagkaloobán, pinagkákaloobán, pagkákaloobán>
-pagkámalán: to mistake someone/something (for something else); to misconstrue something. (loc/dir) <pinagkámalán, pinagkakámalán, pagkakámalán>
-pagkátiwalaan: entrust to the care of; consign; relegate; confide. <pinagkátiwalaan, pinagkakátiwalaan, pagkakátiwalaan>
-paglaruán: to play with something; to toy with something; to trifle with something. (object) <pinaglaruán, pinaglálaruán, paglálaruán>
-pagmasdán: to look at something attentively; to carefully observe something. (loc/dir) <pinagmasdán, pinagmámasdán, pagmámasdán>
-pagmulán: to be the source or cause of something. (actor) <pinagmulán, pinagmúmulán, pagmúmulán>
-pagmultahín: to fine someone. <pinagmultá, pinagmúmultá, pagmúmultahín>
-pagpasensyahán: to have patience with someone. (loc/dir) <pinagpasensyahán, pinagpapasensyahán, pagpapasensyahán>
-pagpasiyahán: to decide; to decide on. (loc/dir) <pinagpasiyahán, pinagpápasiyahán, pagpápasiyahán>
-pagsabihan: to reprimand someone; to scold someone; to correct someone; to say something to someone; * on the person being talked to. (loc/dir) <pinagsabihan, pinagsásabihan, pagsásabihan>
-pagsaluhan: to share. (object) <pinagsaluhan, pinagsásaluhan, pagsásaluhan>
-pagsamahin: to combine something; to have things put together / joined. (object) <pinagsama, pinagsasama, pagsasamahin>
-pagsamantalahán: to take advantage of something. (object) <pinagsamantalahán, pinagsásamantalahán, pagsásamantalahán>
-pagsanibin: to unite. <pinagsanib, pinagsasanib, pagsásanibin>
-pagselosin: to make someone jealous. <pinagselos, pinagseselos, pagseselosin>
-pagsisihan: to atone for something; to be sorry for something <pinagsisihan, pinagsísisihan, pagsísisihan>
-pagtaguan: to hide from someone. <pinagtaguan, pinagtátaguan, pagtátaguan>
-pagtakpán: to cover up; to whitewash. (loc/dir) <pinagtakpán, pinagtátakpán, pagtátakpán>
-pagtaksilán: to betray; to cheat on. <pinagtaksilán, pinagtátaksilán, pagtátaksilán>
-pagtalunan: to argue about; to haggle <pinagtalunan, pinagtátalunan, pagtátalunan>
-pagtangkaán: to attempt; to intend; to plan; to undertake. <pinagtangkaán, pinagtátangkaán, pagtátangkaán>
-pagtawanán: to laugh at someone/something; to mock someone/something; to make fun of someone/something. (loc/dir) <pinagtawanán, pinagtátawanán, pagtátawanán>
-pagtibayin: to ratify something. (object) <pinagtibay, pinagtitibay, pagtitibayin>
-pagtripán: to play a trick on. <pinagtripán, pinagtítripán, pagtítripán>
-pagtugmaín: to match; to rhyme; to coordinate. <pinagtugmâ, pinagtutugmâ, pagtútugmaín>
-pag-ugnayín: to relate; to attach. <pinag-ugnáy, pinag-úugnáy, pag-úugnayín>
-pag-usapan: to have a discussion about something; to converse about something; * on the item being discussed. (object) <pínag-usapan, pinag-úusapan, pag-úusapan>
-pahalagahán: to appreciate something; to value something; to esteem something; to prize something. (object) <pinahalagahán, pináhahalagahán, páhahalagahán>
-pakábutihin: to try hard to make something the best. <pinakabuti, pinakákabuti, pakakábutihin>
-pakainin: to feed someone; to allow others to eat; * on the one eating. (loc/dir) <pinakain, pinápakain, pápakainin>
-pakasalán: to get married to someone; to marry someone; * on the person getting married to. (object) <pinakasalán, pinápakasalán, pápakasalán>
-pakawalán: to free someone/something (from restraints, jail, etc); to unbind someone/something; to release someone/something; to unchain someone/something; to unleash someone/something. (object) <pinakawalán, pinakákawalán, pakákawalán>
-pakialamán: to meddle with; to disturb someone. (loc/dir) <pinakialamán, pinakíkialamán, pakíkialamán>
-pakinggán: to listen to someone/something; to pay attention to something; to heed something. (loc/dir) <pinakinggán, pinakíkinggán, pakíkinggán>
-pakislapín: to light something up; to flare up;. <pinakisláp, pinakíkisláp, pakíkislapín>
-palabasín: to send something out; to make something appear to be so. (object) <pinalabás, pinápalabás, pápalabasín>
-palaguín: to grow. <pinalagô, pinalalagô, palálaguín>
-palakasín: to strengthen something; to make something louder. (object) <pinalakás, pinalálakás, palálakasín>
-palakihín: to raise someone; to rear someone (a child); to bring up; to exaggerate; to blow out of proportion; to make something big. <pinalakí, pinalálakí, palálakihín>
-palakpakán: to clap for someone/something; to applaud someone/something; to acclaim someone/something. <pinalakpakán, pinápalakpakán, pápalakpakán>
-palampasín: to overlook something; to ignore something; to pass up something. (object) <pinalampás, pinalálampás, palálampasín>
-paliguan: to bathe someone; to give someone/something a bath. <pinaliguan, pinalíliguan, palíliguan>
-palitán: to replace something; to change something. (loc/dir) <pinalitán, pinápalitán, pápalitán>
-paluin: to spank someone; to beat someone/something; to hit someone/something; to whip someone/something; to strike someone/something. (object) <pinalò, pinapalò, papaluin>
-pamanahan: to leave an inheritance. <pinamanahan, pinápamanahan, pápamanahan>
-panatilihin: to preserve something; to keep something; to maintain something; to retain something. (object) <pinanatili, pinanánatili, panánatilihin>
-pangakuan: to give a promise to; to promise something to someone. (loc/dir) <pinangakuan, pinangángakuan, pangángakuan>
-paniwalaan: to believe something; to believe in someone/something; to credit something. (loc/dir) <pinaniwalaan, pinaníniwalaan, paníniwalaan>
-panoorín: to watch something; to watch a show; to see a show; to look on at something. (object) <pinanoód, pinápanoód, panónoorín>
-pansinín: to notice something; to observe something; to detect something; to take note of something. (object) <pinansín, pinápansín, pápansinín>
-papuntahín: to have someone go; to send something/someone to. (object) <pinapuntá, pinapupuntá, papupuntahín>
-paputukín: to shoot out; to discharge; to detonate. (object) <pinaputók, pinapúputók, papúputukín>
-pasanín: to carry on one's back or shoulders. (object) <pinasán, pinápasán, pápasanín>
-pasukan: to enter something into; to go to work; to go to school. (loc/dir) <pinasukan, pinápasukan, pápasukan>
-pasukin: to enter something; to go into something. (loc/dir) <pinasok, pinapasok, papasukin>
-pasyalán: to visit something/someone. (loc/dir) <pinasyalán, pinápasyalán, pápasyalán>
-patagalín: to prolong. <pinatagál, pinatátagál, patátagalín>
-patahimikin: to hush; to calm; to silence; to pacify. <pinatahimik, pinatátahimik, patátahimikin>
-patakbuhín: to operate; to run. (loc/dir) <pinatakbó, pinatátakbó, patátakbuhín>
-patawarin: to forgive someone; to spare someone. (object) <pinatawad, pinatatawad, patatawarin>
-patayín: to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something. (object) <pinatáy, pinápatáy, pápatayín>
-patulan: to stoop down to someone's level (figurative); to pay attention to someone of lower status; * generally used in antagonistic social scenarios. <pinatulan, pinápatulan, pápatulan>
-patulugin: to put to bed; to sedate. <pinatulog, pinatutulog, patutulugin>
-patunayan: to prove; to testify; to verify; to certify; to authenticate; to corroborate. <pinatunayan, pinatútunayan, patútunayan>
-paunlarín: to develop something. (object) <pinaunlád, pinaúunlád, paúunlarín>
-paupuín: to get someone to sit; to allow someone to sit down; * on the one sitting. (object) <pinaupô, pinápaupô, pápaupuín>
-pawisan: to perspire  (actor) ; to sweat  (actor) ; to sweat on something  (loc/dir) . <pinawisan, pinápawisan, pápawisan>
-payagan: to allow someone to do; to allow something; to acquiesce on something; to concede something. (object) <pinayagan, pinápayagan, pápayagan>
-plántsahín: to iron something (clothing); to press something. (object) <pinlantsa, pinaplantsa, paplántsahín>
-planuhin: to plan. (object) <pinlano, pinaplano, paplanuhin>
-pumasán: to carry on one's back or shoulder; to carry a burden (figuratively). (actor) <pumasán, pumápasán, pápasán>
+kaawaan: to pity. <kinaawaan, kinákaawaan, kákaawaan>
+kabagan: to have gas / flatulence. <kinabagan, kinákabagan, kákabagan>
+kabahán: to feel nervous; to palpitate; to be startled; to have a premonition. (actor) <kinabahán, kinákabahán, kákabahán>
+kabilangan: to consist of something; to belong to something (a team/organization/society/etc.); to be a part of something; to involve or include something.<kinabilangan, kinabíbilangan, kabíbilangan>
+kabitán: to attach; to fasten. <kinabitán, kinákabitán, kákabitán>
+káblehán: to put a cable on; to wrap with a cable. <kináblehán, kinakáblehán, kakáblehán>
+kadyutín: to go to and fro; to give quick thrusts. (object) <kinadyót, kinákadyót, kákadyutín>
+kagalitan: to scold someone (object); to be scolded (actor) <kinagalitan, kinagagalitan, kagagalitan>
+kagatán: to bite something. <kinagatán, kinákagatán, kákagatán>
+kagatín: to bite something. (object) <kinagát, kinákagát, kákagatín>
+kagisnán: to find upon waking; to be born. <kinagisnán, kinákagisnán, kákagisnán>
+kaharapín: to face something. (object) <kinaharáp, kinákaharáp, kákaharapín>
+kahinatnán: to be the fate; to be the outcome; to result in something. <kinahinatnán, kinahíhinatnán, kahíhinatnán>
+kaibiganin: to make friends with someone; to become friends with someone. (object) <kinaibigan, kinakaibigan, kakaibiganin>
+kailanganin: to need something; to require something. (object) <kinailangan, kinákailangan, kákailanganin>
+kainan: to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere. (loc/dir) <kinainan, kinakainan, kakainan>
+kainggitán: to envy. <kinainggitán, kinákainggitán, kákainggitán>
+kainin: to eat something; * focus on the thing being eaten. (object) <kinain, kinakain, kakainin>
+kalabitín: to poke someone; to strum something (an instrument, strings, etc.); to tap or motion to someone to get their attention; to shake someone to get their attention. (object) <kinalabít, kinákalabít, kákalabitín>
+kaladkarín: to drag something. (object) <kinaladkád, kinákaladkád, kákaladkarín>
+kalagín: to loosen; to untwist; to untie; to absolve. (object) <kinalág, kinákalág, kákalagín>
+kalaruín: to make someone a playmate. (object) <kinalarô, kinákalarô, kákalaruín>
+kalasín: to dismantle. (object) <kinalás, kinákalás, kákalasín>
+kalatan: to clutter. <kinalatan, kinákalatan, kákalatan>
+kalbuhín: to make bald. (object) <kinalbó, kinákalbó, kákalbuhín>
+kalimutan: to forget something; to overlook something. (actor) <kinalimutan, kinákalimutan, kákalimutan>
+kaliskisán: to descale; to remove scales from. (benefactive) <kinaliskisán, kinákaliskisán, kákaliskisán>
+kaliwaín: to cheat on someone; to have an affair; to use one's left hand. (object) <kinaliwâ, kinákaliwâ, kákaliwaín>
+kalkulahín: to calculate something. (object) <kinalkulá, kinákalkulá, kákalkulahín>
+kalmutín: to claw someone; to scratch someone. (object) <kinalmót, kinákalmót, kákalmutín>
+kaltasín: to deduct; to cancel. (object) <kinaltás, kinákaltás, kákaltasín>
+kalugdán: to enjoy; to take pleasure in. <kinalugdán, kinalúlugdán, kalúlugdán>
+kalungin: to hold someone in one's lap; to carry a child. (object) <kinalong, kinakalong, kakalungin>
+kamayán: to shake hands with someone. (loc/dir) <kinamayán, kinákamayán, kákamayán>
+kamayín: to use one's hands on something; to knead something. (object) <kinamáy, kinákamáy, kákamayín>
+kampihán: to take sides. (object) <kinampihán, kinákampihán, kákampihán>
+kamtán: to achieve; to acquire; to obtain. <kinamtán, kinákamtán, kákamtamín>
+kamtán: to achieve; to acquire; to obtain.<kinamtán, kinákamtán, kákamtamín>
+kamuhian: to hate; to detest. (loc/dir) <kinamuhian, kinamúmuhian, kamúmuhian>
+kamutin: to scratch an itch. (object) <kinamot, kinakamot, kakamutin>
+kanawín: to dissolve; to dilute. (object) <kinanáw, kinákanáw, kákanawín>
+kanselahín: to cancel something. (object) <kinanselá, kinákanselá, kákanselahín>
+kantahán: to sing to someone; * focus on the person being sung to. (benefactive) <kinantahán, kinákantahán, kákantahán>
+kantahín: to sing something. (object) <kinantá, kinákantá, kákantahín>
+kantiín: to touch; to hit lightly. (object) <kinantî, kinakantî, kákantiín>
+kantutín: to fuck someone/something; to have sex with someone * vulgar. (object) <kinantót, kinákantót, kákantutín>
+kanyahín: to appropriate something for oneself. (object) <kinanyá, kinákanyá, kákanyahín>
+kanyunín: to cannon. (object) <kinanyón, kinákanyón, kákanyunín>
+kapaín: to find something by feeling or groping; to feel for something. (object) <kinapâ, kinakapâ, kákapaín>
+kapalín: to create. (object) <kinapál, kinakapál, kákapalín>
+kapitan: to hold onto something; to stick onto something; to grasp onto something. (loc/dir) <kinapitan, kinakapitan, kakapitan>
+kapkapán: to frisk someone. (loc/dir) <kinapkapán, kinákapkapán, kákapkapán>
+kapkapín: to frisk; to search someone for something. (object) <kinapkáp, kinákapkáp, kákapkapín>
+kapootán: to detest something/someone. <kinapootán, kinapópootán, kapópootán>
+kapunín: to castrate something/someone. (object) <kinapón, kinákapón, kákapunín>
+kapusín: to fall short of something. (object) <kinapós, kinákapós, kákapusín>
+kargahán: to load; to fill. <kinargahán, kinákargahán, kákargahán>
+kargahín: to carry someone/something; to scoop up something/someone. (object) <kinargá, kinákargá, kákargahín>
+kasabwatín: to get help committing a crime; to conspire. (object) <kinasabwát, kinákasabwát, kákasabwatín>
+kasangkután: to be involved with something; to get caught up in something. (object) <kinasangkután, kinasasangkután, kasasangkután>
+kasuhan: to file a case against someone; to sue someone. (loc/dir) <kinasuhan, kinákasuhan, kákasuhan>
+katakutan: to fear something; to be afraid of something. (loc/dir) <kinatakutan, kinatátakutan, katátakutan>
+katasán: to extract; to obtain juice. <kinatasán, kinákatasán, kákatasán>
+katawanín: to represent something; to symbolize something. (object) <kinatawán, kinákatawán, kákatawanín>
+katayin: to slaughter something; to slaughter an animal; to kill something for food. (object) <kinatay, kinakatay, kakatayin>
+kathaín: to create a story; to compose a story; to write a story; to fabricate something. (object) <kinathâ, kinakathâ, kákathaín>
+katigan: to support something; to vote for something; to endorse something; to approve of something. (object) <kinatigan, kinakatigan, kakatigan>
+katukín: to knock on something. (loc/dir) <kinatók, kinákatók, kákatukín>
+kausapin: to speak to someone; to talk with someone; * focus on the person being talked to. (loc/dir) <kinausap, kinákausap, kákausapin>
+kawayán: to wave at someone; to beckon someone. (object) <kinawayán, kinákawayán, kákawayán>
+kayanin: to be able to endure or cope with something; to be able to handle doing something; to be able to do or accomplish something. (object) <kinaya, kinakaya, kakayanin>
+kumain: to eat. (actor) <kumain, kumakain, kakain>
+maabutan	to happen to encounter something; to catch up with / to something or someone <naabutan, naáabutan, maáabutan>
+mabigyán	to be given; to be granted. (benefactor) <nabigyán, nabíbigyán, mabíbigyán>
+mabinbín	to be postponed <nabinbín, nabíbinbín, mabíbinbín>
+mabitín	to be left hanging; <nabitín, nabibitín, mabibitín>
+mabutihin	to prefer; to favor. (object) <minabuti, minámabuti, mámabutihin>
+madaliín	to make faster; to hurry; to rush. (object) <minadalî, minámadalî, mámadaliín>
+madatnán	to come upon someone/something; to be caught in the act of doing something <nadatnán, nadádatnán, madádatnán>
+madiligán	to be able to water. (benefactor) <nadiligán, nadídiligán, madídiligán>
+madumihán	to make something dirty; to get something dirty. (object) <nadumihán, nadúdumihán, madúdumihán>
+mag-alalá	to worry; to be concerned; to be anxious; to be apprehensive. (actor) <nag-alalá, nag-áalalá, mag-áalalá>
+magbabâ	to bring down; to demote. (actor) <nagbabâ, nagbababâ, magbababâ>
+magbalità	to report (news). (actor) <nagbalità, nagbábalità, magbábalità>
+magbaybáy	to spell. (actor) <nagbaybáy, nagbábaybáy, magbábaybáy>
+magbilin	to give instructions; to brief; to order. (actor) <nagbilin, nagbibilin, magbibilin>
+magdiwang	to celebrate. (actor) <nagdiwang, nagdiriwang, magdiriwang>
+maghain	to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.). (actor) <naghain, naghahain, maghahain>
+mag-isíp	to think; to think of; to think intensely; to plan; to devise (plan); * deliberate, intentional thinking. (actor) <nag-isíp, nag-íisíp, mag-íisíp>
+magkaín	to devour; to eat often. (actor) <nagkaín, nagkakaín, magkakaín>
+magkamayan	to shake hands. (actor) <nagkamayan, nagkákamayan, magkákamayan>
+magkumpará	to compare. (actor) <nagkumpará, nagkúkumpará, magkúkumpará>
+magkuwento	to tell a story; to narrate. (actor) <nagkuwento, nagkukuwento, magkukuwento>
+maglabá	to wash clothes; to do the laundry. (actor) <naglabá, naglálabá, maglálabá>
+maglabás	to bring out; to take out; to put out. (actor) <naglabás, naglálabás, maglálabás>
+maglagà	to cook by boiling; to boil. (actor) <naglagà, naglalagà, maglalagà>
+maglagáy	to place; to apply; to put; to situate; to bribe. (actor) <naglagáy, naglálagáy, maglálagáy>
+maglakád	to walk; to walk around; to engage in trade; to do the legwork; to walk or hand-carry over. (actor) <naglakád, naglálakád, maglálakád>
+maglakbáy	to travel; to journey; to tour around. (actor) <naglakbáy, naglálakbáy, maglálakbáy>
+maglarô	to play. (actor) <naglarô, naglalarô, maglalarô>
+maglaslás	to slash; to lacerate. (actor) <naglaslás, naglálaslás, maglálaslás>
+maglinis	to clean; to clean up. (actor) <naglinis, naglilinis, maglilinis>
+maglipát	to move something; to transfer something. (actor) <naglipát, naglílipát, maglílipát>
+maglipon	to converse with one another. (actor) <naglipon, naglilipon, maglilipon>
+magliwanag	to light up; to glow; to give out a bright light; to twinkle; to make clear. (actor) <nagliwanag, naglíliwanag, maglíliwanag>
+maglutò	to cook. (actor) <naglutò, naglulutò, maglulutò>
+magmadalî	to hurry up; to hasten; to rush; to be in a hurry; to go in a hurry. (actor) <nagmadalî, nagmámadalî, magmámadalî>
+magmahál	to love; to become expensive. (actor) <nagmahál, nagmámahál, magmámahál>
+magmahalan	to love each other or one another. (actor) <nagmahalan, nagmámahalan, magmámahalan>
+magmaneho	to drive. (actor) <nagmaneho, nagmámaneho, magmámaneho>
+magmano	to kiss the hand of someone; to put the hand of an elder to one's forehead to show respect; to bless. (actor) <nagmano, nagmamano, magmamano>
+magmasahe	to massage. (actor) <nagmasahe, nagmámasahe, magmámasahe>
+magmasíd	to observe. (actor) <nagmasíd, nagmámasíd, magmámasíd>
+magmúni-muni	to ponder; to reflect; to self reflect; to contemplate. (actor) <nagmúni-muni, nagmumúni-muni, magmumúni-muni>
+magnakaw	to steal. (actor) <nagnakaw, nagnanakaw, magnanakaw>
+magpaalam	to say goodbye; to seek permission. (actor) <nagpaalam, nagpápaalam, magpápaalam>
+magpadalá	to send; to transmit; to carry away; to be swayed. (actor) <nagpadalá, nagpápadalá, magpápadalá>
+magpagandá	to make beautiful; to embellish. (actor) <nagpagandá, nagpápagandá, magpápagandá>
+magpagupít	to get a haircut. (actor) <nagpagupít, nagpápagupít, magpápagupít>
+magpahangin	to get some fresh air. (actor) <nagpahangin, nagpápahangin, magpápahangin>
+magpahayág	to declare; to express; to announce; to assert. (actor) <nagpahayág, nagpápahayág, magpápahayág>
+magpahingá	to rest; to take a break; to take a rest. (actor) <nagpahingá, nagpápahingá, magpápahingá>
+magpakabít	to have someone install something; to have someone attach something; to have someone connect something. (actor) <nagpakabít, nagpápakabít, magpápakabít>
+magpakain	to feed someone; to allow others to eat. (actor) <nagpakain, nagpápakain, magpápakain>
+magpasán	to carry on one's back or shoulder. (actor) <nagpasán, nagpápasán, magpápasán>
+magpatingín	to be examined; to consult; to seek the advice of someone. (actor) <nagpatingín, nagpápatingín, magpápatingín>
+magsalamín	to wear glasses. (actor) <nagsalamín, nagsásalamín, magsásalamín>
+magsayawan	to dance together. (actor) <nagsayawan, nagsásayawan, magsásayawan>
+magsigawan	to shout at each other. (actor) <nagsigawan, nagsísigawan, magsísigawan>
+magtaguán	to play hide-and-seek. (actor) <nagtaguán, nagtátaguán, magtátaguán>
+magtanan	to elope. (actor) <nagtanan, nagtatanan, magtatanan>
+magtipon	to gather; to assemble; to meet; to accumulate. (actor) <nagtipon, nagtitipon, magtitipon>
+magtungo	to head toward; to go toward. (actor) <nagtungo, nagtutungo, magtutungo>
+magulat	to be surprised  (actor) ; to be startled  (actor) ; to be frightened  (actor) ; to surprise someone  (object) ; to startle someone  (object) . <nagulat, nagugulat, magugulat>
+magustuhán	to like something; to enjoy something. (object) <nagustuhán, nagúgustuhán, magúgustuhán>
+mahalín	to love someone/something; to take care of someone/something; to treasure something; to cherish something. (object) <minahál, minámahál, mámahalín>
+mahulaan	to be able to predict something  (object) ; to be able to guess something (object)  <nahulaan, nahúhulaan, mahúhulaan>
+maintindihán	to understand something; to be able to understand something; to comprehend something; to be able to comprehend something. (object) <naintindihán, naíintindihán, maíintindihán>
+maisipan	to have something occur to one to do; to have something come to mind; to think of doing something. (object) <naisipan, naíisipan, maíisipan>
+maiwan	to be left out  (actor) ; to be left behind (actor) ; to be able to leave something behind  (object)  <naiwan, naiiwan, maiiwan>
+maiwasan	to prevent something; to avoid something; to evade something. (object) <naiwasan, naíiwasan, maíiwasan>
+makain	to be able to eat something  (object) ; to happen to eat something (object)  <nakain, nakakain, makakain>
+makakain	to be able to eat. (actor) <nakakain, nakakakain, makakakain>
+makalimutan	to forget something; to fail to remember something;. (loc/dir) <nakalimutan, nakákalimutan, makákalimutan>
+makamtán	to secure; to possess; to achieve <nakamtán, nakákamtán, makákamtán>
+makapaghain	to be able to set the table; to be able to prepare for; to be able to lay the groundwork for; to be able to file (a complaint, case, etc.).
+makaraán	to be able to pass; to be able to get over/across. (actor) <nakaraán, nakákaraán, makákaraán>
+makatingín	to be able to look. (actor) <nakatingín, nakákatingín, makákatingín>
+maki+root	[affix/verb] [1] to join in doing something; to do something with others; [2] to ask someone to do the root; [3] to ask permission to join others in doing something;. (actor) <naki+root, nakiki+root, makiki+root>
+makialám	to meddle; to interfere. (actor) <nakialám, nakíkialám, makíkialám>
+makibagay	to adjust oneself to; to conform to. (actor) <nakibagay, nakikibagay, makikibagay>
+makibahagi	to take part; to share in; to share together. <nakibahagi, nakikibahagi, makikibahagi>
+makidaán	to ask permission to pass through. (actor) <nakidaán, nakíkidaán, makíkidaán>
+makiisá	to unite with; to become one with; to join in. <nakiisá, nakíkiisá, makíkiisá>
+makikain	to join others in eating; to eat with others; to eat together. <nakikain, nakikikain, makikikain>
+makilala	to meet someone; to get to know someone; to become acquainted with someone; to come to know someone/something; to recognize someone. (object) <nakilala, nakíkilala, makíkilala>
+makilitî	to feel ticklish. (actor) <nakilitî, nakikilitî, makikilitî>
+makinabang	to benefit from; to profit from; to take advantage of. (actor) <nakinabang, nakíkinabang, makíkinabang>
+makiníg	to listen. (actor) <nakiníg, nakíkiníg, makíkiníg>
+makinílyahín	to type. (object) <minakinilya, minámakinilya, mámakinílyahín>
+makipag+root	[affix/verb] to do something with someone. <nakipag+root, nakikipag+root, makikipag+root>
+makipag-away	to quarrel with each other; to argue with each other. <nakipag-away, nakíkipag-away, makíkipag-away>
+makipagbarilán	to get in a shoot out; to exchange gunfire. <nakipagbarilán, nakikipagbarilán, makikipagbarilán>
+makipag-debate	to debate each other; to debate one another; * Taglish verb from the English word "debate". <nakipag-debate, nakikipag-debate, makikipag-debate>
+makipaggiyera	to make war with each other; to make war among each other. <nakipaggiyera, nakikipaggiyera, makikipaggiyera>
+makipagkaibigan	to become a friend; to become friendly; to make friends. <nakipagkaibigan, nakíkipagkaibigan, makíkipagkaibigan>
+makipagkamáy	to shake hands with someone. <nakipagkamáy, nakíkipagkamáy, makíkipagkamáy>
+makipagkilala	to meet; to know someone; to meet each other. <nakipagkilala, nakíkipagkilala, makíkipagkilala>
+makipagkita	to meet up with. (actor) <nakipagkita, nakíkipagkita, makíkipagkita>
+makipaglaban	to contend with; to fight with. <nakipaglaban, nakíkipaglaban, makíkipaglaban>
+makipaglarô	to play with someone; to play with others. <nakipaglarô, nakikipaglarô, makikipaglarô>
+makipagpulong	to have a meeting with. (actor) <nakipagpulong, nakikipagpulong, makikipagpulong>
+makipagsabayán	to be able to join;. (actor) <nakipagsabayán, nakikipagsabayán, makikipagsabayán>
+makipagtalik	to have sex. <nakipagtalik, nakikipagtalik, makikipagtalik>
+makipagtalo	to argue with. <nakipagtalo, nakíkipagtalo, makíkipagtalo>
+makipagtulungán	to cooperate; to help each other. <nakipagtulungán, nakíkipagtulungán, makíkipagtulungán>
+makipag-ugnayan	to associate with; to coordinate. <nakipag-ugnayan, nakíkipag-ugnayan, makíkipag-ugnayan>
+makipag-usap	to talk with; to converse with; to communicate with; * on actor who is talking. (actor) <nakipag-usap, nakíkipag-usap, makíkipag-usap>
+makiramdám	to sharpen one's senses. (actor) <nakiramdám, nakikiramdám, makikiramdán>
+makisakáy	to ride together. <nakisakáy, nakikisakáy, makikisakáy>
+makisalamuha	to mingle; to interact with. (actor) <nakisalamuha, nakíkisalamuha, makíkisalamuha>
+makisali	to participate; to join in. <nakisali, nakíkisali, makíkisali>
+makisama	to get along with. (actor) <nakisama, nakikisama, makikisama>
+makita	to be able to see something; to see something; to catch sight of something. (object) <nakita, nakikita, makikita>
+makitawa	to join in laughing. <nakitawa, nakíkitawa, makíkitawa>
+makituloy	to stay somewhere temporarily. <nakituloy, nakikituloy, makikituloy>
+makitungo	to deal with; to act toward. <nakitungo, nakíkitungo, makíkitungo>
+makiusap	to request; to ask for; to plead; to beg. (actor) <nakiusap, nakíkiusap, makíkiusap>
+malaman	to know something  (object) ; to find out something (object) ; to learn about something (object) ; to be conscious of something (object) ; to be informed  (actor) ; to find out (actor)  <nalaman, nalalaman, malalaman>
+malasin	to have bad luck; to suffer harm; to be unlucky. (object) <minalas, minamalas, mamalasin>
+maliitín	to underestimate; to belittle. (object) <minaliít, minámaliít, mámaliitín>
+manahin	to inherit something. (object) <minana, minamana, mamanahin>
+manalangin	to pray  (actor) ; to pray for something  (object)  <nanalangin, nanánalangin, manánalangin>
+manehuhin	to drive something (a vehicle); to manage something. (object) <minaneho, minámaneho, mámanehuhin>
+mangailangan	to need something. (actor) <nangailangan, nangángailangan, mangángailangan>
+manirahan	to reside; to dwell; to live. (actor) <nanirahan, nanínirahan, manínirahan>
+mapagaán	to relieve; to make easier. <napagaán, napápagaán, mapápagaán>
+mapag-alamán	to come to realize something; to come to learn something; to come to find out something. (object) <napag-alamán, napag-áalamán, mapag-áalamán>
+mapagdesisyunan	to decide on something. (object) <napagdesisyunan, napagdedesisyunan, mapagdedesisyunan>
+mapagkalakhán	to outgrow; to grow too large for <napagkalakhán, napagkákalakhán, mapagkákalakhán>
+mapagkámalán	to misunderstand; to misconstrue. <napagkámalán, napápagkámalán, mapápagkámalán>
+mapagkasunduan	to agree on something (together/reciprocally). <napagkasunduan, napagkakasunduan, mapagkakasunduan>
+mapagmasdán	to be able to observe something; to have the chance to observe something. (object) <napagmasdán, napagmamasdán, mapagmamasdán>
+mapagpasyahán	to decide. <napagpasyahán, napagpápasyahán, mapagpápasyahán>
+mapagtagumpayan	to overcome something; to succeed over something. (object)>
+mapagtripán	to harass. <napagtripán, napagtítripán, mapagtítripán>
+mapag-usapan	to discuss something; to settle matters of something. (object) <napag-usapan, napag-úusapan, mapag-úusapan>
+mapag-utusan	to be ordered. <napag-utusan, napag-úutusan, mapag-úutusan>
+mapanalunan	to win <napanalunan, napápanalunan, mapápanalunan>
+mápansín	to happen to notice something  (object) ; to realize something (object) ; to be noticed  (actor) .(object) <nápansín, napápansín, mapápansín>
+mapasaakin	to become mine <napasaakin, napápasaakin, mapápasaakin>
+mapasaamin	to become ours <napasaamin, napápasaamin, mapápasaamin>
+mapasaatin	to become ours <napasaatin, napápasaatin, mapápasaatin``>
+mapatingín	to happen to look at; to happen to see; to suddenly look at. (actor) <napatingín, napápatingín, mapápatingín>
+mapigilan	to stop; to be able to stop; to be able to hold back <napigilan, napípigilan, mapípigilan>
+mapilitan	to be forced; to have no choice; to be obliged. (actor) <napilitan, napípilitan, mapípilitan>
+maramdamán	to feel something (physically or emotionally). (object) <naramdamán, naráramdamán, maráramdamán>
+maranasan	to experience <naranasan, naráranasan, maráranasan>
+masahihin	to massage. (object) <minasahe, minámasahe, mámasahihin>
+masaktán	to be hurt  (actor) ; to be injured (actor) ; to have one's feelings hurt (actor) ; to be offended (actor) ; to hurt someone's feelings  (loc/dir)  <nasaktán, nasásaktán, masásaktán>
+masamain	to take something wrong; to take something the wrong way; to take something poorly; to turn bad; to take a turn for the worse. (object) <minasamâ, minámasamâ, mámasamaín>
+masdán	to observe. (object) <minasdán, minámasdán, mámasdán>
+matahín	to underestimate something; to eye something (with suspicion or skepticism); to belittle something; to disdain something; to despise something. (object) <minatá, minámatá, mámatahín>
+matandaán	to be able to remember <natandaán, natátandaán, matátandaán>
+matangkarán	to grow or become tall <natangkarán, natátangkarán, matátangkarán>
+matigilan	to be bewildered; to be stunned; to be surprised; to be dumbfounded; to falter. (actor) <natigilan, natítigilan, matítigilan>
+matugunán ang pangangailangan	to meet the need <natugunán ang pangangailangan, natutugunán ang pangangailangan, matutugunán ang pangangailangan>
+matugunán	to meet a need; to satisfy a need or desire <natugunán, natútugunán, matútugunán>
+matuklasán	to find out about something; to discover something <natuklasán, natútuklasán, matútuklasán>
+maunawaan	to be able to understand something; to be able to realize something. (object) <naunawaan, naúunawaan, maúunawaan>
+paalisín	to send someone or something away. (object) <pinaalís, pinaáalís, paáalisín>
+paandarín	to cause something to operate; to cause to run or set in motion; to drive something. (object) <pinaandár, pinapaandár, papaandarín>
+pabayaan	to abandon something; to neglect something; to disregard something; to let something be; to never mind about something. (object) <pinabayaan, pinápabayaan, pápabayaan>
+pabilisín	to speed up; to expedite. <pinabilís, pinabíbilís, pabíbilisín>
+paborán	to favor. <pinaborán, pinápaborán, pápaborán>
+pabutihin	to improve. <pinabuti, pinabubuti, pabúbutihin>
+pagalawín	to move; to cause to move. (object) <pinagaláw, pinápagaláw, pápagalawín>
+pagalingín	to heal; to cure; to make better. (object) <pinagalíng, pinagágalíng, pagágalingín>
+pagalitan	to scold someone; to reprimand someone; to get angry at someone. (loc/dir) <pinagalitan, pinagágalitan, pagágalitan>
+pagandahín	to make something beautiful; to beautify something; to make something better. (object) <pinagandá, pinagágandá, pagágandahín>
+pag-aralan	to study something. (object) <pinag-aralan, pinag-áaralan, pag-áaralan>
+pagawaín	to make someone do (something); to have someone do. (object) <pinagawâ, pinapagawâ, papagawaín>
+pagbabarilín	to shoot up something/somewhere; to shoot down something. (object) <pinagbabaríl, pinagbábabaríl, pagbábarilín>
+pagbakasyunán	to spend a vacation somewhere. <pinagbakasyunán, pinagbábakasyunán, pagbábakasyunán>
+pagbidahan	to star in something (movie, TV show, etc.) <pinagbidahan, pinagbibidahan, pagbibidahan>
+pagbigyán	to give in to someone; to let someone have their way; to accommodate someone; to oblige someone; to make a concession to someone. <pinagbigyán, pinagbíbigyán, pagbíbigyán>
+pagbilhán	to sell to someone; to sell somewhere. (loc/dir) <pinagbilhán, pinagbíbilhán, pagbíbilhán>
+pagbilinan	to brief someone; to instruct someone <pinagbilinan, pinagbíbilinan, pagbíbilinan>
+pagbuhatín	to lift/carry for someone else. <pinagbuhát, pinagbubuhât, pagbúbuhatín>
+pagbutihin	to make something perfect; to do something well. <pinagbuti, pinagbubuti, pagbubutihin>
+pagdaanan	to go through something; to pass through something; to endure something (go through difficulties); to bring something by to someone. <pinagdaanan, pinagdádaanan, pagdádaanan>
+pagdausan	to hold an event <pinagdausan, pinagdárausan, pagdárausan>
+pagdudahan	to doubt someone/something. <pinagdudahan, pinagdúdudahan, pagdúdudahan>
+pagdusahan	to suffer. <pinagdusahan, pinagdurusahan, pagdúrusahan>
+paghahampasín	to strike someone; to strike someone repeatedly <pinaghahampás, pinagháhahampás, pagháhahampasín>
+pagháhanapín	to hunt down. <pinaghahanáp, pinagháhahanáp, pagháhahanapín>
+paghariin	to let someone reign. (object) <pinagharì, pinaghaharì, pagháhariin>
+paghinalaan	to suspect someone (of something). (object) <pinaghinalaan, pinaghíhinalaan, paghíhinalaan>
+paghirapan	to work hard for something; to strain for something. (object) <pinaghirapan, pinaghíhirapan, paghíhirapan>
+pághiwalayín	to separate one from another. (object) <pinághiwaláy, pinaghíhiwaláy, paghíhiwalayín>
+paghusayan	to do one's best. (object) <pinaghusayan, pinaghuhusayan, paghuhusayan>
+pag-ibayuhin	to redouble <pinag-ibayo, pinag-íibayo, pag-íibayuhin>
+pag-ingatan	to take care of something <pinag-ingatan, pinag-íingatan, pag-íingatan>
+pag-ingatin	to caution <pinag-ingat, pinag-iingat, pag-iingatin>
+pag-ipunan	to save up; to save up money. <pinag-ipunan, pinag-íipunan, pag-íipunan>
+pag-isipan	to think about something; to consider something. (object) <pinag-isipan, pinag-íisipan, pag-íisipan>
+pagkáabalahán	to be very busy with something; to be engrossed in something <pinagkáabalahán, pinagkákaabalahán, pagkákaabalahán>
+pagkáisahán	to gang up on; to be ganged up on; to have consensus <pinagkáisahán, pinagkakáisahán, pagkakáisahán>
+pagkalakhán	to grow up with. <pinagkalakhán, pinagkákalakhán, pagkákalakhán>
+pagkaloobán	to be provided with; to be endowed with; to be granted; to furnish. (benefactor) <pinagkaloobán, pinagkákaloobán, pagkákaloobán>
+pagkámalán	to mistake someone/something (for something else); to misconstrue something. (loc/dir) <pinagkámalán, pinagkakámalán, pagkakámalán>
+pagkátiwalaan	entrust to the care of; consign; relegate; confide. <pinagkátiwalaan, pinagkakátiwalaan, pagkakátiwalaan>
+paglaruán	to play with something; to toy with something; to trifle with something. (object) <pinaglaruán, pinaglálaruán, paglálaruán>
+pagmasdán	to look at something attentively; to carefully observe something. (loc/dir) <pinagmasdán, pinagmámasdán, pagmámasdán>
+pagmulán	to be the source or cause of something. (actor) <pinagmulán, pinagmúmulán, pagmúmulán>
+pagmultahín	to fine someone. <pinagmultá, pinagmúmultá, pagmúmultahín>
+pagpasensyahán	to have patience with someone. (loc/dir) <pinagpasensyahán, pinagpapasensyahán, pagpapasensyahán>
+pagpasiyahán	to decide; to decide on. (loc/dir) <pinagpasiyahán, pinagpápasiyahán, pagpápasiyahán>
+pagsabihan	to reprimand someone; to scold someone; to correct someone; to say something to someone; * on the person being talked to. (loc/dir) <pinagsabihan, pinagsásabihan, pagsásabihan>
+pagsaluhan	to share. (object) <pinagsaluhan, pinagsásaluhan, pagsásaluhan>
+pagsamahin	to combine something; to have things put together / joined. (object) <pinagsama, pinagsasama, pagsasamahin>
+pagsamantalahán	to take advantage of something. (object) <pinagsamantalahán, pinagsásamantalahán, pagsásamantalahán>
+pagsanibin	to unite. <pinagsanib, pinagsasanib, pagsásanibin>
+pagselosin	to make someone jealous. <pinagselos, pinagseselos, pagseselosin>
+pagsisihan	to atone for something; to be sorry for something <pinagsisihan, pinagsísisihan, pagsísisihan>
+pagtaguan	to hide from someone. <pinagtaguan, pinagtátaguan, pagtátaguan>
+pagtakpán	to cover up; to whitewash. (loc/dir) <pinagtakpán, pinagtátakpán, pagtátakpán>
+pagtaksilán	to betray; to cheat on. <pinagtaksilán, pinagtátaksilán, pagtátaksilán>
+pagtalunan	to argue about; to haggle <pinagtalunan, pinagtátalunan, pagtátalunan>
+pagtangkaán	to attempt; to intend; to plan; to undertake. <pinagtangkaán, pinagtátangkaán, pagtátangkaán>
+pagtawanán	to laugh at someone/something; to mock someone/something; to make fun of someone/something. (loc/dir) <pinagtawanán, pinagtátawanán, pagtátawanán>
+pagtibayin	to ratify something. (object) <pinagtibay, pinagtitibay, pagtitibayin>
+pagtripán	to play a trick on. <pinagtripán, pinagtítripán, pagtítripán>
+pagtugmaín	to match; to rhyme; to coordinate. <pinagtugmâ, pinagtutugmâ, pagtútugmaín>
+pag-ugnayín	to relate; to attach. <pinag-ugnáy, pinag-úugnáy, pag-úugnayín>
+pag-usapan	to have a discussion about something; to converse about something; * on the item being discussed. (object) <pínag-usapan, pinag-úusapan, pag-úusapan>
+pahalagahán	to appreciate something; to value something; to esteem something; to prize something. (object) <pinahalagahán, pináhahalagahán, páhahalagahán>
+pakábutihin	to try hard to make something the best. <pinakabuti, pinakákabuti, pakakábutihin>
+pakainin	to feed someone; to allow others to eat; * on the one eating. (loc/dir) <pinakain, pinápakain, pápakainin>
+pakasalán	to get married to someone; to marry someone; * on the person getting married to. (object) <pinakasalán, pinápakasalán, pápakasalán>
+pakawalán	to free someone/something (from restraints, jail, etc); to unbind someone/something; to release someone/something; to unchain someone/something; to unleash someone/something. (object) <pinakawalán, pinakákawalán, pakákawalán>
+pakialamán	to meddle with; to disturb someone. (loc/dir) <pinakialamán, pinakíkialamán, pakíkialamán>
+pakinggán	to listen to someone/something; to pay attention to something; to heed something. (loc/dir) <pinakinggán, pinakíkinggán, pakíkinggán>
+pakislapín	to light something up; to flare up;. <pinakisláp, pinakíkisláp, pakíkislapín>
+palabasín	to send something out; to make something appear to be so. (object) <pinalabás, pinápalabás, pápalabasín>
+palaguín	to grow. <pinalagô, pinalalagô, palálaguín>
+palakasín	to strengthen something; to make something louder. (object) <pinalakás, pinalálakás, palálakasín>
+palakihín	to raise someone; to rear someone (a child); to bring up; to exaggerate; to blow out of proportion; to make something big. <pinalakí, pinalálakí, palálakihín>
+palakpakán	to clap for someone/something; to applaud someone/something; to acclaim someone/something. <pinalakpakán, pinápalakpakán, pápalakpakán>
+palampasín	to overlook something; to ignore something; to pass up something. (object) <pinalampás, pinalálampás, palálampasín>
+paliguan	to bathe someone; to give someone/something a bath. <pinaliguan, pinalíliguan, palíliguan>
+palitán	to replace something; to change something. (loc/dir) <pinalitán, pinápalitán, pápalitán>
+paluin	to spank someone; to beat someone/something; to hit someone/something; to whip someone/something; to strike someone/something. (object) <pinalò, pinapalò, papaluin>
+pamanahan	to leave an inheritance. <pinamanahan, pinápamanahan, pápamanahan>
+panatilihin	to preserve something; to keep something; to maintain something; to retain something. (object) <pinanatili, pinanánatili, panánatilihin>
+pangakuan	to give a promise to; to promise something to someone. (loc/dir) <pinangakuan, pinangángakuan, pangángakuan>
+paniwalaan	to believe something; to believe in someone/something; to credit something. (loc/dir) <pinaniwalaan, pinaníniwalaan, paníniwalaan>
+panoorín	to watch something; to watch a show; to see a show; to look on at something. (object) <pinanoód, pinápanoód, panónoorín>
+pansinín	to notice something; to observe something; to detect something; to take note of something. (object) <pinansín, pinápansín, pápansinín>
+papuntahín	to have someone go; to send something/someone to. (object) <pinapuntá, pinapupuntá, papupuntahín>
+paputukín	to shoot out; to discharge; to detonate. (object) <pinaputók, pinapúputók, papúputukín>
+pasanín	to carry on one's back or shoulders. (object) <pinasán, pinápasán, pápasanín>
+pasukan	to enter something into; to go to work; to go to school. (loc/dir) <pinasukan, pinápasukan, pápasukan>
+pasukin	to enter something; to go into something. (loc/dir) <pinasok, pinapasok, papasukin>
+pasyalán	to visit something/someone. (loc/dir) <pinasyalán, pinápasyalán, pápasyalán>
+patagalín	to prolong. <pinatagál, pinatátagál, patátagalín>
+patahimikin	to hush; to calm; to silence; to pacify. <pinatahimik, pinatátahimik, patátahimikin>
+patakbuhín	to operate; to run. (loc/dir) <pinatakbó, pinatátakbó, patátakbuhín>
+patawarin	to forgive someone; to spare someone. (object) <pinatawad, pinatatawad, patatawarin>
+patayín	to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something. (object) <pinatáy, pinápatáy, pápatayín>
+patulan	to stoop down to someone's level (figurative); to pay attention to someone of lower status; * generally used in antagonistic social scenarios. <pinatulan, pinápatulan, pápatulan>
+patulugin	to put to bed; to sedate. <pinatulog, pinatutulog, patutulugin>
+patunayan	to prove; to testify; to verify; to certify; to authenticate; to corroborate. <pinatunayan, pinatútunayan, patútunayan>
+paunlarín	to develop something. (object) <pinaunlád, pinaúunlád, paúunlarín>
+paupuín	to get someone to sit; to allow someone to sit down; * on the one sitting. (object) <pinaupô, pinápaupô, pápaupuín>
+pawisan	to perspire  (actor) ; to sweat  (actor) ; to sweat on something  (loc/dir) . <pinawisan, pinápawisan, pápawisan>
+payagan	to allow someone to do; to allow something; to acquiesce on something; to concede something. (object) <pinayagan, pinápayagan, pápayagan>
+plántsahín	to iron something (clothing); to press something. (object) <pinlantsa, pinaplantsa, paplántsahín>
+planuhin	to plan. (object) <pinlano, pinaplano, paplanuhin>
+pumasán	to carry on one's back or shoulder; to carry a burden (figuratively). (actor) <pumasán, pumápasán, pápasán>
