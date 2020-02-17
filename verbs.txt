@@ -197,7 +197,7 @@ manirahan	to reside; to dwell; to live. (actor) <nanirahan, nanínirahan, manín
 mapagaán	to relieve; to make easier. <napagaán, napápagaán, mapápagaán>
 mapag-alamán	to come to realize something; to come to learn something; to come to find out something. (object) <napag-alamán, napag-áalamán, mapag-áalamán>
 mapagdesisyunan	to decide on something. (object) <napagdesisyunan, napagdedesisyunan, mapagdedesisyunan>
-mapagkalakhán	to outgrow; to grow too large for <napagkalakhán, napagkákalakhán, mapagkákalakhán>
+mapagkalakhán	to outgrow (laki); to grow too large for <napagkalakhán, napagkákalakhán, mapagkákalakhán>
 mapagkámalán	to misunderstand; to misconstrue. <napagkámalán, napápagkámalán, mapápagkámalán>
 mapagkasunduan	to agree on something (together/reciprocally). <napagkasunduan, napagkakasunduan, mapagkakasunduan>
 mapagmasdán	to be able to observe something; to have the chance to observe something. (object) <napagmasdán, napagmamasdán, mapagmamasdán>
@@ -266,7 +266,7 @@ pag-ipunan	to save up; to save up money. <pinag-ipunan, pinag-íipunan, pag-íip
 pag-isipan	to think about something; to consider something. (object) <pinag-isipan, pinag-íisipan, pag-íisipan>
 pagkáabalahán	to be very busy with something; to be engrossed in something <pinagkáabalahán, pinagkákaabalahán, pagkákaabalahán>
 pagkáisahán	to gang up on; to be ganged up on; to have consensus <pinagkáisahán, pinagkakáisahán, pagkakáisahán>
-pagkalakhán	to grow up with. <pinagkalakhán, pinagkákalakhán, pagkákalakhán>
+pagkalakhán	to grow up with (laki). <pinagkalakhán, pinagkákalakhán, pagkákalakhán>
 pagkaloobán	to be provided with; to be endowed with; to be granted; to furnish. (benefactor) <pinagkaloobán, pinagkákaloobán, pagkákaloobán>
 pagkámalán	to mistake someone/something (for something else); to misconstrue something. (loc/dir) <pinagkámalán, pinagkakámalán, pagkakámalán>
 pagkátiwalaan	entrust to the care of; consign; relegate; confide. <pinagkátiwalaan, pinagkakátiwalaan, pagkakátiwalaan>
@@ -305,7 +305,7 @@ pakislapín	to light something up; to flare up;. <pinakisláp, pinakíkisláp, p
 palabasín	to send something out; to make something appear to be so. (object) <pinalabás, pinápalabás, pápalabasín>
 palaguín	to grow. <pinalagô, pinalalagô, palálaguín>
 palakasín	to strengthen something; to make something louder. (object) <pinalakás, pinalálakás, palálakasín>
-palakihín	to raise someone; to rear someone (a child); to bring up; to exaggerate; to blow out of proportion; to make something big. <pinalakí, pinalálakí, palálakihín>
+palakihín	to raise someone (laki); to rear someone (a child); to bring up; to exaggerate; to blow out of proportion; to make something big. <pinalakí, pinalálakí, palálakihín>
 palakpakán	to clap for someone/something; to applaud someone/something; to acclaim someone/something. <pinalakpakán, pinápalakpakán, pápalakpakán>
 palampasín	to overlook something; to ignore something; to pass up something. (object) <pinalampás, pinalálampás, palálampasín>
 paliguan	to bathe someone; to give someone/something a bath. <pinaliguan, pinalíliguan, palíliguan>

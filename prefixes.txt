@@ -92,6 +92,18 @@ ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verb
 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
 -in	to do something to something (rip paper, burn garbage, finish what I'm doing)
 -in	do something in direction of (pasukin, dalawin, suntukin) (object/direction)
+	Kinailangan kong magpápalít ng salapî.  |  I had to exchange currency.
+	Maglaán kayó ng kinakailangang paliwanag.  |  Provide the needed explanation.
+	Kunin mo itóng pera at baka kailanganin mo.  |  Take this money as you might need it.
+	Kinailangan ni Liz na magkonsulta sa doctor.  |  Liz had to consult a doctor.
+	Hindî kinákailangan na magsapatos ka.  |  It is not required of you to wear shoes.
+	Kákailanganin mo ba ang tulong ko?  |  Would you be needing my help?
+	Kákailanganin mo pa ba itó?  |  Would you still be needing / have any use for this?
+	Kinákailangan kong makausap si David.  |  I need to talk to David.
+	Kinailangan ni Richard na magpahingá nang isáng buwán pagkatapos niyáng magkasakít.  |  Richard needed to rest for a month after he got sick.
+	Kákailanganin mo ang malakíng halagá para makabilí ng bahay ngayón.  |  You will need a large amount of money to be able to buy a house nowadays.
+	Hindî mo kinákailangan na magpaalam pa kung kailangan mong kumain.  |  You don't need to ask permission anymore if you need to eat.
+	Huwág kang umalís kasí bakâ kailanganin ng tatay mo ang tulong mo mamayâ.  |  Don't go out because your father might need your help later.
 	Kinatók niyá ang pintô ng silíd.  |  He knocked on the door of the room.
 	Mahirap katawanín ang mga taong waláng kooperasyón.  |  It's difficult to represent people who don't cooperate.
 	Bakit ka kinagát ng aso?  |  Why did the dog bite you?
@@ -245,6 +257,21 @@ makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag-
 makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
 mala-	?????? (nagmalasakit na rider - rider that was injured??) note, 2/2/20 "malasakit" is a root.
 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
+	Kailán nangailangan ng pera si Wena?  |  When did Wena need money?
+	Paano kung siyá ang mangailangan ngayón?  |  What if he's the one in need this time?
+	Posibleng mangailangan ng mga Pilipinong manggagawà ang Poland.  |  Poland may need Filipino workers.
+	Bakâ mangailangan ng karagdagang pansín ang kaso mo.  |  Your case may need further attention.
+	Nangailangan siyá ng tulong para linisin ang bahay niyá.  |  She needed help to clean her house.
+	Nangailangan ng panahón ang rehabilitasyón niyá.  |  His rehabilitation took time.
+	Nangángailangan akó ng malakíng kapitál.  |  I need a huge capital.
+	Nangángailangan siyá ng pagmamahál ng isáng iná.  |  She needs the love of a mother.
+	Nangángailangan ng oras at sakripisyo ang gawain.  |  The work needs time and sacrifice.
+	Mangángailangan kamí ng sampúng manggagawà.  |  We will need ten workers.
+	Mangángailangan itó ng maraming pangungusap para mailarawan.  |  It will need many sentences to be described.
+	Mangángailangan ang organisasyón ng malakíng pagbabago ng pátakarán.  |  The organization will require a a major policy shift.
+	Tátagál ang relasyón kung patitibayin itó.  |  The relationship will thrive if you strengthen it.
+	Mangángailangan ng mahabang panahón bago makabawì sa pagnanais niyáng mabuhay.  |  It may take a long time before she recovers her desire to live.
+	Ang Red Cross ay tumutulong sa mga nangángailangan ng dugô.  |  The Red Cross helps those in need of blood.
 mang-	to do some GENERAL ACTION, somewhat vague (ex. mangyari - to happen) (actor)
 mang-	to do something intentionally HARMFUL or DESTRUCTIVE (ex. mangdaya - to cheat, manggulo - cause disorder) (actor)
 mang-	to become something PARTIALLY or TEMPORARILY (ex. manigas - to become hard, manitim - become dark) (actor)
@@ -282,8 +309,9 @@ pa-an	nouns of location or contests
 pa-in	ng HAS OR ALLOWS SOMEONE (ang) to do something - pa-in, pina, pinapa, papa-in
 pa-in	to INCREASE something (beauty, shortness..) - pa-in, pina, pinapa, papa-in
 pa-in	non-focus form of certain ma-root verbs (eg. panoorin ko ang movie)
-pag-	the act or manner of doing an action
-pagCV-	gerund former for mag- verbs
+pag-	the act or manner of doing an action (usually for -um- and -in verbs)
+pag-	upon doing the action of the root
+pagCV-	gerund former for mag-, -an verbs
 pagCV-	the act or manner of doing an action repeatedly
 pag-an	to do something WITH/REGARDING ang (obj)
 	Pag-isipan mong mabuti bago ka sumagót.  |  Think about it carefully before you answer.
