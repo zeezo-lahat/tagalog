@@ -148,6 +148,7 @@ asahan	expect, be sure that something will happen
 asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
 asim	sourness
+at	and; and what's more...; as / because / that (as way introduce an explanation of something)
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
 away	fight, quarrel, dispute
@@ -468,6 +469,7 @@ dukhâ	poor, needy
 dukot	snatching; kidnapping; to pull something out
 dúlo	end, result; tip, point
 dulot	offer, offering; bringing/brought about
+dulugan	recourse
 dulutan	to offer
 dumaan	to pass by
 dumako	to go somewhere, towards something
@@ -480,6 +482,7 @@ dumating	to arrive, come
 dumí	feces
 dumoon	to go there
 dumulas	to slip
+dumulóg	to appear before someone, to turn to someone for help
 dumumí	to defecate
 dúnong	knowledge
 edad	age
@@ -948,6 +951,7 @@ kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kanais-nais	desirable
 kanan	right (vs. left)
+kani-kanina lang	just now
 kanila	their, theirs
 kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	each on his own, individually
@@ -977,6 +981,7 @@ kapit-kuwarto	roommate
 kapit-tuko	“gripping like a gecko” clinging or holding on very tight
 kapos	insufficient, lacking, inadequate; short in length
 kapulungan	assembly
+kapusò	a close friend, of one heart; a GMA TV fan
 kapUtik	muddy
 kapwa	fellow human being, neighbor
 kapwang	both, all (people)
@@ -1500,6 +1505,7 @@ makabayan	patriotic
 makaipon	to be able to save (money, etc)
 makaisip	to be able to think
 makakalimutin	forgetful
+makakarating	will be able to come
 makakasama	able to go with
 makakita	to happen/be able to see (one or some of many); catch sight of; be able to find (actor)
 makalawá	second
@@ -1883,6 +1889,7 @@ nauunawaan	to understand
 nawawala	lost; something/someone lost
 nga	expresses a request; affirmation marker (maganda nga siya -> she certainly is pretty)
 ngayón	now; today
+ngayón lang	just now
 nginíg	to shake, shiver, tremble
 ngiti	a smile
 ngunit	but, on the other hand
@@ -2507,6 +2514,7 @@ silaw	a glare
 silid	a room
 silip	to peek, peer
 sinamahan	accompanied
+sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
 singganda	as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
@@ -2677,6 +2685,8 @@ tanong	question (usisa, kuwestiyon, interogasyon)
 tantô	realize, understand
 táo	person
 taón	year
+taós	sincere; sincerely
+taos-pusò	sincere, heartfelt
 tapát	honest, upright, honorable
 tapát	the place in front, that which is across, in front of
 tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
