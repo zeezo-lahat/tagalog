@@ -134,7 +134,10 @@ magulat	to be surprised  (actor) ; to be startled  (actor) ; to be frightened  (
 magustuhán	to like something; to enjoy something. (object) <nagustuhán, nagúgustuhán, magúgustuhán>
 mahalín	to love someone/something; to take care of someone/something; to treasure something; to cherish something. (object) <minahál, minámahál, mámahalín>
 mahulaan	to be able to predict something  (object) ; to be able to guess something (object)  <nahulaan, nahúhulaan, mahúhulaan>
+maibigáy	to be able to give something (object) <naibigáy, naibíbigáy, maibíbigáy>
 maintindihán	to understand something; to be able to understand something; to comprehend something; to be able to comprehend something. (object) <naintindihán, naíintindihán, maíintindihán>
+maipagpatuloy	to be able to continue; to be able to carry on. <naipagpatuloy, naipagpápatuloy, maipagpápatuloy>
+maipaliwanag	to explain; to illuminate. (object) <naipaliwanag, naipápaliwanag, maipápaliwanag>
 maisipan	to have something occur to one to do; to have something come to mind; to think of doing something. (object) <naisipan, naíisipan, maíisipan>
 maiwan	to be left out  (actor) ; to be left behind (actor) ; to be able to leave something behind  (object)  <naiwan, naiiwan, maiiwan>
 maiwasan	to prevent something; to avoid something; to evade something. (object) <naiwasan, naíiwasan, maíiwasan>
