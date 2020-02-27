@@ -799,6 +799,7 @@ ipatapon	to exile
 ipatupád	to enforce
 ipayo	to advise
 ipinakita	showed
+ipinápagawâ	being asked/ordered to do
 ipIt	to be squeezed, caught in something (lit. or fig.)
 ipon	gather, collect, save
 ipunin	to gather, collect, save
@@ -2098,6 +2099,8 @@ pag-unawà	(n) understanding, comprehension
 pag-usapan	to converse (ng, typically plural) about something (ang)
 pag-uwi	upon returning home
 pagwawangis	(metaphor)
+pahalaga	valuation, act of valuing, evaluation
+pahalagahan	give importance to, appreciate, esteem, think highly of (pinapahalagahan, pinahalagahan, papahalagahan)
 pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
@@ -2131,7 +2134,7 @@ palabás	a show or program
 palabaybayan	spelling
 palAboy	vagabond; bum; loafer; waif; free to graze anywhere
 palad	palm of the hand; destiny, luck, fortune, fate
-palagay	opinion, judgement
+palagáy	opinion, estimation, estimate, assumption (lagay)
 palagian	regular, steady (lagi)
 palainom	habitual drinker
 palakasan	a competition to see who’s stronger
