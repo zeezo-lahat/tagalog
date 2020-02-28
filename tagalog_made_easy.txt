@@ -1,49 +1,34 @@
 # part 88
 samakatwId	therefore
-hindi mo siya nakita, samakatwid, hindi mo siya makikilala
-you have not seen him, therefore you will not recodgnize him
+hindi mo siya nakita, samakatwid, hindi mo siya makikilala	you have not seen him, therefore you will not recognize him
 at saka	furthermore
-siya ay pagod at puyat, at saka gutom
-he was tired and hungry, furthermore he lacks sleep
+siya ay pagod at gutom, at saka puyat	he was tired and hungry, furthermore he lacks sleep
 samantAlang	whereas
-lahat ng kapatid ko ay abogado, samantalang ako ay doktor
-all of my siblings are lawyers, whereas I am a doctor
+lahat ng kapatid ko ay abogado, samantalang ako ay doktor	all of my siblings are lawyers, whereas I am a doctor
 dahil sa	due to
-nahuli ako sa trabaho dahil sa masikip na trapiko
-I was late for work due to the traffic
+nahuli ako sa trabaho dahil sa masikip na trapiko	I was late for work due to the traffic
 pati na rin ang	as well as
-nakilala ko ang nanay mo pati na rin ang kapatid mo
-I met your mother and your brother as well
+nakilala ko ang nanay mo pati na rin ang kapatid mo	I met your mother and your brother as well
 lalo ang	namely
-paborito niya ang pagkaing pilipino, lalo na ang adobo at caldereta
-she loves filipino food, namely adobo and caldereta
+paborito niya ang pagkaing pilipino, lalo na ang adobo at caldereta	she loves filipino food, namely adobo and caldereta
 halimbawa	for example
-magaling siyang kumanta, halimbawa mga kanta ni celine dion
-she is a good singer, for example songs by celine dion
+magaling siyang kumanta, halimbawa mga kanta ni celine dion	she is a good singer, for example songs by celine dion
 dahil sa	because of
-walong pasok bukas dahil sa bagyo
-there is no class tomorrow due to the storm
+walong pasok bukas dahil sa bagyo	there is no class tomorrow due to the storm
 sa katunayan	in fact
-ang kanyang ginawa, sa katunayan ay mabuti
-what he did was good in fact
+ang kanyang ginawa, sa katunayan ay mabuti	what he did was good in fact
 kabilang	including
-maaari ko bang makita ang nabili mo, kabilang na ang resibo?
-may I see what you bought, including the receipt?
+maaari ko bang makita ang nabili mo, kabilang na ang resibo?	may I see what you bought, including the receipt?
 sa kabilang dako	on the other hand
-sa kabilang dako, pwede tayong magkita sa martes sa halip na miyerkules
-on the other hand, we could meet on tuesday instead of wednesday
+sa kabilang dako, pwede tayong magkita sa martes sa halip na miyerkules	on the other hand, we could meet on tuesday instead of wednesday
 tulad ng	such as
-naghAhanap kami ng tulong tulad ng pagbibigay ng pagkain
-we are looking for help, such as providing the food
+naghAhanap kami ng tulong tulad ng pagbibigay ng pagkain	we are looking for help, such as providing the food
 yamang	in as much as
-yamang may oras ka, pwede tayong magkita
-in as much as you have the time, we can meet
+yamang may oras ka, pwede tayong magkita	in as much as you have the time, we can meet
 din, rin	also
-sasama rin siya
-he will also be coming
+sasama rin siya	he will also be coming
 gayon din naman	likewise
-ang prutas ay nagpapalusog at gayon din ay nagpapalakas
-the fruit nourishes you and likewise keeps you strong
+ang prutas ay nagpapalusog at gayon din ay nagpapalakas	the fruit nourishes you and likewise keeps you strong
 
 # part 84
 May magandang balita ako para sa iyo.	I have a good news for you.

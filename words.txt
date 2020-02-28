@@ -110,6 +110,7 @@ ambagán	to contribute
 ámin	confess, admit, acknowledge
 amin	ours (exclusive)
 aminin	to own up to/admit/confess something (inamin, inaamin, aaminin)
+amo	master, employer, boss
 amok	amuck, in a frenzy state
 amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
@@ -151,6 +152,7 @@ asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
 asim	sourness
 at	and; and what's more...; as / because / that (as way introduce an explanation of something)
+at saka	furthermore, and also, as well as
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
 away	fight, quarrel, dispute
@@ -527,6 +529,7 @@ gawin	to do, perform, adapt, make
 gaya	(also kagaya) imitation; like, similar, followed by ng phrase
 gayák	dressed up; decoration, trimmings, intention
 gayón	such, like that (gaya + niyon)
+gayón din naman	likewise
 gayundin	likewise, in the same way
 gayunman	nevertheless, however (gayón + man)
 gayunpaman	nevertheless, however (gayón + pa + man)
@@ -605,7 +608,7 @@ hanap-buhay	livelihood, job, way of making a living
 hanap-hanapin	to miss something absent
 hanapin	seek, try to find, hunt, search (hinahanap, hinanap, hahanapin)
 handâ	ready, prepared
-handaan	a party with prepared food
+handáan	a party with prepared food
 handog	to present, offer; donation; dedication; fee
 hangà	admiration, appreciation, amazement (root)
 hangga	result, end, outcome
@@ -813,6 +816,7 @@ isip	mind, intellect, thought, judgment
 isipan	the mind
 isipin	to think about
 isugod	to rush someone/thing, as to the hospital
+isulong	to advance/further something
 isumbong	to inform someone about what a person did
 isumite	to submit
 isuót	to wear; to insert
@@ -1073,7 +1077,7 @@ katunAyan	truth, actuality, fact
 katúpáran	accomplishment, fulfillment
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
-katwIran	(a) reason, logical argument, justification(?)
+katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
 kaugnayan	relation
 kauna-unahan	the very first, earliest
 kaUnlarAn	progress (n)
@@ -1196,6 +1200,7 @@ lalakwe	gay
 lalampasin	will overtake
 lalawIgan	province
 lalim	depth
+lalo ang	namely, particularly
 lalo na ngayon	especially these days.
 lalo na	especially, particularly
 lalò	more, increasingly, very, especially
@@ -1237,7 +1242,8 @@ lawit	suspended, hanging
 layà	freedom, liberty
 layas	get out!, go away!
 layo	distance
-layUnin	purpose
+layon	intention, purpose, objective, object, aim
+layUnin	purpose, objective,aim, cause, goal, mission, intention (layon)
 leeg	neck
 liban	absence, non-attendance, omission
 libanan	to skip, omit
@@ -1318,10 +1324,12 @@ lungsód	city
 lupa	earth
 lupit	cruelty, mercilessness, savageness, harshness
 lusaw	to melt, dissolve
+lusóg	healthiness
 lutó	cheating, game fixing (slang)
 luto	cooking, cuisine
 luwag	looseness, ease, with space/allowance
 maaarì	possible, can, may (less common than puwede)
+maáasahan	can depend on
 maaga	early, immediately, right away
 maágap	quick, prompt, in time
 maalaala	to remember
@@ -1329,6 +1337,7 @@ maalalahanin	thoughtful
 maalat	salty
 maAmo	gentle
 maantala	to be delayed
+maasAhan	to be able to rely on / count on / trust / expect someone/something
 maasár	to be furious, to be frustrated
 maasim	sour, acidic
 maawa	to take pity or mercy
@@ -1668,10 +1677,11 @@ mapayapa	peaceful, at peace
 mapilay	to suffer a sprain; to be crippled (lit/fig)
 mapili	choosy
 maputIk	muddy
-marahas	violent
+mapuyát	to lack sleep, to need sleep
+marahás	violent, ferocious, audacious, drastic
 maráhil	probably, perhaps (dahil)
 maranasan	to feel, experience (dánas)
-marangAl	honorable
+marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 máriníg	to hear
 marúnong	to know how to do something; learned, smart 
 mas	more
@@ -1691,7 +1701,7 @@ maselan	fastidious, meticulous, particular
 masigAsig	enthusiastic
 masigla	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, briskly, smartly
 masikap	diligent, industrious
-masikip	tight
+masikip	tight, congested (as in traffic)
 masilaw	dazzled
 masinsin	dense
 masipag	hardworking
@@ -1794,6 +1804,7 @@ nagkUsa	willingly
 nagmamadali	hurrying, in a hurry
 nagpakalunod	drowned oneself in
 nagpapalakas	to stay on the good side of someone (slang)
+nagpapalusóg	nourishes
 nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
 nagsipatnubay	guide, companion, escort
@@ -1992,6 +2003,7 @@ pagbabarilín	to shoot up something/somewhere; to shoot down something
 pagbangon	rebuilding; rising from a lying position
 pagbasura sa kaso	throwing out the (legal) case
 pagbayaran	to pay for something
+pagbibigay	providing
 pagbibigay-katauhan	(personification)
 pagbidahan	to star in something (movie, TV show, etc.)
 pagbigyán	to give in/accommodate/oblige/concede to someone
@@ -2280,6 +2292,7 @@ patáy	dead
 patayo	standing, vertical, perpendicular
 patayutay	figuratively
 patí	including, even, as well
+patí na rin ang	as well as
 patikim	"let me have a taste"
 patingkarin	brighten, intensify the color
 patnUbay	guide, companion, escort; guidance
@@ -2392,19 +2405,24 @@ puwéde	can, possible
 puwersa	force, strength, pressure
 puwersahin	to force
 puwesto	place, position (lit/fig), position of employment
+puyát	sleepless, lacking sleep, exhausted from lack of sleep
+puyátin	to keep someone up at night
 rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
 reklAmo	complain
+resibo	receipt
 rin	also, too; anyway, regardless
 sa dako	toward, in the direction of
 sa halip na	instead of (imbes na)
 sa ilalim	under (lit/fig)
 sa kabilâ ng	in spite of 
+sa kabilAng dako	on the other hand, alternatively
 sa kabuuan	altogether; for the most part(?)
 sa kanan	on the right
 sa kanino man	whomever
 sa kasalukuyan	currently
 sa kasamaang palad…	unfortunately…
+sa katunayan	in fact, actually
 sa lalong madaling panahon	the earlier the better (as soon as possible)
 sa pamamagitan	with the use of, by means of, via
 sa pangkalahAtan	in general
@@ -2471,9 +2489,11 @@ samâ	bad, evil, wicked
 sáma	to go with, join, accompany
 samahan	to accompany someone
 samakalawá	on the day after tomorrow
+samakatwId	therefore
 samantala	meanwhile, while, for the time being
 samantalá	to capitalize, take advantage of
 samantalahIn	to take advantage of
+samantAlang	whereas
 sama-sama	together (multiple)
 samsám	confiscation, seizure
 sana	I hope, I wish; was going to, but; should (not) have
@@ -2503,6 +2523,7 @@ sariling	one's own
 sasabay	will go together
 sasakyán	vehicle
 sasakyan	will ride (sakay)
+sasáma	will join/accompany
 sawà	satiated, fed up
 sawáy	prohibition, restraint, reprimand
 sawayin	to reprimand, restrain
@@ -2790,6 +2811,7 @@ tukuran	to prop up
 tukuyin	cite, mention, refer to, drive at
 tula	poem
 tulad	(also katulad) imitation, like, similar to, followed by ng phrase
+tulad ng	such as, like 
 tulak	push, shove; drug pusher (also tulak-droga)
 tulakin	to push/shove something
 tularan	imitate
@@ -2928,6 +2950,7 @@ walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
 yaman	wealth, treasure, riches
+yamang	"in as much as X", "provided X", "as long as X"
 yamót	boredom
 yapag	barefoot(?)
 yari	making, constructing, finishing (mag-,-in)
