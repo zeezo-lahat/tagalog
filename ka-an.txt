@@ -1,34 +1,32 @@
-kabilangan: to consist of something; to belong to something (a team/organization/society/etc.); to be a part of something; to involve or include something.<kinabilangan, kinabíbilangan, kabíbilangan>
-katawanín: to represent something; to symbolize something. (object) <kinatawán, kinákatawán, kákatawanín>
-kamuhian: to hate; to detest. (loc/dir) <kinamuhian, kinamúmuhian, kamúmuhian>
-kabitán: to attach; to fasten. <kinabitán, kinákabitán, kákabitán>
-kailanganin: to need something; to require something. (object) <kinailangan, kinákailangan, kákailanganin>
-kamayán: to shake hands with someone. (loc/dir) <kinamayán, kinákamayán, kákamayán>
-kabahán: to feel nervous; to palpitate; to be startled; to have a premonition. (actor) <kinabahán, kinákabahán, kákabahán>
-kalimutan: to forget something; to overlook something. (actor) <kinalimutan, kinákalimutan, kákalimutan>
-kantahán: to sing to someone; * focus on the person being sung to. (benefactive) <kinantahán, kinákantahán, kákantahán>
-kawayán: to wave at someone; to beckon someone. (object) <kinawayán, kinákawayán, kákawayán>
-kainggitán: to envy. <kinainggitán, kinákainggitán, kákainggitán>
-kasuhan: to file a case against someone; to sue someone. (loc/dir) <kinasuhan, kinákasuhan, kákasuhan>
-katakutan: to fear something; to be afraid of something. (loc/dir) <kinatakutan, kinatátakutan, katátakutan>
-kahinatnán: to be the fate; to be the outcome; to result in something. <kinahinatnán, kinahíhinatnán, kahíhinatnán>
-kampihán: to take sides. (object) <kinampihán, kinákampihán, kákampihán>
-kaawaan: to pity. <kinaawaan, kinákaawaan, kákaawaan>
-kaliskisán: to descale; to remove scales from. (benefactive) <kinaliskisán, kinákaliskisán, kákaliskisán>
-kapkapán: to frisk someone. (loc/dir) <kinapkapán, kinákapkapán, kákapkapán>
-kagisnán: to find upon waking; to be born. <kinagisnán, kinákagisnán, kákagisnán>
-kabagan: to have gas / flatulence. <kinabagan, kinákabagan, kákabagan>
-káblehán: to put a cable on; to wrap with a cable. <kináblehán, kinakáblehán, kakáblehán>
-kagatán: to bite something. <kinagatán, kinákagatán, kákagatán>
-kalatan: to clutter. <kinalatan, kinákalatan, kákalatan>
-kalugdán: to enjoy; to take pleasure in. <kinalugdán, kinalúlugdán, kalúlugdán>
-kamtán: to achieve; to acquire; to obtain. <kinamtán, kinákamtán, kákamtamín>
-kapootán: to detest something/someone. <kinapootán, kinapópootán, kapópootán>
-kargahán: to load; to fill. <kinargahán, kinákargahán, kákargahán>
-katasán: to extract; to obtain juice. <kinatasán, kinákatasán, kákatasán>
-kapitan: to hold onto something; to stick onto something; to grasp onto something. (loc/dir) <kinapitan, kinakapitan, kakapitan>
-kainan: to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere. (loc/dir) <kinainan, kinakainan, kakainan>
-kagalitan: to scold someone (object); to be scolded (actor) <kinagalitan, kinagagalitan, kagagalitan>
-katigan: to support something; to vote for something; to endorse something; to approve of something. (object) <kinatigan, kinakatigan, kakatigan>
-kasangkután: to be involved with something; to get caught up in something. (object) <kinasangkután, kinasasangkután, kasasangkután>
-kaibiganin: to make friends with someone; to become friends with someone. (object) <kinaibigan, kinakaibigan, kakaibiganin>
+kaawaan	to pity <kinaawaan, kinákaawaan, kákaawaan>
+kabagan	to have gas / flatulence. <kinabagan, kinákabagan, kákabagan>
+kabahán	to feel nervous; to palpitate; to be startled; to have a premonition (actor) <kinabahán, kinákabahán, kákabahán>
+kabilangan	to consist of something; to belong to something (a team/organization/society/etc.); to be a part of something; to involve or include something.<kinabilangan, kinabíbilangan, kabíbilangan>
+kabitán	to attach; to fasten. <kinabitán, kinákabitán, kákabitán>
+káblehán	to put a cable on; to wrap with a cable. <kináblehán, kinakáblehán, kakáblehán>
+kagalitan	to scold someone (object); to be scolded (actor) <kinagalitan, kinagagalitan, kagagalitan>
+kagatán	to bite something. <kinagatán, kinákagatán, kákagatán>
+kagisnán	to find upon waking; to be born. <kinagisnán, kinákagisnán, kákagisnán>
+kahinatnán	to be the fate; to be the outcome; to result in something. <kinahinatnán, kinahíhinatnán, kahíhinatnán>
+kainan	to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere. (loc/dir) <kinainan, kinakainan, kakainan>
+kainggitán	to envy. <kinainggitán, kinákainggitán, kákainggitán>
+kalatan	to clutter. <kinalatan, kinákalatan, kákalatan>
+kalimutan	to forget something; to overlook something. (actor) <kinalimutan, kinákalimutan, kákalimutan>
+kaliskisán	to descale; to remove scales from. (benefactive) <kinaliskisán, kinákaliskisán, kákaliskisán>
+kalugdán	to enjoy; to take pleasure in. <kinalugdán, kinalúlugdán, kalúlugdán>
+kamayán	to shake hands with someone. (loc/dir) <kinamayán, kinákamayán, kákamayán>
+kampihán	to take sides. (object) <kinampihán, kinákampihán, kákampihán>
+kamtán	to achieve; to acquire; to obtain. <kinamtán, kinákamtán, kákamtamín>
+kamtán	to achieve; to acquire; to obtain.<kinamtán, kinákamtán, kákamtamín>
+kamuhian	to hate; to detest. (loc/dir) <kinamuhian, kinamúmuhian, kamúmuhian>
+kantahán	to sing to someone; * focus on the person being sung to. (benefactive) <kinantahán, kinákantahán, kákantahán>
+kapitan	to hold onto something; to stick onto something; to grasp onto something. (loc/dir) <kinapitan, kinakapitan, kakapitan>
+kapkapán	to frisk someone. (loc/dir) <kinapkapán, kinákapkapán, kákapkapán>
+kapootán	to detest something/someone. <kinapootán, kinapópootán, kapópootán>
+kargahán	to load; to fill. <kinargahán, kinákargahán, kákargahán>
+kasangkután	to be involved with something; to get caught up in something. (object) <kinasangkután, kinasasangkután, kasasangkután>
+kasuhan	to file a case against someone; to sue someone. (loc/dir) <kinasuhan, kinákasuhan, kákasuhan>
+katakutan	to fear something; to be afraid of something. (loc/dir) <kinatakutan, kinatátakutan, katátakutan>
+katasán	to extract; to obtain juice. <kinatasán, kinákatasán, kákatasán>
+katigan	to support something; to vote for something; to endorse something; to approve of something. (object) <kinatigan, kinakatigan, kakatigan>
+kawayán	to wave at someone; to beckon someone. (object) <kinawayán, kinákawayán, kákawayán>
