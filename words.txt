@@ -1193,6 +1193,7 @@ lahat	all, everything, everyone
 lahì	(also láhi) race, people, breed, lineage
 lahók	entry; something included
 lait	insult, derision; blasphemy
+laitin	to revile, abuse with words, vilify, deride (nilalait, nilait, lalaitin)
 lákad na	go ahead
 lákad	walk
 lakas	strength, vigor
@@ -1796,6 +1797,7 @@ mungkáhi	recommendation, suggestion, proposition, proposal
 muntî	little
 muntik 	nearly
 na lang	only, just, of little value now (isa na lang -> only one is left now)
+na namán	combination of again/already/really
 na rin	used to emphasize, eg "namatay na rin"
 naaalala	to remember (like natatandaan)
 naaawa	to pity
@@ -1888,7 +1890,7 @@ nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
 namamalimos	one who engages in begging
-namán	also, too; all things considered; really, truly, anyway; also used to soften requests and questions
+namán	also, too; all things considered; really, truly, anyway; please!; also used to soften requests and questions
 namanghA	amazed
 nambola	flattery
 namimilipit	is writhing, squirming, convulsing
