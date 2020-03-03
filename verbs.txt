@@ -1,4 +1,5 @@
 kaawaan	to pity ka_an <kinaawaan, kinákaawaan, kákaawaan>
+kaawaan	to pity. (root: awa) <kinaawaan, kinákaawaan, kákaawaan>
 kabagan	to have gas / flatulence _ <kinabagan, kinákabagan, kákabagan>
 kabahán	to feel nervous; to palpitate; to be startled; to have a premonition (actor) _ <kinabahán, kinákabahán, kákabahán>
 kabilangan	to consist of something; to belong to something (a team/organization/society/etc.); to be a part of something; to involve or include something ka_an <kinabilangan, kinabíbilangan, kabíbilangan>
@@ -6,23 +7,28 @@ kabitán	to attach; to fasten _ <kinabitán, kinákabitán, kákabitán>
 káblehán	to put a cable on; to wrap with a cable _an <kináblehán, kinakáblehán, kakáblehán>
 kadyutín	to go to and fro; to give quick thrusts (object) _ <kinadyót, kinákadyót, kákadyutín>
 kagalitan	to scold someone (object); to be scolded (actor) ka_an <kinagalitan, kinagagalitan, kagagalitan>
+kagalitan	to scold someone (root: galit, object); to be scolded (actor) <kinagalitan, kinagagalitan, kagagalitan>
 kagatán	to bite something _an <kinagatán, kinákagatán, kákagatán>
 kagatín	to bite something (object) _in <kinagát, kinákagát, kákagatín>
 kagisnán	to find upon waking; to be born _ <kinagisnán, kinákagisnán, kákagisnán>
 kaharapín	to face something (object) ka_in <kinaharáp, kinákaharáp, kákaharapín>
+kaharapín	to face something. (root: harap, object) <kinaharáp, kinákaharáp, kákaharapín>
 kahinatnán	to be the fate; to be the outcome; to result in something _ <kinahinatnán, kinahíhinatnán, kahíhinatnán>
 kaibiganin	to make friends with someone; to become friends with someone (object) ka_in <kinaibigan, kinakaibigan, kakaibiganin>
 kailanganin	to need something; to require something (object) ka_in <kinailangan, kinákailangan, kákailanganin>
 kainan	to eat from something (a plate / a banquet / a dessert / etc ); to eat somewhere (loc/dir) _an <kinainan, kinakainan, kakainan>
 kainggitán	to envy ka_an <kinainggitán, kinákainggitán, kákainggitán>
 kainin	to eat something; * focus on the thing being eaten (object) _in <kinain, kinakain, kakainin>
+kainin	to eat something; * focus on the thing being eaten. (root: kain, object) <kinain, kinakain, kakainin>
 kalabitín	to poke someone; to strum something (an instrument, strings, etc.); to tap or motion to someone to get their attention; to shake someone to get their attention (object) _ <kinalabít, kinákalabít, kákalabitín>
 kaladkarín	to drag something (object) _ <kinaladkád, kinákaladkád, kákaladkarín>
 kalagín	to loosen; to untwist; to untie; to absolve (object) _ <kinalág, kinákalág, kákalagín>
 kalaruín	to make someone a playmate (object) ka_in <kinalarô, kinákalarô, kákalaruín>
+kalaruín	to make someone a playmate. (root: laro, object) <kinalarô, kinákalarô, kákalaruín>
 kalasín	to dismantle (object) _ <kinalás, kinákalás, kákalasín>
 kalatan	to clutter _ <kinalatan, kinákalatan, kákalatan>
 kalbuhín	to make bald (object) _in <kinalbó, kinákalbó, kákalbuhín>
+kalbuhín	to make bald. (root: kalbo, object) <kinalbó, kinákalbó, kákalbuhín>
 kalimutan	to forget something; to overlook something (actor) ka_an <kinalimutan, kinákalimutan, kákalimutan>
 kaliskisán	to descale; to remove scales from (benefactive) ka_an <kinaliskisán, kinákaliskisán, kákaliskisán>
 kaliwaín	to cheat on someone; to have an affair; to use one's left hand (object) ka_in <kinaliwâ, kinákaliwâ, kákaliwaín>
@@ -32,7 +38,9 @@ kaltasín	to deduct; to cancel (object) _ <kinaltás, kinákaltás, kákaltasín
 kalugdán	to enjoy; to take pleasure in _ <kinalugdán, kinalúlugdán, kalúlugdán>
 kalungin	to hold someone in one's lap; to carry a child (object) _ <kinalong, kinakalong, kakalungin>
 kamayán	to shake hands with someone (loc/dir) _an <kinamayán, kinákamayán, kákamayán>
+kamayán	to shake hands with someone. (root: kamay, loc/dir) <kinamayán, kinákamayán, kákamayán>
 kamayín	to use one's hands on something; to knead something (object) _in <kinamáy, kinákamáy, kákamayín>
+kamayín	to use one's hands on something; to knead something. (root: kamay, object) <kinamáy, kinákamáy, kákamayín>
 kampihán	to take sides (object) _an <kinampihán, kinákampihán, kákampihán>
 kamtán	to achieve; to acquire; to obtain _an <kinamtán, kinákamtán, kákamtamín>
 kamuhian	to hate; to detest (loc/dir) _ <kinamuhian, kinamúmuhian, kamúmuhian>
@@ -40,7 +48,9 @@ kamutin	to scratch an itch (object) _ <kinamot, kinakamot, kakamutin>
 kanawín	to dissolve; to dilute (object) _ <kinanáw, kinákanáw, kákanawín>
 kanselahín	to cancel something (object) _in <kinanselá, kinákanselá, kákanselahín>
 kantahán	to sing to someone; * focus on the person being sung to _an (benefactive) <kinantahán, kinákantahán, kákantahán>
+kantahán	to sing to someone; * focus on the person being sung to. (root: kanta, benefactive) <kinantahán, kinákantahán, kákantahán>
 kantahín	to sing something (object) _in <kinantá, kinákantá, kákantahín>
+kantahín	to sing something. (root: kanta, object) <kinantá, kinákantá, kákantahín>
 kantiín	to touch; to hit lightly (object) _in <kinantî, kinakantî, kákantiín>
 kantutín	to fuck someone/something; to have sex with someone * vulgar (object) _in <kinantót, kinákantót, kákantutín>
 kanyahín	to appropriate something for oneself (object) _ <kinanyá, kinákanyá, kákanyahín>
@@ -58,14 +68,18 @@ kargahín	to carry someone/something; to scoop up something/someone (object) _in
 kasabwatín	to get help committing a crime; to conspire (object) _ <kinasabwát, kinákasabwát, kákasabwatín>
 kasangkután	to be involved with something; to get caught up in something ka_an (object) <kinasangkután, kinasasangkután, kasasangkután>
 kasuhan	to file a case against someone; to sue someone (loc/dir) _an <kinasuhan, kinákasuhan, kákasuhan>
+kasuhan	to file a case against someone; to sue someone. (root: kaso, loc/dir) <kinasuhan, kinákasuhan, kákasuhan>
 katakutan	to fear something; to be afraid of something ka_an (loc/dir) <kinatakutan, kinatátakutan, katátakutan>
+katakutan	to fear something; to be afraid of something. (root: tatok, loc/dir) <kinatakutan, kinatátakutan, katátakutan>
 katasán	to extract; to obtain juice _ <kinatasán, kinákatasán, kákatasán>
 katawanín	to represent something; to symbolize something (object) _ <kinatawán, kinákatawán, kákatawanín>
+katawanín	to represent something; to symbolize something. (root: katawan, object) <kinatawán, kinákatawán, kákatawanín>
 katayin	to slaughter something; to slaughter an animal; to kill something for food (object) _in <kinatay, kinakatay, kakatayin>
 kathaín	to create a story; to compose a story; to write a story; to fabricate something (object) _ <kinathâ, kinakathâ, kákathaín>
 katigan	to support something; to vote for something; to endorse something; to approve of something (object) _ <kinatigan, kinakatigan, kakatigan>
 katukín	to knock on something (loc/dir) _in <kinatók, kinákatók, kákatukín>
 kausapin	to speak to someone; to talk with someone; * focus on the person being talked to (loc/dir) _ <kinausap, kinákausap, kákausapin>
+kausapin	to speak to someone; to talk with someone; * focus on the person being talked to. (root: usap, loc/dir) <kinausap, kinákausap, kákausapin>
 kawayán	to wave at someone; to beckon someone (object) _ <kinawayán, kinákawayán, kákawayán>
 kayanin	to be able to endure or cope with something; to be able to handle doing something; to be able to do or accomplish something (object) _ <kinaya, kinakaya, kakayanin>
 kumain	to eat (actor) _um_ <kumain, kumakain, kakain>

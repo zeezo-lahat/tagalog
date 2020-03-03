@@ -130,7 +130,7 @@ ano man	whatever
 antála	delay
 antás	step, degree, grade
 antasín	to classify, grade (not commonly used)
-anu-ano	other (plural)
+anu-ano	this and that; other (plural)
 anuman	whatever, anything (ano + man)
 anyô	form, appearance, figure
 apíd	fornication
@@ -294,6 +294,7 @@ bigkasin	to pronounce, pronounced
 bigla	sudden, immediate, unexpected
 biglang-bigla	suddenly, unexpectedly
 bigô	frustrated, disappointed; failure
+biguín	to disappoint or fail someone
 bigti	strangled, hanged or hung by a rope
 bigtihin	to hang or strangle oneself
 bigyan	to give something
@@ -313,6 +314,7 @@ binato	to throw something
 binigkas	pronounced
 binilang	to count
 binubuo	composing/comprising (buuin)
+birò mo	can you imagine..?
 bisà	power, force, effect, strength
 bisi	busy
 bistado	obvious, exposed
@@ -2155,6 +2157,7 @@ pagtatagpô	meeting, appointment
 pagtatakíp	(n) camouflage; (the act of) covering (takíp)
 pagtatanggál	removal
 pagtawanán	to make fun of/laugh at/mock someone or something
+pagtugtog	performance on a musical instrument
 pagtutol	resistance
 pagtutulad	a simile
 pagtutuloy	continuation
@@ -2859,6 +2862,7 @@ tsupér	chauffeur, driver
 tubo	growing; tube, pipe; gain, profit
 tubò	native
 tugis	pursuit, chase
+tugtog	playing of a musical instrument
 tuhog	strings of beads, jewels, etc.; stringing things together
 tuhog	strung together (beads, etc.), pierced together with a skewer
 túkod	support, prop
