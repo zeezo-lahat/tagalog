@@ -653,6 +653,7 @@ hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
 hiling	a request, claim, application
 himalâ	miracle
 hímig	tune, melody; note
+hinaan	to lower the volume
 hinalà	suspicion
 hindí kailanmán	never
 hinding-hindi	never
@@ -926,6 +927,7 @@ kailanganin	to need/require something
 kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
 kaisipan	the mind, intellect, attitude
+kakaibang	different
 kakambal	fellow twin, being like someone
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
@@ -1152,7 +1154,7 @@ kumIkinang	sparkling
 kumot	sheet, bedsheet
 kumpirma	to confirm
 kumpiyansa	confidence
-kundî	except, if not, but, but also, not only; otherwise, on the contrary, or else
+kundî	except, if not, but, if not for, but also, not only; otherwise, on the contrary, or else
 kung ano	whatever, anything that, any that (however?)
 kung bagá	it’s as though…
 kung hindi	if not
@@ -1255,7 +1257,7 @@ layo	distance
 layon	intention, purpose, objective, object, aim
 layUnin	purpose, objective,aim, cause, goal, mission, intention (layon)
 leeg	neck
-liban	absence, non-attendance, omission
+liban	except (liban na); absent; absence, non-attendance, omission
 libanan	to skip, omit
 libing	burial
 libingan	grave, cemetery
@@ -1550,6 +1552,7 @@ makalimutin	forgetful
 makalipas	after (having passed, the passage of time) (makalipas ang isang araw -> a day later)
 makaluma	olden, old-fashioned
 makamít	to achieve, to gain
+makapaglakbay	to be able to travel
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makápúlot	to happen to pick up, find
 makasarili	selfish
@@ -1597,7 +1600,7 @@ malayo	far away
 maleta	suitcase, luggage
 mali	wrong
 maliban kung	unless, if not
-maliban		absent / if not X
+maliban		except for, absent / if not X
 máligáw	to lose one’s way
 maligáya	happy, joyful (ligáya)
 maligayang bati	joyful wishes (happy birthday)
@@ -1819,7 +1822,7 @@ nagkapalit	ended up switched
 nagkUsa	willingly
 nagmamadali	hurrying, in a hurry
 nagpakalunod	drowned oneself in
-nagpapalakas	to stay on the good side of someone (slang)
+nagpapalakas	makes you strong; to stay on the good side of someone (slang)
 nagpapalusóg	nourishes
 nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
@@ -1964,6 +1967,7 @@ nasabit	was caught (lit/fig)
 nasagIp	rescued
 nasaktan	(was/were) injured/hurt (sakit)
 nasamsám	confiscated
+nasasabík	to be excited
 nasilaw	to be dazzled
 natatandaan	to remember (like naaalala)
 natilapon	was wildly thrown
@@ -2687,7 +2691,7 @@ sundin	to obey (sunod)
 sundô	fetch someone from somewhere
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
-sunod-sunod	sequence, order; repeatedly
+sunud-sunod	sequence, order; repeatedly
 sunóg	burnt
 súnog	fire
 suntok	a fist punch

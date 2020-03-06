@@ -108,17 +108,17 @@ pagkakapatáy : pagkaka- [noun] killing; death
 makapatáy : maka- [verb] to be able to kill
 patáy-dampót : [adjective] unconscious; dead weight
 
-mamatáy : [verb] to die   more... »
-kamatayan : [noun] death; doom   more... »
-nakamámatáy : [adjective] deadly; fatal   more... »
-magpakamatáy : [verb] to commit suicide   more... »
-katayán : [noun] slaughterhouse   more... »
-mámamátay-tao : [noun] killer; murderer; assassin   more... »
-pagkamatáy : [noun] death   more... »
-ikamatáy : [verb] to cause death   more... »
-parusang kamatayan : [noun] death penalty   more... »
-pagpápakamatáy : [noun] suicide   more... »
-mamatayán : [verb] to suffer the loss of someone (due to death)   more... »
+mamatáy : ma- [verb] to die
+kamatayan : [noun] death; doom
+nakamámatáy : [adjective] deadly; fatal
+magpakamatáy : magpaka- [verb] to commit suicide
+katayán : [noun] slaughterhouse
+mámamátay-tao : [noun] killer; murderer; assassin
+pagkamatáy : [noun] death
+ikamatáy : ika- [verb] to cause death
+parusang kamatayan : [noun] death penalty
+pagpápakamatáy : [noun] suicide
+mamatayán : ma-an [verb] to suffer the loss of someone (due to death)
 
 barilín : -in [verb] to shoot something; to gun something down
 pagbabarilín : pagCV-in [verb] to shoot up something/somewhere; to shoot down something
@@ -525,211 +525,211 @@ pagawaín : pag-in [verb] to make someone do something; to have someone do somet
 panggawâ : [noun] anything used for making something
 
 nakákatawá : [adjective] funny; causing laughter; laughable; jocose; witty; comical
-tumawa : [verb] to laugh; to smile
+tumawa : -um- [verb] to laugh; to smile
 palatawá : [adjective] likes to laugh; laughs a lot; prone to laughter
 tawáng-tawá : [noun] laughing hard;strong laughter
-makatawa : [verb] to be able to laugh
-matawá : [verb] to laugh; to be amused; to grin
+makatawa : maka- [verb] to be able to laugh
+matawá : ma- [verb] to laugh; to be amused; to grin
 tawa : [noun] laughter; laugh; comedy
-tawanan : [verb] to laugh at something; to smile at something
-pagtawanán : [verb] to laugh at someone/something; to mock someone/something; to make fun of someone/something
+tawanan : -an [verb] to laugh at something; to smile at something
+pagtawanán : pag-an [verb] to laugh at someone/something; to mock someone/something; to make fun of someone/something
 patawá : [adverb] laughingly
-magtawá : [verb] to laugh out loud; to laugh
+magtawá : mag- [verb] to laugh out loud; to laugh
 katawa-tawá : [adjective] comic; laughable; ridiculous; ludicrous;
 katatawanán : [noun] joke; humor; comedy
 nakatawa : [adjective] laughing
-mapatawa : [verb] to burst out laughing; to break out in laughter; to be able to make someone laugh; to laugh involuntarily; to laugh despite oneself
+mapatawa : mapa- [verb] to burst out laughing; to break out in laughter; to be able to make someone laugh; to laugh involuntarily; to laugh despite oneself
 táwanan : [noun] laughter; sound of laughing
-magpatawá : [verb] to make someone laugh; to crack a joke
-magtawanan : [verb] to laugh together; to laugh with others
-makitawa : [verb] to join in laughing
+magpatawá : magpa- [verb] to make someone laugh; to crack a joke
+magtawanan : mag-an [verb] to laugh together; to laugh with others
+makitawa : maki- [verb] to join in laughing
 pagpapatawa : [noun] comedy; humor
 pagtawa : [noun] laughing
 katatawá : just laughing; was just recently laughing
 matawa-tawá : [adjective] about to laugh
-ikatawá : [verb] to cause laughter
+ikatawá : ika- [verb] to cause laughter
 
-bumilí : [verb] to buy; to purchase
-bilhín : [verb] to buy something; * focus on the thing being bought
+bumilí : -um- [verb] to buy; to purchase
+bilhín : -in [verb] to buy something; * focus on the thing being bought
 pambilí : [noun] money that will be used to buy something
-mamilí : [verb] to buy; to go shopping; to shop
-bilhán : [verb] to buy something for someone (BF) - focus on the person being bought for; to buy something somewhere (LF) - focus on where something was bought
-ibilí : [verb] to buy something for someone (BF); to purchase something for someone(BF); to buy with something (e.g., money) (IF)
-mabilí : [verb] to be bought; to happen to buy
+mamilí : mang- [verb] to buy; to go shopping; to shop
+bilhán : -an [verb] to buy something for someone (BF) - focus on the person being bought for; to buy something somewhere (LF) - focus on where something was bought
+ibilí : i- [verb] to buy something for someone (BF); to purchase something for someone(BF); to buy with something (e.g., money) (IF)
+mabilí : ma- [verb] to be bought; to happen to buy
 pinamilí : [noun] purchase; purchased item; items purchased
 mamimili : [noun] customer; client; buyer; consumer
 bilihin : [noun] items for sale; merchandise; goods
-makabilí : [verb] to be able to buy
-magbilí : [verb] to sell; to deal
+makabilí : maka- [verb] to be able to buy
+magbilí : mag- [verb] to sell; to deal
 bilí : [noun] buying; price
-ipagbilí : [verb] to sell something
-ipabilí : [verb] to ask someone to buy something
+ipagbilí : ipag- [verb] to sell something
+ipabilí : ipa- [verb] to ask someone to buy something
 pámilihan : [noun] market; exchange
 pamimilí : [noun] shopping
 pabilí : can I buy
-pagbilhán : [verb] to sell to someone; to sell somewhere
+pagbilhán : pag-an [verb] to sell to someone; to sell somewhere
 pagbilí : [noun] buying; upon buying
-mabilhán : [verb] to be able to buy something for someone
+mabilhán : ma-an [verb] to be able to buy something for someone
 kakabilí : just bought; recently bought
-maipagbilí : [verb] to be able to sell
-magpabilí : [verb] to have something bought; to have something be purchased
+maipagbilí : mai- [verb] to be able to sell
+magpabilí : magpa- [verb] to have something bought; to have something be purchased
 
-tumayô : [verb] to stand; to stand up; to rise; to position oneself
-itayô : [verb] to stand something up; to build something; to fabricate something; to establish something; to construct something; to set up something; to erect something
-magtayô : [verb] to set up; to build; to erect; to put up; to construct; to fabricate
+tumayô : -um- [verb] to stand; to stand up; to rise; to position oneself
+itayô : i- [verb] to stand something up; to build something; to fabricate something; to establish something; to construct something; to set up something; to erect something
+magtayô : mag- [verb] to set up; to build; to erect; to put up; to construct; to fabricate
 katayuan : [noun] state; condition; standing
 patayô : [adjective] vertical; erect
 tayô : [noun] condition; social position; stance; standing up; building
 nakatayô : [adjective] standing; situated
-makatayô : [verb] to be able to stand
-patayuán : [verb] to have something put up / erected somewhere
+makatayô : maka- [verb] to be able to stand
+patayuán : pa-an [verb] to have something put up / erected somewhere
 kinatátayuán : [noun] position; location; standpoint; something stood upon
-tayuán : [verb] to construct something somewhere; to build something somewhere; to erect something somewhere
+tayuán : -an [verb] to construct something somewhere; to build something somewhere; to erect something somewhere
 pagpápatayô : [noun] standing up; building; erection (e.g., of a building); constructing
-ipatayô : [verb] to have something constructed; to have something be built
-makapagtayô : [verb] to be able to build
-mapatayô : [verb] to stand involuntarily; to get up suddenly or unconsciously
+ipatayô : ipa- [verb] to have something constructed; to have something be built
+makapagtayô : makapag- [verb] to be able to build
+mapatayô : mapa- [verb] to stand involuntarily; to get up suddenly or unconsciously
 pagtatayô : [noun] building or erecting a building; construction
-magpatayô : [verb] to have built; to build
+magpatayô : magpa- [verb] to have built; to build
 pagkakatayô : [noun] stance; construction
-maitayô : [verb] to be able to build something; to be able to stand something up; to be able to establish something; to be able to construct something; to be able to set up something
+maitayô : mai- [verb] to be able to build something; to be able to stand something up; to be able to establish something; to be able to construct something; to be able to set up something
 pagtayô : [noun] standing up; standing
 
-basahin : [verb] to read something
-basahan : [verb] to read to someone; * focus on the person being read to
-magbasá : [verb] to read; to read intently; to study a text; to read out loud
+basahin : -in [verb] to read something
+basahan : -an [verb] to read to someone; * focus on the person being read to
+magbasá : mag- [verb] to read; to read intently; to study a text; to read out loud
 pagbasa : [noun] reading
-bumasa : [verb] to read
-magbasa-basá : [verb] to browse (while reading); to browse through; to skim (text)
-mabasa : [verb] to read something; to happen to read something; to be able to read something
+bumasa : -um- [verb] to read
+magbasa-basá : mag- [verb] to browse (while reading); to browse through; to skim (text)
+mabasa : ma- [verb] to read something; to happen to read something; to be able to read something
 mámbabasá : [noun] reader
 babasahín : [noun] reading material
 pagbabasá : [noun] reading
-ibasa : [verb] to read something for someone
-makabasa : [verb] to be able to read
-ipabasa : [verb] to have something read
+ibasa : i- [verb] to read something for someone
+makabasa : maka- [verb] to be able to read
+ipabasa : ipa- [verb] to have something read
 palabasá : [adjective] fond of reading; well read
 pagkabasa : [noun] reading; upon reading; after reading
 pakibasa : please read
 
 basâ : [adjective] wet
 pagbabasâ : [noun] wetting
-basaín : [verb] to wet something; to splash something
-mabasâ : [verb] to get wet
+basaín : -in [verb] to wet something; to splash something
+mabasâ : ma- [verb] to get wet
 basaan : [noun] wetting
 basang-basâ : [adjective] sopping wet; drenched
-mamasâ : [verb] to get wet (AF); to become wet (AF)
+mamasâ : mang- [verb] to get wet (AF); to become wet (AF)
 
-kumain : [verb] to eat
-kainin : [verb] to eat something; * focus on the thing being eaten
+kumain : -um- [verb] to eat
+kainin : -in [verb] to eat something; * focus on the thing being eaten
 kain : [noun] eating; eating food; consuming
 hapág-kainán : [noun] table for eating together; dinner table
 pagkain : [noun] food; the act of eating
-makain : [verb] to be able to eat something (OF); to happen to eat something (OF)
-magkaín : [verb] to devour; to eat often
-pakainin : [verb] to feed someone; to allow others to eat; * focus on the one eating
+makain : ma- [verb] to be able to eat something (OF); to happen to eat something (OF)
+magkaín : mag- [verb] to devour; to eat often
+pakainin : pa-in [verb] to feed someone; to allow others to eat; * focus on the one eating
 kainan : [noun] eating together
-kainan : [verb] to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere
+kainan : -in [verb] to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere
 nakakain : [adjective] edible
-makakain : [verb] to be able to eat
-magpakain : [verb] to feed someone; to allow others to eat
+makakain : maka- [verb] to be able to eat
+magpakain : magpa- [verb] to feed someone; to allow others to eat
 mákakain : [noun] something to eat
-makikain : [verb] to join others in eating; to eat with others; to eat together
+makikain : maki- [verb] to join others in eating; to eat with others; to eat together
 kainán : [noun] eatery; place to eat; dining room
-magpakain sa : [verb] to allow oneself to be fed to something or someone
+magpakain sa : magpa- [verb] to allow oneself to be fed to something or someone
 pagpapakain : [noun] feeding
-ipakain : [verb] to have something fed; * focus on the thing being given for food
+ipakain : ipa- [verb] to have something fed; * focus on the thing being given for food
 kakakain : just (recently) ate
 pakain : [noun] rations
 makakainán : [noun] a place to eat
 
- ináanák : [noun] godchild
+ináanák : [noun] godchild
 anák-dalitâ : [adjective] born poor
 kamag-anak : [noun] relative; kin
 anák-anakan : [noun] foster child
-ipanganák : [verb] to be born; to give birth to; * focus on the person being born
+ipanganák : ipang- [verb] to be born; to give birth to; * focus on the person being born
 anák : [noun] son or daughter; offspring; child; gender-less word to refer to one's child
 anák sa labás : [noun] bastard; bastard child; illegitimate child
 bonák : [noun] stupid child; stupid kid; dumb kid; (slang)
 bágong-panganák : [adjective] newborn
 kapanganakan : [noun] birthday; nativity; birth
-anakán : [verb] to produce a child; to spawn; to beget a child
+anakán : -an [verb] to produce a child; to spawn; to beget a child
 anák na babae : [noun] daughter
 anák-tilik : [noun] step-sibling; step-brother; step-sister
-manganák : [verb] to give birth
+manganák : mang- [verb] to give birth
 panganganák : [noun] giving birth; delivery of a child; childbirth
-mag-anák : [verb] to have a child; to breed; to produce offspring
-anakín : [verb] to act as a sponsor in a baptism
+mag-anák : mag- [verb] to have a child; to breed; to produce offspring
+anakín : -in [verb] to act as a sponsor in a baptism
 mag-anak : [noun] family; the whole family; family members
 anák na lalaki : [noun] son, male child
 bugtóng na anák : [noun] only child
-magkaanák : [verb] to have a child; to have a baby
+magkaanák : magka- [verb] to have a child; to have a baby
 kaanak : [noun/adjective] relative; of the same family
 anakán : [noun] familial lineage; lineage
 
-sabihin : [verb] to say something; to tell something; to allege something; to declare something; * focus on the thing being said
+sabihin : -in [verb] to say something; to tell something; to allege something; to declare something; * focus on the thing being said
 sabi : [noun] said; stated; statement; according to; shorthand for the verb conjugation "sinabi"
-masabi : [verb] to say something; to be able to say something; to mention something; to comment on something
-magsabi : [verb] to say; to tell; to state; to mention; to make known; to allege; to declare
+masabi : ma- [verb] to say something; to be able to say something; to mention something; to comment on something
+magsabi : mag- [verb] to say; to tell; to state; to mention; to make known; to allege; to declare
 kasabihán : [noun] proverb; household word; expression; byword; saying; precept; idiom; adage
-pagsabihan : [verb] to reprimand someone; to scold someone; to correct someone; to say something to someone; * focus on the person being talked to
-sabihan : [verb] to tell something to someone; to give notice to someone; to admonish someone; * focus on the person being talked to
+pagsabihan : pag-an [verb] to reprimand someone; to scold someone; to correct someone; to say something to someone; * focus on the person being talked to
+sabihan : -an [verb] to tell something to someone; to give notice to someone; to admonish someone; * focus on the person being talked to
 sábi-sabi : [noun] hearsay; rumor; myth
 sabi ninó? : [phrase] said / says who? / who said?
-ipagsabí : [verb] to spread the word around to someone; to tell anyone; to gossip to someone; to tell something on behalf of
+ipagsabí : ipag- [verb] to spread the word around to someone; to tell anyone; to gossip to someone; to tell something on behalf of
 pakisabi : [phrase] please tell; please say
 pinagsasabí : [noun] allegation; assertion without proof
 pasabi : [noun] sent message; notification
 pagsasabi : [noun] saying; telling
 sinabi : [noun] word; words; said
-ipasabi : [verb] to have someone relay a message; to make someone say something; * focus on the thing said / the message given
+ipasabi : ipa- [verb] to have someone relay a message; to make someone say something; * focus on the thing said / the message given
 waláng sinasabi : [adjective] mum; silent; with nothing to say
 pagkasabi : [noun] saying something; saying
-makapagsabi : [verb] to be able to say; to be able to tell/relay
-magsabihan : [verb] to tell each other; to share with each other (by speaking);
+makapagsabi : makapag- [verb] to be able to say; to be able to tell/relay
+magsabihan : mag-an [verb] to tell each other; to share with each other (by speaking);
 
-labasán : [verb] to have a discharge/orgasm; to cum (slang/vulgar)
-lumabás : [verb] to come out; to go out; to get out; to emerge; to appear; to exit
+labasán : -an [verb] to have a discharge/orgasm; to cum (slang/vulgar)
+lumabás : -um- [verb] to come out; to go out; to get out; to emerge; to appear; to exit
 palabás : [noun] show; movie; stage show; pageant; stunt; performance; exit; egress; going out; leaving; exiting
 labás : [noun] outside; outdoors; exterior; out; edition; [adverb] out
-ilabás : [verb] to take out something; to put something outside
+ilabás : i- [verb] to take out something; to put something outside
 labasan : [noun] exit; egress
-palabasín : [verb] to send something out; to make something appear to be so
-mailabás : [verb] to be able to release; to be able to put something outside; to be able to draw out
-makalabás : [verb] to be able to go out; to be able to sneak out; to leak; to leak news
-maglabás : [verb] to bring out; to take out; to put out
-labasín : [verb] to take something out (informal/slang)
+palabasín : pa-in [verb] to send something out; to make something appear to be so
+mailabás : mai- [verb] to be able to release; to be able to put something outside; to be able to draw out
+makalabás : maka- [verb] to be able to go out; to be able to sneak out; to leak; to leak news
+maglabás : mag- [verb] to bring out; to take out; to put out
+labasín : -in [verb] to take something out (informal/slang)
 paglabás : [noun] exit; release; appearance; appear; upon exiting
-ipalabás : [verb] to show a film; to publish a show; to send out; to make something appear to be so; to ask to take out something
+ipalabás : ipa- [verb] to show a film; to publish a show; to send out; to make something appear to be so; to ask to take out something
 nakalabás : [adjective] outside; being out/outside
 panlabás : [adjective] external; exterior; outdoor
 kalálabasán : [noun] outcome; end result
 paglalabás : [noun] announcement; appearance
-maglabasan : [verb] to come out all together; to come out in a group
-magpalabás : [verb] to allow out; to let out
+maglabasan : mag-an [verb] to come out all together; to come out in a group
+magpalabás : magpa- [verb] to allow out; to let out
 pagpapalabás : [noun] release
 kalalabás : just came out; just exited
-maipalabás : [verb] to have something come out; to be able to show a film
+maipalabás : maipa- [verb] to have something come out; to be able to show a film
 
 mahirap : [adjective] poor (financially); difficult; hard to do; complex; laborious; cumbersome; arduous; [noun] poor person
-mahirapan : [verb] to experience difficulty/hardship; to have a hard time; to suffer difficulties; to have difficulty; to find something difficult; to be difficult for someone; to have difficulty
+mahirapan : ma-an [verb] to experience difficulty/hardship; to have a hard time; to suffer difficulties; to have difficulty; to find something difficult; to be difficult for someone; to have difficulty
 kahirapan : [noun] poverty; hardship; suffering; adversity; discomfort; difficulty
-paghirapan : [verb] to work hard for something; to strain for something
+paghirapan : pag-an [verb] to work hard for something; to strain for something
 paghihirap : [noun] suffering; labor; hardship
 hirap : [noun] difficulty; suffering; hardship
-maghirap : [verb] to experience difficulty; to suffer; to become poor
-hirapin : [verb] to experience difficulty; to be poor
+maghirap : mag- [verb] to experience difficulty; to suffer; to become poor
+hirapin : -in [verb] to experience difficulty; to be poor
 pahirap : [noun] burden; punishment
-pahirapan : [verb] to cause someone/something difficulties; to give someone a burden
+pahirapan : pa-an [verb] to cause someone/something difficulties; to give someone a burden
 pahirapán : [adjective] torturous; painful
-hirapan : [verb] to make difficult
+hirapan : -an [verb] to make difficult
 pahiráp : [adjective] becoming poor; becoming hard to do
 kahiráp-hiráp : [adjective] causing difficulty; difficulty
 napakahirap : [adjective] very difficult
 mahirap na kalagayan : [noun] difficult situation; predicament
-humirap : [verb] to become difficult
+humirap : -um- [verb] to become difficult
 pahirapan : [noun] torture; pains
-magpahirap : [verb] to cause difficulty; to cause trouble
+magpahirap : magpa- [verb] to cause difficulty; to cause trouble
 hírap-hirap : [adjective] so hard; very difficult; very hard
 pinakamahirap : [adjective] poorest; most difficult
 
@@ -738,39 +738,39 @@ matuwíd : [adjective] straight; righteous; correct
 pangangatuwiran : [noun] reasoning; logic; argumentation
 tuwíd : [adjective] straight; direct; [adverb] straight; directly
 tuwiran : [adjective] direct; straight forward; blunt
-ituwíd : [verb] to straighten; to correct
-tumuwíd : [verb] to straighten; to become straight
+ituwíd : i- [verb] to straighten; to correct
+tumuwíd : -um- [verb] to straighten; to become straight
 
 sikát : [adjective] famous; popular; distinguished
-sumikat : [verb] to be popular or famous; to rise (sun); to shine (sun)
+sumikat : -um- [verb] to be popular or famous; to rise (sun); to shine (sun)
 sikat ng araw : [phrase] sunshine
 pasikat : [noun] showy
 pinakasikát : [adjective] most famous
 sikat : [noun] rising (sun, moon); splendor
 napakasikát : [adjective] very famous; very well-known 
 
-maunawaan : [verb] to be able to understand something; to be able to realize something
+maunawaan : ma-an [verb] to be able to understand something; to be able to realize something
 paunawà : [noun] notice; notification
-unawain : [verb] to understand something; to realize something; to comprehend something; to decipher something
+unawain : -in [verb] to understand something; to realize something; to comprehend something; to decipher something
 hindí pagkakaunawaan : [noun] misunderstanding; miscommunication
-maunawaang lubós : [verb] to master; to understand fully
-ipaunawà : [verb] to make someone understand
+maunawaang lubós : ma-an [verb] to master; to understand fully
+ipaunawà : ipa- [verb] to make someone understand
 pang-unawà : [noun] understanding; comprehension
-makaunawà : [verb] to be able understand
+makaunawà : maka- [verb] to be able understand
 di-pagkakaunawaan : [noun] misunderstanding; miscommunication
 pagkaunawà : [noun] understanding
 pagkakaunawaan : [noun] mutual understanding
 kaunawaán : [noun] understanding
 
-katay : [noun] slice of meat; butchering; cutting into pieces   more... »
-kumatay : [verb] to butcher; to cut meat   more... »
-katayin : [verb] to slaughter something; to slaughter an animal; to kill something for food   more... »
-magkatay : [verb] to slaughter; to slaughter animals   more... » 
+katay : [noun] slice of meat; butchering; cutting into pieces
+kumatay : -um- [verb] to butcher; to cut meat
+katayin : -in [verb] to slaughter something; to slaughter an animal; to kill something for food
+magkatay : mag- [verb] to slaughter; to slaughter animals
 
-batayán : [noun] basis; condition; [adjective] fundamental; basic   more... »
-nakababatay : [noun] contingent   more... »
-batay : [adjective] based on; according to;   more... »
-bumatay : [verb] to base; to depend on   more... »
-ibatay : [verb] to base on   more... »
-nakabatay : [adjective] based on   more... »
-pagbatayán : [verb] to base something on   more... » 
+batayán : [noun] basis; condition; [adjective] fundamental; basic
+nakababatay : [noun] contingent
+batay : [adjective] based on; according to;
+bumatay : -um- [verb] to base; to depend on
+ibatay : i- [verb] to base on
+nakabatay : [adjective] based on
+pagbatayán : pag-an [verb] to base something on
