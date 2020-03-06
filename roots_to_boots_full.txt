@@ -1,13 +1,13 @@
 púnong-abalá abala [noun] host
 abalá abala [adjective] busy; occupied; focused on
 abala abala [noun] delay; nuisance; disturbance; inconvenience; bother;
-pagkáabalahán abala [verb] to be very busy with something; to be
-abalahin abala [verb] to bother someone; to worry someone; to distract
-maabala abala [verb] to inconvenience; to be inconvenienced; to be
-mag-abalá abala [verb] to bother with; to worry about; to trouble
+pagkáabalahán abala pagka-an [verb] to be very busy with something; to be
+abalahin abala -in [verb] to bother someone; to worry someone; to distract
+maabala abala ma- [verb] to inconvenience; to be inconvenienced; to be
+mag-abalá abala mag- [verb] to bother with; to worry about; to trouble
 abaláng-abalá abala [adjective] very busy; super busy
-abangán abang [verb] to watch out for; to keep an eye out for
-mag-abáng abang [verb] to wait for; to watch out for; to keep an eye
+abangán abang -an [verb] to watch out for; to keep an eye out for
+mag-abáng abang mag- [verb] to wait for; to watch out for; to keep an eye
 abangers abang [noun] watchers (slang)
 abáng abang [noun] watcher; lookout (person); someone watching and
 abanger abang [noun] waiter; someone who is waiting; * slang
@@ -17,11 +17,11 @@ maabó abo [adjective] ashy; containing ashes
 kúlay-abó abo [adjective] grey; gray; ashen; color of ash
 abuhin abo [adjective] ash colored; ashen
 ábot-kaya abot [adjective] affordable
-abutin abot [verb] to reach something; to overtake someone; to catch
-abutín abot [verb] to reach for something; to hand over something
-maabót abot [verb] to be able to reach for something; to be able to
-umabot abot [verb] to reach; to get up to; to overtake; to attain; to
-maabutan abot [verb] to happen to encounter something; to catch up
+abutin abot -in [verb] to reach something; to overtake someone; to catch
+abutín abot -in [verb] to reach for something; to hand over something
+maabót abot ma- [verb] to be able to reach for something; to be able to
+umabot abot -um- [verb] to reach; to get up to; to overtake; to attain; to
+maabutan abot ma-an [verb] to happen to encounter something; to catch up
 abután abot [verb] to hand something to; to pass something to; * focus
 iabót abot [verb] to hand something over; to hand something to; to
 magpang-abot abot [verb] to encounter; to be abreast of someone
