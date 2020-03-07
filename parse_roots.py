@@ -6,26 +6,75 @@ root = re.sub(r'.*Example words using the Filipino / Tagalog root "(.*?)".*', r'
 meat = re.sub(r'.*Example words using the Filipino / Tagalog root ".*?".*?\n *(.*?)Join us.*', r'\1', d, flags=re.DOTALL)
 entries = re.split(r' *\[\d+\]more.*?\]', meat, flags=re.DOTALL)
 for i in entries:
-    entry = re.sub(r'^\[.*?\]', '', i)
-    entry = re.sub(r' *\[\d+\].*', '', entry)
-    entry = re.sub(r' *.*?\](.*) *\[\d.*', r'\1', entry)
-    entry = re.sub(r'\n', '', entry)
-    entry = re.sub(r':', '<' + root + '>', entry)
-    entry = re.sub(r'  *', ' ', entry)
-    print(entry)
+    i = re.sub(r'^\[.*?\]', '', i)
+    i = re.sub(r' *\[\d+\].*', '', i)
+    i = re.sub(r'\n', '', i)
+    i = re.sub(r'  *', ' ', i)
+    i = re.sub(r':', '(' + root + ')', i)
+    print(i)
+
 '''
-bilhín : [verb] to buy something; * focus on the thing being bought
+    #i = re.sub(r' *.*?\](.*) *\[\d.*', r'\1', i)
+    print(i)
 
-pambilí : [noun] money that will be used to buy something
+>>  bumilí : [verb] to buy; to purchase
+>>  bilhín : [verb] to buy something; * focus on the thing being bought
 
-mamilí : [verb] to buy; to go shopping; to shop
-bilhán : [verb] to buy something for someone (BF) - focus on the
+>>  pambilí : [noun] money that will be used to buy something
+
+>>  mamilí : [verb] to buy; to go shopping; to shop
+>>  bilhán : [verb] to buy something for someone (BF) - focus on the
    person being bought for; to buy something somewhere (LF) - focus on
    where something was bought
-ibilí : [verb] to buy something for someone (BF); to purchase
+>>  ibilí : [verb] to buy something for someone (BF); to purchase
    something for someone(BF); to buy with something (e.g., money) (IF)
 
-mabilí : [verb] to be bought; to happen to buy
-pinamilí : [noun] purchase; purchased item; items purchased
+>>  mabilí : [verb] to be bought; to happen to buy
+>>  pinamilí : [noun] purchase; purchased item; items purchased
 
+>>  mamimili : [noun] customer; client; buyer; consumer
+>>  bilihin : [noun] items for sale; merchandise; goods
+>>  makabilí : [verb] to be able to buy
+>>  magbilí : [verb] to sell; to deal
+>>  salaysáy : [noun] narration; story; version; statement; testimony;
+   account; claim; assertion; deposition
+>>  isalaysáy : [verb] to tell a story about something; to give a
+   statement about something; * focus on the thing being told
+
+>>  magsalaysáy : [verb] to tell; to tell a story; to recount
+
+>>  tagapagsalaysáy : [noun] narrator
+>>  pagsasalaysáy : [noun] narration; story; version; statement
+   [40]more... »
+
+[31]salaysáy : [noun] narration; story; version; statement; testimony;
+   account; claim; assertion; deposition   [32]more... »
+   [33]isalaysáy : [verb] to tell a story about something; to give a
+   statement about something; * focus on the thing being told
+   [34]more... »
+   [35]magsalaysáy : [verb] to tell; to tell a story; to recount
+   [36]more... »
+   [37]tagapagsalaysáy : [noun] narrator   [38]more... »
+   [39]pagsasalaysáy : [noun] narration; story; version; statement
+   [40]more... »
+
+>>  bumilí : [verb] to buy; to purchase
+>>  bilhín : [verb] to buy something; * focus on the thing being bought
+
+>>  pambilí : [noun] money that will be used to buy something
+
+>>  mamilí : [verb] to buy; to go shopping; to shop
+>>  bilhán : [verb] to buy something for someone (BF) - focus on the
+   person being bought for; to buy something somewhere (LF) - focus on
+   where something was bought
+>>  ibilí : [verb] to buy something for someone (BF); to purchase
+   something for someone(BF); to buy with something (e.g., money) (IF)
+
+>>  mabilí : [verb] to be bought; to happen to buy
+>>  pinamilí : [noun] purchase; purchased item; items purchased
+
+>>  mamimili : [noun] customer; client; buyer; consumer
+>>  bilihin : [noun] items for sale; merchandise; goods
+>>  makabilí : [verb] to be able to buy
+>>  magbilí : [verb] to sell; to deal
 '''
