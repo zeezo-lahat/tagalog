@@ -7161,7 +7161,8 @@ pagkauhaw (uhaw) [noun] thirst; thirsting
 nakaukit (ukit) [adjective] engraved
 iukit (ukit) i_ [verb] to engrave something; to carve out something; to inscribe something; to etch something
 ukit (ukit) [noun] carving; etching
-ukitín (ukit) _in [verb] to carve something; to engrave something                                                                                              umukit (ukit) _um_ [verb] to carve; to etch; to engrave
+ukitín (ukit) _in [verb] to carve something; to engrave something
+umukit (ukit) _um_ [verb] to carve; to etch; to engrave
 kinaúukulan (ukol) [noun] authorities
 pang-ukol (ukol) [grammar] preposition
 kaukulán (ukol) [grammar] case; [noun] relation; [adjective] related; associated
