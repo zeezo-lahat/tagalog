@@ -21,4 +21,5 @@ while 1:
   
 
 for i, j in _d.items():
-    print(i)
+    #print(j, i)
+    print(i, end='')
