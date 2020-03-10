@@ -6383,36 +6383,36 @@ matanggál (tanggal) ma_ [verb] to detach something (OF); to become detached (AF
 tanggál (tanggal) [adjective] unfastened; removed; detached; dismissed from employment; abolished
 pangtanggál (tanggal) for removing
 pagtanggál (tanggal) [noun] unfastening; removing; detaching
-magtanggál (tanggal) [verb] to remove; to detach
+magtanggál (tanggal) mag_ [verb] to remove; to detach
 pagtatanggál (tanggal) [noun] removal; detachment; firing (from a job)
-magpatanggál (tanggal) [verb] to have something removed
+magpatanggál (tanggal) magpa_ [verb] to have something removed
 pagtanggáp (tanggap) [noun] receipt; acceptance; welcome; admission of fault; reception; acknowledgement
-tanggapín (tanggap) [verb] to accept something; to receive something; to recognize something; to concede something; to admit something
+tanggapín (tanggap) _in [verb] to accept something; to receive something; to recognize something; to concede something; to admit something
 tanggáp (tanggap) [adjective] received; receiving; accepted; accepting; admitted; admit
 matanggáp (tanggap) [verb] to accept something (OF); to receive something (OF); to be accepted (AF); to be able to accept (AF); to be able to receive (AF)
-makatanggáp (tanggap) [verb] to receive; to be able to receive
-tumanggáp (tanggap) [verb] to receive; to accept; to allow
+makatanggáp (tanggap) maka_ [verb] to receive; to be able to receive
+tumanggáp (tanggap) _um_ [verb] to receive; to accept; to allow
 tanggapan (tanggap) [noun] office; agency
 dí-pagkatanggáp (tanggap) [noun] exclusion; rejection
 katanggáp-tanggáp (tanggap) [adjective] acceptable
 pagtatanggáp (tanggap) [noun] receiving
-tanggihán (tanggi) [verb] to refuse something; to disallow something; to deny something; to decline something
-tumanggí (tanggi) [verb] to refuse; to reject; to decline; to deny; to negate
+tanggihán (tanggi) _an [verb] to refuse something; to disallow something; to deny something; to decline something
+tumanggí (tanggi) _um_ [verb] to refuse; to reject; to decline; to deny; to negate
 tanggí (tanggi) [noun] refusal; denial
-itanggí (tanggi) [verb] to deny something; to refuse something
-makatanggí (tanggi) [verb] to be able to refuse
+itanggí (tanggi) i_ [verb] to deny something; to refuse something
+makatanggí (tanggi) maka_ [verb] to be able to refuse
 patanggí (tanggi) [adjective] negating
-maitanggí (tanggi) [verb] to be able to refuse something; to be able to deny something
-ipagtanggól (tanggol) [verb] to defend something; to justify something
+maitanggí (tanggi) mai_ [verb] to be able to refuse something; to be able to deny something
+ipagtanggól (tanggol) ipag_ [verb] to defend something; to justify something
 tagapagtanggól (tanggol) [noun] defender; attorney; lawyer
 tanggól (tanggol) [noun] defense
-magtanggól (tanggol) [verb] to defend
+magtanggól (tanggol) mag_ [verb] to defend
 pagtatanggól (tanggol) [noun] defense
 pagtatanghál (tanghal) [noun] performance; presentation; display; exhibition
 tanghalan (tanghal) [noun] theater; booth
-itanghál (tanghal) [verb] to exhibit something; to present something; to display something; to flaunt something
+itanghál (tanghal) i_ [verb] to exhibit something; to present something; to display something; to flaunt something
 tanghál (tanghal) [noun] exhibition; display; presentation
-magtanghál (tanghal) [verb] to exhibit; to display; to perform
+magtanghál (tanghal) mag_ [verb] to exhibit; to display; to perform
 tinatangi (tangi) [noun] special someone; special person
 bukod-tangì (tangi) [adjective] unique | [adverb] particularly; especially
 katangian (tangi) [noun] uniqueness; distinct qualities; character; attribute; distinction; feature
@@ -6420,44 +6420,44 @@ tangì (tangi) [adjective] only; special; exceptional; exclusive; particular; pr
 natatangì (tangi) [adjective] outstanding; unique; distinct; standing apart by itself
 pantangì (tangi) [grammar] proper noun
 katángi-tangì (tangi) [adjective] exceptional; extremely special
-itangì (tangi) [verb] to hold dear; to distinguish
-tangkaín (tangka) [verb] to attempt something; to try to do something
-magtangkâ (tangka) [verb] to attempt; to try (to do something)
+itangì (tangi) i_ [verb] to hold dear; to distinguish
+tangkaín (tangka) _in [verb] to attempt something; to try to do something
+magtangkâ (tangka) mag_ [verb] to attempt; to try (to do something)
 tangkâ (tangka) [noun] intention; plan; design; attempt
-pagtangkaán (tangka) [verb] to attempt; to intend; to plan; to undertake
+pagtangkaán (tangka) pag_an [verb] to attempt; to intend; to plan; to undertake
 pagtatangkâ (tangka) [noun] intending; planning; attempting; trying
 tangkád (tangkad) [noun] tall; tallness; height (of a person)
-tumingkayád (tangkad) [verb] to stand on tip toes
-matangkarán (tangkad) [verb] to grow or become tall
-tumangkád (tangkad) [verb] to get taller; to grow taller
+tumingkayád (tangkad) _um_ [verb] to stand on tip toes
+matangkarán (tangkad) ma_an [verb] to grow or become tall
+tumangkád (tangkad) _um_ [verb] to get taller; to grow taller
 pinakamatangkád (tangkad) [adjective] tallest (person)
-itaním (tanim) [verb] to plant something; to implant something; to inculcate something; to sow something
+itaním (tanim) i_ [verb] to plant something; to implant something; to inculcate something; to sow something
 taním (tanim) [noun] plant; grudge
 pagtataním (tanim) [noun] planting
-magtaním (tanim) [verb] to plant; to sow
-tamnán (tanim) [verb] to plant something somewhere
+magtaním (tanim) mag_ [verb] to plant; to sow
+tamnán (tanim) _an [verb] to plant something somewhere
 taniman (tanim) [noun] field; garden
 pananím (tanim) [noun] crops
-magtanóng (tanong) [verb] to ask a question; to question; to ask; to enquire
-tanungín (tanong) [verb] to ask about something; to ask someone; to ask something; to question someone; to interrogate someone;
-itanóng (tanong) [verb] to ask something; to inquire about something
+magtanóng (tanong) mag_ [verb] to ask a question; to question; to ask; to enquire
+tanungín (tanong) _in [verb] to ask about something; to ask someone; to ask something; to question someone; to interrogate someone;
+itanóng (tanong) i_ [verb] to ask something; to inquire about something
 tanóng (tanong) [noun] question
 patanóng (tanong) [adjective] interrogative; uncertain;[adverb] questioningly
 pagtatanóng (tanong) [noun] questioning; interrogation
 matanóng (tanong) [adjective] inquisitive
-matanóng (tanong) [verb] to ask someone (LF); to be asked (AF)
-magtanung-tanóng (tanong) [verb] to ask around; to inquire
+matanóng (tanong) ma_ [verb] to ask someone (LF); to be asked (AF)
+magtanung-tanóng (tanong) mag_ [verb] to ask around; to inquire
 pananóng (tanong) [grammar] interrogative; [noun] question mark; [adjective] interrogative
-maitanóng (tanong) [verb] to be able to ask something
-makapagtanóng (tanong) [verb] to be able to ask
+maitanóng (tanong) mai_ [verb] to be able to ask something
+makapagtanóng (tanong) makapag_ [verb] to be able to ask
 katanungan (tanong) [noun] question
 tagapagtanóng (tanong) [noun] interrogator
-tauhan (tao) [verb] to staff; to man;
+tauhan (tao) _an [verb] to staff; to man;
 pagkatao (tao) [noun] personality; character
 makatao (tao) [adjective] humane; for humanity
 taú-tauhan (tao) [noun] puppet; manikin; figurehead
 tauhan (tao) [noun] staff; employee; minion; subordinate; henchmen; character
-matauhan (tao) [verb] to regain consciousness; to revive; to come to one's senses
+matauhan (tao) ma_an [verb] to regain consciousness; to revive; to come to one's senses
 sángkatauhan (tao) [noun] humankind
 katauhan (tao) [noun] personality; reputation; person; character; identity
 tao pô (tao) [expression] anybody home?; anyone there?; there's someone here; * Usually someone may say this after knocking on a door to announce their presence
@@ -6476,47 +6476,47 @@ taón-taón (taon) [adverb] yearly; annually; every year
 taón (taon) [noun] year; opportunity; age; years old
 nagkátaón (taon) [adjective] by chance; accidental; have a chance
 Bagong Taón (taon) [noun] New Year's Day; the new year
-mátaón (taon) [verb] to coincide with
-magkátaón (taon) [verb] to occur accidentally; to happen to coincide with; to happen by chance; to get a chance to
+mátaón (taon) ma_ [verb] to coincide with
+magkátaón (taon) magka_ [verb] to occur accidentally; to happen to coincide with; to happen by chance; to get a chance to
 taóng gulang (taon) [phrase] age; years old; years of age
-itaón (taon) [verb] to make events coincide with each other
+itaón (taon) i_ [verb] to make events coincide with each other
 taunan (taon) [adjective] yearly; annually
 iláng taón (taon) how many years; how many years old; how old
 ngayóng taón (taon) [noun] this year
 nakaraáng taón (taon) [adverb] last year
 dantaón (taon) [noun] century
 tapakán (tapak) [noun] sole of a shoe
-matapakan (tapak) [verb] to be able to or happen to step on
-tapakan (tapak) [verb] to step on something
-tumapak (tapak) [verb] to step on; to step on ground
+matapakan (tapak) ma_an [verb] to be able to or happen to step on
+tapakan (tapak) _an [verb] to step on something
+tumapak (tapak) _um_ [verb] to step on; to step on ground
 nakatapák (tapak) [adjective] barefooted
-itapak (tapak) [verb] to put one's foot on
+itapak (tapak) i_ [verb] to put one's foot on
 tapak (tapak) [noun] step
 tapák (tapak) [adjective] barefoot
 pagkatapák (tapak) upon stepping
 katapatan (tapat) [noun] loyalty; honesty; sincerity; faithfulness; fidelity
 matapát (tapat) [adjective] sincere; honest; forthright; faithful; devoted; candid; [adverb] without deception
 tapát (tapat) [adjective] across from; direct; straight; upright; in front of; devoted; sincere; honest; true (to one's word); faithful; open
-tapatán (tapat) [verb] to go in front of; to put directly in front of
+tapatán (tapat) _an [verb] to go in front of; to put directly in front of
 katapát (tapat) [adjective] opposite
 nakatapát (tapat) [adjective] across from; in front of
 sa tapát ng (tapat) [preposition] in front of; across
-tumapát (tapat) [verb] to place oneself in front of (something/someone); to be suited
-ipagtapát (tapat) [verb] to confess something; to come clean about something; to reveal something; to admit something
+tumapát (tapat) _um_ [verb] to place oneself in front of (something/someone); to be suited
+ipagtapát (tapat) ipag_ [verb] to confess something; to come clean about something; to reveal something; to admit something
 tapatan (tapat) [adverb] openly; honestly; frankly
-itapát (tapat) [verb] to put something directly in front of
-tapatín (tapat) [verb] to be true to someone; to tell the truth to someone; to be forthright with someone
-magtapát (tapat) [verb] to be honest; to tell the truth; to put something directly opposite, above, or under another; to confess
+itapát (tapat) i_ [verb] to put something directly in front of
+tapatín (tapat) _in [verb] to be true to someone; to tell the truth to someone; to be forthright with someone
+magtapát (tapat) mag_ [verb] to be honest; to tell the truth; to put something directly opposite, above, or under another; to confess
 pagtatapát (tapat) [noun] confession; admission of guilt
 patapón (tapon) [adjective] good-for-nothing
-itapon (tapon) [verb] to throw something away; to dispose of something; to discard something; to banish something/someone
-matapon (tapon) [verb] to spill; to waste
-tapunan (tapon) [verb] to throw toward/at something; to shoot a look at someone/something; to cast a glance at someone/something
-magtapon (tapon) [verb] to throw away; to dispose of
+itapon (tapon) i_ [verb] to throw something away; to dispose of something; to discard something; to banish something/someone
+matapon (tapon) ma_ [verb] to spill; to waste
+tapunan (tapon) _an [verb] to throw toward/at something; to shoot a look at someone/something; to cast a glance at someone/something
+magtapon (tapon) mag_ [verb] to throw away; to dispose of
 tapón (tapon) [noun] cork; plug; tap; stopper
-ipatapon (tapon) [verb] to deport; to exile
+ipatapon (tapon) ipa_ [verb] to deport; to exile
 pagtatapon (tapon) [noun] getting rid of; throwing away; disposal
-magtapón (tapon) [verb] to waste; to junk
+magtapón (tapon) mag_ [verb] to waste; to junk
 tapon (tapon) [noun] waste; deportee; exile
 tapunán (tapon) [noun] place to throw something away; trash dump; rubbish dump; place of deportation
 pagtatapón (tapon) [noun] wasting (of resources, etc.)
