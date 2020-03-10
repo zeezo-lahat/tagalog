@@ -4,7 +4,7 @@ from collections import defaultdict
 f = open('roots.txt', 'r')
 
 d = f.read()
-all = re.split(r'( _ | _\w+|\w+_ | _\w+_ | [a-z]+_[a-z]+ )', d)
+all = re.split(r'( _ | _\w+|\w+_ | _\w+_ | [a-zCV]+_[a-z]+ )', d)
 
 c = defaultdict(int)
 for l in all:
