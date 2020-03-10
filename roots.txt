@@ -6221,165 +6221,165 @@ patakbó (takbo) [adverb] running; while running
 itakdâ (takda) i_ [verb] to set something; to assign something; to prescribe something; to settle something; to determine something; to restrict something
 nakatakdâ (takda) [adjective] scheduled; set; destined; fixed; arranged
 takdâ (takda) [noun] appointed time/location; bounds; limitation; restriction; [adjective] limited; restricted;
-takdaán (takda) [verb] to limit something; to restrict something
-magtakdâ (takda) [verb] to appoint; to settle; to assign
+takdaán (takda) _an [verb] to limit something; to restrict something
+magtakdâ (takda) mag_ [verb] to appoint; to settle; to assign
 walang-takdâ (takda) [adjective] indefinite; limitless
-maitakdâ (takda) [verb] to be able to set something; to be able to assign something; to be able to prescribe something; to be able to settle something; to be able to determine something; to be able to restrict something.
+maitakdâ (takda) mai_ [verb] to be able to set something; to be able to assign something; to be able to prescribe something; to be able to settle something; to be able to determine something; to be able to restrict something.
 pagtatakdâ (takda) [noun] limiting; restricting
 natátakdaán (takda) [adjective] limited
-takpán (takip) [verb] to cover something
+takpán (takip) _an [verb] to cover something
 takipan (takip) [noun] covering up faults
 pantakíp (takip) [noun] cover; covering; cap; cover
 takíp (takip) [noun] cover; lid; cap
-pagtakpán (takip) [verb] to cover up; to whitewash
-matakpán (takip) [verb] to hide; to block
+pagtakpán (takip) pag_an [verb] to cover up; to whitewash
+matakpán (takip) ma_an [verb] to hide; to block
 takip-silim (takip) [noun] twilight; dusk
 nakatakíp (takip) [noun] something acting as a lid; [adjective] covered; covered by a lid
 pagtatakíp (takip) [noun] camouflage; (the act of) covering
-itakíp (takip) [verb] to use something to cover; to use something as a cover
-magtakíp (takip) [verb] to cover
+itakíp (takip) i_ [verb] to use something to cover; to use something as a cover
+magtakíp (takip) mag_ [verb] to cover
 takíp-matá (takip) [noun] eyelid
-tumakíp (takip) [verb] to cover; to block
+tumakíp (takip) _um_ [verb] to cover; to block
 nakákatakot (takot) [adjective] frightening; fearsome; freakish; causing fear; scary
-matakot (takot) [verb] to be afraid; to be scared; to dread; to be anxious; to be nervous
+matakot (takot) ma_ [verb] to be afraid; to be scared; to dread; to be anxious; to be nervous
 takót (takot) [adjective] afraid; apprehensive; frightened; aghast; nervous; fear
-takutin (takot) [verb] to frighten someone; to intimidate someone; to threaten someone; to daunt; to be daunting
+takutin (takot) _in [verb] to frighten someone; to intimidate someone; to threaten someone; to daunt; to be daunting
 takot (takot) [noun] fear
 panakot (takot) [noun] threat; anything used to cause fear; scarecrow
-manakot (takot) [verb] to frighten; to intimidate
-katakutan (takot) [verb] to fear something; to be afraid of something
+manakot (takot) mang_ [verb] to frighten; to intimidate
+katakutan (takot) ka_an [verb] to fear something; to be afraid of something
 pananakot (takot) [noun] intimidation; scaring; scare
 wálang-takot (takot) [adjective] daring; fearless
-ikatakot (takot) [verb] to cause fear
-makapanakot (takot) [verb] to frighten
+ikatakot (takot) ika_ [verb] to cause fear
+makapanakot (takot) makapang_ [verb] to frighten
 katakut-takót (takot) [adjective/adverb] fearful; tremendous
 talâ (tala) [noun] list; record; notes
 talatà (tala) [noun] paragraph
-maitalâ (tala) [verb] to measure up to (AF); to be able to meaure (OF); to be able to record (OF)
+maitalâ (tala) mai_ [verb] to measure up to (AF); to be able to meaure (OF); to be able to record (OF)
 talà (tala) [noun] star (in the sky)
 taláhanayán (tala) [noun] table
 talaan (tala) [noun] list; record; table
-magtalâ (tala) [verb] to tally; to list
-italâ (tala) [verb] to list; to note; to record
+magtalâ (tala) mag_ [verb] to tally; to list
+italâ (tala) i_ [verb] to list; to note; to record
 taláarawan (tala) [noun] journal; diary
 talátinigan (tala) [noun] glossary
 pagtatalâ (tala) [noun] tallying (votes); counting; recording
 tagatalâ (tala) [noun] registrar
 nakatalâ (tala) [adjective] listed
-makapagtalâ (tala) [verb] to be able to tally up; to be able to record; to rack up
-ipatalâ (tala) [verb] to have something listed
+makapagtalâ (tala) makapag_ [verb] to be able to tally up; to be able to record; to rack up
+ipatalâ (tala) ipa_ [verb] to have something listed
 arawáng talâ (tala) [noun] journal
 pagpapatalâ (tala) [noun] enrollment; registration
 pátalaan (tala) [noun] registry
 talagá (talaga) [adverb] really; just; certainly; definitely; actual; in fact; downright; indeed; surely
-italagá (talaga) [verb] to dedicate; to devote; to assign; to be assigned for; to consecrate
+italagá (talaga) i_ [verb] to dedicate; to devote; to assign; to be assigned for; to consecrate
 katalagahán (talaga) [noun] laws of Nature; God's will
 nakatalagá (talaga) [adjective] prepared
-magtalagá (talaga) [verb] to assign; to appoint
+magtalagá (talaga) mag_ [verb] to assign; to appoint
 pagkakatalagá (talaga) [noun] intention; appropriation; role
 nakatalì (tali) [adjective] tied; bound
 talì (tali) [noun] string; string used for tying; cord; bond
-italì (tali) [verb] to tie something up; to tie something to/around; to tie something; to bind something
+italì (tali) i_ [verb] to tie something up; to tie something to/around; to tie something; to bind something
 panalì (tali) [noun] anything used for tying
-magtalì (tali) [verb] to tie up
+magtalì (tali) mag_ [verb] to tie up
 pagtatalik (talik) [noun] sex (the act); copulation; coitus; sexual activity; sexual intercourse
 matalik (talik) [adjective] close; intimate; best (friend)
 pakikipagtalik (talik) [noun] having sex; sex; having sex together
 katalik (talik) [noun] sex partner; crony
-makipagtalik (talik) [verb] to have sex
+makipagtalik (talik) makipag_ [verb] to have sex
 talik (talik) [noun] closeness; being close to one another;
-magtalik (talik) [verb] to have sex
+magtalik (talik) mag_ [verb] to have sex
 matalino (talino) [adjective] smart; intelligent; brilliant; astute; clever
 talino (talino) [noun] talent; intelligence; brains
 napakatalino (talino) [adjective] very smart; brilliant
 pinakamatalino (talino) [adjective] smartest; most talented
 katalinuhan (talino) [noun] intelligence; smartness
-tumalino (talino) [verb] to get smart; to get smarter
+tumalino (talino) _um_ [verb] to get smart; to get smarter
 olats (talo) [noun] loser; [adjective] defeated; loser; * slang for the word "talo"
 talo (talo) [noun] defeat; amount lost; loser; [adjective] defeated
 pagtatalo (talo) [noun] argument; controversy; dispute
-matalo (talo) [verb] to be beaten / to be losing / to be defeated (AF); to beat someone / to defeat someone (OF)
-tumalo (talo) [verb] to defeat; to beat
+matalo (talo) ma_ [verb] to be beaten / to be losing / to be defeated (AF); to beat someone / to defeat someone (OF)
+tumalo (talo) _um_ [verb] to defeat; to beat
 pagkatalo (talo) [noun] defeat; loss
-talunin (talo) [verb] to defeat someone/something; to beat something/someone
-magtalo (talo) [verb] to argue; to debate; to contend; to disagree
-makipagtalo (talo) [verb] to argue with
-magpatalo (talo) [verb] to give in; to admit defeat
-taluhin (talo) [verb] to defeat someone/something; to beat someone/something
+talunin (talo) _in [verb] to defeat someone/something; to beat something/someone
+magtalo (talo) mag_ [verb] to argue; to debate; to contend; to disagree
+makipagtalo (talo) makipag_ [verb] to argue with
+magpatalo (talo) magpa_ [verb] to give in; to admit defeat
+taluhin (talo) _in [verb] to defeat someone/something; to beat someone/something
 pagtatalo (talo) [noun] dispute; argument; controversy; debate
 kataló (talo) [noun] rival
-pagtalunan (talo) [verb] to argue about; to haggle
+pagtalunan (talo) pag_an [verb] to argue about; to haggle
 patatalo (talo) [noun] loss; losing
-tumalsík (talsik) [verb] to spark; to fly out (like a spark or splash of water)
+tumalsík (talsik) _um_ [verb] to spark; to fly out (like a spark or splash of water)
 talsík (talsik) [noun] spark; splatter; splash; flash
-patálsikín (talsik) [verb] to oust someone
-mapatalsík (talsik) [verb] to be ousted; to be dethroned
+patálsikín (talsik) pa_in [verb] to oust someone
+mapatalsík (talsik) mapa_ [verb] to be ousted; to be dethroned
 pagpapatalsík (talsik) [noun] firing; ousting; expulsion
-talsikán (talsik) [verb] to splatter on something; to splash on something
+talsikán (talsik) _an [verb] to splatter on something; to splash on something
 patamà (tama) [noun] veiled comment; insinuation
 tamà (tama) [adjective] right; correct; enough; all right; exact; reliable; just right; [noun] right; correct; correct answer; [interjection] I agree.
 támang-tamà (tama) [adjective] just right; 100% correct; absolutely correct; ideal; suitable; accurate; exact; exactly
-tumamà (tama) [verb] to be correct; to win (a game of chance); to hit
-tamaan (tama) [verb] to answer something correctly; to hit something; to get the winning number; to spank someone
-itamà (tama) [verb] to correct something
-matamaan (tama) [verb] to be hit by something; to be struck; to win
+tumamà (tama) _um_ [verb] to be correct; to win (a game of chance); to hit
+tamaan (tama) _an [verb] to answer something correctly; to hit something; to get the winning number; to spank someone
+itamà (tama) i_ [verb] to correct something
+matamaan (tama) ma_an [verb] to be hit by something; to be struck; to win
 amats (tama) [adjective] drunk; buzzed; inebriated; (slang / informal)
-magtamà (tama) [verb] to correct; to tally; to hit
+magtamà (tama) mag_ [verb] to correct; to tally; to hit
 Tama na (tama) it's enough; that's enough
-patamaan (tama) [verb] to aim at
-patamain (tama) [verb] cause something to hit the target
+patamaan (tama) pa_an [verb] to aim at
+patamain (tama) pa_in [verb] cause something to hit the target
 pagtamà (tama) [noun] hitting; hit
 nakatambák (tambak) [adjective] heaped; piled
 panambák (tambak) [noun] (soil, sand, etc.) used for filling
-tambakán (tambak) [verb] to fill up somewhere with
+tambakán (tambak) _an [verb] to fill up somewhere with
 tambák (tambak) [noun] pile; mound; heaped
 tambakan (tambak) [noun] dump
-matambák (tambak) [verb] to be piled up; to be backed up
-itambák (tambak) [verb] to dump; to dump out
+matambák (tambak) ma_ [verb] to be piled up; to be backed up
+itambák (tambak) i_ [verb] to dump; to dump out
 tambalan (tambal) [noun] pair; pairing
 katambál (tambal) [noun] partner; mate
-itambál (tambal) [verb] to pair up
-magtambál (tambal) [verb] to pair up; to be partners
+itambál (tambal) i_ [verb] to pair up
+magtambál (tambal) mag_ [verb] to pair up; to be partners
 tambál (tambal) [noun] pair
 tambayan (tambay) [noun] hangout; haunt; stomping ground
 tambay (tambay) [noun] loafer; vagrant; lallygag; [adjective] standing by;
-tumambáy (tambay) [verb] to hang around; to hang out
+tumambáy (tambay) _um_ [verb] to hang around; to hang out
 nakatambay (tambay) [adjective] standing around; hanging out
-tambayan (tambay) [verb] to hang out somewhere
-magtampók (tampok) [verb] to feature; to show off
+tambayan (tambay) _an [verb] to hang out somewhere
+magtampók (tampok) mag_ [verb] to feature; to show off
 tampók (tampok) [noun] feature; gem; [adjective] featured
-itampók (tampok) [verb] to feature
-tampukán (tampok) [verb] to feature something
+itampók (tampok) i_ [verb] to feature
+tampukán (tampok) _an [verb] to feature something
 pagtatampók (tampok) [noun] featuring
 pananáw (tanaw) [noun] vision; point of view
 tanawin (tanaw) [noun] landscape; scene; view
 tanáw (tanaw) [adjective] within eye sight
 ábot-tanáw (tanaw) [adjective] within sight
-tanawín (tanaw) [verb] to look at from a distance; to view as
-tumanáw (tanaw) [verb] to look in the distance; to look afar
-matanáw (tanaw) [verb] to look at from distance
+tanawín (tanaw) _in [verb] to look at from a distance; to view as
+tumanáw (tanaw) _um_ [verb] to look in the distance; to look afar
+matanáw (tanaw) ma_ [verb] to look at from distance
 pagtanáw ng utang na loób (tanaw) [noun] gratefulness; thanksgiving
-makatanáw (tanaw) [verb] to be able to see from a distance
+makatanáw (tanaw) maka_ [verb] to be able to see from a distance
 pagbabalík-tana`w (tanaw) [noun] looking back
 palátandaan (tanda) [noun] landmark; cue; sign; clue
-tandaán (tanda) [verb] to remember; to make an effort to remember; to keep in mind
+tandaán (tanda) _an [verb] to remember; to make an effort to remember; to keep in mind
 matandâ (tanda) [adjective] old; aged; senior; archaic; [noun] an old person
 tandâ (tanda) [noun] sign; remembrance; symptom; clue; evidence; omen; amount older
-matandaán (tanda) [verb] to be able to remember
+matandaán (tanda) ma_an [verb] to be able to remember
 matandain (tanda) [adjective] having an excellent memory
 nakatatandâ (tanda) [adjective] elder; older; senior
 pagtandâ (tanda) [noun] aging; maturity; getting old
 panandâ (tanda) [grammar] marker
-tumandâ (tanda) [verb] to age; to grow old; to get older
+tumandâ (tanda) _um_ [verb] to age; to grow old; to get older
 katandaán (tanda) [noun] old age; age
 pinakamatandâ (tanda) [adjective] oldest; oldest (person)
-itandâ (tanda) [verb] to use as marker
+itandâ (tanda) i_ [verb] to use as marker
 pagkakatandâ (tanda) [noun] remembering
-magtandá (tanda) [verb] to learn a lesson
+magtandá (tanda) mag_ [verb] to learn a lesson
 napakatandá (tanda) [adjective] very old (person)
-tanggalín (tanggal) [verb] to remove something; to disconnect something; to detach something; to unfasten something; to abolish someone/something
+tanggalín (tanggal) _in [verb] to remove something; to disconnect something; to detach something; to unfasten something; to abolish someone/something
 mánananggál (tanggal) [noun] vampire like, frightening mythical creature of the Philippines that can detach from its midsection, usually has bat wings, and likes to suck the blood of people while they sleep
-matanggál (tanggal) [verb] to detach something (OF); to become detached (AF); to be able to detach something (OF); to be removed (AF); to remove something (OF); to be unlaced (AF)
+matanggál (tanggal) ma_ [verb] to detach something (OF); to become detached (AF); to be able to detach something (OF); to be removed (AF); to remove something (OF); to be unlaced (AF)
 tanggál (tanggal) [adjective] unfastened; removed; detached; dismissed from employment; abolished
 pangtanggál (tanggal) for removing
 pagtanggál (tanggal) [noun] unfastening; removing; detaching
