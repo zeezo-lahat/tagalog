@@ -591,6 +591,7 @@ hagdán	ladder, stairs
 haginít	cracking sound, swishing sound
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hain	food on a table; offering in sacrifice; tribute
+haka-haka	a myth
 hakbáng	step; stepping; move
 hakbangin	(n) steps
 halagA	price, cost, charge, worth, value, importance
@@ -1088,6 +1089,7 @@ katúpáran	accomplishment, fulfillment
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
+kaugnay	allied, related; relative; incidental
 kaugnayan	relation
 kauna-unahan	the very first, earliest
 káunawaán	(n) understanding (unawa)
