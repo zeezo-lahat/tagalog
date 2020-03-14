@@ -238,7 +238,7 @@ bangon	to arise, get up, rise up
 bangús	milkfish
 bansâ	nation, state, country
 banta	threat
-bantáy	guard, sentry
+bantáy	guard, sentry, look after
 barako	strong like the coffee from Batangas
 barilan	gun battle
 barkada	group of friends, clique, gang
@@ -1576,7 +1576,7 @@ makipagtalik	to have sex
 makipag-Usap	to converse with, communicate with (actor/talker focus, typically initiator of discussion)
 makisabay	to go at the same time
 makislap	luminous, brilliant, glittering, lambent, lucent
-makita	to see (a *specific* thing) (obj. focus)
+makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
 makulit	importunate, pesky; a person who is a pest
 makulong	be confined, be interned; be shut in (in a crowd)
@@ -1726,6 +1726,7 @@ masilaw	dazzled
 masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
+masiyahán	to approve; to be satisfied; to be contented
 maski	even, mere (maski na: even so/though)
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient

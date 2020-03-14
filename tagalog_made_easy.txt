@@ -1,3 +1,32 @@
+# part 96
+ano sa palagay mo?	what do you think?
+nasiyahan ka ba?	were you happy?
+nakita mo ba ang hinahanap mo?	did you find what you were looking for?
+sinabi mo ba say kanya?	did you tell him?
+nalaman ba niya?	did he find out?
+kailan mo nalaman?	when did you find out?
+paano mo nalaman?	how did you know?
+kailan ba siya babalik?`when will he return?
+pwede ka bang maghintay?	can you wait?
+pwede mo ba siyang hintayin?	can you wait for him?
+matAtagalan ba bago ka makabalik?	will it be long before you return?
+sigurado ka ba?	are you sure?
+maaasahan ba kita?	can I count on you?
+katulad mo ba siya?	are you similar to her?
+ano ang ibig mong sabihin?	what do you mean?
+saan ako nagkamali?	where did I go wrong?
+yun ba ang akala mo?	is that what you think?
+ano pa ang magagawa ko?	what else can I do?
+kailan mo ba kailangan?	when do you need it?
+kailangan mo ba kaagad?	do you need it right away?
+nagmAmadali ka ba?	are you in a hurry?
+tama ba ang ginawa mo?	did I do it right?
+nag-aalala ka ba?	are you worried?
+saan mo gustong pumunta?	where do you want to go?
+pwede ba akong sumama sa iyo?	can I go with you?
+kailangan mo ba ng kasama?	would you like a companion?
+pwede mo ba akong samahan?	can you come with me?
+
 # part 88
 samakatwId	therefore
 hindi mo siya nakita, samakatwid, hindi mo siya makikilala	you have not seen him, therefore you will not recognize him
