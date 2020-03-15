@@ -975,7 +975,7 @@ kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kanais-nais	desirable
 kanan	right (vs. left)
-kani-kanina lang	just now; lately
+kaní-kanina	(kaní-kanina lang) just now, just a while ago, just a moment ago
 kanila	their, theirs
 kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	each on his own, individually
@@ -1610,6 +1610,7 @@ malikhain	creative
 malilimutin	forgetful
 malImit	often
 malimutan	to forget, neglect
+malinaw	clear, obvious, apparent
 malinis	clean, neat, hygienic; clear, chaste
 malisya	malice
 maliwanag	bright, clear, distinct
@@ -1859,6 +1860,7 @@ nakákaupô	to be able to sit down
 nakakausap	able to talk (with)
 nakakuha	was able to get
 nakalaán	reserved for, destined for, intended for, associated
+nakalagáy	placed, in place, situated
 nakalibing	is buried
 nakalikha	was able to create
 nakalimot	forgot
@@ -2459,6 +2461,8 @@ pusang kalye	street cat
 puslít	smuggling, low-key escape: squirt, spurt
 puspusan	fully, completely, thoroughly
 puspusan	to complete, make complete
+puta	used as general curse (fuck, etc.), literally: whore
+putang iná	used like "fuck you", etc.
 putik	mud (often used as an inoffensive substitute for the word puta)
 putikan	a muddy place
 putók batok	a meal that may cause you to have a heart attack or stroke
