@@ -8,12 +8,12 @@ if sys.argv[2] is 'r', will print English first.
 import random
 import sys
 import time
+import argparse
 
-if len(sys.argv) == 1:
-    print("Hey!  I need an input filename or '-'")
-    exit(1)
+parser = argparse.ArgumentParser(description='Make flashcards from listen input files.')
+parser.add_argument('integers', metavar='N', type=int, nargs='+',
+                            help='an integer for the accumulator')
 
-# What is my input?
 if sys.argv[1] is "-":
     f =  sys.stdin
 else:
@@ -53,7 +53,7 @@ while True:
         # this will not work if reading input text from stdin!!!
         input()
         #time.sleep(8) 
-        print(t2e[1].strip())
+        print('\t\t\t\t', t2e[1].strip())
         time.sleep(2) 
         print()
     
