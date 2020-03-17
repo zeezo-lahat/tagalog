@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import re
 f = open(sys.argv[1], 'r')

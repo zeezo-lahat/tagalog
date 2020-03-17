@@ -3144,6 +3144,11 @@ inggitan (inggit) [noun] envy for each other
 kainggitán (inggit) ka_an [verb] to envy
 inggitín (inggit) _in [verb] to make someone envious
 nakakainggít (inggit) causing envy; causing jealousy
+mainíp (inip) ma_ [verb] to be bored; to be impatient
+pagkainip (inip) [noun] boredom; impatience; displeasure from waiting
+iníp (inip) [noun] boredom; impatience; displeasure from waiting
+kainipan (inip) [noun] boredom; impatience
+nakakainíp (inip) [adjective] boring
 mainís (inis) ma_ [verb] to feel annoyed; to feel a strong dislike for; to be bored; to be pissed off
 nakakainís (inis) [adjective] annoying
 makainís (inis) maka_ [verb] to frustrate; to irritate; to annoy
@@ -3464,6 +3469,9 @@ kumapit (kapit) _um_ [verb] to hold on; to cling to
 nakakapít (kapit) [adjective] stuck; glued
 kapit (kapit) [noun] hold; grasp; handhold
 ikapit (kapit) i_ [verb] to hold on to; to cling to
+karaniwan (karaniwan) [adjective] common; usual; widespread; habitual; average; colloquial [adverb] commonly; generally; in general; chiefly; customarily
+di-pangkaraniwan (karaniwan) [adjective] unusual; peculiar; extraordinary
+pinakakaraniwan (karaniwan) [adjective] commonest; most common
 kargada (karga) [noun] cargo; spare parts; penis (slang)
 kargahín (karga) _in [verb] to carry someone/something; to scoop up something/someone
 kargá (karga) [noun] cargo; freight; load; electric charge of batteries; act or way of carrying; [adjective] carried as load
@@ -3498,6 +3506,16 @@ katawanín (katawan) _in [verb] to represent something; to symbolize something
 pangangatawán (katawan) [noun] body; physique; figure; bodily constitution
 kumatawán (katawan) _um_ [verb] to embody; to personify
 kinatawán (katawan) [noun] representative
+kathâ (katha) [noun] literary composition; creation; fiction
+maykathâ (katha) [noun] author; writer
+kathaín (katha) _in [verb] to create a story; to compose a story; to write a story; to fabricate something
+kumathâ (katha) _um_ [verb] to invent
+katháng-isip (katha) [noun] fiction; a work of fiction
+kumontì (kaunti) _um_ [verb] to get smaller; to become more limited; to decrease in quantity
+kakauntî (kaunti) [adjective] only a little; a little only; very few; slim; small; skimpy; meager; little
+hindî kauntî (kaunti) quite a lot; quite a lot of; not a little
+kumauntî (kaunti) _um_ [verb] to get smaller; to become more limited; to decrease in quantity.
+napakakauntî (kaunti) [adjective] very few
 kayâ (kaya) [conjunction] that's why; so; as a result; consequently; hence; the reason why; therefore; [enclitic] I wonder if; do you suppose; perhaps; [idiom] used idiomatically to express doubt, question or surprise
 kaya (kaya) [pseudo-verb] feasible; [adjective] can; capable; able; able to afford; afford to; [noun] ability
 kayanin (kaya) _in [verb] to be able to endure or cope with something; to be able to handle doing something; to be able to do or accomplish something
@@ -5227,6 +5245,11 @@ regaluhan (regalo) _an [verb] to give a gift to someone
 iregalo (regalo) i_ [verb] to give something as a gift
 magregalo (regalo) mag_ [verb] to gift; to give a gift
 pang-regalo (regalo) [adjective] for a gift; as a gift
+magrehistro (rehistro) mag_ [verb] to register
+rehistro (rehistro) [noun] registry
+nakarehistro (rehistro) [adjective] registered
+magparehistro (rehistro) magpa_ [verb] to get registered; to be registered
+rumehistro (rehistro) _um_ [verb] to register
 saan-saán (saan) [pronoun] where (plural); various places
 pasásaán bá't (saan) [phrase] only a matter of time
 saán (saan) [adverb] where
@@ -5757,6 +5780,10 @@ Gitnáng Silangan (silangan) [noun] Middle East
 silanganan (silangan) [noun] East
 tímog-silangan (silangan) [noun] southeast
 hílagang--silangan (silangan) Northeast
+silayan (silay) _an [verb] to glimpse
+sumilay (silay) _um_ [verb] to flash (a quick glance, or look, or smile, etc.)
+silay (silay) [noun] quick look; quick glance; flashing a glance; ray
+masilayan (silay) ma_an [verb] to be able to get a glimpse of something
 waláng-silbí (silbi) [adjective] useless; good for nothing
 silbí (silbi) [noun] service; use
 magsilbí (silbi) mag_ [verb] to serve
@@ -6346,6 +6373,11 @@ tambay (tambay) [noun] loafer; vagrant; lallygag; [adjective] standing by;
 tumambáy (tambay) _um_ [verb] to hang around; to hang out
 nakatambay (tambay) [adjective] standing around; hanging out
 tambayan (tambay) _an [verb] to hang out somewhere
+matamís (tamis) [adjective] sweet; [noun] sweets; dessert
+minatamís (tamis) [noun] something (usually fruit) preserved in syrup
+tamís (tamis) [noun] sweetness
+napakatamís (tamis) [adjective] very sweet
+tamís-tamís (tamis) [adjective] very sweet
 magtampók (tampok) mag_ [verb] to feature; to show off
 tampók (tampok) [noun] feature; gem; [adjective] featured
 itampók (tampok) i_ [verb] to feature
