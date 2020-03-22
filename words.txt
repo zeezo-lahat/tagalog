@@ -67,6 +67,7 @@ agas	miscarriage
 agaw	to snatch, grab
 agos	flow (lit/fig)
 akalà	idea, belief/thought/assumption (often incorrect)
+aklasan	going on strike from work
 aklat	a book
 ako man	I, too
 akto	doing, acting, performing, behaving, carrying out (actor)
@@ -279,6 +280,7 @@ bayan	town, country, "home"
 bayani	hero, person who offers free service in a cooperative endeavor
 baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
+bayong	a large bag; bag or sack made of woven palm leaves
 benta	sell
 berde	green
 beses	time(s)
@@ -555,6 +557,7 @@ ginugol	spent
 gisa	to sauté, stir-fry
 gíting	heroism
 gitna	middle, center, midst
+goma	rubber
 grabe	wow!, intense, extreme, wild/crazy, etc..
 granada	pomegranate; hand grenade
 gubat	forest, jungle
@@ -1063,6 +1066,7 @@ kasundo	someone you get along with; agreeing
 kasunduan	agreement
 kasunod	next / the next; following
 katabi	next to, adjacent
+katad	leather
 katagal	duration
 katalo	opponent
 katambál	a partner, someone you’re paired with
@@ -1221,12 +1225,14 @@ lalo ang	namely, particularly
 lalo na ngayon	especially these days.
 lalo na	especially, particularly
 lalò	more, increasingly, very, especially
+lalong lalo	especially, most of all
 lalong mabuti	better
 lalong malaki	bigger
 lalong maliit	smaller
 laman	meat, flesh, body, substance (lit/fig)
-lamang loob	innards
+laman	the contents of something
 lamang	only, even, mere (lang)
+lamang loob	innards
 lamangan	advantage over others
 lambanóg	coconut booze
 lambót	softness, tenderness
@@ -1234,10 +1240,13 @@ lamig	coldness
 lampara	a source of light, as a lamp
 lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
+landas	a path, trail
 langaw	housefly
 langis	oil, grease
 langit	sky, heavens; ecstasy
+langitngit	the squeaking sound of a door hinge
 langóy	swimming
+langutngot	a crunching sound as when chewing something hard                                                                                
 lansángan	street, road
 lantáy	pure, unadulterated
 láot	far out in the open sea
@@ -1250,8 +1259,9 @@ lasa	the taste or flavor of something
 lasing	drunk, intoxicated, inebriated
 lason	poison
 lasunin	to poison
-lata	can
+lata	can; tin; a container, box, etc. made of tin
 lawa	bulging, sticking or protruding out
+lawa	a pond
 lawak	expanse, extent, area
 lawig	long duration (less commonly used than tagal)
 lawin	hawk
@@ -1274,13 +1284,14 @@ lígaw	to woo, court
 ligáw	wild, uncultivated, stray
 ligay	put, place, install
 ligáya	happines, joy
-ligtAs	saved, freed, redeemed; safe
-lIhim	secret, confidential (also "sikreto")
+ligtAs	saved, freed, redeemed; safe; exempt
+lIhim	(a) secret, confidential (also "sikreto")
 liit	smallness
 likas	exodus, evacuation
 likás	natural, inherent, innate, characteristic, unwritten
 likha	a creation; thing produced by intelligence and skill
 likhain	to create
+liku-likong	zigzag
 limos	alms; stipend
 limot	oblivion (root of forget)
 linaw	clearness (liquids); clarity (explanation); legibility; legible condition
@@ -1604,8 +1615,9 @@ malaya	free, emancipated
 malayo	far away
 maleta	suitcase, luggage
 mali	wrong
-maliban kung	unless, if not
-maliban		except for, absent / if not X
+maliban	unless, if not
+maliban kung		except for, absent / if not X
+maliban sa	aside from
 máligáw	to lose one’s way
 maligáya	happy, joyful (ligáya)
 maligayang bati	joyful wishes (happy birthday)
@@ -1731,7 +1743,8 @@ masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
-maski	even, mere (maski na: even so/though)
+maski	even, mere
+maski na	even so/though
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)
@@ -2120,7 +2133,7 @@ pagkamasarili	egotism
 pagkamatáy	death
 pagka-may-arì	ownership, possession
 pagkatalo	defeat
-pagkatao	character
+pagkatao	character, nature (of a person)
 pagkátiwalaan	to entrust to the care of, consign, relegate, confide (tiwala)
 pagkukUsa	initiative
 paglabág	violating; in violation
@@ -2322,7 +2335,8 @@ papasukin	to allow someone to enter
 papuri	praise
 papurihan	to praise, to applaud
 paputók	firecrackers, fireworks ("cause explosion")
-para	similarity, "seems like/to be/that"; for; so that (syn: upang); to stop
+para	for, so that, in order to
+para	like, seems like, appears; to stop (syn: upang)
 paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
@@ -2380,6 +2394,7 @@ pauróng	backward
 pauso	trendy
 pauwi	on the way home
 pauwiin	to send home
+pawa	nothing else than
 páwis	sweat, perspiration
 pawisan	sweaty
 payag	agreement, consent
@@ -2397,6 +2412,7 @@ pigil	detention, control, restraint
 pigilin	to control, restrain, keep back, hold back
 piitan	prison
 pikón	quick to anger
+pilak	silver (the metal)
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
@@ -2669,6 +2685,7 @@ sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 súka	spew, vomit
 sukal	garbage, flotsam, dirt
+sukat	size, measurement
 sukAtin	measure
 sukdUlan	utmost
 suklay	comb
@@ -2734,6 +2751,7 @@ tagilid	tilt, slant
 tagiliran	side; boundary; either side (eg, left or right) of something
 taglagas	autumn
 tagò	hide
+tagò ng tagò	(TNT) illegal immigrant
 tagpô	scene, circumstances
 tagpuan	meeting place, rendezvous
 tagpuín	to go and meet
@@ -2916,6 +2934,7 @@ tumigil	to stop
 tumilî	shrieked, screeched
 tumingkad	to become brighter/clearer (as colors)
 tumok	kakitkitan; kalaguan ng mga damong tumutubo
+tumpak	correct, right (tama)
 tumungo ka	bow your head
 tumungó	to bow one’s head in submissiveness
 tumungo	to go to
@@ -3028,9 +3047,9 @@ walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
 yaman	wealth, treasure, riches
-yamang	"in as much as X", "provided X", "as long as X"
+yamang	in as much as, provided.., as long as..; since, whereas
 yamót	boredom
 yapag	barefoot(?)
 yari	making, constructing, finishing (mag-,-in)
-yata	maybe, perhaps
+yata	maybe, perhaps, it seems, I think
 yung	that (abbrev. of "iyong")

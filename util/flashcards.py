@@ -45,7 +45,7 @@ while True:
         print(t2e[1].strip(), end='')
         input()
         #time.sleep(25) 
-        print(t2e[0].strip())
+        print('\t\t\t\t', t2e[0].strip())
         time.sleep(2) 
         print()
     else:

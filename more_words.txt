@@ -936,53 +936,34 @@ laban, kontra, salungat ------ in opposition to
 laban, labanan, paglalaban ------ a fight, struggle
 laban, labanan, paligsahan, timpalak ------ a contest
 laban, salungat ------ against or opposite
-
-###### ^ done through here, 11/2/19.  delete the lines you want to keep.  will diff against td_parse_out.txt to extract desired lines
-
 labas ------ outer part of a place
 labas ------ the open, the open air, outdoors, open country, clear space
 labas ------ the outside
 labas prep. out of, beyond the limits of ------ the outer side or surface
-labas sa pinag-uusapan, wala sa pinag-uusapan, di pinag-uusapan, walang kaugnayan sa paksa ------ beside the question, off the subject
 labas, bilang ------ an issue of a magazine
-labas, bilang it pron. the thing, part, animal or person spoken about ------ a copy of a newspaper
 labas, malayo ------ away from, not concerning
 labas, palabas, pagpapalabas, tanghal, pagtatanghal ------ a series of performances
-labis, kalabisan, sobra, labi ------ more than is needed
+abis, kalabisan, sobra, labi ------ more than is needed
 labis, masyado, lubha ------ too, excessively
 labis, sobra ------ one too many, too much
 labis, sobra, labi, natira, tira ------ amount over and above what is needed, extra quantity left over, excess
 labis-labis, sobra-sobra, napakalaki exchange ------ too much, too great
-laganap, balita, kalat, palasak ------ clearly or fully known
-laganap, palasak, popular, kalat ------ widespread
 lagaslas ------ the sound of a falling water, as in a waterfall
 lagaslas ------ the sound of running water, e.g., of a stream
-lagay ng loob, kalagayan, kalooban, kondisyon ------ a state of mind or feeling
-lagay, kalagayan ------ a condition, state
 lagay, kalagayan, pamantayan, antas ------ a level
 lagay, kalagayan, tayo, katayuan ------ a social position, rank
-lagi, palagi, pirme ------ as a habit, regularly
-lagi, parati, palagi, pirme ------ at all times
 lagitik ------ 1. a snapping sound such as caused by snapping the fingers
 lagitik, haginit ------ 2. the cracking sound of a whip
 lagok ------ the sound produced by the throat in swallowing
 lagyan (maglagay) ng suwelas, magsuwelas ------ to put a sole on shoes, etc.
-lagyan ng ibabaw ------ to put a top on
 lahat ------ everybody
 lahat, bawat isa ------ one and all, everyone
 lahat, lahat-lahat, ang lahat ------ everyone, every one of
-lahatan, lahat, ganap ------ wholly, fully
-lahi, bansa ------ race, nation
-lahok, kalahok, kasali ------ person or thing that takes part in a contest
-lakad na, sige na, mauna, magpatuloy, ipagpatuloy ------ to go ahead
-lakad, paglakad ------ a beginning to go on
 lakad, paglakad ------ way of walking
 lakad, paglakad, paglalakad ------ act of walking
 lakad, paglakad, tapak, pagtapak, yapak, pagyapak ------ a way of walking
-lakarin ------ distance to walk
 lakas ------ force, strength
 lakas ------ vigor
-lakas, kakayahan ------ power to work or act, force
 lakas, kalakasan ------ great vigor, strength
 lakas, puwersa ------ strength
 lakas, puwersa ------ vigor, energy
@@ -992,8 +973,6 @@ laki, lawak ------ extent
 laki, sukat ------ size
 laki, sukat ------ the size or measurement
 lalaki, mama ------ an adult male
-lalo na ------ particularly, principally
-lalo pa, higit pa ------ much more
 lalong masama ------ more evil
 laman ------ what is contained in anything
 laman, nilalaman ------ the contents
@@ -1058,6 +1037,9 @@ likod, gulugod ------ the back of an animal
 liku-likong (paese-eseng) landas o daan ------ a zigzag course or path
 likuran ------ the space at the back
 lilim ------ a partly dark place, not in the sunshine
+
+###### ^ done through here, 11/2/19.  delete the lines you want to keep.  will diff against td_parse_out.txt to extract desired lines
+
 linamnam, sarap, kasarapan ------ a good flavor, pleasant taste
 linang ------ land cleared for tilling
 linggu-linggo ------ every week
