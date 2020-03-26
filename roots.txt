@@ -11,7 +11,7 @@ mag-abáng (abang) mag_ [verb] to wait for; to watch out for; to keep an eye out
 abangers (abang) [noun] watchers (slang)
 abáng (abang) [noun] watcher; lookout (person); someone watching and waiting for something
 abanger (abang) [noun] waiter; someone who is waiting; * slang
-nakaabáng (abang) looking for; keeping an eye out
+nakaabáng (abang) naka_ looking for; keeping an eye out
 abó (abo) [noun] ash; ashes; cinders; grey
 abuhan (abo) [noun] ash tray; ash
 maabó (abo) [adjective] ashy; containing ashes
@@ -179,7 +179,7 @@ alalahanín (alala) [noun] worry; concern
 alalay (alalay) [noun] support; assistant; helpful friend; holding or carrying with care
 kaaalalay (alalay) [noun] chaperone
 alalayan (alalay) _an [verb] to hold or carry someone/something carefully; to aid someone; to support someone
-nakaalalay (alalay) [adjective] supporting
+nakaalalay (alalay) naka_ [adjective] supporting
 mag-alalay (alalay) mag_ [verb] to take precaution; to practice moderation; to take it easy (lay off)
 umalalay (alalay) _um_ [verb] to support; to give support
 malaman (alam) ma_an [verb] to know something (OF); to find out something (OF); to learn about something (OF); to be conscious of something (OF); to be informed (AF); to find out (AF)
@@ -207,7 +207,7 @@ umalám (alam) _um_ [verb] to know
 kaalám-alám (alam) having any knowledge (of something)
 waláng alám (alam) don't know
 waláng kaalám-alám (alam) know absolutely nothing; haven't the faintest idea; have no idea; have no clue
-nakaaalám (alam) [adjective] knows; knowing
+nakaaalám (alam) naka_ [adjective] knows; knowing
 waláng pakialám (alam) don't care
 maalat (alat) [adjective] salty; briny
 alatan (alat) _an [verb] to add salt; to make salty
@@ -233,7 +233,7 @@ kaáalís (alis) has just left
 ialís (alis) i_ [verb] to remove something
 mapaalís (alis) mapa_ [verb] to be able to get rid of; to make someone leave
 paalís (alis) [adjective] starting to leave; outgoing; outward bound; about to leave
-nakaalís (alis) [adjective] left; departed
+nakaalís (alis) naka_ [adjective] left; departed
 magpaalís (alis) magpa_ [verb] to send away; to evict
 ipaalís (alis) ipa_ [verb] to have something removed
 maialís (alis) mai_ [verb] to be able to remove something
@@ -266,7 +266,7 @@ pampaalsá (alsa) [noun] baking powder
 ambâ (amba) [noun] threaten; threatening gesture
 mangambâ (amba) mang_ [verb] to feel threatened; to feel fear
 ambaán (amba) _an [verb] to threaten someone; to make threatening gestures toward someone
-nakambâ (amba) [adjective] threatening
+nakambâ (amba) naka_ [adjective] threatening
 pangambahán (amba) pang_an [verb] to threaten somewhere/something
 ambagan (ambag) [noun] contribution by several people
 ambág (ambag) [noun] contribution
@@ -548,7 +548,7 @@ asó (aso) [noun] smoke
 asong pagála-galà (aso) [noun] stray dog; wild dog; feral dog
 páasuhán (aso) [noun] chimney
 maasó (aso) [adjective] smoky
-naka-atas (atas) [adjective] assigned
+naka-atas (atas) naka_ [adjective] assigned
 atasan (atas) _an [verb] to impose; to command; to instruct; to oblige by law; to bind
 atas (atas) [noun] order; task; mandate; decree
 mag-atas (atas) mag_ [verb] to command; to direct
@@ -646,7 +646,7 @@ babaan (baba) [noun] spot for unloading (people, things, packages, etc)
 makababâ (baba) maka_ [verb] to be able to go down; to be able to descend
 mapagpakumbabâ (baba) [adjective] humble; modest
 babaín (baba) _in [verb] to go down for something; to put something down
-nakababâ (baba) [adjective] descended; down low; down
+nakababâ (baba) naka_ [adjective] descended; down low; down
 pababain (baba) pa_in [verb] to reduce; to lower; to depreciate
 pababaín (baba) pa_in [verb] to get someone to descend
 kababaan (baba) [noun] lowness; lowliness
@@ -911,7 +911,7 @@ balutan (balot) _an [verb] to cover something; to enshroud something
 balót (balot) [adjective] covered; wrapped; enfolded
 bumalot (balot) _um_ [verb] to wrap
 mabalot (balot) ma_ [verb] to envelop; to encase; to wrap
-nakabalot (balot) [adjective] wrapped; covered
+nakabalot (balot) naka_ [adjective] wrapped; covered
 ibalot (balot) i_ [verb] to wrap something; to cover something
 magbalot (balot) mag_ [verb] to wrap; to pack
 pambalot (balot) [noun] covering; wrapping; something used to cover or wrap something
@@ -932,7 +932,7 @@ bumangas (bangas) _um_ [verb] to cause a bruise one's face
 banggaín (bangga) _in [verb] to collide into something; to crash into something; * focus on the thing being hit
 bumanggâ (bangga) _um_ [verb] to collide into; to crash into; to bump
 mabanggâ (bangga) ma_ [verb] to bang against something (OF); to collide with something (OF); to get hit by something (AF)
-nakabanggâ (bangga) [adjective] collided
+nakabanggâ (bangga) naka_ [adjective] collided
 banggâ (bangga) [noun] collision; impact; crash
 magbanggâ (bangga) mag_ [verb] to collide; to crash
 kabanggaín (bangga) ka_in [verb] to oppose someone
@@ -963,8 +963,8 @@ bantáy-sarado (bantay) [adjective] well guarded; closely guarded; carefully wat
 magbantáy (bantay) mag_ [verb] to guard; to look after; to keep watch
 tagapagbantáy (bantay) [noun] guardian; keeper
 pagbabantáy (bantay) [noun] watching; vigilance
-nakabantáy (bantay) [adjective] guarding
-nakabaón (baon) [adjective] buried; embedded
+nakabantáy (bantay) naka_ [adjective] guarding
+nakabaón (baon) naka_ [adjective] buried; embedded
 baon (baon) [noun] food, snacks or other provisions brought on to work, school, or on a trip; food brought from home; money or allowance brought to school or work; lunch money
 bumaón (baon) _um_ [verb] to penetrate
 pabaon (baon) [noun] something to be used as food, a snack or other provisions brought on to work, school, or on a trip
@@ -1033,7 +1033,7 @@ batà (bata) [noun] child; children; kid; youth; [adjective] young
 kababatà (bata) [noun] childhood friend
 batang lansangan (bata) [noun] street kid
 pilyong batà (bata) [noun] brat; naughty child
-nakababatà (bata) [adjective] younger
+nakababatà (bata) naka_ [adjective] younger
 bumatà (bata) _um_ [verb] to become young again; to be rejuvenated
 pagkabatà (bata) [noun] childhood; state of being young
 bata (bata) [noun] bathrobe; robe
@@ -1058,11 +1058,11 @@ maisabatás (batas) mai_ [verb] to be able to enact something into law; to be ab
 laban sa batás (batas) against the law
 alagád ng batás (batas) [noun] law enforcer; law enforcement; police
 batayán (batay) [noun] basis; condition; [adjective] fundamental; basic
-nakababatay (batay) [noun] contingent
+nakababatay (batay) naka_ [noun] contingent
 batay (batay) [adjective] based on; according to;
 bumatay (batay) _um_ [verb] to base; to depend on
 ibatay (batay) i_ [verb] to base on
-nakabatay (batay) [adjective] based on
+nakabatay (batay) naka_ [adjective] based on
 pagbatayán (batay) pag_an [verb] to base something on
 batì (bati) [noun] greeting; congratulations
 batiin (bati) _in [verb] to congratulate someone; to greet someone; to comment about something (OF); to hail someone
@@ -1256,7 +1256,7 @@ mabilang (bilang) ma_ [verb] to be able to count
 bilangan (bilang) _an [verb] to count a person out (in a boxing match, game, etc.); to count to someone
 hindí mabilang (bilang) [adjective] countless; too many to count
 pagbilang (bilang) [noun] count
-nakabilang (bilang) [adjective] counted; counted among
+nakabilang (bilang) naka_ [adjective] counted; counted among
 pagbibiláng (bilang) [noun] counting
 bumilí (bili) _um_ [verb] to buy; to purchase
 bilhín (bili) _in [verb] to buy something; * focus on the thing being bought
@@ -1347,7 +1347,7 @@ bitín (bitin) [adjective] not enough; short; lacking; running out of
 lambitin (bitin) [noun] hanging or swinging by the hands or feet (like a monkey); hanging on
 ibitin (bitin) i_ [verb] to hang; to suspend (by hanging)
 mabitín (bitin) ma_ [verb] to be left hanging;
-nakabitin (bitin) [adjective] hanging
+nakabitin (bitin) naka_ [adjective] hanging
 bitinán (bitin) [noun] hanger
 bitiwan (bitiw) _an [verb] to release one's hold of something
 bumitíw (bitiw) _um_ [verb] to disengage; to release one's hold of; to let go of
@@ -1450,7 +1450,7 @@ ibukás (bukas) i_ [verb] to open something
 mabuksán (bukas) ma_an [verb] to be able to open something; to open something;
 pagbubukás (bukas) [noun] opening
 pagbuksán (bukas) pag_an [verb] to open to let someone in/enter
-nakabukás (bukas) [adjective] open; on
+nakabukás (bukas) naka_ [adjective] open; on
 pambukás (bukas) [noun] can opener; a tool to open something
 pakibukás (bukas) please open; please turn on
 maipagpabukas (bukas) maipagpa_ [verb] to be able to put something off until tomorrow
@@ -1518,14 +1518,14 @@ buntisin (buntis) [adjective] easily getting pregnant
 pagbubuntís (buntis) [noun] pregnancy
 buntót (buntot) [noun] tail; bodyguard
 bumuntót (buntot) _um_ [verb] to trail
-nakabuntót (buntot) [adjective] trailing behind; tagging along; tailing behind
+nakabuntót (buntot) naka_ [adjective] trailing behind; tagging along; tailing behind
 pinakabuntót (buntot) [adjective] very last; very end; trailing
 kabuntót (buntot) [noun] someone tailing someone else
 bunyág (bunyag) [adjective] revealed; exposed
 ibunyág (bunyag) i_ [verb] to divulge something; to disclose something; to make something known; to expose something
 magbunyág (bunyag) mag_ [verb] to reveal; to divulge;
 pagbubunyág (bunyag) [noun] disclosure; revelation
-nakabunyág (bunyag) [adjective] revealed; exposed
+nakabunyág (bunyag) naka_ [adjective] revealed; exposed
 pagkakabunyág (bunyag) [noun] revelation; revealing
 buód (buo) [noun] summary
 buô (buo) [adjective] whole; entire; complete; absolute; all
@@ -1587,7 +1587,7 @@ buwan-buwán (buwan) [adjective] every month; each month; monthly
 buwanan (buwan) [adjective/adverb] on a monthly basis; monthly
 bagong buwán (buwan) [noun] new moon
 dumaán (daan) _um_ [verb] to pass; to pass by; to stop by; to drop in for a visit; to elapse; to go by
-nakaraán (daan) [adjective] past; previous; previously; former; bygone; recent
+nakaraán (daan) naka_ [adjective] past; previous; previously; former; bygone; recent
 paraán (daan) [noun] way; method; course of action; manner; manners
 pamámaraán (daan) [noun] method; way; approach; process
 makaraán (daan) maka_ [verb] to be able to pass; to be able to get over/across
@@ -1713,7 +1713,7 @@ dalawahan (dalawa) [adjective] duo; dual; doubled; [adverb] two by two; two at a
 dalá-dalawá (dalawa) [adjective] in twos; by twos; in pairs; two at a time
 dádalawá (dalawa) [adjective] only two
 magdalawá (dalawa) mag_ [verb] to be two; to have two of something
-nakadalawá (dalawa) [adjective] to be two; to have two; to have tried two
+nakadalawá (dalawa) naka_ [adjective] to be two; to have two; to have tried two
 madaldál (daldal) [adjective] talkative
 magdaldál (daldal) mag_ [verb] to blabber; to blab
 dumaldál (daldal) _um_ [verb] to ramble; to chatter; to babble; to prattle; to gab
@@ -1742,7 +1742,7 @@ dumaló (dalo) _um_ [verb] to attend
 pagdaló (dalo) [noun] presence; attendance
 makadaló (dalo) maka_ [verb] to be able to attend
 daluhán (dalo) _an [verb] to attend something (a party, etc.)
-nakadaló (dalo) [adjective] present; in attendance
+nakadaló (dalo) naka_ [adjective] present; in attendance
 daló (dalo) [noun] presence; attendance
 dumaloy (daloy) _um_ [verb] to flow; to run across; to ooze
 daluyan (daloy) [noun] medium; any tube or tube-like vessel that carries any liquid, blood, etc.
@@ -1804,7 +1804,7 @@ damitan (damit) [noun] wardrobe; cabinet; clothe
 pananamít (damit) [noun] dress; the way one is dressed
 damtín (damit) _in [verb] to use for a dress
 magdamít (damit) mag_ [verb] to clothe oneself
-nakadamít (damit) [adjective] wearing clothes
+nakadamít (damit) naka_ [adjective] wearing clothes
 damó (damo) [noun] grass; pasture; [slang] marijuana
 magdamó (damo) mag_ [verb] to mow; to cut the grass
 damuhán (damo) _an [verb] to mow something; to cut the grass for
@@ -1840,7 +1840,7 @@ pagdausan (daos) pag_an [verb] to hold an event
 pagdaraos (daos) [noun] celebration; celebrating; holding an event
 magdaos (daos) mag_ [verb] to hold an event; to celebrate
 makadaos (daos) maka_ [verb] to be able to hold an event; to be able to celebrate
-nakadapâ (dapa) [adjective] lying face down; prone; prostrate
+nakadapâ (dapa) naka_ [adjective] lying face down; prone; prostrate
 dumapâ (dapa) _um_ [verb] to lie on one's stomach; to drop flat on the ground; to lie face down
 madapâ (dapa) ma_ [verb] to stumble; to fall flat
 padapâ (dapa) [adjective/adverb] lying on one's stomach
@@ -1913,7 +1913,7 @@ pagdidiín (diin) [noun] pressure; emphasis; stress
 dumiín (diin) _um_ [verb] to press; to push
 bigyán-diín (diin) _an [verb] to emphasize something
 pandikít (dikit) [noun] glue; adhesive
-nakadikít (dikit) [adjective] pasted; attached
+nakadikít (dikit) naka_ [adjective] pasted; attached
 mádikít (dikit) ma_ [verb] to touch accidentally
 dumikít (dikit) _um_ [verb] to adhere; to stick to; to cling to
 idikít (dikit) i_ [verb] to stick something to something else; to press against something; to attach something; to seal something; to mount something
@@ -2073,7 +2073,7 @@ napakarumí (dumi) [adjective] filthy; very dirty
 pagdumí (dumi) [noun] bowel movement; dirtying
 pinakamarumí (dumi) [adjective] dirtiest
 ang dumí-dumí (dumi) [adjective] very dirty
-nakadungaw (dungaw) [adjective] looking out (of a window); staring out of a window; hanging out of
+nakadungaw (dungaw) naka_ [adjective] looking out (of a window); staring out of a window; hanging out of
 durungawan (dungaw) [noun] window; look-out point
 dumungaw (dungaw) _um_ [verb] to look out of a window
 dungaw (dungaw) [noun] state of looking out of a window
@@ -2264,7 +2264,7 @@ gantihan (ganti) [noun] retaliation; mutual retaliation
 igantí (ganti) i_ [verb] to retaliate; to reward
 gantihán (ganti) _an [verb] to reciprocate with something; to reward with something
 makagantí (ganti) maka_ [verb] to get revenge; to get payback; to be able to get revenge
-nakagapos (gapos) [adjective] bound by ones hands or arms
+nakagapos (gapos) naka_ [adjective] bound by ones hands or arms
 gapos (gapos) [noun] manacle; rope tied around the arms or hands; bond; tie
 igapos (gapos) i_ [verb] to bind someone by hands or arms; to chain someone
 gumapos (gapos) _um_ [verb] to bind; to chain
@@ -2395,7 +2395,7 @@ talangguhit (guhit) [noun] chart
 guhit (guhit) [noun] drawing; line; stripe; design; mark
 salungguhit (guhit) [noun] underline
 guhitan (guhit) _an [verb] to draw; to portray
-nakaguhit (guhit) [adjective] drawn
+nakaguhit (guhit) naka_ [adjective] drawn
 magguhít (guhit) mag_ [verb] to draw
 magulat (gulat) ma_ [verb] to be surprised (AF); to be startled (AF); to be frightened (AF); to surprise someone (OF); to startle someone (OF)
 gulát (gulat) [adjective] startled; shocked
@@ -2489,7 +2489,7 @@ ihain (hain) i_ [verb] to offer something; to put food on a table; to serve food
 hain (hain) [noun] food on a table; offering in sacrifice; tribute
 maghain (hain) mag_ [verb] to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.)
 paghahain (hain) [noun] filing (a bill, application, etc.)
-nakahain (hain) [adjective] served; served food
+nakahain (hain) naka_ [adjective] served; served food
 maihain (hain) mai_ [verb] to be able to offer something; to be able to put food on a table; to be able to serve food; to be able to sacrifice something
 makapaghain (hain) makapag_ [verb] to be able to set the table; to be able to prepare for; to be able to lay the groundwork for; to be able to file (a complaint, case, etc.).
 mahalagá (halaga) [adjective] valuable; important; essential; big; significant
@@ -2511,7 +2511,7 @@ manghahalál (halal) [noun] constituent
 halatâ (halata) [adjective] obvious; noticeable
 mahalatâ (halata) ma_ [verb] to detect; to notice; to be aware of
 halatáng-halatâ (halata) [adjective] extremely noticeable; plainly obvious; very visible
-nakahalatá (halata) [adjective] obvious
+nakahalatá (halata) naka_ [adjective] obvious
 magpahalatâ (halata) magpa_ [verb] to make obvious; to attract notice
 ipahalatâ (halata) ipa_ [verb] to make something obvious
 halikán (halik) _an [verb] to kiss someone/something
@@ -2573,7 +2573,7 @@ maghandâ (handa) mag_ [verb] to prepare; to get ready; to arrange; to prepare f
 ihandâ (handa) i_ [verb] to prepare something; to make something ready; to pave the way for something
 humandâ (handa) _um_ [verb] to get ready; to prepare
 paghahandâ (handa) [noun] preparation
-nakahandâ (handa) [adjective] prepared; ready; alert
+nakahandâ (handa) naka_ [adjective] prepared; ready; alert
 kahandaan (handa) [noun] readiness
 handaan (handa) [noun] party; feast
 maihandâ (handa) mai_ [verb] to be able to prepare; to be able to get ready
@@ -2599,7 +2599,7 @@ humapon (hapon) _um_ [verb] to settle in for the evening
 kinahapunan (hapon) [noun] the day before yesterday
 Hapón (hapon) [noun] Japanese; Japan
 harang (harang) [noun] bar; barrier; obstacle
-nakaharang (harang) [adjective] blocking; obstructing
+nakaharang (harang) naka_ [adjective] blocking; obstructing
 harangin (harang) _in [verb] to intercept something; to block something; to hold something up
 harangan (harang) _an [verb] to block something/somewhere
 maharang (harang) ma_ [verb] to hold up someone (OF); to be held up (AF); to intercept something (OF); to be intercepted (AF)
@@ -2671,7 +2671,7 @@ humawak (hawak) _um_ [verb] to hold; to handle
 maghawak (hawak) mag_ [verb] to hold; to clench; to hold each other
 mahawakan (hawak) ma_an [verb] to be able to hold something
 makahawak (hawak) maka_ [verb] to be able to hold onto something
-nakahawak (hawak) [adjective] holding onto something
+nakahawak (hawak) naka_ [adjective] holding onto something
 háwak-hawak (hawak) [adjective] holding; continuously held in the hand
 magkahawak ang mga kamáy (hawak) [adjective] holding hands
 mapahawak (hawak) mapa_ [verb] to hold something accidentally or unintentionally
@@ -2693,7 +2693,7 @@ hayop (hayop) [noun] animal; beast; brute
 hayupán (hayop) [noun] zoo
 kahayupan (hayop) [noun] beastliness; debauchery
 makahayop (hayop) [adjective] animalistic; brutal; bestial; beastly
-nakahigâ (higa) [adjective] lying down; in a lying position; recumbent
+nakahigâ (higa) naka_ [adjective] lying down; in a lying position; recumbent
 humigâ (higa) _um_ [verb] to lie down
 higaán (higa) _an [verb] to lie down on something
 higâ (higa) [noun] lying down; lying position
