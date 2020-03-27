@@ -4342,7 +4342,8 @@ makalipád (lipad) maka_ [verb] to be able to fly
 makalipas (lipas) maka_ [verb] to pass (time); to elapse (time)
 lumipas (lipas) _um_ [verb] to pass (time); to elapse (time)
 nakalipas (lipas) [adjective] past; bygone
-paglipas (lipas) [noun] passing; passage
+paglipas (lipas) [noun] passing; passage (also pagkalipas)
+pagkalipas (lipas) [noun] passing; passage (also paglipas)
 lipás (lipas) [adjective] passed; out of style; out of fashion; obsolete
 lumipat (lipat) _um_ [verb] to move; to transfer; to relocate one's place of residence; to transfer; to migrate
 ilipat (lipat) i_ [verb] to move something

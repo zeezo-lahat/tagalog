@@ -1,3 +1,10 @@
 alias tgw='cat ~/tagalog/roots.txt ~/tagalog/words.txt | tgrep.py'
 alias tga='cat *.txt | tgrep.py'
+alias broot='cat roots.txt | fgrep'
 export PATH=./util:$PATH
+
+root ()
+{
+  cat roots.txt | fgrep \($1\)
+}
+

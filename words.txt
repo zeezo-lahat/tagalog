@@ -163,6 +163,7 @@ awitIn	common songs; hits
 awitin	to sing
 ayain	to invite someone
 ayaw	don't/doesn't want
+ayuda	aid; something supplementary
 ba	yes/no question former; used to emphasise question/ask for detail
 baba	lowness; to descend
 bababa	will come down, descend, get off (as vehicle)
@@ -446,6 +447,7 @@ dayain	to cheat someone
 dayo	visitor, stranger, foreigner
 dayúhan	foreigner
 dekada	decade
+despachadora	a saleslady
 detálye	detail
 dibdib	chest, bosom (do not use a hyphen!)
 dibdibin	to brood over something
@@ -1254,6 +1256,7 @@ lápat	close fitting; adjusted
 lapida	gravestone
 lapit	nearness
 lapitan	to come near something
+lapnos	peeled off (skin that has been burnt, etc.)
 larawan	picture, portrait (litrato]) ilarawan (i-)
 lasa	the taste or flavor of something
 lasing	drunk, intoxicated, inebriated
@@ -2126,6 +2129,7 @@ pagkakasabi	how something was said
 pagkakasundo	consensus
 pagkakataon	an opportunity or occasion (pangalawang pagkakataon -> 2nd chance)
 pagkalakhán	to grow up with someone (laki)
+pagkalipas	passing, passage, having passed (also paglipas)
 pagkalito	confusion
 pagkaloobán	to be provided with/endowed with/granted something
 pagkamapanlikha	originality
@@ -2146,6 +2150,7 @@ paglaon	eventually
 paglaruán	to play (with) something; to toy/trifle with someone
 pagliban	absence
 paglikha	the act of creating / creation ; invention
+paglipas	passing, passage, having passed (also pagkalipas)
 pagmamalabis	(hyperbole)
 pagmamalupit	abuse, harsh treatment
 pagmulán	to be the source or cause of something
@@ -2571,6 +2576,7 @@ salisi	alternately, in opposite directions
 salitâ	word; language; talk
 salitain	to put into words
 salpók	collision, impact (syn of banggâ)
+saltík	crazy
 salubong	welcome, reception
 salubungin	to welcome
 salúkoy	root of kasalukúyan. root word not commonly used.
@@ -2625,6 +2631,7 @@ sayaw	dance
 saysáy	statement; value
 selos	jealousy
 sibák	chopping wood with an axe. slang for firing someone.
+sibuyas	onion
 sidlan	to fill a container
 sigaw	shout, scream, yell
 sige na	"go ahead"
