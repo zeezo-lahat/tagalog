@@ -2300,6 +2300,7 @@ pangako	promise
 pangambA	fear
 pangangalakal	scavenging
 pangangarap	dreaming
+panganib	danger, risk, crisis (this is a root)
 pangáral	sermon, serious talk, moral lecture
 pangarap	dream as in wish or hope (not sleeping dream) (root)
 pangarapin	to dream of something
@@ -2431,6 +2432,7 @@ pinagtagpo	made to meet
 pinagtatawanan	is being made fun of
 pinagtawanan	made fun of
 pinagtulungang	to collaborate
+pinakahuli	very last; very latest (as in latest news)
 pinakamadalas	most often
 pinakamagaling	the best, unequalled
 pinakamarami	the most/highest number
@@ -2688,7 +2690,7 @@ subUkan	to try; to try (taste, etc.) something
 sugAl	gambling
 sugaról	gambler
 súgat	cut, sore, wound
-sugatan	wounded person, casualty
+sugatán	wounded person, casualty
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 súka	spew, vomit
