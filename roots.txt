@@ -1141,6 +1141,9 @@ pagkamakabayan (bayan) [noun] being patriotic; being nationalistic; patriotism
 pambayan (bayan) [adjective] civic
 bayan-bayanán (bayan) [noun] village; small community
 makamámamayán (bayan) [adjective] pro-people; for the people
+bayanihan (bayani) _an [noun] mutual help; helping each other out; helping one's fellow countryman; community support; community spirit; "being a hero"; giving assistance without compensation
+kabayanihan (bayani) ka_an [noun] heroism
+mamayani (bayani) mang_ [verb] to prevail
 baybayín (baybay) _in [verb] to spell something; to spell something out; to explain something; to enumerate something
 baybáy (baybay) [noun] spelling; beach; seaside; sea shore
 magbaybáy (baybay) mag_ [verb] to spell
@@ -3204,6 +3207,11 @@ maipon (ipon) ma_ [verb] to become collected together; to become gathered togeth
 makaipon (ipon) maka_ [verb] to be able to save; to be able to collect
 makapag-ipon (ipon) makapag_ [verb] to be able to save; to be able to collect
 ipón (ipon) [adjective] gathered; collected
+pairalin (iral) pa_in [verb] to put into force; to put into effect
+iral (iral) [noun] prevalence; existence; predominance
+umiral (iral) um_ [verb] to exist; to prevail; to bind
+pagpapairal (iral) pagpapa_ [noun] application
+ipairal (iral) ipa_ [verb] to enforce something; to put something into effect
 pagkakaisá (isa) [noun] unity; alliance; harmony
 isá't-isá (isa) [phrase] each other; one another
 isá-isahín (isa) _in [verb] to do something one by one; to enumerate something
@@ -3622,6 +3630,11 @@ kolektahín (kolekta) _in [verb] to collect
 kumolekta (kolekta) _um_ [verb] to collect
 pangongolekta (kolekta) [noun] collecting
 mangolekta (kolekta) mang_ [verb] to collect
+kontra (kontra) [noun] a vote against; [adjective] negative; against; anti; con
+kumontra (kontra) _um_ [verb] to oppose
+kóntrahín (kontra) _in [verb] to oppose something
+pagkontra (kontra) pag_ [noun] opposition
+pangontra (kontra) pang_ [noun] counter; preventative; protective; for fighting against
 kontrolado (kontrol) [adjective] controlled
 kontrolín (kontrol) _in [verb] to take control of
 makontról (kontrol) ma_ [verb] to control; to be able to control
@@ -3692,6 +3705,11 @@ magkulóng (kulong) mag_ [verb] to confine; to lock someone in somewhere
 ikinulong (kulong) [adjective] jailed
 pagkakakulong (kulong) [noun] jailed; those who were jailed
 pagkakulong (kulong) being jailed
+kumpará (kumpara) [preposition] compared to; versus
+ikumpará (kumpara) i_ [verb] to compare something
+magkumpará (kumpara) mag_ [verb] to compare
+maikumpará (kumpara) mai_ [verb] to be able to compare something
+pagkukumpará (kumpara) pagCV_ [noun] comparing
 kumpleto (kumpleto) [adjective] complete
 makumpleto (kumpleto) ma_ [verb] to be complete (AF)
 kumpletuhin (kumpleto) _in [verb] to complete something; to finish something
@@ -5733,6 +5751,11 @@ magsisigáw (sigaw) magCV_ [verb] to shout out loudly
 nakasigáw (sigaw) [adjective] shouting
 makasigáw (sigaw) maka_ [verb] to be able to shout
 pagsigáw (sigaw) [noun] shouting
+sigurado (sigurado) [adjective] sure; for sure; safe; certain
+kasiguraduhan (sigurado) ka_an [noun] certainty; assurance; guarantee
+waláng kasiguraduhán (sigurado) [noun] uncertainty
+panigurado (sigurado) pang_ [noun] assurance; [adjective/adverb] assured; assuredly; surely; for sure
+sigurádong-sigurado (sigurado) [adjective] absolutely certain
 siguro (siguro) [adverb] maybe; sure; perhaps; probably
 sigurista (siguro) [noun] a perfectionist; person who is careful to make sure things go well/right
 siguruhin (siguro) _in [verb] to make sure of something; to ensure something; to be certain about something
@@ -5842,6 +5865,12 @@ pagsísinungalíng (sinungaling) [noun] lying; lies
 magsínungalíng (sinungaling) mag_ [verb] to lie
 kasinungalingan (sinungaling) [noun] lie; falsehood; falsity; deception; deceit
 pasinungalingan (sinungaling) pa_an [verb] to show something to be a lie; to show something to be untrue; to disprove; to refute
+masipag (sipag) ma_ [adjective] industrious; zealous; active; attentive; diligent; hard working
+sipag (sipag) [adjective] hard work; industriousness; zeal; diligence
+magsipag (sipag) mag_ [verb] to be industrious; to work hard
+napakasipag (sipag) napaka_ [adjective] very industrious; very hard working
+pagsisipag (sipag) pagCV_ [noun] striving; working hard
+kasipagan (sipag) ka_an [noun] hard work; industriousness
 panipol (sipol) [noun] siren; whistle
 sípol-sipol (sipol) [adjective] whistling
 sumipol (sipol) _um_ [verb] to whistle
@@ -5892,6 +5921,11 @@ ikasiyám (siyam) [adjective] ninth
 pansiyám (siyam) [adjective] ninth
 siyamnapû (siyam) [number] ninety (90)
 tig-siyám (siyam) [adjective] nine for each
+sobra (sobra) [adjective] too much; excessive; super; extreme; so; more than; [noun] excess; surplus; extra;
+masóbrahán (sobra) ma_an [verb] to have or put too much of something
+sumobra (sobra) _um_ [verb] to be too much; to do too much; to do excessively
+sóbra-sobra (sobra) [adjective] too much; excessive; extreme; [adverb] excessively
+sobrahán (sobra) _an [verb] to overdo something; to do too much of something
 subaybayán (subaybay) _an [verb] to monitor something; to track something; to keep track of something
 subaybáy (subaybay) [noun] viewer; watcher; monitoring; observing; keeping close track
 sumubaybáy (subaybay) _um_ [verb] to monitor; to watch; to observe;
@@ -7421,6 +7455,11 @@ ihiwaláy (walay) i_ [verb] to separate
 paghíhiwaláy (walay) [noun] separation; divorce; break up
 humiwaláy (walay) _um_ [verb] to separate; to separate from; to segregate oneself from
 mapahiwaláy (walay) [noun] to become separated from
+walís (walis) [noun] broom; sweeping implement
+walisán (walis) _an [verb] to sweep somewhere; to sweep the floor
+walisín (walis) _in [verb] to sweep something; to broom something
+magwalís (walis) mag_ [verb] to sweep (a floor)
+pagwawalís (walis) pagCV_ [noun] sweeping
 waló (walo) [number] eight (8)
 walumpû (walo) [adjective] eighty (80)
 tig-waló (walo) [adjective] eight for each
@@ -7450,6 +7489,12 @@ saláwikaín (wika) [noun] proverb; adage
 pangwikà (wika) [adjective] for language; related to language
 kanamin (wika) we said; * short for "wika namin"
 kanatin (wika) we said; * short for "wika natin"
+mawili (wili) ma_ [verb] to be fond of; to like
+kawíli-wili (wili) [adjective] entertaining; interesting; amusing
+nakakawili (wili) nakaka_ [adjective] entertaining
+wili (wili) [noun] fondness; enjoyment; interest in
+wíling-wili (wili) [adjective] very fond of; very interested in
+pagkawili (wili) pagka_ [noun] being fond of
 mayabang (yabang) [adjective] boastful; arrogant; haughty; braggart; show off
 pagmámayabáng (yabang) [noun] boastfulness
 yabang (yabang) [noun] boast; boasting; arrogance; smugness; over confidence
@@ -7480,6 +7525,21 @@ yáman-yaman (yaman) [adjective] very rich; very wealthy
 likás-yaman (yaman) [noun] natural treasure; natural wonder; natural riches
 napakayaman (yaman) [adjective] very rich
 pinakayaman (yaman) [adjective] richest; wealthiest
+yamot (yamot) [noun] stubble
+yamót (yamot) [adjective] irritated; annoyed; [noun] annoyance; irritation; displeasure; impatience; disgust
+nakakayamót (yamot) nakaka_ [adjective] annoying; irritating; disgusting; boring
+mayamót (yamot) ma_ [verb] to feel annoyed; to feel irritated; to feel bored
+pagkayamót (yamot) pagka_ [noun] annoyance; boredom
+yumaníg (yanig) _um_ [verb] to shake; to shock
+yaníg (yanig) [noun] tremor; shock; shaking
+yanigín (yanig) _in [verb] to cause something/someone to shake; to cause something/someone to quiver
+mayaníg (yanig) ma_ [verb] to be shaken
+pagyaníg (yanig) pag_ [noun] trembling; beating; shaking; quivering
+yapós (yapos) [noun] embrace
+yumapós (yapos) _um_ [verb] to embrace; to hug tightly
+iyapós (yapos) i_ [verb] to make a person embrace something/someone
+magyapusan (yapos) mag_an [verb] to embrace one another (reciprocal)
+pagyapós (yapos) pag_ [noun] hugging tightly; embracing
 kapangyarihan (yari) [noun] power; authority; command; control; dominion
 kayarián (yari) [noun] construction; structure
 yarí (yari) [pronoun] this
@@ -7487,6 +7547,12 @@ yarì (yari) [noun] manufacture; make
 yarî (yari) [adjective] made; made of; finished; ready-made; ready
 yumarì (yari) _um_ [verb] to manufacture; to construct
 yariin (yari) _in [verb] to manufacture; to construct
+yaya (yaya) [noun] nanny; au pair; nurse maid; invitation; invited
+yayain (yaya) _in [verb] to invite someone (to something / to do something)
+anyayahan (yaya) _an [verb] to invite someone
+magyaya (yaya) mag_ [verb] to invite; to offer
+yayà (yaya) [noun] invitation
+pagyayà (yaya) pag_ [noun] inviting
 yumukô (yuko) _um_ [verb] to bow one's head; to bend; to bend down; to bend forward; to bend over; to droop
 nakayukô (yuko) [adjective] having one's head or body bent forward; having one's head bowed in defeat
 yukô (yuko) [noun] bending down of the head or body; obeisance

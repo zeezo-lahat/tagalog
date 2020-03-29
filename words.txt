@@ -1999,6 +1999,7 @@ natunaw	melted
 natutUnan	learned, something learned
 nauunawaan	to understand
 nawawala	lost; something/someone lost
+nawá	may (expressing a wish or hope)
 nga	expresses a request; affirmation marker (maganda nga siya -> she certainly is pretty)
 ngayón lang	just now
 ngayón	now; today
@@ -2309,6 +2310,7 @@ panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
 panghabang buhay	lifelong
 panghanda	preparation for
+panginoón	the Lord; master, a person who rules or commands people or things
 pangkalahAtan	general
 pangkalakal	trade, business
 pangkariniwa	typical
@@ -2680,6 +2682,7 @@ sisi	remorse
 sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
 siyá	he, she, it, other meanings used in short phrases
+siyá nawâ	amen
 siyanga	of course, indeed
 sóbra	too much, excessive; intense
 spongklong	stupid (slang, new)
