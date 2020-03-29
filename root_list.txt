@@ -123,6 +123,7 @@ bawas
 bawi
 bayad
 bayan
+bayani
 baybay
 bayo
 benta
@@ -367,6 +368,7 @@ inom
 intindi
 ipit
 ipon
+iral
 isa
 isda
 isip
@@ -417,6 +419,7 @@ kiskis
 kita
 klase
 kolekta
+kontra
 kontrol
 kopya
 kubli
@@ -426,6 +429,7 @@ kulay
 kulit
 kulo
 kulong
+kumpara
 kumpleto
 kumusta
 kunot
@@ -679,6 +683,7 @@ saysay
 selos
 sibak
 sigaw
+sigurado
 siguro
 sikap
 sikat
@@ -696,12 +701,14 @@ sindi
 singit
 sino
 sinungaling
+sipag
 sipol
 sira
 sisi
 sisid
 siya
 siyam
+sobra
 subaybay
 subo
 subok
@@ -872,11 +879,17 @@ wagi
 wakas
 wala
 walay
+walis
 walo
 wasak
 wika
+wili
 yabang
 yakap
 yaman
+yamot
+yanig
+yapos
 yari
+yaya
 yuko
