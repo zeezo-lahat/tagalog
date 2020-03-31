@@ -180,6 +180,7 @@ bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bagamat	although
 bágay	appropriate, fitting; thing, object
 bágo	new, fresh; before, prior to, previous 
+bágo pa	before, prior to
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -407,7 +408,7 @@ dagsâ	violent forward rush
 dagtâ	sap, resin
 dahán-dahán	slowly
 dahás	force, ferocity
-dahil dito	consequently
+dahil dito	consequently, therefore, so..
 dahil	because
 dahilan	reason (noun)
 dahon	leaf
@@ -436,6 +437,7 @@ dapatwa	but, however (an "old word", dapatwa't)
 darating	will come somewhere
 dasal	prayer
 dasalan	book of prayer, place of prayer
+datapwat	however
 dáti	former(ly), previous(ly), old, ex
 datihan	used to, accustomed
 dating	arrival
@@ -474,6 +476,7 @@ di-umanó	it is said, allegedly
 di-umanó	they say
 diwang	ceremony, celebration (prefer pagdiriwang)
 diyan ka lang	stay put
+diyosa	goddess
 doon	there ("dun", "duon")
 dugô	blood
 duguan	bloody
@@ -584,7 +587,7 @@ gumasta	to spend money
 gumawa	to make, create, produce, commit, undertake
 gunitâ	memory, recollection
 guro	teacher
-gusalI	building, structure
+gusali	building, structure
 gusto pa	still want
 habà	length
 habaan	extend, lengthen
@@ -898,11 +901,12 @@ kagalakán	joy, delight
 kagAlang-gAlang	honorable, respectable/respected
 kagat	to bite
 kagatín	to bite something
-kagawaran	department (as govt., university, etc.)
+kágawarán	department (as govt., university, etc.)
 kagiliran	surroundings, environment, horizon
 kagubAtan	wilds, thick forest (masinsing kasukalan)
 kagulat-gulat	startling, amazing
 kaguluhan	melee, confusion, conflict
+kagyat	immediately, instantly; immediate; instant
 kahabaan	length, extent
 kahalagAhan	importance
 kahapon pa	since yesterday
@@ -1252,7 +1256,8 @@ langutngot	a crunching sound as when chewing something hard
 lansángan	street, road
 lantáy	pure, unadulterated
 láot	far out in the open sea
-lápat	close fitting; adjusted
+lápat	close fitting; well adjusted, exact
+lapat	fine stripes of bamboo
 lapida	gravestone
 lapit	nearness
 lapitan	to come near something
@@ -2005,7 +2010,7 @@ ngayón lang	just now
 ngayón	now; today
 nginíg	to shake, shiver, tremble
 ngiti	a smile
-ngunit	but, on the other hand
+ngunit	yet/but, on the other hand
 nilalamán	content(s) (noun, laman)
 nilito	was confused by something
 nito	ng + ito - (of) this/these
@@ -2379,6 +2384,7 @@ patagilid	sideways
 patak	drop
 pátakarán	by-laws, basic or guiding principles, policies, rules, principles, moral guidelines (root)
 patalim	any sharp cutting instrument
+patas	drawn, equal in score, neck and neck, even in race or contest; quits
 patawad	forgiveness, apology
 patawArin	forgive
 patáy	dead
@@ -2545,6 +2551,7 @@ sabík	eager, keen, yearning
 sabit	hanging; snagging, being caught
 sabog	explosion, scattering
 sabón	soap
+sabungan	cockpit (cockfighting gallery)
 sadyâ	purpose, aim; intended
 sagabal	hindrance, obstacle
 saganà	labis-labis ang dami	
@@ -2609,6 +2616,7 @@ sanglinikha	universe, all creatures
 sanhi ng	caused by
 sanhi	cause, motive, reason
 sapa	small stream, brook
+sapagkAt	because, since
 sapak	hit, punch, smack, beat
 sápit	arrival
 sapok	a hit, punch
