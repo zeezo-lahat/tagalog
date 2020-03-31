@@ -1,12 +1,11 @@
-#alias tgw='cat roots.txt words.txt | tgrep.py'
-#alias tga='cat *.txt | tgrep.py'
+#!/bin/bash
+#
 alias broot='cat roots.txt | fgrep'
 alias listroots='sed "s/[^(]* (//" roots.txt | sed "s/).*//"| sort | uniq'
 alias root_school='while :; do r=$(sort -R root_list.txt | head -1); cat words.txt | tgrep.py ^$r\\t; root $r ; read; done'
-
 #export PATH=./util:$PATH
-
 root ()
+
 {
   cat roots.txt | fgrep \($1\) | sort
 }
