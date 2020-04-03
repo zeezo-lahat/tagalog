@@ -177,7 +177,7 @@ bagà	lung
 bagahe	baggage, luggage
 bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
-bagamat	although
+bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
 bágo	new, fresh; before, prior to, previous 
 bágo pa	before, prior to
@@ -893,6 +893,7 @@ kabulagan	state of blindness
 kabutIhan	goodness
 kabuuAn	composition, entirety
 kadalAsan	frequently, usually
+kadangya	a person who is well off or has more than others
 kadena	a chain
 kadugo	a blood relative
 kagabí	last night
@@ -2919,6 +2920,8 @@ tugis	pursuit, chase
 tugtog	playing of a musical instrument
 tuhog	strings of beads, jewels, etc.; stringing things together
 tuhog	strung together (beads, etc.), pierced together with a skewer
+tuklás	discovery; discovered, found
+tuklasín	to discover or detect something
 túkod	support, prop
 tukoy	experienced; accurate in shooting (marksmanship)
 tukoy	mention, reference, specification
@@ -2957,6 +2960,7 @@ tumilî	shrieked, screeched
 tumingkad	to become brighter/clearer (as colors)
 tumok	kakitkitan; kalaguan ng mga damong tumutubo
 tumpak	correct, right (tama)
+tumuklás	to discover; to detect
 tumungo ka	bow your head
 tumungó	to bow one’s head in submissiveness
 tumungo	to go to
