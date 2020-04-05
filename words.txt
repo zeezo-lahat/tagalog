@@ -280,6 +280,7 @@ bayáan	let, allow
 bayad	pay, payment
 bayan	town, country, "home"
 bayani	hero, person who offers free service in a cooperative endeavor
+bayarín	bills, bill; payable
 baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
 bayong	a large bag; bag or sack made of woven palm leaves
@@ -1122,6 +1123,7 @@ kawáy	waving of the hand
 káya	ability, competence; able, is able
 kayâ	perhaps, maybe; that's why, therefore
 kaysá	than, rather than
+kayumanggi	brown
 keso	cheese
 kíkilanlín	will recognize/acknowledge
 kilala	to know, recognize a person; known, famous
@@ -1149,7 +1151,7 @@ kítang-kíta	very easily seen; obvious
 klase	case, type, category
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
-kuha	act of taking/getting; engagement, hiring of someone to work; meal (to visitors)
+kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
 kukunin	will take/get
 kúlang	deficient, lacking, inadequate
 kulay	color
@@ -1273,7 +1275,7 @@ lata	can; tin; a container, box, etc. made of tin
 lawa	bulging, sticking or protruding out
 lawa	a pond
 lawak	expanse, extent, area
-lawig	long duration (less commonly used than tagal)
+lawig	a length of time; a long duration (less commonly used than tagal)
 lawin	hawk
 lawit	suspended, hanging
 layà	freedom, liberty
@@ -1327,6 +1329,7 @@ lubos	complete, exhaustive, entire, unmitigated, quite
 lugI	financial loss
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luksA	in mourning, in black
+lukso	jump, leap, spring
 lumà	old, not new, antiquated (used for objects, not like matanda)
 lumabág	to violate (eg, the law)
 lumabas	come out, emerge, be found to be, appear; brought out
@@ -2166,6 +2169,7 @@ pagmultahin	to make someone pay a fine
 pagnanakaw	burglary, stealing, larceny
 págod	exhaustion
 pagód	tired
+pagpanaw	sudden disappearance, departure, death
 pagpapahalaga	importance, regard, appreciation, regard
 pagpapalaya	liberation
 pagpapaliban	postponement
@@ -2297,7 +2301,7 @@ pananong	question mark
 panátag	calm, tranquil; undisturbed, grounded, sturdy, steady, reliable, secure
 panatilIhin	to maintain
 panauhin	a guest
-panaw	sudden disappearance, departure
+panaw	sudden disappearance, departure, death (also pagpanaw)
 panawan	to abandon; be deprived of
 pandaraya	act of cheating
 pandikit	paste, glue
@@ -2756,6 +2760,8 @@ taál	native, original
 taás	height
 tabâ	fat
 tabí	side
+tabla	a board (thin piece of wood), timber, logs
+tabla	even, neck and neck as in a race, draw (in a match, etc.)
 tabo	a dipper, scoop, usually a coconut shell or an empty can magtabo', tumabo', tabuin
 tadtád	chop finely, mince
 tadtád	cover with (overwhelm)
