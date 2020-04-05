@@ -131,6 +131,7 @@ ano man	whatever
 antála	delay
 antás	step, degree, grade
 antasín	to classify, grade (not commonly used)
+antipatiko	displeasing, disagreeable, unfriendly
 anu-ano	this and that; other (plural)
 anuman	whatever, anything (ano + man)
 anyô	form, appearance, figure
@@ -459,6 +460,7 @@ digmaan	the act of warring
 digmain	to wage war on
 diin	emphasizing, stressing, pressing, insisting
 dí-kailangan	not needed, unnecessary
+dí-kapaní-paniwalà	unbelievable; fishy, doubtful
 dikit	stick, adhere, paste
 dikitán	to attach, stick
 dilà	tongue
@@ -837,6 +839,7 @@ isip	mind, intellect, thought, judgment
 isipan	the mind
 isipin	to think about
 isugod	to rush someone/thing, as to the hospital
+isuko	to surrender something
 isulong	to advance/further something
 isumbong	to inform someone about what a person did
 isumite	to submit
@@ -1149,6 +1152,7 @@ kita	income
 kita	seeing
 kítang-kíta	very easily seen; obvious
 klase	case, type, category
+konsiyénsiyá	conscience
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
@@ -1687,6 +1691,7 @@ mangisdâ	to fish
 manglamang	advantage over others (noun)
 mangulila	to yearn (as like an orphan)
 mangulo	to head, preside
+mang-uyam	to be sarcastic; to be mocking
 mangyari	to happen, take place
 manhid	numbness; torpor, torpid condition
 maniwala	to believe, trust (tiwala)
@@ -1703,6 +1708,7 @@ mapagkunwarI	hypocrite
 mapagpakumbaba	humble
 mapagpakumbabâ	humble, modest (also pakumbabâ)
 mapagpapalit	interchangeable
+mapagsabihan	to be informed
 mapag-usApan	to discuss, to settle matters, to be talked about
 mapaguusapan	hopeful collective focus/attention(?)
 mapahiya	to lose face, to be put to shame
@@ -1825,6 +1831,7 @@ minsanan	a one-time thing
 miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
+morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
 mulî	again
@@ -1915,6 +1922,7 @@ nakatikim	to have tasted/tried something
 nakatungo	with head bent down
 nakatutulong	helpful
 nakauuhaw	causing thirst
+nakauuyám	cynical, sarcastic
 nakaw	stolen item
 nakilala	met
 naku po	oh, dear (nakupo, nakupu)
@@ -2716,7 +2724,7 @@ sukat	size, measurement
 sukAtin	measure
 sukdUlan	utmost
 suklay	comb
-sukò	surrender
+sukò	to give up, surrender
 sulat	writing, letter
 sulit	worth it, a good deal; a test
 suló	binti ng hayop; pagkasilaw; baluktot
@@ -2999,6 +3007,7 @@ tuwáng	supported on both sides
 tuwáng-tuwáng	in pairs
 tuwíd	straight, erect, direct
 ubó	cough
+ugalì	attitude, behavior, disposition, nature, character, manners, mannerism, habit
 ugnay	connection, relation, relevance
 ugnayan	connection, links, interdependence
 ugnayin	to connect
@@ -3059,6 +3068,7 @@ utas	completely finished, dead; completely obsessed with
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
+uyam	mocking; jeering; sarcasm
 wala sa kanyang sarili	absent-minded, not being oneself
 walâ	none, not there, absent, contrary to.. (slang: waley, nawaley)
 walang anu-ano	unexpectedly
