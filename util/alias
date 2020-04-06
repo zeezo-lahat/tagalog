@@ -58,3 +58,66 @@ hroot ()
     read
   done
 }
+_dt="/home/brogan/tagalog"
+alias grep-mag-verbs="grep ').*nag.*nag.*mag' $_dt/verbs_samut-samot.txt"
+alias grep-ma-verbs="grep ').* na.* na.* ma' $_dt/verbs_samut-samot.txt | grep -v ').*nag.*nag.*mag'" 
+alias grep-um-verbs="grep ').*um.*um.*um' $_dt/verbs_samut-samot.txt"
+alias grep-in-verbs="grep ').*in.*in.*in$' $_dt/verbs_samut-samot.txt"
+alias grep-an-verbs="grep '^[a-z]*an .*in.*in.*an$' $_dt/verbs_samut-samot.txt"
+alias grep-i-verbs="grep ^i $_dt/verbs_samut-samot.txt | grep -v '[ai]n *$' | grep ' i[a-z]* *$'"
+alias grep-pa-an-verbs="grep ' pa[^ g][^ ]*an$' $_dt/verbs_samut-samot.txt"
+alias grep-pag-an-verbs="grep ' pag[^ ][^ ]*an$' $_dt/verbs_samut-samot.txt"
+alias grep-pa-in-verbs="grep ' pin.* pa[^ ][^ ]*in[^a-z]' $_dt/verbs_samut-samot.txt"
+alias grep-pag-in-verbs="grep ' pag[^ ][^ ]*in$' $_dt/verbs_samut-samot.txt"
+alias gb1="grep -B 1"
+alias ga1="grep -A 1"
+pinoydict ()
+{
+	lynx -dump https://tagalog.pinoydictionary.com/word/$1/ | 
+		sed '1,/Meaning of/d' | 
+		sed '/^  *Tagalog$/d' | 
+		sed '/Pinoy Dict/,$d' | 
+		grep [a-z]
+}
+pd ()
+{
+    if [ -e $1.pd ]; then
+	less -i $1.pd
+    elif pinoydict $1 > $1.pd; then
+	less -i $1.pd
+    else
+	rm $1.pd
+    fi
+}
+getlang () 
+{ 
+    lynx -dump https://www.tagaloglang.com/$1/ | sed '1,/INS: :INS/d' | sed '/INS: :INS/,$d' | sed '/implemented/d' | sed 's/\[7.\]//' | sed 's/\[7.\]//g'
+}
+tl ()
+{
+    #[ -e $1.tl ] || getlang $1 > $1.tl
+    [ -e $1.tl ] || return
+    if grep -q 'Search This Site' $1.tl; then
+      rm $1.tl
+    else
+      less -i $1.tl
+    fi
+}
+gettd () 
+{ 
+    lynx -dump https://www.tagalog-dictionary.com/search?word=$1 | \
+    sed '1,/INS: :INS/d' | \
+    sed '/INS: :INS/,$d' | \
+    sed '/Tagalog-Dictionary.com/d' | \
+    sed '/\(Submit\)/d' | \
+    sed '/Improve your Filipino vocabulary/d'
+}
+td ()
+{
+    [ -e $1.td ] || gettd $1 > $1.td
+    if grep -q 'No exact match found' $1.td; then
+      rm $1.td
+    else
+      less -i $1.td
+    fi
+}
