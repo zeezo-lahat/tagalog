@@ -1510,6 +1510,11 @@ bungad (bungad) [noun] began; front; beginning
 ibungad (bungad) i_ [verb] to put in front
 pambungad (bungad) [noun] introduction; preface
 pinakabungad (bungad) [adjective] very front; very beginning
+bumunggô (bunggo) [verb] to bump against
+bungguan (bunggo) [noun] collision
+bungguín (bunggo) [verb] to collide with
+bunggô (bunggo) [noun] collision; impact
+nakabunggô (bunggo) [adjective] collided
 bumunot (bunot) _um_ [verb] to pull up; to uproot
 bunot (bunot) [noun] pulling out; drawing
 bunutan (bunot) _an [verb] to pull out; to pull up; to draw out
@@ -3390,6 +3395,8 @@ pagkain (kain) [noun] food; the act of eating
 pagpapakain (kain) [noun] feeding
 pakain (kain) [noun] rations
 pakainin (kain) pa_in [verb] to feed someone; to allow others to eat; * focus on the one eating
+ipagkaít (kait) [verb] to withhold
+kaít (kait) [noun] refusal; denial; concealment
 kalap (kalap) [noun] campaigning; lumber
 kalapin (kalap) _in [verb] to recruit something/someone
 kumalap (kalap) _um_ [verb] to recruit
@@ -3969,7 +3976,6 @@ palalâ (lala) [adjective] getting worse
 batang lalaki (lalaki) [noun] boy
 binalakí (lalaki) [noun] lesbian
 kabataan ng lalaki (lalaki) [noun] boyhood
-kabataan ng lalaki (lalaki) [noun] boyhood
 kalalakihan (lalaki) [noun] gentlemen; group of males; manhood
 kinalalakinan (lalaki) [noun] penis
 lalaki (lalaki) [noun] man; male person; guy
@@ -3991,6 +3997,9 @@ malamán (laman) [adjective] fleshy; solid and nourishing; expressive
 nilálamán (laman) [noun] contents (e.g., of a manuscript); context
 palamán (laman) [noun] stuffing; filling
 waláng lamán (laman) [adjective] empty; having no contents
+lumamáng (lamang) [verb] to outdo
+malamáng (lamang) [adverb] likely; most likely; probably; most probably; apt
+nakalalamang (lamang) [adjective] superior; coming in first; ranking first
 lamíg (lamig) [noun] coldness; cold
 lamíg-lamíg (lamig) [adjective] very cold
 lumamíg (lamig) _um_ [verb] to cool; to become cold
@@ -4112,7 +4121,6 @@ maglatag (latag) mag_ [verb] to spread; to spread out; to lay out
 nakalatag (latag) [adjective] spread out
 paglalatag (latag) [noun] spreading
 ilathalà (lathala) i_ [verb] to publish something
-lathalaín (lathala) [noun] feature; article;
 lathalaín (lathala) [noun] feature; article;
 lathalà (lathala) [noun] announcement
 maglathalà (lathala) mag_ [verb] to publish; to feature an article

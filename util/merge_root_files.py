@@ -16,7 +16,6 @@ for _line in re.split(r'\r*\n', _dat):
         if not _m.group() in roots:
              roots.add(_m.group())
     
-print('got', len(roots), 'roots')
 
 for _r in sorted(roots):
     _r = re.sub(r'\(', '\(', _r) # escape leading '('

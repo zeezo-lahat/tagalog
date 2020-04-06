@@ -19,10 +19,10 @@ rm tmp/* 2>/dev/null
 
 sed "s/[^(]* (//" roots.txt | sed "s/).*//"| sort | uniq > root_list.txt
 lynx -dump https://www.tagaloglessons.com/dictionary/roots.php > roots_latest.txt
-sed -i.bar '1,/common roots below/d; /Root count/,$d; s/\[[0-9]*\]//g; s/^ *//' roots_latest.txt
+sed -i '1,/common roots below/d; /Root count/,$d; s/\[[0-9]*\]//g; s/^ *//' roots_latest.txt
 for f in $(<roots_latest.txt); do grep -q "^$f$" root_list.txt || echo $f; done > need.txt
 for f in $(<need.txt); do echo $f; lynx -dump "https://www.tagaloglessons.com/dictionary/root.php?root=$f&back=Roots" >tmp/$f.txt; done
 for f in tmp/*.txt; do ./util/parse_roots.py $f; done >more_roots.txt
-./util/merge_root_files.py roots.txt more_roots.txt >_r00ts
+./util/merge_root_files.py roots.txt more_roots.txt | uniq >_r00ts
 mv _r00ts roots.txt
 rm need.txt more_roots.txt tmp/* 2>/dev/null
