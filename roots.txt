@@ -768,7 +768,7 @@ bahagi (bahagi) [noun] part; part of; portion; share; segment; detail; element; 
 bahágimbilang (bahagi) [noun] fraction; ratio; incomplete number (math)
 bumahagì (bahagi) _um_ [verb] to participate; to partake
 ibahagi (bahagi) i_ [verb] to share something; to distribute something
-ipamahagì (bahagi) ipang_ [verb] to distribute something; to have something passed out/around; to have something shared
+ipamahagì (bahagi) ipa_ [verb] to distribute something; to have something passed out/around; to have something shared
 kabahagì (bahagi) [noun] portion; part; co-owner
 magbahagì (bahagi) mag_ [verb] to apportion
 maibahagi (bahagi) mai_ [verb] to be able to share something
@@ -2170,7 +2170,7 @@ galáw (galaw) [noun] movement; move; gesture
 gumaláw (galaw) _um_ [verb] to move
 igaláw (galaw) i_ [verb] to move something
 maigaláw (galaw) mai_ [verb] to be able to budge; to be able to move
-makagaláw (galaw) [noun] to move; to be able to move
+makagaláw (galaw) maka_ [verb] to move; to be able to move
 pagalawín (galaw) pa_in [verb] to move; to cause to move
 paggaláw (galaw) [noun] activity; movement
 galing (galing) [adjective] from; coming from
@@ -3808,7 +3808,7 @@ maglabasan (labas) mag_an [verb] to come out all together; to come out in a grou
 maglabás (labas) mag_ [verb] to bring out; to take out; to put out
 magpalabás (labas) magpa_ [verb] to allow out; to let out
 mailabás (labas) mai_ [verb] to be able to release; to be able to put something outside; to be able to draw out
-maipalabás (labas) mai_ [verb] to have something come out; to be able to show a film
+maipalabás (labas) maipa_ [verb] to have something come out; to be able to show a film
 makalabás (labas) maka_ [verb] to be able to go out; to be able to sneak out; to leak; to leak news
 nakalabás (labas) [adjective] outside; being out/outside
 paglabás (labas) [noun] exit; release; appearance; appear; upon exiting
@@ -5452,7 +5452,7 @@ kasakáy (sakay) [noun] fellow passenger
 magsakáy (sakay) mag_ [verb] to take on passengers; to load on passengers; to take passengers on a ride
 makasakáy (sakay) maka_ [verb] to be able to ride on a vehicle
 makisakáy (sakay) maki_ [verb] to ride together
-masakyán (sakay) _an [verb] to be able to ride; to get/understand something (slang/informal)
+masakyán (sakay) ma_an [verb] to be able to ride; to get/understand something (slang/informal)
 nakasakáy (sakay) [adjective] riding
 pagsakáy (sakay) [noun] boarding; loading; riding
 pasakáy (sakay) [adverb] by riding (animal or vehicle); [request] can I ride
@@ -5804,6 +5804,8 @@ pasigáw (sigaw) [adverb] loudly
 sigawán (sigaw) _an [verb] to shout to / at someone; to yell at someone
 sigáw (sigaw) [noun] shout; howl; yell; forced confession; cry out
 sumigáw (sigaw) _um_ [verb] to shout; to scream
+masiglá (sigla) [adjective] enthusiastic; ardent; active; agile; energetic
+siglá (sigla) [noun] vitality; liveliness; energy; ardor; enthusiasm
 kasiguraduhan (sigurado) ka_an [noun] certainty; assurance; guarantee
 panigurado (sigurado) pang_ [noun] assurance; [adjective/adverb] assured; assuredly; surely; for sure
 sigurado (sigurado) [adjective] sure; for sure; safe; certain
@@ -6509,7 +6511,7 @@ tanggál (tanggal) [adjective] unfastened; removed; detached; dismissed from emp
 dí-pagkatanggáp (tanggap) [noun] exclusion; rejection
 katanggáp-tanggáp (tanggap) [adjective] acceptable
 makatanggáp (tanggap) maka_ [verb] to receive; to be able to receive
-matanggáp (tanggap) [verb] to accept something (OF); to receive something (OF); to be accepted (AF); to be able to accept (AF); to be able to receive (AF)
+matanggáp (tanggap) ma_ [verb] to accept something (OF); to receive something (OF); to be accepted (AF); to be able to accept (AF); to be able to receive (AF)
 pagtanggáp (tanggap) [noun] receipt; acceptance; welcome; admission of fault; reception; acknowledgement
 pagtatanggáp (tanggap) [noun] receiving
 tanggapan (tanggap) [noun] office; agency
