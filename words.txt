@@ -417,6 +417,8 @@ dahon	leaf
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
+dalaga	a young/single woman; teenage girl; unmarried woman
+dalagita	teenage female, preteen girl
 dalás	frequency
 dálaw	visit; guest
 dalawin	to visit someone/something
@@ -662,6 +664,7 @@ higít	more (than), over
 higpít	tightness; strictness, severity
 hila	pull
 hilahin	to pull
+hilaw	uncooked, raw; green; unripe
 hilì	envy
 hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
 hiling	a request, claim, application
@@ -1099,6 +1102,7 @@ katibayan	proof
 katigasan	hardness, firmness, stiffness, inflexibility, determination
 katiwalian	irregularity, corruption
 katók	knock
+katol	mosquito coil (a coil used to kill mosquitos.  this is a brand name.)
 katotohanan	the truth
 katúlad	like, similar
 katulong	a helper, aid, attendant
@@ -2318,6 +2322,7 @@ pandiriwang	ceremonial, celebratory (adj)
 pandurUkot	pickpocketing
 pangako	promise
 pangambA	fear
+panganay	first-born child; first-born (adj)
 pangangalakal	scavenging
 pangangarap	dreaming
 panganib	danger, risk, crisis (this is a root)
@@ -2697,6 +2702,7 @@ sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sinungaling	liar; lie
 sípag	diligence, hard work
+sipón	a cold
 sipot	arrival
 sirà	break, damage, ruin (milder than wasak)
 sirâ	broken

@@ -222,7 +222,7 @@ magsi-	pluralized -um- with several people doing act (actor)
 magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
 magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
-mai-	abilitative of i- (?) <ang> from <ng> to <sa>
+mai-	abilitative of i- (?) <ang> from <ng> to <sa> (object)
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	MalakI and naitulong mo sa akin.  |  You have helped me a lot.
 maipa-	abilitative of ipa- (causative)
@@ -254,6 +254,7 @@ maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -
 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
 makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag- 
 	makipag-usap  |  to initiate a chat with someone
+	makipag-away, makipag-laban - to fight, quarrel with someone
 makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
 mala-	for adj. equivalent to semi-, half, etc.
 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)

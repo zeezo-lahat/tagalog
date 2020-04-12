@@ -29,7 +29,8 @@ grepping for "to be able to" in roots.txt:
       1 maipagma_
       1 magka_
 
-note that "can" is stated as "will be able to" (future aspect) rather than "am/is able to"
+note: "can" is typically stated as "will be able to" (future aspect) rather than "am/is able to"
+note: often vague differentiation between "is" and "can", esp wrt "ma"
 
 Nakakain ka na ba?	Have you eaten yet? / Have you been able to eat yet?
 
