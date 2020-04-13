@@ -7195,6 +7195,10 @@ tumupád (tupad) _um_ [verb] to fulfill; to accomplish; to consummate
 tuparín (tupad) _in [verb] to fulfill something; to accomplish something
 tupdín (tupad) _in [verb] to fulfill; to obey an order
 tupád (tupad) [noun] fulfilment of a duty, promise, etc.; compliance; observance
+ituring (turing) [verb] to treat someone/something; to consider someone/something (in some way)
+maituring (turing) [verb] to be able to treat something as; to be able to consider something as
+panuring (turing) [grammar] modifier
+turing (turing) [noun] name; the way one treats or considers another; [grammar] modifier;
 hintuturò (turo) [noun] index finger; pointer finger
 ipaturò (turo) ipa_ [verb] to have something taught; to ask someone to point at something
 iturò (turo) i_ [verb] to teach something (OF); to point at something (LF); to point out something (LF); to show something (LF); * focus on the thing being taught or pointed to/at
