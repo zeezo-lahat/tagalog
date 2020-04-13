@@ -95,8 +95,8 @@ getlang ()
 }
 tl ()
 {
-    #[ -e $1.tl ] || getlang $1 > $1.tl
-    [ -e $1.tl ] || return
+    [ -e $1.tl ] || getlang $1 > $1.tl
+    #[ -e $1.tl ] || return
     if grep -q 'Search This Site' $1.tl; then
       rm $1.tl
     else

@@ -1,0 +1,67 @@
+_______________________________________________________________________________________________________
+* to employ an agent to do something: "pa"
+
+  - typically "ipa", "magpa".  occasionally "pa_in", "pa_an". others less frequently
+
+Magkano ang ginastos mo para ipagawâ ang kotse mo?	How much did you spend to have your car repaired?
+Gusto kong magpakulot.	I want to have my hair curled.
+_______________________________________________________________________________________________________
+* to be able to ....:  "ma.." - "maka", "mai", "ma" +
+
+grepping for "to be able to" in roots.txt:
+    105 maka_
+     62 ma_
+     53 mai_
+     36 makapag_
+     33 ma_an
+     12 mapa_
+      5 maipa_
+      2 maipagpa_
+      2 maipag_
+      1 mapang_an
+      1 mapa_an
+      1 makipag_an
+      1 makapang_
+      1 makapagpa_
+      1 maisaka_an
+      1 maisa_
+      1 maipang_
+      1 maipagma_
+      1 magka_
+
+note: "can" is typically stated as "will be able to" (future aspect) rather than "am/is able to"
+note: often vague differentiation between "is" and "can", esp wrt "ma"
+
+Nakakain ka na ba?	Have you eaten yet? / Have you been able to eat yet?
+
+Makákapagtrabaho akó nang maayos kung tátahimik ka.	I will be able to work well if you shut up.
+
+Nabanggít nga pala ni Alice na bakâ hindî siyá makapuntá sa kasál mo.	By the way, Alice mentioned that she may not be able to go to your wedding.
+
+Bilisán natin at bakâ maabutan pa natin ang bus.	Let's move faster as we might still be able to catch the bus.
+
+Gustó niyáng maratíng ang tuktók ng Mt. Fuji.	He wants to be able to reach the top of Mt. Fuji.
+
+Hindî akó nakapagtrabaho nang walóng oras ngayóng araw.	I wasn't able to work eight hours today.
+
+Hulí na nang naréalize kong hindî akó nakapagbayad.	It was too late when I realized I was not able to pay.
+
+Huwág kang uutang kung hindî mo kayang bayaran.	Don't borrow money if you won't be able to pay it back.
+
+Kakayanin mo bang mag-aral at magtrabaho nang sabáy?	Would you be able to manage studying and working at the same time?
+
+Kanina pa akó kumákatók pero hindî ka makariníg.	I've been knocking at the door for a while now but you're unable to hear it.
+
+Mabuti namán at nakauwî ka nang maaga.	It's good that you were able to get home early.
+
+Naiwasan ni James na magbayad ng multá.	James was able to avoid paying a fine.
+
+Nakákapagtrabaho pa ba si Mikey sa lagáy niyá ngayón?	Is Mikey still able to work in his current condition?
+
+Nakákatawa na si Erich nang bisitahin ko kagabí.	Erich was already able to laugh when I visited her last night.
+
+Namámataán mo pa ba ang ambulánsiyá?	Are you still able to see the ambulance?
+
+Nasásagót mo ba ang lahát ng email ni Elaine?	Are you able to reply to all of Elaine's emails?
+
+Natátandaán mo pa ba?	Are you still able to remember? / Do you remember?
