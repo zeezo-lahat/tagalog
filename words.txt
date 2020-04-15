@@ -783,7 +783,7 @@ ilayo	bring/take <ang> far away
 iliban	to procrastinate, delay, put off
 ilibing	to bury
 ilihim	to hide, keep secret
-ilipat	to move something
+ilipat	to move/transfer something
 ilong	nose
 imbes na	instead of (sa halip na)
 ina	mother
@@ -1325,7 +1325,7 @@ linis	cleanliness, neatness, pureness
 linisin	to clean
 lipad	flight
 lipas	past, outdated, past its prime, passé
-lipat	transfer, move to another place (i-; mag-)
+lipat	transfer, move to another place, relocate
 lipunan	society in general; group gathered for conversation
 litó	confused
 litong-lito	 very confused.
