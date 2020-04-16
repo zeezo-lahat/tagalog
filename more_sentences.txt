@@ -48,6 +48,7 @@ Ang mga ibon ay pula.	The birds are red.
 Ang mga katinig ang pag-áaralan namin bukas. 	The consonant are what we will be studying tomorrow.
 Ang mga lamók ang nagdádalá ng dengue virus.	Mosquitoes are the carriers of the dengue virus.
 Ang mga magulang mo ang unang makákatanggáp ng mga pagkukulang mo. 	Your parents are the first ones who will accept you for your shortcomings.
+Ang tatay at kapatid ko ay parehong mahilig sa pagsusugal.	Both my father and my brother like gambling.
 Ang yaman-yaman mo na, hindî ka pa rin nakúkuntento? 	You are already so rich, you're still not contented?
 Anó ang biníbilí ni George kapág pumúpuntá siyá sa Hong Kong? 	What does George buy whenever he goes to Hong Kong?
 Anó ang biníbilí ni Jane sa mall?	What is Jane buying at the mall?
@@ -474,6 +475,7 @@ Handa na ba tayo?	Are we prepared?
 Handa na kami.	We're ready.
 Handa na tayo.	We're ready.
 Hanggang sa tuhod siya nang isnow.	He was knee-deep in snow.
+Hawakan ang bola nang parehong kamay.	Hold the ball in both hands.
 Híhilingín natin ang mga pagbabago sa kompanyá.	We'll ask for changes in the company.
 Híhilingín ng grupo sa mga kandidato ang mapayapáng halalan.	The group will ask the candidates for a peaceful election.
 Híhintayín ba kitá?	Should I wait for you?
@@ -566,6 +568,7 @@ Hindi na ako maniniwala pa sa iba.	I can't believe anyone anymore.
 Hindi na ako nene.	I'm not a girl anymore.
 Hindi na ako pagod.	I am no longer tired.
 Hindî na ba kitá híhintayín?	Shouldn't I wait for you anymore?
+Hindî na kamí nagkakáisá tungo sa parehong layunin. 	We are no longer uniting towards a common goal.
 Hindî na magtátagál ang buhay ng lola kong may sakít. 	My sick grandma does not have much time left to live.
 Hindi na mauulit.	I will not do it again.
 Hindî na nagkakasya sa akin ang mga pantalón ko.	My pants don't fit me anymore!
@@ -1167,6 +1170,7 @@ Mamimilì akó ng mga kandidatong iboboto ko.	I will be choosing the candidates 
 Mamimiss kitá kapág umalís ka.	I'll miss you when you leave.
 Ma-miss mo na ang lahát, huwág lang ang ex mo. 	Miss everyone, just not your ex.
 Mamumunò akó nang may integridád kapág nanalo akó sa halalan. 	I will lead with integrity if I win the elections.
+Manalo matalo, pareho lang sa amin.	Win or lose, it's all the same to us.
 Manatili ka sa loob.	Stay inside.
 Manganganib ka kung manlálabán ka. 	You will be in danger if you will fight back.
 Mangestorbo ba kung managarilyo ako?	Do you mind if I smoke?
@@ -1322,6 +1326,7 @@ Nagtagpo ang mga mata nila.	Their eyes met.
 Nagtaká akó kung bakit siyá umalís kaagád.	It made me wonder why she left immediately.
 Nagtakbuhan silá nang kumilos ang inakalà niláng patáy. 	They all ran when the one they presumed as dead moved.
 Nagtamó ka ba ng mataás na marká?	Did you receive a high grade?
+Nagtapós sa parehong taón ang magkakaibigan.	The friends graduated in the same year.
 Nagtátagál lang ng mga sampúng minutong mainit ang pagkain. 	The food only stays warm for about ten minutes.
 Nagtátagál si Alice ng mga tatlóng buwán sa America kapág pumúpuntá siyá doón. 	Alice stays for about three months in America when she goes there.
 Nagtatagò ang pusà sa ilalim ng kama.	The cat is hiding under the bed.
@@ -1338,6 +1343,7 @@ Naguló ng batà ang mga gamit ni Daisy.	The child messed up Daisy's things.
 Nagustuhán mo ba ang inihain nilá?	Did you like what they served?
 Nagwagî siyá ng Emmy para sa pagganáp sa karaktér ng killer na si Andrew Cunanan sa "American Crime Story."	He won an Emmy for his performance of the kill Andrew Cunanan in "American Crime Story."
 Nagyáyabáng ba siyá? 	Is he bragging?
+Naharáp din si Chico sa parehong problema.	Chico also faced similar problem.
 Nahirapan kamí nang una naming ginanáp ang kumperénsiyá.	We had a hard time when we first held the conference.
 Nahuli nilá ang nagnakaw ng bag ni Wendy. 	They caught the one who stole Wendy's bag.
 Naíibá ngâ ba ang Pilipino sa Tagalog? 	Is Filipino really/actually different from Tagalog?
@@ -1440,6 +1446,7 @@ Napatulog ako nang klase.	I fell asleep in class.
 Napatunayan ba ni Fernan ang katapatan niyá? 	Did Fernan prove his loyalty?
 Napilitan ka lang ba?	Did you just feel obliged (to do something)?
 Napípilitan lang akóng sumama sa kanilá kasí nakákahiyâ kung hindî. 	I have no choice but to join them because it would be embarrassing if I won't.
+Napunta ako sa parehong eskuwela ni Kenji.	I go to the same school as Kenji.
 Naputol ang kable ng telépono dahil sa bagyó.	The telephone cable snapped because of the typhoon.
 Naputol ang usapan namin nang dumatíng si Jim.	Our conversation got interrupted when Jim arrived.
 Narindi siya sa mga balita.	He was agitated by the news.
@@ -1540,6 +1547,9 @@ Papúpuntahín ka ba ng asawa mo dito nang hindî siyá kasama? 	Would your husb
 Parang buhay pa siya.	It seems he's still alive.
 Parang ibon kung kumain si Tom.	Tom eats like a bird.
 Pareho pa rin ang sitwasyon.	The situation remains unchanged.
+Parehong kakandidato siná Miguel at Alejandro. 	Michael and Alejandro will both run for office.
+Parehong kasabay na pinakaantigo at pinakamodernong agham ang astronomiya.	Astronomy is at the same time the most ancient and the most modern science.
+Parehong oras silang dumating sa Paris.	They arrived in Paris at the same time.
 Pasénsiya na. Hindî kitá nakilala agád.	Sorry. I did not recognize you right away.
 Paskó na. 	It's Christmas now.
 Pasok sa kotse.	Get into the car.
