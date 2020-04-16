@@ -247,7 +247,7 @@ barako	strong like the coffee from Batangas
 barilan	gun battle
 barkada	group of friends, clique, gang
 barkó	a ship
-barya	change, loose money
+baryá	change, loose money
 baryo	barrio
 bása	to read / reading
 basâ	wet (adj.)
@@ -325,6 +325,7 @@ birò mo	can you imagine..?
 bisà	power, force, effect, strength
 bisi	busy
 bistado	obvious, exposed
+bisyo	vice; bad/evil habit or tendency
 bitak	cleft (usually in fruit or wood); chink, narrow opening, narrow split
 bitaw	releasing one's hold on something; letting fighting cocks loose to face each other
 bitawan	unloosen; let go the hold on something; let words slip out
@@ -366,6 +367,7 @@ bulilít	tiny, drawfish; smallest/youngest person
 búlo	the hairy covering of some fruit
 bulók	rotten, corrupt
 bulóng	murmur, whisper; a magical incantation
+bulsá	pocket
 bulusok	sinking with the feet into soft mud; swishing sound; swift plunge downward by airplane
 bumaba	to go lower
 bumagsak	to fail
@@ -414,6 +416,7 @@ dahil dito	consequently, therefore, so..
 dahil	because
 dahilan	reason (noun)
 dahon	leaf
+daigdig	the world, the earth
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -669,7 +672,9 @@ hilaw	uncooked, raw; green; unripe
 hilì	envy
 hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
 hiling	a request, claim, application
+hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nightfall
 himalâ	miracle
+himatay	faint, swoon
 hímig	tune, melody; note
 hinaan	to lower the volume
 hinalà	suspicion
@@ -1409,10 +1414,10 @@ mabilis	fast, quick
 mabilis	rapidly
 mabundol	to ram with something large and long
 mabúti	fine, good, advisable, wholesome, good in character, in good condition; better
-mabúti	well, with effort, vigorously, heartily
+mabúti	carefully, well, with effort, vigorously, heartily
 madaanan	passable, drivable
 madahan	slow
-madAlang	seldom
+madalang	rarely; rare, scarce, few, sparse, scanty, thin
 madalás	frequently
 madalI	easy
 madaling-araw	“soon to be day” = dawn
@@ -1548,7 +1553,8 @@ mag-ulat	to report, give an account of
 magwala	to go amuck
 magwalang-bahala	to not pay atention to
 magyabáng	to boast, to brag, to show off
-mahabA	long
+mahabà	long (in length)
+mahába-habà	fairly long
 mahál	love, expensive
 mahalaga	important, integral
 maharlikâ	noble, aristocratic
@@ -2378,7 +2384,7 @@ parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
 paratang	accusation, allegation
 parati	always (dati)
-pareho	both; similar, identical, equal
+pareho	both; similar, identical, equal, the same (literally, as in "the same place")
 pares	even, paired, similar, equal to, like
 paringgán	to allude to, refer to, mention
 pariníg	 hint
@@ -2397,6 +2403,7 @@ pasamain	to make worse
 pasarapin	to make delicious
 pasaway	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
+pasimuno	perpetrator
 pasintabi	please step aside, please let me pass
 pasók	entry, admission; work, school
 pastól	shepherd
@@ -3003,6 +3010,7 @@ tuntón	tracing the path, source, origin; giving guidance at the start
 tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
 tupád	fulfilment, implementation of a duty, promise; compliance, observance
+tupada	picnic; illegal cockfighting
 turò	point (as with your finger)
 turò	teach
 turò-turò	a restaraunt where you point to what you want
@@ -3043,7 +3051,7 @@ umalis	to leave, depart
 umalma	have a tantrum or a fit, rise on one’s hind legs (like a bucking horse)
 umamin	admitted/confessed (amin)
 umaming	abbrev of "umamin na" admitted/confessed already
-umanó	allegedly
+umanó	alleged(ly), supposed(ly), purported(ly), "it is said"
 umawit	to sing
 umayos	to behave
 umiinom	drinking
