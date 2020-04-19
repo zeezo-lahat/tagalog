@@ -849,6 +849,9 @@ bakunahan (bakuna) _an [verb] to vaccinate someone; to immunize someone
 mabakunahan (bakuna) ma_an [verb] to be able to vaccinate someone; to be able to immunize someone
 pabakunahan (bakuna) pa_an [verb] to immunize someone
 pagbabakuna (bakuna) [noun] vaccinating
+balakin (balak) _in [verb] to plan; to intend
+balak (balak) [noun] plan; intention; design; aim
+magbalák (balak) mag_ [verb] to intend; to consider; to contemplate;
 balatkayô (balat) [noun] disguise; mask; camouflage
 balatán (balat) _an [verb] to skin; to pare (remove the skin); to de-skin
 balát (balat) [noun] skin; hide; leather; bark; tree bark
@@ -2237,6 +2240,8 @@ pagpapagamót (gamot) [noun] treatment; medical treatment; treating
 panggagamót (gamot) [noun] medical practice; practice of medicine
 págamutan (gamot) [noun] clinic; infirmary
 sakít na nagagamót (gamot) [noun] benign; sickness/illness that can be treated; [adjective] treatable (illness/sickness)
+magampanán (gampan) ma_an [verb] to be able to fulfill something; to be able to perform something.
+gumampán (gampan) _um_ [verb] to fulfill a duty
 gana (gana) [noun] appetite; drive; zeal; gusto; earnings; profit; functioning; motivation
 ganado (gana) [adjective] very enthusiastic; having good appetite
 gumana (gana) _um_ [verb] to earn; to function / operate properly; to work properly; to run
