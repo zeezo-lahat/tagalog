@@ -180,8 +180,8 @@ bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
-bágo	new, fresh; before, prior to, previous 
 bágo pa	before, prior to
+bágo	new, fresh; before, prior to, previous 
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -301,9 +301,9 @@ bigkasin	to pronounce, pronounced
 bigla	sudden, immediate, unexpected
 biglang-bigla	suddenly, unexpectedly
 bigô	frustrated, disappointed; failure
-biguín	to disappoint or fail someone
 bigti	strangled, hanged or hung by a rope
 bigtihin	to hang or strangle oneself
+biguín	to disappoint or fail someone
 bigyan	to give something
 bihira	seldom
 bílang	number; "as X"
@@ -387,6 +387,8 @@ bungad	front, threshold
 bunsô	youngest child in the family
 buntís	pregnant
 bunyág	disclosure, revelation
+burol	lying in state
+burol	a hill
 buô	complete, entire, whole; perfect, all
 buong-buo	completely intact
 buong-galang	respectfully
@@ -532,6 +534,7 @@ gálos	slight scratch
 gamít	usage
 gamit	use
 gamót	medicine
+gampan	fulfilling some duty, task, etc. (ginagampan, ginampan, gagampan)
 gana	appetite, enthusiasm, interest
 gana	to be in operation
 ganáp	complete, perfect, total, thorough; fulfilled, completed
@@ -710,8 +713,8 @@ hukay	excavation, hole, pit, crater; grave
 hukbo	army
 hulà	guess, forecast
 hulaan	to guess
-huli	catch
 hulí	(n) end; (adj) late, tardy, belated, last, final; (adv) last, on the latest occasion
+huli	catch
 húlog	fall/fallen (lit/fig), falling, failure (eg, of exam), drop
 hulog	payment installment; contribution/quota payed by a member
 hulog	significance, construction, interpretation, purport; translation; capture
@@ -1014,7 +1017,6 @@ kantá	to sing
 kanto	corner, street corner
 kapâ	groping
 kapág	when, whenever, upon (implies certainty, though commonly used same as kung)
-kapasidad	capacity
 kapahamakan	catastrophe, injury
 kapaín	to grope, search for
 kApakanAn	welfare
@@ -1024,6 +1026,7 @@ kapalit	what is received in return
 kapangyarIhan	power
 kapariso	a piece (of)
 kaparusahan	punishment
+kapasidad	capacity
 kapatíd	sibling
 kapatiran	fraternity, brotherhood
 kapayapaan	peace, tranquility
@@ -1225,6 +1228,7 @@ lagi	always
 lagnát	a fever
 lagô	luxuriant growth
 lagot	snapped off, cut off, broken (rope, cable, etc.); completely obsessed with something
+lagpás	past, beyond (syn: lábis, tagós lampás)
 lagsák	pagkadurog ng bagay na lumabis ang pagkaluto
 lagusan	exit tunnel, passageway
 lahad	opening of the hand palm up; unrolling, unfolding
@@ -1257,8 +1261,8 @@ lalong malaki	bigger
 lalong maliit	smaller
 laman	meat, flesh, body, substance (lit/fig)
 laman	the contents of something
-lamang	only, even, mere (lang)
 lamang loob	innards
+lamang	only, even, mere (lang)
 lamangan	advantage over others
 lambanóg	coconut booze
 lambót	softness, tenderness
@@ -1288,8 +1292,8 @@ lasing	drunk, intoxicated, inebriated
 lason	poison
 lasunin	to poison
 lata	can; tin; a container, box, etc. made of tin
-lawa	bulging, sticking or protruding out
 lawa	a pond
+lawa	bulging, sticking or protruding out
 lawak	expanse, extent, area
 lawig	a length of time; a long duration (less commonly used than tagal)
 lawin	hawk
@@ -1313,6 +1317,7 @@ ligáw	wild, uncultivated, stray
 ligay	put, place, install
 ligáya	happines, joy
 ligtAs	saved, freed, redeemed; safe; exempt
+liham	a letter (that you send in the mail)
 lIhim	(a) secret, confidential (also "sikreto")
 liit	smallness
 likas	exodus, evacuation
@@ -1320,6 +1325,7 @@ likás	natural, inherent, innate, characteristic, unwritten
 likha	a creation; thing produced by intelligence and skill
 likhain	to create
 liku-likong	zigzag
+lilim	a partly dark place, not in the sunshine
 limos	alms; stipend
 limot	oblivion (root of forget)
 linaw	clearness (liquids); clarity (explanation); legibility; legible condition
@@ -1393,6 +1399,7 @@ maalaala	to remember
 maalalahanin	thoughtful
 maalat	salty
 maAmo	gentle
+maamuyan	to smell something
 maantala	to be delayed
 maasAhan	to be able to rely on / count on / trust / expect someone/something
 maasár	to be furious, to be frustrated
@@ -1414,9 +1421,10 @@ mabiga	fault-finding
 mabigát	heavy
 mabilis	fast, quick
 mabilis	rapidly
+mabuksan	to become open
 mabundol	to ram with something large and long
-mabúti	fine, good, advisable, wholesome, good in character, in good condition; better
 mabúti	carefully, well, with effort, vigorously, heartily
+mabúti	fine, good, advisable, wholesome, good in character, in good condition; better
 madaanan	passable, drivable
 madahan	slow
 madalang	rarely; rare, scarce, few, sparse, scanty, thin
@@ -1584,6 +1592,7 @@ mainit	hot
 maintindihan	understand(ing)
 máisalarawan	to be able to visualize something; to be able to picture something (object) <náisalarawan, naisásalarawan, maisásalarawan>
 maitalâ	to measure up to (actor); to be able to measure or record (object)
+maiwan	to leave something behind
 makaakó	conceited, egotistical
 makabayan	patriotic
 makaipon	to be able to save (money, etc)
@@ -1598,8 +1607,9 @@ makalimutin	forgetful
 makalipas	after (having passed, the passage of time) (makalipas ang isang araw -> a day later)
 makaluma	olden, old-fashioned
 makamít	to achieve, to gain
-makapaglakbay	to be able to travel
+makamtan	to get, to obtain
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
+makapaglakbay	to be able to travel
 makápúlot	to happen to pick up, find
 makasarili	selfish
 makatagpô	to discover, come across
@@ -1645,9 +1655,9 @@ malaya	free, emancipated
 malayo	far away
 maleta	suitcase, luggage
 mali	wrong
-maliban	unless, if not
 maliban kung		except for, absent / if not X
 maliban sa	aside from
+maliban	unless, if not
 máligáw	to lose one’s way
 maligáya	happy, joyful (ligáya)
 maligayang bati	joyful wishes (happy birthday)
@@ -1668,7 +1678,7 @@ malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
 mamamaalam	saying goodbye
-mamamayan	a native of a place (mangCV - báyan)
+mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
 mamasukan	to have a job
 mamayâ pa	not now, but later today
 mamayâ	later today
@@ -1684,6 +1694,7 @@ mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
 mandaraya	cheater, one who goes around the rules
+manduhan	to be in authority over
 mandurukot	pickpocket
 maneho	management; act of managing; driving (vehicle)
 mang-aagaw	someone who snatches away (a thing or lover)
@@ -1707,6 +1718,7 @@ mangulo	to head, preside
 mang-uyam	to be sarcastic; to be mocking
 mangyari	to happen, take place
 manhid	numbness; torpor, torpid condition
+manirahan	to live for a while, dwell
 maniwala	to believe, trust (tiwala)
 manlamig	to be cold to someone
 manliligaw	suitor
@@ -1775,8 +1787,8 @@ masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
-maski	even, mere
 maski na	even so/though
+maski	even, mere
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)
@@ -1784,6 +1796,7 @@ masyado	"too", more, exceedingly, very (labis)
 matá	eye
 mataás	tall, high
 matabâ	fat
+matabunan	to take in, to absorb
 matagal	long in duration
 matagpuán	to happen to find, discover
 matagumpay	successful
@@ -1791,11 +1804,13 @@ matahimik	quiet
 matakot	to be afraid
 matakpán	to hide; to block (takíp)
 matalíno	intelligent, bright
+matamaan	to come against with force
 matamaan	to (be) hit (by) something
 matamlay	listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
 matandâ	old
+matandaan	to remember something
 matangkád	tall
 matanong	inquisitive
 matanto	to realize; be able to comprehend
@@ -1820,14 +1835,15 @@ matutunan	to learn something; to find something out; to experience something
 matuwa	to enjoy, have fun, be happy
 matwíd	first, just, legitimate
 mauna	"go first"
-maunawaan 	to be able to understand
+maunawaan 	to be able to understand; to make sense, to be understandable, to be reasonable
 maUnawaIn	understanding (ma-unawa-in)
 maunlAd	progressive
 mausok	smoky
 mautak	brainy
 mautas	to have ended or terminated, consummated
 mauwi	to develop into, to happen as a result
-mawala	be lost, vanish, disappear
+mawala	to be lost, vanish, disappear
+mawalan	to lose something
 mawalang-galang	apologies for being disrespectful
 mawawala	will be lost, vanish, disappear
 may gustó ka ba sa	do you like X?
@@ -2030,8 +2046,8 @@ natilapon	was wildly thrown
 natunaw	melted
 natutUnan	learned, something learned
 nauunawaan	to understand
-nawawala	lost; something/someone lost
 nawá	may (expressing a wish or hope)
+nawawala	lost; something/someone lost
 nga	expresses a request; affirmation marker (maganda nga siya -> she certainly is pretty)
 ngayón lang	just now
 ngayón	now; today
@@ -2377,6 +2393,7 @@ papas	unroofed; blown off (roof)
 papasok	about to go to school/work
 papasok	incoming
 papasukin	to allow someone to enter
+papél	paper; role, part (in a play, etc.)
 papuri	praise
 papurihan	to praise, to applaud
 paputók	firecrackers, fireworks ("cause explosion")
@@ -2408,10 +2425,10 @@ pasaway	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasimuno	perpetrator
 pasintabi	please step aside, please let me pass
+pasiyá	a decision, conclusion
 pasók	entry, admission; work, school
 pastól	shepherd
 pasubali	taking exception to something (during a discussion, etc.); dissenting opinion
-pasiyá	a decision, conclusion
 patagalin	to make longer
 patagilid	sideways
 patak	drop
@@ -2724,8 +2741,8 @@ sisánte	dismiss, sack, fire
 sisi	remorse
 sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
-siyá	he, she, it, other meanings used in short phrases
 siyá nawâ	amen
+siyá	he, she, it, other meanings used in short phrases
 siyanga	of course, indeed
 sóbra	too much, excessive; intense
 spongklong	stupid (slang, new)
@@ -2775,10 +2792,10 @@ sundin	to obey (sunod)
 sundô	fetch someone from somewhere
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
-sunud-sunod	sequence, order; repeatedly
 sunóg	burnt
 súnog	fire
 suntok	a fist punch
+sunud-sunod	sequence, order; repeatedly
 suóng	matapang na pagharap sa anumang balakid, suliranin, o laban
 suót	clothes
 suri	analysis, diagnosis, scrutiny, study, test
@@ -2809,8 +2826,8 @@ tagay	toast; term in Batangas for a little girl
 tagilid	tilt, slant
 tagiliran	side; boundary; either side (eg, left or right) of something
 taglagas	autumn
-tagò	hide
 tagò ng tagò	(TNT) illegal immigrant
+tagò	hide
 tagpô	scene, circumstances
 tagpuan	meeting place, rendezvous
 tagpuín	to go and meet
