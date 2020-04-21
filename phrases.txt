@@ -1,3 +1,5 @@
+panónoorín kita.	I'll watch you.
+Gusto ko ng iba.	I want another.
 úuwián kitá ng <something>.	I'll bring you home <something>.
 Sásamahan kitá.	I'll go with you.
 Dito ka.	Stay here.
@@ -154,3 +156,4 @@ maliban kung	except
 maliban sa	aside from
 at saká	and; and then; as well as; further
 yari sa	made of/from
+Panoorin mo ako.        Watch me.

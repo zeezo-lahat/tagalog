@@ -849,8 +849,8 @@ bakunahan (bakuna) _an [verb] to vaccinate someone; to immunize someone
 mabakunahan (bakuna) ma_an [verb] to be able to vaccinate someone; to be able to immunize someone
 pabakunahan (bakuna) pa_an [verb] to immunize someone
 pagbabakuna (bakuna) [noun] vaccinating
-balakin (balak) _in [verb] to plan; to intend
 balak (balak) [noun] plan; intention; design; aim
+balakin (balak) _in [verb] to plan; to intend
 magbalák (balak) mag_ [verb] to intend; to consider; to contemplate;
 balatkayô (balat) [noun] disguise; mask; camouflage
 balatán (balat) _an [verb] to skin; to pare (remove the skin); to de-skin
@@ -1001,6 +1001,7 @@ basahan (basa) _an [verb] to read to someone; * focus on the person being read t
 basahin (basa) _in [verb] to read something
 basâ (basa) [adjective] wet
 basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
+basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
 bumasa (basa) _um_ [verb] to read
 ibasa (basa) i_ [verb] to read something for someone
 ipabasa (basa) ipa_ [verb] to have something read
@@ -1032,6 +1033,7 @@ tapunán ng basura (basura) [noun] trash can
 basaan (basâ) [noun] wetting
 basang-basâ (basâ) [adjective] sopping wet; drenched
 basaín (basâ) _in [verb] to wet something; to splash something
+basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
 basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
 mabasâ (basâ) ma_ [verb] to get wet
 mamasâ (basâ) mang_ [verb] to get wet (AF); to become wet (AF)
@@ -2240,8 +2242,8 @@ pagpapagamót (gamot) [noun] treatment; medical treatment; treating
 panggagamót (gamot) [noun] medical practice; practice of medicine
 págamutan (gamot) [noun] clinic; infirmary
 sakít na nagagamót (gamot) [noun] benign; sickness/illness that can be treated; [adjective] treatable (illness/sickness)
-magampanán (gampan) ma_an [verb] to be able to fulfill something; to be able to perform something.
 gumampán (gampan) _um_ [verb] to fulfill a duty
+magampanán (gampan) ma_an [verb] to be able to fulfill something; to be able to perform something.
 gana (gana) [noun] appetite; drive; zeal; gusto; earnings; profit; functioning; motivation
 ganado (gana) [adjective] very enthusiastic; having good appetite
 gumana (gana) _um_ [verb] to earn; to function / operate properly; to work properly; to run
@@ -2761,6 +2763,10 @@ humilera (hilera) _um_ [verb] to line up
 ihilera (hilera) i_ [verb] to rank; to line up; to align
 kahilera (hilera) [adjective] in the same row
 nakahilera (hilera) [adjective] in a row; in a line
+hilig (hilig) [noun] liking; appetite; talent; aptitude; inclination; flair; affinity; tendency
+humilig (hilig) _um_ [verb] to slant
+mahilig (hilig) [adjective] fond of; like; likes; prone to
+pagkahilig (hilig) [noun] liking; inclination for; affinity for; tendency to
 hilingán (hiling) _an [verb] to ask for a favor from someone
 hilingín (hiling) _in [verb] to ask earnestly for something; to make an appeal for something
 hilíng (hiling) [noun] request; petition; claim; wish
@@ -2777,8 +2783,8 @@ hilutin (hilot) _in [verb] to massage something
 humilot (hilot) _um_ [verb] to massage
 ipahilot (hilot) ipa_ [verb] to have someone massage something
 manghihilot (hilot) [noun] someone who gives therapeutic massage for sprains, pain, or sickness
-himatáy (himatay) [noun] losing consciousness
 himatayín (himatay) [verb] to pass out (AF); to faint (AF); to cause someone to pass out (OF);
+himatáy (himatay) [noun] losing consciousness
 mahimatáy (himatay) [verb] to lose consciousness; to faint
 hinaan (hina) _an [verb] to lower the volume
 hinà (hina) [noun] weakness; softness
@@ -4886,10 +4892,10 @@ palupalò (palo) [noun] wooden mallet
 palò (palo) [noun] beating; whipping; hitting a ball with a bat or paddle; blows
 pamalò (palo) [noun] an object used to beat or hit something else
 pumalò (palo) _um_ [verb] to spank; to whip; to hit; to beat; to flog
-hábang-panahón (panahon) [adverb] forever
-palpák (palpak) [noun] failure; [adjective] done poorly
 kapalpakan (palpak) [noun] failure
+palpák (palpak) [noun] failure; [adjective] done poorly
 pumalpák (palpak) _um_ [verb] to fail
+hábang-panahón (panahon) [adverb] forever
 kapanahunan (panahon) [noun] season
 lagáy ng panahón (panahon) [noun] weather; weather conditions
 mahabang panahón (panahon) a long time
@@ -5335,6 +5341,8 @@ saan-saán (saan) [pronoun] where (plural); various places
 saanmán (saan) [adverb] wherever; anywhere; everywhere
 saán (saan) [adverb] where
 tagasaán (saan) [interrogative] from where; from what place
+pagsabak (sabak) [noun] rushing into something; plunging into something
+sumabak (sabak) _um_ [verb] to plunge into (undertake something suddenly); to dive into
 isabáy (sabay) i_ [verb] to do something together; to do something at the same time; to go together with someone
 kasabáy (sabay) [noun] act of doing something at the same time; [adjective] simultaneous
 magkasabáy (sabay) [adjective] simultaneous; concurrent
@@ -6457,6 +6465,10 @@ tamaan (tama) _an [verb] to answer something correctly; to hit something; to get
 tamà (tama) [adjective] right; correct; enough; all right; exact; reliable; just right; [noun] right; correct; correct answer; [interjection] I agree.
 tumamà (tama) _um_ [verb] to be correct; to win (a game of chance); to hit
 támang-tamà (tama) [adjective] just right; 100% correct; absolutely correct; ideal; suitable; accurate; exact; exactly
+katamaran (tamad) [noun] laziness
+nakakatamád (tamad) [adjective] tiring
+tamarín (tamad) _in [verb] to be lazy; to cause someone to feel lazy
+tamád (tamad) [adjective] lazy; idle; sluggish
 itambák (tambak) i_ [verb] to dump; to dump out
 matambák (tambak) ma_ [verb] to be piled up; to be backed up
 nakatambák (tambak) [adjective] heaped; piled

@@ -202,7 +202,7 @@ bakâ	perhaps, maybe, might
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
-bakbAkan	a fight, usually physical
+bakbákan	a fight, usually physical
 bakbakán	to remove skin or bark (bakbák)
 bakla	gay, homosexual
 baklás	pry off, detach from
@@ -806,6 +806,8 @@ inihain	served food
 iniipit	"putting the squeeze on"
 inís	irritation, annoyance; suffocation
 intensibo	intensive
+intindihín	to attend to, take care of, focus on something; to understand something
+thing
 ipaalám	to inform
 ipabatid	to inform
 ipagawâ	to have or make someone fix or repair something; to have or make someone do something
@@ -1473,6 +1475,7 @@ magíting	heroic (gíting)
 magkabait	one's senses
 magkadugo	having the same blood
 magkaiba	different (ref. to two things/people)
+magkáisá	to unite
 magkakabisa	will take effect, will become effective/valid
 magkakambal	to be twins
 magkakapareho	the same (ref. to two(?) things/people)
@@ -1609,6 +1612,7 @@ makamtan	to get, to obtain
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makapaglakbay	to be able to travel
 makápúlot	to happen to pick up, find
+makaramdám	to feel
 makasarili	selfish
 makatagpô	to discover, come across
 makatao	humanitarian, humane
@@ -2059,6 +2063,8 @@ nood	root word related to watching (manoód, panoorín, etc.)
 noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
+óbra	a work (of art, etc.)
+óbra maéstra	masterpiece
 oras	hour, time
 pa lang	indicates that something is just about to be done
 pa pala	implies mild surprise that a condition still exists
@@ -2372,6 +2378,7 @@ paningin	sense of sight, eyesight
 paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
 panlahi	racial
+panonoód	watching (noun, gerund)
 panood	watching (obj focus, alt of manood)
 panoorin	to watch something (object focus)
 pansamantala	for the time being
@@ -2418,7 +2425,7 @@ pasalamatan	to thank
 pasama	from better to worse
 pasamain	to make worse
 pasarapin	to make delicious
-pasaway	contrarian, hardheaded, stubborn, difficult
+pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasimuno	perpetrator
 pasintabi	please step aside, please let me pass
@@ -2599,6 +2606,7 @@ sabík	eager, keen, yearning
 sabit	hanging; snagging, being caught
 sabog	explosion, scattering
 sabón	soap
+sabong	cockfight; cock-fight
 sabungan	cockpit (cockfighting gallery)
 sadyâ	purpose, aim; intended
 sagabal	hindrance, obstacle
@@ -2626,6 +2634,7 @@ saksí	witness
 saktan	injured/hurt (sakit)
 salâ	broken, dislocated (bones)
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
+salakay	an attack/assault/invasion
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 salanta	badly injured or damaged, weakened
 salbáhe	naughty
@@ -2680,7 +2689,7 @@ sasakyán	vehicle
 sasakyan	will ride (sakay)
 sasáma	will join/accompany
 sawà	satiated, fed up
-sawáy	prohibition, restraint, reprimand
+sawáy	prohibition, restraint; reprimand, rebuke
 sawayin	to reprimand, restrain
 sawî	to die or suffer misfortune; ill-fated
 sawing-palad	unlucky, unfortunate
