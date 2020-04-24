@@ -679,6 +679,7 @@ hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nigh
 himalâ	miracle
 himatay	faint, swoon
 hímig	tune, melody; note
+himok	inducement, persuasion, enticement
 hinaan	to lower the volume
 hinalà	suspicion
 hindí kailanmán	never
@@ -935,6 +936,7 @@ kahéro	male store cashier
 kahilIngan	a request, claim, application
 kahinAan	weakness
 kahina-hinala	suspicious; dubious (kahinahinala)
+kahingían	requirement
 kahirapan	poverty, hardship, difficulty
 kahit ano man	whatever
 kahit ano	anything
@@ -1857,6 +1859,7 @@ mayari	to be finished, to be made
 may-itsúra	has an attractive appearance
 mensAhe	message
 mga	pluralizer; about, approximately
+mga kahingían	requirements
 miming	kitty-cat
 minsan	sometimes; once, at one time
 minsanan	a one-time thing
@@ -2937,6 +2940,7 @@ tigás	hardness, toughness, stiffness
 tigil	stop, pause
 tigok	sound produced in the throat by swallowing
 tikim	to taste, to try
+tiklô	caught; arrested by the police (syn. huli)
 tikmán	to taste something (tikim)
 tiktík	spy, detective
 tíla	apparently, seemingly, "it seems"
@@ -3031,6 +3035,7 @@ tumuwáng	to help carry a load
 tunaw	melt, dissolve
 túnay	true, correct, pure, real, genuine, legit
 tungkól	concerning, about
+tungkulin	(noun) duty, responsibility, concern, mission, function, role
 tungó	bowing of the head
 tungo	goal, purpose, direction; to deal with
 tuntón	tracing the path, source, origin; giving guidance at the start
