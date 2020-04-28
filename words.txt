@@ -131,6 +131,7 @@ ano man	whatever
 antála	delay
 antás	step, degree, grade
 antasín	to classify, grade (not commonly used)
+antáy	waiting
 antipatiko	displeasing, disagreeable, unfriendly
 anu-ano	this and that; other (plural)
 anuman	whatever, anything (ano + man)
@@ -182,6 +183,7 @@ bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
+bágong-panganák	newborn
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -320,7 +322,9 @@ binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
 binigkas	pronounced
 binilang	to count
+binti	leg, especially the calf part
 binubuo	composing/comprising (buuin)
+birador	hitman(?)
 birò mo	can you imagine..?
 bisà	power, force, effect, strength
 bisi	busy
@@ -1614,6 +1618,7 @@ makamít	to achieve, to gain
 makamtan	to get, to obtain
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makapaglakbay	to be able to travel
+makapili	traitorous
 makápúlot	to happen to pick up, find
 makaramdám	to feel
 makasarili	selfish
@@ -1860,6 +1865,7 @@ may-itsúra	has an attractive appearance
 mensAhe	message
 mga	pluralizer; about, approximately
 mga kahingían	requirements
+milagro	miracle (similar to himalâ)
 miming	kitty-cat
 minsan	sometimes; once, at one time
 minsanan	a one-time thing
@@ -2462,7 +2468,7 @@ patungkol	(noun) dedication, commemoration
 patungo	toward, going to a certain place
 patutunguhan	destination
 paulit-ulit	again and again, over and over
-paumanhín	"sorry" (very formal)
+paumanhín	apology, "sorry" (very formal)
 pauróng	backward
 pauso	trendy
 pauwi	on the way home
@@ -2548,6 +2554,7 @@ puntahan	to go to a person or place
 puntód	mound; tomb
 puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
+purók	district (smaller than a barangay)
 purong-puro	very pure
 pusa	cat
 pusakal	street cat
@@ -2559,6 +2566,8 @@ puta	used as general curse (fuck, etc.), literally: whore
 putang iná	"fuck you", your mother is a whore
 putik	mud (often used as an inoffensive substitute for the word puta)
 putikan	a muddy place
+puto	white cake made from rice flour
+puto maya	is made by steaming glutinous or sticky rice and coconut milk ("fake" puto)
 putók batok	a meal that may cause you to have a heart attack or stroke
 putók	blast, explosion; body odor (slang, eg "may putók")
 putól	cut (adj)
@@ -2633,6 +2642,7 @@ sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
 saklolo	succor, aid, help
+sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
 sakote	catch, arrest
 saksí	witness
 saktan	injured/hurt (sakit)
@@ -2709,7 +2719,7 @@ sidlan	to fill a container
 sigaw	shout, scream, yell
 sige na	"go ahead"
 sige	go on, go ahead, proceed, continue part. go on, proceed, continue
-sigla	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
+siglá	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
 siguro	maybe, perhaps, probably
 sikap	diligence, hard work
 sikapin	to try, seek
@@ -2767,6 +2777,7 @@ sugatán	wounded person, casualty
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 súka	spew, vomit
+sukab	treacherous, traitorous, perfidious
 sukal	garbage, flotsam, dirt
 sukat	size, measurement
 sukAtin	measure
@@ -2859,6 +2870,7 @@ takip-silim	twilight; dusk
 takot	fear
 takót	scared, fearful
 takpán	to cover something (takíp)
+taksil	not to be trusted; traitor; traitorous
 takutin	to frighten
 takwil	renunciation
 talâ	a list, record; notes (root)
@@ -2978,6 +2990,7 @@ totoó	true, real, genuine
 tripulante	a crew (as in a ship, etc.)
 tsaka	(atsaka) slangy way of saying “and” or “as well as” (at + saka)
 tsansa	chance
+tsekwa	derogatory term for chinese
 tsupér	chauffeur, driver
 tubo	growing; tube, pipe; gain, profit
 tubò	native
@@ -3043,6 +3056,7 @@ tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
 tupád	fulfilment, implementation of a duty, promise; compliance, observance
 tupada	picnic; illegal cockfighting
+turing	remark, name, mention; answer to a riddle; modifier (in grammar); price offered (from seller or buyer)
 turò	point (as with your finger)
 turò	teach
 turò-turò	a restaraunt where you point to what you want

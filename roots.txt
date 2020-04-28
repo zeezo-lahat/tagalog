@@ -378,6 +378,8 @@ anudin (anod) _in [verb] to carry something away by a current; to wash something
 anurin (anod) _in [verb] to be carried away by a current of water
 maanod (anod) ma_ [verb] to drift; to get carried away by the current
 maanuran (anod) ma_an [verb] to be inundated
+antáy (antay) [noun] waiting
+magantáy (antay) mag_ [verb] to wait; to await; * variation of "maghintay"
 anyô (anyo) [noun] form; figure; appearance; aspect
 bagong anyô (anyo) [noun] new form; changed form; modification; changed appearance; new appearance
 kaanyuán (anyo) [noun] form; appearance
@@ -5148,6 +5150,10 @@ piliin (pili) _in [verb] to choose something; to select something; to single out
 pilì (pili) [noun] choice; selection
 pilî (pili) [adjective] choice; select; elite; chosen; exclusive
 pumilì (pili) _um_ [verb] to choose; to select; to single out; to pick out
+kapiling (piling) [adverb] near to; side by side with
+pilíng (piling) [noun] bunch of bananas
+makapiling (piling) maka_ [verb] to be side by side with someone/something (OF); to be side by side
+piling (piling) [noun] side; select
 ipilit (pilit) i_ [verb] to insist on something; to force something; to impose something
 magpilít (pilit) mag_ [verb] to strive hard; to force oneself; to compel
 magpumilit (pilit) mag_um_ [verb] to persist; to insist on
