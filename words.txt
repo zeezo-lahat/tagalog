@@ -384,14 +384,15 @@ bumitiw	to release one's hold or grip (bumitaw); disengage
 bumuô	to form, constitute, create
 bundol	ramming with something large and long
 bungad	front, threshold
+buno	wrestling; scuffle
 bunsô	youngest child in the family
 buntís	pregnant
 bunyág	disclosure, revelation
-burol	lying in state
-burol	a hill
 buô	complete, entire, whole; perfect, all
 buong-buo	completely intact
 buong-galang	respectfully
+burol	a hill
+burol	lying in state
 búti	goodness, properness
 butil	grain, kernel, seed, bead
 buto	bone; seed
@@ -809,7 +810,6 @@ iniipit	"putting the squeeze on"
 inís	irritation, annoyance; suffocation
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
-thing
 ipaalám	to inform
 ipabatid	to inform
 ipagawâ	to have or make someone fix or repair something; to have or make someone do something
@@ -1405,6 +1405,7 @@ maalat	salty
 maAmo	gentle
 maamuyan	to smell something
 maantala	to be delayed
+maarte	artistic; with artificial mannerisms, snobby
 maasAhan	to be able to rely on / count on / trust / expect someone/something
 maasár	to be furious, to be frustrated
 maasim	sour, acidic
@@ -1736,6 +1737,7 @@ manyakis	pervert (from "sex maniac")
 mapAgbigAy	generous
 mapagkasunduan	to agree
 mapagkunwarI	hypocrite
+mapAgmalakI	proud, snob
 mapagpakumbaba	humble
 mapagpakumbabâ	humble, modest (also pakumbabâ)
 mapagpapalit	interchangeable
@@ -1810,8 +1812,8 @@ matahimik	quiet
 matakot	to be afraid
 matakpán	to hide; to block (takíp)
 matalíno	intelligent, bright
-matamaan	to come against with force
 matamaan	to (be) hit (by) something
+matamaan	to come against with force
 matamlay	listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
@@ -1859,8 +1861,8 @@ may-arì	owner
 mayari	to be finished, to be made
 may-itsúra	has an attractive appearance
 mensAhe	message
-mga	pluralizer; about, approximately
 mga kahingían	requirements
+mga	pluralizer; about, approximately
 miming	kitty-cat
 minsan	sometimes; once, at one time
 minsanan	a one-time thing
@@ -2068,8 +2070,8 @@ nood	root word related to watching (manoód, panoorín, etc.)
 noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
-óbra	a work (of art, etc.)
 óbra maéstra	masterpiece
+óbra	a work (of art, etc.)
 oras	hour, time
 pa lang	indicates that something is just about to be done
 pa pala	implies mild surprise that a condition still exists
@@ -2809,6 +2811,8 @@ suntok	a fist punch
 sunud-sunod	sequence, order; repeatedly
 suóng	matapang na pagharap sa anumang balakid, suliranin, o laban
 suót	clothes
+suplada	snob
+suplado	snob
 suri	analysis, diagnosis, scrutiny, study, test
 suutan	to dress someone
 suwéldo	salary, pay (also 'sweldo')
@@ -2936,6 +2940,7 @@ téma	theme
 tematiko	thematic
 tenga	ear
 testigo	witness
+thing
 tibay	sturdiness
 tigás	hardness, toughness, stiffness
 tigil	stop, pause
