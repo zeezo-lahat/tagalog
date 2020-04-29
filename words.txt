@@ -391,11 +391,11 @@ bungad	front, threshold
 bunsô	youngest child in the family
 buntís	pregnant
 bunyág	disclosure, revelation
-burol	lying in state
-burol	a hill
 buô	complete, entire, whole; perfect, all
 buong-buo	completely intact
 buong-galang	respectfully
+burol	a hill
+burol	lying in state
 búti	goodness, properness
 butil	grain, kernel, seed, bead
 buto	bone; seed
@@ -813,7 +813,6 @@ iniipit	"putting the squeeze on"
 inís	irritation, annoyance; suffocation
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
-thing
 ipaalám	to inform
 ipabatid	to inform
 ipagawâ	to have or make someone fix or repair something; to have or make someone do something
@@ -1112,6 +1111,7 @@ katapát	opposite
 katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
+katarantahan	state of confusion, bewilderment
 katatapos lang ng bagyo noon	?
 katatapos	just finished (kaCV - express something that just happened)
 katawAn	body
@@ -1688,6 +1688,7 @@ malunod	drown, be drowned (e.g. in joy)
 malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
+mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
 mamasukan	to have a job
@@ -1815,8 +1816,8 @@ matahimik	quiet
 matakot	to be afraid
 matakpán	to hide; to block (takíp)
 matalíno	intelligent, bright
-matamaan	to come against with force
 matamaan	to (be) hit (by) something
+matamaan	to come against with force
 matamlay	listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
@@ -1829,6 +1830,7 @@ matao	crowded
 matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
 matapos	after
+mataranta	to be confused
 matauhan	to recover consciousness
 matigás	hard, tough, stiff
 matigil	to be stopped or suspended; taken aback, briefly shocked; stop; come to an end
@@ -1864,8 +1866,8 @@ may-arì	owner
 mayari	to be finished, to be made
 may-itsúra	has an attractive appearance
 mensAhe	message
-mga	pluralizer; about, approximately
 mga kahingían	requirements
+mga	pluralizer; about, approximately
 milagro	miracle (similar to himalâ)
 miming	kitty-cat
 minsan	sometimes; once, at one time
@@ -2074,8 +2076,8 @@ nood	root word related to watching (manoód, panoorín, etc.)
 noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
-óbra	a work (of art, etc.)
 óbra maéstra	masterpiece
+óbra	a work (of art, etc.)
 oras	hour, time
 pa lang	indicates that something is just about to be done
 pa pala	implies mild surprise that a condition still exists
@@ -2318,6 +2320,7 @@ palay	unhusked rice grains
 palaya	free
 palayain	to free someone/something
 palayo	getting further away
+palengke	a traditional marketplace, especially a wet market
 paliban	postponement
 paligid	vicinity; circumference
 palihis	deviated, deflected, erroneous, incorrect
@@ -2357,6 +2360,7 @@ panatilIhin	to maintain
 panauhin	a guest
 panaw	sudden disappearance, departure, death (also pagpanaw)
 panawan	to abandon; be deprived of
+panayam	interview (generally of two); conference
 pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing
@@ -2567,8 +2571,8 @@ puta	used as general curse (fuck, etc.), literally: whore
 putang iná	"fuck you", your mother is a whore
 putik	mud (often used as an inoffensive substitute for the word puta)
 putikan	a muddy place
-puto	white cake made from rice flour
 puto maya	is made by steaming glutinous or sticky rice and coconut milk ("fake" puto)
+puto	white cake made from rice flour
 putók batok	a meal that may cause you to have a heart attack or stroke
 putók	blast, explosion; body odor (slang, eg "may putók")
 putól	cut (adj)
@@ -2880,6 +2884,9 @@ talahuluganan	glossary
 talamák	serious, critical, hard to cure; fallen; addicted
 talampakan	sole of a foot; 12 inches
 talíno	smarts, talent
+talipapâ	a temporary market (esp.for fish)
+talipapang bayan	a public market
+talipapang gala	a traveling wet market
 talo	defeated, losing
 talón	jump
 talunan	underdog; beaten, defeated (talo)
@@ -2929,6 +2936,8 @@ tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
 tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
+taranta	confusion, bewilderment
+taratahin	to confuse, baffle, bewilder
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
@@ -2948,6 +2957,7 @@ téma	theme
 tematiko	thematic
 tenga	ear
 testigo	witness
+thing
 tibay	sturdiness
 tigás	hardness, toughness, stiffness
 tigil	stop, pause
