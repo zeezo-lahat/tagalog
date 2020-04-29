@@ -1668,6 +1668,10 @@ magdagdág (dagdag) mag_ [verb] to add to; to increase; to supplement; to append
 maidagdág (dagdag) mai_ [verb] to be able to add something
 makadagdág (dagdag) maka_ [verb] to be able to add to; to be able to increase
 pagkakadagdág (dagdag) [noun] adding; having added
+dáhan-dahan (dahan) [adverb] slowly; carefully; take it easy
+marahan (dahan) [adjective] slow; gentle; soft; tender [adverb] gently; tenderly; softly; slowly
+dahan (dahan) [noun] slowness
+dahanan (dahan) _an [verb] to slow; to slacken in speed
 dahil (dahil) [conjunction] because of; because
 dahil sa (dahil) [conjunction] because of
 dahilán (dahil) [noun] reason; cause; excuse; purpose; the reason why; alibi; factor; account; so as to
@@ -5988,6 +5992,10 @@ pagsisid (sisid) [noun] diving; diving in
 sisid (sisid) [noun] dive
 sisirin (sisid) _in [verb] to dive into something
 sumisid (sisid) _um_ [verb] to dive into water
+sitahín (sita) _in [verb] to question someone; to interrogate someone
+paninitá (sita) [noun] interrogating; questioning; grilling (questioning)
+sitá (sita) [noun] questioning; interrogating
+pagsitá (sita) [noun] questioning; interrogating
 ang siyang (siya) the one; the one who; the person
 kasiyahan (siya) [noun] happiness; satisfaction; complacency; gratification; pleasure
 magbigáy-kasiyahan (siya) ka_an [verb] to satisfy
