@@ -5338,6 +5338,9 @@ magrehistro (rehistro) mag_ [verb] to register
 nakarehistro (rehistro) [adjective] registered
 rehistro (rehistro) [noun] registry
 rumehistro (rehistro) _um_ [verb] to register
+magrepaso (repaso) mag_ [verb] to review; to check
+repasuhin (repaso) _in [verb] to review something; to check something
+pagrerepaso (repaso) pagCV_ [noun] review; reviewing
 kahit saán (saan) [noun] anywhere; everywhere
 násaán (saan) [adverb] where
 pasásaán bá't (saan) [phrase] only a matter of time
