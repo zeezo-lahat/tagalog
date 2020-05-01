@@ -417,6 +417,7 @@ dagdag-sahod	additional salary
 dagdag-singil	price hike
 dagsâ	violent forward rush
 dagtâ	sap, resin
+dahan	slowness of movement or action; lack of intensity
 dahán-dahán	slowly
 dahás	force, ferocity
 dahil dito	consequently, therefore, so..
@@ -478,6 +479,8 @@ dikit	stick, adhere, paste
 dikitán	to attach, stick
 dilà	tongue
 dilaw	yellow
+dilíg	watering (of plants); irrigation
+diligán	to water something; to sprinkle with water
 di-mapigil	unstoppable
 din	too, also (the expression modified is like a corresponding earlier idea)
 dinggín	to listen to, to hear (dinig)
@@ -625,6 +628,8 @@ hakbangin	(n) steps
 halagA	price, cost, charge, worth, value, importance
 halál	vote, elective
 halalan	election
+halaman	a plant
+haligi	post, column, pole
 halika	come here
 halimbawâ	example, "for example"
 halip	stead, alternative, substitute (sa halip: instead)
@@ -770,6 +775,7 @@ ihain	to offer something; to put food on a table; to serve food; to sacrifice so
 ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
 iilan	very few
+iisa	only one, single, one and the same
 ikabít	to fix, fasten, hook up, connect (lit/fig)
 ikabubuti	to cause improvement, benefit "for the good of" (ika-, causer focus)
 ikabuhay	be the means of earning; be the reason for living
@@ -907,7 +913,7 @@ kabaligtaran	(the) opposite
 kabatAan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
-kabilâ	next (?); the other side (time/space); in spite of (sa kabilâ ng)
+kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
 kabít	attached, connected; mistress
@@ -965,6 +971,7 @@ kailángan	to need; needed (root)
 kailanganin	to need/require something
 kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
+káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
 kakaibang	different
 kakambal	fellow twin, being like someone
