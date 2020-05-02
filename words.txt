@@ -103,6 +103,7 @@ alitan	quarrel, conflict, tiff, strife
 alkalde	mayor
 almusal	breakfast
 alók	an offer
+altapresyon	high blood pressure
 alukín	to offer
 amá	father
 ama-amahan	foster father
@@ -426,6 +427,8 @@ dahil	because
 dahilan	reason (noun)
 dahon	leaf
 daigdig	the world, the earth
+dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
+daíti	pagtabihin o pagdikitin ang dalawang bagay
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -654,6 +657,7 @@ hangarin	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
 hangga	result, end, outcome
 hanggan	end, boundary, limit
 hanggang	until, up to
+hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
@@ -664,6 +668,7 @@ harinawA	God willing, hopefully
 hatak	pulling (batak, hila)
 hati	sharing, taking part in, dividing
 hati-hati	dividing
+hatid	escorting; conducting; accompanying
 hating-gabi na	it's late (at night)
 hatinggabi	midnight
 hating-kapatid	half-sibling
@@ -1106,7 +1111,7 @@ káso	lawsuit; case
 kasosyo	business partner
 kasundo	someone you get along with; agreeing
 kasunduan	agreement
-kasunod	next / the next; following
+kasunod	next / the next; following; something that follows, result
 katabi	next to, adjacent
 katad	leather
 katagal	duration
@@ -2278,6 +2283,7 @@ pag-uwi	upon returning home
 pagwawangis	(metaphor)
 pahalaga	valuation, act of valuing, evaluation
 pahalagahan	give importance to, appreciate, esteem, think highly of (pinapahalagahan, pinahalagahan, papahalagahan)
+paham	a very learned person, a genius; very learned, erudite;	potency of wine, liquor or medicine
 pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
@@ -2731,6 +2737,7 @@ sayáng	waste; sayang! What a loss/waste/pity!
 saya-saya	very happy
 sayaw	dance
 saysáy	statement; value
+sekyu	security guard (also "sikyo")
 selos	jealousy
 sibák	chopping wood with an axe. slang for firing someone.
 sibuyas	onion
@@ -2845,6 +2852,7 @@ suplado	snob
 suri	analysis, diagnosis, scrutiny, study, test
 suutan	to dress someone
 suwéldo	salary, pay (also 'sweldo')
+suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
 syonget	ugly
 taál	native, original
@@ -2878,6 +2886,7 @@ tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
 tahanan	residence; reside in, live in (emphasis on the place)
+tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 tákas	escape, flee (itákas, takásan, tumákas, pagtákas)
 takásan	to escape, flee
@@ -3039,7 +3048,7 @@ tukuran	to prop up
 tukuyin	cite, mention, refer to, drive at
 tula	poem
 tulad ng	such as, like 
-tulad	(also katulad) imitation, like, similar to, followed by ng phrase
+tulad	imitation, like, similar to, followed by ng phrase
 tulak	push, shove; drug pusher (also tulak-droga)
 tulakin	to push/shove something
 tularan	imitate
@@ -3184,10 +3193,28 @@ walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
+yabang	boast; boasting; arrogance; smugness; over confidence
+yakap	hug, embrace
+yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
 yamang	in as much as, provided.., as long as..; since, whereas
-yamót	boredom
+yamot	stubble
+yamót	irritated, annoyed; boredome, annoyance, irritation, displeasure, impatience, disgust
+yaníg	tremor, shock, shaking
 yapag	barefoot(?)
-yari	making, constructing, finishing (mag-,-in)
+yarì	manufacture; making, constructing
+yarí	this
+yarî	made, made of, finished, ready-made, ready
+yariin	to manufacture, construct
+yáring-kamáy	handmade
 yata	maybe, perhaps, it seems, I think
-yung	that (abbrev. of "iyong")
+yaya	nanny, au pair, nurse maid; invitation; invited
+yayà	invitation
+yayain	to invite someone
+yukô	bending down of the head or body, obeisance
+yukód	bowing one head in respect/greeting, reverence
+yumakap	to hug; to embrace
+yumaman	to get rich
+yumaníg	to shake, to shock
+yumarì	to manufacture, construct
+yung	the (colloquial); that; * informal spelling for "ang" or "iyon"+linker

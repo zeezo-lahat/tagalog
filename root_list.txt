@@ -18,6 +18,7 @@ aksaya
 akusa
 akyat
 ala
+alaala
 alaga
 alala
 alalay
@@ -40,6 +41,7 @@ ani
 anim
 ano
 anod
+antay
 anyo
 apak
 apat
@@ -93,6 +95,7 @@ baka
 bakas
 bakasyon
 bakuna
+balak
 balat
 bali
 baligtad
@@ -169,6 +172,7 @@ bulong
 bundok
 bunga
 bungad
+bunggo
 bunot
 buntis
 buntot
@@ -184,6 +188,7 @@ daan
 dagan
 dagat
 dagdag
+dahan
 dahil
 daing
 dakip
@@ -256,6 +261,7 @@ galing
 galit
 gamit
 gamot
+gampan
 gana
 ganap
 ganda
@@ -319,9 +325,11 @@ higpit
 hikayat
 hila
 hilera
+hilig
 hiling
 hilo
 hilot
+himatay
 hina
 hindi
 hinga
@@ -333,6 +341,7 @@ hipo
 hiram
 hirang
 hirap
+hirit
 hiwa
 hiwalay
 hiya
@@ -388,6 +397,7 @@ kaila
 kailan
 kailangan
 kain
+kait
 kalap
 kalat
 kaliwa
@@ -459,10 +469,12 @@ lakas
 lakbay
 laki
 lakip
+lako
 lala
 lalaki
 lalim
 laman
+lamang
 lamig
 lampas
 landi
@@ -482,6 +494,8 @@ lata
 latag
 lathala
 lawak
+lawig
+lawit
 laya
 layas
 layo
@@ -580,6 +594,7 @@ pala
 palad
 palit
 palo
+palpak
 panahon
 panalo
 panatag
@@ -594,6 +609,7 @@ parada
 pareho
 parusa
 pasa
+pasada
 pasan
 pasiya
 pasko
@@ -613,6 +629,7 @@ pigil
 pihit
 pikit
 pili
+piling
 pilit
 pinta
 pisil
@@ -638,7 +655,9 @@ puyat
 ramdam
 regalo
 rehistro
+repaso
 saan
+sabak
 sabay
 sabi
 sabik
@@ -678,6 +697,7 @@ sandal
 sangkot
 sanib
 santo
+sapak
 sara
 sarap
 sarili
@@ -693,6 +713,7 @@ saysay
 selos
 sibak
 sigaw
+sigla
 sigurado
 siguro
 sikap
@@ -716,6 +737,7 @@ sipol
 sira
 sisi
 sisid
+sita
 siya
 siyam
 sobra
@@ -729,6 +751,7 @@ suhol
 suka
 sukat
 suko
+sukol
 sulat
 sulit
 sulong
@@ -769,6 +792,7 @@ talino
 talo
 talsik
 tama
+tamad
 tambak
 tambal
 tambay
@@ -822,6 +846,8 @@ tira
 tirik
 titig
 tiwala
+tiwali
+tiyaga
 tiyak
 totoo
 trabaho
@@ -852,6 +878,7 @@ tungo
 tuon
 tuos
 tupad
+turing
 turo
 tusok
 tuto
