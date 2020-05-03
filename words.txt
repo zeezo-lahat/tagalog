@@ -247,6 +247,7 @@ bangús	milkfish
 bansâ	nation, state, country
 banta	threat
 bantáy	guard, sentry, look after
+banyaga	foreigner; foreign, alien
 barako	strong like the coffee from Batangas
 barilan	gun battle
 barkada	group of friends, clique, gang
@@ -1649,6 +1650,7 @@ makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makikiha	???? see making out in tagalog "please get.."
 makIkipag-Usap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
 makilala	to meet
+makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
@@ -2304,6 +2306,7 @@ pakikiapíd	fornication
 pakikibagay	conforming, adaptation
 pakikipag-usap	conversation
 pakilinis	please clean..
+pakinabang	earnings, gain, profit (root: kinabang)
 pakipasa	please pass along
 pakiramdAm	feeling (n/v)
 pakisabi	"please tell"
