@@ -210,6 +210,7 @@ bakod	fence
 bakuna	vaccine
 bakwit	evacuate
 bála	bullet, pellet, slug
+bala	threat, warning
 bálak	plan, intention
 bálang araw	some/one day (ie, eventually)
 bálang	each, any
