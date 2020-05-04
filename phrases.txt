@@ -1,4 +1,39 @@
 patawad po	I'm sorry
+gaano kadalas?	how often?
+hindi malimit	not often
+hating-gabi na  it's late (at night)
+sabay tayong kumain	let's eat together
+saan ba ako magsisimula	where do I start?
+papaano ko malalaman	how should I know?
+babalitaan kita	I'll update you
+kinagabihan     on that night
+Ikinalúlungkót ko	I am sorry
+higit sa lahat	above all, most especially
+bagong bili	newly bought
+masarap siya	it's delicious
+Alin ang mas gusto mong sapatos?        Which shoes do you like more?
+Aling kotse ang mas gusto mo?   Which car do you like more?
+Alin dito ang mas masakit?      Which one is more painful?
+may kasunod pa pala     there's still more
+meron pa ba?    is there more?
+Meron pa	There’s more.
+nahanap mo na ba?	did you find it?
+nawawala parin	still missing/lost
+Malay ko ba?	How should I know?
+hindi ko pwedeng sabihin	I can't tell/say
+maupô ka	have a seat
+bahay ito ng tiyahin ko	it's my aunt's house
+kaninang umaga	this morning
+kaninong sasakyan ito?	whose car is this?
+pwede ba akong pumasok?	can I come in?
+sinong nagsabi niyan sayo?	who told you that?
+gaano kasama iyon?	how bad is it?
+kung iyan ang iyong nais	if that is your wish
+dapat na ba tayo magsimula?	should we start?
+malapit na matapos	almost finished
+malapit na akong matapos	I'm almost finished
+hindi biro	no joke
+sa pamamagitan	through, via, with the use of, by means of
 huwag mainit ang ulo kapag <whatever>	don't be a hot-head when <whatever>
 panónoorín kita.	I'll watch you.
 Gusto ko ng iba.	I want another.
@@ -159,3 +194,5 @@ maliban sa	aside from
 at saká	and; and then; as well as; further
 yari sa	made of/from
 Panoorin mo ako.        Watch me.
+yáring-kamáy	handmade
+masyadong marami	too much

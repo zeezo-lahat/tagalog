@@ -5,8 +5,6 @@
 # find the ones that are not in root_list.txt and write to need.txt
 # for files in need.txt, pull down their pages and put them each in tmp/
 # for each file in tmp/, run parse_roots.py on it and append to more_roots.txt
-# TODO: merge roots.txt and more_roots.txt
-# remove need.txt, more_roots.txt, tmp/*
 
 if [ -e roots.txt ] && [ -e tmp ]; then
   :

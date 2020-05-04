@@ -83,6 +83,7 @@ alagad	follower, disciple
 alahas	jewelry
 alak	alcohol
 alalá	worried, anxious, thinking about
+alala	memory, recollection
 alalahanin	to recall, remember; think/worry about, consider; cause of worry
 alám	knowledge, to know
 alamat	folklore, tradition, legend, myth
@@ -102,6 +103,7 @@ alitan	quarrel, conflict, tiff, strife
 alkalde	mayor
 almusal	breakfast
 alók	an offer
+altapresyon	high blood pressure
 alukín	to offer
 amá	father
 ama-amahan	foster father
@@ -131,6 +133,7 @@ ano man	whatever
 antála	delay
 antás	step, degree, grade
 antasín	to classify, grade (not commonly used)
+antáy	waiting
 antipatiko	displeasing, disagreeable, unfriendly
 anu-ano	this and that; other (plural)
 anuman	whatever, anything (ano + man)
@@ -182,6 +185,7 @@ bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
+bágong-panganák	newborn
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -244,6 +248,7 @@ bangús	milkfish
 bansâ	nation, state, country
 banta	threat
 bantáy	guard, sentry, look after
+banyaga	foreigner; foreign, alien
 barako	strong like the coffee from Batangas
 barilan	gun battle
 barkada	group of friends, clique, gang
@@ -321,7 +326,9 @@ binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
 binigkas	pronounced
 binilang	to count
+binti	leg, especially the calf part
 binubuo	composing/comprising (buuin)
+birador	hitman(?)
 birò mo	can you imagine..?
 bisà	power, force, effect, strength
 bisi	busy
@@ -414,6 +421,7 @@ dagdag-sahod	additional salary
 dagdag-singil	price hike
 dagsâ	violent forward rush
 dagtâ	sap, resin
+dahan	slowness of movement or action; lack of intensity
 dahán-dahán	slowly
 dahás	force, ferocity
 dahil dito	consequently, therefore, so..
@@ -421,6 +429,8 @@ dahil	because
 dahilan	reason (noun)
 dahon	leaf
 daigdig	the world, the earth
+dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
+daíti	pagtabihin o pagdikitin ang dalawang bagay
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -475,6 +485,8 @@ dikit	stick, adhere, paste
 dikitán	to attach, stick
 dilà	tongue
 dilaw	yellow
+dilíg	watering (of plants); irrigation
+diligán	to water something; to sprinkle with water
 di-mapigil	unstoppable
 din	too, also (the expression modified is like a corresponding earlier idea)
 dinggín	to listen to, to hear (dinig)
@@ -622,6 +634,8 @@ hakbangin	(n) steps
 halagA	price, cost, charge, worth, value, importance
 halál	vote, elective
 halalan	election
+halaman	a plant
+haligi	post, column, pole
 halika	come here
 halimbawâ	example, "for example"
 halip	stead, alternative, substitute (sa halip: instead)
@@ -645,6 +659,7 @@ hangarin	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
 hangga	result, end, outcome
 hanggan	end, boundary, limit
 hanggang	until, up to
+hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
@@ -655,6 +670,7 @@ harinawA	God willing, hopefully
 hatak	pulling (batak, hila)
 hati	sharing, taking part in, dividing
 hati-hati	dividing
+hatid	escorting; conducting; accompanying
 hating-gabi na	it's late (at night)
 hatinggabi	midnight
 hating-kapatid	half-sibling
@@ -767,6 +783,7 @@ ihain	to offer something; to put food on a table; to serve food; to sacrifice so
 ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
 iilan	very few
+iisa	only one, single, one and the same
 ikabít	to fix, fasten, hook up, connect (lit/fig)
 ikabubuti	to cause improvement, benefit "for the good of" (ika-, causer focus)
 ikabuhay	be the means of earning; be the reason for living
@@ -904,7 +921,7 @@ kabaligtaran	(the) opposite
 kabatAan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
-kabilâ	next (?); the other side (time/space); in spite of (sa kabilâ ng)
+kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
 kabít	attached, connected; mistress
@@ -962,6 +979,7 @@ kailángan	to need; needed (root)
 kailanganin	to need/require something
 kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
+káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
 kakaibang	different
 kakambal	fellow twin, being like someone
@@ -1095,7 +1113,7 @@ káso	lawsuit; case
 kasosyo	business partner
 kasundo	someone you get along with; agreeing
 kasunduan	agreement
-kasunod	next / the next; following
+kasunod	next / the next; following; something that follows, result
 katabi	next to, adjacent
 katad	leather
 katagal	duration
@@ -1109,6 +1127,7 @@ katapát	opposite
 katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
+katarantahan	state of confusion, bewilderment
 katatapos lang ng bagyo noon	?
 katatapos	just finished (kaCV - express something that just happened)
 katawAn	body
@@ -1618,6 +1637,7 @@ makamít	to achieve, to gain
 makamtan	to get, to obtain
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makapaglakbay	to be able to travel
+makapili	traitorous
 makápúlot	to happen to pick up, find
 makaramdám	to feel
 makasarili	selfish
@@ -1631,6 +1651,7 @@ makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makikiha	???? see making out in tagalog "please get.."
 makIkipag-Usap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
 makilala	to meet
+makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
@@ -1686,6 +1707,7 @@ malunod	drown, be drowned (e.g. in joy)
 malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
+mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
 mamasukan	to have a job
@@ -1828,6 +1850,7 @@ matao	crowded
 matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
 matapos	after
+mataranta	to be confused
 matauhan	to recover consciousness
 matigás	hard, tough, stiff
 matigil	to be stopped or suspended; taken aback, briefly shocked; stop; come to an end
@@ -1865,6 +1888,7 @@ may-itsúra	has an attractive appearance
 mensAhe	message
 mga kahingían	requirements
 mga	pluralizer; about, approximately
+milagro	miracle (similar to himalâ)
 miming	kitty-cat
 minsan	sometimes; once, at one time
 minsanan	a one-time thing
@@ -1892,6 +1916,7 @@ nabuhayan	to re-live something
 nadalâ	has become wary
 nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
 nag-aalala	worrying
+nag-íisá	alone; only; solitary; solo; single; unique
 nagawa	an action done
 nag-iipon	saving
 nagíng	became
@@ -2261,6 +2286,7 @@ pag-uwi	upon returning home
 pagwawangis	(metaphor)
 pahalaga	valuation, act of valuing, evaluation
 pahalagahan	give importance to, appreciate, esteem, think highly of (pinapahalagahan, pinahalagahan, papahalagahan)
+paham	a very learned person, a genius; very learned, erudite;	potency of wine, liquor or medicine
 pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
@@ -2281,6 +2307,7 @@ pakikiapíd	fornication
 pakikibagay	conforming, adaptation
 pakikipag-usap	conversation
 pakilinis	please clean..
+pakinabang	earnings, gain, profit (root: kinabang)
 pakipasa	please pass along
 pakiramdAm	feeling (n/v)
 pakisabi	"please tell"
@@ -2316,6 +2343,7 @@ palay	unhusked rice grains
 palaya	free
 palayain	to free someone/something
 palayo	getting further away
+palengke	a traditional marketplace, especially a wet market
 paliban	postponement
 paligid	vicinity; circumference
 palihis	deviated, deflected, erroneous, incorrect
@@ -2355,6 +2383,7 @@ panatilIhin	to maintain
 panauhin	a guest
 panaw	sudden disappearance, departure, death (also pagpanaw)
 panawan	to abandon; be deprived of
+panayam	interview (generally of two); conference
 pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing
@@ -2467,7 +2496,7 @@ patungkol	(noun) dedication, commemoration
 patungo	toward, going to a certain place
 patutunguhan	destination
 paulit-ulit	again and again, over and over
-paumanhín	"sorry" (very formal)
+paumanhín	apology, "sorry" (very formal)
 pauróng	backward
 pauso	trendy
 pauwi	on the way home
@@ -2553,6 +2582,7 @@ puntahan	to go to a person or place
 puntód	mound; tomb
 puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
+purók	district (smaller than a barangay)
 purong-puro	very pure
 pusa	cat
 pusakal	street cat
@@ -2564,6 +2594,8 @@ puta	used as general curse (fuck, etc.), literally: whore
 putang iná	"fuck you", your mother is a whore
 putik	mud (often used as an inoffensive substitute for the word puta)
 putikan	a muddy place
+puto maya	is made by steaming glutinous or sticky rice and coconut milk ("fake" puto)
+puto	white cake made from rice flour
 putók batok	a meal that may cause you to have a heart attack or stroke
 putók	blast, explosion; body odor (slang, eg "may putók")
 putól	cut (adj)
@@ -2639,6 +2671,7 @@ sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
 saklolo	succor, aid, help
+sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
 sakote	catch, arrest
 saksí	witness
 saktan	injured/hurt (sakit)
@@ -2708,6 +2741,7 @@ sayáng	waste; sayang! What a loss/waste/pity!
 saya-saya	very happy
 sayaw	dance
 saysáy	statement; value
+sekyu	security guard (also "sikyo")
 selos	jealousy
 sibák	chopping wood with an axe. slang for firing someone.
 sibuyas	onion
@@ -2715,7 +2749,7 @@ sidlan	to fill a container
 sigaw	shout, scream, yell
 sige na	"go ahead"
 sige	go on, go ahead, proceed, continue part. go on, proceed, continue
-sigla	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
+siglá	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
 siguro	maybe, perhaps, probably
 sikap	diligence, hard work
 sikapin	to try, seek
@@ -2775,6 +2809,7 @@ sugatán	wounded person, casualty
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 súka	spew, vomit
+sukab	treacherous, traitorous, perfidious
 sukal	garbage, flotsam, dirt
 sukat	size, measurement
 sukAtin	measure
@@ -2821,6 +2856,7 @@ suplado	snob
 suri	analysis, diagnosis, scrutiny, study, test
 suutan	to dress someone
 suwéldo	salary, pay (also 'sweldo')
+suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
 syonget	ugly
 taál	native, original
@@ -2854,6 +2890,7 @@ tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
 tahanan	residence; reside in, live in (emphasis on the place)
+tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 tákas	escape, flee (itákas, takásan, tumákas, pagtákas)
 takásan	to escape, flee
@@ -2869,6 +2906,7 @@ takip-silim	twilight; dusk
 takot	fear
 takót	scared, fearful
 takpán	to cover something (takíp)
+taksil	not to be trusted; traitor; traitorous
 takutin	to frighten
 takwil	renunciation
 talâ	a list, record; notes (root)
@@ -2877,6 +2915,9 @@ talahuluganan	glossary
 talamák	serious, critical, hard to cure; fallen; addicted
 talampakan	sole of a foot; 12 inches
 talíno	smarts, talent
+talipapâ	a temporary market (esp.for fish)
+talipapang bayan	a public market
+talipapang gala	a traveling wet market
 talo	defeated, losing
 talón	jump
 talunan	underdog; beaten, defeated (talo)
@@ -2926,6 +2967,8 @@ tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
 tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
+taranta	confusion, bewilderment
+taratahin	to confuse, baffle, bewilder
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
@@ -2989,6 +3032,7 @@ totoó	true, real, genuine
 tripulante	a crew (as in a ship, etc.)
 tsaka	(atsaka) slangy way of saying “and” or “as well as” (at + saka)
 tsansa	chance
+tsekwa	derogatory term for chinese
 tsupér	chauffeur, driver
 tubo	growing; tube, pipe; gain, profit
 tubò	native
@@ -3008,7 +3052,7 @@ tukuran	to prop up
 tukuyin	cite, mention, refer to, drive at
 tula	poem
 tulad ng	such as, like 
-tulad	(also katulad) imitation, like, similar to, followed by ng phrase
+tulad	imitation, like, similar to, followed by ng phrase
 tulak	push, shove; drug pusher (also tulak-droga)
 tulakin	to push/shove something
 tularan	imitate
@@ -3054,6 +3098,7 @@ tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
 tupád	fulfilment, implementation of a duty, promise; compliance, observance
 tupada	picnic; illegal cockfighting
+turing	remark, name, mention; answer to a riddle; modifier (in grammar); price offered (from seller or buyer)
 turò	point (as with your finger)
 turò	teach
 turò-turò	a restaraunt where you point to what you want
@@ -3152,10 +3197,28 @@ walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
+yabang	boast; boasting; arrogance; smugness; over confidence
+yakap	hug, embrace
+yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
 yamang	in as much as, provided.., as long as..; since, whereas
-yamót	boredom
+yamot	stubble
+yamót	irritated, annoyed; boredome, annoyance, irritation, displeasure, impatience, disgust
+yaníg	tremor, shock, shaking
 yapag	barefoot(?)
-yari	making, constructing, finishing (mag-,-in)
+yarì	manufacture; making, constructing
+yarí	this
+yarî	made, made of, finished, ready-made, ready
+yariin	to manufacture, construct
+yáring-kamáy	handmade
 yata	maybe, perhaps, it seems, I think
-yung	that (abbrev. of "iyong")
+yaya	nanny, au pair, nurse maid; invitation; invited
+yayà	invitation
+yayain	to invite someone
+yukô	bending down of the head or body, obeisance
+yukód	bowing one head in respect/greeting, reverence
+yumakap	to hug; to embrace
+yumaman	to get rich
+yumaníg	to shake, to shock
+yumarì	to manufacture, construct
+yung	the (colloquial); that; * informal spelling for "ang" or "iyon"+linker
