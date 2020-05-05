@@ -340,6 +340,10 @@ mag-angát (angat) mag_ [verb] to lift up
 maiangát (angat) mai_ [verb] to be able to lift something
 pag-angát (angat) pag_ [noun] raising
 umangát (angat) _um_ [verb] to become raised; to rise; to progress; to get lifted
+angkás (angkas) [adjective] riding a motorcycle or bike driven by someone else; to ride on the back of a motorcycle or bike
+umangkás (angkas) _um_ [verb] to hitch a ride; to take a ride
+iangkás (angkas) i_ [verb] to give someone a ride
+ma-angkás (angkas) ma_ [verb] to take for a ride
 angkatín (angkat) _in [verb] to import something
 angkát (angkat) [noun] import
 mag-angkát (angkat) mag_ [verb] to import
@@ -1369,6 +1373,9 @@ bisitahin (bisita) _an [verb] to visit someone/something
 bumisita (bisita) _um_ [verb] to visit
 mabisita (bisita) ma_ [verb] to be able to visit something
 pagbisita (bisita) pag_ [noun] visit
+bistado (bisto) [adjective] found out; caught
+bisto (bisto) [adjective] uncovered; revealed
+bístuhín (bisto) _in [verb] to reveal a secret
 bitin (bitin) [noun] a hanging item / object
 bitinán (bitin) [noun] hanger
 bitín (bitin) [adjective] not enough; short; lacking; running out of
@@ -4233,6 +4240,9 @@ maláyong-malayò (layo) [adjective] very far; very far away; very distant
 napakalayò (layo) [adjective] very far away
 palayô (layo) [adverb] away; further away
 pinakamalayò (layo) [adjective] furthest (in distance); farthest (in distance);
+layunin (layon) _in [noun] objective; aim; cause; goal; mission; intention; purpose
+layon (layon) [noun] intention; purpose; objective; object; aim
+palayon (layon) pa_ [grammar] objective; referring to ng words / phrases
 iliban (liban) i_ [verb] to postpone
 ipagpaliban (liban) ipagpa_ [verb] to procrastinate on something; to delay something; to postpone something; to defer something; to put something off
 liban (liban) [noun] absence; [adjective] absent
