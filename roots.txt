@@ -1105,6 +1105,10 @@ ibatì (bati) i_ [verb] to send greetings
 magbatián (bati) mag_an [verb] to greet one another (reciprocal)
 magbatî (bati) mag_ [verb] to become friends again
 pala-batì (bati) pala_ [adjective] quick to greet or say Hi; friendly
+batikos (batikos) [noun] tirade; harangue; invective; verbal abuse
+bumatikos (batikos) _um_ [verb] to criticize severely
+batikusin (batikos) _in [verb] to verbally harass someone; to go off on a tirade against someone
+pagbatikos (batikos) pag_ [noun] haranguing; invective; verbally abusing; attacking
 bahay bató (bato) [idiomatic] prison; jail
 batuhan (bato) [noun] throwing stones
 batuhán (bato) [noun] cliff; stony area; reef; coral reef
@@ -6903,6 +6907,8 @@ tayuán (tayo) _an [verb] to construct something somewhere; to build something s
 tayô (tayo) [noun] condition; social position; stance; standing up; building
 tumayô (tayo) _um_ [verb] to stand; to stand up; to rise; to position oneself
 táyo-tayo (tayo) just us (inclusive)
+nakatengga (tengga) naka_ [adjective] lying idle; on hold
+matengga (tengga) ma_ [verb] to be put on hold (AF); to be suspended (AF); to put something on hold (OF); to suspend something (OF)
 katibayan (tibay) [noun] fortitude; evidence; certificate; degree
 matibay (tibay) [adjective] strong; sturdy; durable; stable; firm; solid; adamant; hardy; resilient
 napakatibay (tibay) [adjective] very sturdy; very strong; very durable; very stable; very firm
