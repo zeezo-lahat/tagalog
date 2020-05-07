@@ -4609,12 +4609,16 @@ lupà (lupa) [noun] soil; earth; country; nation; ground; land
 makalupà (lupa) [adjective] worldly
 pagguhò ng lupà (lupa) [noun] landslide
 tinubúang-lupà (lupa) [noun] native land; homeland
-kalusugan (lusog) [noun] health
+malupít (lupit) ma_ [adjective] cruel; brutal; fierce; unkind; awesome; amazing; (slang)
+lupít (lupit) [noun] cruelty; devastation; brutality; harshness; awesomeness
+kalupitán (lupit) ka_an [noun] cruelty; atrocity
+pinakamalupít (lupit) pinakama_ [adjective] most awesome; most amazing; cruelest; most brutal
+kalusugan (lusog) ka_an [noun] health
 lumusóg (lusog) _um_ [verb] to become healthy; to become healthier
 lusóg (lusog) [noun] healthiness
-malusóg (lusog) [adjective] healthy; robust; round; having good health; healthy (said of a person);
-pangkalusugan (lusog) [adjective] for health
-pinakamalusóg (lusog) [adjective] healthiest (person)
+malusóg (lusog) ma_ [adjective] healthy; robust; round; having good health; healthy (said of a person);
+pangkalusugan (lusog) pangka_an [adjective] for health
+pinakamalusóg (lusog) pinakama_ [adjective] healthiest (person)
 lumusót (lusot) _um_ [verb] to pass through; to penetrate; to make excuses (figurative)
 lusután (lusot) _an [verb] to slip through somewhere
 lusót (lusot) [adjective] penetrating; passing through a narrow place; able to get out of a difficult situation
@@ -4622,19 +4626,19 @@ mailusót (lusot) mai_ [verb] to be able to get away with something; to be able 
 makalusót (lusot) maka_ [verb] to be able to get away with; to get through; to wriggle out of
 malusután (lusot) ma_an [verb] be able to get through a tough situation
 palusutín (lusot) pa_in [verb] to allow to get through something
-palusót (lusot) [noun] excuse; excuse oneself (from the table, from a meeting, etc.)
-kalutasan (lutas) [noun] solution; solving
+palusót (lusot) pa_ [noun] excuse; excuse oneself (from the table, from a meeting, etc.)
+kalutasan (lutas) ka_an [noun] solution; solving
 lumutás (lutas) _um_ [verb] to solve
 lutasín (lutas) _in [verb] to cope with something; to solve something
 lutás (lutas) [adjective] solved
 malutás (lutas) ma_ [verb] to be able to solve
-paglutás (lutas) [noun] solving
+paglutás (lutas) pag_ [noun] solving
 ilutò (luto) i_ [verb] to cook something
 ipaglutò (luto) ipag_ [verb] to cook for someone
 ipalutò (luto) ipa_ [verb] to have someone cook something; * focus on thing being cooked
 lutuan (luto) _an [verb] to cook something for someone
 lutuin (luto) _in [verb] to cook something
-lutuán (luto) [noun] stove
+lutuán (luto) _an [noun] stove
 lutò (luto) [noun] food; cuisine; something cooked; cooking
 lutô (luto) [adjective] cooked
 lútong-bahay (luto) [noun] home cooking
@@ -4642,10 +4646,10 @@ maglutò (luto) mag_ [verb] to cook
 magpalutò (luto) magpa_ [verb] to have (something) cooked
 makapaglutò (luto) makapag_ [verb] to be able to cook
 malutò (luto) ma_ [verb] to be cooked; to get cooked
-paglulutò (luto) [noun] cooking
-paglutò (luto) [noun] the way of cooking something
-tagalutò (luto) [noun] cook; chef
-kaluwagán (luwag) [noun] convenience
+paglulutò (luto) pagCV_ [noun] cooking
+paglutò (luto) pag_ [noun] the way of cooking something
+tagalutò (luto) taga_ [noun] cook; chef
+kaluwagán (luwag) ka_an [noun] convenience
 lumuwág (luwag) _um_ [verb] to loosen
 luwagán (luwag) _an [verb] to loosen; to ease
 luwág (luwag) [noun] spaciousness; convenience; looseness
@@ -4654,24 +4658,24 @@ napakaluwág (luwag) [adjective] very spacious; very loose
 iluwás (luwas) i_ [verb] to export; to bring to the city
 lumuwás (luwas) _um_ [verb] to move or travel from a province to a city; to go in to the city
 luwás (luwas) [noun] a move from a province to a city
-pagluluwás (luwas) [noun] exporting
-pagluwás (luwas) [noun] going from the provinces to the city
+pagluluwás (luwas) pagCV_ [noun] exporting
+pagluwás (luwas) pag_ [noun] going from the provinces to the city
 Mahál kitá (mahal) [phrase] I love you.
 Mahál na mahál kitá (mahal) [phrase] I love you very much
-kamahalan (mahal) [adjective] excellency; his/her excellency; * commonly used with royalty or rulers
+kamahalan (mahal) ka_an [adjective] excellency; his/her excellency; * commonly used with royalty or rulers
 magmahalan (mahal) mag_an [verb] to love each other or one another
 magmahál (mahal) mag_ [verb] to love; to become expensive
 mahalín (mahal) _in [verb] to love someone/something; to take care of someone/something; to treasure something; to cherish something
 mahál (mahal) [noun] love; [adjective] dear; beloved; darling; expensive; noble; [pseudo-verb] to love someone (OF)
-mamahalin (mahal) [adjective] expensive
-mapagmahál (mahal) [adjective] loving; affectionate; amorous
-napakamahál (mahal) [adjective] much loved; very expensive
-pagmamahalan (mahal) [noun] love; bond (of love)
-pagmamahál (mahal) [noun] love; affection
-pinakamahál (mahal) [adjective] most expensive
-pinakamámahál (mahal) [adjective] most loved; dearest; most precious
+mamahalin (mahal) ma_in [adjective] expensive
+mapagmahál (mahal) mapag_ [adjective] loving; affectionate; amorous
+napakamahál (mahal) napaka_ [adjective] much loved; very expensive
+pagmamahalan (mahal) pagCV_an [noun] love; bond (of love)
+pagmamahál (mahal) pagCV_ [noun] love; affection
+pinakamahál (mahal) pinaka_ [adjective] most expensive
+pinakamámahál (mahal) pinakaCV_ [adjective] most loved; dearest; most precious
 ipamalas (malas) ipa_ [verb] to manifest
-kamalasan (malas) [noun] misfortune; bad luck
+kamalasan (malas) ka_an [noun] misfortune; bad luck
 magpamalas (malas) magpa_ [verb] to have something shown off; to put something on display
 malas (malas) [noun] bad luck; gaze; notice; jinx; showing off; [adjective] unlucky
 malasin (malas) _in [verb] to have bad luck; to suffer harm; to be unlucky
