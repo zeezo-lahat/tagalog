@@ -914,7 +914,7 @@ kaagahan, pagka-maaga, katempranuhan, pagsapit o pagdating nang una sa	takdang o
 kaAgaw	rival
 kaAkit-Akit	attractive
 kaarawan	birthday, anniversary
-kaAwa-Awa	poor, pitiful, wretched
+kaAwa-Awa	so poor, pitiful, wretched
 kaaway	enemy
 kababaang-loob	humility
 kabahan	dread
@@ -949,6 +949,7 @@ kagulat-gulat	startling, amazing
 kaguluhan	melee, confusion, conflict
 kagyat	immediately, instantly; immediate; instant
 kahabaan	length, extent
+kahabag-habag	so very pitiful
 kahalagAhan	importance
 kahapon pa	since yesterday
 kahati	shareholder; share (hati)
@@ -1163,6 +1164,7 @@ kawalan	loss, a lack of X, void, nothingness
 kawalang-kahulugan	“absence of meaning”, meaninglessness
 kawat	stealing, theft (Visaya)
 kawatán	thief
+kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
 kawáy	waving of the hand
 káya	ability, competence; able, is able
 kayâ	perhaps, maybe; that's why, therefore
@@ -1637,6 +1639,7 @@ makalimutin	forgetful
 makalipas	after (having passed, the passage of time) (makalipas ang isang araw -> a day later)
 makaluma	olden, old-fashioned
 makamít	to achieve, to gain
+makamkam	rapacious, greedy, want to have all
 makamtan	to get, to obtain
 makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makapaglakbay	to be able to travel
@@ -1803,6 +1806,7 @@ mas	more
 masagána	abundant, plentiful (sagána)
 masagasà	to be run over
 masAhol	worse
+masakim	avaricious, covetous, greedy, rapacious, selfish
 masakit	painful, hurting, sensitive, sarcastic, sharp
 masakit	persevering, diligent, great
 masakote	to be caught, apprehended, arrested
