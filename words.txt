@@ -124,6 +124,7 @@ anak-anakan	foster chld
 anak-pawis	“child of sweat” = born of the working class
 ang aga mo!	you’re so early!
 ang aga nila!	they’re so early!
+angas	a show-off, boastful person
 ani	crop, harvest
 ani	said by
 anihin	to harvest
@@ -274,6 +275,7 @@ batì	greeting
 batíd	known, awareness (slightly formal term)
 batik	spot, stain, blemish
 batikán	spotted; tried, tested, expert
+batikos	tirade, harangue, invective, verbal abuse
 bato	a stone, rock; kidney; something to throw, throwing
 batok	back of the neck, nape
 batukan	to hit the back part of the head
@@ -354,6 +356,7 @@ bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
 bugsô	crowd of people
 bugsô	flush, blast, downpour
+bugtóng	lone, the only one, sole, only child; unique (syn. tangì); riddle
 búhat nang	since
 búhat	from (buhat sa)
 búhat	lift
@@ -1375,7 +1378,7 @@ lobo	balloon
 lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
 lubhâ	extremely
 lubóg	submerged, sunken, buried (lit. or fig.)
-lubos	complete, exhaustive, entire, unmitigated, quite
+lubos	complete, exhaustive, entire, unmitigated, quite, wholly, in full
 lugI	financial loss
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luksA	in mourning, in black
@@ -2654,6 +2657,8 @@ sabi	to say
 sabihin	to say, to tell
 sabík	eager, keen, yearning
 sabit	hanging; snagging, being caught
+sabláy	hard quick but indirect blow with the fist; speed; swiftness (e.g. of a small boat); innuendo, insinuation, swindle
+sabláy	missed, didn’t hit the target, out of sync
 sabog	explosion, scattering
 sabón	soap
 sabong	cockfight; cock-fight
@@ -2956,7 +2961,7 @@ tangGI	refusal, denial, negation
 tanghál	to be shown, on display
 tanghalan	exhibition
 tanghali	noon
-tangi	only, particular; exceptional, special
+tangì	only, particular; exceptional, special (syn. bugtóng)
 tangkád	tallness and slenderness
 tangkaíng	to attempt something
 tangkílik	tagúyod
@@ -2977,6 +2982,7 @@ tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
 taranta	confusion, bewilderment
 taratahin	to confuse, baffle, bewilder
+tarantádo	foolish, shameless, disrespectful; moron, asshole
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at

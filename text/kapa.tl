@@ -33,7 +33,7 @@ KAPA
 
    For most people visiting this site though, what they seem to be
    searching for is the meaning of the non-standard, informal contraction
-   of the words [66]ka and [67]pa.
+   of the words ka and pa.
 
    This usage is very colloquial and the nuances are hard to translate
    because it depends on the context or situation in which it is used.
