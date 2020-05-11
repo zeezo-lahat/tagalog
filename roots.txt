@@ -7351,14 +7351,18 @@ tusok (tusok) [noun] piercing; perforation; small puncture
 matuto (tuto) ma_ [verb] to learn; to pick up; to learn without teaching
 matutuhan (tuto) ma_an [verb] to learn something; to find out something; to experience something
 matutunan (tuto) ma_an [verb] to learn something; to find something out; to experience something
-pagkatuto (tuto) [adjective] learning
+pagkatuto (tuto) pagka_ [adjective] learning
 tuto (tuto) [noun] learning; gaining knowledge or skill
 itutok (tutok) i_ [verb] to point a weapon at; to focus; to aim at
 manutok (tutok) ma_ [verb] to hold someone up at gunpoint; to rob
-nakatutók (tutok) [adjective] focused on; aimed at
+nakatutók (tutok) naka_ [adjective] focused on; aimed at
 tumutok (tutok) _um_ [verb] to concentrate; to focus
 tutukan (tutok) _an [verb] to point a weapon at something; to focus on something; to aim at something
 tutók (tutok) [adjective] focused on something
+walang-tutol (tutol) [adjective] passive; resigned
+tutol (tutol) [noun] objection; complaint; [adjective] opposed; objecting; against
+tutulan (tutol) _an [verb] to dispute; to object to; to protest
+tumutol (tutol) _um_ [verb] to object; to argue against; to protest
 Kátuwaan lang (tuwa) [phrase] Just for fun; Just for laughs
 ikatuwâ (tuwa) ika_ [verb] to cause happiness
 kakatwâ (tuwa) [adjective] weird; odd; eccentric
