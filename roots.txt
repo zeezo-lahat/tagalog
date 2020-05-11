@@ -2835,6 +2835,9 @@ napakahinà (hina) [adjective] very weak
 paghinà (hina) [noun] deterioration; slowing down; weakening
 panghihinà (hina) [noun] deterioration; faintness; lack of energy; lethargy
 pinakamahinà (hina) [adjective] weakest
+manghinayang (hinayang) mang_ [verb] to regret; to feel sorry
+hinayang (hinayang) [noun] regret for not having made use of some opportunity; sense of loss
+panghihinayang (hinayang) pangCV_ [noun] missed opportunity
 'di ngâ? (hindi) [interjection] seriously? really? no kidding?
 at hindî (hindi) [conjunction] and not
 dehins (hindi) [slang] no; not; * derived from the word hindi
@@ -4751,6 +4754,7 @@ kalakháng Maynilà (maynila) [noun] Metro Manila
 kamaynilaan (maynila) [noun] Manila area
 pa-Maynilà (maynila) headed to Manila; going to/toward Manila; bound for Manila
 taga-Maynilà (maynila) [noun] a person who is from or resides in Manila
+magkaroón (mayroon) magka_ [verb] to have; to possess; to get (in possession); to come to have; to end up having
 makamenos (menos) maka_ [verb] to be able to reduce; to be able to lessen
 menos (menos) [adjective] less (of value, degree)
 ménos-gastos (menos) [adjective] less expensive/cost

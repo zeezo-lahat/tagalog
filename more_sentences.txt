@@ -1164,6 +1164,7 @@ Ikáw ang nagpápatakbó ng buhay ko. 	You keep my life going.
 Ikáw ba ang nagtatalâ ng mga pangalan ng mga nawawaláng tao. 	Are you the one registering the names of the missing persons?
 Ikáw mismo ang sumirà ng pangalan mo.	You yourself ruined your reputation.
 Ikáw na ang bahalà diyán para hindî ko na áalalahanin pa iyán. 	You just take care of it so that I don't have to still worry about it.
+Ikuha mo kaya ako ng isa pang serbesa.	I wonder if you could get me another beer.
 Ilagáy mo sa channel 6 ang TV.	Switch the TV to channel 6.
 Ilan ang mga kulay?	How many colors are there?
 Ilan kayo? Tatlo kami.	How many are you? We are three.
@@ -2393,6 +2394,7 @@ Púpuntá ngâ siyá sa party.	She really is going to the party.
 Púpunuín nilá ng sikát na mga artista ang kaarawán ng anák nilá.	They will fill their daughter's birthday celebration with famous celebrities.
 Pusa ako. Wala pa akong pangalan.	I am a cat. I don't have a name yet.
 Puwede ba kitáng ikuha ng inumin? 	Can I get you a drink?
+Puwede ba kitáng ikuha ng inumin?	Can I get you a drink?
 Puwede ba kitang kausapin?	May I talk to you?
 Puwede ba kitáng makausap?	Can I talk to you?
 Puwede ba kitáng yakapin?	May I hug you?

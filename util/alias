@@ -11,7 +11,7 @@ root ()
 
 def ()
 {
-  cat words.txt roots.txt | tgrep.py "^$*\\t"
+  cat words.txt | tgrep.py "^$*\\t"
 }
 
 tgw ()
