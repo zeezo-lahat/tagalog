@@ -2307,6 +2307,7 @@ pahingi	"please give me.." (hingi. var: "pengi")
 pahintulot	permission, authorization
 pahirám	"may I borrow...(ng)"; something lent
 pahirap	burden
+pahiwátig	a hint, impression, subtle inadvertent suggestion
 pailaw	a light
 pakahulugan	interpretation
 pakainin	to feed
