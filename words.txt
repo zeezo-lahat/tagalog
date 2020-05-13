@@ -82,8 +82,8 @@ alagà	ward
 alagad	follower, disciple
 alahas	jewelry
 alak	alcohol
-alalá	worried, anxious, thinking about
 alala	memory, recollection
+alalá	worried, anxious, thinking about
 alalahanin	to recall, remember; think/worry about, consider; cause of worry
 alám	knowledge, to know
 alamat	folklore, tradition, legend, myth
@@ -107,6 +107,8 @@ altapresyon	high blood pressure
 alukín	to offer
 amá	father
 ama-amahan	foster father
+ambâ	threaten; threatening gesture
+ambaán	to threaten someone; to make threatening gestures toward someone
 ambág	contribution
 ambagan	contribution by several (diff. from ambagán)
 ambagán	to contribute
@@ -675,8 +677,8 @@ haráp	front
 harinawA	God willing, hopefully
 hatak	pulling (batak, hila)
 hati	sharing, taking part in, dividing
-hati-hati	dividing
 hatid	escorting; conducting; accompanying
+hati-hati	dividing
 hating-gabi na	it's late (at night)
 hatinggabi	midnight
 hating-kapatid	half-sibling
@@ -1742,6 +1744,7 @@ mang-aagaw	someone who snatches away (a thing or lover)
 mang-ahit	to shave someone
 mangahulugan	to mean
 mangako	to promise
+mangambâ	to feel threatened; to feel fear
 manganib	to be in danger; to be threatened
 mangarap	to dream
 manggagawà	a worker
@@ -1927,9 +1930,9 @@ nabuhayan	to re-live something
 nadalâ	has become wary
 nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
 nag-aalala	worrying
-nag-íisá	alone; only; solitary; solo; single; unique
 nagawa	an action done
 nag-iipon	saving
+nag-íisá	alone; only; solitary; solo; single; unique
 nagíng	became
 nagkaganoon	happened that way
 nagkáisá	to unite
@@ -1979,6 +1982,7 @@ nakalimot	forgot
 nakalimutan	to have forgotten
 nakalipas	past/passed by/the past (?)
 nakamamatay	can be fatal / cause death
+nakambâ	threatening  (naka + amba)
 nakapalda	wearing a skirt
 nakaparada	parking
 nakapasa	was able to pass (a test for school or work)
@@ -2404,6 +2408,7 @@ pandiriwang	ceremonial, celebratory (adj)
 pandurUkot	pickpocketing
 pangako	promise
 pangambA	fear
+pangambahán	to threaten somewhere/something (amba)
 panganay	first-born child; first-born (adj)
 pangangalakal	scavenging
 pangangarap	dreaming
@@ -2983,8 +2988,8 @@ tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
 taranta	confusion, bewilderment
-taratahin	to confuse, baffle, bewilder
 tarantádo	foolish, shameless, disrespectful; moron, asshole
+taratahin	to confuse, baffle, bewilder
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
@@ -3218,18 +3223,18 @@ yakap	hug, embrace
 yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
 yamang	in as much as, provided.., as long as..; since, whereas
-yamot	stubble
 yamót	irritated, annoyed; boredome, annoyance, irritation, displeasure, impatience, disgust
+yamot	stubble
 yaníg	tremor, shock, shaking
 yapag	barefoot(?)
+yarî	made, made of, finished, ready-made, ready
 yarì	manufacture; making, constructing
 yarí	this
-yarî	made, made of, finished, ready-made, ready
 yariin	to manufacture, construct
 yáring-kamáy	handmade
 yata	maybe, perhaps, it seems, I think
-yaya	nanny, au pair, nurse maid; invitation; invited
 yayà	invitation
+yaya	nanny, au pair, nurse maid; invitation; invited
 yayain	to invite someone
 yukô	bending down of the head or body, obeisance
 yukód	bowing one head in respect/greeting, reverence
