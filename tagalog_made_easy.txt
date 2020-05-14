@@ -113,7 +113,7 @@ Ako ang nagsabi sa kanya.	I was the one who told her.
 Alam ko ang gagawin ko.	I know what to do.
 Siya ang may alam.	She knows.
 Wala siya alam.	She knows nothing.
-Kailangan mong malamon.	You need to know.
+Kailangan mong malaman.	You need to know.
 Subukan mong unawain.	Try to understand.
 Masaya ako para sa iyo.	I am happy for you.
 Tama pala ako.	I was right.
