@@ -82,7 +82,7 @@ hayaan mong tulungan kita	let me help you
 tutulUngan kita	I'll help you
 lumapit ka	come closer
 kaya mo yan	you can do it
-maging masaya sana araw mo	have a great day
+maging masaya sana araw mo	(I hope you) have a great day
 nagustuhan ko	I like it
 hindi yata	I don't think so
 patí na rin ang	as well as
@@ -127,7 +127,6 @@ katwiran na magalit	(a) reason to be angry
 maging masaya	to enjoy, have fun
 sa ano mang oras	any time (in the future)
 sa kabila	despite
-kaya lang	but
 yun yon	that's what that is
 pwede na	no choice
 eh ano?	what about it?
