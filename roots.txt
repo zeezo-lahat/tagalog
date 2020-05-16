@@ -349,6 +349,11 @@ angkát (angkat) [noun] import
 mag-angkát (angkat) mag_ [verb] to import
 pag-aangkát (angkat) pagCV_ [noun] importation; importing
 umangkát (angkat) _um_ [verb] to import
+angkinín (angkin) _in [verb] to claim something (property, credit, etc.)
+angkín (angkin) [noun] inborn; natural; demand for one's own right; claim
+pag-angkín (angkin) pag_ [noun] appropriating; appropriation
+umangkín (angkin) _um_ [verb] to appropriate; to claim
+maangkín (angkin) ma_ [verb] to be able to claim something
 angkóp (angkop) [adjective] suitable; appropriate; apropos; proper; fitting
 iangkóp (angkop) i_ [verb] to adapt; to fit; to make suitable
 maangkóp (angkop) ma_ [verb] to be fitting; to be suitable
