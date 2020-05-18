@@ -142,6 +142,8 @@ antipatiko	displeasing, disagreeable, unfriendly
 anu-ano	this and that; other (plural)
 anuman	whatever, anything (ano + man)
 anyô	form, appearance, figure
+apaw	overflowing
+apawan	to overflow
 apíd	fornication
 apó	grandchild
 apoy	fire, flame
@@ -633,8 +635,8 @@ habang-panahon	"while time", forever
 hablot	grab
 habol	pursue, run after, chase
 hagdán	ladder, stairs
-haginít	cracking sound, swishing sound
 haginit	cracking sound; swishing sound of swiftly passing vehicles
+hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 haka-haka	a myth
 hakbáng	step; stepping; move
@@ -650,6 +652,7 @@ halip	stead, alternative, substitute (sa halip: instead)
 hálos	almost, nearly; approximately, about
 hámak	lowly, humble; mean, petty, shabby
 hamakin	to belittle, scorn
+hambog	boastful, proud, vain, arrogant, stuck-up
 hamog	the moisture in the air that can be seen, vapor; dew
 hámon	a challenge
 hampas	to hit, to strike
@@ -941,6 +944,7 @@ kabuuAn	composition, entirety
 kadalAsan	frequently, usually
 kadangya	a person who is well off or has more than others
 kadena	a chain
+kadiwa	fellow of the same spirit or thinking
 kadugo	a blood relative
 kagabí	last night
 kagagawan	cause of something being done
@@ -3161,6 +3165,7 @@ umalma	have a tantrum or a fit, rise on one’s hind legs (like a bucking horse)
 umamin	admitted/confessed (amin)
 umaming	abbrev of "umamin na" admitted/confessed already
 umanó	alleged(ly), supposed(ly), purported(ly), "it is said"
+umapaw	to overflow
 umawit	to sing
 umayos	to behave
 umiinom	drinking
