@@ -676,6 +676,7 @@ hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
+haplos	caressing, stroking, petting
 hárang	obstacle
 harangin	to block
 haráp	front
@@ -797,6 +798,7 @@ ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
 iilan	very few
 iisa	only one, single, one and the same
+iká	said by ("ang wika")
 ikabít	to fix, fasten, hook up, connect (lit/fig)
 ikabubuti	to cause improvement, benefit "for the good of" (ika-, causer focus)
 ikabuhay	be the means of earning; be the reason for living
@@ -1132,6 +1134,7 @@ kasunod	next / the next; following; something that follows, result
 katabi	next to, adjacent
 katad	leather
 katagal	duration
+katahimikan	silence
 katalo	opponent
 katambál	a partner, someone you’re paired with
 katanggap-tanggap	acceptable
@@ -1307,6 +1310,7 @@ lamangan	advantage over others
 lambanóg	coconut booze
 lambót	softness, tenderness
 lamig	coldness
+lamon	voracious eating, gorging, gormandizing
 lampara	a source of light, as a lamp
 lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
@@ -2581,6 +2585,7 @@ pintuan	doorway
 pintúra	paint
 pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
+pisngí	cheek
 pitpit	flattened by beating, pounded
 poók	place, site
 pook-pamilIhan	literally “marketplace”
@@ -3209,6 +3214,7 @@ usok	smoke (n)
 utak	brain
 utang	debt
 utas	completely finished, dead; completely obsessed with
+utay-utay	gradually
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
