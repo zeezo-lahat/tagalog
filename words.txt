@@ -272,6 +272,7 @@ basta	enough, sufficient, "it is enough"; As a declaration: "just because", "wha
 batà	a child; "young"
 batang-hamog	street child
 batás	law
+batasan	legislature (lawmakers)
 batay	based on, by, with
 bátáyan	ground, basis, cause
 batayán	standard, criterion
@@ -453,8 +454,8 @@ dali	quickness, rapidity, ease
 dalian	to hurry
 dali-dali	quickly!
 daló	presence, attendance
-damdám	take offense, feel resentment
-damdamin	feelings
+damdám	feeling
+damdamin	feelings, sentiment, emotions
 dami	amount, quantity; lots / a lot of
 damit	clothing, dress
 damo	grass
@@ -653,6 +654,7 @@ hálos	almost, nearly; approximately, about
 hámak	lowly, humble; mean, petty, shabby
 hamakin	to belittle, scorn
 hambog	boastful, proud, vain, arrogant, stuck-up
+hambóg	descriptive word for a person, especially a man, who boasts a lot, smug about himself, arrogant
 hamog	the moisture in the air that can be seen, vapor; dew
 hámon	a challenge
 hampas	to hit, to strike
@@ -674,6 +676,7 @@ hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
+haplos	caressing, stroking, petting
 hárang	obstacle
 harangin	to block
 haráp	front
@@ -795,6 +798,7 @@ ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
 iilan	very few
 iisa	only one, single, one and the same
+iká	said by ("ang wika")
 ikabít	to fix, fasten, hook up, connect (lit/fig)
 ikabubuti	to cause improvement, benefit "for the good of" (ika-, causer focus)
 ikabuhay	be the means of earning; be the reason for living
@@ -1130,6 +1134,7 @@ kasunod	next / the next; following; something that follows, result
 katabi	next to, adjacent
 katad	leather
 katagal	duration
+katahimikan	silence
 katalo	opponent
 katambál	a partner, someone you’re paired with
 katanggap-tanggap	acceptable
@@ -1305,6 +1310,7 @@ lamangan	advantage over others
 lambanóg	coconut booze
 lambót	softness, tenderness
 lamig	coldness
+lamon	voracious eating, gorging, gormandizing
 lampara	a source of light, as a lamp
 lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
@@ -1503,6 +1509,7 @@ magdasal	to pray
 magdaya	to cheat, trick
 magdikit	to stick together
 maghain	to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.). (actor)
+maghambóg	to brag, boast
 maghapunan	to have dinner
 maghawak	to hold each other by the hand
 mag-iba	to change or switch
@@ -1529,7 +1536,7 @@ magkanó	how much?
 magkapareho	the same (ref. to two things/people)
 magkapatid	siblings
 magkapit	to hold onto each other, to join hands
-magkaroón	to come to have, to have happen, to acquire; to be affected (doon)
+magkaroón	to come to have, to have happen, to acquire (mayroon)
 magkasama	together
 magkasintahan	a couple in a romantic relationship
 magkatulad	similar (two things)
@@ -1551,7 +1558,7 @@ magmanEho	to drive
 magmulta	to pay a fine
 magmurá	to swear/curse
 magnanakaw	thief
-magpaalam	to bid goodbye
+magpaalam	to bid goodbye; to ask permission
 magpagaling	to heal, cure, recuperate
 magpahinga	to take a break
 magpahirap	to make matters difficult
@@ -1944,6 +1951,7 @@ nagkaganoon	happened that way
 nagkáisá	to unite
 nagkalituhan	(people) getting mixed up
 nagkapalit	ended up switched
+nagkaroón	had
 nagkUsa	willingly
 nagmamadali	hurrying, in a hurry
 nagpakalunod	drowned oneself in
@@ -2369,6 +2377,7 @@ palayo	getting further away
 palengke	a traditional marketplace, especially a wet market
 paliban	postponement
 paligid	vicinity; circumference
+páligsahan	a competition
 palihis	deviated, deflected, erroneous, incorrect
 palikuran	a toilet, especially an outhouse
 palimOs	begging; request for money from beggars
@@ -2435,6 +2444,7 @@ pangulo	president
 pangungulila	homesickness
 pangungusap	sentence (grammar); remarks; expression
 pangyayari	happening, an incident
+paniki	large bat which feeds on plants/fruits
 panindigan	to affirm; allege; maintain an argument, etc.; take the part of; uphold (pinapanindigan, pinanindigan, papanindigan)
 paningin	sense of sight, eyesight
 paninigarilyo	smoking (of cigarette)
@@ -2577,6 +2587,7 @@ pintuan	doorway
 pintúra	paint
 pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
+pisngí	cheek
 pitpit	flattened by beating, pounded
 poók	place, site
 pook-pamilIhan	literally “marketplace”
@@ -2807,6 +2818,7 @@ sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sinungaling	liar; lie
+sipa	kick (with the foot); game using a rattan ball
 sípag	diligence, hard work
 sipón	a cold
 sipot	arrival
@@ -2938,6 +2950,8 @@ takwil	renunciation
 talâ	a list, record; notes (root)
 taláhib	tall grass
 talahuluganan	glossary
+talakayan	discussion
+talakayin	to discuss
 talamák	serious, critical, hard to cure; fallen; addicted
 talampakan	sole of a foot; 12 inches
 talíno	smarts, talent
@@ -3202,6 +3216,7 @@ usok	smoke (n)
 utak	brain
 utang	debt
 utas	completely finished, dead; completely obsessed with
+utay-utay	gradually
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
