@@ -5873,9 +5873,9 @@ panawáy (saway) [noun / adjective] anything said or done to stop or prevent som
 pasawáy (saway) [adjective] stubborn; pesky; naughty
 sawayín (saway) _in [verb] to reprimand someone; to rebuke someone; to tell someone what to do
 sawáy (saway) [noun] rebuke ; reprimand; reprehension; prohibiting
-ikasawî (sawi) [verb] to cause misfortune
-kasawian (sawi) [noun] misfortune; failure
-masawî (sawi) [verb] to meet with misfortune; to die
+ikasawî (sawi) ika_ [verb] to cause misfortune
+kasawian (sawi) ka_an [noun] misfortune; failure
+masawî (sawi) ma_ [verb] to meet with misfortune; to die
 sawî (sawi) [adjective] unfortunate; unlucky
 ikasayá (saya) ika_ [verb] to make glad; to make happy
 kasayahan (saya) [noun] being happy; party; affair; festival; gathering of happy people; fun
