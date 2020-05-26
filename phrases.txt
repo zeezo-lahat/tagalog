@@ -12,7 +12,7 @@ kasing-ganda mo siya	she's as beautiful as you
 hinintay kita ng matagal.	I waited for you for a long time.
 isara mo ang pinto	lock the door
 parang hindi	hardly / doesn't seem
-will you get me some coffee?	pwede mo ba ako ikuha ng kape?
+pwede mo ba ako ikuha ng kape?	will you get me some coffee?
 Pagbigyán mo namán akó.	Please give me some slack. / Please oblige me.
 Pahalik naman.	Let me have a kiss.
 ayan ka na naman	there you go again
@@ -39,7 +39,7 @@ meron pa ba?    is there more?
 Meron pa	There’s more.
 nahanap mo na ba?	did you find it?
 nawawala parin	still missing/lost
-Malay ko ba?	How should I know?
+málay ko ba?	hell if I know.
 hindi ko pwedeng sabihin	I can't tell/say
 maupô ka	have a seat
 bahay ito ng tiyahin ko	it's my aunt's house
@@ -63,7 +63,7 @@ Dito ka.	Stay here.
 Dito ka umupo.  Sit here.
 mga itó	these
 Sumeryoso ka nga.	Get serious.
-Ano kaya kung..?	what if..?
+Ano kayâ kung..?	what if..?
 kani-kanina lamang	lately
 kamakailán lamang / kailan lamang	recently, a short time ago
 Gaano katagal?	How long? (time)
@@ -146,7 +146,7 @@ different	magkaiba(ng)
 you're useless	wala kang silbi
 kahit saan	everywhere
 na naman	again
-kitang-kita	obvious
+kItang-kIta	obvious
 dahan-dahan	slowly
 pantay	equal
 mawalang galang lang	excuse me
@@ -228,3 +228,47 @@ Dahan-dahan magsalita, nga!	Speak more slowly!
 Gawín mo na!	Do it!
 Parehong kasabay	at the same time, simultaneously
 habang walâ akó	while I'm away
+mga gamit	stuff/things
+nang wala ako	without me
+si Paul ito	this is Paul
+Nawala kami ng daan	We lost our way
+dahan-dahan ka	calm down
+áanhín	what's the use/point
+huli ka na	you're too late
+nakita ko na	I've seen it
+tahan na	don't cry
+kumulimlim na	it was getting dark
+bahala na siya	let's leave it up to him
+wala na si Tom	Tom is gone
+hindi ka na bata	you're not a child/young anymore
+oras na ng tulog	it's time for bed
+nasa iyo na iyon	it's up to you
+hindi na mauulit	I won't do it again
+naghapunan ka na?	have you had dinner yet?
+di ba malinaw na?	is it not clear enough?
+magsimula na tayo	let's start right away
+hindi na ako nene	I'm not a girl anymore
+nakalimutan mo na	you've already forgotten
+halos handa na ako	I'm almost ready
+okey na ako ngayon	I'm feeling better/fine now
+bumalik na ba siya?	is he back already?
+bumalik ako	I'm back
+kalimutan na natin	let's forget it
+paiyak na si Tomas	Tomas was on the verge of tears
+handa na ang lahat	everything is ready
+umalis na ang tren	the train has already left
+mawalang-galang lang	excuse me
+di na kayo mga bata	you're not children anymore
+huminga nang normal	breathe normally
+nakilala mo na siya?	have you already met her?
+dapat matulog ka na	you should sleep
+hindi na siya galit	he's not angry anymore
+oras na ng pagtulog	it's bedtime
+wala na akong maisip	I'm running out of ideas
+ingat sa aso	beware of dog
+sa kanya iyan	that's his
+ngá bá?	is it actually the case?
+sabihin ang katotohanan	tell the truth
+Naíibá ka rin.	You're something else.
+ibayong dagat	overseas
+sabihin mo sa akin	tell me

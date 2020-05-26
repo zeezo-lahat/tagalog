@@ -299,7 +299,7 @@ naka-	current TEMPORARY STATE (ex. nakaupo - sitting, nakaitim - wearing black)
 nakaka-	CAUSING/creating/producing something (ex. nakakainis - annoying)
 nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
 pa-	MANNER (ex. pabulong - in a whisper)
-pa-	ABOUT TO (ex. parating/paalis - about to arrive/leave)
+pa-	ABOUT TO, BECOMING (ex. pagandá, parating/paalis - about to arrive/leave)
 pa-	"CAN I", "MAY I" have/see/borrow, etc
 pa-	REQUESTED/ORDERED THINGS OR ACTIONS (padala)
 pa-	something that brings about / causes / creates something (pabango, palamig)
@@ -387,5 +387,6 @@ pangCV-	a practice or action (ex panggagamot - practice of medicine, pangmomoles
 tag-	a season (ex. tag-init)
 taga-	expresses origin of a person
 taga- tagapag-, tagapang-	nouns of profession (ex. tagapaglinis)
+tala-	a list or a record
 -um-	actor focus
 REP-REPan	nouns of imitation, fakeness (bahay-bahayan)
