@@ -4718,14 +4718,14 @@ magmana (mana) mag_ [verb] to inherit
 mamana (mana) ma_ [verb] to inherit; to acquire
 mana (mana) [noun] inheritance
 manahin (mana) _in [verb] to inherit something
-pamana (mana) [noun] inheritance; legacy; heritage
-pamanahan (mana) pangCV_ [verb] to leave an inheritance
-tagapagmana (mana) [noun] heir
+pamana (mana) pa_ [noun] inheritance; legacy; heritage
+pamanahan (mana) pa_an [verb] to leave an inheritance
+tagapagmana (mana) tagapag_ [noun] heir
 ipagmaneho (maneho) ipag_ [verb] to drive someone (in a vehicle)
 magmaneho (maneho) mag_ [verb] to drive
 makapagmaneho (maneho) makapag_ [verb] to be able to drive
 manehuhin (maneho) _in [verb] to drive something (a vehicle); to manage something
-pagmamaneho (maneho) [noun] driving
+pagmamaneho (maneho) pagCV_ [noun] driving
 kamangha-manghâ (mangha) [adjective] awesome; marvelous; amazing
 mamanghâ (mangha) [verb] to be amazed; to be astonished; to wonder
 manghâ (mangha) [noun] amazement
@@ -7274,7 +7274,7 @@ makapagpatuloy (tuloy) makapagpa_ [verb] to be able to continue; to be able to p
 makituloy (tuloy) maki_ [verb] to stay somewhere temporarily
 matulóy (tuloy) ma_ [verb] to follow through; to go on; to continue; to push through
 pagpapatuloy (tuloy) [noun] continuation; extension
-patuloy (tuloy) [adjective] continuous; constant; perpetual; [adverb] continue; continues; continuously; keeping on; keep on
+patuloy (tuloy) pa_ [adjective] continuous; constant; perpetual; [adverb] continue; continues; continuously; keeping on; keep on
 tuluyan (tuloy) [noun] temporary home or shelter; [adverb] eventually; in the end; consequently
 tuluyán (tuloy) _an [verb] to goad someone on; to continue on to somewhere
 tulóy (tuloy) [interjection] come in! [adverb] as a result; as a consequence; might as well; push through; proceed; continue; next; eventually; accordingly
@@ -7300,13 +7300,13 @@ katunayan (tunay) [noun] true; veracity; actuality; evidence; proof; fact; since
 magpatunay (tunay) magpa_ [verb] to prove; to certify; to attest; to confirm; to demonstrate
 mapatunayan (tunay) mapa_an [verb] to be able to prove; to be able to testify; to be able to verify; to be able to corroborate.
 pagpápatunay (tunay) [noun] confirmation; proof
-patunay (tunay) [noun] proof; evidence; manifestation
+patunay (tunay) pa_ [noun] proof; evidence; manifestation
 patunayan (tunay) pa_an [verb] to prove; to testify; to verify; to certify; to authenticate; to corroborate
 sa katunayan (tunay) [adverb] in fact; in reality
 tunay (tunay) [adjective] true; genuine; full-blooded; concrete; sincere; actual; factual
 katungkulan (tungkol) [noun] task; job; duty; obligation; business; position; function; employment
 panunungkulan (tungkol) [noun] time in office; term (ex(tungkol) presidential term)
-patungkól (tungkol) [noun] about; dedication
+patungkól (tungkol) pa_ [noun] about; dedication
 tungkulin (tungkol) [noun] duty; responsibility; concern; mission; function; role
 tungkól (tungkol) [preposition] about; regarding
 itungó (tungo) i_ [verb] to bend one's head
@@ -7316,7 +7316,7 @@ nakatungó (tungo) [adjective] downcast
 pagtungò (tungo) [noun] going to a certain place
 pakikitungo (tungo) [noun] treatment; dealing; relationship; pleasantry
 pakitungo (tungo) [noun] behavior
-patungo (tungo) [preposition] toward; [adjective] headed to
+patungo (tungo) pa_ [preposition] toward; [adjective] headed to
 patútunguhan (tungo) [noun] destination
 tumungò (tungo) _um_ [verb] to go to; to proceed to
 tungo (tungo) [preposition] toward
@@ -7351,7 +7351,7 @@ tupdín (tupad) _in [verb] to fulfill; to obey an order
 tupád (tupad) [noun] fulfilment of a duty, promise, etc.; compliance; observance
 ituring (turing) [verb] to treat someone/something; to consider someone/something (in some way)
 maituring (turing) [verb] to be able to treat something as; to be able to consider something as
-panuring (turing) [grammar] modifier
+panuring (turing) pang_ [grammar] modifier
 turing (turing) [noun] name; the way one treats or considers another; [grammar] modifier;
 hintuturò (turo) [noun] index finger; pointer finger
 ipaturò (turo) ipa_ [verb] to have something taught; to ask someone to point at something
@@ -7360,15 +7360,15 @@ katuruán (turo) [noun] lesson; teaching
 magturò (turo) mag_ [verb] to teach; to tutor
 makapagturò (turo) makapag_ [verb] to be able to teach
 maturuan (turo) ma_an [verb] to teach something; to teach someone; to educate someone; to train someone; to enlighten someone
-pagtuturò (turo) [noun] teaching; instruction; the teaching profession
-panturò (turo) [noun] anything used for teaching or for pointing
-panurò (turo) [noun] anything used for teaching or instructing
+pagtuturò (turo) pagCV_ [noun] teaching; instruction; the teaching profession
+panturò (turo) pang_ [noun] anything used for teaching or for pointing
+panurò (turo) pa_ [noun] anything used for teaching or instructing
 turuan (turo) _an [verb] to teach someone; to educate someone; to enlighten someone; to train someone
 turò (turo) [noun] teaching; instruction; education; lesson; pointing at; directing someone to a place
 itusok (tusok) i_ [verb] to pierce something
 matusok (tusok) ma_ [verb] to be pierced (AF); to pierce something (OF)
 pagtusok (tusok) [noun] piercing; puncturing
-patusok (tusok) [noun] piercing
+patusok (tusok) pa_ [noun] piercing
 tumusók (tusok) _um_ [verb] to pierce; to be piercing; to poke
 tusok (tusok) [noun] piercing; perforation; small puncture
 matuto (tuto) ma_ [verb] to learn; to pick up; to learn without teaching

@@ -239,8 +239,8 @@ balik-balik	repeatedly
 balitaan	notify
 balot	wrapper, wrapping
 banál	holy, virtuous, blessed
-bánat	stretching; a pull to stretch something; a hit, strike, insult
 banát	stretched, tension, tense, smooth
+bánat	stretching; a pull to stretch something; a hit, strike, insult
 banatan	to go hard at someone/something
 banatin	to stretch by pulling
 bandá	towards or about a certain place or time, in the direction of (bandang alas tres -> around 3 o'clock)
@@ -721,9 +721,9 @@ himok	inducement, persuasion, enticement
 hinaan	to lower the volume
 hinaíng	supplication, earnest request; complaint, grievance (daíng)
 hinalà	suspicion
-hindí no/not (as in do not, cannot, is not, am not, will not, would not; so as not to..)
 hindí kailanmán	never
 hindî na	not any more, no more, no longer; not now, no further; never; never mind
+hindí no/not (as in do not, cannot, is not, am not, will not, would not; so as not to..)
 hinding-hindi	never
 hingá	breath, breathing (humingá)
 hingi	to ask for something; a request
@@ -1035,6 +1035,9 @@ kaliwA	left (vs. right)
 kaliwa’t kanan	left and right
 kaliwang kamay	left hand
 kalsada	road
+kaltás	removed, detached, cancelled
+kaltasán	to cut on; subtract from; reduce; lay off
+kaltasín	to dedcuct, subtract; lay off
 kalungkutan	sadness
 kalungkut-lungkot	sorrowful
 kalusUgan	health
@@ -2735,6 +2738,7 @@ saktan	injured/hurt (sakit)
 salâ	broken, dislocated (bones)
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
 salakay	an attack/assault/invasion
+salakayin	to swarm/raid/attack something
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 salanta	badly injured or damaged, weakened
 salbáhe	naughty
@@ -3249,12 +3253,12 @@ uyam	mocking; jeering; sarcasm
 wala sa kanyang sarili	absent-minded, not being oneself
 walâ	none, not there, absent, contrary to.. (slang: waley, nawaley)
 walang anu-ano	unexpectedly
+waláng kamálay-malay	unsuspecting
 walang-antala	without delay
 walang-galang	without respect
 walang-gawa	“nothing doing” = unemployed, idle
 walang-hanggan	infinite, boundless, eternal
 walang-ingat 	careless (pabayâ)
-waláng kamálay-malay	unsuspecting
 walang-kulang	lacking nothing / complete
 walang-kusa	no initiative
 walang-kuwenta	worthless
