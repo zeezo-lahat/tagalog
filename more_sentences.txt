@@ -1,5 +1,7 @@
 "Dapat makita ko siya." "Bakit ba?"	"I have to see him." "What for?"
+"Gusto niya ang musika." "Ako rin."	"She likes music." "So do I."
 "Huwág kang pápatáy." 	"Thou shall not kill."
+"Kamusta ka?" "Ayos naman ako, salamat."	"How are you?" "I am fine, thank you."
 "Puwede bang samahan kita?" "Bakit hindi?"	"May I join you?" "Why not?"
 Áalagaan kitá kapág nagkasakít ka.	I will take care of you in case you get sick.
 Aalís ka ba? 	Are you leaving?
@@ -41,6 +43,7 @@ Akó na lang ang kukuha.	I'll just be the one to get it.
 Akó na lang ang magbabayad.	I'll be the one to pay for it.
 Akó rin! 	Me too!
 Ako rin!	So am I!
+Ako rin, gusto ko ng damit na iyan.	I want that shirt too.
 Ako rin.	Me, too.
 Akó si Jane. 	I am Jane.
 Ako'y may ginagawa.	I am busy.
@@ -72,6 +75,7 @@ Alam nga namin iyon.	We do know that.
 Alam nga natin iyon.	We do know that.
 Alam ni Tom kung anong kailangan mo.	Tom knows what you need.
 Alam ni Tom.	Tom knows.
+Alam niya ang Pranses, at mas naman ang Ingles.	She knows French, and even more English.
 Alas 6 na.	It's six o'clock already.
 Alin dito ang gitara mo?	Which is your guitar?
 Alin dito ang sayo?	Which of these is yours?
@@ -79,6 +83,7 @@ Alín sa mga kotse mo ang mas madalás mong sinásakyán? 	Which one among your 
 Alíng kantá ni Elvis ang alám mong kantahín?	Which song of Elvis would you know how to sing?
 Alís ngâ! 	Please leave!
 Anak kita.	You're my child.
+Ang aking ina ay isa ring guro.	My mother is a teacher, too.
 Ang aklatan ay naglálamán ng mahigít apat na daáng libong libró. 	The library contains more than 400,000 books.
 Ang aso ni Tom ay kayumanggi.	Tom's dog is brown.
 Ang bilís mong lumakad, hindî kitá maabutan. 	You walk too fast, I can't catch up with you.
@@ -98,12 +103,15 @@ Ang koleksiyón ay kinabíbilangan ng mga kuwento ni Nora.	The collection is com
 Ang kuwintás ay binilí ni Tom para kay Diane.	Tom bought Diane a necklace.
 Ang lakas ng hangin!	What a strong wind!
 Ang Luzón, Visayas at Mindanao ang mga pangunahing islang bumubuô sa Pilipinas.	Luzon, Visayas at Mindanao are the major islands that form the Philippines.
+Ang mang-aawit ay sikat hindi lamang sa bansang Hapon pati na rin sa Europa.	The singer is famous not only in Japan but also in Europe.
+Ang mga baka ay nagbibigay sa atin ng gatas at ang mga manok naman ay itlog.	Cows give us milk and chickens give us eggs.
 Ang mga batà ay dapat matulog nang maaga.	Children should sleep early.
 Ang mga ibon ay pula.	The birds are red.
 Ang mga katinig ang pag-áaralan namin bukas. 	The consonant are what we will be studying tomorrow.
 Ang mga lamók ang nagdádalá ng dengue virus.	Mosquitoes are the carriers of the dengue virus.
 Ang mga magulang mo ang unang makákatanggáp ng mga pagkukulang mo. 	Your parents are the first ones who will accept you for your shortcomings.
 Ang Sydney ay malayo mula rito.	Sydney is far from here.
+Ang tagal na din nating hindi nakakapagusap. Oh, Kamusta ka naman?	I haven't talked to you in a while. So what have you been doing?
 Ang tatay at kapatid ko ay parehong mahilig sa pagsusugal.	Both my father and my brother like gambling.
 Ang yaman-yaman mo na, hindî ka pa rin nakúkuntento? 	You are already so rich, you're still not contented?
 Anim na talampakan ang taás ni James. 	James' height is six feet. / James is six foot tall now.
@@ -142,6 +150,7 @@ Ano ka ba?	What are you?
 Ano kaya kung araw-araw ay Sabado?	What if all days were Saturday?
 Ano kaya kung imbitahin si Meg sa party?	How about inviting Meg to the party?
 Ano kaya kung pumunta sa sine?	How about going to a movie?
+Ano naman ang kasintahan niya?	What about his girlfriend?
 Ano nga ang pangalan ng hotel? Hindi ko matandaan.	What was the hotel called? I can't remember.
 Ano nga ba ang itsura ni Tom? Matangkad ba siya? Mayroon ba siyang kayumangging buhok? Sumusuot ba siya ng salamin?	What might Tom look like? Can he be tall? Does he have brown hair? Does he wear glasses?
 Anó pa ang gustóng hilingín ni Pogi?	What is Pogi's further request?
@@ -369,6 +378,7 @@ Bakit niyá ginaya ang disenyo mo? 	Why did she copy your design?
 Bakit niyá itinuring na parang alilà si Diego? 	Why did he treat Diego like a slave?
 Bakit niyá sinabing masásamsám ang mga gamit mo?	Why did he say that your stuff would be confiscated?
 Bakit pa kayó lumayô, may mas malapit namáng mall dito.	Why did you still have to go far, there's a closer mall to here.
+Bakit pa mabuhay kapag mamamatay man din lang tayo?	Why live if we're going to die?
 Bakit pinatáy si Jose Rizal?	Why was Jose Rizal killed?
 Bakit sa amin mo isinisisi ang nangyari?	Why are you blaming the thing that happened on us?
 Bakit sila galit?	Why are they mad?
@@ -412,6 +422,7 @@ Berde ang mga puno.	The trees are green.
 Bibigyan kita ng isa pang pagkakataon.	I'll give you one more chance.
 Bibigyan kita ng sakay kung gusto mo.	I'll give you a lift if you like.
 Bigyán mo pa ng pagkakátaón.	Give it a chance.
+Bigyan mo rin ako ng gatas.	Give me some milk, too.
 Bihirà sa mga Pilipino ang lumalaban sa magulang.	It's rare among Filipinos to fight with their parents.
 Bilisán natin at bábagsák na ang ulán.	Let's hurry up as the rain is just about to fall.
 Bilisán natin at bakâ maabutan pa natin ang bus. 	Let's move faster as we might still be able to catch the bus.
@@ -429,8 +440,10 @@ Binayaran ako ni Tom.	Tom paid me.
 Binibirò lang kitá, sineryoso mo.	I was just joking you and you took it seriously.
 Binigyán kitá ng pera.	I gave you some money.
 Binigyán na kitá. Tamà na.	I already gave you some. That's it/enough.
+Binili rin niya yang diksiyunaryo.	She bought that dictionary too.
 Binúbuksán ng batà ang kaniyáng mga natanggáp na regalo.	The child is opening the presents that she received.
 Binuô niyá ang nobela niyá sa Portugal.	She completed her novel in Portugal.
+Birò mo nagpuntá ba namán doón sa kuwarto ko!	Can you imagine, he went into my room!
 Bisi ka ba kahapon?	Were you busy yesterday?
 Bisitahin mo kamí dito. 	Visit with us here.
 Blow-awt ko.	It's my treat.
@@ -439,6 +452,7 @@ Búbuuín niláng mulî ang kaniláng relasyón sa Amérika.	They will rebuild t
 Bukás silá nang mas matagál. 	They stay open longer.
 Bukas, dadalhin kita sa aking palasyo.	I will take you to my palace tomorrow.
 Bukód diyán, nag-away din silá. 	Aside from that, they also fought.
+Bukód diyán, nag-away din silá.	Aside from that, they also fought.
 Bukód itó sa ginawâ niyá.	It is in addition to what he did.
 Buksán mo ang iyóng mga matá.	Open your eyes. / See things the way they are.
 Buksán mo ang mga bintanà para hindî masyadong uminit sa loób ng bahay. 	Open the windows so that it won't get too hot inside the house.
@@ -483,6 +497,7 @@ Dapat dumating ka nang mas maaga.	You should have come earlier.
 Dapat huwag ka nang manigarilyo.	You should refrain from smoking.
 Dapat huwag kang lumabas sa gabi.	You must not go out at night.
 Dapat isinásaulì ang mga bagay na hinirám. 	Things that were borrowed should be returned.
+Dapat kang humingi ng tawad sa kanya, at ngayon din.	You must apologize to her, and do it at once.
 Dapat ko bang ikatuwâ na walâ na akóng trabaho? 	Should I be glad I don't have a job anymore?
 Dapat kumilos ka nang mas paham.	You must act more wisely.
 Dapat makausap kita.	I must talk with you.
@@ -507,6 +522,7 @@ Di ka puwedeng lumangoy dito.	You can't swim here.
 Di kita ang kaibahan ng karamihan.	Most people can't tell the difference.
 Di ko alam kung nasa akin pa.	I don't know if I still have it.
 Di ko ginawa para sa iyo.	I didn't do it for you.
+Di ko rin maipaliwanag.	I can't explain it either.
 Di ko sinadya.	I didn't mean it.
 Di ko siya nakita.	I didn't see her.
 Di na kayo mga bata.	You aren't kids anymore.
@@ -578,6 +594,7 @@ Galing ako sa Olanda.	I come from Holland.
 Galit ka ba sa akin?	Are you angry with me?
 Galit ka ba?	Are you mad?
 Gampanán mo ang mga tungkulin mo.	Fulfill your duties.
+Gawin mo ang kung anumang gusto mo; magkakaroon ng tsismis naman.	Do whatever you want, there will be gossiping anyhow.
 Gawin mo ang sinabi ko sa iyo.	Do as I told you.
 Gawín mo na!	Do it!
 Gawín mong mag-isá.	Do it yourself.
@@ -632,7 +649,9 @@ Gustó ko ng kapé. 	I like coffee.
 Gusto ko ng mansanas.	I like apples.
 Gusto ko ng mga aso.	I like dogs.
 Gustó ko pa ng pagkain. 	I'd like some more food.
+Gusto ko rin itong kulay.	I like this color as well.
 Gusto ko rin ng keyk.	I also like cake.
+Gusto ko rin ng pabangong tsa.	I also like perfume tea.
 Gusto ko yung aso.	I like the dog.
 Gusto ko yung mga aso mo.	I like your dogs.
 Gusto ko.	I like it.
@@ -793,10 +812,12 @@ Hindi ko alam kung kailan uuwi si Tom.	I don't know when Tom will come home.
 Hindî ko alám kung magkano pa ang pera sa pitaka ko. 	I don't know how much money I still have in my wallet.
 Hindi ko alam kung magkano 'to.	I don't know how much it cost.
 Hindî ko alám kung magúgustuhán mo ang sasabihin ko.	I don't know if you'd like / be happy with what I am about to tell you.
+Hindi ko alam kung may pandesal din sa ibang bansa.	I don't know if other countries have salt bread, too.
 Hindi ko alam kung nasaan iyan.	I don't know where that is.
 Hindi ko alam kung saan magsisimula.	I didn't know where to begin.
 Hindî ko alám kung sino ang tatapos nitó.	I don't know who will finish this.
 Hindi ko alam.	I do not know.
+Hindi ko binasa ang bagong nobelang ito, kahit ang kapatid kong babae ay hindi rin.	I haven't read this new novel, and my sister hasn't either.
 Hindi ko gustong gawin iyan.	I don't enjoy doing that.
 Hindî ko ilálaán ang oras sa mga taong waláng pakialám. 	I will not devote my time for people who don't care.
 Hindî ko itó mauubos.	I can't finish all of this. (usually referring to food)
@@ -873,6 +894,7 @@ Hindi namumunga ng pera ang mga puno, nga.	Money doesn't grow on trees, you know
 Hindî nilá alám kung kailán silá magpeperfórm. 	They don't know when they will perform.
 Hindî nilá alám na maiipit silá sa trápikó. 	They don't know that they will get stuck in a traffic jam.
 Hindî nilá mapatunayan ang nasaksihán ni Verna.	They can't verify what Verna witnessed.
+Hindi niya pwedeng gawin ang ganitong klaseng trabaho, kahit siya ay hindi rin.	He can't do this kind of work, and she can't either.
 Hindî pa (ngâ) kitá hináhawakan nakikilitî ka na. 	I haven't even touched you yet and you're already feeling ticklish.
 Hindî pa akó nakákapuntá sa bahay ni Vincent. 	I have not been to Vincent's house.
 Hindî pa akó nakákapuntá sa bansáng Hapón. 	I haven't been to Japan.
@@ -909,6 +931,7 @@ Hindî pa umáalís ang bus.	The bus hasn't left yet.
 Hindî pa. 	Not yet.
 Hindî pababayaan ang daáng tinahak na kapiling ka. 	I will never take for granted the path taken by your side (lyrics).
 Hindi pula ang buhok ni Tom, no?	Tom's hair isn't red, is it?
+Hindi rin naman ako interesado gawin ang mga bagay na ganyan.	I'm not even interested in doing that kind of thing.
 Hindî silá kasál. Nagsasama lang silá.	They are not married. They just live together.
 Hindî silá magkasundô sa presyo.	They could not agree on the price.
 Hindî silá makákalayà roón! 	They're never getting out of there!
@@ -1179,6 +1202,7 @@ Iláng taón ka na? 	How old are you (now)?
 Ilapit mo ngâ sa akin ang silya iyán. 	Please put that chair near me.
 Iligtás mo kamí, malulunod kamí!	Save us, we are going to drown!
 Ilíligtás ko siyá. 	I will save her.
+Importante rin sa babae kung ang lalaki niya ay tuli.	It's also important to women that their men be circumcised.
 Imposible nang lumabas ngayon.	It's impossible to go out now.
 Imposibleng gawin kong ganoon.	It is impossible for me to do so.
 Imposibleng magkasya riyán ang mga gamit mo. 	It's not possible to fit your stuff on it.
@@ -1212,6 +1236,7 @@ Inihandâ mo na ba ang mga dádalhín natin bukas.	Have you already prepared the
 Inihayág ni Claire ang kaniyáng pagbubuntís.	Claire announced her pregnancy.
 Iniibig ni Pedro ang dalaga.	Peter fell in love with the girl.
 Iníimbitahán kitáng dumaló sa binyág ng anák ko.	I'm inviting you to attend my son's christening.
+Iníintindí namán kitá.	I do try to understand you.
 Iníintindí ni David ang tindahan nilá kapág walâ ang nanay niyá. 	David minds their store when his mom is not around.
 Iniisip kitá.	I am thinking about you.
 Iniisip niyá kung minsan na mas mabuti pang mamatáy kaysa sa mabigô. 	Sometimes he thinks that dying would be better than failing.
@@ -1245,6 +1270,7 @@ Isang napkin, nga?	May I have a napkin, please?
 Isáng oras pa lang ang nakákaraán, gutóm ka na namán? 	After only an hour you're hungry again?
 Isáng taón na ang nakalipas mulâ nang dumatíng akó dito.	It has been a year since I came here.
 Isang tasang tsa, nga.	Please give me a cup of tea.
+Isang uwak ay di tinutuka ang mata ng iba naman.	One crow doesn't peck another's eye.
 Isará mo ang mga bintanà at lumálakás ang hangin. 	Close the windows as the wind is getting stronger.
 Isará mo nang mabuti ang gripo para hindî (siyá) tumulò.	Turn off the faucet properly so it won't drip.
 Isasama kitá kung mabaít ka.	If you behave yourself I'll take you along.
@@ -1290,6 +1316,9 @@ Kagaya kita noon.	I used to be like you.
 Kahapon ko pa sinagót ang email mo.	I already replied to your email yesterday.
 Kahapon pa ako walang ginagawa.	I have not been busy since yesterday.
 Kahapon pa ako walang ginagawa.	I haven't been busy since yesterday.
+Kahit humingi siya ng tawad, galit pa rin ako.	Even if he asked for forgiveness, I would still be mad.
+Kahit na ang aksidente ay anim na buwan nang nakalilipas, sumasakit pa rin ang leeg ko.	Even though the accident was six months ago, my neck still hurts.
+Kahit na pobre siya, maligaya naman.	Even though he was poor, he was happy.
 Kaibigan ka ni Tomas, di ba?	You're a friend of Tom's, eh?
 Kaibigan kitá. 	You are my friend.
 Kailán ka kadalasang pumúpuntá dito?	When do you usually come here?
@@ -1356,13 +1385,16 @@ Kasama ko si Tom.	Tom is with me.
 Katatanghalian ko pa lamang.	I have just eaten lunch.
 Kauntî pa lang ang natítikmán kong pagkaing Pilipino. 	I have only tried a few Filipino dishes.
 Kaunting tsa, nga.	Please pour me a little tea.
+Kay alat naman nitong sopas!	How salty this soup is!
 Kay gandang mga bulaklak!	What pretty flowers!
+Kay suwerte mo naman!	How lucky you are!
 Kaya ba niyáng magpatakbó ng panaderyá? 	Can she manage a bakery?
 Kaya mo ba talagang gawin ito?	Can you really do it?
 Kaya mo bang hiblahán ang karayom?	Can you thread a needle?
 Kaya mo bang magpahayág ng mahihirap na kaisipán at ideya? 	Can you convey complex thoughts and ideas?
 Kaya mo bang mamunò? 	Can you lead?
 Kaya mo na bang lumakad? 	Are you strong / well enough to walk already?
+Kaya, tama rin pala ako!	I was right too, then!
 Kilalá ko na kung sino silá. 	I already know who they are.
 Kilala mo ba siya?	Did you know him?
 Kiná Vincent akó tumútulóy kapág pumúpuntá akó sa Hong Kong. 	I stay at Vincent's family's place when I go to Hong Kong.
@@ -1424,12 +1456,15 @@ Kung bawasan ang sampû ng limá, ilán ang maiiwan? 	If we take five away from 
 Kung bíbilhín mo, bilhín mo na.	If you're going to buy it, buy it already.
 Kung bíbilí ka, bíbilí din akó.	If you will buy, I will also buy.
 Kung di ka kumain, mamamatay ka.	If you don't eat, you die.
+Kung gaano man ako ka bobo, mayroon pa ring mas bobo pa sa akin.	No matter how stupid I am, there will always be somebody even stupider.
 Kung gustó mo úuwián kitá ng mga mansanas mámayáng hapon. 	If you want I'll bring home some apples for you this afternoon.
 Kung gustó mong makamít ang iyóng pangarap, paghirapan mo itó.	If you want to achieve your dreams, you have to work hard for it.
+Kung hindi ka maaaring magkaroon ng mga anak, maari ka namang mag-ampon.	If you can't have children, you could always adopt.
 Kung hindî ka magtátagál sa loób ng mall, híhintayín na lang kitá dito sa labás. 	If you won't take long inside the mall, I'll just wait for you here outside.
 Kung hindî legál ang mangarap, mangangarap ka pa rin ba? 	If dreaming is illegal, will you still dream?
 Kung hindî tayo lalaban, sino ang lalaban para sa atin? 	If we are not going to fight back, who will fight for us?
 Kung kaya hindi ako dumating kahapon.	That's why I wasn't able to arrive yesterday.
+Kung kayurin nang kaunti sa ilalim ng patong na matandang tao, may bata pa rin.	If you scrape off a bit under the layer of old man, there is still a child.
 Kung lálagnatín ka pag-uwî mo, sabihin mo sa doktór kung anó ang ginawâ mo.	If you develop a fever after returning home, tell the doctor what you did.
 Kung mag-aaral ka nang mabuti, makákapasá ka.	If you would study hard, you will pass.
 Kung maganda bukas, magpipiknik tayo.	If it is fine tomorrow, we'll go on a picnic.
@@ -1437,6 +1472,7 @@ Kung maglalarô kayó, huwág kayóng masyadong maingay.	If you're going to play
 Kung makasalubong mo si Lucy, huwág mong batiin. 	If you meet Lucy on the way, do not greet her.
 Kung makasalubong mo silá, huwág kang matakot.	If you meet them on the way, do not be frightened.
 Kung masira ang makina, responsable ka.	If the machine is damaged, you are responsible.
+Kung matanda na ang tao, puwede pa ring magpatuli.	When the person is old enough, he can get circumcised.
 Kung may hardin lamang tayo!	If only we had a garden!
 Kung may isáng milyón ka sa bangko, magkano ang kikitain nun sa isáng taón? 	If you have a million in the bank, how much will it earn in a year?
 Kung may lagnát ka, manatili ka lang sa bahay.	If you have a fever, just stay home.
@@ -1503,15 +1539,19 @@ Maaga pa.	It's early.
 Maangháng ba itó? 	Is this spicy?
 Maari ba kitang makausap?	May I talk to you?
 Mababa ang mga ulap.	The clouds hung low.
+Mabábaón din sa limót ang nangyari kanina.	What happened earlier will eventually be forgotten.
 Mabábatíd mo ang pag-uugalì niyá kung madalás kayóng nagkákasama.	You will learn about his attitude when you're always together.
 Mababawì pa ba ni Ricky ang kaniyáng puhunan? 	Will Ricky still recover his investment?
 Mabaho ba ako?	Do I stink?
 Mabaít akó. 	I am nice.
+Mabait naman siyang tinuro sa akin ang tigilan ng bus.	He was kind enough to take me to the bus stop.
 Mabibigô ang pamámaraán niná PJ at RR.	PJ and RR's method will fail.
 Mabíbilí na ang bagong album ni Taylor Swift.	Taylor Swift's new album is now out in the market.
+Mabilis ka ring masasanay diyan.	You'll get used to it in no time.
 Mabubuhay akó kahit walâ ka.	I'll be able to survive without you.
 Mabuhay nang pabongga-bongga.	Live a riotous life.
 Mabuti ang panahón dito. 	The weather is good here.
+Mabuti naman ako.	I feel fine.
 Mabuti namán at nakauwî ka nang maaga. 	It's good that you were able to get home early.
 Mabuti pang isipin mo na ang isásagót mo sa kanyá.	You better start thinking of what answer to give her.
 Mabuti pa'y dalhin na kita sa bahay.	I'd better take you home.
@@ -1525,6 +1565,7 @@ Madalî akóng makalimot ng mga pangalan. 	I easily forget names.
 Madalî siyáng nakabawì mulâ sa pagkabigo. 	She recovered quickly from setbacks.
 Madalíng mabíktimá ang mga taong walâ sa sarili. 	Absent-minded people can easily be victimized.
 Madudurog ang pusò ko kung magkakalayô tayo. 	My heart will be broken if we're apart.
+Magagamit din ang sukà na panlinis.	Vinegar may also be used for cleaning.
 Magagawa ko iyan nang mag-isa.	I can do it alone.
 Magaling! Magkita pa uli tayo.	Great! Let's get together sometime.
 Magbábasá na lang akó kaysa manoód ng TV.	I'd rather read than watch TV.
@@ -1586,9 +1627,11 @@ Magpopóst akó ng komento mamayâ.	I will post a comment later.
 Magsabi ka sa akin kung gustó mo nang umuwî.	Let me know if you would already want to go home.
 Magsaliksík nang maitalâ ang mga materyál.	Conduct research to document the materials.
 Magsalita ka kung puwede; ano ka ba?	Speak, if you can; what are you?
+Magsalitâ ka namán.	Please say something.
 Magsalita ka nang mahinhin.	Speak softly.
 Magsasang-ayon sila roon.	They will agree on that.
 Magsayaw ba tayo?	Shall we dance?
+Mag-share ka namán ng katalinuhan.	Share your intelligence.
 Magsimula dito.	Start here.
 Magsimula na tayo.	Let's start right away.
 Magsísilbí akó mamayâ ng meryenda.	I'll serve refreshments later.
@@ -1606,7 +1649,9 @@ Magtátapós na siyá sa pagiging binatà.	He'll soon graduate from being a bach
 Magugustuhan ako ni Tom.	Tom will like me.
 Magwawagî ka kung nasa panig ka ng katotohanan.	You'll prevail if you're on the side of the truth.
 Mahaba ba o maikli ang daan?	Is the road short or long?
+Mahahanap mo rin ang nawawalâ mong hikaw.	You will eventually find your missing earring.
 Mahal ako ni Tom.	Tom loves me.
+Mahal din niya ang mga aklat.	She loves books too.
 Mahal kita, Tom.	I love you, Tom.
 Mahál kitá. 	I love you.
 Mahal ko ang mga pagong.	I love turtles.
@@ -1628,6 +1673,7 @@ Mahirap katawanín ang mga taong waláng kooperasyón.	It's difficult to represe
 Mahirap magdecide kung walâ kang alám. 	It's hard to decide if you know nothing.
 Mahirap tangkaíng tumakas sa kulungan.	It's difficult to attempt to escape prison.
 Mahirap tukuyin kung sino ang may sala.	It's difficult to to name the perpetrator.
+Mahusay naman ang lahat sa tahanan.	All are well at home.
 Maibá akó, ...	On a different matter, ...
 Maíinís na talagá akó sa iyó kung hindî ka pa tátahimik. 	I'll really get pissed off with you if you still won't shut up.
 Maíintindihán ka ni Rebecca kung talagáng mahál ka niyá.	Rebecca would empathize with you if she really loves you.
@@ -1637,6 +1683,7 @@ Mainit dito, di ba?	It's hot in here, right?
 Makákaharáp ka ng iláng problema sa kalusugan kung kulang ka sa ehersisyo. 	You will face a number of health risks as a result of lack of exercise.
 Makakalangoy ka ba?	Can you swim at all?
 Makákalayà na akó kapág nabayaran ko na ang utang ko. 	I could go free when I had worked off my debt.
+Makakalimutan mo rin ako balang araw.	You'll forget about me someday.
 Makákapagtrabaho akó nang maayos kung tátahimik ka.	I will be able to work well if you shut up.
 Makákapagtrabaho si Lyka kung papayag ka. 	Lyka will be able to work if you allow her.
 Makákasama akó sa inyó sa pag-akyát ng bundók. 	I will be able to join you in climbing the mountain.
@@ -1662,6 +1709,7 @@ Mali ba ako?	Am I not right?
 Maligò ka muna at bumalík ka rito pagkatapos.	Take a shower first and then come back here afterward.
 Maliligò na akó.	I will shower now. / I will take a shower now.
 Maliligo na ako.	I'm going to take a bath.
+Malusog pa rin siya kahit na matanda na.	Even though he's old, he's still healthy.
 Mámahalín kitá habang buhay.	I will love you all my life / forever.
 Mámahalín mo ang mga bagay na ibiníbigáy sa iyó ng lola mo. 	You should treasure the items that your grandma gives you.
 Mamatáy na lang silá sa inggít.	Let them just turn green with envy.
@@ -1712,6 +1760,8 @@ Maraming mámamayán ang magpápahayág ng katulad na damdamin.	Many citizens wi
 Maraming taón ang lumipas bago kamí nagkita ulî ni Maria.	Many years have passed before Maria and I saw each other again.
 Marumi ang mga daan.	The roads are dirty.
 Marunong ka bang mag-golf? 	Do you know how to play golf?
+Marunong ka ring magsalita ng wikang Pranses?	Can you speak French, too?
+Marunong siyang mag-ingles, at mag-Pranses din.	He can speak English, and French as well.
 Mas mabilís kang matututo ng Filipino kung títirá ka sa Pilipinas. 	You would learn Filipino faster if you will live in the Philippines.
 Mas mahal kita kaysa mahal ka niya.	I love you more than he loves you.
 Mas maiging maglabasan silá ng bahò. 	It's best that they reveal each other's nasty secrets.
@@ -1733,6 +1783,7 @@ Masúsugatan ka kapág nagpumilit kang gawín iyán.	You'll get injured if you i
 Masyado siyá kung maglagáy ng make-up.	She puts too much make-up on.
 Masyadong malamíg dito. Kiníkilíg akó. 	It's too cold in here. I'm shivering.
 Matagtág ang daán. 	The road is bumpy.
+Matanda na baga siya, malusog naman at aktibo.	Old as he is, he is very healthy and active.
 Matátagalán pa bago ko siyá maunawaan.	It would be a long time before I could understand her.
 Matátagpuán ko pa ba ang tunay na pagmamahál?	Will I ever find true love?
 Matátamó ni Nicole ang kapanatagan ng loób kung magpápatawad siyá. 	Nicole will achieve peace of mind if she forgives.
@@ -1743,7 +1794,9 @@ Matutulog na ako.	I have to go to sleep.
 Matutuwa ka nang nagbabasa.	You will derive much pleasure from reading.
 Mauna ako.	I'll go first.
 Mauná na kayó at hahabol na lang akó.	You go ahead and I will just catch up with you.
+Mauumay ka rin diyán, sinasabi ko sa iyó.	You'll get sick of that eventually, I'm telling you.
 Maúuná na akó at marami pa akóng kailangang gawín sa bahay.	I'll go ahead as I still need to do a lot of things at home.
+Maúunawaan ko rin sa hulí ang kahulugán ng mga salitáng itó.	I will eventually understand the meaning of these words.
 Maúunawaan mo rin akó balang araw.	Someday you'll understand me.
 Mauuso pa kayâ ulî ang paggamit ng makinilya?	Would the use of typewriters come into style again?
 Mawalâ na ang lahát, huwág lang ikáw.	I could give up everything, except you.
@@ -1770,6 +1823,7 @@ May kuwan siya sa ano.	He has something to do with the matter.
 May magtátanóng pa ba?	Does anyone here still have a question to ask?
 May mapa ka ba?	Do you have a map?
 May mga anák silá. 	They have children.
+May mga Hapong mahiyain namang hanggang namamasdang parang bastos.	Some Japanese are shy even to the point of appearing rude.
 May mga kaibigan akóng hindî nagpápaskó. 	I have friends who don't celebrate Christmas.
 May mga tatlumpúng tao doón noóng Lunes. 	Ther were approximately thirty people there last Monday.
 May mga umaakyát sa Mt. Everest na hindî na nakákabalík. 	There are some who climb up Mt. Everest and don't come down anymore.
@@ -1847,6 +1901,7 @@ Nadakíp ang tiyo ko kahit walâ siyáng sala.	My uncle was arrested even if he 
 Nadapa siya sa sahig.	He fell down on the floor.
 Nadiskubré namin na walâ na ang aming mga gamit.	We found out that our stuff had disappeared.
 Nag-aadjúst silá para maisalba ang kaniláng relasyón. 	They adjust to save their relationship.
+Nagaalala rin si Tom.	Tom was worried, too.
 Nag-aaral ka ba?	Are you studying?
 Nag-away kamí noóng Hulyo.	We had a fight back in July.
 Nagaway sila.	They quarreled.
@@ -1859,6 +1914,8 @@ Nagbeyk siya ng keyk.	She baked me a cake.
 Nagbibiro lang ako.	I'm just joking.
 Nagbilad sila sa araw.	They dried themselves in the sun.
 Nagdaán akó sa palengke patungo sa opisina. 	I passed the market on my way to the office.
+Nagdaán din si Carla sa yugtóng iyán ng buhay.	Carla also went through that phase in life.
+Nagdaán ka rin sa pagkabatà at nagkamalî rin.	You too were young once and also made mistakes.
 Nagdádasál silá bago kumain.	They pray before meals / eating.
 Nagdedecide pa silá kung tátanggapín ka.	They're still deciding whether to accept you.
 Nagdudulot ng kahihiyán sa kaniyáng iná ang batang waláng disiplina. 	An undisciplined child brings shame on his mother.
@@ -1887,6 +1944,7 @@ Nagintay ako.	I waited.
 Nagkáhiwaláy na kamí ng landás ni Rico.	Rico and I have gone our separate ways.
 Nagkákahalagá ng halos isandaáng libong piso ang bagong bag ni Ella. 	Ella's new bag is worth almost one hundred thousand pesos.
 Nagkákahalagá ng malakíng salapî ang pagtulong sa mga bíktima ng lindól. 	It costs a lot of money to help the earthquake victims.
+Nagkakamalî namán ang lahát.	Everybody makes mistakes.
 Nagkakape ako.	I drink coffee.
 Nagkakaproblema kamí sa aming relasyón. 	We're having problems with our relationship.
 Nagkakasundô kamí pagdatíng sa pagkain.	We're of the same mind when it comes to food.
@@ -1957,6 +2015,7 @@ Nagtátagál lang ng mga sampúng minutong mainit ang pagkain. 	The food only st
 Nagtátagál si Alice ng mga tatlóng buwán sa America kapág pumúpuntá siyá doón. 	Alice stays for about three months in America when she goes there.
 Nagtatagò ang pusà sa ilalim ng kama.	The cat is hiding under the bed.
 Nagtataka ako kung sino sila.	I wonder who they are.
+Nagtatampó na namán ba ang nobya niyá?	Is his girlfriend sulking again?
 Nagtátapón siyá ng oras sa paglalarô ng video games. 	He's wasting time in playing video games.
 Nagtayô ng bagong mall malapit sa bahay namin.	A new mall was built near our place.
 Nagtipon silá para harangin ang mga nagtotroso. 	They gathered to block the loggers.
@@ -1980,6 +2039,7 @@ Nagwagî siyá ng Emmy para sa pagganáp sa karaktér ng killer na si Andrew Cun
 Nagwowori kami sa inyo.	We are worried about you.
 Nagyakapan sila.	They embraced.
 Nagyakapan sila.	They hugged.
+Nagyáyabáng ang lalaki tungkól sa regalong hindî namán niyá ibinigáy.	A man is boasting about a gift he has never given.
 Nagyáyabáng ba siyá? 	Is he bragging?
 Naharáp din si Chico sa parehong problema.	Chico also faced similar problem.
 Nahirapan akóng buuín ang jigsaw puzzle.	I had a hard time completing the jigsaw puzzle.
@@ -1990,6 +2050,7 @@ Nahuli ko siláng nagpapasa ng mga droga. 	I caught them passing around drugs.
 Nahuli nilá ang nagnakaw ng bag ni Wendy. 	They caught the one who stole Wendy's bag.
 Nahulog ako.	I fell.
 Nahulog sila.	They fell.
+Naíibá ka rin.	You're something else.
 Naíibá ngâ ba ang Pilipino sa Tagalog? 	Is Filipino really/actually different from Tagalog?
 Naíinís akó.	I'm annoyed. / I'm pissed off.
 Naíinís ka na ba sa akin?	Am I beginning to get on your nerves?
@@ -1998,6 +2059,7 @@ Naiintindihan ko.	I understand.
 Naiintindihan ko.	I understood.
 Naiintindihan ni Tom.	Tom understands.
 Naiintindihan ni Tom.	Tom understood.
+Naiipit din siyá sa napakahirap na mga sitwasyón.	He is also stuck in extremely difficult situations.
 Nainís akó nang igiít ng nanay ko na magtrabaho akó.	I was annoyed when my mother insisted that I get a job.
 Nainom ako ng gatas.	I drink milk.
 Naintindihán ko na.	Now I understand.
@@ -2096,6 +2158,7 @@ Nanalo sila.	They won.
 Nanánatiling bukás ang mga mall hanggáng alas-diyés ng gabí.	The malls stay open till 10 p.m..
 Nanatili ako.	I stayed.
 Nandito kamí para manghingî ng donasyón.	We are here to ask for a donation.
+Nandito rin si Tom.	Tom is here, too.
 Nandito sila.	They are here.
 Nang dumatíng si John, hindî siyá nakita ni Pedro.	When John came, Pedro didn't see him.
 Nang dumatíng si Mary, nakaalís ka na.	When Mary arrived, you had already left.
@@ -2112,6 +2175,7 @@ Naníniwalà ang marami na babangon ang mga patáy sa katapusán ng mundó. 	Man
 Naníniwalà kamí sa mga batás na umiral noón.	We believe in laws that existed before.
 Naníniwalà pa ba si Virginia kay Santa Claus?	Does Virginia still believe in Santa Claus?
 Naníniwalà siyáng maisasalba pa ang mundó.	She believes that the world can still be saved.
+Naniwalà ka namán?	You really believe it? / You accepted it hook, line, and sinker?
 Nanlálabán siyá nang buóng lakás. 	She fights/resists with all her might.
 Nanoód kamí ni Bob ng sine kanina lang.	Bob and I watched a movie just earlier today.
 Nanoód silá ng boxing nung Linggó.	They watched a boxing match last Sunday.
@@ -2123,6 +2187,7 @@ Napahiyâ ka ba sa ginawâ ko?	Were you embarrassed by what I did?
 Napakabaho ng tae mo.	Your poop is so stinky.
 Napakabata mo pa para magpakasal.	You're too young to get married.
 Napakadilim ng gabi.	The night is so dark.
+Napakahaba naman ng pantalong iyan. Halos abot sahig.	Those pants are much too long. They almost touch the ground.
 Napanaginipan kita kagabi.	I dreamt of you last night.
 Napanoód ko ang mahusay na pagtatanghál nilá.	I saw their excellent performance.
 Napanood ko ang pelikulang iyan matagal na panahon na ang nakaraan.	I saw that film long ago.
@@ -2137,6 +2202,7 @@ Napápanoód ko siyá sa TV.	I get to see him on TV.
 Napápansín kong naaasár na si Leah.	I'm noticing that Leah is already frustrated.
 Napápatigil silá sa pagkantá sa tuwíng pumípiyók si Carlos. 	They stop singing every time Carlos is out of tune.
 Napapikít siyá nang sugatan ang sarili. 	She closed her eyes when she hurt herself.
+Naparinig ko rin ang kahawig na kuwento.	I also heard a similar story.
 Naparusahan ang mga estudyante dahil nagtulungán silá sa pandarayà. 	The students were punished because they helped each other to cheat.
 Napatáy mo ba ang telebisyón sa sala?	Were you able to unplug the television in the living room?
 Napatulog ako nang klase.	I fell asleep in class.
@@ -2192,10 +2258,13 @@ Natumba nang mag-isa ang puno.	The tree fell down by itself.
 Natutukoy ko kung anó ang malî sa sagót mo.	I can tell what's wrong in your answer.
 Natutulog pa ang batà.	The child is still sleeping.
 Natutulog pa kamí nang maganáp/naganáp ang aksidente.	We were still asleep when the accident happened.
+Natutulog pa rin ang aking kapatid na lalaki.	My brother is still sleeping.
+Natutulog pa rin sila sa kani-kanilang mga kuwarto.	They're still asleep in their rooms.
 Natututong mamunò ang mga estudyante.	The students are learning leadership.
 Natutuwâ ang mga batà sa unggóy sa zoo.	The children are amused at the monkey at the zoo.
 Natuwâ akó nang punuín ko ng pagkain ang plato ko.	I was happy when I filled my plate with food.
 Natuwâ siyá nang tagurián siyá bilang pinakamahusay na aktrés.	She was happy when she was named as the best actress.
+Naubusan din tayo ng itlog.	We're also out of eggs.
 Naubusan silá ng hipon sa palengke. 	They ran out of shrimps at the market.
 Nauná na akó.	I went / did something ahead of you.
 Naunawaan mo ba ang sinabi ko?	Did you understand what I said?
@@ -2217,6 +2286,7 @@ Ngayón pa lang akó umibig nang tunay. 	This is my first time to truly fall in 
 Ngayóng nabayaran na kitá, patas na tayo.	Now that I've paid you, we're now even.
 Ngíngitián ko lang si John kapág nagkita kamí. 	I will just smile at John if I bump into him.
 Nginitián akó ni Daisy. 	Daisy smiled at me.
+Ngumitî ka namán kahit kauntî.	Please smile even just a bit.
 Nilabas ni Tomas ang basura.	Tom took out the garbage.
 Nilagdaán mo ba ang kásunduan?	Did you sign the agreement?
 Nilagnát akó at sumamâ ang pakiramdám ko sa araw ng pagsusulit. 	I had a fever and was not feeling well on the day of the exam.
@@ -2240,6 +2310,7 @@ Noóng gera walâ halos makain ang mga tao. 	During the war the people hardly ha
 Noong pang Martes na umuulan.	It has been raining since Tuesday.
 Noóng una, hindî silá pinaghinalaan ng mga pulís. 	At first, the policemen didn't suspect them.
 Okey na ako ngayon.	I'm feeling fine now.
+Oo naman!	Of course yes!
 Oo ngâ palá, akó na! 	Oh, yes! It's my turn now! (I didn't realize!)
 Oo, kung minsan.	Yes, sometimes.
 Oo, paki' nga.	Yes, please.
@@ -2313,6 +2384,7 @@ Pápatayín mo muna ang iyóng sigarilyo bago ka sumakáy ng bus.	You must extin
 Papayagan ko ito.	I'll allow this.
 Papúpuntahín ka ba ng asawa mo dito nang hindî siyá kasama? 	Would your husband allow you to come here without him?
 Para makaipon, nakitirá kamí ng asawa ko sa nanay ko. 	To save funds, me and my wife moved in with my mother.
+Paramdam kong di ako makakatulog ngayon din.	I don't feel like sleeping right now.
 Parang buhay pa siya.	It seems he's still alive.
 Parang gustó kong magdaán sa dati kong páaralán. 	It appeared I wanted to drop by my old school.
 Parang ibon kung kumain si Tom.	Tom eats like a bird.
@@ -2408,6 +2480,7 @@ Puwede pô dito bumabâ?	Can I get off here? (from a bus, jeepney, etc.)
 Pwede akong kumuha ng litrato dito?	May I take pictures here?
 Pwede ba kitáng sabayán sa pagpasok sa opisina bukas? 	May I join you in going to the office tomorrow?
 Pwede bang huwag mo gawin iyan?	Would you mind not doing that?
+Pwede rin ba akong sumama?	Can I come too?
 Q: Anó ang ginagawâ mo? A: Walâ namán, kung anu-ano lang.	Q: What are you doing? A: Nothing really, just this and that.
 Sa 1996 Atlanta Olympics, nagwagî siyá ng bronze medal.	At the 1996 Atlanta Olympics, he won a bronze medal.
 Sa artíkuló, tinagurián ang Palawan bilang pínakamagandáng isla sa mundó.	In the article, Palawan was named as the most beautiful island in the world.
@@ -2419,6 +2492,7 @@ Sa kasamaáng-palad, walâ siyáng masakyán. 	Unfortunately, she can't get a ri
 Sa Linggó ang piyesta. 	The fiesta is next Sunday.
 Sa mall silá namímigáy ng brochures.	They are handing out brochures at the mall.
 Sa Miyérkoles kitá bábayaran.	I will pay you on Wednesday.
+Sa palengke kung saan ako bumili ng mga gulay, pwede ka ring bumili ng mga bulaklak.	At the market where I bought the vegetables, you can also buy flowers.
 Sa restawrán o sa bahay? 	At a restaurant, or at home?
 Sa Sábado kamí mag-uusap ni Jean. 	Jean and I would talk on Saturday.
 Sa Team A kamí kákampí sa larô ng basketball. 	We're taking sides with Team A in the basketball game.
@@ -2441,6 +2515,7 @@ Saán pa ninyó gustóng dalhín ko kayó?	What other places would you like me t
 Sabay sabay kaming tumayo.	We all stood up at once.
 Sabay silang nag-umpisa.	They started at the same time.
 Sabi ng doktór ni Julie huwág siyá munang íinóm ng tsaá. 	Julie's doctor told her not to drink tea in the meantime.
+Sabi ni Goethe, "Ang sinumang di marunong ng wikang dayuhan ay di rin alam ang sariling wika."	Goethe claimed, "one who cannot speak foreign languages does not know one's own language either".
 Sabi nila'y buhay pa siya.	They say that he's still alive.
 Sabihan mo akó kung maglálabá ka.	Let me know if you're going to do the laundry.
 Sabihan mo akó.	Let me know.
@@ -2506,6 +2581,7 @@ Sinakál niyá akó kayâ lumaban akó.	He choked me so I fought back.
 Sinaksak ni Mary si Tom.	Mary stabbed Tom.
 Sinamahan ka ba ni Ellen sa mall?	Did Ellen go with / accompany you to the mall?
 Sinásabayán ko si Alice magtanghalian sa canteen. 	I join Alice for lunch at the canteen.
+Sinasabi ko, maáaresto ka rin!	I'm telling you, you'll be arrested!
 Sinasayang mo lang ang pagkain kung hindî mo kakainin.	You are just wasting food if you won't eat them.
 Sinibák ko na ang lahát ng kahoy.	I chopped all the wood already.
 Sinigawán ni Martin ang mga batà para maréalize niláng nakakaistorbo silá. 	Martin yelled at the children for them to realize they were bothering him.
@@ -2606,6 +2682,7 @@ Supórtahán mo namán kamí ni Lara.	Support Lara and me.
 Súsulatan kitá. 	I will write to you.
 Susundan kita.	I'll follow you.
 Susupórtahán kitá.	I will support you.
+Suwerte mo naman!	How lucky you are!
 Tabihán mo akó. 	Get beside me. / Come beside me.
 Tahan na.	Please don't cry.
 Takot ako sa kamatayan.	I'm afraid of death.
@@ -2674,6 +2751,7 @@ Tom, ilabas mo kami rito!	Tom, get us out of here!
 Totoó ba? 	Is it true?
 Tulog ba siya?	Is she sleeping?
 Tuloy ka nang wala ako.	Go on without me.
+Tulungan mo namán akó.	Please help me.
 Tulungan mo silá na gampanán ang malakíng trabahong itó.	Help them accomplish this great task.
 Tulungan niyo kami.	Help us.
 Tumaás ang ( mga ) kilay ni Vicky sa sinabi ni Angie.	Vicky raised her eyebrows at what Angie said.
@@ -2700,6 +2778,7 @@ Tumirá akó sa California at sa New York, pero sa California akó nagtagál. 	I
 Tumirá si Vincent dito nang limáng taón.	Vincent lived here for five years.
 Tumitigil ba dito ang bus?	Does the bus make a stop here?
 Tumubò ang pera ni Bill sa bangko nang limáng porsyento. 	Bill's money in the bank made a profit of five percent.
+Tumugtóg ka namán.	Please play something (for me/us).
 Tumulog ka nang konti, ayos ba?	Get some sleep, okay?
 Tumulóy na akó. 	I let myself in.
 Tumulóy na akó.	I let myself in.
@@ -2838,6 +2917,7 @@ Walâ kang magagawâ para mapatigil itó.	There's nothing you can do to stop it.
 Walâ man lang siyá roón. 	He wasn't even there.
 Wala na si Tom.	Tom left.
 Wala na silang asukal.	They don't have any sugar any more.
+Wala naman talagang may kasaysayan.	Nothing really matters.
 Walâ nang magawâ si Charles kung hindî umasa na lang.	Charles has no other choice but to just hope.
 Walâ nang magnanakaw niyáng sirâ mong bisikleta. 	No one would bother to steal your broken bicycle.
 Wala nang nagtitiwala sa kanya.	No one trusts him any more.
@@ -2871,6 +2951,7 @@ Walang anuman doon.	There's nothing there.
 Walang anuman po.	You are welcome.
 Waláng anumán. 	It's nothing. / You're welcome. (expression)
 Walang asin.	There's no salt.
+Walang depinisyon ng tula'y husto kung di siya mismong tula rin.	No definition of poetry is adequate unless it be poetry itself.
 Walang duda!	Without a doubt!
 Walang duda.	There's no doubt.
 Walang dumating.	Nobody came.
