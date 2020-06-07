@@ -110,14 +110,15 @@ Why many people saying focus rather simply than subject of the sentences. Many o
 Correlation between markers and interrogatives
 It might be useful to demonstrate somewhere on the page the correlation between markers and interrogatives. The markers in Tagalog have correlating interrogatives which make it easier for a student to remember which to use.
 
- 	Marker	Interrogative
-Locative	sa	saan
-Subjective	ang	ano
-Personal Subjective	si	sino
-Personal Posessive	kay	kanino
+ 					Marker	Interrogative
+Locative				sa	saan
+Subjective				ang	ano
+Personal Subjective			si	sino
+Personal Posessive			kay	kanino
 Personal Posessive - object focus	ni	nino
--	nasa	nasaan
--	ba	bakit
+-					nasa	nasaan
+-					ba	bakit
+
 Verb conjugations
 Just how many forms of verbs do we have?
 

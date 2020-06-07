@@ -453,6 +453,7 @@ dalaga	a young/single woman; teenage girl; unmarried woman
 dalagita	teenage female, preteen girl
 dalás	frequency
 dálaw	visit; guest
+dalawáng-katló	two-thirds
 dalawin	to visit someone/something
 dalhin	to bring, carry
 dali	quickness, rapidity, ease
@@ -888,6 +889,7 @@ ipo-ipo	waterspout
 ipon	gather, collect, save
 ipunin	to gather, collect, save
 ipuwesto	to install in place
+isá't kalahatì	one and a half
 isagawa	to put into effect
 isaglit	to do in a hurry
 isahod	catch something falling
@@ -1081,6 +1083,7 @@ kapangyarIhan	power
 kapariso	a piece (of)
 kaparusahan	punishment
 kapasidad	capacity
+kapat	one fourth
 kapatíd	sibling
 kapatiran	fraternity, brotherhood
 kapayapaan	peace, tranquility
@@ -1502,6 +1505,8 @@ madinig	to hear
 madulás	slippery
 madulás	to slip
 magaan	light, not heavy (gaan)
+mag-aarál	a student
+mag-aáral	will study
 mag-abot	hand over
 magagawa	able to be done
 magalak	to rejoice
@@ -1981,6 +1986,8 @@ nagmamadali	hurrying, in a hurry
 nagpakalunod	drowned oneself in
 nagpapalakas	makes you strong; to stay on the good side of someone (slang)
 nagpapalusóg	nourishes
+nagpapátay	to have had someone killed
+nagpapatáy	to be killing someone
 nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
 nagsipatnubay	guide, companion, escort
@@ -3043,6 +3050,7 @@ taratahin	to confuse, baffle, bewilder
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
+tatlóng-kalimá	three-fifths
 tauhan	underling, staff, personnel; character in a performance
 taunan	annual, yearly
 tawad	discount, bargain; forgiveness
