@@ -719,6 +719,7 @@ hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
 hiling	a request, claim, application
 hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nightfall
 himalâ	miracle
+himások	interference, meddling, intrusion (pasok)
 himatay	faint, swoon
 hímig	tune, melody; note
 himok	inducement, persuasion, enticement
@@ -1309,6 +1310,8 @@ lakbay	voyage, trip, tour, journey
 lakí	size, bulk; amount, extent
 laking	grew from, came from (laking manila -> grew up in manila)
 lako	goods being peddled
+laktaw	to skip, to omit
+laktawan	to skip
 lalagyan	container where something is placed; will place in
 lalakwe	gay
 lalampasin	will overtake
@@ -1428,6 +1431,7 @@ lumagay	to put oneself in a certain condition
 lumagi	to remain (lagi)
 lumakad	to walk
 lumakas	became stronger, recuperated
+lumaktaw	to skip
 lumakí	to grow big, enlarge
 lumalâ	became worse
 lumalapit	approaching
@@ -1792,6 +1796,7 @@ mangarap	to dream
 manggagawà	a worker
 manggalaw	to move
 manghamak	to insult, disparage
+manghimások	interfere (pasok)
 manghingi	to ask for
 manghuhula	fortune teller
 mangilid	to line, encircle
@@ -3139,6 +3144,7 @@ tulak	push, shove; drug pusher (also tulak-droga)
 tulakin	to push/shove something
 tularan	imitate
 tulay	bridge
+tuligsa	invective, public attack in words
 túlog	sleep
 túlong	help, aid, support
 tulOy	proceeding, entering, continuing, progressing
