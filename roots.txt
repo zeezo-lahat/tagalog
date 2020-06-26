@@ -718,6 +718,10 @@ babuyán (baboy) [noun] piggery; hog pen, pig sty
 báboy-damó (baboy) [noun] boar; wild boar
 káning-baboy (baboy) [noun] leftover food to feed the pigs
 mágbababóy (baboy) [noun] pig seller
+baga (baga) [noun] hot coal; ember; burning coal; cinder
+bagà (baga) [noun] lung; lungs
+kung bagá (baga) [expression] like; that is to say; in a sense; as if; it seems;
+magbagá (baga) mag_ [verb] to burn brightly/hot
 bagabag (bagabag) [noun] trouble; uneasiness
 bagabagin (bagabag) _in [verb] to bring distress to something; to bring grief to something
 bumagabag (bagabag) _um_ [verb] to worry; to agitate
@@ -7330,6 +7334,10 @@ tungo (tungo) [preposition] toward
 tunguhin (tungo) [noun] trend; goal; objective
 tunguhin (tungo) _in [verb] to head toward something
 tungó (tungo) [adjective] head bowed
+tunóg (tunog) [noun] sound; click; ringing
+tumunóg (tunog) _um_ [verb] to sound; to make a sound; to ring
+katunóg (tunog) ka_ [adjective] having the same kind of sound
+matunóg (tunog) ma_ [adjective] with a loud sound; popular
 ituón (tuon) i_ [verb] to focus something
 makatuón (tuon) maka_ [verb] to be able to focus
 matuón (tuon) ma_ [verb] to focus

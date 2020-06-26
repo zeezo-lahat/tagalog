@@ -238,6 +238,7 @@ balikat	shoulder
 balik-balik	repeatedly
 balitaan	notify
 balot	wrapper, wrapping
+balsa	a float, raft, ferry
 banál	holy, virtuous, blessed
 banát	stretched, tension, tense, smooth
 bánat	stretching; a pull to stretch something; a hit, strike, insult
@@ -1707,6 +1708,7 @@ makatwiran	rational, reasonable
 makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makikiha	???? see making out in tagalog "please get.."
 makIkipag-Usap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
+makíkiraán	please let me pass by
 makilala	to meet
 makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
@@ -1745,6 +1747,7 @@ mali	wrong
 maliban kung		except for, absent / if not X
 maliban sa	aside from
 maliban	unless, if not
+maligamgám	lukewarm; confused, chaotic
 máligáw	to lose one’s way
 maligáya	happy, joyful (ligáya)
 maligayang bati	joyful wishes (happy birthday)
@@ -1857,6 +1860,7 @@ marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 máriníg	to hear
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 mas	more
+mas kaunti	less
 masagána	abundant, plentiful (sagána)
 masagasà	to be run over
 masAhol	worse
@@ -2501,6 +2505,8 @@ pantalan	wharf, wooden or bamboo pier; quay
 pantanggal	something used for removing
 pantay	level, equal
 pantinig	vocal
+pánukálang-batás	draft legislation; draft bill; proposed legislation
+pánukála	a proposal, proposition, arrangement
 panunukso	the act of tempting (someone); teasing
 papaano	 in what way; how; anyhow; what do we do with; how did/will it be done/happen?
 papalapit	approaching(?)
@@ -3181,6 +3187,7 @@ tungkól	concerning, about
 tungkulin	(noun) duty, responsibility, concern, mission, function, role
 tungó	bowing of the head
 tungo	goal, purpose, direction; to deal with
+tunóg	sound; ring; strike; quality of sound; popularity
 tuntón	tracing the path, source, origin; giving guidance at the start
 tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
@@ -3293,6 +3300,7 @@ walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
+watawat	flag, ensign, banner
 yabang	boast; boasting; arrogance; smugness; over confidence
 yakap	hug, embrace
 yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
