@@ -531,7 +531,7 @@ Anong pangalan mo?	What’s your name?
 Anong pinagkasunduan ninyo?	What did you all agree upon?
 Anong pinamalengke mo?	What did you buy at the wet market?
 Anong pinamalengke mo?	What did you buy at the wet market?
-Anong pinipanood mo?	What are you watching?
+Anong pinapanood mo?	What are you watching?
 Anong problema?	What’s the problem?
 Anong sakit mo?	What are you sick with?
 Anong sasakyan natin?	What are we riding in?
@@ -6821,13 +6821,6 @@ walang-puso	heartless
 walang-takda	limitless, absolute, indefinite
 walang-tatag	not reliable, shaky
 walang-wala	absolutely none
-wálay: hiwálay, lalo na sa pagwawálay ng anak sa ina o ng mga sisiw sa	inahin
-wasak, punit, gisi; gahi, tastas, putok; lamat, basag; depekto,	kapintasan; pagkabulok, pagkahalpok, pagkabilasa; pagkagapok
-When pronounced with the stress on the first syllable, it’s a noun	meaning ‘hair clip’ or ‘clothespin’ and still occasionally ‘tweezers.’
-When pronounced with the stress on the second syllable, the word	tayô means ‘to stand’ or ‘to build.’
-When the Americans returned to Manila in 1945, MacArthur found that the	Japanese had burned his old home.
-When the Spaniards started propagating the Latin alphabet in the late	16th century, the baybáyin script fell into disuse.
-Widely heard sentence:	It’s hot in the P.I.
 Winasak mo ang buhay ko.	You destroyed my life.
 Winasak nila ang balanse ng kalikasan.	They destroyed nature’s balance.
 winasak	to have ruined, destroyed

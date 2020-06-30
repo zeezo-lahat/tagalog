@@ -6550,6 +6550,9 @@ magtalagá (talaga) mag_ [verb] to assign; to appoint
 nakatalagá (talaga) [adjective] prepared
 pagkakatalagá (talaga) [noun] intention; appropriation; role
 talagá (talaga) [adverb] really; just; certainly; definitely; actual; in fact; downright; indeed; surely
+talakayin (talakay) _in [verb] to discuss something
+talakay (talakay) [noun] discussion
+tumalakay (talakay) _um_ [verb] to discuss
 italì (tali) i_ [verb] to tie something up; to tie something to/around; to tie something; to bind something
 magtalì (tali) mag_ [verb] to tie up
 nakatalì (tali) [adjective] tied; bound
@@ -7520,7 +7523,11 @@ pauló (ulo) [adjective] full to overflowing
 tigás-ulo (ulo) [adjective] stubborn; hard headed
 ulo (ulo) [noun] head
 ulunan (ulo) [noun] head; top / front / leading position
-káuná-unahan (una) [adjective] very first; premier
+mag-umpisá (umpisa) mag_ [verb] to begin; to start
+umpisá (umpisa) [noun] beginning
+umpisahán (umpisa) _an [verb] to begin something; to start something; to introduce something
+maumpisahán (umpisa) ma_an [verb] to be able to begin something; to be able to start something; to be able to introduce something
+káuná-unahan (una) ka_an [adjective] very first; premier
 manguna (una) mang_ [verb] to lead; to take the lead; to take initiative; to be on the top
 maunahan (una) ma_an [verb] to be ahead of the rest (AF); to be first (AF); to be able to be first (AF); to beat someone (going somewhere/doing something) (OF)
 mauná (una) ma_ [verb] to be the first; to go first; to be ahead; to start; to precede; to lead / be in the leading position; to go before something; to anticipate

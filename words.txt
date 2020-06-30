@@ -209,6 +209,7 @@ bahíng	sneeze (also bahín)
 baít	kindness; the mind
 baka	beef; cow
 bakâ	perhaps, maybe, might
+bakal	iron
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
 bakbák	detached
@@ -381,6 +382,7 @@ búkol	lump, tumor, swelling
 bulág	blind
 bulagta	fallen flat
 bulahaw	disturbance
+bulak	cotton
 bulakbol	truancy; jobless person, vagabond
 bulaklak	flower (noun)
 bulalákaw	meteorite, shooting star
@@ -580,6 +582,7 @@ gasgasín	to scratch
 gastahan	to spend on
 gastos	expense, cost
 gastusan	to spend money (ginagastusan, ginastusan, gagastusan)
+gatang	unit of measure for rice/grain
 gawâ	to do, to make
 gawad	award, bestowal, grant, prize [syn. gantimpala', premyo]
 gawan	to do for, make for
@@ -779,6 +782,7 @@ humuhumi	twittering/tweeting (huni)
 humupa	subside
 huni	hoot, tweet, chirping sound
 húsay	skill
+husga	act of passing judgment
 iabot	to hand something over
 iakyát	to bring up
 ialay	to offer, to give
@@ -1016,6 +1020,7 @@ káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
 kakaibang	different
 kakambal	fellow twin, being like someone
+kakanín	sweets, sweet foods, small snacks, rice cake
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
 kakulitan	peskiness, badgering
@@ -1068,6 +1073,7 @@ kanais-nais	desirable
 kanan	right (vs. left)
 kaní-kanina	(kaní-kanina lang) just now, just a while ago, just a moment ago
 kanila	their, theirs
+kanin	boiled or steamed rice
 kanina pa	since earlier (as if it's been a long time..)
 kaniya-kaniyang	each on his own, individually
 kanlungan	sanctuary; shelter against weather
@@ -1108,7 +1114,7 @@ karagatán	ocean (dagat)
 karahasán	violence
 karamihan	most (of), majority, nearly all
 karanasán	an experience
-karanIwan	usually, generally, customarily; common, typical, ordinary, habitual
+karanIwan	usually, generally, customarily; common, typical, ordinary, habitual (this is a root)
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
 karapat-dapat	qualified, worthy, fitting, deserving
@@ -1183,6 +1189,7 @@ katulong	a helper, aid, attendant
 katUmbas	an equivalent
 katunAyan	truth, actuality, fact
 katúpáran	accomplishment, fulfillment
+katuturán	significance, value, use, utility (this is a root)
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
@@ -1704,6 +1711,7 @@ makatao	humanitarian, humane
 makatotohanan	realistic
 makatulog	to be able to sleep
 makatulong	to help, be helpful
+makatuturán	significant, of value  
 makatwiran	rational, reasonable
 makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makikiha	???? see making out in tagalog "please get.."
@@ -2766,6 +2774,7 @@ salakay	an attack/assault/invasion
 salakayin	to swarm/raid/attack something
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 salanta	badly injured or damaged, weakened
+salapi	money, currency
 salbáhe	naughty
 sali	participation
 saligang-batas	national constitution
