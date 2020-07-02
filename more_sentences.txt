@@ -561,6 +561,7 @@ Diyán mo makíkilala kung sino ang tunay mong kaibigan.	That's how you'll find 
 Diyós ko, bakit silá binábaríl?	My God, why are they being shot?
 Doble ang edad sakin ni Tom.	Tom is twice as old as me.
 Doón ka magtayô ng bahay.	Build your house over there.
+Doón ka tumabí kay Charles.	Stay over there beside Charles.
 Dudukutin silá at ipagbíbilí sa ibáng mga bansâ.	They will be kidnaped and sold to other countries.
 Dumaán ka dito bukas.	Drop by here tomorrow.
 Dumaán na ba tayo dito (dati)?	Have we passed here / taken this road before?
@@ -689,6 +690,7 @@ Gusto namin ang mga piknik.	We love picnics.
 Gustó naming ikasál kamí sa simbahan.	We would like to get married in a church.
 Gustó naming makatulong kayâ nag-íipón kamí ng pera.	We want to help, so we're saving money.
 Gustó ng asawa ni Mary na magtrabaho sa Middle East.	Mary's husband would like to work in the Middle East.
+Gustó ng batang tumátabí sa tatay niyá kapág nanónoód silá ng TV.	The child likes to sit beside his dad when they're watching TV.
 Gustó ng batang tumátabí sa tatay niyá kapág nanónoód silá ng TV.	The child likes to sit beside his dad when they're watching TV.
 Gustó ni Beth na magbenta ng mga alahas.	Beth would like to sell jewelry.
 Gustó ni Charles ibenta ang kotse niyá pero hindî pa niyá alám kung magkano.	Charles would like to sell his car, but he does not know yet for how much.
@@ -1046,6 +1048,7 @@ Huwág kang sisilip.	No peeking.
 Huwág kang sumigáw.	Stop shouting / screaming.
 Huwág kang tahimik lang diyán, magsalitâ ka!	Don't just be silent there, speak up!
 Huwág kang tatawa.	Don't laugh.
+Huwág kang tumabí sa akin.	Don't stay here beside me.
 Huwág kang tumakbó.	Don't run.
 Huwág kang umalís kasí bakâ kailanganin ng tatay mo ang tulong mo mamayâ.	Don't go out because your father might need your help later.
 Huwág kang umalís!	Don't leave!
@@ -2710,6 +2713,7 @@ Tapos ka na?	Are you finished?
 Tapos na akóng magsilbí sa inyó!	I'm done providing service to you!
 Tapós na ang laban niná Bert at Bong.	The Bert and Bong's match is over.
 Tapos na ba tayo?	Are we finished?
+Tátabí ka kapág may dumadaáng sasakyán.	You should move aside when a vehicle is passing through.
 Tátanggáp ka ba ng award sa graduation mo?	Would you be receiving an award on your graduation?
 Tátanungín pa ba kitá kung kumain ka na?	Do I still have to ask you if you had already eaten?
 Tatawagan kita.	I'll call you.
@@ -2765,6 +2769,10 @@ Tulungan niyo kami.	Help us.
 Tumaás ang ( mga ) kilay ni Vicky sa sinabi ni Angie.	Vicky raised her eyebrows at what Angie said.
 Tumaás ang pwesto ni James sa kaniláng opisina.	James got a promotion (in rank) at their office.
 Tumaba ako.	I have gained weight.
+Tumabí ka diyán!	Get out of my way!
+Tumabí ka para hindî ka masagasaan.	Move aside so you won't get ran over.
+Tumabí ka.	Move out of the way.
+Tumabi ka.	Step aside.
 Tumahimik ang pagtakbó ng bentiladór nang nilangisán ko siyá.	The electric fan ran quietly when I applied oil to it.
 Tumakbó akó nang tumunóg ang sirena.	I ran when the sirens went off.
 Tumakbo kami sa kalahatan ng daan papuntang estasyon.	We ran all the way to the station.
