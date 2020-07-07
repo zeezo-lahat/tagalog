@@ -359,6 +359,7 @@ bituin	star
 biyahe	trip, journey
 biyahero	traveller (byahero)
 biyaya	favor, grace, mercy
+biyuda	widow
 bola	flattery
 bote-bote	many bottles
 bubo	overflowing; pouring out; poured out
@@ -2310,7 +2311,7 @@ pagkamatáy	death
 pagka-may-arì	ownership, possession
 pagkatalo	defeat
 pagkatao	character, nature (of a person)
-pagkátiwalaan	to entrust to the care of, consign, relegate, confide (tiwala)
+pagkátiwalaan	to trust someone/thing, to entrust to the care of, consign, relegate, confide (tiwala)
 pagkukUsa	initiative
 paglabág	violating; in violation
 paglaki	growing, development
@@ -3278,7 +3279,7 @@ unawain	to understand, to grasp mentally
 unós	tempest, storm
 untî	bit, small amount
 untî-untî	gradually
-upang	so that, for, in order to (syn: "para")
+upang	so that, for, in order to (formal. "para" is used in informal conversation.)
 uri	kind, class, sort, species, type
 uri-uri	of all kinds
 urong	retreat, backward movement
