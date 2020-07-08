@@ -655,7 +655,7 @@ hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
-haka-haka	a myth
+háka-hakà	a myth, rumor, supposition; imaginary
 hakbáng	step; stepping; move
 hakbangin	(n) steps
 halagA	price, cost, charge, worth, value, importance
@@ -1667,6 +1667,7 @@ mahawa	to become infected
 mahigit	more than (sa)
 mahigpit	tight, tightly; strict, severe
 mahilig	fond of
+mahinahon	calm, cool, dispassionate, self assured; mild; calmly, mildly
 mahirap	difficult; poor, indigent
 mahirapan	experience difficulty; experience labor in childbirth
 mahulaan	to be able to guess
@@ -2305,6 +2306,7 @@ pagkalakhán	to grow up with someone (laki)
 pagkalipas	passing, passage, having passed (also paglipas)
 pagkalito	confusion
 pagkaloobán	to be provided with/endowed with/granted something
+pagkamahiyain	bashfulness, shyness, modesty, timidity
 pagkamapanlikha	originality
 pagkamasarili	egotism
 pagkamatáy	death
