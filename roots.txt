@@ -12,8 +12,8 @@ abangán (abang) _an [verb] to watch out for; to keep an eye out for
 abáng (abang) [noun] watcher; lookout (person); someone watching and waiting for something
 mag-abáng (abang) mag_ [verb] to wait for; to watch out for; to keep an eye out for; * Usually meaning to watch or wait for a ride of person to arrive
 nakaabáng (abang) naka_ looking for; keeping an eye out
-abuhan (abo) [noun] ash tray; ash
-abuhin (abo) [adjective] ash colored; ashen
+abuhan (abo) _an [noun] ash tray; ash
+abuhin (abo) _in [adjective] ash colored; ashen
 abó (abo) [noun] ash; ashes; cinders; grey
 kúlay-abó (abo) [adjective] grey; gray; ashen; color of ash
 maabó (abo) [adjective] ashy; containing ashes
@@ -36,10 +36,10 @@ umabót (abot) _um_ [verb] to reach for; to reach out for; to be in time for
 ábot-kaya (abot) [adjective] affordable
 ábut-abot (abot) [adjective] continuous; a chain of
 abuloy (abuloy) [noun] small contribution; contribution; financial contribution; financial assistance; aid; relief fund; subsidy
-abuluyan (abuloy) [noun] giving; giving financial help
+abuluyan (abuloy) _an [noun] giving; giving financial help
 iabuloy (abuloy) i_ [verb] to give something as an aid
 mag-abuloy (abuloy) mag_ [verb] to contribute; to donate
-ábuluyán (abuloy) [noun] mutual aid
+ábuluyán (abuloy) _an [noun] mutual aid
 abusado (abuso) [adjective] abusive; abusive person or situation
 abuso (abuso) [noun] abuse; maltreatment; [adjective] abusive
 abusuhin (abuso) _in [verb] to abuse something; to overindulge in something; to take advantage of something
@@ -49,13 +49,13 @@ pag-abuso (abuso) pag_ [noun] abuse; abusing
 pang-aabuso (abuso) pangCV_ [noun] abusing; abuse
 umabuso (abuso) _um_ [verb] to abuse; to overindulge; to take advantage of
 aga (aga) [noun] earliness
-agahan (aga) [noun] breakfast
+agahan (aga) _an [noun] breakfast
 maaga (aga) [adjective/adverb] early
 mapaaga (aga) mapa_ [verb] to be premature; to be surprisingly early
 napakaaga (aga) [adjective] very early
 umaga (aga) [noun] morning
-ága-aga (aga) [adjective] very early; extremely early
-agaran (agad) [adjective] immediate
+ága-aga (aga) REP_REP [adjective] very early; extremely early
+agaran (agad) _an [adjective] immediate
 agarín (agad) _in [verb] to do without delay; to do promptly
 agád (agad) [adverb] right (away/after/etc); immediately; right away; quickly; soon; soon; so soon; readily; suddenly; without delay; at once; promptly; [adjective] urgent
 agád-agád (agad) [adverb] immediately; right away; at once
@@ -67,7 +67,7 @@ nakaagapay (agapay) [adjective] side by side
 agaw (agaw) [noun] snatching; snatching away of something
 agawan (agaw) _an [verb] to snatch something; to rob
 agawin (agaw) _in [verb] to grab something; to snatch something; to catch something
-agawán (agaw) [adjective] vying
+agawán (agaw) _an [adjective] vying
 kaagaw (agaw) [noun/adjective] rival
 maagaw (agaw) ma_ [verb] to be snatched
 mang-agaw (agaw) mang_ [verb] to snatch
@@ -95,7 +95,7 @@ magpaahit (ahit) magpa_ [verb] to get a shave
 pang-ahit (ahit) pang_ [noun] razor; shaver; * manual or electric
 ahon (ahon) [noun] rising out of; emerging from
 ahunin (ahon) _in [verb] to remove from stove; to remove from the fire
-ahunán (ahon) [noun] rising upward;
+ahunán (ahon) _an [noun] rising upward;
 iahon (ahon) i_ [verb] to bring up from underwater; to lift up from an unfortunate situation
 maiahon (ahon) ma_ [verb] to be able bring something up from underwater; to be able to lift up something/someone from an unfortunate situation.
 makaahon (ahon) maka_ [verb] to be able to get relief from hardship
@@ -126,7 +126,7 @@ akusasyón (akusa) [noun] accusation
 mag-akusá (akusa) mag_ [verb] to accuse
 pag-aakusa (akusa) pagCV_ [noun] accusing; accusations
 umakusá (akusa) _um_ [verb] to accuse
-akyatan (akyat) [noun] stairway
+akyatan (akyat) _an [noun] stairway
 akyatán (akyat) _an [verb] to take something upstairs to someone; * focus on the person/location where the item is going
 akyatín (akyat) _in [verb] to climb something; to climb up; to climb something; to go upstairs
 akyát (akyat) [noun] rise; ascent; visit; a going upstairs
@@ -156,7 +156,7 @@ maalaala (alaala) ma_ [verb] to remember something (OF)
 mag-álaala (alaala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
 alagaan (alaga) _an [verb] to take care of something/someone; to care for; to baby sit; to raise; to conserve; * focus on the person/thing being taken care of
 alagang-alagà (alaga) [adjective] very well cared for
-alagaín (alaga) [noun] something/someone requiring care
+alagaín (alaga) _in [noun] something/someone requiring care
 alagà (alaga) [noun] pet; someone cared for; care
 ipaalagà (alaga) ipa_ [verb] to leave something or someone under someone else's care
 maalagaan (alaga) ma_an [verb] to be able to take care of
@@ -171,11 +171,11 @@ tagapag-alagà (alaga) [noun] caretaker; custodian; guardian
 tagapangalagà (alaga) [noun] trustee
 alala (alala) [noun] memory; recollection
 alalahanin (alala) _anin [verb] to remember something; to keep something in mind; to worry about something; * focus on the thing being thought about
-alalahanín (alala) [noun] worry; concern
+alalahanín (alala) _anin [noun] worry; concern
 alalá (alala) [adjective] worried; concerned
 alaláng-alalá (alala) [adjective] very worried; worried sick
 maalala (alala) ma_ [verb] to remember something; to be reminded of something; to be able to remember something; to recall something; to remember something by accident
-maalalahanín (alala) [adjective] devoted; considerate; thoughtful; compassionate
+maalalahanín (alala) ma_anin [adjective] devoted; considerate; thoughtful; compassionate
 mag-alalá (alala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
 makaalala (alala) maka_ [verb] to be able to remember
 paalaala (alala) pa_ [noun] reminder; warning
@@ -4517,7 +4517,7 @@ lumipol (lipol) _um_ [verb] to abolish; to eradicate
 malipol (lipol) ma_ [verb] to exterminate
 paglipol (lipol) [noun] extinction; eradication; wiping out.
 ilistá (lista) i_ [verb] to list; to compile a list; to bill; to enroll
-listahan (lista) [noun] list; register; record.
+listahan (lista) _an [noun] list; register; record.
 listá (lista) [noun] list; register; record
 maglista (lista) mag_ [verb] to list
 magpalista (lista) magpa_ [verb] to enroll; to enlist; to be enrolled; to be listed
@@ -4544,7 +4544,7 @@ maliwanag (liwanag) [adjective] bright; light outside; clear (understandable); e
 pagpápaliwanag (liwanag) [noun] explaining
 paliwanag (liwanag) [noun] explanation; caption
 paliwanagan (liwanag) pa_an [verb] to explain to someone; to enlighten someone
-kalokohan (loko) [noun] foolishness; mischief; craziness; joking around; folly; nonsense; antics
+kalokohan (loko) ka_an [noun] foolishness; mischief; craziness; joking around; folly; nonsense; antics
 loko (loko) [noun] crazy person; lunatic; [adjective] crazy; insane; demented; mad
 lokohin (loko) _in [verb] to cheat someone; to trick someone; to fool someone; to deceive someone; to cheat on someone; to have an affair on someone; * focus on the person being cheated/cheated on
 lumoko (loko) _um_ [verb] to deceive; to cheat
@@ -4556,11 +4556,11 @@ manloko (loko) mang_ [verb] to be made to look like a fool; to be made a fool
 manloloko (loko) [noun] crook; swindler; scammer
 panloloko (loko) [noun] cheating; deception; infidelity
 ipagkaloób (loob) ipagka_ [verb] to grant something (OF); to be given (BF)
-kalooban (loob) [noun] will; disposition; bosom
+kalooban (loob) ka_an [noun] will; disposition; bosom
 kaloób (loob) [noun] gift; offering
 lakás-loób (loob) [adjective/adverb] courageous; brave; courageously; bravely
 lamang-loób (loob) [noun] entrails; intestines; internal parts; interior
-looban (loob) [noun] premises; backyard
+looban (loob) _an [noun] premises; backyard
 loobán (loob) _an [verb] to rob; to steal; to raid
 loobín (loob) _in [verb] to will; to grant
 loób (loob) [noun] will; volition; disposition; gift; donation; interior; inside
@@ -4575,7 +4575,7 @@ panloób (loob) [noun] something that belongs to or is used inside; undershirt; 
 pánloloób (loob) [noun] burglary; theft from a house or building; break-in; looting
 pínakaloób (loob) [adjective] innermost
 sirâ ang loób (loob) [idiomatic] discouraged; disheartened; lacking confidence
-sáloobín (loob) [noun] inner thoughts; attitude; disposition; thoughts
+sáloobín (loob) sa_in [noun] inner thoughts; attitude; disposition; thoughts
 ilubóg (lubog) i_ [verb] to immerse; to submerge; to soak
 lubóg (lubog) [adjective] submerged
 lubóg sa tubig (lubog) [phrase] flooded
@@ -4594,13 +4594,13 @@ lugód (lugod) [noun] enjoyment; pleasure
 malugód (lugod) ma_ [verb] to enjoy; to appreciate
 nakakalugód (lugod) [adjective] causing enjoyment; causing pleasure
 iluhà (luha) i_ [verb] to weep
-luhaán (luha) [adjective] in tears
+luhaán (luha) _an [adjective] in tears
 luhà (luha) [noun] tear (from the eyes); tears
 lumuhà (luha) _um_ [verb] to cry; to weep
 maluhâ (luha) ma_ [verb] to tear up; to get teary eyed
 mapaluhà (luha) mapa_ [verb] to burst into tears; to start crying involuntarily
 pagluhà (luha) [noun] weeping
-kalumaan (luma) [noun] decrepitude; advanced age (of an item, not of a person); rundown; dilapidation
+kalumaan (luma) ka_an [noun] decrepitude; advanced age (of an item, not of a person); rundown; dilapidation
 lumà (luma) [adjective] old; worn; stale
 lúmang-lumà (luma) [adjective] extremely old; very old
 makalumà (luma) [adjective] old-fashioned
@@ -4617,7 +4617,7 @@ lundág (lundag) [noun] jump
 paglundág (lundag) [noun] leaping; jumping
 Ikinalúlungkót ko (lungkot) [phrase] I am sorry.
 ikalungkót (lungkot) ika_ [verb] to cause one to be sad; to sadden; to grieve
-kalungkutan (lungkot) [noun] sadness; grief
+kalungkutan (lungkot) ka_an [noun] sadness; grief
 lungkót (lungkot) [noun] sadness; dejection
 malungkót (lungkot) [adjective] sad; bleak; downcast
 malungkót (lungkot) ma_ [verb] to feel sad; to be sad
@@ -4633,16 +4633,16 @@ nakalunók (lunok) [adjective] having swallowed
 paglunók (lunok) [noun] swallowing
 ilunsád (lunsad) i_ [verb] to launch something
 lumunsád (lunsad) _um_ [verb] to disembark
-lunsaran (lunsad) [noun] unloading zone
+lunsaran (lunsad) _an [noun] unloading zone
 lunsád (lunsad) [noun] disembarkment; launching
 maglunsád (lunsad) mag_ [verb] to launch; to disembark
 paglulunsád (lunsad) [noun] launching
 anyóng lupà (lupa) [noun] land forms
 hampas-lupà (lupa) [noun] pauper
-kalupaán (lupa) [noun] universe
+kalupaán (lupa) ka_an [noun] universe
 lamang-lupà (lupa) [noun] tuber
 lupalop (lupa) [noun] continent; faraway land
-lupaín (lupa) [noun] land; property
+lupaín (lupa) _in [noun] land; property
 lupà (lupa) [noun] soil; earth; country; nation; ground; land
 makalupà (lupa) [adjective] worldly
 pagguhò ng lupà (lupa) [noun] landslide
@@ -4720,14 +4720,14 @@ malasin (malas) _in [verb] to have bad luck; to suffer harm; to be unlucky
 pagpapamalas (malas) [noun] showing; showing off; exhibiting
 Malay ko ba? (malay) [interjection] How should I know?; Damned if I know
 Malay mo. (malay) [phrase] You never know.
-kamalayán (malay) [noun] recognition; cognizance
+kamalayán (malay) ka_an [noun] recognition; cognizance
 kawaláng-malay (malay) [noun] innocence; ignorance
 magkamalay (malay) magka_ [verb] to regain consciousness; to revive
 malay (malay) [noun] consciousness; understanding; realization
 mamalayan (malay) mang_ [verb] to realize something; to come to know something; to be aware of something
 waláng kamálay-malay (malay) [adjective] unsuspecting
 ipagkamalî (mali) ipagka_ [verb] to confuse; to mistake one thing for another
-kamalian (mali) [noun] flaw; defect; error; shortcoming; wrongdoing; fault
+kamalian (mali) ka_an [noun] flaw; defect; error; shortcoming; wrongdoing; fault
 maaaring magkamalî (mali) [adjective] fallible
 magkamalî (mali) magka_ [verb] to make a mistake; to be mistaken; to blunder
 malî (mali) [adjective] wrong; incorrect; bad; false; erroneous; mistake
@@ -4767,8 +4767,8 @@ matá-sa-matá (mata) eye for an eye
 pikít-matá (mata) [adjective/adverb] eyes shut; doing something with eyes shut
 pilíkmatá (mata) [noun] eyelash; eyelashes; lash; lashes
 ikamatáy (matay) ika_ [verb] to cause death
-kamatayan (matay) [noun] death; doom
-katayán (matay) [noun] slaughterhouse
+kamatayan (matay) ka_an [noun] death; doom
+katayán (matay) ka_an [noun] slaughterhouse
 magpakamatáy (matay) magpaka_ [verb] to commit suicide
 mamatayán (matay) ma_an [verb] to suffer the loss of someone (due to death)
 mamatáy (matay) ma_ [verb] to die
@@ -4776,7 +4776,7 @@ mámamátay-tao (matay) [noun] killer; murderer; assassin
 nakamámatáy (matay) [adjective] deadly; fatal
 pagkamatáy (matay) [noun] death
 pagpápakamatáy (matay) [noun] suicide
-parusang kamatayan (matay) [noun] death penalty
+parusang kamatayan (matay) ka_an [noun] death penalty
 magmatyág (matyag) mag_ [verb] to observe; to keep watch
 mapagmatyág (matyag) [adjective] observant; vigilant
 matyagán (matyag) _an [verb] to observe; to keep watch
@@ -4786,7 +4786,7 @@ tagamatyág (matyag) [noun] observer; watcher
 Lagusnilad (maynila) [noun] a well known underpass in metro Manila
 Maynilà (maynila) Manila, Capital city of the Philippines.
 kalakháng Maynilà (maynila) [noun] Metro Manila
-kamaynilaan (maynila) [noun] Manila area
+kamaynilaan (maynila) ka_an [noun] Manila area
 pa-Maynilà (maynila) headed to Manila; going to/toward Manila; bound for Manila
 taga-Maynilà (maynila) [noun] a person who is from or resides in Manila
 magkaroón (mayroon) magka_ [verb] to have; to possess; to get (in possession); to come to have; to end up having
@@ -4794,11 +4794,11 @@ makamenos (menos) maka_ [verb] to be able to reduce; to be able to lessen
 menos (menos) [adjective] less (of value, degree)
 ménos-gastos (menos) [adjective] less expensive/cost
 kahit minsan (minsan) [adjective] ever
-miminsan (minsan) [adverb] just once
+miminsan (minsan) CV_ [adverb] just once
 minsan (minsan) [adverb] once; sometime; sometimes; once in a while; one time
 minsan pá (minsan) once more
 noóng minsan (minsan) [adverb] one time; once; at times
-pamínsan-minsan (minsan) [adverb] once in a while; occasionally; at times;sometimes
+pamínsan-minsan (minsan) pa_REP_REP [adverb] once in a while; occasionally; at times;sometimes
 de-motór (motor) [adjective] motor
 magmotor (motor) mag_ [verb] to ride on a motorcycle; to travel by motorcycle
 motorista (motor) [noun] motorist; motorcycle driver
@@ -4816,8 +4816,8 @@ mulá noón (mula) [phrase] since then; since
 mulâ (mula) [preposition] from; since; since (after); beginning at; starting from; originating from; * short for "simula"
 pagmulán (mula) pag_an [verb] to be the source or cause of something
 panimulâ (mula) [noun] introduction; intro; [adjective] introductory; introduced; elementary;
-pinagmulán (mula) [noun] source; origin; antecedent
-simulain (mula) [noun] principle
+pinagmulán (mula) pinag_an [noun] source; origin; antecedent
+simulain (mula) si_in [noun] principle
 imulat (mulat) i_ [verb] to open something (usually one's eyes)
 ipamulat (mulat) ipa_ [verb] to open a person's eyes to something; to make someone aware of something
 magmulat (mulat) mag_ [verb] to open one's eyes or consciousness
@@ -4831,8 +4831,8 @@ magmurahán (mura) mag_an [verb] to curse at one another
 magmurá (mura) mag_ [verb] to curse; to cuss; to swear (with curse words)
 mura (mura) [adjective] inexpensive; cheap; unripe; young; immature; [noun] curse; expletive;
 murahin (mura) _in [verb] to cuss at someone; to curse at someone/something
-murahán (mura) [noun] brawl; noisy quarrel
-múmurahín (mura) [adjective] cheap; inexpensive
+murahán (mura) _an [noun] brawl; noisy quarrel
+múmurahín (mura) CV_in [adjective] cheap; inexpensive
 múrang-mura (mura) [adjective] very cheap; very inexpensive
 napakamura (mura) [adjective] very cheap; inexpensive
 pagmmura (mura) [noun] cursing
@@ -4852,7 +4852,7 @@ mágnanakaw (nakaw) [noun] thief; burglar
 nakaw (nakaw) [adjective] stolen
 nakawan (nakaw) _an [verb] to steal from someone; to rob someone
 nakawin (nakaw) _in [verb] to steal something
-nakawán (nakaw) [noun] theft; robbery
+nakawán (nakaw) _an [noun] theft; robbery
 nenok (nakaw) [adjective] stolen (slang)
 numakaw (nakaw) _um_ [verb] to rob
 pagnanakaw (nakaw) [noun] theft
@@ -4860,11 +4860,11 @@ panakáw (nakaw) [adjective] secretive; stealthy; [adverb] secretly; stealthily
 manatili (natili) [verb] to remain; to stay; to be permanent; to keep; to maintain
 mapanatili (natili) [verb] to retain
 ipangalan (ngalan) ipa_ [verb] to name someone; to give someone a name; to name call at someone
-nagngangalan (ngalan) [adjective] named
+nagngangalan (ngalan) nagCV_ [adjective] named
 ngalan (ngalan) [noun] name; reputation
-pangalan (ngalan) [noun] name; reputation
+pangalan (ngalan) pa_ [noun] name; reputation
 pangalanan (ngalan) pa_an [verb] to name someone/something; to identify someone (by name)
-pangngalan (ngalan) [grammar] noun
+pangngalan (ngalan) pang_ [grammar] noun
 ingangá (nganga) i_ [verb] to open one's mouth; to open the mouth of something
 mapangangá (nganga) mapa_ [verb] to open the mouthed involuntarily; to be shocked; to be gobsmacked
 nakangangá (nganga) [adjective] agape
@@ -4910,7 +4910,7 @@ anóng oras (oras) [phrase] what time
 nasa oras (oras) on time
 oras (oras) [noun] time; hour
 oras na (oras) it's time to do something; it's time for something
-orasán (oras) [noun] clock
+orasán (oras) _an [noun] clock
 sa lahát ng oras (oras) [adverb] at all times
 sa oras (oras) on time
 sa oras na (oras) the minute (something happens); as soon as (something happens)
@@ -4923,7 +4923,7 @@ umorder (order) _um_ [verb] to order; place an order
 bakás ng paá (paa) [noun] footprint
 mag-paá (paa) mag_ [verb] to go by foot; to go barefoot
 nakapaá (paa) [adjective] barefooted
-paanán (paa) [noun] base or foot (of a structure)
+paanán (paa) _an [noun] base or foot (of a structure)
 paá (paa) [noun] foot (body part); footsteps
 ipaalám (paalam) i_ [verb] to disclose something; to inform of something; to let someone know something
 magpaalam (paalam) mag_ [verb] to say goodbye; to seek permission
@@ -4942,7 +4942,7 @@ paborán (pabor) _an [verb] to favor
 pabór (pabor) [noun] favor; act of kindness
 pagpabór (pabor) favoring; in favor of
 pumabór (pabor) _um_ [verb] to favor; to do a favor
-kapagurán (pagod) [noun] tiredness; weariness
+kapagurán (pagod) ka_an [noun] tiredness; weariness
 magpakapagod (pagod) magpaka_ [verb] to work hard until tired
 mapagod (pagod) ma_ [verb] to get tired; to be tired; to feel tired
 nakakapagod (pagod) [adjective] tiring; exhausting
@@ -4953,9 +4953,9 @@ magpahid (pahid) mag_ [verb] to wipe; to smear
 pagpapahid (pahid) [noun] application; applying
 pahid (pahid) [noun] wiping; smearing; anointing
 pahiran (pahid) _an [verb] to coat something; to cover something
-kapaitán (pait) [adjective] bitterness; acerbity
+kapaitán (pait) ka_an [adjective] bitterness; acerbity
 mapaít (pait) [adjective] bitter
-papaitan (pait) a well known Ilocano soup dish mostly composed of cow or goat innards, garlic, and ginger.
+papaitan (pait) pa_an a well known Ilocano soup dish mostly composed of cow or goat innards, garlic, and ginger.
 papaitín (pait) pa_in [verb] to make bitter
 paít (pait) [noun] bitterness; bitter; bitter taste
 ipakò (pako) i_ [verb] to nail something
@@ -4972,14 +4972,14 @@ palà (pala) [noun] blessing; grace; favor
 palá (pala) [enclitic] after all; surprisingly; indeed; so; oh, I just realized; said after a fact one has just discovered
 siyangá palá (pala) [expression] by the way
 bukás-palad (palad) [adjective] generous; charitable; with open palms
-kapalaran (palad) [noun] chance; luck; fate; destiny
+kapalaran (palad) ka_an [noun] chance; luck; fate; destiny
 kapós-palad (palad) [adjective] poor
 kasamaáng-palad (palad) [noun] bad luck; misfortune
 mapalad (palad) [adjective] blessed
-pakikipagsápalarán (palad) [noun] adventure; venture
+pakikipagsápalarán (palad) pakikipagsa_an [noun] adventure; venture
 palad (palad) [noun] palm (of the hand); fate; chance; destiny
 palarin (palad) _in [verb] to bless someone; to prosper; to get lucky
-sápalarán (palad) [noun] venturing; gambling
+sápalarán (palad) sa_an [noun] venturing; gambling
 ipalít (palit) i_ [verb] to exchange something with something else; to substitute; to replace; to convert
 kapalít (palit) [noun] what is given in exchange; replacement; successor (person); [adjective] reciprocal; in return
 magpalitan (palit) mag_an [verb] to exchange; to trade; to swap; to barter
@@ -4987,10 +4987,10 @@ magpalít (palit) mag_ [verb] to change; to replace; to exchange
 magpapalít (palit) magCV_ [verb] to have something exchanged or replaced
 makapagpalít (palit) makapag_ [verb] to be able to change
 mapalitan (palit) ma_an [verb] to be able to exchange something; to be able to substitute something; to be able to swap out something
-pagpapalitan (palit) [noun] exchanging
+pagpapalitan (palit) pagCV_an [noun] exchanging
 pagpapalít (palit) [noun] exchange; substitution; switching
 pagpapalít-palít (palit) [noun] changing; swapping
-palitan (palit) [noun] substitute; exchange
+palitan (palit) _an [noun] substitute; exchange
 palitán (palit) _an [verb] to replace something; to change something
 palít (palit) [noun] change; exchange; substitute
 pamalít (palit) [noun] replacement; spare
@@ -5000,20 +5000,20 @@ palupalò (palo) [noun] wooden mallet
 palò (palo) [noun] beating; whipping; hitting a ball with a bat or paddle; blows
 pamalò (palo) [noun] an object used to beat or hit something else
 pumalò (palo) _um_ [verb] to spank; to whip; to hit; to beat; to flog
-kapalpakan (palpak) [noun] failure
+kapalpakan (palpak) ka_an [noun] failure
 palpák (palpak) [noun] failure; [adjective] done poorly
 pumalpák (palpak) _um_ [verb] to fail
 hábang-panahón (panahon) [adverb] forever
-kapanahunan (panahon) [noun] season
+kapanahunan (panahon) ka_an [noun] season
 lagáy ng panahón (panahon) [noun] weather; weather conditions
 mahabang panahón (panahon) a long time
 masamáng panahón (panahon) [adjective] bad weather
-napápanahón (panahon) [adjective/adverb] convenient; timely; expedient
-pamanahón (panahon) [adjective] term
+napápanahón (panahon) naCV_ [adjective/adverb] convenient; timely; expedient
+pamanahón (panahon) pang_ [adjective] term
 pamanahóng papél (panahon) [noun] term paper
 panahón (panahon) [noun] time; weather; era; age; season; moment; time period
-paná-panahón (panahon) [adverb] seasonally; from time to time
-pánahunan (panahon) [grammar] grammatical tense; grammatical aspect
+paná-panahón (panahon) REP_REP [adverb] seasonally; from time to time
+pánahunan (panahon) _an [grammar] grammatical tense; grammatical aspect
 sa lalong madalíng panahón (panahon) [adverb] as soon as possible; as quickly as possible; the soonest
 sa panahón ng (panahon) [preposition] during; [adverb] under; in the season of
 ipanalo (panalo) i_ [verb] to win something; to win a game/competition
@@ -5022,7 +5022,7 @@ manalo (panalo) ma_ [verb] to win
 mapanalunan (panalo) ma_an [verb] to win
 pagkapanalo (panalo) [noun] winning
 panalo (panalo) [noun] winner; winnings; win
-kapanatagan (panatag) [noun] tranquility; contentment
+kapanatagan (panatag) ka_an [noun] tranquility; contentment
 kapanatagan ng loob (panatag) [noun] peace of mind; inner peace
 mapanatag (panatag) ma_ [verb] to be tranquil
 panatag (panatag) [adjective] tranquil; peaceful
@@ -5033,32 +5033,32 @@ panawan ng pag-asa (panaw) _an [verb] to lose hope
 pumanaw (panaw) _um_ [verb] to die; to depart; to disappear
 buóng pangalan (pangalan) [noun] full name
 ipinagkaloób na pangalan (pangalan) [noun] given name
-kapangalan (pangalan) [noun] someone with the same name; one's namesake
+kapangalan (pangalan) ka_ [noun] someone with the same name; one's namesake
 magpangalan (pangalan) mag_ [verb] to name
 nakapangalan (pangalan) [adjective] named; in person's name
 waláng pangalan (pangalan) [adjective] anonymous
 hindí mapanganib (panganib) [adjective] not dangerous; safe
 isapanganib (panganib) isa_ [verb] to threaten; to endanger
 itayá sa panganib (panganib) i_ [verb] to risk danger
-kapanganibán (panganib) [noun] danger; dangerous situation
+kapanganibán (panganib) ka_an [noun] danger; dangerous situation
 labás sa panganib (panganib) [phrase] out of danger
 manganib (panganib) ma_ [verb] to be in danger; to be threatened
 mapanganib (panganib) [adjective] dangerous
 panganib (panganib) [noun] danger; risk; crisis
 KSP (pansin) [adjective/noun] attention seeker (short for "kulang sa pansin")
-kapansín-pansín (pansin) [adjective] very noticeable; noteworthy
+kapansín-pansín (pansin) ka_REP_REP [adjective] very noticeable; noteworthy
 mápansín (pansin) ma_ [verb] to happen to notice something (OF); to realize something (OF); to be noticed (AF)
-nakapansín (pansin) [adjective] noticed
-pansinin (pansin) [adjective] noticeable
+nakapansín (pansin) naka_ [adjective] noticed
+pansinin (pansin) _in [adjective] noticeable
 pansinín (pansin) _in [verb] to notice something; to observe something; to detect something; to take note of something
 pansín (pansin) [noun] attention; notice
-papansín (pansin) [noun] attention seeker; self centered person
+papansín (pansin) pa_ [noun] attention seeker; self centered person
 pumansín (pansin) _um_ [verb] to notice
 ipantáy (pantay) i_ [verb] to make even; to level
 kapantáy (pantay) [noun] an equal; [adjective] level with
 magpantáy (pantay) mag_ [verb] to align; to be even with; to be level with
 pagkakapantáy (pantay) [noun] equality
-pamantayan (pantay) [noun] standard; norm
+pamantayan (pantay) pang_an [noun] standard; norm
 pantayán (pantay) _an [verb] to match; to make something equal to something
 pantayín (pantay) _in [verb] to level something; to make something even
 pantáy (pantay) [adjective] equal; flat; level; aligned; even
@@ -5079,7 +5079,7 @@ iparada (parada) i_ [verb] to parade; to park
 nakaparada (parada) [adjective] parked
 parada (parada) [noun] parade
 pumarada (parada) _um_ [verb] to park
-páradahán (parada) [noun] parking lot; parking area; terminal
+páradahán (parada) _an [noun] parking lot; parking area; terminal
 hindí pagkakápareho (pareho) [noun] inequality; difference; not the same
 ipareho (pareho) i_ [verb] to make similar to another
 kapareho (pareho) [noun] duplicate; match; [adjective] just like; equal; the same
@@ -5089,7 +5089,7 @@ magkapareho (pareho) [adjective] alike; the same
 pagkakapareho (pareho) [noun] equality; sameness
 pareho (pareho) [adjective] the same; identical; equal; even; [pronoun] the two; both;
 paré-pareho (pareho) [adverb] in the same way; equally; similarly; [adjective] alike; the same; about the same
-kaparusahan (parusa) [noun] punishment
+kaparusahan (parusa) ka_an [noun] punishment
 magparusa (parusa) mag_ [verb] to punish
 maparusahan (parusa) ma_an [verb] to be punished
 parusa (parusa) [noun] punishment
@@ -5107,7 +5107,7 @@ pumasá (pasa) _um_ [verb] to pass
 pasada (pasada) [noun] practice run; trip; passing
 pasadahan (pasada) _an [verb] to go over something; to go across something; to glance over something
 magpasán (pasan) mag_ [verb] to carry on one's back or shoulder
-pasanin (pasan) [noun] burden;
+pasanin (pasan) _in [noun] burden;
 pasanín (pasan) _in [verb] to carry on one's back or shoulders
 pasán (pasan) [noun] load; burden
 pumasán (pasan) _um_ [verb] to carry on one's back or shoulder; to carry a burden (figuratively)
@@ -5122,7 +5122,7 @@ Paskó (pasko) Christmas
 Paskó ng Pagkabuhay (pasko) [noun] Easter; Easter Sunday
 Páskuwá (pasko) [noun] Christmas; Poinsettia
 ipamaskó (pasko) ipang_ [verb] to give something as a Christmas gift; to use something (usually clothes) for Christmas
-kapaskuhan (pasko) [noun] Christmas-time; yuletide
+kapaskuhan (pasko) ka_an [noun] Christmas-time; yuletide
 magpaskó (pasko) mag_ [verb] to spend Christmas; to celebrate Christmas
 pamaskó (pasko) [noun] Christmas gift; something for Christmas
 papaskó (pasko) [noun] Christmas gift
@@ -5150,13 +5150,13 @@ papasók (pasok) [adjective] incoming; entering; coming in to; [adverb] inwards
 pasok (pasok) [noun] entry; entrance; admission; trespass; school day; work day
 pasukan (pasok) _an [verb] to enter something into; to go to work; to go to school
 pasukin (pasok) _in [verb] to enter something; to go into something
-pasukán (pasok) [noun] start of the school year; the school year; entrance; entryway; entry
+pasukán (pasok) _an [noun] start of the school year; the school year; entrance; entryway; entry
 pumasok (pasok) _um_ [verb] to go in; to enter; to get in; to go to school or work; to be hired as
 ipasyál (pasyal) i_ [verb] to take someone for a walk / stroll; to take someone to places; to take someone on a tour
 magpasyál (pasyal) mag_ [verb] to tour around; to take a stroll; to take a walk; to take a tour
 makapasyál (pasyal) maka_ [verb] to be able to take a stroll around
 mamasyál (pasyal) mang_ [verb] to stroll around; to take a walk
-pasyalan (pasyal) [noun] promenade; tourist destination
+pasyalan (pasyal) _an [noun] promenade; tourist destination
 pasyalán (pasyal) _an [verb] to visit something/someone
 pasyál (pasyal) [noun] stroll; roam around
 pasyál-pasyál (pasyal) strolling around
@@ -5181,19 +5181,19 @@ nakapatáy (patay) [adjective] dead; turned off
 pagkakapatáy (patay) [noun] killing; death
 pagpatáy (patay) [noun] murder; killing
 pamatáy (patay) [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
-patayan (patay) [noun] slaughter; killing
+patayan (patay) _an [noun] slaughter; killing
 patayan ng hayop (patay) [noun] slaughterhouse
 patayín (patay) _in [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
 patáy (patay) [adjective] dead; deceased; [expressions] crap / oh my gosh / dang (slang)
 patáy-dampót (patay) [adjective] unconscious; dead weight
-patáy-patayan (patay) [noun] playing dead; pretending to be dead
+patáy-patayan (patay) REP_REP_an [noun] playing dead; pretending to be dead
 pumatáy (patay) _um_ [verb] to kill; to extinguish
 ipatong (patong) i_ [verb] to put something on top; to apply something on top
 magpatong (patong) mag_ [verb] to lay on top; to place on top of
 nakapatong (patong) [adjective] lying on something; resting on something
 pagpapatong (patong) [noun] putting on top; coating; superimposed.
 patong (patong) [noun] putting on top; layer; layering; coating; interest on a loan; superimposed
-patungán (patong) [noun] base; mounting
+patungán (patong) _an [noun] base; mounting
 pumatong (patong) _um_ [verb] to be on top of something
 pátongpatong (patong) [adjective] one on top of another
 mapapayag (payag) mapa_ [verb] to convince
@@ -5201,7 +5201,7 @@ pagpayag (payag) [noun] approval; giving permission; assenting; assent
 payag (payag) [adjective] in agreement; willing
 payagan (payag) _an [verb] to allow someone to do; to allow something; to acquiesce on something; to concede something
 pumayag (payag) _um_ [verb] to agree; to accept; to allow; to assent; to approve; to comply; to acquiesce
-kapayapaan (payapa) [noun] peace; freedom from war; tranquility
+kapayapaan (payapa) ka_an [noun] peace; freedom from war; tranquility
 kapayapaan ng isip (payapa) [noun] peace of mind
 mamayapà (payapa) mang_ [verb] to die; to rest in peace; to be tranquil
 mapayapà (payapa) [adjective] peaceful; tranquil; calm; quiet
@@ -5223,7 +5223,7 @@ mamera (pera) [adjective] valued or priced at one centavo each
 mapera (pera) [adjective] has money
 pera (pera) [noun] money; cash; currency; wealth; funds
 perang hawak (pera) [noun] cash in hand; cash
-dí-mapigilan (pigil) [adjective] irrepressible; out of control; runaway; unbridled
+dí-mapigilan (pigil) ma_an [adjective] irrepressible; out of control; runaway; unbridled
 magpigíl (pigil) mag_ [verb] to prevent; to control
 makapigil (pigil) maka_ [verb] to be able to prevent; to be able to block
 makapígil-hiningá (pigil) [adjective] breath taking
@@ -5237,7 +5237,7 @@ alumpihít (pihit) [adjective] twisting because of pain or other discomfort
 ipihit (pihit) i_ [verb] to turn something; to twist something
 pagpihit (pihit) [noun] turning
 pihit (pihit) [noun] turn
-pihitán (pihit) [noun] switch; dial
+pihitán (pihit) _an [noun] switch; dial
 ipikít ang matá (pikit) i_ [verb] to close one's eyes; to ignore
 mapapikít (pikit) mapa_ [verb] to involuntarily close one's eyes
 nakapikít (pikit) [adjective] with eyes closed
@@ -5255,8 +5255,8 @@ mapilì (pili) ma_ [verb] to be chosen
 mákapilì (pili) maka_ [verb] to be able to choose
 pagpilián (pili) pag_an [verb] to make a choice among several options
 pagpilì (pili) [noun] choice; choosing; selection
-pagpipilián (pili) [noun] choice among several things
-pamiliin (pili) pang_ [verb] to be given a choice; to be given an alternative
+pagpipilián (pili) pagCV_an [noun] choice among several things
+pamiliin (pili) pang_in [verb] to be given a choice; to be given an alternative
 pamimilì (pili) [noun] choice; choosing
 papiliin (pili) pa_in [verb] to have someone choose or select
 piliin (pili) _in [verb] to choose something; to select something; to single out something; to pick out something
@@ -5277,7 +5277,7 @@ pilit (pilit) [noun] insistence; assertion; straining
 pilitin (pilit) _in [verb] to force something/someone; to coerce someone
 pilít (pilit) [adjective] forced; strained; not unnatural
 pumilit (pilit) _um_ [verb] to force; to coerce; to constrain
-sápilitán (pilit) [adjective] obligatory; mandatory; compulsory; forced
+sápilitán (pilit) sa_an [adjective] obligatory; mandatory; compulsory; forced
 ipintá (pinta) i_ [verb] to paint something
 magpintá (pinta) mag_ [verb] to paint
 maipintá (pinta) mai_ [verb] to be able to paint something
