@@ -2156,6 +2156,10 @@ dungaw (dungaw) [noun] state of looking out of a window
 dungawin (dungaw) _in [verb] to show oneself through a window
 durungawan (dungaw) [noun] window; look-out point
 nakadungaw (dungaw) naka_ [adjective] looking out (of a window); staring out of a window; hanging out of
+marunong (dunong) ma_ [adjective] knowing how to do something; intelligent; knowledgeable; erudite; good at
+karunungan (dunong) ka_an [noun] knowledge; wisdom; education
+dunong (dunong) [noun] knowledge; wisdom; learning; education
+dumunong (dunong) _um_ [verb] to gain knowledge
 dumurâ (dura) _um_ [verb] to spit
 duraan (dura) [noun] spittoon
 duraán (dura) _an [verb] to spit on something
@@ -5859,6 +5863,9 @@ pinakamasaráp (sarap) [adjective] most delicious; most tasty
 rapsa (sarap) [slang] delicious; * derived from "sarap"
 saráp (sarap) [noun] tastiness; deliciousness; goodness
 saráp-saráp (sarap) [adjective] very delicious; very tasty
+sári-sarì (sari) [adjective] variety; assorted; various kinds
+kasarián (sari) ka_an [noun] gender; sex ( e.g., boy / girl / male / female ); kind; species; genus
+sarì (sari) [noun] kind; species; genus
 iyóng sarili (sarili) yourself
 kasarinlán (sarili) [noun] independence; autonomy
 magsarili (sarili) mag_ [verb] to live alone
