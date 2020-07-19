@@ -33,7 +33,9 @@ mylist = myinput.split('\n')
 mylist.pop()
 #print(mylist)
 
-while True:
+count=0
+while count < 10:
+    count = count + 1
     myout = random.choice(mylist)
     if myout.find('	') < 0:
         continue

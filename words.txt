@@ -209,6 +209,7 @@ bahid	stain, smear, trace
 bahid-dungis	dirt stain, stain on one’s name
 bahíng	sneeze (also bahín)
 baít	kindness; the mind
+baitang	a step of stairs, rung of a ladder; a grade or level in school
 baka	beef; cow
 bakâ	perhaps, maybe, might
 bakal	iron
@@ -391,7 +392,7 @@ bulaklak	flower (noun)
 bulalákaw	meteorite, shooting star
 bulilít	tiny, drawfish; smallest/youngest person
 búlo	the hairy covering of some fruit
-bulók	rotten, corrupt
+bulók	rotten, spoiled, decaying; corrupt
 bulóng	murmur, whisper; a magical incantation
 bulsá	pocket
 bulusok	sinking with the feet into soft mud; swishing sound; swift plunge downward by airplane
@@ -1087,6 +1088,8 @@ kanlungan	to provide with shelter against weather
 kanta	song
 kantá	to sing
 kanto	corner, street corner
+kantót	fucking, sex act (vulgar); fuck!
+kantutín	to fuck someone/something, to have sex with someone
 kapâ	groping
 kapág	when, whenever, upon (implies certainty, though commonly used same as kung)
 kapahamakan	catastrophe, injury
@@ -1439,7 +1442,7 @@ luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied 
 luhóso	extravagant
 luksA	in mourning, in black
 lukso	jump, leap, spring
-lumà	old, not new, antiquated (used for objects, not like matanda)
+lumà	old, worn, stale, antiquated (used for objects, not like matanda)
 lumabág	to violate (eg, the law)
 lumabas	come out, emerge, be found to be, appear; brought out
 lumagay	to put oneself in a certain condition
@@ -1578,6 +1581,7 @@ magkalapit	to be close together (two things/people)
 magkamali	to make a mistake
 magkano man	whatever the cost (price)
 magkanó	how much?
+magkantót	to fuck ( have sex )
 magkapareho	the same (ref. to two things/people)
 magkapatid	siblings
 magkapit	to hold onto each other, to join hands
@@ -1590,6 +1594,7 @@ magkunwari	to pretend
 maglaán	to allocate, devote, provide, dedicate, appoint
 maglagi	to stay(??)
 maglahad	to offer, to set forth in words
+maglaho	to dissolve, fade away, vanish
 maglako	peddle, hawk
 maglapat	to administer; apply
 maglarawan	to depict; to illustrate; to describe
@@ -2129,7 +2134,7 @@ napakalakí	very big, huge, enormous, monumental.Example Sentences Available Ico
 napakalamíg	very cold, too cold.Example Sentences Available Icon1 Example
 napakalapit	very near, very close by
 napakalayò	very far away
-napakaliít	very small, minute (size)
+napakaliít	very small, minute (size), too small (yes, too small)
 napakalinis	to be very clean
 napakalungkót	very sad
 napakamahál	much loved, very expensive
@@ -2422,7 +2427,7 @@ palakasan	a competition to see who’s stronger
 palakasan	a strength competition
 palakasin	to strengthen something
 palamigan	a cooler
-palamigin	to chill, refrigerate
+palamigin	to chill, refrigerate, make cold, cool (pinalamig, pinalalamig, palalamigin) 
 palangiti	always smiling
 palapAg	downwards; floor (storey) of a building
 palapit	oncoming, approaching

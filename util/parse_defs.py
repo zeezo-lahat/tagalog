@@ -6,40 +6,37 @@ import sys
 import re
 meat = sys.stdin.read()
 
+# toss the beginning through the last "Sentences to Flash Cards":
+meat = re.sub(r'.*Sentences to Flash Cards', '', meat, flags=re.DOTALL|re.MULTILINE)
 
-# toss everything through "see a literal translation.*" and from "Join us" to the end
-#meat = re.sub(r'.*see a literal translation\..*?\n *(.*?)^[^\n]*Notice: The Tatoeba sentences.*', r'\1', dat, flags=re.DOTALL|re.MULTILINE)
-
-# toss everything through the last "Sentences to Flash Cards\n":
-meat = re.sub(r'.*Sentences to Flash Cards\n', '', meat, flags=re.DOTALL|re.MULTILINE)
-
-# toss everything 'Alternate spelling(s): to the end:
+# toss everything from 'Alternate spelling(s): to the end:
 meat = re.sub(r'Alternate spelling\(s\):.*', '', meat, flags=re.DOTALL)
 
-# toss everything from "Tatoeba Sentence Notice" to the end
-meat = re.sub(r'Tatoeba Sentence Notice.*', '', meat, flags=re.DOTALL)
+# toss everything from "Notice: The Tatoeba sentences" to the end
+meat = re.sub(r'Notice: The Tatoeba sentences.*', '', meat, flags=re.DOTALL)
 
 # toss lines with "^ *[.*"
-meat = re.sub(r'^ *\[.*', '', meat, flags=re.MULTILINE)
+#meat = re.sub(r'^ *\[.*', '', meat, flags=re.MULTILINE)
 
-# toss lines with "being fluent in Tagalog."
-meat = re.sub(r'^.*being fluent in Tagalog.', '', meat, flags=re.MULTILINE)
+# toss lines with "user-submitted example sentences", ignoring case:
+meat = re.sub(r'^.*user-submitted example sentences.*', '', meat, flags=re.MULTILINE|re.IGNORECASE)
 
-# toss lines with "^.*ser-submitted.*"
-meat = re.sub(r'^.*ser-submitted.*', '', meat, flags=re.MULTILINE)
+# remove '\r*\n *Tatoeba user-submitted sentence'
+meat = re.sub(r'\r*\n *Tatoeba user-submitted sentence', '', meat, flags=re.MULTILINE|re.IGNORECASE)
 
 # toss empty lines:
-#meat = re.sub(r'(\n *){2,}', '\n', meat)
-meat = re.sub(r'(\n){2,}', '\n', meat)
+meat = re.sub(r'^\r*\n', '', meat, flags=re.MULTILINE)
 
-# remove leading spaces:
-meat = re.sub(r'^ *', '', meat, flags=re.MULTILINE)
+# remove trailing spaces:
+meat = re.sub(r'\s+$', '', meat, flags=re.MULTILINE)
 
-# toss final empty line:
-meat = re.sub(r'\n^$', '', meat, flags=re.MULTILINE)
+# '\xc2\xa0' becomes just '':
+#meat = re.sub('\xc2\xa0', '', meat)
+# this seems to work, somehow, where the above doesn't..:
+meat = re.sub('\xa0', '', meat)
 
-# fix bug in html that makes " pang" become " pan style.*pangpan>"
-#meat = re.sub(r' pan style.*pangpan>', ' pang', meat)
+# ' +\t+' becomes just \t:
+meat = re.sub(r' +\t+', '\t', meat)
 
 print(meat)
 exit()

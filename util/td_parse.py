@@ -54,7 +54,7 @@ for e in myentries:
     e = re.sub(multispacepattern, ' ', e) # replace all \s+ with ' '
     t2e[:] = e.split(': ')
     try:
-        print(t2e[0].strip() + ' ------ ' + t2e[1].strip())
+        print(t2e[1].strip() + '\t' + t2e[0].strip())
     except:
         continue
     #e = re.sub(r':', '\t', e)

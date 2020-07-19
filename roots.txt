@@ -3979,6 +3979,9 @@ lahát (lahat) [adjective] all; all of; everything; everyone; every; each and ev
 lahát-lahát (lahat) [adverb] absolutely all; absolutely everything
 panlahát (lahat) [adjective] for all; open to all; generic; general
 pángkalahatán (lahat) [adjective] general; universal; public
+lahò (laho) [noun] eclipse; disappearance
+maglahò (laho) mag_ [verb] to lose sight of; to disappear; to dissolve
+paglalahó (laho) pagCV_ [noun] disappearance; disappearing
 ilahók (lahok) i_ [verb] to include as an entry into something
 kalahók (lahok) [noun] contestant; participant (in a contest); ingredient in a mixture
 lahukán (lahok) _an [verb] to add into; to mix
@@ -4576,6 +4579,10 @@ pánloloób (loob) [noun] burglary; theft from a house or building; break-in; lo
 pínakaloób (loob) [adjective] innermost
 sirâ ang loób (loob) [idiomatic] discouraged; disheartened; lacking confidence
 sáloobín (loob) sa_in [noun] inner thoughts; attitude; disposition; thoughts
+lubáy (lubay) [noun] relaxation; relaxing; resting
+lubayán (lubay) _an [verb] to ease up on; to stop joking/insulting someone; to give some slack; to give someone a break
+maglubáy (lubay) mag_ [verb] to slacken; to ease up
+waláng-lubáy (lubay) [adjective] persistent; lasting; continuing
 ilubóg (lubog) i_ [verb] to immerse; to submerge; to soak
 lubóg (lubog) [adjective] submerged
 lubóg sa tubig (lubog) [phrase] flooded

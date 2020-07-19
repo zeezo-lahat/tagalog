@@ -1,5 +1,6 @@
 export PATH=./util:$PATH
-alias ht="history | egrep '  (try|tga|tgw|def|td|tl|pd) ' | sed 's/^ *[0-9]*  //' | tail -22"
+alias ht="history | egrep '  (try|tga|tgw|def|td|tl|pd) ' | tail -22"
+#alias ht="history | egrep '  (try|tga|tgw|def|td|tl|pd) ' | sed 's/^ *[0-9]*  //' | tail -22"
 alias broot='cat roots.txt | tgrep.py'
 alias tg='tgrep.py'
 alias listroots='sed "s/[^(]* (//" roots.txt | sed "s/).*//"| sort | uniq'
