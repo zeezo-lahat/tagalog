@@ -5824,6 +5824,10 @@ nakasandál (sandal) [adjective] leaning
 sandalan (sandal) [noun] backrest; back; rest
 sandál (sandal) [noun] leaning on something
 sumandál (sandal) _um_ [verb] to recline; to lean on something
+sandigan (sandig) _an [noun] foundation; main support; backrest; person upon whom one relies for support
+sandíg (sandig) [noun] reclining; depending on someone; leaning on someone
+nakasandíg (sandig) naka_ [adjective] reclining; leaning back
+isandíg (sandig) i_ [verb] to recline
 isangkót (sangkot) i_ [verb] to involve; to incriminate
 kasangkután (sangkot) ka_an [verb] to be involved with something; to get caught up in something
 kasangkót (sangkot) [noun] fellow person implicated
