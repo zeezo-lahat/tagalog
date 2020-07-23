@@ -1,52 +1,60 @@
 # 36 daily words and expressions you always hear!
-why don't you answer me?
-bakit hindi mo ako sinAsagOt?	
-I can do this
-kAya ko 'to	
-I can do that
-kAya ko 'yan	
-what the hell are you doing?
-ano bang ginagawA mo?	
-so fussy
-masyadong pihikan	
-get off my case!
-lubayan mo 'ko!	
-get out of my way!
-umalis ka sa dinadaAnan ko!	
-what have you done?
-anong ginawa mo?	
-this can't be
-hindi ito pwede	
-how could you do that?
-papano mo nagawa iyon?	
-that's a lie
-isa 'yong kasinungalingan	
-I don't believe you
-hindi ako naniniwAla sa 'yo
-I'm pissed off
-nainis na ako
-I'm just trying to explain
-sinusubUkan ko lang magpaliwAnag
-I can't take this anymore!
-hindi ko na 'to kAya!	
-is that all?
-'yan na ba lahat?	
-is that it?
-'yan na ba?	
-coming through!
-makikirAan!	
-this is a joke, right?
-biro lang ito, hindi ba?	
-this is no joke
-hindi ito biro	
-I'm nervous
-kinakabahAn ako	
-kindly ask
-pakitanong nga	
-look at that!
-tingnan mo 'yon!	
-I'm sorry.  it's my fault
-patawad.  kasalanan ko 'yon	
+bakit hindi mo ako sinAsagOt?	why don't you answer me?
+kAya ko 'to	I can do this
+kAya ko 'yan	I can do that
+ano bang ginagawA mo?	what the hell are you doing?
+masyadong pihikan	so fussy
+lubayan mo 'ko!	get off my case!
+umalis ka sa dinadaAnan ko!	get out of my way!
+anong ginawa mo?	what have you done?
+hindi ito pwede	this can't be
+papano mo nagawa iyon?	how could you do that?
+isa 'yong kasinungalingan	that's a lie
+hindi ako naniniwAla sa 'yo I don't believe you
+nainis na ako	I'm pissed off
+sinusubUkan ko lang magpaliwAnag	I'm just trying to explain
+hindi ko na 'to kAya!	I can't take this anymore!
+'yan na ba lahat?	is that all?
+'yan na ba?	is that it?
+makikirAan!	coming through!
+biro lang ito, hindi ba?	this is a joke, right?
+hindi ito biro	this is no joke
+kinakabahAn ako	I'm nervous
+pakitanong nga	kindly ask
+tingnan mo 'yon!	look at that!
+patawad.  kasalAnan ko 'yon	I'm sorry.  it's my fault
+malinaw na ba?	is it clear?
+kumbinsihIn mo ako	convince me
+malaya ako	I'm a free man
+walang makapagdIdikta sa akin	no on can dictate to me
+narinig ko yun	I've heard it
+tama na 'to	this is enough
+sobra na 'yon	that's too much
+malapit na 'ko matapos	I'm halfway done
+may kailangan ka pa ba?	do you need anything else?
+maglaho (ka)!	get lost!
+lumabas ka!	get out!
+diyan ka lang!	stay back!
+nandito ako	I'm over here
+nagawA mo!	you've made it!
+nakakatuwa naman!	that was fantastic!
+sundan mo siya	go after him
+saglit lang	hold on a sec
+papano 'to?	how is this?
+bakit ko sasabihin sa iyo?	why should I tell you?
+nasa kuwarto siya	she's in her room
+natutulog siya	she's asleep
+may tAO ba dIto?	is anyone here?
+parang alam ko 'to	I guess I know this
+parang kilala kita	I guess I know you
+ano bang pakialam ko?	what do I care?
+papano ko malalAman?	how the hell would I know?
+hindi ito nangyayari!	this isn't happening!
+anong nakakatawA?	what's funny?
+anong problema?	what's wrong?
+masaya ako ngayon	I'm happy today
+marami kang natutunan	you learned a lot
+napahanga mo ako	you impressed me
 
 title: mga negatibong parirala	negative phrases
 you're wasting your time	nagsasayang ka lang ng oras
