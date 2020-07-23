@@ -1117,6 +1117,10 @@ ibatì (bati) i_ [verb] to send greetings
 magbatián (bati) mag_an [verb] to greet one another (reciprocal)
 magbatî (bati) mag_ [verb] to become friends again
 pala-batì (bati) pala_ [adjective] quick to greet or say Hi; friendly
+batíd (batid) [adjective] known; aware of; realize; conscious of; cognizant
+mabatíd (batid) ma_ [verb] to come to know something; to be informed of something; to discover something; to come to learn something; to learn about something; to be acquainted with something
+kabatiran (batid) ka_an [noun] information
+ipabatíd (batid) ipa_ [verb] to acquaint
 batikos (batikos) [noun] tirade; harangue; invective; verbal abuse
 bumatikos (batikos) _um_ [verb] to criticize severely
 batikusin (batikos) _in [verb] to verbally harass someone; to go off on a tirade against someone
@@ -3418,6 +3422,10 @@ iyón (iyon) [pronoun] that (far from speaker and person spoken to); it; those; 
 nayun (iyon) informal / slang contraction of "na" + "iyon"
 niyón (iyon) [adjective] of that; that; because of that
 yung (iyon) [article] the (colloquial); that; * informal spelling for "ang" or "iyon"+linker
+kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
+kabá (kaba) [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
+kabado (kaba) [adjective] in doubt; nervous
+nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
 ikabít (kabit) i_ [verb] to fasten; to attach; to hang
 kabitan (kabit) [noun] mounting; mount;
 kabitán (kabit) _an [verb] to attach; to fasten
@@ -7204,6 +7212,9 @@ tubuhan (tubo) [noun] sugarcane farm; sugarcane plantation
 tubò (tubo) [noun] gain, profit; interest; growth; dividend; native
 tubó (tubo) [noun] sugar cane
 tumubò (tubo) _um_ [verb] to profit; to develop; to sprout
+tugisin (tugis) _in [verb] to pursue; to chase
+tugis (tugis) [noun] pursuit; pursuing; going after; running after; chase
+tumugis (tugis) _um_ [verb] to chase; to run after
 itugmâ (tugma) i_ [verb] to rhyme; to match; to coordinate; to harmonize
 magtugmâ (tugma) mag_ [verb] to coordinate; to harmonize
 pagtugmaín (tugma) pag_in [verb] to match; to rhyme; to coordinate
