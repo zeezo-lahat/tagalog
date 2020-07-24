@@ -32,10 +32,14 @@ alsa
 amba
 ambag
 amin
+amo
 amoy
+ampon
 anak
 angat
+angkas
 angkat
+angkin
 angkop
 ani
 anim
@@ -45,6 +49,7 @@ antay
 anyo
 apak
 apat
+apaw
 api
 apo
 apoy
@@ -77,6 +82,7 @@ babad
 babae
 babaw
 baboy
+baga
 bagabag
 bagal
 bagaman
@@ -95,6 +101,7 @@ baka
 bakas
 bakasyon
 bakuna
+bala
 balak
 balat
 bali
@@ -122,6 +129,8 @@ bata
 batas
 batay
 bati
+batid
+batikos
 bato
 bawal
 bawas
@@ -151,6 +160,7 @@ bingi
 biro
 bisa
 bisita
+bisto
 bitin
 bitiw
 biyahe
@@ -166,6 +176,7 @@ buka
 bukas
 bukid
 buko
+bukod
 bulag
 bulok
 bulong
@@ -183,6 +194,7 @@ burda
 butas
 buti
 buwag
+buwal
 buwan
 daan
 dagan
@@ -245,7 +257,9 @@ dula
 dulas
 dulot
 dumi
+dumog
 dungaw
+dunong
 dura
 durog
 dusa
@@ -267,6 +281,7 @@ ganap
 ganda
 ganoon
 ganti
+gapang
 gapos
 gastos
 gata
@@ -302,6 +317,7 @@ halik
 halo
 hamak
 hambing
+hambog
 hamon
 hampas
 hanap
@@ -312,6 +328,7 @@ harang
 harap
 hari
 hasa
+hataw
 hati
 hatid
 hatol
@@ -331,6 +348,7 @@ hilo
 hilot
 himatay
 hina
+hinayang
 hindi
 hinga
 hingal
@@ -390,6 +408,7 @@ iwan
 iwas
 iyak
 iyon
+kaba
 kabit
 kagat
 kaibigan
@@ -419,14 +438,17 @@ kasa
 kasal
 katawan
 katha
+katok
 kaunti
 kaya
 kayod
+kilabot
 kilala
 kiling
 kiliti
 kilo
 kilos
+kinabang
 kipot
 kiskis
 kita
@@ -462,6 +484,7 @@ lago
 lagot
 lahad
 lahat
+laho
 lahok
 lakad
 lakal
@@ -499,7 +522,9 @@ lawit
 laya
 layas
 layo
+layon
 liban
+libang
 libing
 libot
 ligaw
@@ -531,11 +556,14 @@ lipas
 lipat
 lipol
 lista
+litaw
 lito
 liwanag
 loko
 loob
+lubay
 lubog
+lubos
 lugod
 luha
 luma
@@ -545,6 +573,7 @@ lungkot
 lunok
 lunsad
 lupa
+lupit
 lusog
 lusot
 lutas
@@ -557,11 +586,13 @@ malay
 mali
 mana
 maneho
+mangha
 masid
 mata
 matay
 matyag
 maynila
+mayroon
 menos
 minsan
 motor
@@ -628,14 +659,17 @@ pera
 pigil
 pihit
 pikit
+pila
 pili
 piling
 pilit
 pinta
+pirma
 pisil
 pito
 plano
 post
+problema
 pugay
 pula
 pulong
@@ -694,12 +728,15 @@ sampay
 sampu
 sanay
 sandal
+sandig
 sangkot
 sanib
 santo
 sapak
+sapatos
 sara
 sarap
+sari
 sarili
 satsat
 sauli
@@ -732,6 +769,7 @@ sindi
 singit
 sino
 sinungaling
+sipa
 sipag
 sipol
 sira
@@ -780,12 +818,14 @@ tahi
 tahimik
 taka
 takas
+takaw
 takbo
 takda
 takip
 takot
 tala
 talaga
+talakay
 tali
 talik
 talino
@@ -797,6 +837,7 @@ tambak
 tambal
 tambay
 tamis
+tamo
 tampok
 tanaw
 tanda
@@ -816,6 +857,7 @@ tapak
 tapat
 tapon
 tapos
+tapyas
 tatag
 tatak
 tatlo
@@ -825,6 +867,7 @@ tawag
 tawid
 taya
 tayo
+tengga
 tibay
 tibok
 tigas
@@ -854,6 +897,7 @@ trabaho
 tsismis
 tubig
 tubo
+tugis
 tugma
 tugon
 tugtog
@@ -875,6 +919,7 @@ tunaw
 tunay
 tungkol
 tungo
+tunog
 tuon
 tuos
 tupad
@@ -883,6 +928,7 @@ turo
 tusok
 tuto
 tutok
+tutol
 tuwa
 tuwid
 tuyo
@@ -899,6 +945,7 @@ ulat
 ulila
 ulit
 ulo
+umpisa
 una
 unawa
 unlad
