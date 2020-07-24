@@ -343,8 +343,8 @@ binilang	to count
 binti	leg, especially the calf part
 binubuo	composing/comprising (buuin)
 birador	hitman(?)
-birò	joke, banter, gag (joke)
 birò mo	can you imagine..?
+birò	joke, banter, gag (joke)
 bisà	power, force, effect, strength
 bisi	busy
 bistado	obvious, exposed
@@ -641,6 +641,7 @@ gumanap	to perform, act
 gumanda	beautify
 gumasta	to spend money
 gumawa	to make, create, produce, commit, undertake
+gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
 gunitâ	memory, recollection
 guro	teacher
 gusali	building, structure
@@ -903,10 +904,10 @@ ipo-ipo	waterspout
 ipon	gather, collect, save
 ipunin	to gather, collect, save
 ipuwesto	to install in place
-isá't kalahatì	one and a half
 isagawa	to put into effect
 isaglit	to do in a hurry
 isahod	catch something falling
+isá't kalahatì	one and a half
 isawalang-bahala	to not pay attention to
 isinuko	surrendered someone or something
 isip	mind, intellect, thought, judgment
@@ -1200,9 +1201,9 @@ katulong	a helper, aid, attendant
 katUmbas	an equivalent
 katunAyan	truth, actuality, fact
 katúpáran	accomplishment, fulfillment
-katuturán	significance, value, use, utility (this is a root)
 katutubo	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
+katuturán	significance, value, use, utility (this is a root)
 katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
 kaugnay	regarding, allied, related; relative; incidental
 kaugnayan	relation
@@ -1452,8 +1453,8 @@ lumagay	to put oneself in a certain condition
 lumagi	to remain (lagi)
 lumakad	to walk
 lumakas	became stronger, recuperated
-lumaktaw	to skip
 lumakí	to grow big, enlarge
+lumaktaw	to skip
 lumalâ	became worse
 lumalapit	approaching
 lumamig	to become cold
@@ -1702,6 +1703,7 @@ maiwan	to leave something behind
 makaakó	conceited, egotistical
 makabayan	patriotic
 makagantí	to get revenge, payback
+makagitgit	(gitgit) to advance by repeated slight movements
 makaipon	to be able to save (money, etc)
 makaisip	to be able to think
 makakalimutin	forgetful
@@ -1737,6 +1739,7 @@ makíkiraán	please let me pass by
 makilala	to meet
 makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
+makipaggitgitan	(gitgit) to advance by repeated slight movements, to go forward by force
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
 makipagpalitan	to exchange, to barter
@@ -1886,8 +1889,8 @@ marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 máriníg	to hear
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, fragile
-mas	more
 mas kaunti	less
+mas	more
 masagána	abundant, plentiful (sagána)
 masagasà	to be run over
 masAhol	worse
@@ -2024,8 +2027,8 @@ nagmamadali	hurrying, in a hurry
 nagpakalunod	drowned oneself in
 nagpapalakas	makes you strong; to stay on the good side of someone (slang)
 nagpapalusóg	nourishes
-nagpapátay	to have had someone killed
 nagpapatáy	to be killing someone
+nagpapátay	to have had someone killed
 nagpigil	controlled/stopped (oneself)
 nagsawa	fed up
 nagsipatnubay	guide, companion, escort
@@ -2470,8 +2473,8 @@ pamilIhan	market, marketplace (bili)
 pamiliin	to let someone choose
 pamilya	family
 paminsan-minsan	occasionally, from time to time
-pampapawis	something to make you sweat
 pampang	river bank (origin of the name "Pampanga")
+pampapawis	something to make you sweat
 panaginip	a dream
 panahon	weather; time, season, age, era, epoch; all of time; grammatical tense
 panalunan	winnings
@@ -2535,8 +2538,8 @@ pantalan	wharf, wooden or bamboo pier; quay
 pantanggal	something used for removing
 pantay	level, equal
 pantinig	vocal
-pánukálang-batás	draft legislation; draft bill; proposed legislation
 pánukála	a proposal, proposition, arrangement
+pánukálang-batás	draft legislation; draft bill; proposed legislation
 panunukso	the act of tempting (someone); teasing
 papaano	 in what way; how; anyhow; what do we do with; how did/will it be done/happen?
 papalapit	approaching(?)
@@ -2818,8 +2821,8 @@ samantala	meanwhile, while, for the time being
 samantalá	to capitalize, take advantage of
 samantalahIn	to take advantage of
 samantAlang	whereas
-samo	supplication, appeal, entreaty, earnest request
 sama-sama	together (multiple)
+samo	supplication, appeal, entreaty, earnest request
 samsám	confiscation, seizure
 sana	I hope, I wish; was going to, but; should (not) have
 sanay	practice
@@ -3229,8 +3232,8 @@ tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
 tupád	fulfilment, implementation of a duty, promise; compliance, observance
 tupada	picnic; illegal cockfighting
-tupók	burnt to ashes; nasunog at naging abó; sunóg na sunóg
 túpok	(n) burning to ashes; pugnáw (pagsirà hanggang mawala o maglaho ang isang bagay, karaniwang sa pamamagitan ng apoy)
+tupók	burnt to ashes; nasunog at naging abó; sunóg na sunóg
 turing	remark, name, mention; answer to a riddle; modifier (in grammar); price offered (from seller or buyer)
 turò	point (as with your finger)
 turò	teach
