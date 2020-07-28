@@ -34,14 +34,27 @@ mylist.pop()
 #print(mylist)
 
 count=0
+_didalready = []
 while count < 10:
     count = count + 1
-    myout = random.choice(mylist)
+    j = 0
+
+    while True:
+        j += 1
+        myout = random.choice(mylist)
+        if myout not in _didalready:
+            _didalready.append(myout)
+            break
+        if j > 100:
+            break
+
     if myout.find('	') < 0:
         continue
+
     t2e = myout.split(sep='	', maxsplit=1)
     if len(t2e) < 2:
         continue
+
     if order == "r":
         #print(t2e[1].strip())
         print(t2e[1].strip(), end='')

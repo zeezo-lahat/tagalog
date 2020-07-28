@@ -957,6 +957,7 @@ kaAkit-Akit	attractive
 kaarawan	birthday, anniversary
 kaAwa-Awa	so poor, pitiful, wretched
 kaaway	enemy
+kabá	palpitation, premonition, a faint feeling that something bad might happen
 kababaang-loob	humility
 kabahan	dread
 kabahanin	to dread
@@ -1233,9 +1234,12 @@ kilíg	tremble, shudder; giddiness
 kiligin	to be tickled pink
 kilikili	armpit
 kilos	behavior, action, movement, motion; conduct, manner, attitude
+kinabahan	became nervous
 kinabukAsan	future
 kinagabihan	on that night
 kinaiinisan	to be annoyed at someone
+kinakabahan	to be nervous
+kinakaba-kabahan	is being nervous
 kinakapatid	step-sibling, godsib, god-sibling
 kinaladkad	dragged
 kinamay	used hands on something
@@ -1914,8 +1918,8 @@ masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
-maski na	even so/though
-maski	even, mere
+maskí	although, even though, nevertheless, however, whether, aside from; even, mere
+maski na	even if/then/though
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)
@@ -2630,6 +2634,7 @@ pero	but
 perwísyo	damage
 pigil	detention, control, restraint
 pigilin	to control, restrain, keep back, hold back
+pihikan	fussy, choosy, fastidious, exacting
 piitan	prison
 pikón	quick to anger
 pila	line, queue

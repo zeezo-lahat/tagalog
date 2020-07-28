@@ -1,24 +1,25 @@
 tawad	discount, bargain; forgiveness
-tawad (tawad) [noun] discount; forgiveness; excuse
+tawad	(tawad) [noun] discount; forgiveness; excuse
 kasali	included
-kasali (sali) [noun] participant; contestant
+kasali	(sali) [noun] participant; contestant
 hakbáng	step; stepping; move
 sundô	fetch someone from somewhere
-sundô (sundo) [noun] fetcher; someone who will pick someone else up
-tiwalà (tiwala) [noun] trust; reliance; faith in someone; confidence in someone
+sundô	(sundo) [noun] fetcher; someone who will pick someone else up
+tiwalà	(tiwala) [noun] trust; reliance; faith in someone; confidence in someone
 kamara	legislative chamber; hall, chamber
-pananáw (tanaw) pang_ [noun] vision; point of view
+pananáw	(tanaw) pang_ [noun] vision; point of view
 tanáw	view
-tanáw (tanaw) [adjective] within eye sight
+tanáw	(tanaw) [adjective] within eye sight
 bigát	heaviness, weight; slang for "heavy/deep"
-bigat (bigat) [noun] weight; mass; heaviness; seriousness
-sitahín (sita) _in [verb] to question someone; to interrogate someone
+bigat	(bigat) [noun] weight; mass; heaviness; seriousness
+sitahín	(sita) _in [verb] to question someone; to interrogate someone
 turing	remark, name, mention; answer to a riddle; modifier (in grammar); price offered (from seller or buyer)
-turing (turing) [noun] name; the way one treats or considers another; [grammar] modifier;
-isagawâ (gawa) isa_ [verb] to execute something (an action/plan/etc); to perform an action; to implement something; to have something happen
+turing	(turing) [noun] name; the way one treats or considers another; [grammar] modifier;
+isagawâ	(gawa) isa_ [verb] to execute something (an action/plan/etc); to perform an action; to implement something; to have something happen
 nga	expresses a request; affirmation marker (maganda nga siya -> she certainly is pretty)
-maski	even, mere
 putók	blast, explosion; body odor (slang, eg "may putók")
-putók (putok) [noun] explosion; discharge; bad odor; bad body odor; bang; crack; blast; firing
 suntok	a fist punch
-suntók (suntok) [noun] punch; a hit with the fist
+suntók	(suntok) [noun] punch; a hit with the fist
+putók	(putok) [noun] explosion; discharge; bad odor; bad body odor; bang; crack; blast; firing
+maskí	although, even though, nevertheless, however, whether, aside from; even, mere
+maski na	even if/then/though
