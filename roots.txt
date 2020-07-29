@@ -7835,6 +7835,10 @@ pangungusap (usap) [noun] sentence (grammar); remarks; expression
 usap (usap) [noun] discussion
 usap-usapan (usap) [noun] rumor; gossip
 usapan (usap) [noun] conversation; agreement; appointment
+usigin (usig) [verb] to prosecute; to persecute
+pag-uusig (usig) pagCV_ [noun] persecuting; persecution
+tagausig (usig) taga_ [noun] prosecutor
+usig (usig) [noun] persecution; investigation
 mausisà (usisa) [adjective] inquisitive; curious
 pag-uusisà (usisa) [noun] inquiring
 pang-uusisà (usisa) [noun] curiosity

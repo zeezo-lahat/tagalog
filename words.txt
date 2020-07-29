@@ -2395,6 +2395,7 @@ pagtutunton	giving guidance at the start
 pagulungin	to roll an object; cause to roll
 pag-unawà	(n) understanding, comprehension
 pag-usapan	to converse (ng, typically plural) about something (ang)
+pag-uusig	investigation, persecution
 pag-uwi	upon returning home
 pagwawangis	(metaphor)
 pahalaga	valuation, act of valuing, evaluation
@@ -3015,6 +3016,7 @@ tagapagtaguyod	sponsor, suppporter
 taga-parusa	punisher
 tagarito	local, resident, "from here"
 tagasaan	from what place?
+tagausig	prosecutor
 tagay	toast; term in Batangas for a little girl
 tagilid	tilt, slant
 tagiliran	side; boundary; either side (eg, left or right) of something
@@ -3320,6 +3322,7 @@ urong-sulong	“going backward, going forward” = indecisive, hesitation
 úsap	talking to each other
 usápan	conversation
 usap-usapan	what people are talking about = rumors, gossip
+úsig	prosecute, persecute, investigation (also tugis)
 uso	stylish, in vogue, in fashion
 usok	smoke (n)
 utak	brain
