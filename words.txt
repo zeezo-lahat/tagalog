@@ -168,6 +168,7 @@ at saka	furthermore, and also, as well as
 at	and; and what's more...; as / because / that (as way introduce an explanation of something)
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
+awatin	pacify or separate quarreling persons
 away	fight, quarrel, dispute
 áwit	song
 awitan	to sing to someone; song contest
@@ -1029,6 +1030,8 @@ kaisipan	the mind, intellect, attitude
 kakaibang	different
 kakambal	fellow twin, being like someone
 kakanín	sweets, sweet foods, small snacks, rice cake
+kakarampot	only a very small quantity
+kakaunti	(lubhang kaunti)
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
 kakulitan	peskiness, badgering
@@ -1124,6 +1127,7 @@ kapwa-tao	relations with others
 karagatán	ocean (dagat)
 karahasán	violence
 karamihan	most (of), majority, nearly all
+karampót	(dampót) pinch (of salt), a very small quantity; a little bit, a crumb; napakaliit na bílang o piraso
 karanasán	an experience
 karanIwan	usually, generally, customarily; common, typical, ordinary, habitual (this is a root)
 karapatán	a right, a legal claim; something that is due to a person
@@ -1192,6 +1196,7 @@ katawanín	to represent/symbolize/embody something (-in, obj. focus)
 katawá-tawá	ridiculous, laughable
 katibayan	proof
 katigasan	hardness, firmness, stiffness, inflexibility, determination
+katitíng	very small (size or amount), tiny, minute; particle; bit; iota; very small amount (napakaliit, katitíng)
 katiwalian	irregularity, corruption
 katók	knock
 katol	mosquito coil (a coil used to kill mosquitos.  this is a brand name.)
@@ -1378,6 +1383,7 @@ lapit	nearness
 lapitan	to come near something
 lapnos	peeled off (skin that has been burnt, etc.)
 larawan	picture, portrait (litrato]) ilarawan (i-)
+larga	go ahead!, proceed!
 lasa	the taste or flavor of something
 lasing	drunk, intoxicated, inebriated
 lason	poison
@@ -1915,8 +1921,8 @@ masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
-maskí	although, even though, nevertheless, however, whether, aside from; even, mere
 maski na	even if/then/though
+maskí	although, even though, nevertheless, however, whether, aside from; even, mere
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)
@@ -2631,7 +2637,7 @@ pero	but
 perwísyo	damage
 pigil	detention, control, restraint
 pigilin	to control, restrain, keep back, hold back
-pihikan	fussy, choosy, fastidious, exacting
+pihikan (píhik) choosy, fussy, fastidious, exacting (syn. mapili)
 piitan	prison
 pikón	quick to anger
 pila	line, queue
