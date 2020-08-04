@@ -224,7 +224,7 @@ magsipag-	pluralized mag- with several people doing act simultaneously or to eac
 magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
 mai-	abilitative of i- (?) <ang> from <ng> to <sa> (object)
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
-	MalakI and naitulong mo sa akin.  |  You have helped me a lot.
+	MalakI ang naitulong mo sa akin.  |  You have helped me a lot.
 maipa-	abilitative of ipa- (causative)
 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 maipang-	abilitative of ipang- (object undergoes action; benefactor)

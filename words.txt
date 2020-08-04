@@ -165,7 +165,7 @@ asarín	to infuriate/offend/anger someone
 asim	sourness
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
 at saka	furthermore, and also, as well as
-at	and; and what's more...; as / because / that (as way introduce an explanation of something)
+at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
 awatin	pacify or separate quarreling persons
@@ -1240,7 +1240,7 @@ kiligin	to be tickled pink
 kilikili	armpit
 kilos	behavior, action, movement, motion; conduct, manner, attitude
 kinabahan	became nervous
-kinabukAsan	future
+kinabukAsan	future; the following day, the day after, the next day
 kinagabihan	on that night
 kinaiinisan	to be annoyed at someone
 kinakabahan	to be nervous
@@ -1450,6 +1450,7 @@ lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
 lubhâ	extremely
 lubóg	submerged, sunken, buried (lit. or fig.)
 lubos	complete, exhaustive, entire, unmitigated, quite, wholly, in full
+lugár	place, site, point, spot, region, location, seat, space
 lugI	financial loss
 lúho	luxury
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
@@ -2416,7 +2417,7 @@ pakainin	to feed
 pákay	purpose, aim
 pake	(pakialam) to have a shit to give. (anong pake ko? wala akong pake!)
 paki-abot	"please pass.."
-pakialam	caring/concern
+pakialam	caring/concern; busybody, meddler
 paki-bilis	please hurry
 pakikiapíd	fornication
 pakikibagay	conforming, adaptation
@@ -3103,6 +3104,7 @@ táo	person
 taón	year
 taós	sincere; sincerely
 taos-pusò	sincere, heartfelt
+tapang	bravery, courage, strength, valor; strength of flavor
 tapát	honest, upright, honorable
 tapát	the place in front, that which is across, in front of
 tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
@@ -3165,7 +3167,9 @@ titik-hilig	italics
 tiwala sa sarili	self-confidence
 tiwala	trust, faith
 tiwalî	incorrect; inverted; absurd
+tiya	aunt
 tiyagâ	diligence, perseverance
+tiyahin	alternative to tiya
 tiyak	definite
 tiyán	stomach
 tiyuhin	uncle, stepfather
@@ -3263,7 +3267,9 @@ tuwâ	joy, happiness, fun
 tuwáng	coordinate (grammar)
 tuwáng	supported on both sides
 tuwáng-tuwáng	in pairs
+tuwi	every, each time, always conj. whenever tuwi conj. (+ ng) whenever, everytime.
 tuwíd	straight, erect, direct
+tuwing	every time, every now and then
 ubó	cough
 ugalì	attitude, behavior, disposition, nature, character, manners, mannerism, habit
 ugnay	connection, relation, relevance

@@ -623,7 +623,7 @@ awayin (away) _in [verb] to quarrel with someone; to fight with someone
 awayán (away) [noun] enmity; fighting
 kaaway (away) [noun] enemy; adversary; foe
 mag-away (away) mag_ [verb] to quarrel with each other; to fight with each other
-magkaaway (away) [adjective] antagonizing; antagonistic; conflicting | [noun] enemies
+magkaaway (away) magka_ [adjective] antagonizing; antagonistic; conflicting | [noun] enemies
 makipag-away (away) makipag_ [verb] to quarrel with each other; to argue with each other
 mang-away (away) mang_ [verb] to quarrel with someone
 pag-aaway (away) pagCV_ [noun] contention; dispute; clash
@@ -761,7 +761,7 @@ bagayan (bagay) _an [verb] to conform; to suit
 bumagay (bagay) _um_ [verb] to suit; to adapt; to fit
 bágay-bagay (bagay) [noun] circumstances; things; various little things
 ibagay (bagay) i_ [verb] to adapt
-magkakabagay (bagay) [adjective] fitting; homogenous; in sync
+magkakabagay (bagay) magkaka_ [adjective] fitting; homogenous; in sync
 makibagay (bagay) maki_ [verb] to adjust oneself to; to conform to
 nababagay (bagay) [adjective] suitable; fitting
 pakikibagay (bagay) pakiki_ [noun] conforming
@@ -848,7 +848,7 @@ kabahayan (bahay) [noun] household
 kapitbahay (bahay) [noun] neighbor
 kapítbahayan (bahay) [noun] neighborhood; subdivision (of houses);
 kasambaháy (bahay) [noun] household helper; housemate; fellow person living in the same house
-magkápitbahay (bahay) [noun] neighbors (plural)
+magkápitbahay (bahay) magka_ [noun] neighbors (plural)
 maybahay (bahay) [noun] wife; housewife; (literally(bahay) one who "has the house")
 pabahay (bahay) pa_ [noun] housing
 pamamahay (bahay) pangCV_ [noun] household; home
@@ -2674,7 +2674,7 @@ hálu-halò (halo) [adjective] motley; assortment
 ihalò (halo) i_ [verb] to mix something
 kahalò (halo) [noun] item in a mixture / mix
 maghalò (halo) mag_ [verb] to mix; to combine; to blend
-magkahalò (halo) [adjective] mixed together
+magkahalò (halo) magka_ [adjective] mixed together
 magkahalò (halo) magka_ [verb] to mix; to have mixed; to blend
 panghalò (halo) pang_ [adjective] for mixing
 hamak (hamak) [adjective] poor; abject
@@ -2760,7 +2760,7 @@ iharáp (harap) i_ [verb] to present something; to position something in front
 kaharapín (harap) ka_in [verb] to face something
 kaharáp (harap) [adjective] opposite; in the front of; face to face; facing
 magharáp (harap) mag_ [verb] to present; to face; to face one another
-magkaharáp (harap) [adjective] facing one another; facing each other
+magkaharáp (harap) magka_ [adjective] facing one another; facing each other
 maharáp (harap) ma_ [verb] to face something; to meet something
 makaharáp (harap) maka_ [verb] to happen to meet; to face
 naháharáp (harap) [adjective] faced with
@@ -2806,7 +2806,7 @@ ihatol (hatol) i_ [verb] to decide
 mahatulan (hatol) ma_an [verb] to be sentenced; to be judged
 hawa (hawa) [noun] infection; contagion
 hawahan (hawa) _an [verb] to infect someone else with a disease / illness
-magkahawaan (hawa) magka_ [verb] to get infected (plural)
+magkahawaan (hawa) magka_an [verb] to get infected (plural)
 mahawa (hawa) ma_ [verb] to catch a disease or illness (AF); to get infected (AF); to catch something (OF)
 mahawaan (hawa) ma_an [verb] to get infected by
 makahawa (hawa) maka_ [verb] to infect; to be a bad influence
@@ -2819,8 +2819,8 @@ hawakán (hawak) [noun] handle
 humawak (hawak) _um_ [verb] to hold; to handle
 háwak-hawak (hawak) [adjective] holding; continuously held in the hand
 maghawak (hawak) mag_ [verb] to hold; to clench; to hold each other
-magkahawak (hawak) [adjective] holding hands
-magkahawak ang mga kamáy (hawak) [adjective] holding hands
+magkahawak (hawak) magka_ [adjective] holding hands
+magkahawak ang mga kamáy (hawak) magka_ [adjective] holding hands
 mahawakan (hawak) ma_an [verb] to be able to hold something
 makahawak (hawak) maka_ [verb] to be able to hold onto something
 mapahawak (hawak) mapa_ [verb] to hold something accidentally or unintentionally
@@ -3062,7 +3062,7 @@ hiwalayan (hiwalay) [noun] separation; end of a relationship
 hiwalayán (hiwalay) _an [verb] to separate from something
 hiwaláy (hiwalay) [adjective] separated; separate; separately; apart; secluded
 maghiwaláy (hiwalay) mag_ [verb] to separate; to separate from one another; to split up; to set apart; to divide; to diverge
-magkahiwaláy (hiwalay) [adjective] separated; [adverb] separately
+magkahiwaláy (hiwalay) magka_ [adjective] separated; [adverb] separately
 magkáhiwaláy (hiwalay) magka_ [verb] to become separate; to become separated; to have a separation
 mahiwaláy (hiwalay) ma_ [verb] to be separated; to be set apart of isolated
 pághiwalayín (hiwalay) pag_an [verb] to separate one from another
@@ -3076,7 +3076,7 @@ kahihiyán (hiya) [noun] shame; humiliation; embarrassment; dishonor; shyness
 kahiya-hiyâ (hiya) [adjective] shameful
 langyâ (hiya) [expression] short for 'walang hiya', meaning unashamed, without shame; an exclamation for a shocking or aggravating wrongdoing; used for an inconsiderate or rude person
 magdulot ng kahihiyán (hiya) ka_an [verb] to bring shame upon
-magkáhiyaan (hiya) mag_an [verb] to feel shy around each other; to feel ashamed around each other
+magkáhiyaan (hiya) magka_an [verb] to feel shy around each other; to feel ashamed around each other
 mahiyain (hiya) [adjective] shy; bashful; timid; coy
 mahiyâ (hiya) ma_ [verb] to feel shy; to feel bashful; to feel ashamed; to be embarrassed
 makapanghiyâ (hiya) makapang_ [verb] to cause shame; to cause embarrassment
@@ -3165,7 +3165,7 @@ hulóg (hulog) [adjective] fallen; failing grade; failing
 ihulog (hulog) i_ [verb] to drop something; to drop something off; to let something fall; to mail something; to pay for something by installment; to make a downpayment on something
 kahulugán (hulog) [noun] definition; meaning; significance
 maghulog (hulog) mag_ [verb] to drop; to pay by installment
-magkasingkahulugán (hulog) [noun] synonyms; words with the same meaning
+magkasingkahulugán (hulog) magkasnigka_an [noun] synonyms; words with the same meaning
 mahulog (hulog) ma_ [verb] to fall
 makahulugán (hulog) [adjective] meaningful; significance
 pagkahulog (hulog) pagka_ [noun] fall
@@ -3197,7 +3197,7 @@ kaibahán (iba) [noun] difference; diversity; variation; contrast
 kakaibá (iba) [adjective] unique; strange; weird; different; odd; bizarre; unusual; exotic
 mag-iba-ibá (iba) mag_ [verb] to keep changing
 mag-ibá (iba) mag_ [verb] to change
-magkaibá (iba) [adjective] different; diverse; dissimilar; [adverb] differently
+magkaibá (iba) magka_ [adjective] different; diverse; dissimilar; [adverb] differently
 magkáibá (iba) magka_ [verb] to have a difference; to differ; to be different; to be unique; to disagree; to be strange
 maibá (iba) ma_ [verb] to be different from; to be unusual; to change; to be able to change
 máibá namán (iba) [phrase] for a change
@@ -3525,9 +3525,9 @@ kumagát (kagat) _um_ [verb] to bite; to sting
 makagát (kagat) ma_ [verb] to bite (OF); to be bitten (AF); to be stung (AF)
 mangagát (kagat) mang_ [verb] to bite frequently
 mapakagát (kagat) mapa_ [verb] to make someone bite; to make someone agree to something; to bite something involuntarily; to agree to something involuntarily
-kaibigan (kaibigan) [noun] friend; buddy; chum
+kaibigan (kaibigan) ka_an [noun] friend; buddy; chum
 kaibiganin (kaibigan) _in [verb] to make friends with someone; to become friends with someone
-magkaibigan (kaibigan) [noun] friends (more than one); group of friends
+magkaibigan (kaibigan) magka_an [noun] friends (more than one); group of friends
 makipagkaibigan (kaibigan) makipag_ [verb] to become a friend; to become friendly; to make friends
 pagkakaibigan (kaibigan) [noun] friendship
 ikailâ (kaila) i_ [verb] to keep secret; to deny
@@ -3599,10 +3599,10 @@ káliwaan (kaliwa) [expression] Cash On Delivery (COD)
 pakaliwâ (kaliwa) [adverb] going to the left; toward the left
 pangángaliwâ (kaliwa) [noun] infidelity; betrayal
 kalkuladór (kalkula) [noun] calculator
-kalkulahín (kalkula) [verb] to calculate something
-kumalkulá (kalkula) [verb] to calculate
-magkalkulá (kalkula) [verb] to calculate
-pag-kalkulá (kalkula) [noun] calculating
+kalkulahín (kalkula) _in [verb] to calculate something
+kumalkulá (kalkula) _um_ [verb] to calculate
+magkalkulá (kalkula) mag_ [verb] to calculate
+pag-kalkulá (kalkula) pag_ [noun] calculating
 kalma (kalma) [noun] calm
 kalmado (kalma) [adjective] calm
 kalmante (kalma) [noun] sedative
@@ -3632,7 +3632,7 @@ kakampí (kampi) [noun] ally
 kampihán (kampi) [vern] to take sides
 kampí (kampi) [adjective] biased
 kumampí (kampi) _um_ [verb] to ally; to side with; to take sides with
-magkakampí (kampi) [noun] allies
+magkakampí (kampi) magka_ [noun] allies
 kanselado (kansela) [adjective] cancelled
 kanselahín (kansela) _in [verb] to cancel something
 magkanselá (kansela) mag_ [verb] to cancel
@@ -3663,7 +3663,7 @@ kapatíd na babae (kapatid) [noun] sister
 kapatíd na lalaki (kapatid) [noun] brother
 kinákapatíd (kapatid) [noun] step-sibling; step-brother; step-sister; step-child
 kápatiran (kapatid) [noun] camaraderie; fraternity; brotherhood
-magkapatíd (kapatid) [noun] siblings (plural / more than one)
+magkapatíd (kapatid) magka_ [noun] siblings (plural / more than one)
 kapihan (kape) [noun] cafe; coffeehouse
 kapé (kape) [noun] coffee
 kúlay-kapé (kape) [adjective] brunette; brown haired
@@ -3758,9 +3758,9 @@ kilalá (kilala) [adjective] well-known; known; famous; knowing a person; famili
 kilaláng-kilalá (kilala) [adjective] known; well known; widely known
 kilanlín (kilala) _in [verb] to recognize someone; to admit something
 kumilala (kilala) _um_ [verb] to recognize; to identify; to acknowledge; to diagnose
-magkakilala (kilala) [noun] acquaintances
-magkilala (kilala) mag_ [verb] to meet; to know a person; to become acquainted with
+magkakilala (kilala) magka_ [noun] acquaintances
 magkákilala (kilala) magka_ [verb] to know each other; to be acquainted with each other; to be introduced to each other; to meet each other
+magkilala (kilala) mag_ [verb] to meet; to know a person; to become acquainted with
 magpakilala (kilala) magpa_ [verb] to make known; to reveal; to introduce oneself to someone
 makilala (kilala) ma_ [verb] to meet someone; to get to know someone; to become acquainted with someone; to come to know someone/something; to recognize someone
 makipagkilala (kilala) makipag_ [verb] to meet; to know someone; to meet each other
@@ -3832,7 +3832,7 @@ pángitaín (kita) [noun] vision; sight; premonition; apparition
 tamó (kita) [expression] see?; do you see?; * contraction from "nakita mo"
 kaklase (klase) [noun] classmate
 klase (klase) [noun] class; kind; type; brand; classification; class in a school
-magkaklase (klase) [noun] classmates (plural)
+magkaklase (klase) magka_ [noun] classmates (plural)
 magklase (klase) mag_ [verb] to have class (school); to hold a class
 primera klase (klase) [adjective] first class; first rate
 kolekta (kolekta) [noun] collection; offering
@@ -3889,7 +3889,7 @@ pagkukulang (kulang) [noun] shortcoming; fault
 kakulay (kulay) [adjective] having the same color
 kulay (kulay) [noun] color
 kulayan (kulay) _an [verb] to color something; to color in something
-magkakulay (kulay) [adjective] having the same color
+magkakulay (kulay) magka_ [adjective] having the same color
 magkulay (kulay) mag_ [verb] to color
 makulay (kulay) [adjective] colorful; brightly colored
 pangulay (kulay) [noun] anything used for coloring; dye
@@ -4265,7 +4265,7 @@ kalapít (lapit) [noun] nearby person; nearby place; [adjective] nearby; neighbo
 lapit (lapit) [noun] nearness; closeness; proximity
 lapitan (lapit) _an [verb] to approach something; to come close to; to get closer to; to crowd someone; * focus on the person/thing being crowded or approached
 lumapit (lapit) _um_ [verb] to approach; to come close; to come closer to
-magkalapit (lapit) [adjective] nearby each other; close by each other
+magkalapit (lapit) magka_ [adjective] nearby each other; close by each other
 maglapít (lapit) mag_ [verb] to go near each other; to go near one another
 makalapit (lapit) maka_ [verb] to be near something; to be able to approach
 malapit (lapit) [adjective] near; close
@@ -4374,7 +4374,7 @@ layu-layò (layo) [adjective] far apart from each other; very far
 layuán (layo) _an [verb] to stay away from something; to go far from; to avoid
 layò (layo) [noun] distance; length; range; aloof
 lumayô (layo) _um_ [verb] to go far from; to go away; to avoid; to keep away from
-magkalayô (layo) [adjective/adverb] apart
+magkalayô (layo) magka_ [adjective/adverb] apart
 magkalayô (layo) magka_ [verb] to be apart; to be far from
 maglayô (layo) mag_ [verb] to put far away; to separate
 makalayô (layo) maka_ [verb] to be able to get away from; to move further away
@@ -4935,7 +4935,7 @@ naka-motor (motor) [adjective] riding a motorcycle
 hindí maipintá ang mukhâ (mukha) [idiom] a phrase that describes someone who is frowning
 kamukháng-kamukhâ (mukha) [adjective] like; similar
 kamukhâ (mukha) [adjective] looks like; looking like; similar to
-magkamukhâ (mukha) [adjective] identical; alike
+magkamukhâ (mukha) magka_ [adjective] identical; alike
 magmukhâ (mukha) mag_ [verb] to seem; to appear; to look (appear)
 mukhâ (mukha) [noun] face; expression; front; impudence; apparent; [adverb] like; seems; apparently; seemingly; appears to be; looks to be; as if; as though
 magmulá nang (mula) [phrase] ever since
@@ -5217,8 +5217,8 @@ hindí pagkakápareho (pareho) [noun] inequality; difference; not the same
 ipareho (pareho) i_ [verb] to make similar to another
 kapareho (pareho) [noun] duplicate; match; [adjective] just like; equal; the same
 kaparéhong-kapareho (pareho) [adjective] exactly the same
-magkakapareho (pareho) [adjective] the same; similar; alike; equal; * three or more things
-magkapareho (pareho) [adjective] alike; the same
+magkakapareho (pareho) magkaka_ [adjective] the same; similar; alike; equal; * three or more things
+magkapareho (pareho) magka_ [adjective] alike; the same
 pagkakapareho (pareho) [noun] equality; sameness
 pareho (pareho) [adjective] the same; identical; equal; even; [pronoun] the two; both;
 paré-pareho (pareho) [adverb] in the same way; equally; similarly; [adjective] alike; the same; about the same
@@ -5465,7 +5465,7 @@ mai-póst (post) mai_ [verb] able to post something
 nakapóst (post) [adjective] posted (Taglish)
 pag-póst (post) posting; upon posting; (Taglish)
 pagpopóst (post) [noun] posting (Taglish)
-magkaproblema (problema) [verb] to have a problem
+magkaproblema (problema) magka_ [verb] to have a problem
 mamroblema (problema) [verb] to have difficulty; to have a problem
 problema (problema) [noun] problem
 problemado (problema) [adjective] having problems; experiencing problems
@@ -5632,7 +5632,7 @@ pagsabak (sabak) [noun] rushing into something; plunging into something
 sumabak (sabak) _um_ [verb] to plunge into (undertake something suddenly); to dive into
 isabáy (sabay) i_ [verb] to do something together; to do something at the same time; to go together with someone
 kasabáy (sabay) [noun] act of doing something at the same time; [adjective] simultaneous
-magkasabáy (sabay) [adjective] simultaneous; concurrent
+magkasabáy (sabay) magka_ [adjective] simultaneous; concurrent
 magkasabáy (sabay) magka_ [verb] to happen at the same time
 magsabáy (sabay) mag_ [verb] to go or do something at the same time; to do something simultaneously
 makipagsabayán (sabay) makipag_an [verb] to be able to join;
@@ -5692,7 +5692,7 @@ sabóg (sabog) [adjective] scattered; dispersed; exploded; disoriented; hung ove
 sumabog (sabog) _um_ [verb] to explode; to scatter
 kasabwatín (sabwat) ka_in [verb] to get help committing a crime; to conspire
 kasabwát (sabwat) [noun] conspirator; accomplice
-magkasabwát (sabwat) [adjective] in a conspiracy
+magkasabwát (sabwat) magka_ [adjective] in a conspiracy
 pakikipagsabwatan (sabwat) [noun] complicity; conspiring together
 sabwatan (sabwat) [noun] conspiracy
 sabwát (sabwat) [noun] getting someone as an accomplice in crime
@@ -5894,7 +5894,7 @@ salubong (salubong) [noun] reception; meeting; welcoming on arrival
 salubungin (salubong) _in [verb] to welcome someone/something; to greet someone; to meet with someone
 sumalubong (salubong) _um_ [verb] to meet or receive a person who has arrived; to welcome someone; to be greeted by
 kasalungát (salungat) [adjective] opposite
-magkasalungát (salungat) [noun] opposites; antonyms
+magkasalungát (salungat) magka_ [noun] opposites; antonyms
 salungatín (salungat) _in [verb] to oppose; to contradict; to defy
 salungát (salungat) [adjective] opposite; contrary; adverse; anti; counter; against
 sumalungát (salungat) _um_ [verb] to contradict; to oppose; to be against; to disagree;
@@ -5905,7 +5905,7 @@ kasama (sama) [noun] companion; housemate; associate; chaperone; comrade; anythi
 kasamahán (sama) [noun] companion in a group or company; colleague
 kasamaán (sama) [noun] wickedness; evil; atrocity; corruption; badness
 kasáma-sama (sama) [noun] constant companion
-magkasama (sama) [adjective] together; the two
+magkasama (sama) magka_ [adjective] together; the two
 magkasama (sama) magka_ [verb] to be companions; to be together; to live together; to be associated with * plural verb
 magsama (sama) mag_ [verb] to bring along; to take (someone) along; to unite; to combine; to blend; to consolidate; to embody; to live together
 magsáma-sama (sama) mag_ [verb] to flock; to stay together in a group
@@ -5998,7 +5998,7 @@ masangkót (sangkot) ma_ [verb] to implicate someone (OF); to be implicated (AF)
 pagkakásangkót (sangkot) [noun] implication; involvement
 sangkót (sangkot) [adjective] involved in; implicated; [noun] implication
 isanib (sanib) i_ [verb] to unite something with another
-magkasanib (sanib) [adjective] overlapping; to have overlap
+magkasanib (sanib) magka_ [adjective] overlapping; to have overlap
 magsanib (sanib) mag_ [verb] to coalesce; to fuse
 pagsanibin (sanib) pag_in [verb] to unite
 pagsasanib (sanib) [noun] coalition; fusion; union
@@ -6452,8 +6452,8 @@ sunduín (sundo) _in [verb] to pick up someone/something; to pick someone up; to
 sundô (sundo) [noun] fetcher; someone who will pick someone else up
 alinsunod sa (sunod) [preposition] in accordance with; pursuant to
 kasunód (sunod) [adjective] after; later; following; next; subsequent
-magkakasunod (sunod) [adjective] consecutive
-magkasunód (sunod) [adjective] consecutive
+magkakasunod (sunod) magkaka_ [adjective] consecutive
+magkasunód (sunod) magka_ [adjective] consecutive
 makasunód (sunod) maka_ [verb] to be able to follow; to be able to tail
 mapasunód (sunod) mapa_ [verb] to get someone to obey;
 masundán (sunod) ma_an [verb] to follow something/somewhere
@@ -6573,7 +6573,7 @@ Pasintabi pô (tabi) [phrase] Please step aside; Please let me pass.
 isantabí (tabi) isan_ [verb] to put something aside; to put something beside; to lay something aside; to keep something;.
 itabí (tabi) i_ [verb] to put something aside; to put something beside; to lay something aside; to keep something;
 katabí (tabi) [adjective] adjacent; near; beside; close to
-magkatabí (tabi) [adjective] side by side; beside one another; beside each other; abreast
+magkatabí (tabi) magka_ [adjective] side by side; beside one another; beside each other; abreast
 magtabí (tabi) mag_ [verb] to keep; to save; to pull over; to put aside
 tabihán (tabi) _an [verb] to go beside something
 tabingî (tabi) lop-sided
@@ -7624,8 +7624,8 @@ walang-tutol (tutol) [adjective] passive; resigned
 Kátuwaan lang (tuwa) [phrase] Just for fun; Just for laughs
 ikatuwâ (tuwa) ika_ [verb] to cause happiness
 kakatwâ (tuwa) [adjective] weird; odd; eccentric
-katuwaan (tuwa) [noun] happiness; fun; delight
-magkatuwá (tuwa) [noun] allies
+katuwaan (tuwa) ka_an [noun] happiness; fun; delight
+magkatuwá (tuwa) magka_ [noun] allies
 matuwâ (tuwa) ma_ [verb] to be glad; to be joyful; to be happy; to enjoy; to have fun; to appreciate
 nakatutuwâ (tuwa) [adjective] amusing; interesting; funny
 tuwang-tuwâ (tuwa) [adjective] very happy; very cheerful; cheery; overjoyed; ecstatic; elated; enjoying
@@ -7672,7 +7672,7 @@ iugnáy (ugnay) i_ [verb] to associate; to relate to
 kaugnayan (ugnay) [noun] relation; association; relationship; affinity; relevance
 kaugnáy (ugnay) [adjective] allied; related; relative; incidental
 mag-ugnáy (ugnay) mag_ [verb] to associate; to relate
-magkakaugnáy (ugnay) [adjective] connected; coherent
+magkakaugnáy (ugnay) magkaka_ [adjective] connected; coherent
 makipag-ugnayan (ugnay) makapag_an [verb] to associate with; to coordinate
 pag-ugnayín (ugnay) pag_in [verb] to relate; to attach
 pagkakaugnáy (ugnay) [noun] association; relationship
@@ -7972,7 +7972,7 @@ mayabang (yabang) [adjective] boastful; arrogant; haughty; braggart; show off
 pagmámayabáng (yabang) [noun] boastfulness
 pagyayabáng (yabang) [noun] boasting; pretension
 yabang (yabang) [noun] boast; boasting; arrogance; smugness; over confidence
-magkayakap (yakap) [adjective/adverb] in an embrace; in a hug
+magkayakap (yakap) magka_ [adjective/adverb] in an embrace; in a hug
 mapayakap (yakap) mapa_ [verb] to hug involuntarily or unintentionally
 nakayakap (yakap) [adjective] hugging; embracing
 pagkakayakap (yakap) [noun] hugging; hug; embrace
