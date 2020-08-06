@@ -487,6 +487,7 @@ dasal	prayer
 dasalan	book of prayer, place of prayer
 datapwat	however
 dáti	former(ly), previous(ly), old, ex
+datig	adjoining, near, contiguous; lining for clothes
 datihan	used to, accustomed
 dating	arrival
 dati-rati	formerly, previously
@@ -1134,6 +1135,7 @@ karanIwan	usually, generally, customarily; common, typical, ordinary, habitual (
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
 karapat-dapat	qualified, worthy, fitting, deserving
+karatig	contiguous, adjoining
 karayom	a needle
 karera	a race
 karibal	rival (often in romance)
@@ -2731,7 +2733,7 @@ putól	cut (adj)
 pútol	cut (noun, verb)
 púwa	lagsák o paglagsak (pagtatambak ng maruruming bagay)
 puwéde	can, possible
-puwersa	force, strength, pressure
+puwersa	(also 'pwersa') force, strength, pressure
 puwersahin	to force
 puwesto	place, position (lit/fig), position of employment
 puyát	sleepless, lacking sleep, exhausted from lack of sleep
