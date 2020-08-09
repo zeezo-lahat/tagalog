@@ -1842,6 +1842,9 @@ napakadalî (dali) [adjective] very easy; so easy
 pagmamadalî (dali) pagmang_ [noun] haste; hurry; hurrying
 pinakamadalî (dali) [adjective] easiest; fastest; quickest
 sumandalî (dali) [adverb] shortly
+maralitâ (dalita) ma_ [adjective] poor; needy; indigent; destitute
+pagdaralitâ (dalita) pagCV_ [noun] misery; miserable circumstances
+dalitâ (dalita) [noun] misery; torment; suffering; [adjective] destitute
 daluhán (dalo) _an [verb] to attend something (a party, etc.)
 daló (dalo) [noun] presence; attendance
 dumaló (dalo) _um_ [verb] to attend
@@ -5795,6 +5798,8 @@ sakít (sakit) [noun] disease; ill; pain; sickness; ache; ailment
 sakít ng ulo (sakit) [noun] headache
 sakít-sakít (sakit) [adjective] hurting a lot; very painful; in a lot of pain
 sumakít (sakit) _um_ [verb] to ache; to hurt; to become painful
+sakláp (saklap) [noun] bitter; bitter taste; brutal; pungent taste; acrid taste
+masakláp (saklap) ma_ [adjective] brutal; disagreeable; bitter; harsh
 masakop (sakop) ma_ [verb] to conquer; to occupy
 mánanakop (sakop) [noun] conqueror; invader; colonizer
 nasásakupan (sakop) [noun] jurisdiction; subordinate

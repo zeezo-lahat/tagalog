@@ -90,6 +90,7 @@ alamat	folklore, tradition, legend, myth
 alamin	to find out, to investigate
 alat	saltiness
 alay	offering
+albularyo	quack doctor, charlatan
 alikabok	dust
 alin man	whichever
 alin	which?
@@ -127,6 +128,7 @@ anak-anakan	foster chld
 anak-pawis	“child of sweat” = born of the working class
 ang aga mo!	you’re so early!
 ang aga nila!	they’re so early!
+ang mga marálitâ	the extremely poor
 angas	a show-off, boastful person
 ani	crop, harvest
 ani	said by
@@ -470,6 +472,7 @@ dalhin	to bring, carry
 dali	quickness, rapidity, ease
 dalian	to hurry
 dali-dali	quickly!
+dalitâ	extreme poverty
 daló	presence, attendance
 damdám	feeling
 damdamin	feelings, sentiment, emotions
@@ -1128,6 +1131,7 @@ kapwang	both, all (people)
 kapwa-tao	relations with others
 karagatán	ocean (dagat)
 karahasán	violence
+karalitaan	misery, poverty
 karamihan	most (of), majority, nearly all
 karampót	(dampót) pinch (of salt), a very small quantity; a little bit, a crumb; napakaliit na bílang o piraso
 karanasán	an experience
@@ -1898,6 +1902,9 @@ maputIk	muddy
 mapuyát	to lack sleep, to need sleep
 marahás	violent, ferocious, audacious, drastic
 maráhil	probably, perhaps (dahil)
+maralita	indigent, extremely poor, miserable
+marálitâ	indigent, poor (less common than mahirap)
+maralitang taga-lungsod	urban poor
 maranasan	to feel, experience (dánas)
 marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 máriníg	to hear
@@ -1911,6 +1918,7 @@ masAhol	worse
 masakim	avaricious, covetous, greedy, rapacious, selfish
 masakit	painful, hurting, sensitive, sarcastic, sharp
 masakit	persevering, diligent, great
+masakláp	acrid, disagreeable, offensive, bitter, wretched
 masakote	to be caught, apprehended, arrested
 masaksihan	to witness something
 masalita	talkative
@@ -2997,6 +3005,7 @@ suplada	snob
 suplado	snob
 suri	analysis, diagnosis, scrutiny, study, test
 suutan	to dress someone
+suwaíl	disobedient, insolent, hardheaded, stubborn, rebellious
 suwéldo	salary, pay (also 'sweldo')
 suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
@@ -3362,6 +3371,7 @@ walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
+wasto	proper, correct, in order
 watawat	flag, ensign, banner
 yabang	boast; boasting; arrogance; smugness; over confidence
 yakap	hug, embrace
