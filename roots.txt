@@ -2931,7 +2931,10 @@ manghinà ang loób (hina) mang_ [verb] to get discouraged; to lose one's resolv
 napakahinà (hina) [adjective] very weak
 paghinà (hina) pag_ [noun] deterioration; slowing down; weakening
 panghihinà (hina) pangCV_ [noun] deterioration; faintness; lack of energy; lethargy
-pinakamahinà (hina) [adjective] weakest
+pinakamahinà (hina) pinaka_ [adjective] weakest
+paghinalaan (hinala) pag_an [verb] to suspect someone (of something)
+hinalain (hinala) _in [verb] to suspect something
+kahina-hinalà (hinala) [adjective] dubious; suspicious
 hinayang (hinayang) [noun] regret for not having made use of some opportunity; sense of loss
 manghinayang (hinayang) mang_ [verb] to regret; to feel sorry
 panghihinayang (hinayang) pangCV_ [noun] missed opportunity
