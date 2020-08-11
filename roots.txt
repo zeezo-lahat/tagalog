@@ -4323,6 +4323,8 @@ lumason (lason) _um_ [verb] to poison
 makalason (lason) maka_ [verb] to poison
 malason (lason) ma_ [verb] to get poisoned (AF)
 nakakalason (lason) [adjective] poisonous
+laswâ (laswa) [noun] immorality; vulgarity
+malaswâ (laswa) ma_ [adjective] vulgar; immoral
 abrelata (lata) [noun] can opener
 abrilata (lata) [noun] can opener
 de-lata (lata) [adjective] canned; [noun] canned goods
@@ -4885,6 +4887,9 @@ mamanhíd (manhid) [verb] to feel numb (AF); to become numb (AF)
 manhíd (manhid) [adjective] numb; detached
 napakamanhíd (manhid) [adjective] very detached; very number; oblivious
 pagkamanhíd (manhid) [noun] numbness
+manmán (manman) [noun] critical observation; careful observation
+manmanán (manman) _an [verb] to observe carefully
+pagmamanmán (manman) pagCV_ [noun] careful observation; careful observing
 magmasíd (masid) mag_ [verb] to observe
 mapagmasíd (masid) [adjective] observant
 masdán (masid) _an [verb] to observe
