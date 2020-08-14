@@ -94,6 +94,7 @@ albularyo	quack doctor, charlatan
 alikabok	dust
 alin man	whichever
 alin	which?
+alin-alin	which? (plural)
 alinman	any, anything
 alinsunod	pursuant, in accordance to
 alipin	slave
@@ -142,7 +143,7 @@ antasín	to classify, grade (not commonly used)
 antáy	waiting
 antig	friendly reminder
 antipatiko	displeasing, disagreeable, unfriendly
-anu-ano	this and that; other (plural)
+anu-ano	this and that; other (plural); plural of ano
 anumán	whatever, something, anything, any, no matter what (ano + man)
 anyô	form, appearance, figure
 apaw	overflowing
@@ -1093,6 +1094,8 @@ kaní-kanina	(kaní-kanina lang) just now, just a while ago, just a moment ago
 kanila	their, theirs
 kanin	boiled or steamed rice
 kanina pa	since earlier (as if it's been a long time..)
+kanino	whose?
+kani-kanino	whose? (plural)
 kaniya-kaniyang	each on his own, individually
 kanlungan	sanctuary; shelter against weather
 kanlungan	to provide with shelter against weather
@@ -2927,9 +2930,9 @@ sinibak	fired, dismissed, axed (slang)
 siniko	elbowed
 sinisi	blamed
 sino man	whoever
-síno-sino	who (plural) also "sinu-sino"
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
+sínu-sino	who (plural) also "sinu-sino"
 sinungaling	liar; lie
 sipa	kick (with the foot); game using a rattan ball
 sípag	diligence, hard work
