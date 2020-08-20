@@ -1,4 +1,9 @@
 ## Note: for all "i*-" verbs, the leading "i" is optional with started forms, ie those with "in"
+-pa-	causative
+-ki-	requestive
+-ag-	"bound deliberative".  joins with pa to become 'pag', ma to become 'mag'
+-ma-	
+-ka-	
 -an	to do something in direction of (ex. dalhan - bring to, sing to, go to, write to)
 	Lagyan ng tubig ang ref.  |  Put the water in the ref.
 	Abangán ang súsunód na kabanatà.  |  Stay tuned for the next episode.
@@ -298,6 +303,7 @@ mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got 
 naka-	current TEMPORARY STATE (ex. nakaupo - sitting, nakaitim - wearing black)
 nakaka-	CAUSING/creating/producing something (ex. nakakainis - annoying)
 nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
+napaka-	intensive (very..). takes adj roots and stems.  napaka-bait (very kind), napaka-mapagbigay (very giving of oneself)
 pa-	MANNER (ex. pabulong - in a whisper)
 pa-	ABOUT TO, BECOMING (ex. pagandá, parating/paalis - about to arrive/leave)
 pa-	"CAN I", "MAY I" have/see/borrow, etc
@@ -385,6 +391,7 @@ pang-	adj. referring to intended use (FOR) (ex. pambata - for kids)
 pangCV-	a practice or action (ex panggagamot - practice of medicine, pangmomolestiya - multiple molesting)
 	Patay sa pamamaril
 	Ayusin mo ang mga salitâ para mabuô ang pangungusap.  |  Arrange the words to form the sentence.
+pinaka-	superlative. takes adj roots and stems.  eg, pinaka-mabait (kindest), pinaka-sikat (most popular)
 tag-	a season (ex. tag-init)
 taga-	expresses origin of a person
 taga- tagapag-, tagapang-	nouns of profession (ex. tagapaglinis)

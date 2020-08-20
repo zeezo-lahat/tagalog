@@ -2218,6 +2218,9 @@ magdusa (dusa) mag_ [verb] to suffer; to be in agony; to grieve
 pagdurusa (dusa) pagCV_ [noun] suffering; agony; grief
 pagdusahan (dusa) pag_an [verb] to suffer
 pagpaparusa (dusa) pagpapa_ [noun] punishment
+karuwagán (duwag) ka_an [noun] cowardice
+duwág (duwag) [noun] coward; [adjective] cowardly
+maduwág (duwag) ma_ [verb] to be terrified
 edád (edad) [noun] age
 ka-edaran (edad) [noun] peers
 ka-edád (edad) [adjective] being the same age; [noun] a person of the same age
@@ -3122,6 +3125,8 @@ maghugas (hugas) mag_ [verb] to wash
 mahugasan (hugas) ma_an [verb] to be able to wash something
 makapaghugas (hugas) makapag_ [verb] to be able to wash
 paghuhugas (hugas) pagCV_ [noun] washing
+hugis (hugis) [noun] shape; contour; figure; outline; silhouette
+humugis (hugis) _um_ [verb] to shape
 halukay (hukay) [noun] digging
 hukay (hukay) [noun] excavation; grave; pit; crater; [adjective] dug
 hukayin (hukay) _in [verb] to dig up something; to excavate something
@@ -7056,6 +7061,9 @@ waláng katapusán (tapos) [adjective] never ending; endless
 matapyás (tapyas) ma_ [verb] to chip
 pagtapyás (tapyas) pag_ [noun] chipping; chipping away
 tapyás (tapyas) [noun] chip; facet
+tarantado (taranta) _do [adjective] foolish; shameless; disrespectful; stupid; idiot
+tarantá (taranta) [adjective] perturbed; rattled; confounded
+matarantá (taranta) ma_ [verb] to be perturbed; to be bewildered; to be confused; to be rattled; to be baffled
 itatág (tatag) i_ [verb] to establish something; to institute something; to constitute something; to found something (e.g., an organization)
 katatagán (tatag) [noun] stability; security; permanence
 magtatág (tatag) mag_ [verb] to establish; to found

@@ -771,6 +771,7 @@ hubô	naked (orig. from the waist down)
 hubo’t hubad	completely naked
 hugas	wash, rinse
 hugasan	to wash, rinse
+hugis	shape, form
 hugot	to pull or draw out; coll. drawing out feelings from deep within
 hukay	excavation, hole, pit, crater; grave
 hukbo	army
@@ -1091,11 +1092,11 @@ kamukha	look like someone
 kanais-nais	desirable
 kanan	right (vs. left)
 kaní-kanina	(kaní-kanina lang) just now, just a while ago, just a moment ago
+kani-kanino	whose? (plural)
 kanila	their, theirs
 kanin	boiled or steamed rice
 kanina pa	since earlier (as if it's been a long time..)
 kanino	whose?
-kani-kanino	whose? (plural)
 kaniya-kaniyang	each on his own, individually
 kanlungan	sanctuary; shelter against weather
 kanlungan	to provide with shelter against weather
@@ -1199,6 +1200,7 @@ katapát	opposite
 katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
+katarantahan	state of confusion, bewilderment
 katarantahan	state of confusion, bewilderment
 katatapos lang ng bagyo noon	?
 katatapos	just finished (kaCV - express something that just happened)
@@ -1519,7 +1521,7 @@ maalat	salty
 maAmo	gentle
 maamuyan	to smell something
 maantala	to be delayed
-maarte	artistic; with artificial mannerisms, snobby
+maarte	artistic; with artificial mannerisms, snobby; fussy
 maasAhan	to be able to rely on / count on / trust / expect someone/something
 maasár	to be furious, to be frustrated
 maasim	sour, acidic
@@ -1589,7 +1591,7 @@ maghawak	to hold each other by the hand
 mag-iba	to change or switch
 magigisnan	to awaken to
 maging isa	to become one
-maging	to happen, become, experience something
+maging	to happen, become, experience something (is followed by adj or noun stem)
 mag-ingat	to be careful
 mag-ingay	to make loud noise
 mag-isa	to be alone
@@ -1973,6 +1975,7 @@ matao	crowded
 matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
 matapos	after
+mataranta	to be confused
 mataranta	to be confused
 matauhan	to recover consciousness
 matengga	to be put on hold, suspended (actor); to put something on hold, suspend something (object)
@@ -2370,6 +2373,7 @@ paglikha	the act of creating / creation ; invention
 paglipas	passing, passage, having passed (also pagkalipas)
 pagmamalabis	(hyperbole)
 pagmamalupit	abuse, harsh treatment
+pagmamano	the bringing of an elder's hand to your forehead to show respect (also 'mano')
 pagmulán	to be the source or cause of something
 pagmultahin	to make someone pay a fine
 pagnanakaw	burglary, stealing, larceny
@@ -2418,7 +2422,7 @@ pag-uwi	upon returning home
 pagwawangis	(metaphor)
 pahalaga	valuation, act of valuing, evaluation
 pahalagahan	give importance to, appreciate, esteem, think highly of (pinapahalagahan, pinahalagahan, papahalagahan)
-paham	a very learned person, a genius; very learned, erudite;	potency of wine, liquor or medicine
+paham	a very learned person, a genius; very learned, erudite; potency of wine, liquor or medicine
 pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
@@ -2587,6 +2591,7 @@ parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
 paratang	accusation, allegation
 parati	always (dati)
+pare	a term for one's male buddy / friend; male best friend; used to refer to an unknown person of the same age
 pareho	both; similar, identical, equal, the same (literally, as in "the same place")
 pares	even, paired, similar, equal to, like
 paringgán	to allude to, refer to, mention
@@ -2772,6 +2777,7 @@ sa kasalukuyan	currently
 sa kasamaang palad…	unfortunately…
 sa katunayan	in fact, actually
 sa lalong madaling panahon	the earlier the better (as soon as possible)
+sa pagitan ng	between
 sa pamamagitan	with the use of, by means of, via
 sa pangkalahAtan	in general
 sa puhunan	at cost
@@ -2935,8 +2941,8 @@ sinisi	blamed
 sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
-sínu-sino	who (plural) also "sinu-sino"
 sinungaling	liar; lie
+sínu-sino	who (plural) also "sinu-sino"
 sipa	kick (with the foot); game using a rattan ball
 sípag	diligence, hard work
 sipón	a cold
@@ -2952,7 +2958,8 @@ sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
 siyá nawâ	amen
 siyá	he, she, it; sufficient; pleasure
-siyanga	of course, indeed
+siyangá	of course, indeed
+siyangá palá	by the way
 sóbra	too much, excessive; intense
 spongklong	stupid (slang, new)
 subali	objection or reservation; but; only
@@ -3126,12 +3133,16 @@ taos-pusò	sincere, heartfelt
 tapang	bravery, courage, strength, valor; strength of flavor
 tapát	honest, upright, honorable
 tapát	the place in front, that which is across, in front of
+tapIl	having a flattened forehead; flat-nosed
+tapil	short stick for digging the ground
 tapon	to throw (away); to be spilled (Tumapon ang gatas. The milk got spilled)
 tápos	then; done, complete, finished
 tapós	to be finished with something
 tará	"let's go"; term for bribes made to Customs officials
 taranta	confusion, bewilderment
+tarantá	disconcerted, perturbed, upset; confusion, bewilderment; di-malaman ang gagawin, magulo ang isip; matulig, matuliro, malito
 tarantádo	foolish, shameless, disrespectful; moron, asshole
+taratahin	to confuse, baffle, bewilder
 taratahin	to confuse, baffle, bewilder
 tasa	a cup
 tatag	establishment, stability; solidarity, security; established, organized
@@ -3194,6 +3205,7 @@ tiyán	stomach
 tiyuhin	uncle, stepfather
 todo	all, all of, the whole of
 tokwa	tofu
+tol	colloquial/informal term for one's brother or sister; buddy. (also utol)
 tong	contribution of money
 torótot	party horn, toy trumpet
 totoó	true, real, genuine
@@ -3354,6 +3366,7 @@ utak	brain
 utang	debt
 utas	completely finished, dead; completely obsessed with
 utay-utay	gradually
+utol	colloquial/informal term for one's brother or sister; buddy. (also tol)
 útos	command, order
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
