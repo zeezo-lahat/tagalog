@@ -1,9 +1,28 @@
 ## Note: for all "i*-" verbs, the leading "i" is optional with started forms, ie those with "in"
 -pa-	causative
 -ki-	requestive
+-ki-	joint/mutual action
 -ag-	"bound deliberative".  joins with pa to become 'pag', ma to become 'mag'
--ma-	
--ka-	
+-ma-	having, existence
+-ka-	being and manner, state
+-si-	plural (magsi- deliberate action by plural actors) *A Restatement of Tagalog Grammar, p. 3
+hing-	'a simulated state or action' (hinanakit - grudge : hing + sakit) *A Restatement of Tagalog Grammar, p. 3
+-al-	similar to what the stem denotes
+        mala- "state of being similar" (malahininga - breathlike, malapapaya - papaya-like)
+        pala- "characterized by" (palaasa - hopeful, optimistic, palabiro - given to joking)
+        tala- "list of similar items" (talaarawan - calendar, talatinigin - vocabulary)
+-ti-	'unexpected, sudden'
+        pati- caused by unexpected action (patirapa - unexpected falling)
+        maki- 'act together' (makiani - to cooperate in harvesting ("ani" is harvest)
+        (pakikipag-usap - talking together)
+p-	'abstract of action or a hypostatic state'
+        pag- 'abstract comprehensive action' (pagbasa - reading, pagtatanong - asking)
+        pang- 'abstract habitual action or habitual use of/for' (pang-aagaw - snatching, pang-ayos - arranging)
+        paki- 'abstract cooperative action' (paki-usap - supplication)
+-kang-	'involuntary'
+        magkang- involuntary comprehensive action (magkakangdarapa - will stumble accidentally)
+-an	nouns of place, period, tools, joint performance
+	kilusán | a movement, campaign, activity, crusade
 -an	to do something in direction of (ex. dalhan - bring to, sing to, go to, write to)
 	Lagyan ng tubig ang ref.  |  Put the water in the ref.
 	Abangán ang súsunód na kabanatà.  |  Stay tuned for the next episode.
@@ -63,7 +82,6 @@
 	Nilagdaán mo ba ang kásunduan?  |  Did you sign the agreement?
 	Nilálagdaán na nilá ang iyóng hilíng na pondo.  |  They are signing your request for funds.
 	Lálagdaán bukas ang mga paanyaya para sa kumperénsiyá.  |  The invitations for the conference will be signed tomorrow.
--an	nouns of place, period, tools, joint performance
 i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clothes, throw - trash, give - wallet
 	Iniakyát ko ang kahón sa kuwarto.  |  I brought the box upstairs to the room.
 	Ibinábalík ko ang pera niyá.  |  I am giving back his money.
@@ -84,9 +102,9 @@ i-	(ng) does something (bring, read, ask, ...) FOR someone else (ang) (benefacto
 	Ibilí mo nanay ng sapatos.  |  Buy shoes for Mom.
 	Ibinilí kitá ng tinapay.  |  I bought you bread.
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
-ika-	to CAUSE OF / REASON FOR the root to come about 
-	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
+ika-	to CAUSE OF / REASON state/condition/circumstance
 	ika-, ikina-, ikinaCV-, ikaCV-
+	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
 	ikinabubuhay  |  way of making a living
 	ikagAgalak ko  |  it would make me happy
 	Ikamámatáy ko kung maghíhiwaláy tayo.  |  I will die if we separate.
@@ -170,13 +188,20 @@ ipapang-	causative (ng -> sa using ang); instrumental focus
 isa-	to put something into the root condition or state (obj.) <isina-, isinasa-, isasa->
 ka-	nouns of sharing or togetherness
 ka-	adj. of commonness (ex. kapareho, katulad)
+ka-	adverb assoc with root
+	kaagád | right away
+	kadalás | often, frequent
+	kahapon | yesterday, past
+	kapiling | near to, side by side with (piling)
+	kawawa | poor, pitiful, wretched (awa)
+	kaugnay | related, associated
 ka-REPREP	adj. in extreme (katawa-tawa - hilarious)
 kaCV/kaka-	nouns of excessiveness or repeated behavior
 kaCV/kaka-	express something that just happened; present only, no focus
+ka-an	nouns of exchanging; of abstract qualities; of groups of things
 ka-an	someone (ng) has/expresses feeling or thought regarding someone/something (ang)
 ka-an	to do something or have occur in/on/at a location (ang) (as -an)
 ka-in	combo of ka- noun and -in verb
-ka-an	nouns of exchanging; of abstract qualities; of groups of things
 ma-	adj. of quality or large amount of something
 ma-	abilitative (obj.)
 	Ikinulóng ko ang nangángagát na aso.  |  I confined the biting dog. (ma- -kagat)
@@ -188,7 +213,6 @@ ma-an	opinion (actor)
 ma-an	to affect an object (obj.)
 ma-in	adj. of quality in high degree (ex. matulungin - helpful)
 maCV-in	adj. of quality in high degree (akin to ma-in)
-maka-	adj. of favor, fondness, or support (ex. makabago - modern, progressive)
 mag-	deliberate, intentional action
 	Takót akóng magdaán sa lagusan.  |  I'm afraid to pass through the tunnel.
 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
@@ -234,6 +258,8 @@ maipa-	abilitative of ipa- (causative)
 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
+maka-	adjectives of fondness, association, orientation, inclination
+		makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
 maka-	accidental of ma- actor focus 
 maka-	abilitative ka-in (obj)
 maka-	to be able/have opportunity to do/cause/bring about something, assoc with -um- verbs (actor)
@@ -243,10 +269,8 @@ maka-	to be able/have opportunity to do/cause/bring about something, assoc with 
 	Nakaratíng na ba si Tony?  |  Has Tony arrived yet?
 	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
 	May nakákakita kayâ sa atin?  |  Could someone see/be watching us?
-maka-	abilitative/causative (ika-) (actor)
-maka-	adjectives of fondness, association, orientation, inclination
-		makasarili, makaako, makabago, makabayan, makakalimutan, makaluma, makatao
 	Gagawin ko ang aking makakaya.  |  I will do my best.
+maka-	abilitative/causative (ika-) (actor)
 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		para makapag-focus siya sa..  |  so he can focus on..
@@ -300,8 +324,8 @@ mapa- to be compelled or to need or to be triggered to do something (actor)
 mapag-	PERSONAL CHARACTERISTIC (ex. mapagbigay - generous)
 mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
-naka-	current TEMPORARY STATE (ex. nakaupo - sitting, nakaitim - wearing black)
-nakaka-	CAUSING/creating/producing something (ex. nakakainis - annoying)
+naka-	to be in current STATE (ex. nakaupo - sitting, nakaitim - wearing black)
+nakaka-	CAUSING/creating/producing state (ex. nakakainis - annoying)
 nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
 napaka-	intensive (very..). takes adj roots and stems.  napaka-bait (very kind), napaka-mapagbigay (very giving of oneself)
 pa-	MANNER (ex. pabulong - in a whisper)
@@ -388,6 +412,7 @@ pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - 
 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
 pang-	something FOR performing action described by root (ie, something FOR cooking, pamahalaan - government)
 pang-	adj. referring to intended use (FOR) (ex. pambata - for kids)
+pang-in	to cause or have something done or something to be
 pangCV-	a practice or action (ex panggagamot - practice of medicine, pangmomolestiya - multiple molesting)
 	Patay sa pamamaril
 	Ayusin mo ang mga salitâ para mabuô ang pangungusap.  |  Arrange the words to form the sentence.

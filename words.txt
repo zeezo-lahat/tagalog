@@ -187,6 +187,7 @@ babalâ	caution, warning, notice, alarm
 babasagin	breakable, fragile
 baboy	pig
 babuyan	pigpen
+badíng	gay (baklâ)
 bagá	an emphatic marker
 baga	glowing coal, ember
 bagà	lung
@@ -222,7 +223,7 @@ bakasakalì	by chance
 bakbák	detached
 bakbákan	a fight, usually physical
 bakbakán	to remove skin or bark (bakbák)
-bakla	gay, homosexual
+baklâ	gay, homosexual
 baklás	pry off, detach from
 bakod	fence
 bakuna	vaccine
@@ -2879,6 +2880,7 @@ sapagkAt	because, since
 sapak	hit, punch, smack, beat
 sápit	arrival
 sapok	a hit, punch
+sapól	at the very beginning; straight, direct
 sapul	to hit a target (syn. tamaan)
 sará	closed; to close
 sarado	closed
