@@ -216,7 +216,7 @@ bahíng	sneeze (also bahín)
 baít	kindness; the mind
 baitang	a step of stairs, rung of a ladder; a grade or level in school
 baka	beef; cow
-bakâ	perhaps, maybe, might
+bakâ	perhaps, maybe, might, "faint possibility of being a factual statement"
 bakal	iron
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
@@ -1835,7 +1835,7 @@ maminsan-minsan	occasionally
 mamuhunan	to invest
 mamulot	to pick up things, glean
 man lamang	the minimum/least (magluto ka man lamang sana -> the least you could do is cook)
-man	X ever; although, even if, with, too; whether
+man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 mana	inheritence (can be traits or wealth, etc.)
 manakot	to scare (mang-)
 mananghalian	have lunch (together?)
@@ -2217,7 +2217,7 @@ natutUnan	learned, something learned
 nauunawaan	to understand
 nawá	may (expressing a wish or hope)
 nawawala	lost; something/someone lost
-nga	expresses a request; affirmation marker (maganda nga siya -> she certainly is pretty)
+nga	expresses a request; affirmation marker, "truthful, certain" (maganda nga siya -> she certainly is pretty)
 ngayón lang	just now
 ngayón	now; today
 nginíg	to shake, shiver, tremble
@@ -3175,7 +3175,7 @@ tikim	to taste, to try
 tiklô	caught; arrested by the police (syn. huli)
 tikmán	to taste something (tikim)
 tiktík	spy, detective
-tíla	apparently, seemingly, "it seems"
+tíla	apparently, seemingly, "it seems", "strong possibility of being a factual statement"
 tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
 timbóg	caught, arrested
@@ -3409,7 +3409,7 @@ yarì	manufacture; making, constructing
 yarí	this
 yariin	to manufacture, construct
 yáring-kamáy	handmade
-yata	maybe, perhaps, it seems, I think
+yata	maybe, perhaps, it seems, I think, "uncertain as to whether a factual statement"
 yayà	invitation
 yaya	nanny, au pair, nurse maid; invitation; invited
 yayain	to invite someone
