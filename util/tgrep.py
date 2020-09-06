@@ -14,7 +14,9 @@ _d = defaultdict(int)
 _mychars = set()
 
 try:
+    #myfile = open(sys.argv[1], 'r')
     myfile = sys.stdin
+    #mysearchstring = sys.argv[2]
     mysearchstring = sys.argv[1]
 except:
     print('I need a filename and a pattern to search, dumb-ass')
@@ -37,7 +39,7 @@ for l in mysearchstring:
 
 newsearch = newsearch
 #newsearch = newsearch + '.*\t'
-tmatch = re.compile(newsearch, re.IGNORECASE)
+tmatch = re.compile(newsearch)
 
 while 1:
   c = myfile.readline()

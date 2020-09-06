@@ -180,7 +180,7 @@ awitin	to sing
 ayain	to invite someone
 ayaw	don't/doesn't want
 ayuda	aid; something supplementary
-ba	yes/no question former; used to emphasise question/ask for detail
+ba	yes/no question former; used to emphasise question/ask for detail; also affirmation as "sige ba", "oo ba"
 baba	lowness; to descend
 bababa	will come down, descend, get off (as vehicle)
 babalâ	caution, warning, notice, alarm
@@ -313,6 +313,7 @@ bayong	a large bag; bag or sack made of woven palm leaves
 benta	sell
 berde	green
 beses	time(s)
+bibig	mouth; mouthpiece (person, newspaper, etc.; that speaks for others)
 biga	glib
 bigás	unhusked, uncooked rice
 bigát	heaviness, weight; slang for "heavy/deep"
@@ -388,6 +389,7 @@ búkas	tomorrow
 búkid	farm, country side
 bukód	separate, apart, in addition to
 búkol	lump, tumor, swelling
+buktót	corrupt, very wicked, atrocious
 bulág	blind
 bulagta	fallen flat
 bulahaw	disturbance
@@ -522,6 +524,7 @@ dilíg	watering (of plants); irrigation
 diligán	to water something; to sprinkle with water
 di-mapigil	unstoppable
 din	too, also; nevertheless, anyway, surely; in return; rather, somewhat (the expression modified is like a corresponding earlier idea)
+dingdíng	flimsy wall; wooden wall ("pader" is for a sturdy wall)
 dinggín	to listen to, to hear (dinig)
 diníg	audible
 dinuguan	“bloodied” blood stew, meat dish
@@ -560,6 +563,7 @@ dumumí	to defecate
 dúnong	knowledge, wisdom, learning, education
 duwAg	coward
 edad	age
+estero	estuary
 gaano kalayo	how far?
 gaano man	however/however much
 gaano	how much
@@ -980,6 +984,7 @@ kabilisan	quickness, celerity
 kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
+kabuktután	corruption; extreme wickedness
 kabulagan	state of blindness
 kabutIhan	goodness
 kabuuAn	composition, entirety
@@ -1059,6 +1064,7 @@ kalaro	playmate, play partner
 kalas	detached; unstitched; freed from (e.g. betrothal)
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
 kalawakan	space, especially referring to outer space
+kalawang	rust
 kalayaan	freedom
 kalbaryo	calvary; used to denote extreme suffering, especially mental suffering
 kalidad	quality
@@ -1460,6 +1466,7 @@ liwayway	dawn
 liyab	blaze, flame
 lobo	balloon
 loko	cheating, deceiving; crazy person, lunatic; crazy, insane, demented, mad
+losyang	looking older than her age, especially married women who’ve let themselves go.
 lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
 lubhâ	extremely
 lubóg	submerged, sunken, buried (lit. or fig.)
@@ -1666,6 +1673,7 @@ magpayo	to advise
 magpulong	a lot of people to meet
 magpuri	to praise, compliment
 magsaliksík	to research
+magsalin	to translate (as in language)
 magsalita	to talk, to speak
 magsanay	to exercise, as in to practice
 magsapì	to join together
@@ -2254,7 +2262,7 @@ pabayâ	without care or attention, careless, negligent (walang-ingat, bulagsak)
 pabayaan	to leave something/someone alone, not bother or pay attention to
 pabrika	factory (pagawaan)
 padaliin	to make easy
-pader	wall or fence made of stone; concrete or stone wall of a house, etc
+pader	wall made of stone; concrete or stone wall of a house, etc
 padyak	stamping of the foot/feet; sound of heavy steps; marking time (military term)
 pag	(kapág) when, on, whenever, upon, in case that
 pag-aabuso	(n) abuse; abusing; abusive behavior.
@@ -2462,7 +2470,8 @@ palAboy	vagabond; bum; loafer; waif; free to graze anywhere
 palad	palm of the hand; destiny, luck, fortune, fate
 palagáy	opinion, estimation, estimate, assumption (lagay)
 palagian	regular, steady (lagi)
-palainom	habitual drinker
+palainom	habitual drinker (pala-)
+palakaibigan	friendly (pala-)
 palakasan	a competition to see who’s stronger
 palakasan	a strength competition
 palakasin	to strengthen something
@@ -2782,6 +2791,7 @@ sa pagitan ng	between
 sa pamamagitan	with the use of, by means of, via
 sa pangkalahAtan	in general
 sa puhunan	at cost
+sa una	at first
 sa wakas	finally
 sa	on, to, toward, at, in, with, of, the, next, by, during, for, from, into, onto, through (by means of), upon
 saan man	wherever
@@ -3195,6 +3205,7 @@ tipon	a collection; saving of money; savings; gathering; collected; gathered tog
 tipunin	to collect, to gather together, to store away.
 tira	residence; enduring; left-over, residue
 tirhan	to spare, set aside for someone
+titik	(n) text, writing; lyric; letter (of alphabet)
 titik-hilig	italics
 tiwala sa sarili	self-confidence
 tiwala	trust, faith

@@ -137,7 +137,8 @@ sa ano mang oras	any time (in the future)
 sa kabila	despite
 yun yon	that's what that is
 pwede na	no choice
-eh ano?	what about it?
+eh ano (naman)?	what about it?
+sinabi ko naman sa iyo..	I'm telling you..
 pake ko?	what do I care?
 bakit ba?	why is that?
 ano ba?!	what is it?!  what do you want??  (expression of annoyance)
@@ -313,3 +314,5 @@ sa pagitan ng	between
 ang mga ito	these
 ang mga iyan	those
 waláng kaalám-alám	without the faintest idea, totally clueless
+sige ba!	sure!
+oo ba	yes, for sure

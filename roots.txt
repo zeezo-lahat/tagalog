@@ -7763,6 +7763,10 @@ pauló (ulo) [adjective] full to overflowing
 tigás-ulo (ulo) [adjective] stubborn; hard headed
 ulo (ulo) [noun] head
 ulunan (ulo) [noun] head; top / front / leading position
+kaninang umaga (umaga) phrase_ [adverb] this morning; earlier this morning
+umágang-umaga (umaga) rt_na_rt [adjective] very early morning
+kináumagahan (umaga) kina_an [adverb] the morning after; the next morning
+umagahin (umaga) _in [verb] to be overtaken by morning; to spend the morning
 mag-umpisá (umpisa) mag_ [verb] to begin; to start
 maumpisahán (umpisa) ma_an [verb] to be able to begin something; to be able to start something; to be able to introduce something
 umpisahán (umpisa) _an [verb] to begin something; to start something; to introduce something
