@@ -1,6 +1,5 @@
-* MUNA: ka ko mo
+ka ko mo (two-letter personal pronouns)
 
-* TAPOS:
 na/pa
 man - even (if, though), although (as kahit) 
 nga - indeed, affirmation
@@ -10,36 +9,18 @@ naman - contrast, emphasis; also
 daw/raw
 po/ho
 ba
-palA - realization, apparently
-kayA` - therefore; I wonder, perhaps
+palá - realization, apparently
+kayá` - therefore; I wonder, perhaps
 muna - for now, first, beforehand
-tulOy - cause and effect, as a result
-kasI - because, cause
+tulóy - cause and effect, as a result
+kasí - because, cause
 yata`
 sana - hope, unrealized condition
 
-* HULI:
+(remaining personal pronouns)
 niya namin natin ninyo nila  ako siya kami tayo kayo sila
 -----------<ng>------------  -----------<ang>------------
-sing ------ plural --------  - sing - ---- plural -------
+SING ------ PLURAL --------  - SING - ---- PLURAL -------
 3333 11111 11111 22222 3333  111 3333 1111 1111 2222 3333
 
 Note: all the ng personal pronouns start with n, except ko and mo
-
-OTHER STUFF:
-bagaman - although, in spite of, while
-tuwI - whenever, every
-tuwI na - always (also lagi, parati)
-bawa't - each, all
-malI - false, wrong
-mala - semi, somewhat, similarity
-tawa - (n) laugh, laughter
-tuwA - happiness, fun
-higIt - more
-lalo - increasingly
-
-prefixes:
-nakaka - (adj) causing
-nakakapang - (adj) abilitive
-nApaka - very
-pinaka - the most
