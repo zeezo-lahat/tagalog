@@ -5,24 +5,24 @@ abaláng-abalá (abala) [adjective] very busy; super busy
 maabala (abala) ma_ [verb] to inconvenience; to be inconvenienced; to be delayed; to be bothered
 mag-abalá (abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)
 pagkáabalahán (abala) pagka_an [verb] to be very busy with something; to be engrossed in something
-púnong-abalá (abala) [noun] host
-abanger (abang) [noun] waiter; someone who is waiting; * slang
-abangers (abang) [noun] watchers (slang)
+púnong-abalá (abala) phrase_ [noun] host
+abanger (abang) slang_ [noun] waiter; someone who is waiting; * slang
+abangers (abang) slang_ [noun] watchers (slang)
 abangán (abang) _an [verb] to watch out for; to keep an eye out for
-abáng (abang) [noun] watcher; lookout (person); someone watching and waiting for something
+abáng (abang) rt_ [noun] watcher; lookout (person); someone watching and waiting for something
 mag-abáng (abang) mag_ [verb] to wait for; to watch out for; to keep an eye out for; * Usually meaning to watch or wait for a ride of person to arrive
 nakaabáng (abang) naka_ looking for; keeping an eye out
 abuhan (abo) _an [noun] ash tray; ash
 abuhin (abo) _in [adjective] ash colored; ashen
-abó (abo) [noun] ash; ashes; cinders; grey
+abó (abo) rt_ [noun] ash; ashes; cinders; grey
 kúlay-abó (abo) [adjective] grey; gray; ashen; color of ash
 maabó (abo) [adjective] ashy; containing ashes
-abot (abot) [noun] power; capacity; reach
+abot (abot) rt_ [noun] power; capacity; reach
 abutan (abot) _an [verb] to catch something; to be caught in something; to be caught by something;
 abutin (abot) _in [verb] to reach something; to overtake someone; to catch something before it's gone
 abután (abot) _an [verb] to hand something to; to pass something to; * focus on the person/thing receiving the item
 abutín (abot) _in [verb] to reach for something; to hand over something
-abót (abot) [adjective] overtaken; abreast with; within reach; reachable; reaching for; handing over; [noun] arrival
+abót (abot) rt_ [adjective] overtaken; abreast with; within reach; reachable; reaching for; handing over; [noun] arrival
 iabót (abot) i_ [verb] to hand something over; to hand something to; to pass something; * focus on the thing being handed/passed; to reach for something
 ipaabot (abot) ipa_ [verb] to have something reach
 maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
@@ -35,26 +35,26 @@ umabot (abot) _um_ [verb] to reach; to get up to; to overtake; to attain; to gai
 umabót (abot) _um_ [verb] to reach for; to reach out for; to be in time for
 ábot-kaya (abot) [adjective] affordable
 ábut-abot (abot) [adjective] continuous; a chain of
-abuloy (abuloy) [noun] small contribution; contribution; financial contribution; financial assistance; aid; relief fund; subsidy
+abuloy (abuloy) rt_ [noun] small contribution; contribution; financial contribution; financial assistance; aid; relief fund; subsidy
 abuluyan (abuloy) _an [noun] giving; giving financial help
 iabuloy (abuloy) i_ [verb] to give something as an aid
 mag-abuloy (abuloy) mag_ [verb] to contribute; to donate
 ábuluyán (abuloy) _an [noun] mutual aid
 abusado (abuso) [adjective] abusive; abusive person or situation
-abuso (abuso) [noun] abuse; maltreatment; [adjective] abusive
+abuso (abuso) rt_ [noun] abuse; maltreatment; [adjective] abusive
 abusuhin (abuso) _in [verb] to abuse something; to overindulge in something; to take advantage of something
 mang-abuso (abuso) mang_ [verb] to abuse
 pag-aabuso (abuso) pagCV_ [noun] abuse; abusing; abusive behavior
 pag-abuso (abuso) pag_ [noun] abuse; abusing
 pang-aabuso (abuso) pangCV_ [noun] abusing; abuse
 umabuso (abuso) _um_ [verb] to abuse; to overindulge; to take advantage of
-aga (aga) [noun] earliness
+aga (aga) rt_ [noun] earliness
 agahan (aga) _an [noun] breakfast
 maaga (aga) ma_ [adjective/adverb] early
 mapaaga (aga) mapa_ [verb] to be premature; to be surprisingly early
 napakaaga (aga) [adjective] very early
-umaga (aga) [noun] morning
-ága-aga (aga) REP_REP [adjective] very early; extremely early
+umaga (aga) _ [noun] morning
+ága-aga (aga) rt_rt [adjective] very early; extremely early
 agaran (agad) _an [adjective] immediate
 agarín (agad) _in [verb] to do without delay; to do promptly
 agád (agad) rt_ [adverb] right (away/after/etc); immediately; right away; quickly; soon; soon; so soon; readily; suddenly; without delay; at once; promptly; [adjective] urgent
@@ -62,79 +62,79 @@ agád-agád (agad) rt_rt_ [adverb] immediately; right away; at once
 kaagád (agad) ka_ [adverb] right away; immediately; instantly
 agapay (agapay) rt_ [adjective] side by side; [adverb] alongside
 iagapay (agapay) [verb] to put alongside another
-kaagapay (agapay) [noun] someone by one's side
+kaagapay (agapay) ka_ [noun] someone by one's side
 nakaagapay (agapay) [adjective] side by side
-agaw (agaw) [noun] snatching; snatching away of something
+agaw (agaw) rt_ [noun] snatching; snatching away of something
 agawan (agaw) _an [verb] to snatch something; to rob
 agawin (agaw) _in [verb] to grab something; to snatch something; to catch something
 agawán (agaw) _an [adjective] vying
-kaagaw (agaw) [noun/adjective] rival
+kaagaw (agaw) ka_ [noun/adjective] rival
 maagaw (agaw) ma_ [verb] to be snatched
 mang-agaw (agaw) mang_ [verb] to snatch
 umagaw (agaw) _um_ [verb] to deprive; to take away from; to snatch; to abduct; to grab for
-agos (agos) [noun] flowing liquid; current; river current
+agos (agos) rt_ [noun] flowing liquid; current; river current
 agusan (agos) _an [verb] to flow over something
 maagos (agos) [adjective] having a strong current
 pag-agos (agos) pag_ [noun] flowing; pouring out
 umagos (agos) _um_ [verb] to flow; to pour out; to run (as in water)
-agwa (agwa) [noun] water
-agwa bendita (agwa) [noun] holy water
+agwa (agwa) rt_ [noun] water
+agwa bendita (agwa) phrase_ [noun] holy water
 agwado (agwa) [adjective] liquefied; watery
-agwadór (agwa) [noun] water carrier
-agwahe (agwa) [noun] tidal wave
-medya-agwa (agwa) [noun] eaves; awning
-ágwa-bendita (agwa) [noun] holy water
-ahit (ahit) [noun] shave
+agwadór (agwa) sp_ [noun] water carrier
+agwahe (agwa) sp_ [noun] tidal wave
+medya-agwa (agwa) phrase_ [noun] eaves; awning
+ágwa-bendita (agwa) phrase_ [noun] holy water
+ahit (ahit) rt_ [noun] shave
 ahitan (ahit) _an [verb] to shave someone
 ahitin (ahit) _in [verb] to shave something; to shave something off
 ahít (ahit) [adjective] shaved
 ipaahit (ahit) ipa_ [verb] to have something shaved off
-kremang pang-ahit (ahit) [noun] shaving cream
+kremang pang-ahit (ahit) phrase_ [noun] shaving cream
 mag-ahit (ahit) mag_ [verb] to shave oneself
 magpaahit (ahit) magpa_ [verb] to get a shave
 pang-ahit (ahit) pang_ [noun] razor; shaver; * manual or electric
-ahon (ahon) [noun] rising out of; emerging from
+ahon (ahon) rt_ [noun] rising out of; emerging from
 ahunin (ahon) _in [verb] to remove from stove; to remove from the fire
 ahunán (ahon) _an [noun] rising upward;
 iahon (ahon) i_ [verb] to bring up from underwater; to lift up from an unfortunate situation
 maiahon (ahon) ma_ [verb] to be able bring something up from underwater; to be able to lift up something/someone from an unfortunate situation.
 makaahon (ahon) maka_ [verb] to be able to get relief from hardship
 umahon (ahon) _um_ [verb] to get out of the water
-akit (akit) [noun] attraction
+akit (akit) rt_ [noun] attraction
 akitin (akit) _in [verb] to attract someone; to seduce someone; to entice someone
 kaákit-akit (akit) [adjective] attractive; alluring; enchanting; beautiful; fancy
 maakit (akit) ma_ [verb] to be attracted to; to be able to attract; to entice; to seduce
 makaakit (akit) maka_ [verb] to attract; to appeal to
 umakit (akit) _um_ [verb] to attract; to seduce; to entice; to charm
 Akó na namán?! (ako) [interjection] Why me?; Why does it always have to be me?
-akin (ako) [pronoun] my; mine; me; I
+akin (ako) conj_ [pronoun] my; mine; me; I
 akuin (ako) _in [verb] to take responsibility for something; to take over something
-akó (ako) [pronoun] I; me; (first person pronoun); self
+akó (ako) rt_ [pronoun] I; me; (first person pronoun); self
 akó ay (ako) [phrase] I am
 makaakó (ako) [adjective] conceited; egotistical
 nakó (ako) shortened / informal for "na ako" or "na ko" (now + I)
 pa akó (ako) I still
 umakò (ako) _um_ [verb] to take on; to take on the responsibility of
 aksayahín (aksaya) _in [verb] to waste something; * focus on the thing being wasted
-aksayá (aksaya) [noun] waste; wastefulness; wastage; [adjective] wasteful; wasted
+aksayá (aksaya) rt_ [noun] waste; wastefulness; wastage; [adjective] wasteful; wasted
 maaksayá (aksaya) [adjective] wasteful
 maaksayâ (aksaya) ma_ [verb] to go to waste
 mag-aksayá (aksaya) mag_ [verb] to waste; to squander
 pag-aaksayá (aksaya) pagCV_ [noun] wasting
 aksiyunán (aksyon) [verb] to take action on/about something
 aksyunán (aksyon) [verb] to take action on/about something
-aksyón (aksyon) [noun] action; acting
-reaksyón (aksyon) [noun] reaction
+aksyón (aksyon) rt_ [noun] action; acting
+reaksyón (aksyon) _ [noun] reaction
 umaksiyón (aksyon) [verb] to take action; to act
-akusadór (akusa) [noun] accuser
-akusasyón (akusa) [noun] accusation
+akusadór (akusa) sp_ [noun] accuser
+akusasyón (akusa) sp_ [noun] accusation
 mag-akusá (akusa) mag_ [verb] to accuse
 pag-aakusa (akusa) pagCV_ [noun] accusing; accusations
 umakusá (akusa) _um_ [verb] to accuse
 akyatan (akyat) _an [noun] stairway
 akyatán (akyat) _an [verb] to take something upstairs to someone; * focus on the person/location where the item is going
 akyatín (akyat) _in [verb] to climb something; to climb up; to climb something; to go upstairs
-akyát (akyat) [noun] rise; ascent; visit; a going upstairs
+akyát (akyat) rt_ [noun] rise; ascent; visit; a going upstairs
 akyát-panaog (akyat) compound_ [adverb] up and down the stairs
 iakyát (akyat) i_ [verb] to bring something up / upward; to bring something upstairs; * focus on the thing being brought
 maakyát (akyat) ma_ [verb] to be able to climb
@@ -156,13 +156,13 @@ alas-saís (ala) [time] six o'clock
 alas-singko (ala) [time] five o'clock
 alas-siyete (ala) [time] seven o'clock
 alas-trés (ala) [time] three o'clock
-alaala (alaala) [noun] remembrance; memory; souvenir
+alaala (alaala) rt_ [noun] remembrance; memory; souvenir
 maalaala (alaala) ma_ [verb] to remember something (OF)
 mag-álaala (alaala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
 alagaan (alaga) _an [verb] to take care of something/someone; to care for; to baby sit; to raise; to conserve; * focus on the person/thing being taken care of
 alagang-alagà (alaga) [adjective] very well cared for
 alagaín (alaga) _in [noun] something/someone requiring care
-alagà (alaga) [noun] pet; someone cared for; care
+alagà (alaga) rt_ [noun] pet; someone cared for; care
 ipaalagà (alaga) ipa_ [verb] to leave something or someone under someone else's care
 maalagaan (alaga) ma_an [verb] to be able to take care of
 mag-alagà (alaga) mag_ [verb] to take care of; to care; to raise; to baby sit; to care for; to attend to; to watch over; to conserve
@@ -172,9 +172,9 @@ mapangalagaan (alaga) mapang_an [verb] to be able to take care of something
 pag-aalagà (alaga) pagCV_ [noun] care; protection
 pangalagaan (alaga) pang_an [verb] to take care of something
 pangángalagà (alaga) pangang_ [noun] care; caring; concern; custody
-tagapag-alagà (alaga) [noun] caretaker; custodian; guardian
-tagapangalagà (alaga) [noun] trustee
-alala (alala) [noun] memory; recollection
+tagapag-alagà (alaga) tagapag_ [noun] caretaker; custodian; guardian
+tagapangalagà (alaga) tagapang_ [noun] trustee
+alala (alala) rt_ [noun] memory; recollection
 alalahanin (alala) _anin [verb] to remember something; to keep something in mind; to worry about something; * focus on the thing being thought about
 alalahanín (alala) _anin [noun] worry; concern
 alalá (alala) [adjective] worried; concerned
@@ -188,21 +188,21 @@ paalala (alala) pa_ [noun] reminder
 paalalahanan (alala) pa_anan [verb] to remind someone; to have someone be reminded; to warn someone
 pag-áalalá (alala) pagCV_ [noun] worries; warning; anxiety; worrying; foreboding; presentiment
 pagpapaalala (alala) pagpapa_ [noun] reminding
-alalay (alalay) [noun] support; assistant; helpful friend; holding or carrying with care
+alalay (alalay) rt_ [noun] support; assistant; helpful friend; holding or carrying with care
 alalayan (alalay) _an [verb] to hold or carry someone/something carefully; to aid someone; to support someone
-kaaalalay (alalay) [noun] chaperone
+kaaalalay (alalay) kaCV_ [noun] chaperone
 mag-alalay (alalay) mag_ [verb] to take precaution; to practice moderation; to take it easy (lay off)
 nakaalalay (alalay) naka_ [adjective] supporting
 umalalay (alalay) _um_ [verb] to support; to give support
 Anóng pakí mo?! (alam) [interjection] What's it to you?; Why are you asking?; Why do you want to know?
 Walá kang pakialám! (alam) [phrase] It's none of your business!
 alamín (alam) _in [verb] to find out something; to figure out something; to know something; * focus on the thing known/to be known
-alám (alam) [adjective] know; known; familiar; revealed; aware; conscious; [noun] knowledge; something known
+alám (alam) rt_ [adjective] know; known; familiar; revealed; aware; conscious; [noun] knowledge; something known
 alám ko (alam) [phrase] I know
 hindí ko alám (alam) I don't know
-kaalamán (alam) [noun] knowledge; information; intelligence; idea; statistics
+kaalamán (alam) ka_an [noun] knowledge; information; intelligence; idea; statistics
 kaalám-alám (alam) having any knowledge (of something)
-kinalaman (alam) [noun] connection to something; regarding; a share (of something); knowledge about something
+kinalaman (alam) kina_an [noun] connection to something; regarding; a share (of something); knowledge about something
 lákompaké (alam) [expression] I don't care; * short for "wala akong pakialam"
 maalam (alam) [adjective] knowledgeable; wise; well-versed
 makaalám (alam) maka_ [verb] to be able to know
@@ -214,17 +214,17 @@ pagkakáalám (alam) pagkaka_ [noun] understanding
 pakialamero (alam) paki_ [noun] meddler
 pakialamán (alam) paki_an [verb] to meddle with; to disturb someone
 pakialám (alam) paki_ [noun] give a care; care; meddler; interferer
-paké (alam) [noun] care (contraction of "pakialam"); concern
+paké (alam) phrase_ [noun] care (contraction of "pakialam"); concern
 umalám (alam) _um_ [verb] to know
 waláng alám (alam) don't know
 waláng kaalám-alám (alam) know absolutely nothing; haven't the faintest idea; have no idea; have no clue
 waláng pakialám (alam) don't care
 waláng paké (alam) [phrase] without a care (short for "walang pakialam")
 wapakéls (alam) [expression/slang] I don't care; None of my business; Short for "Wala akong pakialam"
-alat (alat) [noun] saltiness
+alat (alat) rt_ [noun] saltiness
 alatan (alat) _an [verb] to add salt; to make salty
 alatin (alat) _in [verb] to lose one's good luck
-kaalatan (alat) [noun] saltiness
+kaalatan (alat) ka_an [noun] saltiness
 maalat (alat) [adjective] salty; briny
 umalat (alat) _um_ [verb] to become salty
 alay (alay) [noun] offering; dedication; gift
@@ -235,7 +235,7 @@ pag-aalay (alay) pagCV_ [noun] dedication; offering
 Alís! (alis) [interjection] Leave!; Get outta here!
 alisán (alis) _an [verb] to remove something from something/someone; to take something away from someone; * focus on the thing/person that is having something taken away /removed
 alisín (alis) _in [verb] to remove something; to take something off; to take something away; to get rid of something; to eliminate something; to delete something; to cancel something
-alís (alis) [noun] departure; leaving; [expression] Leave!; Get out of here!; [adjective] departed
+alís (alis) rt_ [noun] departure; leaving; [expression] Leave!; Get out of here!; [adjective] departed
 ialís (alis) i_ [verb] to remove something
 ipaalís (alis) ipa_ [verb] to have something removed
 kaáalís (alis) has just left
@@ -251,17 +251,17 @@ paalís (alis) pa_ [adjective] starting to leave; outgoing; outward bound; about
 pag-aalís (alis) pagCV_ [noun] removal; elimination
 pag-alís (alis) pag_ [noun] leaving; departure
 umalís (alis) _um_ [verb] to leave; to depart; to stay away; to go out
-aliwan (aliw) [noun] entertainment; amusement; consoling
+aliwan (aliw) _an [noun] entertainment; amusement; consoling
 aliwín (aliw) _in [verb] to entertain someone; to console someone; to comfort someone; to soothe someone
-alíw (aliw) [noun] comfort; pleasure; amusement; entertainment
-báhay-aliwan (aliw) [noun] night club; brothel; literally(aliw) "entertainment house"
+alíw (aliw) rt_ [noun] comfort; pleasure; amusement; entertainment
+báhay-aliwan (aliw) phrase_ [noun] night club; brothel; literally(aliw) "entertainment house"
 maalíw (aliw) ma_ [verb] to be entertained; to be pleased
 mag-alíw (aliw) mag_ [verb] to enjoy oneself
 nakakaalíw (aliw) [adjective] entertaining; amusing
 pang-alíw (aliw) pang_ [adjective] something for comfort or pleasure
 umalíw (aliw) _um_ [verb] to console or comfort
 alugín (alog) _in [verb] to shake the contents of something; to shake something
-alóg (alog) [noun] shake; shaking up/off; jerking
+alóg (alog) rt_ [noun] shake; shaking up/off; jerking
 maalóg (alog) [adjective] shaky
 mag-alóg (alog) mag_ [verb] to shake the contents of
 pag-alóg pag_ (alog) [noun] shaking
@@ -270,38 +270,38 @@ umalóg (alog) _um_ [verb] to shake
 áalug-alóg (alog) [adjective] wobbly; shaky; ramshackle; rickety
 áalóg-alóg (alog) [adjective] shaky
 alsahín (alsa) _in [verb] to lift something up
-alsá (alsa) [noun] rising; uprising; rising of dough
+alsá (alsa) rt_ [noun] rising; uprising; rising of dough
 ialsá (alsa) i_ [verb] to raise (something upward)
 mag-alsá (alsa) mag_ [verb] to revolt; to rise up against; to rebel
 pampaalsá (alsa) pampa_ [noun] baking powder
 umalsá (alsa) _um_ [verb] to swell; to rise
 ambaán (amba) _an [verb] to threaten someone; to make threatening gestures toward someone
-ambâ (amba) [noun] threaten; threatening gesture
+ambâ (amba) rt_ [noun] threaten; threatening gesture
 mangambâ (amba) mang_ [verb] to feel threatened; to feel fear
 nakambâ (amba) naka_ [adjective] threatening
 pangambahán (amba) pang_an [verb] to threaten somewhere/something
-ambagan (ambag) [noun] contribution by several people
-ambág (ambag) [noun] contribution
+ambagan (ambag) _an [noun] contribution by several people
+ambág (ambag) rt_ [noun] contribution
 iambág (ambag) i_ [verb] to contribute
 mag-ambág (ambag) mag_ [verb] to contribute
 maiambág (ambag) mai_ [verb] to be able to contribute
 makapag-ambág (ambag) makapag_ [verb] to be able to contribute
-amin (amin) [pronoun] ours; our; us; (exclusive, i.e., including people speaking, but not including people spoken to); [noun] our place / house; admission of guilt; confession
+amin (amin) rt_ [pronoun] ours; our; us; (exclusive, i.e., including people speaking, but not including people spoken to); [noun] our place / house; admission of guilt; confession
 aminado (amin) [adjective] admitting; admitting fault
 aminin (amin) _in [verb] to own up to something; to admit something; to confess something
 maamin (amin) ma_ [verb] to be able to admit something
 mapasaamin (amin) mapasa_ [verb] to become ours
-namin (amin) [pronoun] our; ours; by us; we (exclusive, i.e., including people speaking, but not including people spoken to)
+namin (amin) conj_ [pronoun] our; ours; by us; we (exclusive, i.e., including people speaking, but not including people spoken to)
 pag-amin (amin) pag_ [noun] admission of guilt; confession
 sa amin (amin) [phrase] to us; for us; with us (exclusive "we"); at our place; to our house
 umamin (amin) _um_ [verb] to admit; to confess; to own up
-amo (amo) [noun] boss; master; employer; manager; tameness
+amo (amo) rt_ [noun] boss; master; employer; manager; tameness
 amuin (amo) [verb] to tame something/someone; to placate someone
 maamò (amo) [adjective] gentle; tame; docile; domestic
 napakaamo (amo) [adjective] very gentle
 umamò (amo) [verb] to become tame; to become domesticated
 amuyín (amoy) _in [verb] to smell something
-amóy (amoy) [noun] smell; odor; scent; aroma; body odor; strong smell
+amóy (amoy) rt_ [noun] smell; odor; scent; aroma; body odor; strong smell
 ipaamóy (amoy) ipa_ [verb] to have someone smell something
 maamóy (amoy) [adjective] odorous; smelly
 maamóy (amoy) ma_ [verb] to smell something (OF); to sniff (AF); to sniff something (OF)
@@ -310,30 +310,30 @@ mangamoy (amoy) mang_ [verb] to become stinky; to become smelly
 nangangamóy (amoy) [adjective] smelly; stinky
 pangamóy (amoy) pang_ [noun] sense of smell; nose
 umamóy (amoy) _um_ [verb] to smell
-ampunan (ampon) [noun] orphanage; adoption house
+ampunan (ampon) _an [noun] orphanage; adoption house
 ampunín (ampon) [verb] to adopt someone; to protect something/someone
 ampón (ampon) [adjective] adopted
 mag-ampón (ampon) [verb] to adopt
 umampón (ampon) [verb] to adopt
-anakán (anak) [noun] familial lineage; lineage
+anakán (anak) _an [noun] familial lineage; lineage
 anakán (anak) _an [verb] to produce a child; to spawn; to beget a child
 anakín (anak) _in [verb] to act as a sponsor in a baptism
-anák (anak) [noun] son or daughter; offspring; child; gender-less word to refer to one's child
-anák na babae (anak) [noun] daughter
-anák na lalaki (anak) [noun] son, male child
-anák sa labás (anak) [noun] bastard; bastard child; illegitimate child
-anák-anakan (anak) [noun] foster child
+anák (anak) rt_ [noun] son or daughter; offspring; child; gender-less word to refer to one's child
+anák na babae (anak) phrase_ [noun] daughter
+anák na lalaki (anak) phrase_ [noun] son, male child
+anák sa labás (anak) phrase_ [noun] bastard; bastard child; illegitimate child
+anák-anakan (anak) rt_rt_an [noun] foster child
 anák-dalitâ (anak) [adjective] born poor
-anák-tilik (anak) [noun] step-sibling; step-brother; step-sister
-bonák (anak) [noun] stupid child; stupid kid; dumb kid; (slang)
-bugtóng na anák (anak) [noun] only child
+anák-tilik (anak) phrase_ [noun] step-sibling; step-brother; step-sister
+bonák (anak) slang_ [noun] stupid child; stupid kid; dumb kid; (slang)
+bugtóng na anák (anak) phrase_ [noun] only child
 bágong-panganák (anak) [adjective] newborn
-ináanák (anak) [noun] godchild
+ináanák (anak) _ [noun] godchild
 ipanganák (anak) ipang_ [verb] to be born; to give birth to; * focus on the person being born
-kaanak (anak) [noun/adjective] relative; of the same family
-kamag-anak (anak) [noun] relative; kin
-kapanganakan (anak) [noun] birthday; nativity; birth
-mag-anak (anak) [noun] family; the whole family; family members
+kaanak (anak) ka_ [noun/adjective] relative; of the same family
+kamag-anak (anak) ka_mag_ [noun] relative; kin
+kapanganakan (anak) kapang_an [noun] birthday; nativity; birth
+mag-anak (anak) mag_ [noun] family; the whole family; family members
 mag-anák (anak) mag_ [verb] to have a child; to breed; to produce offspring
 magkaanák (anak) magka_ [verb] to have a child; to have a baby
 manganák (anak) mang_ [verb] to give birth
@@ -350,12 +350,12 @@ iangkás (angkas) i_ [verb] to give someone a ride
 ma-angkás (angkas) ma_ [verb] to take for a ride
 umangkás (angkas) _um_ [verb] to hitch a ride; to take a ride
 angkatín (angkat) _in [verb] to import something
-angkát (angkat) [noun] import
+angkát (angkat) rt_ [noun] import
 mag-angkát (angkat) mag_ [verb] to import
 pag-aangkát (angkat) pagCV_ [noun] importation; importing
 umangkát (angkat) _um_ [verb] to import
 angkinín (angkin) _in [verb] to claim something (property, credit, etc.)
-angkín (angkin) [noun] inborn; natural; demand for one's own right; claim
+angkín (angkin) rt_ [noun] inborn; natural; demand for one's own right; claim
 maangkín (angkin) ma_ [verb] to be able to claim something
 pag-angkín (angkin) pag_ [noun] appropriating; appropriation
 umangkín (angkin) _um_ [verb] to appropriate; to claim
@@ -364,12 +364,12 @@ iangkóp (angkop) i_ [verb] to adapt; to fit; to make suitable
 maangkóp (angkop) ma_ [verb] to be fitting; to be suitable
 pang-angkóp (angkop) pang_ [grammar] ligature; linker
 umangkóp (angkop) _um_ [verb] to be fitting; to adapt
-ani (ani) [noun] harvest; crop; product
+ani (ani) rt_ [noun] harvest; crop; product
 anihin (ani) _in [verb] to harvest something; to reap somethin
-anihán (ani) [noun] harvest season
+anihán (ani) _an [noun] harvest season
 maani (ani) ma_ [verb] to be able to harvest something
 mag-ani (ani) mag_ [verb] to harvest; to reap
-tag-aní (ani) [noun] harvest season; harvest time
+tag-aní (ani) tag_ [noun] harvest season; harvest time
 umani (ani) _um_ [verb] to reap
 anim (anim) [number] six (6)
 animan (anim) _an [adjective] sixes; [adverb] in sixes
@@ -385,7 +385,7 @@ Anó ba?! (ano) [interjection] What do you want?! Don't bother me!
 Anó daw? (ano) [phrase] When you failed to hear/understand something; What was said?; What was that?; Say it again?
 Anóng say mo? (ano) [interjection] What do you think?
 Eh anó ngayón? (ano) [phrase] So what?
-ano-anó (ano) [pronoun] what; plural of "what"; plural of "ano"; others; various things; various other; this and that
+ano-anó (ano) rt_rt [pronoun] what; plural of "what"; plural of "ano"; others; various things; various other; this and that
 anuhín (ano) _in [verb] to do something with (idiomatic)
 anó (ano) [question word] what; is that right?; right?; hello / what's up (informal)
 anó man (ano) [phrase] whatever; something; anything; any; no matter what; ( "walang anuman" = "not at all" or "nothing to it" or "no problem")
@@ -400,20 +400,20 @@ paano (ano) pa_ [adverb] how; in what way; what then
 umanó (ano) _um_ [verb] to do something that is impolite to say what it is directly; to do something that cannot/should not be mentioned;
 waláng anu-anó (ano) [adjective] sudden
 áanhín (ano) _in [verb] what is it worth to someone/something (OF); what will be the use or value of something (OF)
-anod (anod) [noun] streaming
+anod (anod) rt_ [noun] streaming
 anudin (anod) _in [verb] to carry something away by a current; to wash something away
 anurin (anod) _in [verb] to be carried away by a current of water
 maanod (anod) ma_ [verb] to drift; to get carried away by the current
 maanuran (anod) ma_an [verb] to be inundated
-antáy (antay) [noun] waiting
+antáy (antay) rt_ [noun] waiting
 magantáy (antay) mag_ [verb] to wait; to await; * variation of "maghintay"
-anyô (anyo) [noun] form; figure; appearance; aspect
-bagong anyô (anyo) [noun] new form; changed form; modification; changed appearance; new appearance
-kaanyuán (anyo) [noun] form; appearance
+anyô (anyo) rt_ [noun] form; figure; appearance; aspect
+bagong anyô (anyo) phrase_ [noun] new form; changed form; modification; changed appearance; new appearance
+kaanyuán (anyo) ka_an [noun] form; appearance
 mag-anyô (anyo) mag_ [verb] to appear like; to take the form of
 magbágong-anyô (anyo) mag_ [verb] to change appearance
-apak (apak) [noun] tread; step
-apakan (apak) [noun] place to step on; step
+apak (apak) rt_ [noun] tread; step
+apakan (apak) _an [noun] place to step on; step
 apakan (apak) _an [verb] to step on something; to trample something; to tread on something
 iapak (apak) i_ [verb] to put a foot on something
 maapakan (apak) ma_an [verb] to accidentally step on something; to happen to step on something;
@@ -425,36 +425,36 @@ apatin (apat) _in [verb] to make something into four; to divide something into f
 ikaapat (apat) [adjective] fourth
 labing-apat (apat) [number] fourteen (14)
 pang-apat (apat) pang_ [adjective] fourth
-sangkapat (apat) [noun] quarter; one-forth; 1/4th
+sangkapat (apat) compound_ [noun] quarter; one-forth; 1/4th
 tig-apat (apat) [adjective] four for each; four each
 ápatnapû (apat) [number] forty (40)
-apaw (apaw) [noun] overflow
+apaw (apaw) rt_ [noun] overflow
 apawan (apaw) _an [verb] to be flooded; to be covered with an overflow
 umapaw (apaw) _um_ [verb] to overflow; to reach the brim; to inundate
 apelahán (apela) [verb] to appeal (legal)
-apelá (apela) [noun] appeal
+apelá (apela) rt_ [noun] appeal
 iapelá (apela) [verb] to appeal something; to make a legal appeal over something
-pag-aapelá (apela) [noun] appealing
+pag-aapelá (apela) pag_ [noun] appealing
 umapelá (apela) [verb] to appeal
 apihín (api) _in [verb] to persecute; to oppress; to bully; to maltreat; to abuse
 apí (api) [adjective] oppressed
 ináapí (api) [adjective] oppressed
-kaapihán (api) [noun] oppression; persecution
+kaapihán (api) ka_an [noun] oppression; persecution
 maapí (api) ma_ [verb] to feel oppressed; to be oppressed
 mang-apí (api) mang_ [verb] to persecute; to oppress; to bully; to mistreat; to abuse
-mapang-apí (api) [noun] bully
-máng-aapí (api) [noun] bully; oppressor; offender
+mapang-apí (api) mapang_ [noun] bully
+máng-aapí (api) mang_ [noun] bully; oppressor; offender
 pang-aapí (api) pangCV_ [adjective] for oppressing; for oppression
-apò (apo) [noun] old man/woman; ancestor
-apó (apo) [noun] grandchild
-apó sa talampakan (apo) [noun] great great grandchild
-apó sa tuhod (apo) [noun] great-grandchild
-apóng babae (apo) [noun] granddaughter
-apóng lalaki (apo) [noun] grandson
-inapó (apo) [noun] descendant
-apuyán (apoy) [noun] fireplace; furnace
+apò (apo) rt_ [noun] old man/woman; ancestor
+apó (apo) rt_ [noun] grandchild
+apó sa talampakan (apo) phrase_ [noun] great great grandchild
+apó sa tuhod (apo) phrase_ [noun] great-grandchild
+apóng babae (apo) phrase_ [noun] granddaughter
+apóng lalaki (apo) phrase_ [noun] grandson
+inapó (apo) in_ [noun] descendant
+apuyán (apoy) _an [noun] fireplace; furnace
 apuyín (apoy) _in [verb] to burn with; to be on fire; to burst into flames
-apóy (apoy) [noun] fire
+apóy (apoy) rt_ [noun] fire
 maapóy (apoy) [adjective] fiery; flaming
 mag-apóy (apoy) mag_ [verb] to burst into flames; to burn; to be on fire; to burn hot
 takáw-apóy (apoy) [idiomatic] flammable
@@ -463,7 +463,7 @@ aprubado (aprub) [adjective] approved
 aprubahán (aprub) _an [verb] to approve something
 maaprubahán (aprub) ma_an [verb] to be able to approve something
 pag-aaprúb (aprub) pagCV_ [noun] approving; approval
-apuhap (apuhap) [noun] groping; grasping
+apuhap (apuhap) rt_ [noun] groping; grasping
 apuhapin (apuhap) _in [verb] to fumble; to grope blindly
 maapuhap (apuhap) ma_ [verb] to grope around; to feel by hand
 mag-apuhap (apuhap) mag_ [verb] to fumble; to grope
@@ -5199,7 +5199,7 @@ manganib (panganib) ma_ [verb] to be in danger; to be threatened
 mapanganib (panganib) [adjective] dangerous
 panganib (panganib) [noun] danger; risk; crisis
 KSP (pansin) [adjective/noun] attention seeker (short for "kulang sa pansin")
-kapansín-pansín (pansin) ka_REP_REP [adjective] very noticeable; noteworthy
+kapansín-pansín (pansin) ka_rt_rt [adjective] very noticeable; noteworthy
 mápansín (pansin) ma_ [verb] to happen to notice something (OF); to realize something (OF); to be noticed (AF)
 nakapansín (pansin) naka_ [adjective] noticed
 pansinin (pansin) _in [adjective] noticeable
@@ -5344,7 +5344,7 @@ patayan ng hayop (patay) [noun] slaughterhouse
 patayín (patay) _in [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
 patáy (patay) [adjective] dead; deceased; [expressions] crap / oh my gosh / dang (slang)
 patáy-dampót (patay) [adjective] unconscious; dead weight
-patáy-patayan (patay) REP_REP_an [noun] playing dead; pretending to be dead
+patáy-patayan (patay) rt_rt_an [noun] playing dead; pretending to be dead
 pumatáy (patay) _um_ [verb] to kill; to extinguish
 ipatong (patong) i_ [verb] to put something on top; to apply something on top
 magpatong (patong) mag_ [verb] to lay on top; to place on top of
