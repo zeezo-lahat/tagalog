@@ -3805,6 +3805,10 @@ pagkilos (kilos) [noun] movement; action; activity; behavior; conduct; attitude;
 pakilusin (kilos) pa_in [verb] to put something in motion; to have something moved
 makinabang (kinabang) ma_ [verb] to benefit from; to profit from; to take advantage of
 pakinabang (kinabang) pa_ [noun] benefit; profit; gain
+makiníg (kinig) [verb] to listen
+pakinggán (kinig) pa_an [verb] to listen to someone/something; to pay attention to something; to heed something
+kiníg (kinig) rt_ [noun] something heard
+tagapakiníg tagapa_ (kinig) [noun] listeners; listening audience
 kipot (kipot) [noun] narrowness; narrow
 kiputan (kipot) _an [verb] to make narrower
 kumipot (kipot) _um_ [verb] to narrow

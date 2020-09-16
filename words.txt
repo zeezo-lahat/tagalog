@@ -92,6 +92,7 @@ alat	saltiness
 alay	offering
 albularyo	quack doctor, charlatan
 alikabok	dust
+alilà	servant
 alin man	whichever
 alin	which?
 alin-alin	which? (plural)
@@ -549,6 +550,7 @@ dulugan	recourse
 dulutan	to offer
 dumaan	to pass by
 dumako	to go somewhere, towards something
+dumal	shabbiness of environment or circumstances
 dumaló	to attend, attended
 dumami	to increase in number
 dumanas	to undergo, experience
@@ -1258,7 +1260,7 @@ kilanlín	to recognize someone, to admit something (-in)
 kilíg	tremble, shudder; giddiness
 kiligin	to be tickled pink
 kilikili	armpit
-kilos	behavior, action, movement, motion; conduct, manner, attitude
+kilos	action, movement, motion; demeanor, behavior, conduct, manner, attitude
 kinabahan	became nervous
 kinabukAsan	future; the following day, the day after, the next day
 kinagabihan	on that night
@@ -2234,6 +2236,7 @@ ngiti	a smile
 ngunit	yet/but, on the other hand
 nilalamán	content(s) (noun, laman)
 nilito	was confused by something
+ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
 niyog	coconut
 nood	root word related to watching (manoód, panoorín, etc.)
@@ -2309,6 +2312,7 @@ pag-asa	(n) hope; trust; dependence; chance; anticipation; romantic hope.
 pag-asa	hope
 pag-asenso	(n) growth; ascension.
 pag-atake	(n) attack.
+pagawâ	alternate of ipagawâ
 pagawaan	factory, place where things are made
 pagbabago	repeated/multiple changes
 pagbabarilín	to shoot up something/somewhere; to shoot down something
@@ -2752,6 +2756,7 @@ puslít	smuggling, low-key escape: squirt, spurt
 puspusan	fully, completely, thoroughly
 puspusan	to complete, make complete
 puta	used as general curse (fuck, etc.), literally: whore
+putahe	viand; dish; course (part of a meal)
 putang iná	"fuck you", your mother is a whore
 putik	mud (often used as an inoffensive substitute for the word puta)
 putikan	a muddy place
@@ -2877,6 +2882,7 @@ sana	I hope, I wish; was going to, but; should (not) have
 sanay	practice
 sanáy	skilled, proficient, used to
 sanayan	a place for practice
+sanaysay	an essay
 sandali	moment (dali)
 sandata	weapon; arms; ammunition
 sanggol	baby, infant
@@ -2945,6 +2951,7 @@ silyón	easy-chair
 sinamahan	accompanied
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
+singa	act of blowing one's nose
 singganda	as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
 singkahulugan	synonym
@@ -2992,6 +2999,7 @@ sukat	size, measurement
 sukAtin	measure
 sukdUlan	utmost
 suklay	comb
+suklî	the change that you get back from a monetary transaction (Chinese origin)
 sukò	to give up, surrender
 sukol	cornered, driven into a corner
 sulat	writing, letter
@@ -3139,6 +3147,7 @@ tanim	a plant; ill-feeling planted in the heart, grudge
 tanod	guard
 tanong	question (usisa, kuwestiyon, interogasyon)
 tantô	realize, understand
+tanyág	famous, celebrated, well-known; distinguished, eminent; illustrious
 táo	person
 taón	year
 taós	sincere; sincerely
@@ -3288,7 +3297,7 @@ tungkól	concerning, about
 tungkulin	(noun) duty, responsibility, concern, mission, function, role
 tungó	bowing of the head
 tungo	goal, purpose, direction; to deal with
-tunóg	sound; ring; strike; quality of sound; popularity
+tunóg	sound, audio; ring; strike; quality of sound; popularity
 tuntón	tracing the path, source, origin; giving guidance at the start
 tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
@@ -3304,6 +3313,7 @@ tusak	nagkakatusak; masagana, marami, labis na pagkakaroon
 tusok	piercing, perforation
 tustos	allowance; stock, store, supply (e.g. of raw materials)
 tustusan	support financially; extend, prolong
+tuta	puppy; slavish follower [coll.]
 tutál	anyway
 túto	learning, gaining knowledge or skill (mostly used as root, eg matúto)
 tutok	point (a gun at), aim, focus attention on

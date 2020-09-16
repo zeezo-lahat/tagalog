@@ -22,6 +22,11 @@ tgw ()
   cat roots.txt words.txt | tgrep.py "$*" | sort | uniq
 }
 
+tgt ()
+{
+  cat tl_*.txt td_*.txt | tgrep.py "$*" | sort | uniq
+}
+
 tga ()
 {
   cat *.txt | tgrep.py "$*" | sort | uniq
@@ -39,6 +44,10 @@ try ()
 
  echo tgw:
  tgw $1
+ read
+
+ echo tgt:
+ tgt $1
  read
 
  echo tga:
