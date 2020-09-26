@@ -1,0 +1,26 @@
+from Cena: A unified account of the Tagalog verb and adjective affix systems
+The affix ipa-, for example, consists of the applicative voice affix i- and the causative affix pa-, and
+ipa- itself occurs in combination with other affixes, for example, with the bound requestive affix -ki-
+as in ipaki-, or the bound deliberative affix -ag- as in ipa + ag > ipag 
+
+i- applicative voice
+pa- causative
+-ki- bound requestive
+-ag- bound deliberative (joins with ma- to become mag- and pa- to become pag-)
+-ka-
+-ang-
+
+ voice affixes     roles of the subject nominal            cover term
+----------------  ------------------------------          ------------
+-um-              agent, experiencer, force               agentive, actor
+ma-, mag-, mang-  agent                                        "
+-in               patient, theme, goal                    objective, object
+-an               location, directional (source, goal)    locative
+i-                theme, benefactor, instrument, reason   applicative
+
+passive voice affix    voice and role labels      semantic roles of subjects
+------------------     --------------------       --------------------------
+-in                     objective, object          patient, theme, goal
+-an                     location                   location, directional (source, goal)
+i-                      applicative                theme, benefactor, instrument, reason
+

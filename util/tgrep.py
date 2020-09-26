@@ -37,9 +37,8 @@ for l in mysearchstring:
     else:
         newsearch = newsearch + l
 
-newsearch = newsearch
 #newsearch = newsearch + '.*\t'
-tmatch = re.compile(newsearch)
+tmatch = re.compile(newsearch, flags=re.IGNORECASE)
 
 while 1:
   c = myfile.readline()

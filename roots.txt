@@ -890,6 +890,8 @@ magbakasyón (bakasyon) mag_ [verb] to go on a vacation
 makapagbakasyón (bakasyon) maka_ [verb] to be able to vacation; to be able to take a vaction
 pagbabakasyón (bakasyon) pagCV_ [noun] vacationing
 pagbakasyunán (bakasyon) pag_an [verb] to spend a vacation somewhere
+bakuran (bakod) _an [noun] yard; backyard; premises
+bakod (bakod) rt_ [noun] fence; enclosure
 bakuna (bakuna) [noun] vaccine; vaccination
 bakunahan (bakuna) _an [verb] to vaccinate someone; to immunize someone
 mabakunahan (bakuna) ma_an [verb] to be able to vaccinate someone; to be able to immunize someone
@@ -1272,6 +1274,8 @@ pagbibigáy (bigay) pagCV_ [noun] giving; act of consideration; donation
 pagkamapagbigáy (bigay) pagkamapag_ [adjective] generosity
 pakibigyán (bigay) paki_an please give
 pamimigáy (bigay) pangCV_ [noun] distributing; distribution; giving; giving out
+mabighanì (bighani) ma_ [verb] to be charmed; to be enthralled
+bighanì (bighani) rt_ [noun] charm; allurement; fascination
 bigkasán (bigkas) _an [verb] to recite to someone; to declaim
 bigkasín (bigkas) _in [verb] to pronounce something
 bigkasín nang pamalî (bigkas) _in [verb] to mispronounce
@@ -2477,6 +2481,9 @@ gayón (gayon) [pronoun] such; considering; like that; that way; of that kind; w
 gayón din (gayon) compound_ [adverb] so; likewise
 gayón man (gayon) [conjunction] however; though; anyway; nonetheless; nevertheless
 magkágayón (gayon) magka_ [verb] to become that way
+gayuma (gayuma) rt_ [noun] allure; charm; fascination; magnetism; aphrodisiac
+magayuma (gayuma) ma_ [verb] to be charmed; to be captivated
+gumayuma (gayuma) _um_ [verb] to charm; to allure
 gibaín (giba) _in [verb] to demolish; to tear down
 gibâ (giba) [adjective] demolished; destroyed; wrecked
 gumibâ (giba) _um_ [verb] to demolish
