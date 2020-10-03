@@ -2602,8 +2602,8 @@ paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
 panlahi	racial
 panonoód	watching (noun, gerund)
-panood	watching (obj focus, alt of manood)
-panoorin	to watch something (object focus)
+panood	watching (nood, obj focus, alt of manood)
+panoorin	to watch something (nood, object focus)
 pansamantala	for the time being
 pansan	obstacle that causes delay, accident, inconvenience, injury
 pansarili	personal, private
@@ -2626,8 +2626,7 @@ papél	paper; role, part (in a play, etc.)
 papuri	praise
 papurihan	to praise, to applaud
 paputók	firecrackers, fireworks ("cause explosion")
-para	for, so that, in order to
-para	like, seems like, appears; to stop (syn: upang)
+para	for, so that, in order to (syn: upang); like, seems like, appears; to stop
 paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
