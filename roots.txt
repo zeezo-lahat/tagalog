@@ -1973,6 +1973,9 @@ ipagdasál (dasal) ipag_ [verb] to pray for someone
 madasalin (dasal) [adjective] prayerful
 magdasál (dasal) mag_ [verb] to pray
 pagdarasál (dasal) pagCV_ [noun] praying
+dati (dati) rt_ [adjective] former; old; same; old-time; ex-; [adverb] earlier (recent past); before (past); originally; previously; used; used to; some time ago
+dáti-rati (dati) rt_rt [noun] way back when; in the distant past; formerly
+datihán (dati) _an [adjective] experienced
 datnán (dating) _an [verb] to arrive somewhere
 datíng (dating) [noun] arrival
 dumatíng (dating) _um_ [verb] to come; to arrive
@@ -3543,6 +3546,8 @@ kumagát (kagat) _um_ [verb] to bite; to sting
 makagát (kagat) ma_ [verb] to bite (OF); to be bitten (AF); to be stung (AF)
 mangagát (kagat) mang_ [verb] to bite frequently
 mapakagát (kagat) mapa_ [verb] to make someone bite; to make someone agree to something; to bite something involuntarily; to agree to something involuntarily
+mangahulugán (kahulugan) mang_ [verb] to mean; to denote
+ipakahulugán (kahulugan) ipa_ [verb] to construe
 kaibigan (kaibigan) ka_an [noun] friend; buddy; chum
 kaibiganin (kaibigan) _in [verb] to make friends with someone; to become friends with someone
 magkaibigan (kaibigan) magka_an [noun] friends (more than one); group of friends
@@ -3735,6 +3740,9 @@ katháng-isip (katha) [noun] fiction; a work of fiction
 kathâ (katha) [noun] literary composition; creation; fiction
 kumathâ (katha) _um_ [verb] to invent
 maykathâ (katha) [noun] author; writer
+makatí (kati) ma_ [adjective] itchy; [noun] a large, wealthy city in metro Manila
+katí (kati) rt_ [noun] itch; burning desire
+kumatí (kati) _um_ [verb] to itch
 katukín (katok) [verb] to knock on something
 katók (katok) [noun] knock; knocking
 kumatók (katok) [verb] to knock
@@ -6788,6 +6796,9 @@ talagá (talaga) rt_ [adverb] really; just; certainly; definitely; actual; in fa
 talakay (talakay) [noun] discussion
 talakayin (talakay) _in [verb] to discuss something
 tumalakay (talakay) _um_ [verb] to discuss
+talasan (talas) _an [verb] to sharpen; to be alert
+matalas (talas) ma_ [adjective] sharp; sharp edge; sharpened; keen; clever; acute; astute
+talas (talas) rt_ [noun] sharpness; sharp
 italì (tali) i_ [verb] to tie something up; to tie something to/around; to tie something; to bind something
 magtalì (tali) mag_ [verb] to tie up
 nakatalì (tali) [adjective] tied; bound

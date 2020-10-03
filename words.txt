@@ -298,6 +298,7 @@ batikán	spotted; tried, tested, expert
 batikos	tirade, harangue, invective, verbal abuse
 bato	a stone, rock; kidney; something to throw, throwing
 batok	back of the neck, nape
+batúgan	hard headed (big insult)
 batukan	to hit the back part of the head
 bAwal	prohibited, forbidden
 bawas	discount, reduction
@@ -498,7 +499,7 @@ darating	will come somewhere
 dasal	prayer
 dasalan	book of prayer, place of prayer
 datapwat	however
-dáti	former(ly), previous(ly), old, ex
+dáti	former(ly), previous(ly), old, ex, same, for a long time already
 datig	adjoining, near, contiguous; lining for clothes
 datihan	used to, accustomed
 dating	arrival
@@ -715,6 +716,7 @@ hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
+hantik	large, red, poisonous ant
 haplos	caressing, stroking, petting
 hárang	obstacle
 harangin	to block
@@ -1778,6 +1780,7 @@ makaramdám	to feel
 makasarili	selfish
 makatagpô	to discover, come across
 makatao	humanitarian, humane
+makatí	itchy
 makatotohanan	realistic
 makatulog	to be able to sleep
 makatulong	to help, be helpful
@@ -1874,7 +1877,7 @@ maneho	management; act of managing; driving (vehicle)
 manermon	to give a sermon
 mang-aagaw	someone who snatches away (a thing or lover)
 mang-ahit	to shave someone
-mangahulugan	to mean
+mangahulugan	to mean, denote, signify
 mangako	to promise
 mangambâ	to feel threatened; to feel fear
 manganib	to be in danger; to be threatened
@@ -1988,6 +1991,7 @@ matagumpay	successful
 matahimik	quiet
 matakot	to be afraid
 matakpán	to hide; to block (takíp)
+matalas	sharp (lit/fig), keen; acute; sharp (ref. to the intellect or hearing)
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matamaan	to come against with force
@@ -2516,6 +2520,7 @@ palay	unhusked rice grains
 palaya	free
 palayain	to free someone/something
 palayAn	rice field, rice paddy
+paláyaw	nickname, sobriquet
 palayo	getting further away
 palengke	a traditional marketplace, especially a wet market
 paliban	postponement
@@ -2627,7 +2632,7 @@ paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
 paratang	accusation, allegation
-parati	always (dati)
+parati	always, all the time, again and again, perennial, often (dati)
 pare	a term for one's male buddy / friend; male best friend; used to refer to an unknown person of the same age
 pareho	both; similar, identical, equal, the same (literally, as in "the same place")
 pares	even, paired, similar, equal to, like
@@ -3002,6 +3007,7 @@ siyá nawâ	amen
 siyá	he, she, it; sufficient; pleasure
 siyangá	of course, indeed
 siyangá palá	by the way
+soberanya	sovereignty
 sóbra	too much, excessive; intense
 spongklong	stupid (slang, new)
 subali	objection or reservation; but; only
@@ -3164,7 +3170,7 @@ tanggap	to accept, receive (in-, ma-, mag-)
 tangGI	refusal, denial, negation
 tanghál	to be shown, on display
 tanghalan	exhibition
-tanghali	noon
+tanghali	noon; to be late in the morning
 tangì	only, particular; exceptional, special (syn. bugtóng)
 tangkád	tallness and slenderness
 tangkaíng	to attempt something
