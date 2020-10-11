@@ -15,6 +15,7 @@ ahon
 akit
 ako
 aksaya
+aksyon
 akusa
 akyat
 ala
@@ -50,6 +51,7 @@ anyo
 apak
 apat
 apaw
+apela
 api
 apo
 apoy
@@ -62,6 +64,7 @@ aresto
 ari
 arte
 asa
+asam
 asar
 asawa
 asikaso
@@ -100,6 +103,7 @@ bait
 baka
 bakas
 bakasyon
+bakod
 bakuna
 bala
 balak
@@ -120,6 +124,7 @@ bangon
 banta
 bantay
 baon
+bara
 baril
 basa
 basâ
@@ -144,6 +149,7 @@ benta
 bida
 bigat
 bigay
+bighani
 bigkas
 bigkis
 bigla
@@ -171,12 +177,14 @@ buga
 bugbog
 buhat
 buhay
+buhol
 buhos
 buka
 bukas
 bukid
 buko
 bukod
+bula
 bulag
 bulok
 bulong
@@ -211,6 +219,7 @@ dalaw
 dalawa
 daldal
 dali
+dalita
 dalo
 daloy
 dama
@@ -227,6 +236,7 @@ daos
 dapa
 dapat
 dasal
+dati
 dating
 daya
 dayo
@@ -234,6 +244,7 @@ depensa
 desisyon
 digma
 diin
+dikdik
 dikit
 dikta
 dilat
@@ -263,6 +274,7 @@ dunong
 dura
 durog
 dusa
+duwag
 edad
 gaan
 gabi
@@ -287,20 +299,24 @@ gastos
 gata
 gawa
 gawad
+gawi
 gaya
 gayat
 gayon
+gayuma
 giba
 giit
 gilid
 gipit
 gisa
 gising
+gitgit
 gitna
 gugol
 guhit
 gulat
 gulo
+gulong
 gunita
 gupit
 gusto
@@ -339,6 +355,7 @@ hayop
 higa
 higit
 higpit
+hikab
 hikayat
 hila
 hilera
@@ -347,7 +364,9 @@ hiling
 hilo
 hilot
 himatay
+himbing
 hina
+hinala
 hinayang
 hindi
 hinga
@@ -365,14 +384,17 @@ hiwalay
 hiya
 hiyaw
 hubad
+hubog
 hudyat
 hugas
+hugis
 hukay
 hula
 huli
 hulma
 hulog
 husay
+husga
 iba
 ibig
 igting
@@ -380,6 +402,7 @@ ihaw
 ihi
 ikli
 ikot
+ilag
 ilalim
 ilan
 ilaw
@@ -399,6 +422,7 @@ intindi
 ipit
 ipon
 iral
+irap
 isa
 isda
 isip
@@ -411,6 +435,7 @@ iyon
 kaba
 kabit
 kagat
+kahulugan
 kaibigan
 kaila
 kailan
@@ -420,6 +445,7 @@ kait
 kalap
 kalat
 kaliwa
+kalkula
 kalma
 kamay
 kamit
@@ -438,6 +464,7 @@ kasa
 kasal
 katawan
 katha
+kati
 katok
 kaunti
 kaya
@@ -449,6 +476,7 @@ kiliti
 kilo
 kilos
 kinabang
+kinig
 kipot
 kiskis
 kita
@@ -480,6 +508,7 @@ laga
 laganap
 lagay
 lagi
+laglag
 lago
 lagot
 lahad
@@ -498,6 +527,7 @@ lalaki
 lalim
 laman
 lamang
+lambot
 lamig
 lampas
 landi
@@ -513,6 +543,7 @@ laro
 lasa
 lasing
 lason
+laswa
 lata
 latag
 lathala
@@ -526,6 +557,7 @@ layon
 liban
 libang
 libing
+libog
 libot
 ligaw
 ligaya
@@ -566,6 +598,7 @@ lubog
 lubos
 lugod
 luha
+luhod
 luma
 lunas
 lundag
@@ -587,6 +620,8 @@ mali
 mana
 maneho
 mangha
+manhid
+manman
 masid
 mata
 matay
@@ -623,6 +658,7 @@ pait
 pako
 pala
 palad
+palakpak
 palit
 palo
 palpak
@@ -632,6 +668,7 @@ panatag
 panaw
 pangalan
 panganib
+pansan
 pansin
 pantay
 papel
@@ -643,6 +680,7 @@ pasa
 pasada
 pasan
 pasiya
+paskil
 pasko
 paso
 pasok
@@ -651,6 +689,8 @@ patak
 pataw
 patay
 patong
+paubaya
+pawis
 payag
 payapa
 payat
@@ -663,6 +703,7 @@ pila
 pili
 piling
 pilit
+pinsala
 pinta
 pirma
 pisil
@@ -690,6 +731,7 @@ ramdam
 regalo
 rehistro
 repaso
+respeto
 saan
 sabak
 sabay
@@ -698,6 +740,7 @@ sabik
 sabit
 sabog
 sabwat
+sadsad
 sadya
 sagi
 sagot
@@ -707,6 +750,7 @@ saka
 sakal
 sakay
 sakit
+saklap
 sakop
 saksak
 saksi
@@ -722,6 +766,8 @@ salubong
 salungat
 sama
 samantala
+samba
+samo
 sampa
 sampal
 sampay
@@ -738,6 +784,7 @@ sara
 sarap
 sari
 sarili
+sariwa
 satsat
 sauli
 sawa
@@ -748,6 +795,7 @@ sayang
 sayaw
 saysay
 selos
+seryoso
 sibak
 sigaw
 sigla
@@ -816,6 +864,7 @@ tagpo
 taguyod
 tahi
 tahimik
+tahol
 taka
 takas
 takaw
@@ -826,10 +875,12 @@ takot
 tala
 talaga
 talakay
+talas
 tali
 talik
 talino
 talo
+talon
 talsik
 tama
 tamad
@@ -858,6 +909,7 @@ tapat
 tapon
 tapos
 tapyas
+taranta
 tatag
 tatak
 tatlo
@@ -945,6 +997,7 @@ ulat
 ulila
 ulit
 ulo
+umaga
 umpisa
 una
 unawa
@@ -954,6 +1007,7 @@ upo
 uri
 urong
 usap
+usig
 usisa
 usog
 utang

@@ -67,14 +67,15 @@ agas	miscarriage
 agaw	to snatch, grab
 agos	flow (lit/fig)
 akalà	idea, belief/thought/assumption (often incorrect)
+ákay	led by the hand; pamamatnubay o pag-alalay sa paglalakad ng isang tao (akáyin, mag-ákay, umákay)
 aklasan	going on strike from work
 aklat	a book
 ako man	I, too
 akto	doing, acting, performing, behaving, carrying out (actor)
 akUin	to take responsibility for something; to take over something (inakò, inaakò, aakuin)
 akyát	rise, climb
-akyát, baba	“up and down”
-akyat-bahay	“climb-house” = burglar
+akyát, baba	up and down
+akyat-bahay	climb-house = burglar
 alaála	memory, recollection; keepsake, souvenir; token
 alabok	dust
 alaga	to care for, to protect
@@ -207,6 +208,8 @@ bagsík	cruelty, severity, fierceness
 baguhin	to change
 bagyó	storm, typhoon; successful
 bahâ	flood
+bahág	G-string (loin-cloth)
+bahág-hari	rainbow
 bahagi	part, fraction, segment
 bahaginan	to share, give a part of something
 bahagya	slight, little, scant
@@ -264,6 +267,8 @@ bangís	savageness, viciousness, fierceness, ferociousness
 bangkâ	a type of outrigger boat (mag, mang, pa)
 bangkay	corpse
 bangketa	sidewalk, footpath
+bángko	bank
+bangkô	bench
 bangon	to arise, get up, rise up
 bangús	milkfish
 bansâ	nation, state, country
@@ -393,6 +398,7 @@ búhos	pour
 bukás	open
 búkas	tomorrow
 búkid	farm, country side
+buklód	hoop around a barrel; put together, unity, alliance
 bukód	separate, apart, in addition to
 búkol	lump, tumor, swelling
 buktót	corrupt, very wicked, atrocious
@@ -1025,6 +1031,7 @@ kahati	shareholder; share (hati)
 kahéra	female store cashier
 kahéro	male store cashier
 kahilIngan	a request, claim, application
+kahiman	even though; although
 kahinAan	weakness
 kahina-hinala	suspicious; dubious (kahinahinala)
 kahingían	requirement
@@ -1203,6 +1210,7 @@ kasintahan	someone you’re in a romantic relationship with
 kasiyahán	satisfaction, pleasure, zest (siyá)
 káso	lawsuit; case
 kasosyo	business partner
+kastígo	reprimand, rebuke; originally meant punishment
 kasundo	someone you get along with; agreeing
 kásunduan	agreement, deal, compromise, covenant, bargain, treaty, concord, contract, compact, pact
 kasunod	next / the next; following; something that follows, result
@@ -1240,7 +1248,7 @@ katulong	a helper, aid, attendant
 katUmbas	an equivalent
 katunAyan	truth, actuality, fact
 katúpáran	accomplishment, fulfillment
-katutubo	native, indigenous, ethnic (tubo, syn: taal)
+katutubò	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 katuturán	significance, value, use, utility (this is a root)
 katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
@@ -1260,6 +1268,7 @@ kawat	stealing, theft (Visaya)
 kawatán	thief
 kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
 kawáy	waving of the hand
+kawáyan	bamboo
 káya	ability, competence; able, is able
 kayâ	that's why, therefore, consequently, hence; perhaps, I wonder if (idiom to express doubt, question or surprise)
 kaysá	than, rather than
@@ -1282,6 +1291,7 @@ kinakapatid	step-sibling, godsib, god-sibling
 kinaladkad	dragged
 kinamay	used hands on something
 kinamayan	to shake hands with
+kinastigo chastised, reprimanded severely
 kiníg	something heard
 kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
@@ -1296,6 +1306,7 @@ konsiyénsiyá	conscience
 koponán	a team
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
+kugon	a type of tall grass
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
 kukunin	will take/get
 kúlang	deficient, lacking, inadequate
@@ -1902,6 +1913,7 @@ manirahan	to live for a while, dwell
 maniwala	to believe, trust (tiwala)
 manlamig	to be cold to someone
 manliligaw	suitor
+manloob	rob, steal; raid and rob with violence
 manonood	spectator
 manoód	to watch
 manukso	to tempt; to tease
@@ -1976,7 +1988,7 @@ masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
 maski na	even if/then/though
-maskí	although, even though, nevertheless, however, whether, aside from; even, mere
+maskí	although, even though, nevertheless, however, whether, aside from; even, mere (sp. "mas que", bagaman)
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)
@@ -2079,6 +2091,7 @@ nadalâ	has become wary
 nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
 nag-aalala	worrying
 nagawa	an action done
+nagbubuklod	binding
 nag-iipon	saving
 nag-íisá	alone; only; solitary; solo; single; unique
 nagíng	became
@@ -2260,6 +2273,8 @@ ngiti	a smile
 ngunit	yet/but, on the other hand
 nilalamán	content(s) (noun, laman)
 nilito	was confused by something
+ningas	flame
+ningas-kugon	quickly going up in flames after starting something
 ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
 niyog	coconut
@@ -2501,6 +2516,7 @@ palad	palm of the hand; destiny, luck, fortune, fate
 palagáy	opinion, estimation, estimate, assumption (lagay)
 palagian	regular, steady (lagi)
 palainom	habitual drinker (pala-)
+palakâ	frog
 palakaibigan	friendly (pala-)
 palakasan	a competition to see who’s stronger
 palakasan	a strength competition
@@ -2778,7 +2794,9 @@ purong-puro	very pure
 pusa	cat
 pusakal	street cat
 pusang kalye	street cat
+pusit	squid
 puslít	smuggling, low-key escape: squirt, spurt
+pusod	navel, bellybutton; hub; deepest part of a body of water
 puspusan	fully, completely, thoroughly
 puspusan	to complete, make complete
 puta	used as general curse (fuck, etc.), literally: whore
@@ -2881,6 +2899,7 @@ salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 salamuha	act of mingling with people, hobnobbing, talking intimately with
 salanta	badly injured or damaged, weakened
 salapi	money, currency
+salawal	underwear
 salbáhe	naughty
 sali	participation
 saligang-batas	national constitution
@@ -2998,6 +3017,7 @@ sirâ	broken
 siraulo	brain-broken (crazy)
 sisánte	dismiss, sack, fire
 sisi	remorse
+sisiw	chick, a young chicken; easy (slang)
 sitá	questioning, interrogating
 sitahín	to question or interrogate someone
 sitserya	junk food (typ pron "chitcherya")
