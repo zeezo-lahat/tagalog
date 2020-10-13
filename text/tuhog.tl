@@ -3,6 +3,8 @@
 TUHOG
 
    tusok sa gitna ng mga bagay upang mabitbit nang sama-sama
+   tú·hog
+
    tuhugin
    to skewer (many things)
 
@@ -24,6 +26,18 @@ TUHOG
    tuhugin
    to place beads on a string
      __________________________________________________________________
+
+MGA KAHULUGAN SA TAGALOG
+
+   túhog: sunod-sunod na pagpasok sa talì, gaya ng abaloryong gagawing
+   kuwintas
+
+   túhog: pagtusok nang tagúsan, gaya sa baboy o isdang nais na ihawin o
+   sa malakas na tama ng sibat sa biktima
+
+   túhog: pagtusok ng karayom na may sinulid gaya sa paghihilbana
+
+   itúhog, magtúhog, tuhúgin
 
    Mga may kaugnayang salita: duro, tindag
 
