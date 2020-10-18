@@ -33,6 +33,9 @@ PIKON
    Napipikon na ako sa iyo.
    I’m getting ticked off at you already.
 
+   pinipikon
+   ticking off (someone)
+
 KAHULUGAN SA TAGALOG
 
    pikón: madalîng magálit o madalîng pagalítin

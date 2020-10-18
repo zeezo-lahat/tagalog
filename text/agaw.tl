@@ -2,9 +2,8 @@
 
 AGAW
 
-   sunggab, dakma, sakmal
    agaw
-   to snatch, grab
+   to snatch, grab sunggab, dakma, sakmal
 
    agaw-tulog
    half-asleep
@@ -14,20 +13,17 @@ AGAW
      __________________________________________________________________
 
    nag-aagaw-buhay
-   “snatching life”
-   in critical (medical) condition
+   “snatching life” in critical (medical) condition
 
    nag-aagaw-dilim
-   “snatching darkness”
-   twilight
+   “snatching darkness” twilight
      __________________________________________________________________
 
    inagawan
    to deprive
 
    inagaw ang buhay
-   snatched from death
-   saved from death
+   snatched from death saved from death
      __________________________________________________________________
 
    mang-aagaw

@@ -17,19 +17,16 @@ ABOT
    hand over
 
    abot dili
-   could hardly reach
-   (in a critical or serious condition)
+   could hardly reach (in a critical or serious condition)
 
    abot-agaw
-   hovering between life and death
-   (exhausted)
+   hovering between life and death (exhausted)
 
    abot-kisap, abot kurap
    continuous winking
 
    pag-aabot ng kamay
-   “reaching out a hand”
-   = offering help
+   “reaching out a hand” = offering help
 
    abot-kamay
    within reach
@@ -42,9 +39,7 @@ ABOT
    overtake
 
    Hindi ko sila naabutan.
-   I wasn’t able to overtake them.
-   I couldn’t catch up with them.
-   I missed catching them (at a place).
+   I wasn’t able to overtake them.  I couldn’t catch up with them.  I missed catching them (at a place).
      __________________________________________________________________
 
 MGA KAHULUGAN SA TAGALOG

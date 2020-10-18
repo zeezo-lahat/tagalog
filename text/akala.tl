@@ -3,6 +3,7 @@
 AKALA
 
    hinuha, hagap, hinagap, idea, haka; pagkakaalam, sariling palagay
+
    akalà
    idea, belief
 

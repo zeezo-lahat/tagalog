@@ -3,6 +3,7 @@
 ABULOY
 
    tulong, adya, ambag, kontribusyon; saklolo, sokoro; sustento, tustos
+
    abuloy
    alms
 

@@ -4,6 +4,7 @@ AKYAT
 
    panhik, sampa; pagtaas; pag-ahon; kubabaw, alapaw, daplas, adyo;
    (patalinhaga) unlad, asenso, taas, tayog
+
    akyát
    rise, climb
 

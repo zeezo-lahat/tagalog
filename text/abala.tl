@@ -4,6 +4,7 @@ ABALA
 
    Notice the different stress on the syllables on this word, depending on
    whether it’s used as an adjective or noun.
+
    abala, adj
    busy, occupied with something
 

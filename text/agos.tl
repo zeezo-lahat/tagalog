@@ -2,9 +2,8 @@
 
 AGOS
 
-   Takbo o galaw ng tubig at iba pang likido.
    agos
-   flow (of water)
+   flow (of water) Takbo o galaw ng tubig at iba pang likido.
 
    agos ng buhay
    flow of life

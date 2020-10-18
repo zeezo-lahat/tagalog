@@ -3,6 +3,7 @@
 ABERYA
 
    from the Spanish avería, meaning “damage, breakdown, malfunction”
+
    aberya
    mechanical trouble
 
@@ -23,6 +24,7 @@ ABERYA
 
    Walang aberya sa biyahe.
    No breakdowns during the trip.
+
    No snags during the trip.
 
    Walang aberyang nangyari sa biyahe.

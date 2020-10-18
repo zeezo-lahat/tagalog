@@ -173,6 +173,7 @@ asim	sourness
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
+atim	tolerance, bearing with, sufferance
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
 awatin	pacify or separate quarreling persons
@@ -184,6 +185,7 @@ awitin	to sing
 ayain	to invite someone
 ayaw	don't/doesn't want
 ayuda	aid; something supplementary
+ayúno	fasting (not eating)
 ba	yes/no question former; used to emphasise question/ask for detail; also affirmation as "sige ba", "oo ba"
 baba	lowness; to descend
 bababa	will come down, descend, get off (as vehicle)
@@ -354,6 +356,7 @@ binatA	bachelor, young man
 binati	greeted
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
+bingí	deaf
 binigkas	pronounced
 binilang	to count
 binti	leg, especially the calf part
@@ -496,6 +499,7 @@ dami	amount, quantity; lots / a lot of
 damit	clothing, dress
 damo	grass
 damot	stinginess, selfishness
+dampâ	bahay ng mahirap, karaniwang maliit at gawâ sa marupók na materyales
 dampot	act of picking up with the hand
 dánas	experience
 dapâ	to trip, fall over; get down!
@@ -575,6 +579,7 @@ dumulas	to slip
 dumulóg	to appear before someone, to turn to someone for help
 dumumí	to defecate
 dúnong	knowledge, wisdom, learning, education
+dupók	fragility
 duwAg	coward
 edad	age
 estero	estuary
@@ -644,6 +649,7 @@ giri	affected strutting around
 gisa	to sauté, stir-fry
 gíting	heroism
 gitna	middle, center, midst
+gíwang	vacillation, swaying, wobbling
 goma	rubber
 grabe	wow!, intense, extreme, wild/crazy, etc..
 granada	pomegranate; hand grenade
@@ -848,6 +854,7 @@ igalang	to honor, respect
 igalaw	to move something
 igiit	insist on; persist; obtrude; force one’s way (iginiit, iginigiit, igigiit)
 igisa	to sauté/stir-fry something
+igláp	brief moment (syn. saglit)
 ihain	to offer something; to put food on a table; to serve food; to sacrifice something. <inihain, inihahain, ihahain>
 ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
@@ -865,6 +872,7 @@ ikalimampú't isá	fifty-first
 ikapit	to hold on to or grasp something
 ikasawî	to cause severe misfortune or death
 ikáw ay	you are
+ikay	you are (ikáw ay)
 ikinalulungkot	apologize (formal, "I am sad to say..")
 ikulóng	to cage, shut in
 ilaán	to devote something; to dedicate something
@@ -1082,6 +1090,7 @@ kalapit	person or place nearby; neighboring, nearby
 kalaro	playmate, play partner
 kalas	detached; unstitched; freed from (e.g. betrothal)
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
+kalaw	hornbill (bird)
 kalawakan	space, especially referring to outer space
 kalawang	rust
 kalayaan	freedom
@@ -1161,6 +1170,7 @@ kapUtik	muddy
 kapwa	fellow human being, neighbor
 kapwang	both, all (people)
 kapwa-tao	relations with others
+kara	face or head side of a coin; chatter of monkeys; stamping of feet
 karagatán	ocean (dagat)
 karahasán	violence
 karalitaan	misery, poverty
@@ -1306,6 +1316,7 @@ konsiyénsiyá	conscience
 koponán	a team
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
+kúbo	hut
 kugon	a type of tall grass
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
 kukunin	will take/get
@@ -1338,6 +1349,7 @@ kung	if, whether (hypothetical, non-actual/possible condition, though used same 
 kungsabAgay	"as a matter of fact"
 kunin	get, take
 kunwari	pretend (also kunyari)
+kupas	faded, out of date, out of use
 kurIpot	stingy
 kusà	deliberately, voluntarily
 kusang palo	self-starter
@@ -1609,6 +1621,8 @@ magbago	to change, reform, mend
 magbanat	to "go hard"
 magbawas	to reduce
 magbigti	to hang or strangle oneself
+magbenta	to sell something
+magbilí	to sell (no longer widely used, favor magtinda or magbenta)
 magbitiw	to resign; to utter ("let go" words) (magbitaw)
 magbukid	to farm
 magbukod	to set aside, put to one side
@@ -2301,6 +2315,7 @@ paarî	possessive
 pababa	downward, "and under"?; something ordered to be brought down
 pabago-bago	changing
 pabaláng	hindi maayos (baláng)
+pabalík-balík	recurring; coming back again and again; back and forth
 pabayâ	without care or attention, careless, negligent (walang-ingat, bulagsak)
 pabayaan	to leave something/someone alone, not bother or pay attention to
 pabrika	factory (pagawaan)
@@ -2551,6 +2566,7 @@ paliwanag	explanation
 palpak	failure, badly done - cannot be redeemed or justified
 palso	false; deceitful; spurious
 paltik	homemade gun; a blow from a whip or lash; a slingshot
+pamagát	title
 pámahalaán	government (pang-bahala-an)
 pamalagiin	to stabilize
 pamamagitan	intercession, intervention, mediation
@@ -2756,6 +2772,7 @@ pintíg	throb, pulse
 pintô	door
 pintuan	doorway
 pintúra	paint
+pípi	mute, unable to speak; utal, umid, apaw; hindi makapagsalita
 pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
 pisngí	cheek
@@ -2887,6 +2904,7 @@ sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
 saklolo	succor, aid, help
+saknong	stanza; section of a ricefield assigned to one for harvesting
 sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
 sakote	catch, arrest
 saksí	witness
@@ -2936,7 +2954,7 @@ sangkataúhan	mankind, the public
 sangkót	implicated, linked
 sanglinikha	universe, all creatures
 sanhi ng	caused by
-sanhi	cause, motive, reason
+sanhî	cause, motive, reason
 sapa	small stream, brook
 sapagkAt	because, since
 sapak	hit, punch, smack, beat
@@ -2969,6 +2987,8 @@ selos	jealousy
 sibák	chopping wood with an axe. slang for firing someone.
 sibuyas	onion
 sidlan	to fill a container
+sigà	bully
+sigâ	blaze; bonfire
 sigaw	shout, scream, yell
 sige na	"go ahead"
 sige	go on, go ahead, proceed, continue part. go on, proceed, continue
@@ -3124,6 +3144,7 @@ tagpuan	meeting place, rendezvous
 tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
+tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
@@ -3380,6 +3401,7 @@ tuwi	every, each time, always conj. whenever tuwi conj. (+ ng) whenever, everyti
 tuwíd	straight, erect, direct
 tuwing	every time, every now and then
 ubó	cough
+ubrá	possible, maybe; maaarì
 ugalì	attitude, behavior, disposition, nature, character, manners, mannerism, habit
 ugnay	connection, relation, relevance
 ugnayan	connection, links, interdependence

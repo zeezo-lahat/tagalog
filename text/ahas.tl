@@ -4,6 +4,7 @@ AHAS
 
    pronounced AH-hahs
    white snake
+
    á·has
    snake
 
@@ -11,19 +12,16 @@ AHAS
    You’re a snake.
 
    ahas sa damo
-   snake in the grass
-   (a treacherous person)
+   snake in the grass (a treacherous person)
 
    ahas na ulupong
-   cobra snake
-   = dangerous
+   cobra snake = dangerous
 
    Ang sawa ay isang malaking ahas.
    A python is a large snake.
 
    inahas
-   to be infested with snakes
-   = to be attacked by a snake
+   to be infested with snakes = to be attacked by a snake
 
    Inahas niya ang asawa ko.
    She stole my husband.

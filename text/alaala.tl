@@ -3,6 +3,7 @@
 ALAALA
 
    frequently misspelled with a hyphen as ala-ala
+
    alaála
    memory, keepsake, souvenir
 

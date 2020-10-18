@@ -2,6 +2,16 @@
 '''Input .tl files, output tagalog phrase -> english translations
 reads from stdin, writes to stdout
 
+also catch:
+    lines with ":.+" surrounded by blank lines are <word/phrase> : <def>
+
+    lines with ":.+" preceded by blank line and followed by non-blank line(s) are <word/phrase> : <def 1> <def 2>
+
+    lines beginning with '^ *=' are continuation lines
+
+    if there are 4 consecutive lines, it is 
+    if there are 3 consecutive lines, it is <phrase/word> <def part 1> <def part 2>
+
 example input:
 
 LIWANAG
