@@ -23,11 +23,13 @@ def ()
   cat roots.txt | tgrep.py "^$* \("
 }
 
-_defs ()
+defsagain () # read stdin and pass the final word from each line to def.  feed me input from "ht"
 {
-  for werd in $(sed 's/.* *//'); do
-    def werd
-  done
+        while :; do
+          read stuff || return
+          _t=${stuff/* /}
+          def $_t
+        done
 }
 
 tgw ()

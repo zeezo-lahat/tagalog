@@ -202,7 +202,7 @@ alám ko (alam) [phrase] I know
 hindí ko alám (alam) I don't know
 kaalamán (alam) ka_an [noun] knowledge; information; intelligence; idea; statistics
 kaalám-alám (alam) having any knowledge (of something)
-kinalaman (alam) kina_an [noun] connection to something; regarding; a share (of something); knowledge about something
+kinalaman (alam) kin_an [noun] connection to something; regarding; a share (of something); knowledge about something
 lákompaké (alam) [expression] I don't care; * short for "wala akong pakialam"
 maalam (alam) [adjective] knowledgeable; wise; well-versed
 makaalám (alam) maka_ [verb] to be able to know
