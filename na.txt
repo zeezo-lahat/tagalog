@@ -1,33 +1,149 @@
-from tagalog-dictionary.com
-
-adv:
-
-1. now, already. 
-   - Ako na.	It's my turn to do it now, or I'll do it instead of someone else.
-
-2. after nouns or pronouns: acts as an emphatic marker.
-   - Bukas na.	Let it be tomorrow.
-   - Si Maria na.	Let it be Maria's turn.
-
-3. after verbs: if in the past tense form, denotes completion of action expressible
-   in the past or present perfect in English.
-   - Nagsipilyo na siya. He has already brushed (his teeth).
-
-4. if in the infinitive form or future form, denotes now, right away, immediately, soon.
-   - Magsipilyo ka na. Brush (your teeth) now.
-   - Papasok na ako. I'm going to school now.
-
-5. If after the verb roots, denotes completed action.
-   - Bukas na. It's already open.
-   -  Tapos na. It's already finished.
-
-ligature: 
-
-connects modifier and word modified, takes the form -ng when the word it
-   follows ends in a vowel sound.
-   - Mabait na bata or Batang mabait. Good child.
-
-particle with sa/kay:
-
-   marks nouns indicating position, location, possession of
-   something; -ng when the word it follows ends in a vowel sound
+Uuwî na akó.	I'm going home now. / I will be going home now.
+Tayo na.	Let's go now. (expression)
+Busóg na akó.	I'm full now. / I'm full already.
+Kumain ka na ba?	Have you eaten? / Did you already eat?
+Nakita mo na?	Have you seen it (already)?
+Kung bíbilhín mo, bilhín mo na.	If you're going to buy it, buy it already.
+Naitalâ na sa kasaysayan ang kasamaán ng mga diktadór.	History has recorded examples of dictators' atrocities.
+Silá ang grupo ng mga manunulát na dati kong pinamunuan .	They're the group of writers I used to lead.
+Hiníhilíng ko kay Patrice na patawarin na niyá akó.	I'm asking Patrice for her to forgive me.
+Hindî ko na kailangan iyón.	I don't need that any more.
+Sinísibák na ni Gary ang mga napulot niyáng kahoy.	Gary is now chopping the woods he picked.
+Sige na, umuwí ka na.	OK, go home now.
+Ináabangán ko ang súsunód na pelíkulá ni James Bond.	I am anticipating the next James Bond movie.
+Marami siláng pagkain na nátirá.	They have so many leftovers.
+Tulungan mo silá na gampanán ang malakíng trabahong itó.	Help them accomplish this great task.
+Nilinaw ni Amanda na walâ siyáng alám sa pangyayari.	Amanda clarified that she had no idea about the event.
+Sagután ang maiklíng pagsusulit na itó para malaman kung handâ ka na.	Take this short quiz to see if you're ready.
+Nangunguna na si Venus sa botohán.	Venus is now leading the election.
+Maáabutan ko pa kayâ ang edád na isáng daán?	Would I still reach the age of one hundred?
+Ayaw ni Kate na masaktán.	Kate doesn't want to get hurt.
+Ináaresto na ngayón ang masamáng polítiko.	The evil politician is being arrested right now.
+Kamuntik ko nang maiwan ang ID ko.	I almost forgot to bring my ID.
+Marami ka na bang mga bansáng naráratíng?	Have you already been to many countries?
+Nakita mo na?!	Did you see it now!? / See? I told you so!
+Naiwasan ni James na magbayad ng multá.	James was able to avoid paying a fine.
+Sino ang gáganáp sa papél na Tom Sawyer?	Who will perform the role of Tom Sawyer?
+Hulí na.	It's late now. / It's too late.
+Gawín mo na!	Do it!
+Bumangon ka na at tanghalì na.	Get up now as it's already late (in the morning).
+Gágampanán ko ang anumáng atas na ibigáy sa akin.	I will perform any tasks that I may receive.
+Umalís ka na kung ayaw mo akóng maasár sa iyó.	Leave if you don't want me to be mad at you.
+Sagután mo ang sumúsunód na quiz.	Take the following quiz.
+Matátagpuán ko pa ba ang tunay na pagmamahál?	Will I ever find true love?
+Idinadaos na ang Book Fair.	The Book Fair is now being held.
+Ayokong malaman na ginágastá mo sa mga bisyo mo ang ipinápadalá kong pera.	I do not want to find out that you are spending on your vices the money I send you.
+Iniháhayág na nilá ang pagdatíng ng mga panauhin.	They're now announcing the arrival of the guests.
+Magbago ka na.	Amend your ways.
+Maliligò na akó.	I will shower now. / I will take a shower now.
+Mahalagá ang papél na ginágampanán ng mga iná sa bahay.	Mothers have a big part to play at home.
+Naalala ko na!	Now I remember! / I remembered it now!
+Naisip ko na!	Now I know/remember!
+May ibinebenta na alahas si Rose.	Rose is selling a piece of jewelry.
+Nauná na akó.	I went / did something ahead of you.
+Umiiral na ang kautusáng iyán magmulâ pa noóng 1970s.	That order had been in operation since the 1970s.
+Iginígiít ng amá ni Dan na tapusin niyá ang pag-aaral.	Dan's father insists that he finish school.
+Sumulat akó ng liham sa alkalde para hilingín na may dumalaw sa lugár namin.	I wrote a letter to our mayor to ask for someone to visit our place.
+Sumasabak silá sa marahás na labanán.	They're plunging into a violent battle.
+Naisip ko ang mga batà sa ward na kinabilangan ko.	I thought of the children in the ward in which I had lived.
+Pumilì ka na ba?	Have you made your choice?
+Kaya mo bang magpahayág ng mahihirap na kaisipán at ideya?	Can you convey complex thoughts and ideas?
+Huwág na tayong tumulóy.	Let's not go anymore.
+Tumulóy na akó.	I let myself in.
+Humihintô lang silá ng inuman kapág ubós na ang beer.	They only stop drinking when they run out of beer.
+Nakakain ka na ba?	Have you eaten yet? / Have you been able to eat yet?
+Áalís na akó para makabalík akó kaagád.	I'll leave now so I can be back soon.
+Sinibák ko na ang lahát ng kahoy.	I chopped all the wood already.
+Ipóst mo na ang komento mo.	Post your comment already.
+Tamà na.	It is all right. / That's enough.
+Nainís akó nang igiít ng nanay ko na magtrabaho akó.	I was annoyed when my mother insisted that I get a job.
+Kinumpirmá ng alkalde na suspendido ang mga klase.	The mayor confirmed the suspension of classes.
+Siyá na ang súsunód na sasabak sa entablado.	He's the next one to go on stage.
+Natuklasán ko na ang gamót sa aking sakít.	I have already found the cure to my illness.
+Iláng taón ka na?	How old are you (now)?
+Sinubukan ng koponán na umiskór sa hulíng dalawáng minuto.	The team tried to score in the last two minutes.
+Aprubahán mo na ang mungkahi ko.	Approve my suggestion already.
+Naitalâ na ang kaniláng mga boto.	Their votes have been recorded.
+Tutukuyin nilá ang mga bagay na kailangan nilá sa kaniláng kasál.	They will specify the stuff they need for their wedding.
+Huwág mo nang alamín.	Don't stick your nose into it anymore.
+Iniisip niyá kung minsan na mas mabuti pang mamatáy kaysa sa mabigô.	Sometimes he thinks that dying would be better than failing.
+Naíinís ka na ba sa akin?	Am I beginning to get on your nerves?
+Itinuturò na ba ang Calculus sa high school?	Is Calculus already being taught in high school?
+Aalís na akó.	I'm leaving now. / I'm going to leave now.
+Lumálabás na hindî naaresto si Janet.	Janet apparently avoided arrest.
+Nakákasama ko na siyá sa mga proyekto.	I've been with him in projects.
+Mabíbilí na ang bagong album ni Taylor Swift.	Taylor Swift's new album is now out in the market.
+Napagtantó ni Vanessa na nagseselos siyá kay Arianne.	Vanessa realized she was jealous of Arianne.
+Pinunô ni Bea ang isip ng malinis na kaisipán.	Bea filled her mind with clean thoughts.
+Naintindihán ko na.	Now I understand.
+Sinusulat mo na ba ang iyóng mga plano?	Are you already writing your plans?
+Gustó ni Beth na magbenta ng mga alahas.	Beth would like to sell jewelry.
+Napápansín kong naaasár na si Leah.	I'm noticing that Leah is already frustrated.
+Nagpahayág si Antonio ng nakákatakot na mensahe.	Antonio declared a frightening message.
+Nasa bahay na si John.	John is at home now. / John is at home already.
+Kailangan mo nang sulatin ang iyóng nobela.	You need to write your novel already.
+Umalís na si John.	John already left.
+Nagúgustuhán ko na dito.	I am beginning to like it here.
+Masayá akó kapág ipinápamigáy ko ang mga bagay na hindî ko na kailangan.	I'm happy when I gave away the stuff that I no longer need.
+Huwág tayong makuntento sa kung násaán na tayo.	Let's not be content with where we are.
+May kakilala akóng nagyabáng na mayaman siyá.	I've known someone who boasted that she was rich.
+Salamat pô. Huwág niyó na pô akó suklián.	Thank you sir. I don't need change. (Lit. Don't give me change)
+Nakahandâ na.	It's ready.
+Hindî ko na ginágastá ang ipon ko sa mga bagay na hindî ko kailangan.	I am no longer spending my savings on items I do not need.
+Mukháng nakalimot na si Bert na sumulat sa atin.	It looks like Bert has already forgotten to write to us.
+Inakusahán ba kitá ng mga bagay na malayò sa katotohanan?	Did I accuse you of things that are far from the truth?
+Hindî alám ni Megan na lálagnatín kinabukasan ang anák niyá.	Megan didn't know that her kid would contract a fever the next day.
+Húhulaan ko na lang ang tamáng sagót!	I'll just guess the correct answer!
+Huwág ka nang umangal.	Don't complain / protest anymore.
+Paskó na.	It's Christmas now.
+Hindî na Paskó.	It's not Christmas anymore.
+Alám ko na.	I know now.
+Hindî ka ba nanghíhinayang sa oras na nauubos mo sa Facebook?	Don't you regret using up so much time on Facebook?
+Minsan tanghalì nang nakákapasok si Jack sa opisina.	At times Jack is late in going to the office.
+Napag-usapan na ba ninyó ang gágawín ninyó sa Linggó?	Have you already talked about what you will do on Sunday?
+Nabanggít nga pala ni Alice na bakâ hindî siyá makapuntá sa kasál mo.	By the way, Alice mentioned that she may not be able to go to your wedding.
+Bilisán natin at bábagsák na ang ulán.	Let's hurry up as the rain is just about to fall.
+Akalà ko hihintô ka na ng paninigarilyo nung isáng taón.	I thought you would already stop smoking last year.
+Nakabalík na ba si Anne galing sa eskuwela?	Is Anne already back from school?
+Nakíkiusap akó sa iyó na patawarin mo na akó.	I am begging you to please forgive me.
+Umaasa si Tom na kikita siyá nang malakí sa kaniyáng bagong negosyo.	Tom expects to make big money in his new business.
+Balità ko magtatayô ng dormitoryo na malapit sa páaralán namin.	I heard that they will put up a dormitory near our school.
+Inihahandâ ko na ang sarili ko sa puwedeng mangyayari.	I am already preparing myself for what might happen.
+Gustó ni Susan na magtayô ng isáng maliít na tindahan dito.	Susan would like to put up a small shop here.
+Pinápaupô na tayo kasí mag-úumpisá na ang programa.	They are already telling us to take our seats because program is now about to start.
+Mauná na kayó at hahabol na lang akó.	You go ahead and I will just catch up with you.
+Magtagál kayâ itóng murang cell phone na nabilí ko?	I wonder if this cheap cell phone that I bought would last long.
+Humahabol na si Dave sa taás ng tatay niyá.	Dave is almost as tall as his dad already.
+Bakit mo binasa ang sulat na hindî para sa iyó?	Why did you read the letter that's not meant for you?
+Hindî na siyá naulit ng pagpuntá dito.	He did not anymore come here again.
+Ang yaman-yaman mo na, hindî ka pa rin nakúkuntento?	You are already so rich, you're still not contented?
+Naníniwalà ang marami na babangon ang mga patáy sa katapusán ng mundó.	Many believe that the dead will rise at the end of the world.
+May mga umaakyát sa Mt. Everest na hindî na nakákabalík.	There are some who climb up Mt. Everest and don't come down anymore.
+Huwág mong akalain na hindî ko alám ang ginagawâ mo.	Don't assume that I do not know what you're doing.
+Hindî na magtátagál ang buhay ng lola kong may sakít.	My sick grandma does not have much time left to live.
+Kung hindî ka magtátagál sa loób ng mall, híhintayín na lang kitá dito sa labás.	If you won't take long inside the mall, I'll just wait for you here outside.
+Nakaratíng na si John nang nangyari iyón.	John had already arrived when it happened.
+Íintindihín mo rin ang sarili mo at huwág lagì na lang ang pamilya mo.	You should also attend to your needs and not always just that of your family.
+Ang dami ko nang naibigáy sa iyóng pera, hindî ka pa rin nakuntento.	I have already given you so much money and you're still not pleased.
+Hindî ka na nasanay.	You should already get used to someone / something.
+Tahan na.	Please don't cry.
+Halika na.	Come now.
+Bumoto na!	Vote now!
+Alas 6 na.	It's six o'clock already.
+Halika na.	Come on.
+Huli ka na.	Too late.
+Umuwi na tayo!	Let's go home!
+Handa na tayo.	We're ready.
+Kumulimlim na.	It was getting dark.
+Wala na si Tom.	Tom left.
+Lumabas na siya.	She has gone out.
+Kumain ka na ba?	Have you eaten yet?
+Maliligo na ako.	I'm going to take a bath.
+Malapit na tayo.	We're almost there.
+Hindi na mauulit.	I will not do it again.
+Handa na ba tayo?	Are we prepared?
+Di ba malinaw na?	Is it not clear enough?
+Nasa iyo na iyon.	I'll leave it up to you.
+Naghapunan ka na?	Have you eaten dinner?
+Oras na ng tulog.	It's time for bed.
+Matutulog na ako.	I have to go to sleep.

@@ -140,6 +140,7 @@ ani	said by
 anihin	to harvest
 aniko	I said
 aniya	he/she said
+ano	"what" could be used as question or not, as in "I know what.." -> "alam ko anong.."
 ano man	whatever
 antála	delay
 antás	step, degree, grade
@@ -202,6 +203,7 @@ bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
+bagkus	on the contrary, instead, rather, but rather, but instead
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
 bágong-panganák	newborn
@@ -239,6 +241,7 @@ bakuran	(front) yard; premises
 bakwit	evacuate
 bála	bullet, pellet, slug
 bala	threat, warning
+balaghán	wonder, amazement
 bálak	plan, intention
 bálang araw	some/one day (ie, eventually)
 bálang	each, any
@@ -376,6 +379,7 @@ bitbít	hand carried / carrying by hand
 bitbitin	to hand-carry
 bitiw	to let go (lit/fig); loosen one's hold
 bituin	star
+bituka	intestines, bowels, gut, guts
 biyahe	trip, journey
 biyahero	traveller (byahero)
 biyaya	favor, grace, mercy
@@ -385,6 +389,7 @@ bola	flattery
 bote-bote	many bottles
 bubo	overflowing; pouring out; poured out
 bubog	pieces of shattered glass
+bubúyog	bumblebee; kind of large bee
 bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
 bugsô	crowd of people
@@ -745,6 +750,7 @@ hating-kapatid	half-sibling
 hawa	infection, contagion
 hawak	hold, grasp; unwanted touch
 hawakan	to take hold of
+hawig	similar, alike, akin
 hayà	tolerance of an act; threatening gesture
 hayaàn mo na lang	just let it be
 hayaàn	to let, allow, let be (hayà, see also bayáan, pabayáan)
@@ -822,9 +828,11 @@ humingá	to breathe, breathing
 humingi	to ask/request
 humuhumi	twittering/tweeting (huni)
 humupa	subside
+hungháng	brainless, stupid
 huni	hoot, tweet, chirping sound
 húsay	skill
 husga	act of passing judgment
+husto	adequate, sufficient, fitted, up-to-date, correct; amply, sufficiently
 huwebes	thursday
 Intsik	Chinese
 iabot	to hand something over
@@ -998,6 +1006,7 @@ kaAwa-Awa	so poor, pitiful, wretched
 kaaway	enemy
 kabá	palpitation, premonition, a faint feeling that something bad might happen
 kababaang-loob	humility
+kababalaghán	wonder, mystery; miracle; phenomenom; marvel
 kabahan	dread
 kabahanin	to dread
 kabaligtaran	(the) opposite
@@ -1036,6 +1045,7 @@ kahabag-habag	so very pitiful
 kahalagAhan	importance
 kahapon pa	since yesterday
 kahati	shareholder; share (hati)
+kahawig	to be similar, alike (kamukha, katulad, kawangis, kawangki, kaparis)
 kahéra	female store cashier
 kahéro	male store cashier
 kahilIngan	a request, claim, application
@@ -1075,6 +1085,7 @@ kakarampot	only a very small quantity
 kakaunti	(lubhang kaunti)
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
+kakila-kilabot	terrifying
 kakulitan	peskiness, badgering
 kalabAn	opponent
 kalabóso	prison
@@ -1285,6 +1296,7 @@ kaysá	than, rather than
 kayumanggi	brown
 keso	cheese
 kíkilanlín	will recognize/acknowledge
+kilábot	goosebumps; terror, fear
 kilala	to know, recognize a person; known, famous
 kilanlín	to recognize someone, to admit something (-in)
 kilíg	tremble, shudder; giddiness
@@ -1299,6 +1311,7 @@ kinakabahan	to be nervous
 kinakaba-kabahan	is being nervous
 kinakapatid	step-sibling, godsib, god-sibling
 kinaladkad	dragged
+kinalaman	connection, connection to something, regarding, a share (of something), knowledge about something
 kinamay	used hands on something
 kinamayan	to shake hands with
 kinastigo chastised, reprimanded severely
@@ -1328,6 +1341,7 @@ kulitin	to badger, pester
 kulóng	jailed, caged
 kulot	curl
 kulungan	a cage, a prison
+kumag	lazy idiot; worthless person; small insect   
 kumanâ	to succeed in doing, dominate
 kumanan	to go right
 kumapâ	search for by feeling / groping
@@ -1356,6 +1370,7 @@ kusang palo	self-starter
 kusang-loób	free will
 kutà	fort, bulwark, hideout; makapal na pader o moog
 kutaan	to fortify a place
+kutób	foreboding, premonition
 kutsara	spoon
 kutsero	driver of horse-drawn vehicle, coachman
 kutsilyo	table or kitchen knife
@@ -1578,6 +1593,7 @@ mabAgal	slow
 mabAgo	be able to change or be changed
 mabahala	to be concerned or apprehensive
 mabaít	nice, kind
+mabalaghán	to be astonished
 mabalot	wrap around, envelop, enshroud, encase, encrust
 mabanatan	to be beat up
 mabasag	to be broken
@@ -1913,9 +1929,11 @@ manghamak	to insult, disparage
 manghimások	interfere (pasok)
 manghingi	to ask for
 manghuhula	fortune teller
+mangilabot	feeling creeped out
 mangilid	to line, encircle
 mángingisdâ	a fisherman
 manginíg	to shake, shiver, tremble (nginig)
+mangilid	to line, encircle
 mangisdâ	to fish
 manglamang	advantage over others (noun)
 mangulila	to yearn (as like an orphan)
@@ -2141,6 +2159,7 @@ nakabukas	is open
 nakagagayak	decorative
 nakakahawa	contagious, infectious
 nakakainis	irritating, annoying
+nakakakilabot	fearsome
 nakakalason	poisonous
 nakakalito	confusing
 nakakalungkot	depressing, makes one sad (also nakalulungkot)
@@ -2380,6 +2399,7 @@ pagbidahan	to star in something (movie, TV show, etc.)
 pagbigyán	to give in/accommodate/oblige/concede to someone
 pagbilhán	to sell to someone; to sell somewhere
 pagbubukas	the time being open, as in a store
+pagbukud-bukurin	to sort, classify
 pagdaanan	to go through/endure something; to bring something to someone
 pagdating	upon arriving, when arrived
 pagdikitin	to stick things together
@@ -2421,10 +2441,12 @@ pagkalipas	passing, passage, having passed (also paglipas)
 pagkalito	confusion
 pagkaloobán	to be provided with/endowed with/granted something
 pagkamahiyain	bashfulness, shyness, modesty, timidity
+pagkámalán	to mistake someone/something (for something else); to misconstrue something
 pagkamapanlikha	originality
 pagkamasarili	egotism
 pagkamatáy	death
 pagka-may-arì	ownership, possession
+pagkat	because, whereas, considering that (sa pagkat, sapagkat)
 pagkatalo	defeat
 pagkatao	character, nature (of a person)
 pagkátiwalaan	to trust someone/thing, to entrust to the care of, consign, relegate, confide (tiwala)
@@ -2454,6 +2476,7 @@ pagpapalaya	liberation
 pagpapaliban	postponement
 pagpapalit-saklaw	(synecdoche)
 pagpapalit-tawag	(metonymy)
+pagpapayaman	enrichment
 pagpasensyahán	to have patience with someone
 pagpupumilit	the act of coercing
 pagsabihan	to say something to someone; to reprimand someone, to scold someone, to correct someone
@@ -2588,6 +2611,7 @@ panalunan	winnings
 pananagutan	duty, responsibility
 pananakot	scaring, intimidation
 pananalitâ	speech
+pananamantala	exploitation
 pananamlay	state of being languid, listless, having no energy
 pananghalian	lunch
 pananong	question mark
@@ -2696,6 +2720,7 @@ patagilid	sideways
 patak	drop
 pátakarán	by-laws, basic or guiding principles, policies, rules, principles, moral guidelines (root)
 patalim	any sharp cutting instrument
+patapatan	cause something to be placed in front of something else
 patas	drawn, equal in score, neck and neck, even in race or contest; quits
 patawad	forgiveness, apology
 patawArin	forgive
@@ -2705,6 +2730,7 @@ patayutay	figuratively
 patí na rin ang	as well as
 patí	including, even, as well
 patikim	"let me have a taste"
+pating	a shark
 patingkarin	brighten, intensify the color
 patnUbay	guide, companion, escort; guidance
 patók	a sure winner, a big hit
@@ -2842,6 +2868,7 @@ reseta	prescription
 resibo	receipt
 rin	also, too; anyway, regardless
 rosas	pink
+sa	to, by, in, on, with, from, for, etc.
 sa dako	toward, in the direction of
 sa halip na	instead of (imbes na)
 sa ilalim	under (lit/fig)
@@ -3070,6 +3097,7 @@ suklî	the change that you get back from a monetary transaction (Chinese origin)
 sukò	to give up, surrender
 sukol	cornered, driven into a corner
 sulat	writing, letter
+súliranin	a problem
 sulit	worth it, a good deal; a test
 suló	binti ng hayop; pagkasilaw; baluktot
 sulok	corner
@@ -3176,6 +3204,7 @@ talakayan	discussion
 talakayin	to discuss
 talamák	serious, critical, hard to cure; fallen; addicted
 talampakan	sole of a foot; 12 inches
+talasalitaan	vocabulary
 talíno	smarts, talent
 talipapâ	a temporary market (esp.for fish)
 talipapang bayan	a public market
@@ -3263,6 +3292,7 @@ testigo	witness
 thing
 tibay	sturdiness
 tigás	hardness, toughness, stiffness
+tigdás	measles
 tigil	stop, pause
 tigok	sound produced in the throat by swallowing
 tikim	to taste, to try
@@ -3274,6 +3304,7 @@ tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
 timbóg	caught, arrested
 timog	south
+tímbre	can refer to a stamp like a seal or to a button like a doorbell.
 tinda	selling, merchandise
 tindahan	a store
 tindero	a male seller
@@ -3320,6 +3351,7 @@ tuhog	strings of beads, jewels, etc.; stringing things together
 tuhog	strung together (beads, etc.), pierced together with a skewer
 tuklás	discovery; discovered, found
 tuklasín	to discover or detect something
+tukmól	turtledove; an ugly or stupid person (slang) 
 túkod	support, prop
 tukoy	experienced; accurate in shooting (marksmanship)
 tukoy	mention, reference, specification

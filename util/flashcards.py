@@ -36,7 +36,6 @@ mylist.pop()
 count=0
 _didalready = []
 while count < 10:
-    count = count + 1
     j = 0
 
     while True:
@@ -54,6 +53,8 @@ while count < 10:
     t2e = myout.split(sep='	', maxsplit=1)
     if len(t2e) < 2:
         continue
+
+    count = count + 1
 
     if order == "r":
         #print(t2e[1].strip())

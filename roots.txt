@@ -1060,24 +1060,24 @@ pamamaríl (baril) pangCV_ [noun] shooting; gunning; hunting
 putók ng baríl (baril) phrase_ [noun] gunfire
 tagabaríl (baril) taga_ [noun] shooter
 babasahín (basa) CV_in [noun] reading material
-basahan (basa) _an [verb] to read to someone; * focus on the person being read to
-basahin (basa) _in [verb] to read something
+basahan (basa) _an [verb] to read to someone; * focus on the person being read to SS
+basahin (basa) _in [verb] to read something SS
 basâ (basa) rt_ [adjective] wet
 basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
 bumasa (basa) _um_ [verb] to read
 ibasa (basa) i_ [verb] to read something for someone
 ipabasa (basa) ipa_ [verb] to have something read
 mabasa (basa) ma_ [verb] to read something; to happen to read something; to be able to read something
-magbasa-basá (basa) mag_ [verb] to browse (while reading); to browse through; to skim (text)
-magbasá (basa) mag_ [verb] to read; to read intently; to study a text; to read out loud
+magbasa-basá (basa) mag_ [verb] to browse (while reading); to browse through; to skim (text) SS
+magbasá (basa) mag_ [verb] to read; to read intently; to study a text; to read out loud SS
 makabasa (basa) maka_ [verb] to be able to read
-mámbabasá (basa) mangCV_ [noun] reader
-pagbabasá (basa) pagCV_ [noun] reading
+mámbabasá (basa) mangCV_ [noun] reader SS
+pagbabasá (basa) pagCV_ [noun] reading SS
 pagbabasâ (basa) pagCV_ [noun] wetting
 pagbasa (basa) pag_ [noun] reading
 pagkabasa (basa) pagka_ [noun] reading; upon reading; after reading
 pakibasa (basa) paki_ please read
-palabasá (basa) pala_ [adjective] fond of reading; well read
+palabasá (basa) pala_ [adjective] fond of reading; well read SS
 babasagín (basag) CV_in [noun] glassware; glass; [adjective] fragile
 basag (basag) rt_ [noun] crack in glassware; broken
 basagin (basag) _in [verb] to break something; to break something made of glass
@@ -1128,7 +1128,7 @@ batás-trapikó (batas) compound_ [noun] traffic law; traffic laws
 isabatás (batas) isa_ [verb] to enact a law; to make into a law
 laban sa batás (batas) against the law
 maisabatás (batas) mai_ [verb] to be able to enact something into law; to be able to make something into a law
-mambabatas (batas) mangCV_ [noun] lawmaker; legislator
+mambabatas (batas) mangCV_ [noun] lawmaker; legislator SS
 pánukálang-batás (batas) compound_ [noun] draft legislation; draft bill; proposed legislation
 batay (batay) rt_ [adjective] based on; according to;
 batayán (batay) _an [noun] basis; condition; [adjective] fundamental; basic
@@ -1207,18 +1207,18 @@ pambayad (bayad) pang_ [noun] payment; something to make a payment with
 paúnang-bayad (bayad) pa_ [noun] deposit; down payment
 taunang kabayaran (bayad) phrase_ [noun] annuity; annual payment
 bayan (bayan) rt_ [noun] country; town; citizens; nation; home town; homeland
-bayan-bayanán (bayan) dup_an [noun] village; small community
-bayani (bayan) sp_ [noun] hero
+bayan-bayanán (bayan) dup_an [noun] village; small community SS
+bayani (bayan) sp_ [noun] hero SS
 kababayan (bayan) ka_an [noun] compatriot; countryman; countrywoman; fellow citizen
-kabayanan (bayan) ka_an [noun] downtown; economic and political center of a town
+kabayanan (bayan) ka_an [noun] downtown; economic and political center of a town SS
 kwenton bayan (bayan) phrase_ [noun] folklore
 makabayan (bayan) [adjective] patriotic
-makamámamayán (bayan) [adjective] pro-people; for the people
-mámamayán (bayan) mangCV_ [noun] citizen; resident of a city/town; national
+makamámamayán (bayan) [adjective] pro-people; for the people SS
+mámamayán (bayan) mangCV_ [noun] citizen; resident of a city/town; national SS
 pagkamakabayan (bayan) pagkamaka_ [noun] being patriotic; being nationalistic; patriotism
 pambayan (bayan) pang_ [adjective] civic
-pámayanán (bayan) pang_an [noun] community
-sámbayanán (bayan) sang_an [noun] the whole town; society
+pámayanán (bayan) pang_an [noun] community SS
+sámbayanán (bayan) sang_an [noun] the whole town; society SS
 tagabayan (bayan) taga_ [noun] townsperson; town resident
 táong-bayan (bayan) compound_ [noun] townspeople; townsman; community
 táumbayan (bayan) compound [noun] townspeople
@@ -1360,7 +1360,7 @@ magpabilí (bili) magpa_ [verb] to have something bought; to have something be p
 maipagbilí (bili) maipag_ [verb] to be able to sell
 makabilí (bili) maka_ [verb] to be able to buy
 mamilí (bili) mang_ [verb] to buy; to go shopping; to shop
-mamimili (bili) mangCV_ [noun] customer; client; buyer; consumer
+mamimili (bili) mangCV_ [noun] customer; client; buyer; consumer SS
 pabilí (bili) pa_ can I buy
 pagbilhán (bili) pag_an [verb] to sell to someone; to sell somewhere
 pagbilí (bili) pag_ [noun] buying; upon buying
@@ -1803,7 +1803,7 @@ dalagita (dalaga) [noun] teenage female; young teenage female; preteen girl / fe
 dumalaga (dalaga) [noun] young female animal; young female hen; heifer; animal at the age of puberty
 kadalagahan (dalaga) [noun] maidenhood; a group of maidens;
 matandáng dalaga (dalaga) [noun] spinster; old maid; * disparaging term
-dalasán (dalas) _an [verb] to make more frequent; to increase frequency
+dalasán (dalas) _an [verb] to make more frequent; to increase frequency SS
 dalás (dalas) [noun] frequency
 dumalás (dalas) _um_ [verb] to be more frequent; to happen more often; to occur frequently
 kadalasan (dalas) ka_an [adverb] often; usually; frequently; [noun] frequency;
@@ -2171,16 +2171,16 @@ idugtóng (dugtong) i_ [verb] to append; to attach
 karugtóng (dugtong) ka_ [noun] continuation
 magdugtóng (dugtong) mag_ [verb] to connect
 dukot (dukot) rt_ [noun] pull; drawing out; kidnapping
-dukutin (dukot) _in [verb] to kidnap someone; to draw something out; to take something out
+dukutin (dukot) _in [verb] to kidnap someone; to draw something out; to take something out SS
 dumukot (dukot) _um_ [verb] to pull out; to draw out; to abduct
-madukutan (dukot) ma_an [verb] to be pickpocketed
+madukutan (dukot) ma_an [verb] to be pickpocketed SS
 mandukot (dukot) mang_ [verb] to pickpocket
 mandurukot (dukot) mangCV_ [noun] pickpocket
-dulaan (dula) _an [noun] playhouse; theater
+dulaan (dula) _an [noun] playhouse; theater SS
 dulaín (dula) _in [verb] to dramatize
 dulâ (dula) rt_ [noun] drama; stage play
 isadulâ (dula) isa_ [verb] to dramatize
-mándudulà (dula) mangCV_ [noun] dramatist; playwright
+mándudulà (dula) mangCV_ [noun] dramatist; playwright SS
 pagsasadulâ (dula) pagsasa_ [noun] dramatization
 pandulâ (dula) pang_ [noun] anything used for/in a theater
 dulás (dulas) rt_ [noun] slipperiness
@@ -3599,28 +3599,28 @@ kumailangan (kailangan) _um_ [verb] to need
 mangailangan (kailangan) mang_ [verb] to need something
 pangángailangan (kailangan) [noun] need; needs; necessity; requirement
 Anóng nakain mo? (kain) [idiom] What's gotten into you?
-hapág-kainán (kain) [noun] table for eating together; dinner table
+hapág-kainán (kain) [noun] table for eating together; dinner table SS
 ipakain (kain) ipa_ [verb] to have something fed; * focus on the thing being given for food
 kain (kain) [noun] eating; eating food; consuming
-kainan (kain) [noun] eating together
-kainan (kain) _an [verb] to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere
+kainan (kain) [noun] eating together SS
+kainan (kain) _an [verb] to eat from something (a plate / a banquet / a dessert / etc. ); to eat somewhere SS
 kainin (kain) _in [verb] to eat something; * focus on the thing being eaten
 kainán (kain) [noun] eatery; place to eat; dining room
 kakakain (kain) just (recently) ate
 kumain (kain) _um_ [verb] to eat
-magkaín (kain) mag_ [verb] to devour; to eat often
+magkaín (kain) mag_ [verb] to devour; to eat often SS
 magpakain (kain) magpa_ [verb] to feed someone; to allow others to eat
 magpakain sa (kain) magpa_ [verb] to allow oneself to be fed to something or someone
 makain (kain) ma_ [verb] to be able to eat something (OF); to happen to eat something (OF)
 makakain (kain) maka_ [verb] to be able to eat
 makakainán (kain) [noun] a place to eat
 makikain (kain) maki_ [verb] to join others in eating; to eat with others; to eat together
-mákakain (kain) [noun] something to eat
+mákakain (kain) [noun] something to eat (SS, compare to makakain)
 nakakain (kain) naka_ [adjective] edible
 pagkain (kain) [noun] food; the act of eating
 pagpapakain (kain) [noun] feeding
 pakain (kain) [noun] rations
-pakainin (kain) pa_in [verb] to feed someone; to allow others to eat; * focus on the one eating
+pakainin (kain) pa_in [verb] to feed someone; to allow others to eat; * focus on the one eating SS
 ipagkaít (kait) ipag_ [verb] to withhold
 kaít (kait) [noun] refusal; denial; concealment
 kalap (kalap) [noun] campaigning; lumber
@@ -4112,7 +4112,7 @@ palagáy (lagay) [noun] opinion; estimation; estimate; assumption
 lagì (lagi) rt_ [adverb] always; constantly; habitually; ever
 lumagì (lagi) _um_ [verb] to stay
 mamalagì (lagi) mangCV_ [verb] to remain; to abide
-palagian (lagi) [adjective] regular; habitual; constant
+palagian (lagi) [adjective] regular; habitual; constant SS
 palagì (lagi) pa_ [adverb] always; constantly; habitually
 pamamalagì (lagi) [noun] permanence; retention
 ilaglág (laglag) i_ [verb] to drop something (intentionally); to let go of something (to let it drop)
@@ -4312,6 +4312,10 @@ lumantád (lantad) _um_ [verb] to expose; to be revealed; to be prominent
 maglantád (lantad) mag_ [verb] to expose
 mailantád (lantad) mai_ [verb] to be able to expose something
 malantád (lantad) ma_ [verb] to be exposed (AF); to expose something (OF)
+kalaunan (laon) ka_an [adjective] after a while; in time; as time went on; long time
+nang lumaon (laon) _um_ [phrase] eventually; in time
+laon (laon) rt_ [noun] long (in time)
+malaon (laon) ma_ [adjective] long time
 lapad (lapad) rt_ [noun] width; breadth; wideness
 laparan (lapad) _an [verb] to widen
 lapád (lapad) rt_ [adjective] broad; wide
@@ -4615,10 +4619,10 @@ limit (limit) rt_ [noun] limit; frequency
 limitan (limit) _an [verb] to do something frequently
 lumimit (limit) _um_ [verb] to become frequent
 malimit (limit) ma_ [adjective] frequent; [adverb] frequently; often
-limusán (limos) _an [verb] to give alms; to give charitably; to give food or money to the poor
+limusán (limos) _an [verb] to give alms; to give charitably; to give food or money to the poor SS
 limós (limos) rt_ [noun] alms
 maglimós (limos) mag_ [verb] to give alms; to give support to the poor
-mamalimos (limos) mangCV_ [verb] to ask for alms; to beg
+mamalimos (limos) mangCV_ [verb] to ask for alms; to beg SS
 panlimós (limos) [noun] money set aside for alms
 kalimutan (limot) ka_an [verb] to forget something; to overlook something
 limutin (limot) _in [verb] to willfully forget something
@@ -5915,7 +5919,8 @@ mánanakop (sakop) [noun] conqueror; invader; colonizer
 nasásakupan (sakop) [noun] jurisdiction; subordinate
 pagsakop (sakop) [noun] invasion; occupation; conquest
 pananakop (sakop) [noun] occupation; conquest
-sakop (sakop) rt_ [noun] territory over which jurisdiction extends; in-group(sakop) [adjective] under some power or jurisdiction; occupied by an enemy
+sakop (sakop) rt_ [noun] territory over which jurisdiction extends; in-group
+sakop (sakop) rt_ [adjective] under some power or jurisdiction; occupied by an enemy
 sakupin (sakop) _in [verb] to seize something; to conquer something; to colonize something; to occupy something
 sumakop (sakop) _um_ [verb] to seize; to conquer
 isaksák (saksak) i_ [verb] to plug into a socket; to thrust strongly against
