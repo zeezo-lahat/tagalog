@@ -2748,13 +2748,13 @@ humanay (hanay) _um_ [verb] to line up in a row or file
 ihanay (hanay) i_ [verb] to rank something; to order something; to arrange something in order; to align something;
 kahanay (hanay) [adjective] in the same line
 nakahanay (hanay) naka_ [adjective] in a row; in a file
-handaan (handa) [noun] party; feast
-handáng-handá (handa) [adjective] very ready; extremely ready
-handâ (handa) [adjective] ready; prepare; prepared; handy
+handaan (handa) _an [noun] party; feast
+handáng-handá rt_na_rt (handa) [adjective] very ready; extremely ready
+handâ (handa) rt_ [adjective] ready; prepare; prepared; handy
 humandâ (handa) _um_ [verb] to get ready; to prepare
 ihandâ (handa) i_ [verb] to prepare something; to make something ready; to pave the way for something
 ipaghandâ (handa) ipag_ [verb] to prepare something for someone
-kahandaan (handa) [noun] readiness
+kahandaan (handa) ka_an [noun] readiness
 maghandâ (handa) mag_ [verb] to prepare; to get ready; to arrange; to prepare food
 maihandâ (handa) mai_ [verb] to be able to prepare; to be able to get ready
 makapaghandâ (handa) makapag_ [verb] to prepare
@@ -2762,32 +2762,32 @@ nakahandâ (handa) naka_ [adjective] prepared; ready; alert
 paghahandâ (handa) pagCV_ [noun] preparation
 paghandaán (handa) pag_an [verb] to prepare for something/someone; to prepare for something beforehand; to premeditate something
 hangaan (hanga) _an [verb] to admire something/someone; to appreciate something/someone
-hangà (hanga) [noun] admiration; amazement; appreciation
+hangà (hanga) rt_ [noun] admiration; amazement; appreciation
 humangà (hanga) _um_ [verb] to admire; to wonder; to marvel at
-kahánga-hangà (hanga) [adjective] wonderful; extraordinary; magnificent
+kahánga-hangà (hanga) ka_rt_rt [adjective] wonderful; extraordinary; magnificent
 paghangà (hanga) pag_ [noun] admiration; amazement; appreciation; impression
 pahangain (hanga) pa_in [verb] to impress someone; to astound someone; to amaze someone
-taga-hangà (hanga) [noun] fan; admirer
-tagahangà (hanga) [noun] admirer
-Haponés (hapon) [noun] Japanese; native of Japan
-Hapón (hapon) [noun] Japanese; Japan
-dápit-hapon (hapon) [adjective] late afternoon; twilight; dusk
-hapon (hapon) [noun] afternoon
-hapunan (hapon) [noun] dinner; supper
+taga-hangà (hanga) taga_ [noun] fan; admirer
+tagahangà (hanga) taga_ [noun] admirer
+Haponés (hapon) _ [noun] Japanese; native of Japan
+Hapón (hapon) _rt [noun] Japanese; Japan
+dápit-hapon (hapon) compound_ [adjective] late afternoon; twilight; dusk
+hapon (hapon) rt_ [noun] afternoon
+hapunan (hapon) _an [noun] dinner; supper
 humapon (hapon) _um_ [verb] to settle in for the evening
 kahapon (hapon) ka_ [adverb] yesterday; past
 kinahapunan (hapon) [noun] the day before yesterday
 maghapon (hapon) mag_ [adverb] all day; the whole day
-harang (harang) [noun] bar; barrier; obstacle
+harang (harang) rt_ [noun] bar; barrier; obstacle
 harangan (harang) _an [verb] to block something/somewhere
 harangin (harang) _in [verb] to intercept something; to block something; to hold something up
 humarang (harang) _um_ [verb] to block; to stop; to intercept
 magharang (harang) mag_ [verb] to block; to bar
 maharang (harang) ma_ [verb] to hold up someone (OF); to be held up (AF); to intercept something (OF); to be intercepted (AF)
 nakaharang (harang) naka_ [adjective] blocking; obstructing
-harapán (harap) [noun] front; presence;
+harapán (harap) _an [noun] front; presence;
 harapín (harap) _in [verb] to face something/someone; to present oneself to something/someone; to confront something; to attend to something; to take responsibility for something
-haráp (harap) [noun] front; [adjective] in front of; face-to-face; facing
+haráp (harap) [noun] rt_ front; [adjective] in front of; face-to-face; facing
 hináharáp (harap) [noun] future
 humaráp (harap) _um_ [verb] to face; to present oneself formally; to confront
 iharáp (harap) i_ [verb] to present something; to position something in front
