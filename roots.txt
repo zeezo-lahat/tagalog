@@ -6148,6 +6148,10 @@ sapatero (sapatos) [noun] shoemaker; cobbler
 sapatos (sapatos) rt_ [noun] shoes
 sapatusan (sapatos) [noun] shoe store
 sapatusin (sapatos) _in [verb] to hit someone with one's shoes
+kasapì (sapi) ka_ [noun] member; shareholder; stakeholder
+sumapì (sapi) _um_ [verb] to join; to be possessed; to belong
+isapì (sapi) i_ [verb] to enlist; to enroll
+sapì (sapi) rt_ [noun] membership
 ipasará (sara) ipa_ [verb] to have something closed
 isará (sara) i_ [verb] to close something; to shut something; to shut off something
 magsará (sara) mag_ [verb] to close; to shut; to shut off; to bring to an end

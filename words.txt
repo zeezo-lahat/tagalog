@@ -91,7 +91,7 @@ alamat	folklore, tradition, legend, myth
 alamin	to find out, to investigate
 alat	saltiness
 alay	offering
-albularyo	quack doctor, charlatan
+albularyo	traditional healer, medicine man; quack doctor, charlatan
 ale	aunt, step mother, expression addressed to a woman, reference to a woman
 alikabok	dust
 alilà	servant
@@ -172,6 +172,7 @@ asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
 asim	sourness
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
+aswang	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
 atim	tolerance, bearing with, sufferance
@@ -1117,6 +1118,7 @@ kalsada	road
 kaltás	removed, detached, cancelled
 kaltasán	to cut on; subtract from; reduce; lay off
 kaltasín	to dedcuct, subtract; lay off
+káluluwá	soul
 kalungkutan	sadness
 kalungkut-lungkot	sorrowful
 kalusUgan	health

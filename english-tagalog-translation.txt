@@ -1,3 +1,75 @@
+# everyday questions asked by filipinos
+is this house for rent	pinapaupahan ba and bahay na ito?
+are you happy with your life?	masaya ka ba sa buhay mo?
+what should I do?	anong gagawin ko?
+where's your house?	saan ang bahay mo?
+is that your house?	iyan ba ang bahay mo?
+how did you get in here?	papaano ka nakapasok dito?
+where are you going?	saan ka pupunta?
+is this yours?	sayo ba ito?
+what now?	papaano na?
+what's your entree?	anong ulam mo?
+can I borrow money?	pwede ba akong humiram ng pera?
+how much did you earn today?	magkano ang kinita mo ngayong araw?
+are you ready?	handa ka na ba?
+where am I?	nasaan ako?
+is this true?	totoo ba ito?
+where are your parents?	nasaan ang mga magulang mo?
+how did it happen?	papaano nangyari yon?
+have you eaten?	kumain ka na ba?
+what did you buy?	ano ang binili mo?
+why are you helping me?	bakit mo ako tinutulungan?
+how do you do this?	papaano ito gawin?
+are you afraid?	takot ka ba?
+what was that again?	ano nga ulit iyon?
+what is this for?	para saan ito?
+did I forget something?	may nakalimutan ba ako?
+can I call you?	puwede ba kitang tawagan?
+what are you doing now?	anong ginagawa mo ngayon?
+is this for free?	libre lang ba ito?
+how did you know?	papaano mo nalaman?
+where have you been?	saan ka galing?
+is he your sibling?	kapatid mo ba siya?
+how did you know each other?	papaano kayo nagkakilala?
+is this correct?	tama ba ito?
+where are they?	nasaan na sila?
+did you get it?	kinuha mo ba?
+is this seat taken?	may nakaupo na ba dito?
+what can you say?	anong masasabi mo?
+what do you think?	ano sa palagay mo?
+why did you do it?	bakit mo ginawa iyon?
+what time is it?	anong oras na ba?
+are you done?	tapos ka na ba?
+did you do it?	ginawa mo ba iyon?
+why did it take you so long?	bakit ang tagal mo?
+is this for me?	para sa akin ba ito?
+why are you alone?	bakit ka nag-iisa?
+where are the others?	nasaan iyong iba?
+do you believe me?	naniniwala ka ba sa akin?
+why so?	bakit kaya?
+what else?	ano pa ba?
+what can I do for you?	ano bang maitutulong ko sayo?
+where do you live?	saan ka nakatira?
+what is your name?	anong pangalan mo?
+how old are you?	ilan ang edad mo?
+are you still studying?	nag-aaral ka pa rin ba?
+what's your favorite food?	ano ang paborito mong pagkain?
+do you love him?	mahal mo ba siya?
+do yo love me?	mahal mo ba ako?
+how much do you love me?	gaano mo ako kamahal?
+are you mad at me?	galit ka ba sa akin?
+how was this?	papaano ito?
+is this for them?	para sa kanila ba ito?
+is this for her?	para sa kaniya ba ito?
+can you ask him?	puwede mo ba siyang tanungin?
+can you ask them?	puwede mo ba silang tanungin?
+is this enough?	tama na ba ito?
+why are you here?	bakit ka nandito?
+can you tell me?	pwede mo bang sabihin sa akin?
+are you looking for something?	may hinahanap ka ba?
+are you looking for him?	hinahanap mo ba siya?
+are you in a hurry?	nagmamadali ka ba?
+
 # expressions when angry
 napaka-antipatiko mo	you are so displeasing
 kunwari nag-aAlalA pero hindi	supposedly a concerned person but not really
