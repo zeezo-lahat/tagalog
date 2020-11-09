@@ -681,27 +681,27 @@ pagpapaayos (ayos) pagpapa_ [noun] repairs; fixing
 pagsasaayos (ayos) pagsasa_ [noun] negotiations; settlement; arrangement
 pinakamaayos (ayos) [adjective] neatest (most organized)
 umayos (ayos) _um_ [verb] to arrange; to preen; to dress oneself carefully; to patch up; to settle; to fix.
-babaan (baba) [noun] spot for unloading (people, things, packages, etc)
+babaan (baba) _an [noun] spot for unloading (people, things, packages, etc)
 babaín (baba) _in [verb] to go down for something; to put something down
 babà (baba) rt_ [noun] chin; lowness; low
 babâ (baba) rt_ [noun] descent; down; [adjective] below (sa baba)
 bumabâ (baba) _um_ [verb] to go down; to descend; to get off; to alight; to depreciate; to decrease; to become low; to become lower
 hindí bábabá sa (baba) phrase_ [adverb] at least; not less than
-ibabâ (baba) [noun/adjective] bottom; beneath; below; down; downstairs
+ibabâ (baba) i_ [noun/adjective] bottom; beneath; below; down; downstairs
 ibabâ (baba) i_ [verb] to put something down; to bring something down; to lower something; to take something down; to degrade something; to demote something; to lower the position of something; to bring something downstairs
 ipababâ (baba) ipa_ [verb] to have something brought downstairs or taken down
-kababaan (baba) [noun] lowness; lowliness
-kumbabâ (baba) [noun] humility
-mababang loób (baba) [adjective] humble
-mababà (baba) [adjective] low; lowly; down; [noun] bass
+kababaan (baba) ka_an [noun] lowness; lowliness
+kumbabâ (baba) kum_ [noun] humility
+mababang loób (baba) phrase_ [adjective] humble
+mababà (baba) ma_ [adjective] low; lowly; down; [noun] bass
 magbabâ (baba) mag_ [verb] to bring down; to demote
-magpakumbabâ (baba) magpaka_ [verb] to humble oneself
+magpakumbabâ (baba) magpakum_ [verb] to humble oneself
 makababâ (baba) maka_ [verb] to be able to go down; to be able to descend
-mapagkumbabâ (baba) [adjective] humble
-mapagpakumbabâ (baba) [adjective] humble; modest
+mapagkumbabâ (baba) mapagkum_ [adjective] humble
+mapagpakumbabâ (baba) mapagpakum_ [adjective] humble; modest
 nakababâ (baba) naka_ [adjective] descended; down low; down
-napakababâ (baba) [adjective] very low
-ngalumbabà (baba) [noun] resting or supporting one's chin on one's hand or fist
+napakababâ (baba) napaka_ [adjective] very low
+ngalumbabà (baba) ngalum_ [noun] resting or supporting one's chin on one's hand or fist
 pababain (baba) pa_in [verb] to reduce; to lower; to depreciate
 pababaín (baba) pa_in [verb] to get someone to descend
 pababâ (baba) pa_ [adjective/adverb] downward; downhill
@@ -709,9 +709,9 @@ pagbabâ (baba) pag_ [noun] descent; decadence; downgrade; stepping down (resign
 pagpápababâ (baba) pagpapa_ [noun] making lower; abasement
 pagpápakumbabâ (baba) pagpapakum_ [noun] humility
 paibabâ (baba) pai_ [adverb] downward
-pinakababâ (baba) [adjective] lowest
-pinakamababà (baba) [adjective] lowest
-babad (babad) [noun] soak
+pinakababâ (baba) pinaka_ [adjective] lowest
+pinakamababà (baba) pinakama_ [adjective] lowest
+babad (babad) rt_ [noun] soak
 babaran (babad) _an [verb] to soak in something
 babád (babad) rt_ [adjective] soaked
 bumabad (babad) _um_ [verb] to soak up
@@ -719,31 +719,31 @@ ibabad (babad) i_ [verb] to soak up something; to immerse in something
 mababad (babad) ma_ [verb] to be soaked; to become very wet
 magbabád (babad) mag_ [verb] to soak
 babae (babae) rt_ [noun] woman; women; lady; female
-babaero (babae) [noun] womanizer
-batang babae (babae) [noun] girl
-binabaé (babae) [noun] homosexual (male); effeminate man
-kababaihan (babae) [noun] women; womankind
-kabataan ng babae (babae) [noun] girlhood
-kílos-babae (babae) [adjective] effeminate
+babaero (babae) sp_ [noun] womanizer
+batang babae (babae) phrase_ [noun] girl
+binabaé (babae) _in_ [noun] homosexual (male); effeminate man
+kababaihan (babae) ka_an [noun] women; womankind
+kabataan ng babae (babae) phrase_ [noun] girlhood
+kílos-babae (babae) compound_ [adjective] effeminate
 pambabae (babae) pang_ [adjective] feminine; for women; for girls
 babaw (babaw) rt_ [noun] shallowness; shallow
 babawan (babaw) _an [verb] to make shallow
 bumabaw (babaw) _um_ [verb] to become shallow
-ibabaw (babaw) [noun] top; on top; surface; on the surface; above
-imbabáw (babaw) [noun] external appearance
-kababawan (babaw) [noun] shallowness
-mababaw (babaw) [adjective] shallow
-napakababaw (babaw) [adjective] very shallow
-Ang baboy mo! (baboy) [interjection] You're gross! You pig!
+ibabaw (babaw) i_ [noun] top; on top; surface; on the surface; above
+imbabáw (babaw) im_ [noun] external appearance
+kababawan (babaw) ka_an [noun] shallowness
+mababaw (babaw) ma_ [adjective] shallow
+napakababaw (babaw) napaka_ [adjective] very shallow
+Ang baboy mo! (baboy) phrase_ [interjection] You're gross! You pig!
 baboy (baboy) rt_ [noun] pig; pork; unsanitary
 babuyin (baboy) _in [verb] to make something dirty; to make something immoral
-babuyán (baboy) [noun] piggery; hog pen, pig sty
-báboy-damó (baboy) [noun] boar; wild boar
-káning-baboy (baboy) [noun] leftover food to feed the pigs
-mágbababóy (baboy) [noun] pig seller
+babuyán (baboy) _an [noun] piggery; hog pen, pig sty
+báboy-damó (baboy) compound_ [noun] boar; wild boar
+káning-baboy (baboy) compound_ [noun] leftover food to feed the pigs
+mágbababóy (baboy) magCV_ [noun] pig seller
 baga (baga) rt_ [noun] hot coal; ember; burning coal; cinder
 bagà (baga) rt_ [noun] lung; lungs
-kung bagá (baga) [expression] like; that is to say; in a sense; as if; it seems;
+kung bagá (baga) phrase_ [expression] like; that is to say; in a sense; as if; it seems;
 magbagá (baga) mag_ [verb] to burn brightly/hot
 bagabag (bagabag) rt_ [noun] trouble; uneasiness
 bagabagin (bagabag) _in [verb] to bring distress to something; to bring grief to something
@@ -751,23 +751,23 @@ bumagabag (bagabag) _um_ [verb] to worry; to agitate
 ikabagabag (bagabag) ika_ [verb] to cause worry or trouble
 mabagabag (bagabag) ma_ [verb] to be agitated; to be worried
 makabagabag (bagabag) maka_ [verb] to cause concern; to cause worry; to agitate
-nabábagabag (bagabag) [adjective] uneasy; troubled
+nabábagabag (bagabag) naCV_ [adjective] uneasy; troubled
 pagkabagabag (bagabag) pagka_ [noun] uneasiness; agitation; anxiety
 bagal (bagal) rt_ [noun] slowness; sloth
 bagalan (bagal) _an [verb] to make slow; to slow down
 bumagal (bagal) _um_ [verb] to slow down; to become slow
-kabagalan (bagal) [noun] slowness; tardiness; delay
-mabagal (bagal) [adjective] slow
-napakabagal (bagal) [adjective] very slow
+kabagalan (bagal) ka_an [noun] slowness; tardiness; delay
+mabagal (bagal) ma_ [adjective] slow
+napakabagal (bagal) napaka_ [adjective] very slow
 pagbagal (bagal) pag_ [noun] slowing; slowing down
-pinakamabagal (bagal) [adjective] slowest
-bagamá't (bagaman) [conjunction] even though; although; while; though
+pinakamabagal (bagal) pinakama_ [adjective] slowest
+bagamá't (bagaman) conj_ [conjunction] even though; although; while; though
 bagamán (bagaman) rt_ [conjunction] even though; although; nevertheless; however
 bagay (bagay) rt_ [noun] thing; item; matter; object; article; [adjective] suitable; suitable for; compatible; apropos; appropriate; typical; applicable; fitting;
-bagay na bagay (bagay) [adjective] very well suited for; well fitted for; fitting
+bagay na bagay (bagay) rt_na_rt [adjective] very well suited for; well fitted for; fitting
 bagayan (bagay) _an [verb] to conform; to suit
 bumagay (bagay) _um_ [verb] to suit; to adapt; to fit
-bágay-bagay (bagay) [noun] circumstances; things; various little things
+bágay-bagay (bagay) rt_rt [noun] circumstances; things; various little things
 ibagay (bagay) i_ [verb] to adapt
 magkakabagay (bagay) magkaka_ [adjective] fitting; homogenous; in sync
 makibagay (bagay) maki_ [verb] to adjust oneself to; to conform to
@@ -3254,6 +3254,10 @@ pag-ibig (ibig) pag_ [noun] love; romantic love; romantic affection
 pag-íibigán (ibig) pagCV_an [noun] loving each other; mutual love
 pakikipagkaibigan (ibig) pakikipagka_an [noun] friendship
 umibig (ibig) _um_ [verb] to love; to fall in love; to romantically love
+nakaidlíp (idlip) naka_ [adjective] napping
+maidlíp (idlip) ma_ [verb] to nap; to doze
+umidlíp (idlip) _um_ [verb] to nap; to take a nap
+idlíp (idlip) rt_ [noun] nap
 igtingán (igting) _an [verb] to tighten
 igtíng (igting) [noun] tightness; tension
 mag-igtíng (igting) mag_ [verb] to tighten; to strain
@@ -3972,10 +3976,10 @@ kulóng (kulong) [adjective] surrounded; caged
 magkulóng (kulong) mag_ [verb] to confine; to lock someone in somewhere
 makulóng (kulong) ma_ [verb] to be jailed; to be imprisoned; to be confined
 nakakulóng (kulong) naka_ [adjective] jailed; pent-up; confined; imprisoned
-pagkakakulong (kulong) [noun] jailed; those who were jailed
-pagkakulong (kulong) being jailed
+pagkakakulong (kulong) pagkaka_ [noun] jailed; those who were jailed
+pagkakulong (kulong) pagka_ being jailed
 ikumpará (kumpara) i_ [verb] to compare something
-kumpará (kumpara) [preposition] compared to; versus
+kumpará (kumpara) rt_ [preposition] compared to; versus
 magkumpará (kumpara) mag_ [verb] to compare
 maikumpará (kumpara) mai_ [verb] to be able to compare something
 pagkukumpará (kumpara) pagCV_ [noun] comparing
@@ -3983,7 +3987,7 @@ hindîkumpleto (kumpleto) [adjective] incomplete
 kumpleto (kumpleto) [adjective] complete
 kumpletuhin (kumpleto) _in [verb] to complete something; to finish something
 makumpleto (kumpleto) ma_ [verb] to be complete (AF)
-pagkumpleto (kumpleto) [noun] completion
+pagkumpleto (kumpleto) pag_ [noun] completion
 Muztá (kumusta) How are you. Slang written abbreviation for "kumusta," used in texting or social media.
 ikumustá (kumusta) i_ [verb] to send regards on behalf of someone
 kumustahín (kumusta) _in [verb] to send regards; to inquire about the condition of something, or the health of someone
@@ -3992,48 +3996,51 @@ mangumustá (kumusta) mang_ [verb] to send regards; to say hello; to inquire abo
 ikunót (kunot) i_ [verb] to pucker
 kumunót (kunot) _um_ [verb] to furrow; to wrinkle; to pucker
 kunot-noó (kunot) [adjective] wrinkled forehead; scowling; furrowed brow
-kunót (kunot) [noun] furrow; wrinkle; crease; pucker
+kunót (kunot) rt_ [noun] furrow; wrinkle; crease; pucker
 mapakunót (kunot) mapa_ [verb] to scowl
 nakakunót (kunot) naka_ [adjective] frowning
 ikuráp (kurap) i_ [verb] to blink something (e.g., one's eyes)
 kumuráp (kurap) _um_ [verb] to blink
-kuráp (kurap) [noun] blink; wink
+kuráp (kurap) rt_ [noun] blink; wink
 mapakuráp (kurap) mapa_ [verb] to blink
-pagkuráp (kurap) [noun] blinking
+pagkuráp (kurap) pag_ [noun] blinking
+kusà (kusa) rt_ [adjective/adverb] automatic; voluntary; voluntarily; deliberate; by itself; on one's own initiative; [noun] initiative
+kusain (kusa) _in [verb] to take the initiative
+magkusà (kusa) mag_ [verb] to volunteer
 ikuwento (kuwento) i_ [verb] to narrate; to tell a story; to tell stories
-kuwento (kuwento) [noun] story
+kuwento (kuwento) rt_ [noun] story
 magkuwento (kuwento) mag_ [verb] to tell a story; to narrate
 maikuwento (kuwento) mai_ [verb] to by able to tell something; to be able to narrate a story about something; to be able to relate a story about something
-pagkukuwento (kuwento) [noun] story telling; story; reciting; recounting something
+pagkukuwento (kuwento) pagCV_ [noun] story telling; story; reciting; recounting something
 ilaán (laan) i_ [verb] to devote something; to dedicate something
 laán (laan) [adjective] destined; intended for; reserved; associated
 maglaán (laan) mag_ [verb] to allocate; to devote; to provide; to dedicate; to appoint
 nakalaán (laan) naka_ [adjective] reserved for; destined for; intended for; associated
-paglalaán (laan) [noun] appropriation; reserving
+paglalaán (laan) pagCV_ [noun] appropriation; reserving
 ipaglabá (laba) ipag_ [verb] to wash clothes for someone; to do laundry for someone
-labada (laba) [noun] laundry; washing
-labahan (laba) [noun] laundry room; washing machine
+labada (laba) _ [noun] laundry; washing
+labahan (laba) _an [noun] laundry room; washing machine
 labahin (laba) laundry; dirty clothes
-labandera (laba) [noun] laundry woman
+labandera (laba) sp_ [noun] laundry woman
 labhán (laba) _an [verb] to wash clothing; to wash something; to launder something
-labá (laba) [noun] laundry; laundry clothing
+labá (laba) rt_ [noun] laundry; laundry clothing
 maglabá (laba) mag_ [verb] to wash clothes; to do the laundry
 makapaglabá (laba) makapag_ [verb] to be able to wash clothes
 malabhán (laba) ma_an [verb] to be able to wash an item of clothing
 pagkalabá (laba) after washing; after doing the laundry
-paglalabá (laba) [noun] laundry
-panlabá (laba) [noun] anything used for washing clothes
+paglalabá (laba) pagCV_ [noun] laundry
+panlabá (laba) pang_ [noun] anything used for washing clothes
 labagín (labag) _in [verb] to violate
-labág (labag) [adjective] against; contrary to; violating
+labág (labag) rt_ [adjective] against; contrary to; violating
 labág sa kalooban (labag) [phrase] against one's will
 lumabág (labag) _um_ [verb] to go against; to violate; to infringe; to trespass
-paglabág (labag) [noun] breach; violation; infraction; transgression
+paglabág (labag) pag_ [noun] breach; violation; infraction; transgression
 ilaban (laban) i_ [verb] to fight for something; to pit
 ipaglaban (laban) ipag_ [verb] to fight a battle for something
-kalaban (laban) [noun] opponent; adversary; enemy; antagonist; competitor
-laban (laban) [noun] fight; match; contest; charge; against
+kalaban (laban) ka_ [noun] opponent; adversary; enemy; antagonist; competitor
+laban (laban) rt_ [noun] fight; match; contest; charge; against
 labanan (laban) _an [verb] to fight against something; to oppose something; to defy something
-labanán (laban) [noun] fight; conflict; duel; battle; bout; race; fight with words; contest; combat
+labanán (laban) _an [noun] fight; conflict; duel; battle; bout; race; fight with words; contest; combat
 lumaban (laban) _um_ [verb] to fight against; to oppose; to fight back
 maglaban (laban) mag_ [verb] to fight; to fight with one another; to fight back; to compete
 maglabanán (laban) mag_an [verb] to compete; to fight each other; to struggle
@@ -4042,19 +4049,19 @@ makalaban (laban) maka_ [verb] to fight for; to fight
 makipaglaban (laban) makipag_ [verb] to contend with; to fight with
 malabanan (laban) ma_an [verb] to be able to fight against something; to be able to oppose something; to be able to defy something.
 manlabán (laban) mang_ [verb] to resist; to defend oneself
-paglaban (laban) [noun] fighting; fight; defiance
+paglaban (laban) pag_ [noun] fighting; fight; defiance
 paglabanan (laban) pag_an [verb] to fight something; to fight against something
-paglalaban (laban) [noun] fight; combat; match; competition
-pakikipaglaban (laban) [noun] fighting; contention
-palabán (laban) [noun] fighter
-panlaban (laban) [noun] contestant; resisting; for fighting
-waláng laban (laban) [adjective] helpless
+paglalaban (laban) pagCV_ [noun] fight; combat; match; competition
+pakikipaglaban (laban) pakikipag_ [noun] fighting; contention
+palabán (laban) pa_ [noun] fighter
+panlaban (laban) pang_ [noun] contestant; resisting; for fighting
+waláng laban (laban) phrase_ [adjective] helpless
 Labás! (labas) [interjection] Get out!; Out!
 ilabás (labas) i_ [verb] to take out something; to put something outside
 ipalabás (labas) ipa_ [verb] to show a film; to publish a show; to send out; to make something appear to be so; to ask to take out something
 kalalabás (labas) just came out; just exited
-kalálabasán (labas) [noun] outcome; end result
-labasan (labas) [noun] exit; egress
+kalálabasán (labas) kaCV_an [noun] outcome; end result
+labasan (labas) _an [noun] exit; egress
 labasán (labas) _an [verb] to have a discharge/orgasm; to cum (slang/vulgar)
 labasín (labas) _in [verb] to take something out (informal/slang)
 labás (labas) rt_ [noun] outside; outdoors; exterior; out; edition; [adverb] out
@@ -4086,21 +4093,21 @@ lábu-labò (labo) rt_rt [adjective] free for all fight
 malabò (labo) [adjective] indistinct; hazy; obscure; misty; dull; blurred; cloudy; foggy; fuzzy
 ilagà (laga) i_ [verb] to boil; to cook in boiling water or broth
 lagaan (laga) _an [verb] to boil something for someone
-lagà (laga) [noun] boiler
+lagà (laga) rt_ [noun] boiler
 maglagà (laga) mag_ [verb] to cook by boiling; to boil
 nilagà (laga) [adjective] boiled
 laganap (laganap) [adjective] widespread; common; general
 lumaganap (laganap) _um_ [verb] to become widespread; to circulate; to spread
-paglaganap (laganap) [noun] circulation; spread; dissemination
-pagpapalaganap (laganap) [noun] spread; spreading
+paglaganap (laganap) pag_ [noun] circulation; spread; dissemination
+pagpapalaganap (laganap) pagpapa_ [noun] spread; spreading
 palaganapin (laganap) pa_in [verb] to spread something
 ilagáy (lagay) i_ [verb] to place something; to put something; to lay something
 ipalagáy (lagay) ipa_ [verb] to consider; to suppose; to assume; to attribute; to conclude; to deem
-kalagayan (lagay) [noun] condition; position; situation; circumstance
-kinalalagyán (lagay) [noun] position; location
+kalagayan (lagay) ka_an [noun] condition; position; situation; circumstance
+kinalalagyán (lagay) kinaCV_an [noun] position; location
 lagyán (lagay) _an [verb] to place on/in something; to put on/in something; to bribe someone
-lagáy (lagay) [noun] condition; position; bribe; bet (in gambling)
-lalagyán (lagay) [noun] container
+lagáy (lagay) rt_ [noun] condition; position; bribe; bet (in gambling)
+lalagyán (lagay) CV_an [noun] container
 maglagáy (lagay) mag_ [verb] to place; to apply; to put; to situate; to bribe
 magpalagáy (lagay) magpa_ [verb] to have something placed
 mailagáy (lagay) mai_ [verb] to be able to place or deposit something
@@ -5017,6 +5024,9 @@ magmotor (motor) mag_ [verb] to ride on a motorcycle; to travel by motorcycle
 motorista (motor) [noun] motorist; motorcycle driver
 motór (motor) rt_ [noun] motor; machine; engine
 naka-motor (motor) naka_ [adjective] riding a motorcycle
+kamuhian (muhi) ka_an [verb] to detest someone; to be repulsed by someone
+mamuhì (muhi) ma_ [verb] to loathe; to despise; to scorn
+muhì (muhi) rt_ [noun] detestation
 hindí maipintá ang mukhâ (mukha) [idiom] a phrase that describes someone who is frowning
 kamukháng-kamukhâ (mukha) [adjective] like; similar
 kamukhâ (mukha) [adjective] looks like; looking like; similar to
@@ -7435,6 +7445,9 @@ patingín (tingin) [adjective] looking; [interjection] look!
 tingnán (tingin) _an [verb] to look at something; to notice something; to view something; to investigate something; to look after something; to check something
 tingín (tingin) rt_ [noun] look; viewpoint; gaze; opinion; attention; diagnosis; esteem
 tumingín (tingin) _um_ [verb] to look at; to view; to behold; to investigate; to diagnose; to look after
+matinô (tino) ma_ [adjective] sensible; serious
+katinuán (tino) ka_an [noun] sanity; seriousness; sense; righteousness
+patinuín (tino) pa_in [verb] to make something/someone better; to make someone good
 itipíd (tipid) i_ [verb] to conserve; to save
 magtipíd (tipid) mag_ [verb] to avoid spending money; to save; to economize
 makatipíd (tipid) maka_ [verb] to be able to save; to be able to avoid spending money
@@ -8063,29 +8076,29 @@ pagwawakás (wakas) [noun] ending; finishing
 sa wakás (wakas) [phrase] finally; at last; eventually
 wakasán (wakas) _an [verb] to end something
 wakás (wakas) rt_ [noun] end; ending; conclusion; final point; finish
-alâ (wala) [noun] zero; [preposition] without; [pronoun] none (slang)
+alâ (wala) _ [noun] zero; [preposition] without; [pronoun] none (slang)
 bále-walaín (wala) _in [verb] to ignore something/someone; to disregard something
 iwalâ (wala) i_ [verb] to set something aside; to lose something;
-kawalán (wala) [noun] absence; lack of something; loss; want; deficiency; dearth
+kawalán (wala) ka_an [noun] absence; lack of something; loss; want; deficiency; dearth
 kumawalâ (wala) ka_um_ [verb] to break free; to escape
 magpawaláng-bisà (wala) magpa_an [verb] to make null and void
 magwalâ (wala) mag_ [verb] to fly into a rage; to lose it (get angry, go crazy)
 makawalâ (wala) maka_ [verb] to escape; to be able to escape; to lose
 mawalán (wala) ma_an [verb] to lose; to misplace
 mawalâ (wala) ma_ [verb] to be gone (AF); to disappear (AF); to vanish (AF); to lose something (OF); to misplace something (OF); to make something go away or disappear (OF)
-pagkawalâ (wala) [noun] disappearance; loss; absence; departure; escape from something
+pagkawalâ (wala) pagka_ [noun] disappearance; loss; absence; departure; escape from something
 pakawalán (wala) paka_an [verb] to free someone/something (from restraints, jail, etc); to unbind someone/something; to release someone/something; to unchain someone/something; to unleash someone/something
-pampawalâ (wala) [adjective] for removing; [noun] something used to remove something else
-walang-walâ (wala) [adjective] absolutely none; broke; having no money
-walá lang (wala) nothing special; nothing in particular; nothing much
-walá na (wala) [adjective] gone; no more; no more left
+pampawalâ (wala) pangCV_ [adjective] for removing; [noun] something used to remove something else
+walang-walâ (wala) rt_na_rt [adjective] absolutely none; broke; having no money
+walá lang (wala) phrase_ nothing special; nothing in particular; nothing much
+walá na (wala) phrase_ [adjective] gone; no more; no more left
 walâ (wala) rt_ [adverb/adjective] none; nothing; no; not; not any; gone; not here; absent; devoid; away; don't; doesn't have
-walâ pá (wala) none yet; not yet
+walâ pá (wala) phrase_ none yet; not yet
 humiwaláy (walay) _um_ [verb] to separate; to separate from; to segregate oneself from
 ihiwaláy (walay) i_ [verb] to separate
-mapahiwaláy (walay) [noun] to become separated from
+mapahiwaláy (walay) mapahi_ [noun] to become separated from
 mawalay (walay) ma_ [verb] to be separated from; to wean; to be weaned
-paghíhiwaláy (walay) [noun] separation; divorce; break up
+paghíhiwaláy (walay) paghihi_ [noun] separation; divorce; break up
 walay (walay) rt_ [noun] separating
 magwalís (walis) mag_ [verb] to sweep (a floor)
 pagwawalís (walis) pagCV_ [noun] sweeping

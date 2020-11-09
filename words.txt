@@ -172,7 +172,7 @@ asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
 asim	sourness
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
-aswang	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
+aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
 atim	tolerance, bearing with, sufferance
@@ -189,7 +189,7 @@ ayaw	don't/doesn't want
 ayuda	aid; something supplementary
 ayúno	fasting (not eating)
 ba	yes/no question former; used to emphasise question/ask for detail; also affirmation as "sige ba", "oo ba"
-baba	lowness; to descend
+babà	lowness; to descend; chin
 bababa	will come down, descend, get off (as vehicle)
 babalâ	caution, warning, notice, alarm
 babasagin	breakable, fragile
@@ -204,6 +204,7 @@ bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bagamá't	even though; although; while; though
 bágay	appropriate, fitting; thing, object
+bágay-bagay	circumstances; this and that, things, various little things
 bagkus	on the contrary, instead, rather, but rather, but instead
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
@@ -243,6 +244,7 @@ bakwit	evacuate
 bála	bullet, pellet, slug
 bala	threat, warning
 balaghán	wonder, amazement
+balahíbo	fine body hair, feather hair of fowls of woolly hair of animals, fur
 bálak	plan, intention
 bálang araw	some/one day (ie, eventually)
 bálang	each, any
@@ -1189,7 +1191,7 @@ karahasán	violence
 karalitaan	misery, poverty
 karamihan	most (of), majority, nearly all
 karampót	(dampót) pinch (of salt), a very small quantity; a little bit, a crumb; napakaliit na bílang o piraso
-karanasán	an experience
+karanasán	experience
 karanIwan	usually, generally, customarily; common, typical, ordinary, habitual (this is a root)
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
@@ -1393,6 +1395,7 @@ labis	surplus, excess, too/so much
 lagay	condition, relationship, level, circumstances, location (see kalagayan)
 lagáy	putting (see ilagay, lumagay); a bribe
 lagì	always, constantly, habitually; ever
+lagim	gloom, deep sorrow, depressed feeling; dread, terror; desolation
 lagnát	a fever
 lagô	luxuriant growth
 lagot	snapped off, cut off, broken (rope, cable, etc.); completely obsessed with something
@@ -1447,7 +1450,7 @@ langis	oil, grease
 langit	sky, heavens; ecstasy
 langitngit	the squeaking sound of a door hinge
 langóy	swimming
-langutngot	a crunching sound as when chewing something hard                                                                                
+langutngot	a crunching sound as when chewing something hard
 lansángan	street, road
 lantáy	pure, unadulterated
 láot	far out in the open sea
@@ -1551,6 +1554,7 @@ lumawak	to expand, to spread
 lumawig	to prolong
 lumaya	to become free
 lumayo	go/stay/keep away
+lumbay	sadness, low spirits; loneliness
 lumihis	to swerve, deviate, stray, detour
 lumikas	flee, evacuate
 lumikha	to create
@@ -1560,6 +1564,7 @@ lumipad	to fly, take off, flew
 lumipad-lipad	to hover
 lumipas	passed
 lumipat	change one's place of living, transfer, migrate
+lumò	weariness
 lumpo	a crippled person, esp. the legs
 lumubóg	to set
 lumulUtan	floating
@@ -2647,7 +2652,7 @@ panghanda	preparation for
 panginoón	the Lord; master, a person who rules or commands people or things
 pangkalahAtan	general
 pangkalakal	trade, business
-pangkariniwa	typical
+pangkaraniwan	common, ordinary; mediocre; widespread; colloquial; routine
 pangulo	president
 pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
 pangungulila	homesickness
@@ -2703,6 +2708,7 @@ pasa	to pass
 pasaan	to what place?
 pasada	trip (made by vehicle); practice run, checking over
 pasado	(is/was) past/after (pasado alas dose -> past twelve o’clock)
+pasahán	submission
 pasahe	fare
 pasalamatan	to thank
 pasama	from better to worse
@@ -3066,6 +3072,7 @@ sirâ	broken
 siraulo	brain-broken (crazy)
 sisánte	dismiss, sack, fire
 sisi	remorse
+sísig	a dish from the chopped parts of a pig’s head, ears, cheeks, snout, heart and, brain
 sisiw	chick, a young chicken; easy (slang)
 sitá	questioning, interrogating
 sitahín	to question or interrogate someone
@@ -3530,12 +3537,13 @@ walay	separating, weaning away from
 wasak	ruin, destroy
 wasto	proper, correct, in order
 watáwat	flag, ensign, banner
+windang	torn apart; torn into tatters
 yabang	boast; boasting; arrogance; smugness; over confidence
 yakap	hug, embrace
 yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
 yamang	in as much as, provided.., as long as..; since, whereas
-yamót	irritated, annoyed; boredome, annoyance, irritation, displeasure, impatience, disgust
+yamót	irritated, annoyed; boredom, annoyance, irritation, displeasure, impatience, disgust
 yamot	stubble
 yaníg	tremor, shock, shaking
 yapag	barefoot(?)
