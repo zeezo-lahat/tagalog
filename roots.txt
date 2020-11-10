@@ -8185,8 +8185,8 @@ magyapusan (yapos) mag_an [verb] to embrace one another (reciprocal)
 pagyapós (yapos) pag_ [noun] hugging tightly; embracing
 yapós (yapos) rt_ [noun] embrace
 yumapós (yapos) _um_ [verb] to embrace; to hug tightly
-kapangyarihan (yari) [noun] power; authority; command; control; dominion
-kayarián (yari) [noun] construction; structure
+kapangyarihan (yari) kapang_an [noun] power; authority; command; control; dominion
+kayarián (yari) ka_an [noun] construction; structure
 pagkakayarì (yari) pagkaka_ [noun] the way something was made
 yariin (yari) _in [verb] to manufacture; to construct
 yarì (yari) rt_ [noun] manufacture; make
