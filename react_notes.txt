@@ -1,0 +1,248 @@
+elements can also represent user-defined components:
+
+const element = <Welcome name="Sara" />;
+
+When React sees an element representing a user-defined component, it passes JSX attributes and children to
+this component as a single object. 
+
+We call this object "props".
+
+For example, this code renders an element, outputing "Hello, Sara" on the page using the "Velkomen" component/function/tag:
+
+function Velkomen(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+const element = <Velkomen name="Sara" />;
+ReactDOM.render(
+  element,
+  document.getElementById('root')
+);
+
+
+Components can refer to other components in their output.  This example renders a component/function called App which
+includes the Velkomen component:
+
+function App() {
+  return (
+    <div>
+      <Velkomen name="Sara" />
+      <Velkomen name="Cahal" />
+      <Velkomen name="Edite" />
+    </div>
+  );
+}
+
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+);
+
+Typically, new React apps have a single App component at the very top.
+
+Note that components cannot modify their props.
+
+Here is a "Comment" component:
+
+function Comment(props) {
+  return (
+    <div className="Comment">
+      <div className="UserInfo">
+        <img className="Avatar"
+          src={props.author.avatarUrl}
+          alt={props.author.name}
+        />
+        <div className="UserInfo-name">
+          {props.author.name}
+        </div>
+      </div>
+      <div className="Comment-text">
+        {props.text}
+      </div>
+      <div className="Comment-date">
+        {formatDate(props.date)}
+      </div>
+    </div>
+  );
+}
+
+It accepts author (an object), text (a string), and date (a date) as props, and describes a comment on a social media
+website or whatever using three divs: 1 for the avatar image, 1 for the text (name), and 1 for the date.
+
+It can be broken up in order to make it more modular.
+
+function Avatar(props) {
+  return (
+    <img className="Avatar"
+      src={props.user.avatarUrl}
+      alt={props.user.name}
+    />
+  );
+}
+
+function UserInfo(props) {
+  return (
+    <div className="UserInfo">
+      <Avatar user={props.user} />
+      <div className="UserInfo-name">
+        {props.user.name}
+      </div>
+    </div>
+  );
+}
+
+Now we can write Comment as:
+
+function Comment(props) {
+  return (
+    <div className="Comment">
+      <UserInfo user={props.author} />      
+      <div className="Comment-text">
+        {props.text}
+      </div>
+      <div className="Comment-date">
+        {formatDate(props.date)}
+      </div>
+    </div>
+  );
+}
+
+State is similar to props, but it is private and fully controlled by the component.
+
+Say we want to make a clock that updates every second on the page.
+
+We want to render it like this:
+
+ReactDOM.render(
+  <Clock />,  document.getElementById('root')
+);
+
+Here is Clock written as a class and getting the date as a prop:
+
+class Clock extends React.Component {
+  render() {
+    return (
+      <div>
+        <h1>Hello, world!</h1>
+        <h2>It is {this.props.date.toLocaleTimeString()}.</h2>
+      </div>
+    );
+  }
+}
+
+The render method will be called each time an update happens, but as long as we render <Clock />
+into the same DOM node, only a single instance of the Clock class will be used. This lets us use
+additional features such as *local state* and *lifecycle* methods.
+
+If we add a *constructor* to the class, and pass *props* to it, then we can change "this.props.date"
+to "this.state.date".
+
+class Clock extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {date: new Date()};  }
+
+  render() {
+    return (
+      <div>
+        <h1>Hello, world!</h1>
+        <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
+      </div>
+    );
+  }
+}
+
+and call it like this, with no props:
+ReactDOM.render(
+  <Clock />,
+  document.getElementById('root')
+);
+
+
+To make the clock change with time...
+
+We want to set up a timer when the Clock is rendered to the DOM for the first time.
+This is called *mounting* in React.
+
+We also want to clear that timer whenever the DOM produced by the Clock is removed.
+This is called *unmounting* in React.
+
+We can declare special methods on the component class to run some code when a component mounts
+and unmounts.  These are called *lifecycle* methods.
+
+The componentDidMount() method runs after the component output has been rendered to the DOM.
+This is a good place to set up a timer.
+
+While *this.props* is set up by React itself and *this.state* has a special meaning, you are free
+to add additional fields to the class manually if you need to store something that doesn’t
+participate in the data flow (like a timer ID).
+
+We will tear down the timer in the componentWillUnmount() lifecycle method.
+
+Finally, we will implement a method called tick() that the Clock component will run every second.
+
+It will use this.setState() to schedule updates to the component local state.
+
+Note: The only place where you can assign this.state is the constructor.
+
+class Clock extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {date: new Date()};
+  }
+
+  componentDidMount() {
+    this.timerID = setInterval(
+      () => this.tick(),
+      1000
+    );
+  }
+
+  componentWillUnmount() {
+    clearInterval(this.timerID);
+  }
+
+  tick() {
+    this.setState({
+      date: new Date()
+    });
+  }
+
+  render() {
+    return (
+      <div>
+        <h1>Hello, world!</h1>
+        <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+  <Clock />,
+  document.getElementById('root')
+);
+
+
+Let’s quickly recap what’s going on and the order in which the methods are called:
+
+1) When <Clock /> is passed to ReactDOM.render(), React calls the constructor of the Clock component.
+ Since Clock needs to display the current time, it initializes this.state with an object including
+ the current time. We will later update this state.
+
+2) React then calls the Clock component’s render() method. This is how React learns what should be
+ displayed on the screen. React then updates the DOM to match the Clock’s render output.
+
+3) When the Clock output is inserted in the DOM, React calls the componentDidMount() lifecycle
+ method. Inside it, the Clock component asks the browser to set up a timer to call the component’s
+ tick() method once a second.
+
+4) Every second the browser calls the tick() method. Inside it, the Clock component schedules a UI
+ update by calling setState() with an object containing the current time. Thanks to the setState()
+ call, React knows the state has changed, and calls the render() method again to learn what should be
+ on the screen. This time, this.state.date in the render() method will be different, and so the render
+ output will include the updated time. React updates the DOM accordingly.
+
+5) If the Clock component is ever removed from the DOM, React calls the componentWillUnmount()
+ lifecycle method so the timer is stopped.
+
