@@ -86,7 +86,8 @@ hroot ()
     read
   done
 }
-_dt="/home/brogan/tagalog"
+#_dt="/home/brogan/tagalog"
+_dt="."
 alias grep-mag-verbs="grep ').*nag.*nag.*mag' $_dt/verbs_samut-samot.txt"
 alias grep-ma-verbs="grep ').* na.* na.* ma' $_dt/verbs_samut-samot.txt | grep -v ').*nag.*nag.*mag'" 
 alias grep-um-verbs="grep ').*um.*um.*um' $_dt/verbs_samut-samot.txt"
@@ -95,7 +96,8 @@ alias grep-an-verbs="grep '^[a-z]*an .*in.*in.*an$' $_dt/verbs_samut-samot.txt"
 alias grep-i-verbs="grep ^i $_dt/verbs_samut-samot.txt | grep -v '[ai]n *$' | grep ' i[a-z]* *$'"
 alias grep-pa-an-verbs="grep ' pa[^ g][^ ]*an$' $_dt/verbs_samut-samot.txt"
 alias grep-pag-an-verbs="grep ' pag[^ ][^ ]*an$' $_dt/verbs_samut-samot.txt"
-alias grep-pa-in-verbs="grep ' pin.* pa[^ ][^ ]*in[^a-z]' $_dt/verbs_samut-samot.txt"
+#alias grep-pa-in-verbs="grep ' pin.* pa[^ ][^ ]*in[^a-z]' $_dt/verbs_samut-samot.txt"
+alias grep-pa-in-verbs="grep '^pa[^ g]*in' $_dt/verbs_samut-samot.txt"
 alias grep-pag-in-verbs="grep ' pag[^ ][^ ]*in$' $_dt/verbs_samut-samot.txt"
 alias gb1="grep -B 1"
 alias ga1="grep -A 1"
