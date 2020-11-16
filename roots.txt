@@ -8105,18 +8105,18 @@ pagwawalís (walis) pagCV_ [noun] sweeping
 walisán (walis) _an [verb] to sweep somewhere; to sweep the floor
 walisín (walis) _in [verb] to sweep something; to broom something
 walís (walis) rt_ [noun] broom; sweeping implement
-ikawaló (walo) [adjective] eighth
-labingwaló (walo) [number] eighteen (18)
-pangwaló (walo) [adjective] eighth
-tig-waló (walo) [adjective] eight for each
-waluhan (walo) _an [adjective] group of eight; [adverb] in groups of eight
-walumpû (walo) [adjective] eighty (80)
-waló (walo) rt_ [number] eight (8)
+ikawaló (walo) num_ [adjective] eighth
+labingwaló (walo) num_ [number] eighteen (18)
+pangwaló (walo) num_ [adjective] eighth
+tig-waló (walo) num_ [adjective] eight for each
+waluhan (walo) num_ [adjective] group of eight; [adverb] in groups of eight
+walumpû (walo) num_ [adjective] eighty (80)
+waló (walo) num_ [number] eight (8)
 magwasák (wasak) mag_ [verb] to destroy
-mapangwasak (wasak) [adjective] destructive
+mapangwasak (wasak) mapang_ [adjective] destructive
 mawasak (wasak) ma_ [verb] to get destroyed
-pagkawasák (wasak) [noun] destruction; ruin
-pagwasák (wasak) [noun] destroying; destruction
+pagkawasák (wasak) pagka_ [noun] destruction; ruin
+pagwasák (wasak) pag_ [noun] destroying; destruction
 wasakin (wasak) _in [verb] to destroy something
 wasák (wasak) rt_ [adjective] destroyed; ruined
 Mgá Kawikaán (wika) [noun] proverbs; the book of Proverbs from the Bible
@@ -8141,12 +8141,12 @@ pagkawili (wili) pagka_ [noun] being fond of
 wili (wili) rt_ [noun] fondness; enjoyment; interest in
 wíling-wili (wili) [adjective] very fond of; very interested in
 ipagyabáng (yabang) ipag_ [verb] to boast about something
-kayabangan (yabang) [noun] arrogance
+kayabangan (yabang) ka_an [noun] arrogance
 magmayabáng (yabang) magma_ [verb] to boast; to brag
 magyabáng (yabang) mag_ [verb] to boast; to brag; to show off
-mayabang (yabang) [adjective] boastful; arrogant; haughty; braggart; show off
-pagmámayabáng (yabang) [noun] boastfulness
-pagyayabáng (yabang) [noun] boasting; pretension
+mayabang (yabang) ma_ [adjective] boastful; arrogant; haughty; braggart; show off
+pagmámayabáng (yabang) pagmama_ [noun] boastfulness
+pagyayabáng (yabang) pagCV_ [noun] boasting; pretension
 yabang (yabang) rt_ [noun] boast; boasting; arrogance; smugness; over confidence
 magkayakap (yakap) magka_ [adjective/adverb] in an embrace; in a hug
 mapayakap (yakap) mapa_ [verb] to hug involuntarily or unintentionally
@@ -8155,21 +8155,21 @@ pagkakayakap (yakap) [noun] hugging; hug; embrace
 yakap (yakap) rt_ [noun] hug; embrace
 yakapin (yakap) _in [verb] to hug someone/something; to embrace someone/something; to cuddle something/someone
 yumakap (yakap) _um_ [verb] to hug; to embrace
-anak-mayaman (yaman) [noun] rich kid; rich child
-ingatáng-yaman (yaman) [noun] treasury
-kayamanan (yaman) [noun] riches; wealth; being wealthy
-likás-yaman (yaman) [noun] natural treasure; natural wonder; natural riches
+anak-mayaman (yaman) compound_ [noun] rich kid; rich child
+ingatáng-yaman (yaman) compounc_ [noun] treasury
+kayamanan (yaman) ka_an [noun] riches; wealth; being wealthy
+likás-yaman (yaman) compound_ [noun] natural treasure; natural wonder; natural riches
 magpayaman (yaman) magpa_ [verb] to enrich; to cultivate
-mayaman (yaman) [adjective] rich; wealthy; affluent
-napakayaman (yaman) [adjective] very rich
-pagyaman (yaman) [noun] being rich/wealthy
-payaman (yaman) getting rich
-pinakamayaman (yaman) [adjective] richest
-pinakayaman (yaman) [adjective] richest; wealthiest
+mayaman (yaman) ma_ [adjective] rich; wealthy; affluent
+napakayaman (yaman) napaka_ [adjective] very rich
+pagyaman (yaman) pag_ [noun] being rich/wealthy
+payaman (yaman) pa_ getting rich
+pinakamayaman (yaman) pinakama_ [adjective] richest
+pinakayaman (yaman) pinaka_ [adjective] richest; wealthiest
 yaman (yaman) rt_ [noun] wealth; treasure; riches
 yumaman (yaman) _um_ [verb] to get rich
-yáman-yaman (yaman) [adjective] very rich; very wealthy
-íngat-yaman (yaman) [noun] treasurer
+yáman-yaman (yaman) rt_rt [adjective] very rich; very wealthy
+íngat-yaman (yaman) compound_ [noun] treasurer
 mayamót (yamot) ma_ [verb] to feel annoyed; to feel irritated; to feel bored
 nakakayamót (yamot) nakaka_ [adjective] annoying; irritating; disgusting; boring
 pagkayamót (yamot) pagka_ [noun] annoyance; boredom
