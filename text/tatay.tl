@@ -30,3 +30,7 @@ TATAY
    Another Tagalog word for ‘Dad’ is Itay.
 
    The formal word for ‘father’ in Tagalog is ama.
+
+KAHULUGAN SA TAGALOG
+
+   tátay: itáy

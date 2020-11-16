@@ -13,22 +13,23 @@ hing-	'a simulated state or action' (hinanakit - grudge : hing + sakit) *A Resta
         tala- "list of similar items" (talaarawan - calendar, talatinigin - vocabulary)
 -ti-	'unexpected, sudden'
         pati- caused by unexpected action (patirapa - unexpected falling)
+-ki-	doing together
         maki- 'act together' (makiani - to cooperate in harvesting ("ani" is harvest)
         (pakikipag-usap - talking together)
 p-	'abstract of action or a hypostatic state'
-        pag- 'abstract comprehensive action' (pagbasa - reading, pagtatanong - asking)
-        pang- 'abstract habitual action or habitual use of/for' (pang-aagaw - snatching, pang-ayos - arranging)
-        paki- 'abstract cooperative action' (paki-usap - supplication)
+        pag- 'abstract *comprehensive* action' (pagbasa - reading, pagtatanong - asking)
+        pang- 'abstract *habitual* action or habitual use of/for' (pang-aagaw - snatching, pang-ayos - arranging)
+        paki- 'abstract *cooperative* action' (paki-usap - supplication)
 -kang-	'involuntary'
         magkang- involuntary comprehensive action (magkakangdarapa - will stumble accidentally)
 -an	nouns of place, period, tools, joint performance
 	kilusán | a movement, campaign, activity, crusade
--an	to do something in direction of (ex. dalhan - bring to, sing to, go to, write to)
+-an	to do something in direction of LOCATIVE FOCUS (ex. dalhan - bring to, sing to, go to, write to)
 	Lagyan ng tubig ang ref.  |  Put the water in the ref.
 	Abangán ang súsunód na kabanatà.  |  Stay tuned for the next episode.
 	Inabangán kitá sa kanto kagabí.  |  I kept an eye out for you at the street corner last night.
 	Dito kitá áabangán bukas.  |  I will keep an eye out for you here tomorrow.
--an	to do something for a beneficiary (ex. tirhan - leave something for someone)
+-an	to do something for a beneficiary, though this is not strictly grammatical (ex. tirhan - leave something for someone)
 	Binilhán ni John ng bulaklák ang nanay niyá.  |  John bought flowers/a flower for his Mom.
 	Bilhán mo akó ng prutas sa supermarket.  |  Buy me some fruits at the supermarket.
 	Bigyán mo akó ng halimbawà.  |  Give me an example.
@@ -216,7 +217,7 @@ mag-	deliberate, intentional action
 	Takót akóng magdaán sa lagusan.  |  I'm afraid to pass through the tunnel.
 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
 magCum-	to exert great effort in doing
-mag-an	reciprocal action
+mag-an	reciprocal or group action
 	magmahalan  |  to love each other
 	magsigawan  |  to shout at each other
 	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá.  |  The friends laughed when one of them tripped.
