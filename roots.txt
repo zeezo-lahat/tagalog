@@ -7492,18 +7492,18 @@ titig (titig) rt_ [noun] stare; gaze
 titigan (titig) _an [verb] to stare at; to gaze at; to look at
 titigán (titig) [noun] staring at one another
 tumitig (titig) _um_ [verb] to stare; to gaze
-dí makapaniwalà (tiwala) [phrase] cannot believe; find hard to believe (ex(tiwala) di ako makapaniwala; di makapaniwala si Juan)
-dí-kapaní-paniwalà (tiwala) [adjective] incredible; inconceivable; unbelievable; [colloquial] fishy; doubtful;
-kapaní-paniwalà (tiwala) [adjective] credible; authentic; convincing
-kátiwalà (tiwala) [noun] caretaker
+dí makapaniwalà (tiwala) phrase_ [phrase] cannot believe; find hard to believe (ex(tiwala) di ako makapaniwala; di makapaniwala si Juan)
+dí-kapaní-paniwalà (tiwala) compound_ [adjective] incredible; inconceivable; unbelievable; [colloquial] fishy; doubtful;
+kapaní-paniwalà (tiwala) compound_ [adjective] credible; authentic; convincing
+kátiwalà (tiwala) ka_ [noun] caretaker
 magtiwalà (tiwala) mag_ [verb] to believe; to be convinced; to have confidence in; to trust in
 maniwalà (tiwala) ma_ [verb] to believe; to be convinced; to have confidence in
-mapagkákatiwalaan (tiwala) [adjective] trustworthy; can be trusted
+mapagkákatiwalaan (tiwala) mapagkaka_an [adjective] trustworthy; can be trusted
 pagkátiwalaan (tiwala) pagka_an [verb] entrust to the care of; consign; relegate; confide
-pagtitiwalà (tiwala) [noun] trust; confidence; leaving in the care of someone; confiding
-paniwalà (tiwala) [noun] belief; opinion; attitude; credence; [adjective] convinced
+pagtitiwalà (tiwala) pagCV_ [noun] trust; confidence; leaving in the care of someone; confiding
+paniwalà (tiwala) pang_ [noun] belief; opinion; attitude; credence; [adjective] convinced
 tiwalà (tiwala) rt_ [noun] trust; reliance; faith in someone; confidence in someone
-katiwalián (tiwali) [noun] anomaly; violation; corruption; absurdity
+katiwalián (tiwali) ka_an [noun] anomaly; violation; corruption; absurdity
 tiwalî (tiwali) rt_ [adjective] corrupt; anomalous; irregular
 magtiyagâ (tiyaga) mag_ [verb] to persevere; to persist; to make do
 matiyagâ (tiyaga) ma_ [adjective] persevering; diligent; painstaking; assiduous; [adverb] patiently; persistently
