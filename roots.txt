@@ -6353,14 +6353,14 @@ siksikan (siksik) [adjective] crowded; jammed
 siksík (siksik) rt_ [adjective] tightly packed; sealed; compact
 sumiksík (siksik) _um_ [verb] to squeeze; to squeeze in; to inject in
 isilang (silang) i_ [verb] to be born (AF); to be brought forth (AF); to be delivered (AF); to bring forth something (OF); to give birth to someone (OF)
-isilang na mulî (silang) i_ [verb] to be reborn
-kasisilang (silang) [adjective] newborn
+isilang na mulî (silang) phrase_ [verb] to be reborn
+kasisilang (silang) kaCV_ [adjective] newborn
 magsilang (silang) mag_ [verb] to give birth; * focus on the person giving birth
-pagsilang (silang) [noun] birth; act of giving birth
+pagsilang (silang) pag_ [noun] birth; act of giving birth
 silang (silang) rt_ [noun] birth; sunrise
-sinilangan (silang) [noun] birthplace; origins
-Gitnáng Silangan (silangan) [noun] Middle East
-hílagang--silangan (silangan) Northeast
+sinilangan (silang) _in [noun] birthplace; origins
+Gitnáng Silangan (silangan) phrase_ [noun] Middle East
+hílagang--silangan (silangan) compound_ Northeast
 silangan (silangan) [noun] East
 silanganan (silangan) [noun] East
 tímog-silangan (silangan) [noun] southeast
