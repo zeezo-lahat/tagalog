@@ -2971,6 +2971,9 @@ pinakamahinà (hina) pinaka_ [adjective] weakest
 hinalain (hinala) _in [verb] to suspect something
 kahina-hinalà (hinala) [adjective] dubious; suspicious
 paghinalaan (hinala) pag_an [verb] to suspect someone (of something)
+hínay-hinay (hinay) rt_rt [adjective] slowly; little by little; slowing down
+mahinay (hinay) ma_ [adjective] slow
+hinay (hinay) rt_ [noun] slowness
 hinayang (hinayang) [noun] regret for not having made use of some opportunity; sense of loss
 manghinayang (hinayang) mang_ [verb] to regret; to feel sorry
 panghihinayang (hinayang) pangCV_ [noun] missed opportunity
@@ -3453,6 +3456,9 @@ irapan (irap) _an [verb] to leer at someone/something; to glare at someone/somet
 irapin (irap) _in [verb] to glare at someone; to scowl at someone; to give angry stare toward someone
 nakairap (irap) naka_ [noun] glaring
 umirap (irap) _um_ [verb] to leer; to glare
+magsing-irog (irog) magsing_ [noun] lovers
+iniirog (irog) _in [adjective] dear; beloved
+irog (irog) rt_ [noun] dear one; beloved; darling; love
 bawa't isá (isa) phrase_ [adjective] each; everyone; each one's
 ikalabing-isá (isa) [adjective] eleventh
 ikalimampú't isá (isa) [adjective] fifty-first
@@ -5418,6 +5424,8 @@ pasukan (pasok) _an [verb] to enter something into; to go to work; to go to scho
 pasukin (pasok) _in [verb] to enter something; to go into something
 pasukán (pasok) _an [noun] start of the school year; the school year; entrance; entryway; entry
 pumasok (pasok) _um_ [verb] to go in; to enter; to get in; to go to school or work; to be hired as
+pasyá (pasya) rt_ [noun] decision
+mapagpasyahán (pasya) mapag_an [verb] to decide something; to come to a decision about something
 ipasyál (pasyal) i_ [verb] to take someone for a walk / stroll; to take someone to places; to take someone on a tour
 magpasyál (pasyal) mag_ [verb] to tour around; to take a stroll; to take a walk; to take a tour
 makapasyál (pasyal) maka_ [verb] to be able to take a stroll around
@@ -5916,32 +5924,32 @@ sakayan (sakay) [noun] stop; bus stop; jeepney stop
 sakyán (sakay) _an [verb] to catch a ride on something (bus, car, etc.); to mount something (a horse, motorcycle, etc.); to play along with someone/something
 sakáy (sakay) rt_ [noun] passenger; [adjective] on board; aboard; riding
 sumakáy (sakay) _um_ [verb] to ride (a car, train, carabao, etc.)
-ansakít (sakit) [adjective] very painful; how painful!
-hinanakít (sakit) [noun] grievance; ill will; grudge; displeasure
+ansakít (sakit) phrase_ [adjective] very painful; how painful!
+hinanakít (sakit) hinang_ [noun] grievance; ill will; grudge; displeasure
 magkasakít (sakit) magka_ [verb] to become sick; to get ill; to break down
 makasakít (sakit) maka_ [verb] to hurt
 manakit (sakit) mang_ [verb] to hurt someone (OF); to be in pain (AF)
 masaktán (sakit) ma_an [verb] to be hurt (AF); to be injured (AF); to have one's feelings hurt (AF); to be offended (AF); to hurt someone's feelings (DF)
-masakít (sakit) [adjective] painful; hurts; hurting
-may sakít (sakit) [adjective] sick; ill; to be sick
-maysakít (sakit) [noun] patient; sick person
-napakasakít (sakit) [adjective] very painful
-nasaktán (sakit) [adjective] hurt; injured; harmed
-pagkakasakít (sakit) [noun] getting sick; becoming sick; suffering from a sickness
-pagmamalasakit (sakit) [noun] concern; empathy; solicitude
-pananakít (sakit) [noun] pain; body pain; body ache
-pinakamasakít (sakit) [adjective] the most painful
+masakít (sakit) ma_ [adjective] painful; hurts; hurting
+may sakít (sakit) phrase_ [adjective] sick; ill; to be sick
+maysakít (sakit) compound_ [noun] patient; sick person
+napakasakít (sakit) napaka_ [adjective] very painful
+nasaktán (sakit) na_an [adjective] hurt; injured; harmed
+pagkakasakít (sakit) pagkaka_ [noun] getting sick; becoming sick; suffering from a sickness
+pagmamalasakit (sakit) pagmamala_ [noun] concern; empathy; solicitude
+pananakít (sakit) pampang_ [noun] pain; body pain; body ache
+pinakamasakít (sakit) pinakama_ [adjective] the most painful
 sakit (sakit) rt_ [noun] moral suffering; anguish; sick of / tired of
-sakitin (sakit) [adjective] sickly
+sakitin (sakit) _in [adjective] sickly
 saktán (sakit) _an [verb] to hurt someone/something; to harm someone/something; to injure someone/something; to treat someone poorly
 sakít (sakit) rt_ [noun] disease; ill; pain; sickness; ache; ailment
-sakít ng ulo (sakit) [noun] headache
+sakít ng ulo (sakit) phrase_ [noun] headache
 sakít-sakít (sakit) rt_rt [adjective] hurting a lot; very painful; in a lot of pain
 sumakít (sakit) _um_ [verb] to ache; to hurt; to become painful
 masakláp (saklap) ma_ [adjective] brutal; disagreeable; bitter; harsh
 sakláp (saklap) rt_ [noun] bitter; bitter taste; brutal; pungent taste; acrid taste
 masakop (sakop) ma_ [verb] to conquer; to occupy
-mánanakop (sakop) [noun] conqueror; invader; colonizer
+mánanakop (sakop) manang_ [noun] conqueror; invader; colonizer
 nasásakupan (sakop) [noun] jurisdiction; subordinate
 pagsakop (sakop) [noun] invasion; occupation; conquest
 pananakop (sakop) [noun] occupation; conquest
@@ -6148,6 +6156,9 @@ kasanggâ (sangga) ka_ [noun] partner (in a game, business, etc.); friend; ally
 pananggâ (sangga) pang_ [noun] shield
 panánggaláng (sangga) [noun] protection; a person or thing that provides protection
 sanggahín (sangga) _in [verb] to defend something
+kasangkapan (sangkap) ka_an [noun] furniture; tool; object; implement; apparatus; device; appliance; equipment
+sangkáp (sangkap) rt_ [noun] ingredient; element; constituent
+isangkáp (sangkap) i_ [verb] to add as an ingredient
 isangkót (sangkot) i_ [verb] to involve; to incriminate
 kasangkután (sangkot) ka_an [verb] to be involved with something; to get caught up in something
 kasangkót (sangkot) ka_ [noun] fellow person implicated
