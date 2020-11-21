@@ -29,21 +29,21 @@ máibá namán	for a change
 patawad po	I'm sorry
 gaano kadalas?	how often?
 hindi malimit	not often
-hating-gabi na  it's late (at night)
+hating-gabi na	it's late (at night)
 sabay tayong kumain	let's eat together
 saan ba ako magsisimula	where do I start?
 papaano ko malalaman	how should I know?
 babalitaan kita	I'll update you
-kinagabihan     on that night
+kinagabihan	on that night
 Ikinalúlungkót ko	I am sorry
 higit sa lahat	above all, most especially
 bagong bili	newly bought
 masarap siya	it's delicious
-Alin ang mas gusto mong sapatos?        Which shoes do you like more?
-Aling kotse ang mas gusto mo?   Which car do you like more?
-Alin dito ang mas masakit?      Which one is more painful?
-may kasunod pa pala     there's still more
-meron pa ba?    is there more?
+Alin ang mas gusto mong sapatos?	Which shoes do you like more?
+Aling kotse ang mas gusto mo?	Which car do you like more?
+Alin dito ang mas masakit?	Which one is more painful?
+may kasunod pa pala	there's still more
+meron pa ba?	is there more?
 Meron pa	There’s more.
 nahanap mo na ba?	did you find it?
 nawawala parin	still missing/lost
@@ -68,7 +68,7 @@ Gusto ko ng iba.	I want another.
 úuwián kitá ng <something>.	I'll bring you home <something>.
 Sásamahan kitá.	I'll go with you.
 Dito ka.	Stay here.
-Dito ka umupo.  Sit here.
+Dito ka umupo.	Sit here.
 mga itó	these
 Sumeryoso ka nga.	Get serious.
 Ano kayâ kung..?	what if..?
@@ -142,7 +142,7 @@ eh ano (naman)?	what about it?
 sinabi ko naman sa iyo..	I'm telling you..
 pake ko?	what do I care?
 bakit ba?	why is that?
-ano ba?!	what is it?!  what do you want??  (expression of annoyance)
+ano ba?!	what is it?!	what do you want??  (expression of annoyance)
 sakâ na	some other time
 Sakâ mo na ako tanungin.	ask me another time.
 maliban kung	unless, if not
@@ -224,11 +224,11 @@ maliban kung	except
 maliban sa	aside from
 at saká	and; and then; as well as; further
 yari sa	made of/from
-Panoorin mo ako.        Watch me.
+Panoorin mo ako.	Watch me.
 yáring-kamáy	handmade
 masyadong marami	too much
 sumamâ ang tingín	to glare at someone or give a mean look
-puwera birò (biro) [phrase] no kidding
+puwera birò	no kidding
 pabayaan	to disregard something, to never mind something
 Hindi kailanman nangyari ito	it never happened
 hindi na mauulit!	never again!
@@ -321,11 +321,11 @@ oo ba	yes, for sure
 Makikita mo!	You'll see!
 Mas gustó ko..	I prefer / like better..
 wala silang paki	no one cares
-tatawagin na kitáng "Honey Bun"	I'll call you "Honey Bun"
+tatawagin na kitáng "Honey Bun"	I'll call you "Honey Bun"
 ang ibig kong sabihin...	what I mean to say is..
 unang ako e	I'll head out, smell ya later
 paano ako?	what about me?
-ano naman...	what about...
+ano naman...	what about...
 sali ka ba?	are you joining?
 hangga't kaya	while you still can
 mahirap pero pwede	difficult but possible/doable
@@ -336,3 +336,5 @@ Sirâ yatà.	Looks like it's broken.
 makipag-isang dibdib	get married
 Noong unang panahon	a long time ago
 kung kaya't	so/therefore/hence
+PabayAan mo	don't worry about it
+pabayAan mo ako	leave me alone
