@@ -651,6 +651,7 @@ giit	insistence; assertion; persistent asking
 gila	demolished
 gilid	edge, border, margin; a slope of a hill
 giliran	edge, border
+giliw	being hospitable; fondness; affection
 ginágawâ	doing, do (ongoing)
 ginagawan	to make something of it
 ginang	title for a married woman; mrs, ma'am, madam
@@ -1262,7 +1263,7 @@ katakám-takám	very delicious
 katalo	opponent
 katambál	a partner, someone you’re paired with
 katanggap-tanggap	acceptable
-katAngiAn	characteristic, trait; attribute, feature
+katangian	characteristic, trait; attribute, feature
 katanungan	question
 katao	person, human being; associate(s)
 katapát	opposite
@@ -1680,6 +1681,7 @@ maghapunan	to have dinner
 maghawak	to hold each other by the hand
 mag-iba	to change or switch
 magigisnan	to awaken to
+magiliw	hospitable, gentle, affectionate, genial; beloved; blessed
 maging isa	to become one
 maging	to happen, become, experience something (is followed by adj or noun stem)
 máginoó	gentlemanly; honorable, a gentleman
@@ -1814,6 +1816,8 @@ mahusay	skillful, capable, methodical
 maiba	to feel out of place
 maigi	well, alright (igi)
 maikailâ	to be able to keep secret, to be able to deny
+maiklî	short, brief
+maiksî	short in length
 mailagay	to be able to put
 mailarawan	to describe something
 maínam	pleasant, tasty, good, exquisite, delicate; elegant, gentile
