@@ -205,7 +205,7 @@ bagà	lung
 bagahe	baggage, luggage
 bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
-bagamá't	even though; although; while; though
+bagamá't	even though; although; while; though, "bagamán at"
 bágay	appropriate, fitting; thing, object
 bágay-bagay	circumstances; this and that, things, various little things
 bagkus	on the contrary, instead, rather, but rather, but instead
@@ -2056,6 +2056,7 @@ masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
 maski na	even if/then/though
 maskí	although, even though, nevertheless, however, whether, aside from; even, mere (sp. "mas que", bagaman)
+masugid	active, industrious, diligent
 masukal	savage, wild, dense, thick (súkal)
 mAsunUrin	obedient
 masuwa	to be butted (as a head-butt, etc.)

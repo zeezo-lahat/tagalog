@@ -5908,12 +5908,12 @@ saká (saka) rt_ [adverb] also; besides; moreover; furthermore; and then
 saká na (saka) phrase_ [phrase] some other time; later
 sumaka (saka) _um_ [verb] to farm
 masakal (sakal) ma_ [verb] to be choked (AF); to be strangled (AF)
-sakalan (sakal) [noun] strangling each other
+sakalan (sakal) _an [noun] strangling each other
 sakalín (sakal) _in [verb] to choke someone/something; to strangle someone
 sakál (sakal) rt_ [adjective] strangled; choked
 sumakál (sakal) _um_ [verb] to choke; to strangle
 isakáy (sakay) i_ [verb] to load something/passengers; to board/mount on an animal/vehicle
-kasakáy (sakay) [noun] fellow passenger
+kasakáy (sakay) ka+ [noun] fellow passenger
 magsakáy (sakay) mag_ [verb] to take on passengers; to load on passengers; to take passengers on a ride
 makasakáy (sakay) maka_ [verb] to be able to ride on a vehicle
 makisakáy (sakay) maki_ [verb] to ride together
@@ -5921,10 +5921,13 @@ masakyán (sakay) ma_an [verb] to be able to ride; to get/understand something (
 nakasakáy (sakay) naka_ [adjective] riding
 pagsakáy (sakay) [noun] boarding; loading; riding
 pasakáy (sakay) pa_ [adverb] by riding (animal or vehicle); [request] can I ride
-sakayan (sakay) [noun] stop; bus stop; jeepney stop
+sakayan (sakay) _an [noun] stop; bus stop; jeepney stop
 sakyán (sakay) _an [verb] to catch a ride on something (bus, car, etc.); to mount something (a horse, motorcycle, etc.); to play along with someone/something
 sakáy (sakay) rt_ [noun] passenger; [adjective] on board; aboard; riding
 sumakáy (sakay) _um_ [verb] to ride (a car, train, carabao, etc.)
+kasakimán (sakim) rt_ [noun] greed
+sakím (sakim) rt_ [adjective] greedy
+masakím (sakim) ma_ [adjective] selfish; greedy
 ansakít (sakit) phrase_ [adjective] very painful; how painful!
 hinanakít (sakit) hinang_ [noun] grievance; ill will; grudge; displeasure
 magkasakít (sakit) magka_ [verb] to become sick; to get ill; to break down
