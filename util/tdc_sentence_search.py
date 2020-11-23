@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+'''
 # search input form from the web page:
 <form method="post" action="/example-sentences/index.php">
 <div style="text-align:center;">
@@ -33,14 +35,29 @@ Cookie: sess_id=ma_5fa6ffad59f689.46266600; sess_id=ma_5fa6ffad59f689.46266600; 
 Upgrade-Insecure-Requests: 1
 
 sentence_keyword=lagi&ligature_search=1
+'''
 
 import requests
 
-_dat = 'sentence_keyword=lagi&ligature_search=1'
+_word='lagi'
 
-_out = requests.post('https://www.tagalog.com/example-sentences/index.php', data=_dat)
-_out.ok
-_out.headers['Content-Type']
-f = open('fooz', 'w')
-f.write(_out.text)
-f.close()
+_headers = {
+    'Host': 'www.tagalog.com',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.5',
+    'Content-Type': 'application/x-www-form-urlencoded',
+    'Origin': 'https://www.tagalog.com',
+    'DNT': '1',
+}
+
+_dat = f'sentence_keyword={_word}&ligature_search=1'
+#_dat = {'sentence_keyword': f'{_word}&ligature_search=1'}
+
+_out = requests.post('https://www.tagalog.com/example-sentences/index.php', headers=_headers, data=_dat)
+if _out.ok:
+    f = open(f'{_word}.php', 'w')
+    f.write(_out.text)
+    f.close()
+else:
+    print('Fail.  Got ', _out.headers['Content-Type'])

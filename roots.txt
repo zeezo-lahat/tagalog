@@ -2971,6 +2971,9 @@ pinakamahinà (hina) pinaka_ [adjective] weakest
 hinalain (hinala) _in [verb] to suspect something
 kahina-hinalà (hinala) [adjective] dubious; suspicious
 paghinalaan (hinala) pag_an [verb] to suspect someone (of something)
+hínay-hinay (hinay) rt_rt [adjective] slowly; little by little; slowing down
+mahinay (hinay) ma_ [adjective] slow
+hinay (hinay) rt_ [noun] slowness
 hinayang (hinayang) [noun] regret for not having made use of some opportunity; sense of loss
 manghinayang (hinayang) mang_ [verb] to regret; to feel sorry
 panghihinayang (hinayang) pangCV_ [noun] missed opportunity
@@ -3453,6 +3456,9 @@ irapan (irap) _an [verb] to leer at someone/something; to glare at someone/somet
 irapin (irap) _in [verb] to glare at someone; to scowl at someone; to give angry stare toward someone
 nakairap (irap) naka_ [noun] glaring
 umirap (irap) _um_ [verb] to leer; to glare
+magsing-irog (irog) magsing_ [noun] lovers
+iniirog (irog) _in [adjective] dear; beloved
+irog (irog) rt_ [noun] dear one; beloved; darling; love
 bawa't isá (isa) phrase_ [adjective] each; everyone; each one's
 ikalabing-isá (isa) [adjective] eleventh
 ikalimampú't isá (isa) [adjective] fifty-first
@@ -4227,60 +4233,61 @@ lumakí (laki) _um_ [verb] to grow big; to become big; to get bigger; to grow up
 magpalakí (laki) magpa_ [verb] to raise; to rear a child; to bring up; to exaggerate; to blow out of proportion; to augment; to enlarge
 maipagmalakí (laki) maipagma_ [verb] to be able to be proud of something; to be able to take pride in something
 malakihán (laki) ma_an [verb] to get bigger
-malakí (laki) [adjective] big; large; much; a lot
-malakí-lakí (laki) [adjective] somewhat big; somewhat large
+malakí (laki) ma_ [adjective] big; large; much; a lot
+malakí-lakí (laki) ma_rt_rt [adjective] somewhat big; somewhat large
 manlakí (laki) mang_ [verb] to enlarge temporarily; to expand; to swell; to grow bigger
 mapagkalakhán (laki) mapagka_an [verb] to outgrow; to grow too large for
 mapalakí (laki) mapa_ [verb] to grow something; to raise someone
-mas malakí (laki) [adjective] bigger
-naglalakihán (laki) [adjective] growing
-napakalakí (laki) [adjective] very big; huge; enormous; monumental
+mas malakí (laki) phrase_ [adjective] bigger
+naglalakihán (laki) magCV_an [adjective] growing
+napakalakí (laki) napaka_ [adjective] very big; huge; enormous; monumental
 pagkalakhán (laki) pagka_an [verb] to grow up with
-paglakí (laki) [noun] progress; growth; growing up
-pagmámalakí (laki) [noun] pride; condescension
-pagpápalakí (laki) [noun] expansion; upbringing; raising (child rearing)
+paglakí (laki) pag_ [noun] progress; growth; growing up
+pagmámalakí (laki) pagmama_ [noun] pride; condescension
+pagpápalakí (laki) pagpapa_ [noun] expansion; upbringing; raising (child rearing)
 palakihín (laki) pa_in [verb] to raise someone; to rear someone (a child); to bring up; to exaggerate; to blow out of proportion; to make something big
-palakí (laki) [adjective] raised by someone other than one's parents (even if the parents are still alive)
-pínakamalakí (laki) [adjective] largest; biggest
+palakí (laki) pa_ [adjective] raised by someone other than one's parents (even if the parents are still alive)
+pínakamalakí (laki) pinakama_ [adjective] largest; biggest
 ilakíp (lakip) i_ [verb] to enclose
-kalakíp (lakip) [adjective] enclosed; with; attached; [noun] enclosure; attachment
+kalakíp (lakip) ka_ [adjective] enclosed; with; attached; [noun] enclosure; attachment
 lakipán (lakip) _an [verb] to enclose something
-lakíp (lakip) [noun] enclosure (something included in a letter)
+lakíp (lakip) rt_ [noun] enclosure (something included in a letter)
 maglakíp (lakip) mag_ [verb] to enclose; to append
 ilakò (lako) i_ [verb] to peddle (sell) something
-lakò (lako) [noun] peddling; things being peddled
+lakò (lako) rt_ [noun] peddling; things being peddled
 maglakô (lako) mag_ [verb] to peddle (sell)
-kalalaán (lala) [noun] gravity; seriousness
-lalâ (lala) [noun] severity; graveness; [adjective] severe
+kalalaán (lala) ka_an [noun] gravity; seriousness
+lalâ (lala) rt_ [noun] severity; graveness; [adjective] severe
 lumalâ (lala) _um_ [verb] to worsen; to get worse; * usually referring to sickness
-malalâ (lala) [adjective] severe; serious
-palalâ (lala) [adjective] getting worse
-batang lalaki (lalaki) [noun] boy
-binalakí (lalaki) [noun] lesbian
-kabataan ng lalaki (lalaki) [noun] boyhood
-kalalakihan (lalaki) [noun] gentlemen; group of males; manhood
-kinalalakinan (lalaki) [noun] penis
-lalaki (lalaki) [noun] man; male person; guy
-pagkalalaki (lalaki) [noun] manhood; masculinity; manliness; penis
-panlalaki (lalaki) [adjective] manly; for men; [grammar] masculine
-kalalimán (lalim) [noun] depth; deep
-lalim (lalim) [noun] depth; drop
+malalâ (lala) ma_ [adjective] severe; serious
+palalâ (lala) pa_ [adjective] getting worse
+batang lalaki (lalaki) phrase_ [noun] boy
+binalakí (lalaki) _ [noun] lesbian
+kabataan ng lalaki (lalaki) phrase_ [noun] boyhood
+kalalakihan (lalaki) kaCV_an [noun] gentlemen; group of males; manhood
+kinalalakinan (lalaki) kinaCV_an [noun] penis
+lalaki (lalaki) rt_ [noun] man; male person; guy
+pagkalalaki (lalaki) pagka_ [noun] manhood; masculinity; manliness; penis
+panlalaki (lalaki) pang_ [adjective] manly; for men; [grammar] masculine
+kalalimán (lalim) ka_an [noun] depth; deep
+lalim (lalim) rt_ [noun] depth; drop
 laliman (lalim) _an [verb] to deepen something
 lumalim (lalim) _um_ [verb] to deepen
-malalim (lalim) [adjective] deep (depth); deep (profound); profound
-napakalalim (lalim) [adjective] very deep
-dugó't lamán (laman) [noun] flesh and blood
-kalamangan (laman) [noun] advantage; lead
-kalamnán (laman) [noun] muscles; substance; pulp
+malalim (lalim) ma_ [adjective] deep (depth); deep (profound); profound
+napakalalim (lalim) napaka_ [adjective] very deep
+dugó't lamán (laman) phrase_ [noun] flesh and blood
+kalamangan (laman) ka_an [noun] advantage; lead
+kalamnán (laman) ka_an [noun] muscles; substance; pulp
 lamanán (laman) _an [verb] to fill something; * focus on the thing being filled
-lamán (laman) [noun] contents; substance; meat; flesh; body; root
+lamán (laman) rt_ [noun] contents; substance; meat; flesh; body; root
 maglamán (laman) mag_ [verb] to contain; to hold; to accommodate
-malamán (laman) [adjective] fleshy; solid and nourishing; expressive
-nilálamán (laman) [noun] contents (e.g., of a manuscript); context
-palamán (laman) [noun] stuffing; filling
-waláng lamán (laman) [adjective] empty; having no contents
+malamán (laman) ma_ [adjective] fleshy; solid and nourishing; expressive
+nilálamán (laman) nila_ [noun] contents (e.g., of a manuscript); context
+palamán (laman) pa_ [noun] stuffing; filling
+waláng lamán (laman) phrase_ [adjective] empty; having no contents
 lumamáng (lamang) _um_ [verb] to outdo
 malamáng (lamang) ma_ [adverb] likely; most likely; probably; most probably; apt
+malamangán (lamang) ma_an [verb] to outdo someone/something; to be able to outdo someone/something
 nakalalamang (lamang) nakaCV_ [adjective] superior; coming in first; ranking first
 Lambingin (lambing) _in To caress; cuddle
 lambingan (lambing) _an [noun] affection and tenderness between two people
@@ -4314,13 +4321,13 @@ malandî (landi) ma_ [adjective] flirty; a flirt
 kanalang (lang) compound_ "ka" + "na" + " lang" (informal contraction) = you just (for) now
 lamang (lang) rt_ [adverb] only; just; alone; * long form of the common word "lang"
 lang (lang) rt_ [enclitic] only; just; alone; right (here/there); * common shortened form of the word "lamang"
-na lang (lang) [enclitics] now only; already only; now just; do as a second choice
-pa lang (lang) [enclitics] just; only; still; only still; only so-and-so much/long
+na lang (lang) phrase_ [enclitics] now only; already only; now just; do as a second choice
+pa lang (lang) phrase_ [enclitics] just; only; still; only still; only so-and-so much/long
 languyan (langoy) _an [noun] swimming pool
 languyín (langoy) _in [verb] to swim somewhere
 langóy (langoy) rt_ [noun] swimming
 lumangóy (langoy) _um_ [verb] to swim
-paglangóy (langoy) [noun] swimming
+paglangóy (langoy) pag_ [noun] swimming
 ilantád (lantad) i_ [verb] to expose something
 lantaran (lantad) _an [adjective] frank; open; [adverb] frankly; openly
 lantád (lantad) rt_ [adjective] exposed; out in the open; prominent; bare; blatant
@@ -4336,18 +4343,18 @@ lapad (lapad) rt_ [noun] width; breadth; wideness
 laparan (lapad) _an [verb] to widen
 lapád (lapad) rt_ [adjective] broad; wide
 lumapad (lapad) _um_ [verb] to widen; to expand
-malapad (lapad) [adjective] broad; wide
+malapad (lapad) ma_ [adjective] broad; wide
 ilapág (lapag) i_ [verb] to put something on the floor; to lay something down; to lay something out; to put something down; to deposit something
 lapág (lapag) rt_ [noun] ground; ground level; floor; ground floor
 lumapág (lapag) _um_ [verb] to land
-paglapág (lapag) [noun] descent; landing
-pálapagan (lapag) [noun] landing field; airport
+paglapág (lapag) pag_ [noun] descent; landing
+pálapagan (lapag) pa_an [noun] landing field; airport
 ilapat (lapat) i_ [verb] to fasten firmly
 lapat (lapat) rt_ [adjective] well-adjusted; exact
 lapatan (lapat) _an [verb] to apply onto something; to administer (ex(lapat) a pill, a treatment, etc.)
 lapát (lapat) rt_ [noun] strips of bamboo
 maglapat (lapat) mag_ [verb] to apply
-dí-paglapit (lapit) [noun] aloofness
+dí-paglapit (lapit) compound_ [noun] aloofness
 ilapit (lapit) i_ [verb] to get closer to something; to move closer to something; to put something closer to something
 kalapít (lapit) ka_ [noun] nearby person; nearby place; [adjective] nearby; neighboring
 lapit (lapit) rt_ [noun] nearness; closeness; proximity
@@ -4360,19 +4367,19 @@ malapit (lapit) ma_ [adjective] near; close
 malapit sa (lapit) close to; approximately
 malapitán (lapit) ma_an [adjective] point blank; at a close range
 mapalapít (lapit) mapa_ [verb] to be close to; to be able to get closer to
-nalálapít (lapit) [adjective] oncoming; approaching; forthcoming; upcoming
-napakalapit (lapit) [adjective] very near; very close by
-paglapit (lapit) [noun] approach; act of approaching a person; access; accessing
-palapit (lapit) [adjective] oncoming; approaching; toward; coming closer
-pinakamalapit (lapit) [adjective] nearest; immediate; closest
+nalálapít (lapit) naCV_ [adjective] oncoming; approaching; forthcoming; upcoming
+napakalapit (lapit) napaka_ [adjective] very near; very close by
+paglapit (lapit) pag_ [noun] approach; act of approaching a person; access; accessing
+palapit (lapit) pa_ [adjective] oncoming; approaching; toward; coming closer
+pinakamalapit (lapit) pinakama_ [adjective] nearest; immediate; closest
 ilarawan (larawan) i_ [verb] to portray something; to illustrate something; to depict something; to describe something
 larawan (larawan) rt_ [noun] picture; illustration; painting; photograph; image
 maglarawan (larawan) mag_ [verb] to depict; to illustrate; to describe
 máisalarawan (larawan) maisa_ [verb] to be able to visualize something; to be able to picture something
-paglalarawan (larawan) [noun] description; describing; depiction
+paglalarawan (larawan) pagCV_ [noun] description; describing; depiction
 kalaruín (laro) ka_in [verb] to make someone a playmate
-kalarô (laro) [noun] playmate
-laruán (laro) [noun] toy
+kalarô (laro) ka_ [noun] playmate
+laruán (laro) _an [noun] toy
 laruín (laro) _in [verb] to play with something
 larô (laro) rt_ [noun] game; play; sport; event
 maglarô (laro) mag_ [verb] to play
@@ -5418,6 +5425,8 @@ pasukan (pasok) _an [verb] to enter something into; to go to work; to go to scho
 pasukin (pasok) _in [verb] to enter something; to go into something
 pasukán (pasok) _an [noun] start of the school year; the school year; entrance; entryway; entry
 pumasok (pasok) _um_ [verb] to go in; to enter; to get in; to go to school or work; to be hired as
+pasyá (pasya) rt_ [noun] decision
+mapagpasyahán (pasya) mapag_an [verb] to decide something; to come to a decision about something
 ipasyál (pasyal) i_ [verb] to take someone for a walk / stroll; to take someone to places; to take someone on a tour
 magpasyál (pasyal) mag_ [verb] to tour around; to take a stroll; to take a walk; to take a tour
 makapasyál (pasyal) maka_ [verb] to be able to take a stroll around
@@ -5916,32 +5925,32 @@ sakayan (sakay) [noun] stop; bus stop; jeepney stop
 sakyán (sakay) _an [verb] to catch a ride on something (bus, car, etc.); to mount something (a horse, motorcycle, etc.); to play along with someone/something
 sakáy (sakay) rt_ [noun] passenger; [adjective] on board; aboard; riding
 sumakáy (sakay) _um_ [verb] to ride (a car, train, carabao, etc.)
-ansakít (sakit) [adjective] very painful; how painful!
-hinanakít (sakit) [noun] grievance; ill will; grudge; displeasure
+ansakít (sakit) phrase_ [adjective] very painful; how painful!
+hinanakít (sakit) hinang_ [noun] grievance; ill will; grudge; displeasure
 magkasakít (sakit) magka_ [verb] to become sick; to get ill; to break down
 makasakít (sakit) maka_ [verb] to hurt
 manakit (sakit) mang_ [verb] to hurt someone (OF); to be in pain (AF)
 masaktán (sakit) ma_an [verb] to be hurt (AF); to be injured (AF); to have one's feelings hurt (AF); to be offended (AF); to hurt someone's feelings (DF)
-masakít (sakit) [adjective] painful; hurts; hurting
-may sakít (sakit) [adjective] sick; ill; to be sick
-maysakít (sakit) [noun] patient; sick person
-napakasakít (sakit) [adjective] very painful
-nasaktán (sakit) [adjective] hurt; injured; harmed
-pagkakasakít (sakit) [noun] getting sick; becoming sick; suffering from a sickness
-pagmamalasakit (sakit) [noun] concern; empathy; solicitude
-pananakít (sakit) [noun] pain; body pain; body ache
-pinakamasakít (sakit) [adjective] the most painful
+masakít (sakit) ma_ [adjective] painful; hurts; hurting
+may sakít (sakit) phrase_ [adjective] sick; ill; to be sick
+maysakít (sakit) compound_ [noun] patient; sick person
+napakasakít (sakit) napaka_ [adjective] very painful
+nasaktán (sakit) na_an [adjective] hurt; injured; harmed
+pagkakasakít (sakit) pagkaka_ [noun] getting sick; becoming sick; suffering from a sickness
+pagmamalasakit (sakit) pagmamala_ [noun] concern; empathy; solicitude
+pananakít (sakit) pampang_ [noun] pain; body pain; body ache
+pinakamasakít (sakit) pinakama_ [adjective] the most painful
 sakit (sakit) rt_ [noun] moral suffering; anguish; sick of / tired of
-sakitin (sakit) [adjective] sickly
+sakitin (sakit) _in [adjective] sickly
 saktán (sakit) _an [verb] to hurt someone/something; to harm someone/something; to injure someone/something; to treat someone poorly
 sakít (sakit) rt_ [noun] disease; ill; pain; sickness; ache; ailment
-sakít ng ulo (sakit) [noun] headache
+sakít ng ulo (sakit) phrase_ [noun] headache
 sakít-sakít (sakit) rt_rt [adjective] hurting a lot; very painful; in a lot of pain
 sumakít (sakit) _um_ [verb] to ache; to hurt; to become painful
 masakláp (saklap) ma_ [adjective] brutal; disagreeable; bitter; harsh
 sakláp (saklap) rt_ [noun] bitter; bitter taste; brutal; pungent taste; acrid taste
 masakop (sakop) ma_ [verb] to conquer; to occupy
-mánanakop (sakop) [noun] conqueror; invader; colonizer
+mánanakop (sakop) manang_ [noun] conqueror; invader; colonizer
 nasásakupan (sakop) [noun] jurisdiction; subordinate
 pagsakop (sakop) [noun] invasion; occupation; conquest
 pananakop (sakop) [noun] occupation; conquest
@@ -6034,24 +6043,24 @@ sumalo (salo) _um_ [verb] to join another; to join another in eating
 sumaló (salo) _um_ [verb] to catch; to pay on someone's behalf
 sálu-salo (salo) [noun] banquet; reception; feast; gathering and eating together; party
 ipasalubong (salubong) ipa_ [verb] to give something as a gift from one's travels
-kasalubong (salubong) [noun] someone met on the way going somewhere
+kasalubong (salubong) ka_ [noun] someone met on the way going somewhere
 magkásalubóng (salubong) magka_ [verb] to happen to meet accidentally one another on the way; to bump in to (meet) on another; to encounter one another
 magpasalubong (salubong) magpa_ [verb] to give a gift from one's travels
 magsalubong (salubong) mag_ [verb] to meet accidentally; to bump in to (meet); to meet one another; to greet each other on arrival;
 makasalubong (salubong) maka_ [verb] to meet on the way
 masalubong (salubong) ma_ [verb] to happen to encounter someone; to happen to meet someone
-pagsalubong (salubong) [noun] reception; meeting
-pasalubong (salubong) [noun] souvenir; anything brought home after a trip; meeting with something
+pagsalubong (salubong) pag_ [noun] reception; meeting
+pasalubong (salubong) pa_ [noun] souvenir; anything brought home after a trip; meeting with something
 pasalubungan (salubong) pa_an [verb] to give a gift to someone from one's travels
 salubong (salubong) rt_ [noun] reception; meeting; welcoming on arrival
 salubungin (salubong) _in [verb] to welcome someone/something; to greet someone; to meet with someone
 sumalubong (salubong) _um_ [verb] to meet or receive a person who has arrived; to welcome someone; to be greeted by
-kasalungát (salungat) [adjective] opposite
+kasalungát (salungat) ka_ [adjective] opposite
 magkasalungát (salungat) magka_ [noun] opposites; antonyms
 salungatín (salungat) _in [verb] to oppose; to contradict; to defy
 salungát (salungat) rt_ [adjective] opposite; contrary; adverse; anti; counter; against
 sumalungát (salungat) _um_ [verb] to contradict; to oppose; to be against; to disagree;
-sálungatan (salungat) [noun] conflict
+sálungatan (salungat) _an [noun] conflict
 ikasamâ (sama) ika_ [verb] to be the reason for becoming bad
 isama (sama) i_ [verb] to take something/someone along; to bring something; to incorporate something; to include something; to append something; * focus on the thing being included/taken along/incorporated
 kasama (sama) ka_ [noun] companion; housemate; associate; chaperone; comrade; anything that goes with something; [adjective] together with; fellow; accompanied with; staying with
@@ -6148,6 +6157,9 @@ kasanggâ (sangga) ka_ [noun] partner (in a game, business, etc.); friend; ally
 pananggâ (sangga) pang_ [noun] shield
 panánggaláng (sangga) [noun] protection; a person or thing that provides protection
 sanggahín (sangga) _in [verb] to defend something
+kasangkapan (sangkap) ka_an [noun] furniture; tool; object; implement; apparatus; device; appliance; equipment
+sangkáp (sangkap) rt_ [noun] ingredient; element; constituent
+isangkáp (sangkap) i_ [verb] to add as an ingredient
 isangkót (sangkot) i_ [verb] to involve; to incriminate
 kasangkután (sangkot) ka_an [verb] to be involved with something; to get caught up in something
 kasangkót (sangkot) ka_ [noun] fellow person implicated

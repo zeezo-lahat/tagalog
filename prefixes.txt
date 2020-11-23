@@ -209,6 +209,7 @@ ma-	accidental or involuntary action (obj.) (eg, makita)
 ma-	mental/emotional (actor), this is more like an adjective (eg, to be angry, annoyed)
 ma-an	abilitative (locative)
 	Sana maintindihan mo.  |  I hope you will understand.
+	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
 ma-an	opinion (actor)
 ma-an	to affect an object (obj.)
 ma-in	adj. of quality in high degree (ex. matulungin - helpful)
@@ -217,20 +218,27 @@ mag-	deliberate, intentional action
 	Takót akóng magdaán sa lagusan.  |  I'm afraid to pass through the tunnel.
 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
 magCum-	to exert great effort in doing
+	magpumilit - to persist; to insist on
 mag-an	reciprocal or group action
 	magmahalan  |  to love each other
 	magsigawan  |  to shout at each other
 	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá.  |  The friends laughed when one of them tripped.
 	Nagtakbuhan silá nang kumilos ang inakalà niláng patáy.  |  They all ran when the one they thought was dead moved.
 magCV-	mag- with great intensity or deliberateness
+	magsisigáw - to shout out loudly
 magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolola) (also with ka-)
 magCV-	nouns referring to a person associated with something (ex. magbobote)
 mag-REP-REP-an	act like or pretend
 magka-	to acquire/become something; to occur involuntarily/accidentally (magkasakit - to become sick)
-magka-	reciprocal action (denoted by "ka") (actor)
-magka-	adj. of two persons or things having something in common, similar to ka- (ex. magkapareho), 
-magka-an	reciprocal action (denoted by "ka") ma- root verbs mainly (actor)
-magkaka-	adj. of 3+ persons or things having something in common
+magka-	adj. of two persons or things having something in common, similar to ka-
+	magkaibá - different; diverse; dissimilar; [adverb] differently
+	magkahalò - mixed together
+	magkasama - together; the two
+	magkapareho - alike; the same
+	magkatabí - side by side; beside one another; beside each other; abreast
+magka-	    reciprocal action (denoted by "ka") (actor)
+magka-an    reciprocal action (denoted by "ka") ma- root verbs mainly (actor)
+magkaka-	adj. of 3+ persons or things having something in common (extension of magka- adjectives)
 magkang-	do something hurriedly
 magma-	trying, pretending, showing off, sim. to mag-root-root-an, "ma" begins adj. (actor)
 magpa-	to cause an action (ang -> sa)  
@@ -239,7 +247,11 @@ magpa-	to increase the intensity/amount of something (ang -> sa)
 magpa-	to control/operate something???? (ang -> ng)
 	magpatakbó ng páaralán  |  run a school, magpatakbó ng trak -> drive a truck
 magpa-an	take part in a contest
-magpaka-	forcing or trying hard to be X
+magpaka-	being/becoming X through/via great effort
+	magpakabaít - to be nice; to make nice
+	magpakamatáy - to commit suicide
+	magpakapagod - to work hard until tired
+	magpakatotoó - to be truthful/honest; to strive to be truthful/honest
 	Gustó ko nang magpakamatáy.  |  I want to end my life.
 	Sinaksák niyá ang kaniyáng asawa at saká nagpakamatáy.  |  He stabbed his wife and committed suicide.
 	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.  |  The town will be flooded once the dam releases water.
@@ -247,6 +259,8 @@ magpaka-	forcing or trying hard to be X
 magpasa-	enter or exist in condition of X
 magpati-	do something violent to yourself; allow something to happen to yourself (both actor)
 magsa-	act the role of, or imitate; to translate
+	magsagawâ - to perform; to carry out; to perpetrate
+	magsaulo - to memorize
 magsi-	pluralized -um- with several people doing act (actor)
 magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
@@ -259,7 +273,7 @@ maipag-	abilitative of ipag- (object undergoes action; benefactor)
 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
-		makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
+	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
 maka-	accidental of ma- actor focus 
 maka-	abilitative ka-in (obj)
 maka-	to be able/have opportunity to do/cause/bring about something, assoc with -um- verbs (actor)

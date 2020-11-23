@@ -177,6 +177,7 @@ asungot	annoying person; irritating person; someone who likes to tag along or fo
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
+atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 awa	pity, mercy
@@ -594,6 +595,7 @@ dúnong	knowledge, wisdom, learning, education
 dupók	fragility
 duwAg	coward
 edad	age
+ensáyo	practice
 estero	estuary
 gaano kalayo	how far?
 gaano man	however/however much
@@ -649,6 +651,7 @@ giit	insistence; assertion; persistent asking
 gila	demolished
 gilid	edge, border, margin; a slope of a hill
 giliran	edge, border
+giliw	being hospitable; fondness; affection
 ginágawâ	doing, do (ongoing)
 ginagawan	to make something of it
 ginang	title for a married woman; mrs, ma'am, madam
@@ -919,6 +922,7 @@ ingay	noise, fuss
 inihahandog	is presenting/offering/dedicating
 inihain	served food
 iniipit	"putting the squeeze on"
+iniirog	beloved (iniibig, minamahal are more common)
 inís	irritation, annoyance; suffocation
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
@@ -960,6 +964,7 @@ ipo-ipo	waterspout
 ipon	gather, collect, save
 ipunin	to gather, collect, save
 ipuwesto	to install in place
+irog	beloved, darling (sinta, giliw)
 isagawa	to put into effect
 isaglit	to do in a hurry
 isahod	catch something falling
@@ -1052,6 +1057,7 @@ kagyat	immediately, instantly; immediate; instant
 kahabaan	length, extent
 kahabag-habag	so very pitiful
 kahalagAhan	importance
+kahánga-hangà	wonderful, extraordinary, magnificent, amazing
 kahapon pa	since yesterday
 kahati	shareholder; share (hati)
 kahawig	to be similar, alike (kamukha, katulad, kawangis, kawangki, kaparis)
@@ -1257,7 +1263,7 @@ katakám-takám	very delicious
 katalo	opponent
 katambál	a partner, someone you’re paired with
 katanggap-tanggap	acceptable
-katAngiAn	characteristic, trait; attribute, feature
+katangian	characteristic, trait; attribute, feature
 katanungan	question
 katao	person, human being; associate(s)
 katapát	opposite
@@ -1305,7 +1311,9 @@ kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
 kawáy	waving of the hand
 kawáyan	bamboo
 káya	ability, competence; able, is able
-kayâ	that's why, therefore, consequently, hence; perhaps, I wonder if (idiom to express doubt, question or surprise)
+kayâ	that's why, so, as a result, consequently, hence, the reason why, therefore
+kayâ	I wonder; I wonder if; do you suppose; perhaps
+kayâ	used idiomatically to express doubt, question or surprise
 kaysá	than, rather than
 kayumanggi	brown
 keso	cheese
@@ -1642,6 +1650,7 @@ mag-abot	hand over
 magagawa	able to be done
 magalak	to rejoice
 mag-alalá	to worry; to be concerned; to be anxious; to be apprehensive
+mag-ensáyo	to practice
 magalang	respectful, well-mannered
 magaling	to be good at something; to improve at something, recover, get better
 maganap	to happen, take place (syn. mangyari)
@@ -1672,6 +1681,7 @@ maghapunan	to have dinner
 maghawak	to hold each other by the hand
 mag-iba	to change or switch
 magigisnan	to awaken to
+magiliw	hospitable, gentle, affectionate, genial; beloved; blessed
 maging isa	to become one
 maging	to happen, become, experience something (is followed by adj or noun stem)
 máginoó	gentlemanly; honorable, a gentleman
@@ -1806,6 +1816,8 @@ mahusay	skillful, capable, methodical
 maiba	to feel out of place
 maigi	well, alright (igi)
 maikailâ	to be able to keep secret, to be able to deny
+maiklî	short, brief
+maiksî	short in length
 mailagay	to be able to put
 mailarawan	to describe something
 maínam	pleasant, tasty, good, exquisite, delicate; elegant, gentile
@@ -2510,6 +2522,7 @@ pagsabihan	to say something to someone; to reprimand someone, to scold someone, 
 pagsama	to combine
 pagsamantalahán	to take advantage of someone/something
 pagsápit	upon arrival; approaching, arriving, coming, eventuality
+pagsasalin	translation
 pagsasAma	relationship
 pagsasatao	personification (also pagsasakatao)
 pagsikapan	to try, attempt
