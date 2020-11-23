@@ -6054,10 +6054,10 @@ sumalungát (salungat) _um_ [verb] to contradict; to oppose; to be against; to d
 sálungatan (salungat) [noun] conflict
 ikasamâ (sama) ika_ [verb] to be the reason for becoming bad
 isama (sama) i_ [verb] to take something/someone along; to bring something; to incorporate something; to include something; to append something; * focus on the thing being included/taken along/incorporated
-kasama (sama) [noun] companion; housemate; associate; chaperone; comrade; anything that goes with something; [adjective] together with; fellow; accompanied with; staying with
-kasamahán (sama) [noun] companion in a group or company; colleague
-kasamaán (sama) [noun] wickedness; evil; atrocity; corruption; badness
-kasáma-sama (sama) [noun] constant companion
+kasama (sama) ka_ [noun] companion; housemate; associate; chaperone; comrade; anything that goes with something; [adjective] together with; fellow; accompanied with; staying with
+kasamahán (sama) ka_an [noun] companion in a group or company; colleague
+kasamaán (sama) ka_an [noun] wickedness; evil; atrocity; corruption; badness
+kasáma-sama (sama) ka_rt_rt [noun] constant companion
 magkasama (sama) magka_ [adjective] together; the two
 magkasama (sama) magka_ [verb] to be companions; to be together; to live together; to be associated with * plural verb
 magsama (sama) mag_ [verb] to bring along; to take (someone) along; to unite; to combine; to blend; to consolidate; to embody; to live together
@@ -6070,39 +6070,39 @@ makisama (sama) maki_ [verb] to get along with
 mapasama (sama) mapa_ [verb] to happen to be included or accidentally be included; to belong; to be one of; to convince someone to join
 mapasamâ (sama) mapa_ [verb] to turn out bad; to become evil
 masamain (sama) ma_in [verb] to take something wrong; to take something the wrong way; to take something poorly; to turn bad; to take a turn for the worse
-masamâ (sama) [adjective] bad; wrong; awful; mean; evil; immoral; harmful; corrupt; devious
-napakasamâ (sama) [adjective] atrocious; very wicked; awful
-pagsama (sama) [noun] accompanying someone; joining along; coming along
+masamâ (sama) ma_ [adjective] bad; wrong; awful; mean; evil; immoral; harmful; corrupt; devious
+napakasamâ (sama) napaka_ [adjective] atrocious; very wicked; awful
+pagsama (sama) pag_ [noun] accompanying someone; joining along; coming along
 pagsamahin (sama) mag_in [verb] to combine something; to have things put together / joined
-pagsasama (sama) [noun] being together; marriage; companionship; coalition
-pagsasáma-sama (sama) [noun] merging
-pakikisama (sama) [noun] Filipino concept of smooth interpersonal relations; adapting to others; getting along; company; society; companionship;
+pagsasama (sama) pagCV_ [noun] being together; marriage; companionship; coalition
+pagsasáma-sama (sama) pagCV_rt_rt [noun] merging
+pakikisama (sama) pakiki_ [noun] Filipino concept of smooth interpersonal relations; adapting to others; getting along; company; society; companionship;
 pasamaín (sama) pa_in [verb] to corrupt; to debauch; to make someone evil
-pinagsáma-sama (sama) [adjective] gathered; collected
-pinágsamahan (sama) [noun] relationship; bond
+pinagsáma-sama (sama) pinag_rt_rt [adjective] gathered; collected
+pinágsamahan (sama) pinag_an [noun] relationship; bond
 samahan (sama) _an [verb] to accompany someone; to be with someone
-samahán (sama) [noun] organization; collective; group; company; corporation; guild; association
+samahán (sama) _an [noun] organization; collective; group; company; corporation; guild; association
 samaán (sama) _an [verb] to make bad; to have something turn bad
 samaín (sama) _in [verb] to be unlucky with something; to fail something
 samâ (sama) rt_ [noun] wickedness; badness; evil
 sumama (sama) _um_ [verb] to accompany; to go with; to join; to go along with
 sumamâ (sama) _um_ [verb] to become bad; to become evil; to deteriorate; to degenerate; to become worse; to be unlucky
-sáma-sama (sama) [noun] togetherness; being together; [adjective] together
-ubod ng samâ (sama) [phrase] depraved; vicious; wretched; very bad
+sáma-sama (sama) rt_rt [noun] togetherness; being together; [adjective] together
+ubod ng samâ (sama) phrase_ [phrase] depraved; vicious; wretched; very bad
 magsamantalá (samantala) mag_ [verb] to take advantage; to abuse; to exploit; to rape
-mapagsamantalá (samantala) [adjective] exploitative; opportunistic
+mapagsamantalá (samantala) mapag_ [adjective] exploitative; opportunistic
 pagsamantalahán (samantala) pag_an [verb] to take advantage of something
-pagsasamantalá (samantala) [noun] exploitation; taking advantage
+pagsasamantalá (samantala) pagCV_ [noun] exploitation; taking advantage
 pánsamantalá (samantala) pang_ [adverb] temporarily; [adjective] tentative; provisional worker; part time;
 samantala (samantala) rt_ [conjunction] meanwhile; while; as
 samantalahín (samantala) _in [verb] to take advantage of something/someone; to take an opportunity for something
 magsambá (samba) mag_ [verb] to worship; to go to church
-pagsambá (samba) [noun] worshipping
+pagsambá (samba) pag_ [noun] worshipping
 sambahín (samba) _in [verb] to worship someone/something
 sambá (samba) rt_ [noun] worship
 sumambá (samba) _um_ [verb] to worship
 isamo (samo) i_ [verb] to implore; to plead
-pagsamo (samo) [noun] plea; appeal
+pagsamo (samo) pag_ [noun] plea; appeal
 samo (samo) rt_ [noun] supplication; appeal; entreaty; earnest request
 samu't-sarì (samo) [adjective] diverse
 sumamò (samo) _um_ [verb] to plead; to entreat

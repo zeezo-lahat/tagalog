@@ -5,6 +5,7 @@ alias broot='cat roots.txt | tgrep.py'
 alias tg='tgrep.py'
 alias listroots='sed "s/[^(]* (//" roots.txt | sed "s/).*//"| sort | uniq'
 alias root_school='while :; do r=$(sort -R root_list.txt | head -1); cat words.txt | tgrep.py ^$r\\t; root $r ; read; done'
+alias root_stem_count="sed 's/[^(]*(//' roots.txt | sed 's/).*//' | uniq -c | sort -rn | less"
 
 word_plus_following_word ()
 {
