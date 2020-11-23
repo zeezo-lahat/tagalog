@@ -1,0 +1,3 @@
+bahay
+daan
+sama | egrep -v 'bad|evil|unlucky|fail|evil|harm'
