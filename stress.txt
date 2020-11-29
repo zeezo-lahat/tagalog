@@ -1,0 +1,25 @@
+if a root has both noun and adj versions, stress will normally be on final syllable for adj version.  in this case,
+most conjugations will have stress on penultimate syllable.  "dala" is a notable exception to adj/noun stress following
+for conjugations
+
+adj roots mostly have stress on final syllable.
+
+when there is no root with penultimate stress, stress will mainly shift when made into _in, pa_in *verb*. 
+stress shifts to final "in" (perhaps not if there is i_ verb?  see ayos).  exceptions: bali
+
+when made into _an or ka_an, pang_an *noun*, stress will often shift to final "an".
+may also shift with _an, ma_an, pag_an verb (likuAn, lampasAn, paghandaAn, pantayAn, maramdamAn)
+
+when there is a noun version of the same (ie, same meaning, not just spelling) root, stress tends to be on the penultimate
+syllable and stay on that syllable when conjugated
+
+compare labag to lapad.
+
+_in, *a_in, _an, ma_an verbs: stress seems to almost always shift:
+hilíng -> hilingán, hilingín 
+lampás -> lampasán 
+alagà -> alagaan, maalagaan
+hirap -> hirapan, mahirapan
+linis -> linisan, linisin 
+
+daan is an exception

@@ -1,3 +1,5 @@
+
+
 AYAN
 
    This word is an interjection.
@@ -13,3 +15,9 @@ AYAN
 
    Ayán nga ang problema.
    So it is… that’s the problem.
+
+KAHULUGAN SA TAGALOG
+
+   ayán: iyán
+
+   Ayán!: pahayag ng pagtatanghal, pagtuturo, o paninisi
