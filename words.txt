@@ -1,4 +1,3 @@
-
 aalug-alog	shaky, rickety
 aapa-apa	groping around
 aba	oh!, well!
@@ -141,7 +140,7 @@ ani	crop, harvest
 ani	said by
 anihin	to harvest
 aniko	I said
-aniya	he/she said
+aniya	he/she said (anya)
 ano man	whatever
 ano	"what" could be used as question or not, as in "I know what.." -> "alam ko anong.."
 antála	delay
@@ -152,6 +151,7 @@ antig	friendly reminder
 antipatiko	displeasing, disagreeable, unfriendly
 anu-ano	this and that; other (plural); plural of ano
 anumán	whatever, something, anything, any, no matter what (ano + man)
+anya	he/she said (aniya)
 anyô	form, appearance, figure
 apaw	overflowing
 apawan	to overflow
@@ -188,6 +188,7 @@ awitan	to sing to someone; song contest
 awitIn	common songs; hits
 awitin	to sing
 ayain	to invite someone
+ayán	there! (interjection)
 ayaw	don't/doesn't want
 ayuda	aid; something supplementary
 ayúno	fasting (not eating)
@@ -212,6 +213,7 @@ bagkus	on the contrary, instead, rather, but rather, but instead
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
 bágong-panganák	newborn
+bágong silang	newly born
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -694,6 +696,7 @@ gunitâ	memory, recollection
 guro	teacher
 gusali	building, structure
 gusto pa	still want
+hábong	hut, pavilion, temporary shelter
 habà	length
 habaan	extend, lengthen
 habágat	southwest, often ref. to storm winds
@@ -1254,7 +1257,8 @@ kasosyo	business partner
 kastígo	reprimand, rebuke; originally meant punishment
 kasundo	someone you get along with; agreeing
 kásunduan	agreement, deal, compromise, covenant, bargain, treaty, concord, contract, compact, pact
-kasunod	next / the next; following; something that follows, result
+kasunód	next / the next; following; something that follows, result
+kasya	to fit in size; sufficient for what’s needed
 katabi	next to, adjacent
 katad	leather
 katagal	duration
@@ -2138,7 +2142,7 @@ miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
 morena	brown skinned (also kayumanggi)
-mukha	face; seems, appears to be, "looks ..", "looks like .."
+mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
 mulî	again
 múlta	fine, penalty
@@ -2370,7 +2374,7 @@ paamoy	"let me smell.."
 paano kung	what if
 paano man	whatever the manner, etc
 paano	how (pno, pnu, panu)
-paaralan	school
+paaralan	school (outdated)
 paarî	possessive
 pababa	downward, "and under"?; something ordered to be brought down
 pabago-bago	changing
@@ -2378,6 +2382,7 @@ pabaláng	hindi maayos (baláng)
 pabalík-balík	recurring; coming back again and again; back and forth
 pabayâ	without care or attention, careless, negligent (walang-ingat, bulagsak)
 pabayaan	to leave something/someone alone, not bother or pay attention to
+pabigla	suddenly
 pabrika	factory (pagawaan)
 padaliin	to make easy
 pader	wall made of stone; concrete or stone wall of a house, etc
@@ -2866,6 +2871,7 @@ pulubi	pauper, mendicant, beggar (magpapalimos)
 pumadyak	to stamp the feet
 pumalit	to substitute for
 pumanaw	to leave, depart; die
+pumara	to stop or hail something, like a taxi
 pumasok	entered, attended
 pumayag	agreed, consented
 pumili	to choose
@@ -3080,7 +3086,7 @@ siksik	crammed, tightly packed
 siksIkan	packed, crowded
 sila	they
 silaban	set on fire
-silang	appearance, rising
+silang	birth, appearance, rising as of the sun
 siláng	mountain pass
 silát	slit, aperture, opening, crevice, gap (also siwang)
 silaw	a glare

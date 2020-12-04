@@ -14,18 +14,29 @@ parser = argparse.ArgumentParser(description='Make flashcards from listen input 
 parser.add_argument('integers', metavar='N', type=int, nargs='+',
                             help='an integer for the accumulator')
 
-if sys.argv[1] is "-":
-    f =  sys.stdin
-else:
-    f = open(sys.argv[1], 'r') 
+f = open(sys.argv[1], 'r') 
 
 # read input:
 myinput = f.read()
+order = ""
+dothismany = 10
 
 try:
-    order = sys.argv[2] # if == "r" do english -> tagalog
+    if sys.argv[2] == "r": # if == "r" do english -> tagalog
+        order = "r"
+    elif int(sys.argv[2]): # do this many
+        dothismany = int(sys.argv[2])
 except:
-    order = ""
+    pass
+
+
+try:
+    if sys.argv[3] == "r": # if == "r" do english -> tagalog
+        order = "r"
+    elif int(sys.argv[3]): # do this many
+        dothismany = int(sys.argv[3])
+except:
+    pass
 
 inc = 0
 # split input into a list of lines:
@@ -35,7 +46,7 @@ mylist.pop()
 
 count=0
 _didalready = []
-while count < 10:
+while count < dothismany:
     j = 0
 
     while True:
