@@ -1,4 +1,5 @@
 #!/bin/bash
+# need to fix.  see "at", where there is "example grouping for" included
 
 if [ ${#1} -gt 0 ]; then
   f=$1

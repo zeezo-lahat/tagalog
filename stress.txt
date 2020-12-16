@@ -15,7 +15,7 @@ syllable and stay on that syllable when conjugated
 
 compare labag to lapad.
 
-_in, *a_in, _an, ma_an verbs: stress seems to almost always shift:
+_in, *a_in, _an, ma_an verbs: stress will almost always shift:
 hilíng -> hilingán, hilingín 
 lampás -> lampasán 
 alagà -> alagaan, maalagaan

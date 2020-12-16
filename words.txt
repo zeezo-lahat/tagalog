@@ -200,6 +200,7 @@ babasagin	breakable, fragile
 baboy	pig
 babuyan	pigpen
 badíng	gay (baklâ)
+badúy	uncool, unhip, old-fashioned, low class
 bagá	an emphatic marker
 baga	glowing coal, ember
 bagà	lung
@@ -217,6 +218,7 @@ bágong silang	newly born
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
+bagwís	feather
 bagyó	storm, typhoon; successful
 bahâ	flood
 bahág	G-string (loin-cloth)
@@ -360,6 +362,7 @@ bihira	seldom
 bílang	number; "as X"
 bilanggo	prisoner, captive
 bilangguan	jail
+bilíb	confidence in someone or something (colloquial term for 'believe')
 bilibid	jail
 bilis	speed
 bilisan	hurry
@@ -554,7 +557,7 @@ dilaw	yellow
 dilíg	watering (of plants); irrigation
 diligán	to water something; to sprinkle with water
 di-mapigil	unstoppable
-din	too, also; nevertheless, anyway, surely; in return; rather, somewhat (the expression modified is like a corresponding earlier idea)
+din	too, also; nevertheless, anyway, surely; in return; pretty much
 dingdíng	flimsy wall; wooden wall ("pader" is for a sturdy wall)
 dinggín	to listen to, to hear (dinig)
 diníg	audible
@@ -564,8 +567,7 @@ di-sanáy	unskilled, unused to
 disényo	design
 disgrasya	mishap
 diskarte	resourcefulness, mojo, street smarts; appeal
-di-umanó	it is said, allegedly
-di-umanó	they say
+di-umanó	it is said, allegedly, they say
 diwang	ceremony, celebration (prefer pagdiriwang)
 diyan ka lang	stay put
 diyosa	goddess
@@ -692,6 +694,7 @@ gumanda	beautify
 gumasta	to spend money
 gumawa	to make, create, produce, commit, undertake
 gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
+gunaw	end of the world, destruction of all things, deluge
 gunitâ	memory, recollection
 guro	teacher
 gusali	building, structure
@@ -894,7 +897,7 @@ ikalimampú't isá	fifty-first
 ikapit	to hold on to or grasp something
 ikasawî	to cause severe misfortune or death
 ikáw ay	you are
-ikay	you are (ikáw ay)
+ika'y	you are (ikáw ay)
 ikinalulungkot	apologize (formal, "I am sad to say..")
 ikulóng	to cage, shut in
 ilaán	to devote something; to dedicate something
@@ -1234,6 +1237,7 @@ kasalukúyan	current, present time (salúkoy)
 kasalungat	opposite
 kasáma	among, together, with, including
 kasáma	companion, comrade, fellow, associate
+kasáma	together with, accompanied with, staying with
 kasamahan	companion in a group or company, colleague, roommate, etc.
 kasanayan	skill, proficiency
 kasanggulan	infancy
@@ -1297,7 +1301,7 @@ katutubò	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 katuturán	significance, value, use, utility (this is a root)
 katwIran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
-kaugnay	regarding, allied, related; relative; incidental
+kaugnáy	regarding, allied, related; relative; incidental
 kaugnayan	relation
 kauna-unahan	the very first, earliest
 káunawaán	(n) understanding (unawa)
@@ -2374,7 +2378,7 @@ paamoy	"let me smell.."
 paano kung	what if
 paano man	whatever the manner, etc
 paano	how (pno, pnu, panu)
-paaralan	school (outdated)
+páaralán	school (outdated)
 paarî	possessive
 pababa	downward, "and under"?; something ordered to be brought down
 pabago-bago	changing
@@ -2587,6 +2591,7 @@ pakinabang	earnings, gain, profit (root: kinabang)
 pakipasa	please pass along
 pakiramdAm	feeling (n/v)
 pakisabi	"please tell"
+pakisuyò	"please"
 pakiusap	a plea, a request/petition as in an announcement
 pakpák	wing
 pakumbabâ	modest, humble (also mapagpakumbabâ)
@@ -2764,6 +2769,7 @@ paslít	young innocent child; very young, innocent, inexperienced
 pasók	entry, admission; work, school
 pastól	shepherd
 pasubali	taking exception to something (during a discussion, etc.); dissenting opinion
+pasuyò	please can you do me a favor?
 patagalin	to make longer
 patagilid	sideways
 patak	drop
@@ -2864,6 +2870,7 @@ pugante	fugitive
 puhúnan	investment
 pukyutan	bee, honeybee
 pulá	red
+pulgada	an inch
 pulô	island
 pulong	meeting
 pulot	picking up from the ground; honey, syrup
@@ -3041,7 +3048,7 @@ sapak	hit, punch, smack, beat
 sápit	arrival
 sapok	a hit, punch
 sapól	at the very beginning; straight, direct
-sapul	to hit a target (syn. tamaan)
+sapúl	since; to hit a target (syn. tamaan)
 sará	closed; to close
 sarado	closed
 saráp	tastiness, deliciousness
@@ -3107,6 +3114,7 @@ sinisi	blamed
 sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
+sinulid	thread
 sinungaling	liar; lie
 sínu-sino	who (plural) also "sinu-sino"
 sipa	kick (with the foot); game using a rattan ball
@@ -3603,7 +3611,7 @@ yarì	manufacture; making, constructing
 yarí	this
 yariin	to manufacture, construct
 yáring-kamáy	handmade
-yata	maybe, perhaps, it seems, I think, "uncertain as to whether a factual statement"
+yatà	probably, perhaps, it seems, I think
 yayà	invitation
 yaya	nanny, au pair, nurse maid; invitation; invited
 yayain	to invite someone
