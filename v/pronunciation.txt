@@ -1,56 +1,36 @@
 trang -> djyang
 
-u -> oo: you, food, boot
-i -> me, see.  sometimes written as y, as in quy
-o -> aw, saw
-a -> similar to a in at, but make mouth wider as if you're feeling awkward, wide and flat
-e -> sharp sound, like eng e mixed with viet a  "egg", but exagerate by making a wide funny face.  
-
-e-hat -> "egg", but relaxed, dull/dopey as if trying to say "a" without moving your mouth
-
-o-hat -> "oh", lips round, do not move mouth
-
-a-moon -> same as viet "a", but "a" is long and a-moon is short.  always followed by another sound.
-
-o-hook -> duh, uh
-
-a-hat -> same as o-hook and but o-hook is long and a-hat is short.  always followed by another sound.
-
-u-hook -> awkward non-english sound, but somewhat like "oo" or vietnamese "u".
+u -> oo
+i -> me
+o -> saw
+a -> at, but make mouth wider as if you're feeling awkward, wide and flat
+e -> egg, sharp sound, like eng e mixed with viet a.  exagerate by making a wide funny face.  
+e^ -> egg, but relaxed, dull/dopey as if trying to say "a" without moving your mouth
+o^ -> oh, lips round, do not move mouth
+a-moon -> shortened viet "a".  (always followed by another sound.)
+o' -> duh, uh
+a^ -> shortened o', going up.  (always followed by another sound.)
+u' -> awkward non-english sound, but somewhat like "oo" or vietnamese "u".
        > smile, push tongue back, pinch lips together a bit
        try: say viet. "i", then move tongue backwards, or
             start with viet "u", then move lips toward a smile shape
             start with o-hook, then move lips closer together
 
-m, b, v, ph, n, l, h, g sound mostly as in english
-
-d-line is like nd with a very subtle "n" sound preceding the "d", and a bit more harsh than english d: "n-duh"
-
-"t" is something like tagalog t, but with a touch of english "th"
-
-"th" is heavily aspirated and kind of like t followed quickly by h, like 't-huh'
-
-"x" is like s, hissing sound.  not like z.
-
-"s" is like sh in northern, but like viet "x" / eng "s" in southern
-
-"tr" - sounds a lot like eng d/t combo or maybe dj
-
-"ch" - like tr, but with y sound following: "dtyuuh"
-
-"nh" "nyuuh"
-
-"kh" is like eng h with lots of breath then k.  fricative sound.
-
-"r" is slightly rolling with possible hint of eng y
-
-"d" is "dyuuh"
-
-"gi" is like z
-
-"ng" like it looks.  let air come through your nose when saying
-
-"c" is like k, but almost like k/g together.  unaspirated
+b, g, h, l, m, n, ph, v sound mostly as in english
+c - like k, but almost like k/g together.  unaspirated
+ch - "dtyuuh"
+d - "dyuuh"
+d- - d, but more harsh and with a very subtle "n" sound preceding the "d", and a bit more harsh than english d: "n-duh"
+gi * z
+kh * h with lots of breath then k.  fricative sound.
+ng - like it looks.  let air come through your nose when saying
+nh * "nyuuh"
+r - slightly rolling with possible hint of eng y
+s * sh (northern, but like viet "x" / eng "s" in southern)
+t - something like tagalog t, but with a touch of english "th"
+th * heavily aspirated and kind of like t followed quickly by h, like 't-huh'
+tr * sounds a lot like eng d/t combo or maybe dj
+x * s (hissing sound)
 
 spelling rule for g, ng, and c, if followed by vowels i, e, e-hat, ie-hat (ia):
  for g, ng: add h after them. 
