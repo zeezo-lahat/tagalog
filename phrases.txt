@@ -342,6 +342,7 @@ PabayAan mo	don't worry about it
 pabayAan mo ako	leave me alone
 Walâ akong magawa	there's nothing I can do
 kung paano sila gagamitin	how to use X
+walang kahit sino	no one
 para saan?	for what?
 sa wakás	finally, eventually
 ayán na naman	yet again
