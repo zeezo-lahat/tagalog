@@ -15,11 +15,28 @@ syllable and stay on that syllable when conjugated
 
 compare labag to lapad.
 
-_in, *a_in, _an, ma_an verbs: stress will almost always shift:
+_in, *a_in, _an, ma_an, pag_an verbs: stress will almost always shift:
 hilíng -> hilingán, hilingín 
 lampás -> lampasán 
 alagà -> alagaan, maalagaan
 hirap -> hirapan, mahirapan
 linis -> linisan, linisin 
+bilí -> pagbilhán
+bukás -> pagbuksán
+handâ -> paghandaán
+laban -> paglabanan
 
 daan is an exception
+
+
+ka_an conceptual nouns: often there is stress shift to the following syllable
+
+bulók - kabulukán
+buô - kabuuán
+ibá - kaibahán
+
+ma_ adjectives: usually stress stays on same syllable:
+babaw - mababaw
+asó - maasó
+dalás - madalás
+igtíng - maigtíng

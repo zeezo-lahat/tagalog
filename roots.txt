@@ -1404,7 +1404,7 @@ bumilog (bilog) _um_ [verb] to become round
 habilóg (bilog) ha_ [noun/adjective] oval
 kabilugan (bilog) ka_an [noun] roundness; circumference
 kabilugan ng buwán (bilog) phr_ [noun] full moon
-mabilog (bilog) [adjective] round
+mabilog (bilog) ma_ [adjective] round
 mamilog (bilog) mang_ [verb] to become round
 pabilóg (bilog) pa_ [adjective/adverb] in a circle; in circles
 bingihín (bingi) _in [verb] to deafen
@@ -1417,32 +1417,36 @@ biruán (biro) _an [noun] joking; teasing
 birò (biro) rt_ [noun] joke; banter; gag (joke); can you imagine
 bumirò (biro) _um_ [verb] to joke; to tease
 kabiruán (biro) ka_an [noun] someone with whom one jokes; fellow jokester
-mabirò (biro) [adjective] humorous
+mabirò (biro) ma_ [adjective] humorous
 magbiruán (biro) mag_an [verb] to joke around together
 magbirô (biro) mag_ [verb] to joke; to crack a joke; to tease; to banter
 pabirô (biro) pa_ [adverb] jokingly; in a joking way
 pagbibirô (biro) pagCV_ [noun] joking; joking around
 palabirô (biro) pala_ [adjective] likes to joke around; joker
-puwera birò (biro) [phrase] no kidding
+puwera birò (biro) phr_ [phrase] no kidding
 bisà (bisa) rt_ [noun] effectiveness; force; strength; power
-mabisà (bisa) [adjective] effective; works well
+mabisà (bisa) ma_ [adjective] effective; works well
 magkabisá (bisa) magka_ [verb] to memorize
-may bisà (bisa) [adjective] valid
+may bisà (bisa) phr_ [adjective] valid
 pawawaláng-bisa (bisa) paCV_ [noun] voiding; cancelling out
-pinakamabisà (bisa) [adjective] most effective
+pinakamabisà (bisa) pinakama_ [adjective] most effective
 bisita (bisita) rt_ [noun] visitor; guest; visit
 bisitahin (bisita) _an [verb] to visit someone/something
 bumisita (bisita) _um_ [verb] to visit
 mabisita (bisita) ma_ [verb] to be able to visit something
 pagbisita (bisita) pag_ [noun] visit
-bistado (bisto) [adjective] found out; caught
-bisto (bisto) [adjective] uncovered; revealed
+bistado (bisto) sp_ [adjective] found out; caught
+bisto (bisto) rt_ [adjective] uncovered; revealed
 bístuhín (bisto) _in [verb] to reveal a secret
+bitay (bitay) rt_ [noun] capital punishment; death penalty; execution
+bitayin (bitay) _in [verb] to execute (kill) someone (OF)
+bumitay (bitay) _um_ [verb] to execute
+pagbitáy (bitay) pag_ [noun] executing
 bitin (bitin) rt_ [noun] a hanging item / object
 bitinán (bitin) an_ [noun] hanger
 bitín (bitin) rt_ [adjective] not enough; short; lacking; running out of
 ibitin (bitin) i_ [verb] to hang; to suspend (by hanging)
-lambitin (bitin) [noun] hanging or swinging by the hands or feet (like a monkey); hanging on
+lambitin (bitin) lang_ [noun] hanging or swinging by the hands or feet (like a monkey); hanging on
 mabitín (bitin) ma_ [verb] to be left hanging;
 nakabitin (bitin) naka_ [adjective] hanging
 pabitin (bitin) pa_ [noun] pinata
@@ -1461,8 +1465,8 @@ pagbiyahe (biyahe) pag_ [noun] trip; traveling
 bobo (bobo) rt_ [noun] fool; idiot; [adjective] stupid; dumb; foolish
 kabobohan (bobo) ka_an [noun] foolishness; stupidity
 nakakabobo (bobo) nakaka_ [adjective] something that makes one stupid, requiring little thought or analysis; airheaded
-napakabobo (bobo) [adjective] very stupid; very dumb
-pinakabobo (bobo) [adjective] stupidest; most idiotic
+napakabobo (bobo) napaka_ [adjective] very stupid; very dumb
+pinakabobo (bobo) pinaka_ [adjective] stupidest; most idiotic
 bomba (bomba) rt_ [noun] bomb; explosive; firecracker; pump; air pump
 bumomba (bomba) _um_ [verb] to bomb; to pump
 bómbahán (bomba) _an [verb] to pump air, gas or water into something
@@ -1493,15 +1497,15 @@ ipagbuhát (buhat) ipag_ [verb] to lift/carry something for someone else
 magbuhat (buhat) mag_ [verb] to carry; to lift; to arise; to originate
 pagbubuhát (buhat) pagCV_ [noun] lifting
 pagbuhatín (buhat) pag_in [verb] to lift/carry for someone else
-Mabuhay! (buhay) [expression] Welcome!; Literally(buhay) "Live long!"
+Mabuhay! (buhay) exp_ [expression] Welcome!; Literally(buhay) "Live long!"
 buhay (buhay) rt_ [noun] life
 buhayin (buhay) _in [verb] to bring something/someone to life; to give life to something/someone; to revive someone; to provide for someone; to support something/someone; to enable another to live; to raise someone (a child)
 buháy (buhay) rt_ [adjective] alive; living
 bumuhay (buhay) _um_ [verb] to bring to life; to give life to; to revive; to support to enable another to live
-buwís-buhay (buhay) [adjective] life threatening; risky
+buwís-buhay (buhay) compound_ [adjective] life threatening; risky
 bágong-buhay (buhay) compound_ [noun] new life
 habambuhay (buhay) [adjective] lifelong; perpetual; lifetime; all my life; forever
-hábang-buhay (buhay) [adjective] lifelong; perpetual; lifetime; all my life; forever
+hábang-buhay (buhay) compound_ [adjective] lifelong; perpetual; lifetime; all my life; forever
 hánapbuhay (buhay) compound_ [noun] work; job; employment; trade; profession
 ikabuhay (buhay) ika_ [verb] to cause/give a reason for living
 ikinabubuhay (buhay) ikinaCV_ [noun] living; livelihood
@@ -1524,11 +1528,11 @@ panghábang-buhay (buhay) pang_ [adjective] life-long; for life
 pangkabuhayan (buhay) pangka_an [noun] economy
 sumakabilang-buhay (buhay) _um_ [verb] to die; to cross over to the other side
 tálambuhay (buhay) talang_ [noun] biography
-ágaw-buhay (buhay) [adjective] dying; literally "snatching life"
+ágaw-buhay (buhay) compound_ [adjective] dying; literally "snatching life"
 buhulín (buhol) _in [verb] to knot something; to tie something in a knot
 buhól (buhol) rt_ [noun] knot; [adjective] knotted; tied
-buhúl-buhól (buhol) [adjective] full of knots
-ibuhól (buhol) _ [verb] to knot; to in a knot
+buhúl-buhól (buhol) rt_rt [adjective] full of knots
+ibuhól (buhol) i_ [verb] to knot; to in a knot
 pagbubuhól (buhol) pagCV_ [noun] getting tied in a knot; tying in a knot
 buhos (buhos) rt_ [noun] pouring
 buhusan (buhos) _an [verb] to pour somewhere; to pour onto something/somewhere; to flood somewhere; * focus on place being flooded / poured on
@@ -1536,8 +1540,8 @@ bumuhos (buhos) _um_ [verb] to rain heavily; to pour
 ibuhos (buhos) i_ [verb] to pour something
 magbuhos (buhos) mag_ [verb] to pour; to douse
 pagbuhos (buhos) pag_ [noun] pouring; flooding
-bukakà (buka) [adjective] spread open; spread apart; spread legs (slang)
-bukanà (buka) [noun] front
+bukakà (buka) _ [adjective] spread open; spread apart; spread legs (slang)
+bukanà (buka) _ [noun] front
 buká (buka) rt_ [adjective] open; opened (flower, mouth, etc.)
 bumuká (buka) _um_ [verb] to open; to unfold
 ibuká (buka) i_ [verb] to open something; to spread something open
@@ -3276,6 +3280,10 @@ nakaidlíp (idlip) naka_ [adjective] napping
 maidlíp (idlip) ma_ [verb] to nap; to doze
 umidlíp (idlip) _um_ [verb] to nap; to take a nap
 idlíp (idlip) rt_ [noun] nap
+maigi (igi) ma_ [adverb] well; carefully; fine; all right
+igi (igi) rt_ [noun] goodness; fineness; excellence; orderliness
+umigi (igi) _um_ [verb] to get well
+igihan (igi) _an [verb] to do something well; to put in order
 igtingán (igting) _an [verb] to tighten
 igtíng (igting) rt_ [noun] tightness; tension
 mag-igtíng (igting) mag_ [verb] to tighten; to strain
@@ -3712,6 +3720,10 @@ kampihán (kampi) _an [vern] to take sides
 kampí (kampi) rt_ [adjective] biased
 kumampí (kampi) _um_ [verb] to ally; to side with; to take sides with
 magkakampí (kampi) magka_ [noun] allies
+kandado (kandado) rt_ [noun] lock; padlock; bolt; deadbolt
+nakakandado (kandado) naka_ [adjective] locked
+ikandado (kandado) i_ [verb] to lock something
+magkandado (kandado) mag_ [verb] to lock
 kanselado (kansela) sp_ [adjective] cancelled
 kanselahín (kansela) _in [verb] to cancel something
 magkanselá (kansela) mag_ [verb] to cancel
@@ -4144,6 +4156,10 @@ nakalagáy (lagay) naka_ [adjective] placed; situated
 paglagáy (lagay) pag_ [noun] application; putting; placing; laying; the act of putting or placing something
 paglalagáy (lagay) pagCV_ [noun] putting; placing; laying
 palagáy (lagay) pa_ [noun] opinion; estimation; estimate; assumption
+lumagdâ (lagda) _um_ [verb] to sign; to sign off on
+lagdâ (lagda) rt_ (noun) signature; court decision
+lagdaán (lagda) _an [verb] to sign (a document, contract, etc.)
+paglagdâ (lagda) pag_ [noun] signing
 lagì (lagi) rt_ [adverb] always; constantly; habitually; ever
 lumagì (lagi) _um_ [verb] to stay
 mamalagì (lagi) mangCV_ [verb] to remain; to abide
@@ -6497,6 +6513,8 @@ sirà (sira) rt_ [noun] damage; tear; defect; flaw
 sirá ulo (sira) [noun] crazy person; mentally-ill person
 sirâ (sira) rt_ [adjective] broken; damaged; not working; crazy; worn-out;
 sumirà (sira) _um_ [verb] to destroy; to break; to harm; to damage; to spoil; to botch
+masisante (sisante) ma_ [verb] to be fired (AF); to fire someone (OF); to depose someone (OF)
+isisante (sisante) i_ [verb] to depose
 isisi (sisi) i_ [verb] to blame on something or someone
 magsisi (sisi) mag_ [verb] to regret; to repent
 makapagsisi (sisi) makapag_ [verb] to be able to repent

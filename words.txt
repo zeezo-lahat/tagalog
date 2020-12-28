@@ -213,8 +213,8 @@ bágay-bagay	circumstances; this and that, things, various little things
 bagkus	on the contrary, instead, rather, but rather, but instead
 bágo pa	before, prior to
 bágo	new, fresh; before, prior to, previous 
-bágong-panganák	newborn
 bágong silang	newly born
+bágong-panganák	newborn
 bagsak	decline, failure, dropoff; sudden fall or crash
 bagsík	cruelty, severity, fierceness
 baguhin	to change
@@ -568,6 +568,7 @@ disényo	design
 disgrasya	mishap
 diskarte	resourcefulness, mojo, street smarts; appeal
 di-umanó	it is said, allegedly, they say
+diwà	essence, meaning; spirit; sense, central point, meaning
 diwang	ceremony, celebration (prefer pagdiriwang)
 diyan ka lang	stay put
 diyosa	goddess
@@ -699,7 +700,6 @@ gunitâ	memory, recollection
 guro	teacher
 gusali	building, structure
 gusto pa	still want
-hábong	hut, pavilion, temporary shelter
 habà	length
 habaan	extend, lengthen
 habágat	southwest, often ref. to storm winds
@@ -708,6 +708,7 @@ hábang-buhay	lifelong, "while alive" (var: habambuhay)
 habang-panahon	"while time", forever
 hablot	grab
 habol	pursue, run after, chase
+hábong	hut, pavilion, temporary shelter
 hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
@@ -1015,6 +1016,7 @@ iuwi	to take someone home
 iwan	leaving, abandoning, omitting
 iwas	avoidance
 iyak	crying
+iyong	informal "ang", like "yung"
 jack-en-poy	rock-paper-scissors
 jokla	gay
 kaagAd	immediately; soon/asap
@@ -1088,6 +1090,7 @@ kahit paano	somehow
 kahit papaano	somehow; in some way; whatever happens
 kahit sino	anyone
 kahit	despite, although, even, even if (khit)
+kahoy	wood, lumber, tree
 kahulugan	meaning, significance; interpretation
 kaibahan	a difference
 kaibigang putik	“mud” friend = fake friend
@@ -1109,6 +1112,7 @@ kakaunti	a very small amount (unti)
 kakayahán	capability, skill
 kakila-kilabot	terrifying
 kakulitan	peskiness, badgering
+kakupalan	state of being nasty
 kalabAn	opponent
 kalabóso	prison
 kaladkád	drag/dragging
@@ -1319,8 +1323,8 @@ kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
 kawáy	waving of the hand
 kawáyan	bamboo
 káya	ability, competence; able, is able
-kayâ	that's why, so, as a result, consequently, hence, the reason why, therefore
 kayâ	I wonder; I wonder if; do you suppose; perhaps
+kayâ	that's why, so, as a result, consequently, hence, the reason why, therefore
 kayâ	used idiomatically to express doubt, question or surprise
 kaysá	than, rather than
 kayumanggi	brown
@@ -1394,6 +1398,7 @@ kung	if, whether (hypothetical, non-actual/possible condition, though used same 
 kungsabAgay	"as a matter of fact"
 kunin	get, take
 kunwari	pretend (also kunyari)
+kupal	smegma; used to describe a foolish or nasty person
 kupas	faded, out of date, out of use
 kurIpot	stingy
 kusà	deliberately, voluntarily
@@ -1658,7 +1663,6 @@ mag-abot	hand over
 magagawa	able to be done
 magalak	to rejoice
 mag-alalá	to worry; to be concerned; to be anxious; to be apprehensive
-mag-ensáyo	to practice
 magalang	respectful, well-mannered
 magaling	to be good at something; to improve at something, recover, get better
 maganap	to happen, take place (syn. mangyari)
@@ -1683,6 +1687,7 @@ magdahilan	to make excuses which are not genuine
 magdasal	to pray
 magdaya	to cheat, trick
 magdikit	to stick together
+mag-ensáyo	to practice
 maghain	to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.). (actor)
 maghambóg	to brag, boast
 maghapunan	to have dinner
@@ -1692,9 +1697,9 @@ magigisnan	to awaken to
 magiliw	hospitable, gentle, affectionate, genial; beloved; blessed
 maging isa	to become one
 maging	to happen, become, experience something (is followed by adj or noun stem)
-máginoó	gentlemanly; honorable, a gentleman
 mag-ingat	to be careful
 mag-ingay	to make loud noise
+máginoó	gentlemanly; honorable, a gentleman
 mag-isa	to be alone
 mag-isip	to think of a plan
 magíting	heroic (gíting)
@@ -2350,6 +2355,7 @@ nga	expresses a request; affirmation marker, "truthful, certain" (maganda nga si
 ngayón lang	just now
 ngayón	now; today
 nginíg	to shake, shiver, tremble
+ngipin	teeth
 ngiti	a smile
 ngunit	yet/but, on the other hand
 nilalamán	content(s) (noun, laman)
@@ -2569,6 +2575,7 @@ paham	a very learned person, a genius; very learned, erudite; potency of wine, l
 pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
+pahina	a page of paper
 pahingá	rest, relaxation, day off; resperation (hinga)
 pahingi	"please give me.." (hingi. var: "pengi")
 pahintulot	permission, authorization
@@ -2594,6 +2601,7 @@ pakisabi	"please tell"
 pakisuyò	"please"
 pakiusap	a plea, a request/petition as in an announcement
 pakpák	wing
+paksa	fact, topic, subject, the main idea, point of contention
 pakumbabâ	modest, humble (also mapagpakumbabâ)
 pála	a shovel
 palá	expression of realization; indicates change in topic, as "by the way"
@@ -2678,6 +2686,7 @@ pandaraya	act of cheating
 pandikit	paste, glue
 pandinig	sense of hearing
 pandiriwang	ceremonial, celebratory (adj)
+pandiwa	verb
 pandurUkot	pickpocketing
 pangako	promise
 pangambA	fear
@@ -3071,6 +3080,7 @@ sayaw	dance
 saysáy	statement; value
 sekyu	security guard (also "sikyo")
 selos	jealousy
+si	name marker, marks name of anything with a personality
 sibák	chopping wood with an axe. slang for firing someone.
 sibuyas	onion
 sidlan	to fill a container
@@ -3124,7 +3134,7 @@ sipot	arrival
 sirà	break, damage, ruin (milder than wasak)
 sirâ	broken
 siraulo	brain-broken (crazy)
-sisánte	dismiss, sack, fire
+sisánte	dismiss, sack, fire (also sisánti)
 sisi	remorse
 sísig	a dish from the chopped parts of a pig’s head, ears, cheeks, snout, heart and, brain
 sisiw	chick, a young chicken; easy (slang)
@@ -3579,6 +3589,7 @@ walâ	none, not there, absent, contrary to.. (slang: waley, nawaley)
 walang anu-ano	unexpectedly
 waláng kamálay-malay	unsuspecting
 walang-antala	without delay
+walang-diwa	senseless
 walang-galang	without respect
 walang-gawa	“nothing doing” = unemployed, idle
 walang-hanggan	infinite, boundless, eternal
@@ -3621,6 +3632,6 @@ yukód	bowing one head in respect/greeting, reverence
 yumakap	to hug; to embrace
 yumaman	to get rich
 yumaníg	to shake, to shock
-yumarì	to manufacture, construct
 yumaong	deceased
-yung	the (colloquial); that; * informal spelling for "ang" or "iyon"+linker
+yumarì	to manufacture, construct
+yung	informal "ang".  also "iyon"
