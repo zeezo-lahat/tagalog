@@ -7,5 +7,7 @@ SWAK
 
    Used in the phrase swak na swak, it means something fits perfectly.
 
+KAHULUGAN SA TAGALOG
+
    Malimit gamitin sa anyong “swak na swak,” ang ibig sabihin nito ay
    pasók na pasók o lápat na lápat.

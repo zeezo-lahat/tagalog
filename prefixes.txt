@@ -98,6 +98,7 @@ i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clot
 	Sobra ang binigáy mo sa aking pera.  |  The money you gave me is too much.
 	Kanino mo ibinigáy?  |  To whom did you give it?
 i-	(ng) does something (bring, read, ask, ...) FOR someone else (ang) (benefactor)
+	i- benefactive form is for roots which don't have i- object focus, which also normally don't have "mag" forms
 	Umurong ba si April sa gawaing iniatas mo sa kaniyá?  |  Did April balk at the task you assigned her?
 	Ibinilí ko siyá ng damít.  |  I bought her clothes.
 	Ibilí mo nanay ng sapatos.  |  Buy shoes for Mom.
@@ -158,7 +159,7 @@ ipa-	(ng) has/causes/uses (ang) to (sa) ang is instrument of action
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	Anó ang ipápangalan natin sa aso natin?  |  What should we name our dog?
 	Ipaalala mo sa akin.  |  Remind me.
-ipag-	(ng) does something FOR (ang) (benefactor) -> like i- but with mag- verbs
+ipag-	(ng) does something FOR (ang) (benefactor) -> like i- but with mag- verbs, and not with i- object focus verbs
 	ipaglaban  |  to fight for someone/thing
 	Ipaglutò mo ang nanay ng pansít.  |  Cook pansit for Mom.
 	Ipaghugas mo siyá ng mga plato.  |  Do the dishes for him.
@@ -374,7 +375,6 @@ pag-an	to do something WITH/REGARDING ang (obj)
 	Hindî mo na kailangang pag-isipan pa iyán.  |   You don't need to spend time to still think about that.
 	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
 	pagtaasán   |   to raise something
-	pagkalakhán  |  to grow up with
 	pagbakasyunán  |  to vacation somewhere
 	pagtakpán  |  to cover-up/whitewash something
 	pagtaguan  |  to hide from someone
@@ -395,10 +395,6 @@ pag-an	to do something WITH/REGARDING ang (obj)
 	Naíintindihán ko ang pinagdádaanan mo ngayón.  |   I understand what you're going through right now.
 	Ayaw kong pagtawanán nilá akó.  |  I don't want them to make fun of me.
 	Ang mga taong may kapansanan ay hindî dapat pinagtátawanán.  |  The disabled should not be mocked.
-	Pinagkaloobán tayo ng malayang kalooban.  |  We are endowed with freewill.
-	Pinagkaloobán kamí ng matalinong anák.  |  We were blessed with a smart child.
-	Pagkákaloobán kamí ng pámahalaán ng pabahay.  |  The government will provide us with housing.
-	Pagkákaloobán silá ng pinánsiyál na tulong.  |  They will be provided with financial assistance.
 	Anó ang pagmúmulán ng mga pondo?  |  Where will the funds come from?
 	Hinahanap niya ang pinagmúmulán ng tunóg.  |  He's looking for the source of the sound.
 	Ang pera ang madalás na pagmulán ng away.  |  Money is often the source of conflicts.
@@ -419,6 +415,11 @@ pagka-	the act of having done something, after/upon doing something
 pagka-	nouns of state, condition, typically temporary or specific
 		childhood, blindness, defeat, ownership, death, confusion
 pagka-an	pagkAtiwalAan - to trust someone/thing, to entrust to someone, to confide in someone
+	Pinagkaloobán tayo ng malayang kalooban.  |  We are endowed with freewill.
+	Pinagkaloobán kamí ng matalinong anák.  |  We were blessed with a smart child.
+	Pagkákaloobán kamí ng pámahalaán ng pabahay.  |  The government will provide us with housing.
+	Pagkákaloobán silá ng pinánsiyál na tulong.  |  They will be provided with financial assistance.
+	pagkalakhán  |  to grow up with
 pagkAka-	the MANNER in which something was done (pagkakasabi)
 pagkaka-	conceptual, universal, abstract nouns
 		knowledge, unity, identity, opportunity, fault, consensus

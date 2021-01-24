@@ -20,18 +20,23 @@ b,g,h,l,
 m,n,ph,v sound mostly as in english
 c - like k, but almost like k/g together.  unaspirated
 ch - dtyuuh
-d - dyuuh
+d - [zd]yuuh
 d- - d harsh, with a very subtle "n" sound preceding the "d", and a bit more harsh than english d: "n-duh"
 gi * z
 kh * h with lots of breath then k.  fricative sound.
 ng - like it looks.  let air come through your nose when saying
 nh * nyuuh
 r - r, slightly rolling with possible hint of eng y
-s * sh, (northern, but like viet "x" / eng "s" in southern)
+s * sh, (northern, southern is like eng "s" / viet "x")
 t - t, like tagalog t, but with a touch of english "th"
 th * t-huh heavily aspirated and kind of like t followed quickly by h
 tr * sounds a lot like eng d/t combo or maybe dj
 x * s (hissing sound)
+
+tones:
+
+none: high, long, flat
+up: start low, go up just at the end
 
 
 
