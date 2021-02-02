@@ -3307,6 +3307,9 @@ maigi (igi) ma_ [adverb] well; carefully; fine; all right
 igi (igi) rt_ [noun] goodness; fineness; excellence; orderliness
 umigi (igi) _um_ [verb] to get well
 igihan (igi) _an [verb] to do something well; to put in order
+mag-igíb (igib) mag_ [verb] to draw water (e.g., from a well)
+igíb (igib) rt_ [noun] drawing water (e.g., from a well)
+igiban (igib) _an [noun] place where water can be drawn; watering hole
 igtingán (igting) _an [verb] to tighten
 igtíng (igting) rt_ [noun] tightness; tension
 mag-igtíng (igting) mag_ [verb] to tighten; to strain

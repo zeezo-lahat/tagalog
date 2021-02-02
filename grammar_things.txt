@@ -1,13 +1,13 @@
 gusto|ayaw <ng> <ng>
 gusto namin ng bir.
 
-pa-in:
-Pinaluto ni Mario si Aling Tess ng pansit para sa handaan.
-Mario had Aling Tess cook pansit for the celebration.
+To have someone do something is usually ipa_, magpa_, pa_in depending on focus:
 
-ipa-:
-Ipapaluto ni Mario kay Aling Tess ang pansit para sa handaan.
-Mario will have Aling Tess cook the pansit for the celebration.
+pa_in - focus on the "someone":
+Pinaluto ni Mario si Aling Tess ng pansit para sa handaan. | Mario had Aling Tess cook pansit for the celebration.
+
+ipa_ - focus on the "something":
+Ipapaluto ni Mario kay Aling Tess ang pansit para sa handaan. |  Mario will have Aling Tess cook the pansit for the celebration.
 
 Could also be:
 Ipapaluto ni Mario ang pansit kay Aling Tess para sa handaan.
@@ -17,12 +17,8 @@ Could NOT be!!:
 
 
 ipag-in - causative + benefactive:
-Ipinagluto ko ng sopas ang kapatid ko (dahil maysakit siya).
-I cooked soup for my sister because she is sick.
-The important thing here is the "maysakit siya".  The use of "ipag" here implies
-that this is not an ordinary/routine thing and that there is a particular
-reason for this happening.  If you do not state the reason, your listener will
-be wondering about the reason.
+Ipinagluto ko ng sopas ang kapatid ko (dahil maysakit siya). | I cooked soup for my sister because she is sick.
+If this is a non-ordinary thing, the explanation would be needed: "dahil maysakit siya".
 
 compare:
    mahiyâ    to feel shy or timid
@@ -35,3 +31,4 @@ compare:
 puwede, maari: "as with other modal verbs, they are used with the infinitive of
 any given verb according to any focus"
 
+note puwede has mainly to do with permission rather than ability

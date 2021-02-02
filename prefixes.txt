@@ -137,12 +137,13 @@ ikapang-	causative + instrumental focus, makes nouns causers of action (mang- ve
 	inulán  |  rained on
 -in	nouns nominalizing actions
 -in	adj of being prone or susceptible to something (ex. sakitin)
-ipa-	(ng) has/causes/uses (ang) to (sa) ang is instrument of action
-	ipapatáy  |  to have someone killed
-	Ipápaliwanag ko sa inyó ang nangyari.  |  I will explain to you what happened.
-	Ipáliwanag mo itó sa amin kasí hindî namin siyá maintindihán.  |  Explain this to us because we can't understand.
-	Makiníg tayo sa ipínapaliwanag ng titser.  |  Let's listen to what the teacher is explaining.
+ipa-	(ng) has/causes (sa) to do something re. (ang)
+	Ipapaluto ni Mario kay Aling Tess ang pansit para sa handaan. | Mario will have Aling Tess cook the pansit for the celebration.
 	Nasunód mo ba ang ipinápagawâ ko sa iyó?  |  Were you able to follow through what I asked you to do?
+	Ipakita mo sa akin ang passport mo.  |  Show me your passport.
+	Ipápaliwanag ko sa inyó ang nangyari.  |  I will explain to you what happened.
+	ipapatáy  |  to have someone killed
+	Ipáliwanag mo itó sa amin kasí hindî namin siyá maintindihán.  |  Explain this to us because we can't understand.
 	Magkano ang ginastos mo para ipagawâ ang kotse mo?  |  How much did you spend to have your car repaired?
 	May gustó kamíng ipaalám sa iyó.  |  There's something we'd like you to know.
 	Ipápaalám ninyó sa akin kung áalís na kayó.  |  You (pl) should inform me if you're about to leave.
@@ -151,7 +152,6 @@ ipa-	(ng) has/causes/uses (ang) to (sa) ang is instrument of action
 	Ipakilala mo akó sa kaibigan mo.  |  Introduce me to your friend.
 	Bakit hindî mo akó ipakilala sa kaniyá?  |  Why won't you introduce me to her?
 	Ipinakíkilala siyá sa ilalim ng ibáng mga pangalan.  |  He is known by other names.
-	Ipakita mo sa akin ang passport mo.  |  Show me your passport.
 	Ipinakita sa TV yung aksidente kaninang umaga.  |  This morning's accident was shown on TV.
 	Anó ang ipinangakò mo kay Vicky?  |  What did you promise Vicky?
 	Bakit ayaw mong ipakita sa akin ang picture mo?  |  Why don't you want to show me your picture?
@@ -285,7 +285,7 @@ maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
 maka-	accidental of ma- actor focus 
 maka-	abilitative ka-in (obj)
-maka-	to be able/have opportunity to do/cause/bring about something, assoc with -um- verbs (actor)
+maka-	(actor) to be able/have opportunity to do/cause/bring about something
 	-> compare this with makapag- (assoc with mag verbs)
 	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
 	Nakatulong ang gamót  |  The medicine was helpful.

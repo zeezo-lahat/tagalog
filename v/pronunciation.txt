@@ -1,3 +1,5 @@
+Note: words which end with p, t, ch, c can only have rising or dot vowel tones.
+
 trang -> djyang
 
 u - oo
@@ -16,8 +18,7 @@ u' - awkward non-english sound, but somewhat like "oo" or vietnamese "u".
             start with viet "u", then move lips toward a smile shape
             start with o-hook, then move lips closer together
 
-b,g,h,l,
-m,n,ph,v sound mostly as in english
+b,g,h,l,m,n,ph,v sound mostly as in english
 c - like k, but almost like k/g together.  unaspirated
 ch - dtyuuh
 d - [zd]yuuh

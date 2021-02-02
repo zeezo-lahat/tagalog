@@ -36,7 +36,7 @@ abono	advance payment
 ábot ng mata	visibility
 ábot ng tanaw	within seeing distance, horizon
 ábot ng tingin	visibility
-ábot	reach, catching up with/to
+ábot	reach, power, capacity
 abot-dinig	within hearing/earshot
 abot-kamay	within reach
 abot-tanaw	horizon
@@ -174,7 +174,7 @@ arí-arian	possessions, property, goods
 ariin	to consider, acknowledge
 aruga	nurture, tender care
 arugain	to nurture
-asahan	expect, be sure that something will happen
+asahan	to expect, be sure that something will happen
 ásal	conduct, behavior
 asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
@@ -186,6 +186,7 @@ at	and; and what's more...; as/because (as an explanation of something, eg. "as 
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
+atubilí	hesitation, reluctance (syn. bantulót)
 awa	pity, mercy
 awat	pacification of quarreling people (mang-awat, umawat, awatin)
 awatin	pacify or separate quarreling persons
@@ -299,8 +300,10 @@ bangús	milkfish
 bansâ	nation, state, country
 bantâ	threat, suspicion, notion, intention
 bantáy	guard, sentry, look after
+bantulót	hesitation, reluctance (syn. atubilí)
 banyaga	foreigner; foreign, alien
 barako	strong like the coffee from Batangas
+barang	black magic; sorcery
 barilan	gun battle
 barkada	group of friends, clique, gang
 barkó	a ship
@@ -1156,6 +1159,8 @@ kalidad	quality
 kalikasan	nature
 kalimItan	normally, typically, usually
 kalimutan	to forget
+kaliskís	scales; fish scales, snake scales
+kaliskisán	to descale; to remove scales from
 kaliwA	left (vs. right)
 kaliwa’t kanan	left and right
 kaliwang kamay	left hand
@@ -1378,6 +1383,7 @@ kiníg	something heard
 kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
+kintáb	shine
 kislap	sparkle, scintillation, to glitter, twinkle
 kitá	I to you
 kita	income
@@ -1480,6 +1486,7 @@ laktawan	to skip
 lalagyan	container where something is placed; will place in
 lalakwe	gay
 lalampasin	will overtake
+lalamúnan	throat (lámon)
 lalawIgan	province
 lalim	depth
 lalo ang	namely, particularly
@@ -1504,6 +1511,7 @@ lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
 landas	a path, trail
 langaw	housefly
+langgám	ant
 langis	oil, grease
 langit	sky, heavens; ecstasy
 langitngit	the squeaking sound of a door hinge
@@ -1912,6 +1920,7 @@ makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
 makinilya	type; typewriter
 makinílyahín	to type
+makintáb	shiny, glossy
 makipaggitgitan	(gitgit) to advance by repeated slight movements, to go forward by force
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
@@ -2041,7 +2050,7 @@ mapag-usApan	to discuss, to settle matters, to be talked about
 mapaguusapan	hopeful collective focus/attention(?)
 mapahiya	to lose face, to be put to shame
 mapait	bitter, acidic
-mapakagát	to make someone bite, to make someone agree to something, to bite something involuntarily, to agree to something involuntarily.Conjugations: napakagát, napápakagát, mapápakagát
+mapakagát	to make someone bite, to make someone agree to something, to bite something involuntarily, to agree to something involuntarily
 mapalad	grateful
 mapalaya	to free someone/something
 mapamahiin	superstitious
@@ -2405,6 +2414,7 @@ noón	indicator of the past; then, back when/in, during, at that time, last, pri
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
 normál	normal
+nunò	tiny dwarf or fairy who lives in small mounds or anthills
 óbra maéstra	masterpiece
 óbra	a work (of art, etc.)
 oras	hour, time (usually just say "time" in casual conversation)
@@ -2813,7 +2823,7 @@ pasarapin	to make delicious
 pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasimuno	perpetrator
-pasintabi	please step aside, please let me pass
+pasintabi	please step aside, please let me pass ("pasintabi po")
 pasiyá	a decision, conclusion
 paslít	young innocent child; very young, innocent, inexperienced
 pasók	entry, admission; work, school
@@ -2909,6 +2919,7 @@ pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
 pisngí	cheek
 pitpit	flattened by beating, pounded
+podér	power; authority
 poók	place, site
 pook-pamilIhan	literally “marketplace”
 porsiyénto	percent (syn: bahagdán)
@@ -2977,6 +2988,7 @@ reklAmo	complain
 repaso	review, going over
 reseta	prescription
 resibo	receipt
+ríles	rails, train rails, railroad rails (sp. carriles)
 rin	also, too; anyway, regardless
 rosas	pink
 sa dako	toward, in the direction of
@@ -3171,6 +3183,7 @@ sinisi	blamed
 sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
+sintabì	"Excuse me, passing through"; salitâng-ugat ng pasintabi at nagsasaad ng paggálang, lalo na kung humihingi ng pahintulot
 sinulid	thread
 sinungaling	liar; lie
 sínu-sino	who (plural) also "sinu-sino"
@@ -3238,6 +3251,7 @@ suminsín	to become dense
 sumipot	appear, arrive, show up
 sumisinsin	is becoming dense
 sumite	submit
+sumpak	a homemade firearm; a fire piston (device used to kindle a fire)
 sumugod	to attack, impulsively go forth
 sumuka	to vomit
 sumukò	to give up
@@ -3479,6 +3493,7 @@ tuhog	strings of beads, jewels, etc.; stringing things together
 tuhog	strung together (beads, etc.), pierced together with a skewer
 tuklás	discovery; discovered, found
 tuklasín	to discover or detect something
+tuklaw	snakebite; kagat ng ahas, sagpang; tuka
 tukmól	turtledove; an ugly or stupid person (slang) 
 túkod	support, prop
 tukoy	experienced; accurate in shooting (marksmanship)

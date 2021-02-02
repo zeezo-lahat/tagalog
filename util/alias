@@ -44,6 +44,11 @@ tgt ()
   cat tl_*.txt td_*.txt | tgrep.py "$*" | sort | uniq
 }
 
+tgv ()
+{
+  cat roots.txt words.txt tl_*.txt td_*.txt | tgrep.py "$*" | sort | uniq
+}
+
 tga ()
 {
   cat *.txt | tgrep.py "$*" | sort | uniq
