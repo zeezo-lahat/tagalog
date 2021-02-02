@@ -418,6 +418,7 @@ bola	flattery
 bote-bote	many bottles
 bubo	overflowing; pouring out; poured out
 bubog	pieces of shattered glass
+bubong	roof
 bubúyog	bumblebee; kind of large bee
 bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
@@ -1028,7 +1029,7 @@ itira	set aside
 itlóg	egg
 itsúra	shape, form; appearance (alt. "hitsura")
 itulak	to push, to shove
-ituloy	to continue, proceed
+itulóy	to continue something, proceed with something
 ituring	to consider, regard, think of
 ituro	to point something out
 ituro	to teach something
@@ -1833,7 +1834,7 @@ magtapat	to tell the truth, to be frank, sincere, honest
 magtawíd	to carry across
 magtipon	to collect, to gather together, to store away.
 magtuksuhan	to tease one another
-magtulOy	to proceed, go ahead
+magtulóy	to proceed, go ahead
 magtungo	to head toward, to head somewhere
 magturing	to consider, regard, think of
 magulang	parent, of age, old; ripened; deceptive, sly
@@ -3513,8 +3514,8 @@ tulay	bridge
 tuligsa	invective, public attack in words
 túlog	sleep
 túlong	help, aid, support
-tulOy	proceeding, entering, continuing, progressing
-tuloy	to enter, stay somewhere; as a result of (cause/effect)
+tulóy	proceeding, entering, continuing, progressing
+tulóy	to enter, stay somewhere; as a result of (cause/effect)
 tuloy-tuloy	continual/continuous, straight and unchanging
 tumabo	to scoop water with a shell, can, etc.
 tumadyak	to kick backwards, to kick violently
