@@ -98,7 +98,7 @@ sa pagitan ng	between
 Oo ngâ palá	oh, by the way
 completo	all being present
 may kulang	someone is missing(?)
-paano na	what now
+paano na?	what now?
 akin ito	it's mine
 matagál-tagál na ng huli kong makita nakangiti si delia	it's been a while since I last saw delia smile
 Anong oras darating ang huling bus?	What time does the last bus arrive?
@@ -157,7 +157,6 @@ Di yata siya si Gary.	That can't be Gary.
 Mukháng mauuwî sa walâ ang usapan natin.	It looks like our discussion will lead us nowhere.
 Naglaro ang mga daga habang wala ang pusa.	The mice played while the cat was away.
 Nadiskubré namin na walâ na ang aming mga gamit.	We found out that our stuff had disappeared.
-The organization he once belonged to is gone.	Walâ na ang organisasyóng dati niyáng kinabilangan.
 Walâ na ang organisasyóng dati niyáng kinabilangan.	The organization he once belonged to is gone.
 Walâ rito ang lalaki.	The man is not here.
 Nakipag-usap akó sa coordinator kanina.	I talked with the coordinator earlier today.
@@ -187,3 +186,12 @@ Anuman ang mangyari, kalma ka lang.	Whatever happens, keep calm.
 Nakikinig siya anuman ang sabihin mo.	He listens to whatever you say.
 Anó bang problema mo?	What's wrong with you?
 Mangángahulugán iyán na tinátanggáp ka nilá.	That would mean that they accept you.
+Di ako marunong magsalita ng Tagalog.	I don't speak Tagalog.
+Marunong ako ng kaunting Tagalog.	I know a little Tagalog.
+Hindi siya marunong masyadong mag-ingles.	He doesn't speak English very well.
+Natuwâ kamíng magkaroón ng iláng oras na pahingá.	We were delighted to have a few hours to rest.
+noong bata pa ako	when I was young
+Ang sinabi mo ay nagpaalala sa akin ng isang kakaibang karanasan nang maraming taon ang nakalipas.	What you have said reminds me of a strange experience I had a few years ago.
+Bumalik sa dati.	Returned to what it was before.
+Di akin ito.	This is not mine.
+Walâ kang magagawâ para mapatigil itó.	There's nothing you can do to stop it.

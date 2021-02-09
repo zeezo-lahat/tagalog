@@ -1120,7 +1120,7 @@ bumatà (bata) _um_ [verb] to become young again; to be rejuvenated
 báhay-batà (bata) compound_ [noun] uterus (literally(bata) "baby house")
 kababatà (bata) kacv_ [noun] childhood friend
 kabataan (bata) ka_an [noun] youth; the youth; young people
-kasimbatà (bata) as young as
+kasimbatà (bata) compound_ as young as
 magbatâ (bata) mag_ [verb] to endure; to suffer
 nakababatà (bata) naka_ [adjective] younger
 napakabatà (bata) [adjective] very young
@@ -1128,9 +1128,13 @@ pagkabatà (bata) pagka_ [noun] childhood; state of being young
 pambatà (bata) pang_ [adjective] for kids; infantile
 pangkabataan (bata) pangka_an [adjective] for youth; for young people
 pilyong batà (bata) phr_ [noun] brat; naughty child
-pínakabatà (bata) [adjective] youngest
+pínakabatà (bata) pinaka_ [adjective] youngest
 tagapag-alagá ng batà (bata) phr_ [noun] babysitter
-ísip-batà (bata) [adjective] childish
+ísip-batà (bata) compound_ [adjective] childish
+bumatak (batak) _um_ [verb] to tug; to pull
+baták (batak) rt_ [adjective] pulled; stretched
+batakin (batak) _in [verb] to pull something; to stretch something; to haul something
+batak (batak) rt_ [noun] pull
 Salígang-Batás (batas) compound_ [noun] Constitution (document)
 alagád ng batás (batas) phr_ [noun] law enforcer; law enforcement; police
 batasan (batas) _an [noun] legislature
@@ -1146,7 +1150,7 @@ batay (batay) rt_ [adjective] based on; according to;
 batayán (batay) _an [noun] basis; condition; [adjective] fundamental; basic
 bumatay (batay) _um_ [verb] to base; to depend on
 ibatay (batay) i_ [verb] to base on
-nakababatay (batay) naka_ [noun] contingent
+nakababatay (batay) nakaCV_ [noun] contingent
 nakabatay (batay) naka_ [adjective] based on
 pagbatayán (batay) pag_an [verb] to base something on
 batihín (bati) _in [verb] to beat something; to mix something thoroughly
@@ -1180,6 +1184,8 @@ magbató (bato) mag_ [verb] to harden; to become hard like a stone; to throw som
 malakíng bató (bato) phr_ [noun] boulder
 mamató (bato) mang_ [verb] to throw stones at something/someone (OF)
 pambato (bato) pang_ [noun] representative; best player; model person
+batukan (batok) _an [verb] to hit someone on the nape of the neck; to slap on the back of the head
+batok (batok) rt_ [noun] back of the neck; nape of the neck
 bawal (bawal) rt_ [adjective] prohibited; forbidden; banned; taboo; illicit; restricted
 bawalan (bawal) _an [verb] to forbid; to ban; to prohibit
 ibawal (bawal) i_ [verb] to forbid; to ban; to prohibit
@@ -3330,6 +3336,9 @@ ihing-ihì (ihi) rt_na_rt [adjective] really needing to pee / urinate
 ihì (ihi) rt_ [noun] urine; pee
 maihî (ihi) ma_ [verb] to pee accidentally
 umihì (ihi) _um_ [verb] to pee; to urinate; to piss
+umihip (ihip) _um_ [verb] to blow; to blow air
+hipan (ihip) _an [verb] to blow out something; to blow on/at something
+ihip (ihip) rt_ [noun] blow; gust; breeze; change
 iklián (ikli) _an [verb] to shorten something
 iklî (ikli) rt_ [noun] shortness
 kaiklián (ikli) ka_an [noun] brevity
@@ -4626,47 +4635,50 @@ mailihim (lihim) mai_ [verb] to be able to hide something; to be able to keep so
 malihim (lihim) [adjective] secretive
 paglilihim (lihim) [noun] keeping secret; keeping secrets
 palihím (lihim) pa_ [adverb] secretly
-hinliliít (liit) [noun] pinkie; pinkie finger
-kaliitán (liit) [noun] smallness
+lumihís (lihis) _um_ [verb] to deviate; to stray
+ilihís (lihis) i_ [verb] to divert something; to deflect something
+lihís (lihis) rt_ [adjective/adverb] deflecting; deviated; being wrong
+hinliliít (liit) hinCV_ [noun] pinkie; pinkie finger
+kaliitán (liit) ka_an [noun] smallness
 liitán (liit) _an [verb] to diminish
 liít (liit) rt_ [noun] smallness
 liít-liít (liit) rt_rt [adjective] very small; tiny
 lumiít (liit) _um_ [verb] to become smaller; to diminish; to dwindle
-maliít (liit) [adjective] small; short (in height); diminutive; tiny; minute; insignificant; miniature
-maliít-liít (liit) [adjective] a little bit smaller; somewhat small; a little small
+maliít (liit) ma_ [adjective] small; short (in height); diminutive; tiny; minute; insignificant; miniature
+maliít-liít (liit) ma_rt_rt [adjective] a little bit smaller; somewhat small; a little small
 manliít (liit) mang_ [verb] to shrink
-mas maliít (liit) [adjective] smaller; shorter
-napakaliít (liit) [adjective] very small; minute (size)
-pinakamaliít (liit) [adjective] smallest; least
-aghám pangkalikasan (likas) [noun] natural science
+mas maliít (liit) phr_ [adjective] smaller; shorter
+napakaliít (liit) napaka_ [adjective] very small; minute (size)
+pinakamaliít (liit) pinakama_ [adjective] smallest; least
+aghám pangkalikasan (likas) phr_ [noun] natural science
 ilikas (likas) i_ [verb] to evacuate (AF)
-kalikasan (likas) nature; natural world
+kalikasan (likas) ka_an [noun] nature; natural world
 likas (likas) rt_ [noun] evacuation
 likás (likas) rt_ [adjective] natural; congenital; inherent; character; according to laws of nature
 lumikas (likas) _um_ [verb] to evacuate; to migrate
-makakalikasan (likas) [adjective] for nature
-paglikas (likas) [noun] evacuation; evacuating
-paglilikas (likas) [noun] evacuation; evacuation
-pángkalikasan (likas) [adjective] environmental
+makakalikasan (likas) makaka_an [adjective] for nature
+paglikas (likas) pag_ [noun] evacuation; evacuating
+paglilikas (likas) pagCV_ [noun] evacuation; evacuation
+pángkalikasan (likas) pangka_an [adjective] environmental
 likhaín (likha) _in [verb] to create
 likhâ (likha) rt_ [noun] creation; fiction; creative work
 lumikhâ (likha) _um_ [verb] to create; to generate; to contrive
 makalikhâ (likha) maka_ [verb] to be able to create
-malikhain (likha) [adjective] creative
+malikhain (likha) ma_in [adjective] creative
 malikhâ (likha) ma_ [verb] to be created; to create
-manlilikhâ (likha) [noun] creator; maker; author
-nilikhâ (likha) [noun] creation; fiction.
-paglikhâ (likha) [noun] creating
+manlilikhâ (likha) mangCV_ [noun] creator; maker; author
+nilikhâ (likha) ni_ [noun] creation; fiction.
+paglikhâ (likha) pag_ [noun] creating
 ilikô (liko) i_ [verb] to turn something; to make something turn
-likuan (liko) [noun] bend; detour
+likuan (liko) _an [noun] bend; detour
 likuán (liko) _an [verb] to make a turn to somewhere
 likô (liko) rt_ [adjective] curved; crooked; erroneous; detour
 lumikô (liko) _um_ [verb] to make a turn; to make a detour; to turn
-paglikô (liko) [noun] curve; turning; bend in the road; detour
-pálikuan (liko) [noun] turn off / bend in the road
-likurán (likod) [noun] behind; back side; back; background;
+paglikô (liko) pag_ [noun] curve; turning; bend in the road; detour
+pálikuan (liko) pa_an [noun] turn off / bend in the road
+likurán (likod) _an [noun] behind; back side; back; background;
 likód (likod) rt_ [noun] back (anatomy); back (reverse side); behind
-líkod-bahay (likod) [noun] backyard
+líkod-bahay (likod) compound_ [noun] backyard
 nakatalikód (likod) nakata_ [adjective] with one's back turned toward
 pagtalikod (likod) pagta_ [noun] turning away; turning one's back on; renouncement; defection
 patalikód (likod) pata_ [adjective] backward; turned around; have back toward
@@ -6849,6 +6861,10 @@ tabingî (tabi) slang_ lop-sided
 tabí (tabi) rt_ [noun] side; edge; [preposition] beside
 tabí-tabí (tabi) rt_rt [expression] expression said when entering a location where folkloric creatures may reside, to show respect; [adverb] side by side
 tumabí (tabi) _um_ [verb] to go near someone; to put to the side; to step aside
+itabóy (taboy) i_ [verb] to drive something/someone away; to chase something/someone away; to push something/someone away; to turn someone away (reject someone)
+tabóy (taboy) rt_ [noun] repelling; driving away
+maitabóy (taboy) mai_ [verb] to be able to drive something/someone away; to be able to chase something/someone away
+pagtatabóy (taboy) pagCV_ [noun] repelling
 magtadtád (tadtad) mag_ [verb] to chop; to dice; to mince
 pagtadtád (tadtad) pag_ [noun] chopping; dicing; mincing
 tadtaran (tadtad) _an [noun] chopping block
