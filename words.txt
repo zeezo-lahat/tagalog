@@ -346,6 +346,7 @@ bayad	pay, payment
 bayan	town, country, "home"
 bayani	hero, person who offers free service in a cooperative endeavor
 bayarín	bills, bill; payable
+bayáw	brother-in-law
 bayawak	iguana, monitor lizard
 baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
@@ -559,7 +560,7 @@ dayain	to cheat someone
 dayo	visitor, stranger, foreigner
 dayúhan	foreigner
 dekada	decade
-delikado	fastidious, delicate; crucial, critical; risky; arduous
+delikado	dangerous, risky; fastidious, delicate; crucial, critical; arduous
 despachadora	a saleslady
 detálye	detail
 dibdib	chest, bosom (do not use a hyphen!)
@@ -590,6 +591,7 @@ diskarte	resourcefulness, mojo, street smarts; appeal
 di-umanó	it is said, allegedly, they say
 diwà	essence, meaning; spirit; sense, central point, meaning
 diwang	ceremony, celebration (prefer pagdiriwang)
+diwatà	a muse, nymph, fairy
 diyan ka lang	stay put
 diyosa	goddess
 doon	there ("dun", "duon")
@@ -802,6 +804,7 @@ hibáng	a crazy person; delirious
 hidhid	a selfish person
 higít	more (than), over
 higpít	tightness; strictness, severity
+hikahós	needy, poor, bankrupt
 hila	pull
 hilaga	north
 hilahin	to pull
@@ -1236,7 +1239,7 @@ kapitan	to hold, to grasp
 kapit-bahay	neighbor "adjacent house"
 kapit-kamay	holding hands
 kapit-kuwarto	roommate
-kapit-tuko	“gripping like a gecko” clinging or holding on very tight
+kapit-tukô	“gripping like a gecko” clinging or holding on very tight
 kapos	insufficient, lacking, inadequate; short in length
 kapulungan	assembly
 kapusò	a close friend, of one heart; a gma TV fan
@@ -1449,6 +1452,7 @@ kutsero	driver of horse-drawn vehicle, coachman
 kutsilyo	table or kitchen knife
 kuwán	whatchamacallit/thingie/so-and-so
 kuwarto	room, bedroom
+kuweba	cave
 kuwenta	(also kwenta) accounting/calculating; value
 kuwento	story, tale, narration
 kuwento-kuwento	myth, urban legend
@@ -1567,6 +1571,7 @@ lígaw	to woo, court
 ligáw	wild, uncultivated, stray
 ligay	put, place, install
 ligáya	happines, joy
+ligoy	(n) wordiness, beating around the bush
 ligtás	saved, freed, redeemed; safe; exempt
 liham	a letter (that you send in the mail)
 lIhim	(a) secret, confidential (also "sikreto")
@@ -1577,6 +1582,8 @@ likha	a creation; thing produced by intelligence and skill
 likhain	to create
 liku-likong	zigzag
 lilim	a partly dark place, not in the sunshine
+limitahán	to limit something
+limlim	body warmth; impending darkness
 limos	alms; stipend
 limot	oblivion (root of forget)
 linaw	clearness (liquids); clarity (explanation); legibility; legible condition
@@ -1802,6 +1809,7 @@ magpakilala	to make known, bring into acquaintance with
 magpakita	show, evince, show clearly, display, reveal
 magpakumbaba	to act humbly
 magpalakas	to strengthen
+magpaliguy-ligóy	to beat around the bush (to be indirect and wordy)
 magpanggáp	to pretend, to profess
 magpanggáp	to pretend/profess to be
 magpapalimos	beggar (pulubi)
@@ -2187,6 +2195,7 @@ mayaman	rich, wealthy
 maya-maya	a bit later (today)
 may-arì	owner
 mayari	to be finished, to be made
+mayá't-mayá	time and again; always; every now and then
 may-itsúra	has an attractive appearance
 mensáhe	message
 mga kahingían	requirements
@@ -2875,6 +2884,7 @@ páwis	sweat, perspiration
 pawisan	sweaty
 payag	agreement, consent
 payagan	agree, acquiesce,  accept; allow
+payák	simple, mere, basic, with nothing added
 payapá	peaceful, tranquil, placid
 payapain	to pacify, to make peaceful
 payat	thin, slender
@@ -3321,6 +3331,7 @@ tagpuan	meeting place, rendezvous
 tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
+tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tainga	ear (normally said as "tenga")
@@ -3506,6 +3517,7 @@ tuklasín	to discover or detect something
 tuklaw	snakebite; kagat ng ahas, sagpang; tuka
 tukmól	turtledove; an ugly or stupid person (slang) 
 túkod	support, prop
+tukô	gecko
 tukoy	experienced; accurate in shooting (marksmanship)
 tukoy	mention, reference, specification
 tukso	teasing, joking
@@ -3560,6 +3572,7 @@ tungó	bowing of the head
 tungo	goal, purpose, direction; to deal with
 tunóg	sound, audio; ring; strike; quality of sound; popularity
 tuntón	tracing the path, source, origin; giving guidance at the start
+tuntóng	stepping on; getting in to
 tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
 tupád	fulfilment, implementation of a duty, promise; compliance, observance

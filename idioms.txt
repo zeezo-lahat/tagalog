@@ -195,3 +195,9 @@ Ang sinabi mo ay nagpaalala sa akin ng isang kakaibang karanasan nang maraming t
 Bumalik sa dati.	Returned to what it was before.
 Di akin ito.	This is not mine.
 Walâ kang magagawâ para mapatigil itó.	There's nothing you can do to stop it.
+Kakainin na siya ang itlog.	He will have eaten the egg.
+Nakakain na siya ng itlog.	He has been eating egg.
+Hindi pa siya kumakain ng itlog.	He had not been eating egg.
+Kakain na sana siya ng itlog.	He will have been eating egg.
+Ating batíin ang ating mga bisita.	Let's greet our visitors.
+bago pa ang digmaan..	even before the war..
