@@ -7256,35 +7256,35 @@ matao (tao) [adjective] populous
 matauhan (tao) ma_an [verb] to regain consciousness; to revive; to come to one's senses
 mga tao (tao) [noun] people
 pagkatao (tao) [noun] personality; character
-panao (tao) [adjective] personal
-panauhan (tao) [grammar] person (e.g., 1st person, 2nd person, etc.)
-panauhin (tao) [noun] guest
-pantao (tao) [adjective] human
-sa katauhan ni (tao) [phrase] in the person of
-sángkatauhan (tao) [noun] humankind
+panao (tao) pang_ [adjective] personal
+panauhan (tao) pang_an [grammar] person (e.g., 1st person, 2nd person, etc.)
+panauhin (tao) pang_in [noun] guest
+pantao (tao) pan_ [adjective] human
+sa katauhan ni (tao) phr_ [phrase] in the person of
+sángkatauhan (tao) sangka_an [noun] humankind
 tao (tao) rt_ [noun] person; people
-tao pô (tao) [expression] anybody home?; anyone there?; there's someone here; * Usually someone may say this after knocking on a door to announce their presence
-tauhan (tao) [noun] staff; employee; minion; subordinate; henchmen; character
+tao pô (tao) exp_ [expression] anybody home?; anyone there?; there's someone here; * Usually someone may say this after knocking on a door to announce their presence
+tauhan (tao) _an [noun] staff; employee; minion; subordinate; henchmen; character
 tauhan (tao) _an [verb] to staff; to man;
 taú-tauhan (tao) [noun] puppet; manikin; figurehead
-Bagong Taón (taon) [noun] New Year's Day; the new year
-dantaón (taon) [noun] century
-iláng taón (taon) how many years; how many years old; how old
+Bagong Taón (taon) phr_ [noun] New Year's Day; the new year
+dantaón (taon) compound_ [noun] century
+iláng taón (taon) phr_ how many years; how many years old; how old
 itaón (taon) i_ [verb] to make events coincide with each other
 magkátaón (taon) magka_ [verb] to occur accidentally; to happen to coincide with; to happen by chance; to get a chance to
 mátaón (taon) ma_ [verb] to coincide with
-nagkátaón (taon) [adjective] by chance; accidental; have a chance
-nakaraáng taón phr_ (taon) [adverb] last year
-ngayóng taón (taon) [noun] this year
-pagkakátaón (taon) [noun] chance; opportunity; coincidence; occasion
-taunan (taon) [adjective] yearly; annually
+nagkátaón (taon) nagka_ [adjective] by chance; accidental; have a chance
+nakaraáng taón (taon) phr_ [adverb] last year
+ngayóng taón (taon) phr_ [noun] this year
+pagkakátaón (taon) pagkaka_ [noun] chance; opportunity; coincidence; occasion
+taunan (taon) _an [adjective] yearly; annually
 taón (taon) rt_ [noun] year; opportunity; age; years old
 taón-taón (taon) rt_rt [adverb] yearly; annually; every year
-taóng gulang (taon) [phrase] age; years old; years of age
+taóng gulang (taon) phr_ [phrase] age; years old; years of age
 itapak (tapak) i_ [verb] to put one's foot on
 matapakan (tapak) ma_an [verb] to be able to or happen to step on
 nakatapák (tapak) naka_ [adjective] barefooted
-pagkatapák (tapak) upon stepping
+pagkatapák (tapak) pagka_ upon stepping
 tapak (tapak) rt_ [noun] step
 tapakan (tapak) _an [verb] to step on something
 tapakán (tapak) _an [noun] sole of a shoe
