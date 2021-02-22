@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.7
 '''
 remove carriage returns from file given as argv[1]
 print to stdout
