@@ -269,7 +269,7 @@ bálang-araw	someday, one day
 balasa	shuffling (of playing cards, etc.)
 balat	birthmark, patch on the skin
 balat	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
-bale	as if; equal in value to; cash advance
+bale	value; as if; equal in value to; cash advance; so
 bále-walâ	not worth ones salt, not worthy
 bále-walaín	to ignore something/someone; to disregard something
 bálewalâ	meaningless; worthless; of no value; not worthy of attention
@@ -1806,7 +1806,7 @@ magpakatao	behave like a decent human being
 magpakatotoó	to strive to be truthful and honest
 magpakawalâ	to free/release/unbind/unleash
 magpakilala	to make known, bring into acquaintance with
-magpakita	show, evince, show clearly, display, reveal
+magpakita	show, evince, show clearly, display, reveal, to "show up" to a party, etc.
 magpakumbaba	to act humbly
 magpalakas	to strengthen
 magpaliguy-ligóy	to beat around the bush (to be indirect and wordy)
@@ -2125,6 +2125,7 @@ masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
 maski na	even if/then/though
 maskí	although, even though, nevertheless, however, whether, aside from; even, mere (sp. "mas que", bagaman)
+maso	mallet, sledgehammer
 masugid	active, industrious, diligent
 masukal	savage, wild, dense, thick (súkal)
 másunurin	obedient
@@ -2182,6 +2183,7 @@ mauná	"go first", to go/be first, to lead
 maunawaan 	to be able to understand; to make sense, to be understandable, to be reasonable
 maUnawaIn	understanding (ma-unawa-in)
 maunlád	progressive
+maupós	to become faint (as in a light)
 mausok	smoky
 mautak	brainy
 mautas	to have ended or terminated, consummated
@@ -2404,6 +2406,7 @@ natatakam	is being tantalized
 natatandaan	to remember (like naaalala)
 natilapon	was wildly thrown
 natunaw	melted
+naturang such, said, mentioned, aforementioned (sym in use to sarili)
 natutUnan	learned, something learned
 nauunawaan	to understand
 nawá	may (expressing a wish or hope)
@@ -3343,7 +3346,7 @@ takamín	to tantalize
 tákas	escape, flee (itákas, takásan, tumákas, pagtákas)
 takásan	to escape, flee
 takbo	run; operating, as of machinery eg. a clock
-takda	measure, limitation, limit, restriction; stated, limited, restricted
+takdâ	measure, limitation, limit, restriction; stated, limited, restricted
 takdang-aralin	lesson assignment (school homework)
 takdang-araw	assigned date
 takdang-oras	time limit, death
@@ -3657,6 +3660,7 @@ unós	tempest, storm
 untî	bit, small amount
 untî-untî	gradually
 upang	so that, for, in order to (formal. "para" is used in informal conversation.)
+upós	cigarette stub or butt; consumed, down to the butt (as candles, cigarettes, cigars); submerged
 uri	kind, class, sort, species, type
 uri-uri	of all kinds
 urong	retreat, backward movement
