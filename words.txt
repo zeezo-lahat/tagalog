@@ -782,6 +782,8 @@ hárang	obstacle
 harangin	to block
 haráp	front
 harinawá	God willing, hopefully
+hasík	sown
+hasikán	sow a place with seeds
 hatak	pulling (batak, hila)
 hataw	thrashing, beating; (slang): eat food with gusto; (slang): go faster
 hati	sharing, taking part in, dividing
@@ -2096,6 +2098,7 @@ maralitang taga-lungsod	urban poor
 maranasan	to feel, experience (dánas)
 marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 máriníg	to hear
+martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, fragile
 mas kaunti	less
@@ -2147,7 +2150,7 @@ matalas	sharp (lit/fig), keen; acute; sharp (ref. to the intellect or hearing)
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matamaan	to come against with force
-matamlay	listless, languid, having no energy
+matamlay	lethargic, listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
 matandâ	old

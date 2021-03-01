@@ -21,6 +21,14 @@ root ()
 
 def ()
 {
+  for f in $*; do
+    cat words.txt | tgrep.py "^$f\\t"
+    cat roots.txt | tgrep.py "^$f \("
+  done 
+}
+
+def0 ()
+{
   cat words.txt | tgrep.py "^$*\\t"
   cat roots.txt | tgrep.py "^$* \("
 }
@@ -31,7 +39,12 @@ defsagain () # read stdin and pass the final word from each line to def.  feed m
           read stuff || return
           _t=${stuff/* /}
           def $_t
-        done
+        done | sort | uniq
+}
+
+defreplay ()
+{
+  ht -$1 | defsagain
 }
 
 tgw ()

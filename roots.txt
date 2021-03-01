@@ -2485,45 +2485,45 @@ maggawâ (gawa) mag_ [verb] to make; to manufacture
 magpagawâ (gawa) magpa_ [verb] to have something done; to have something built
 magsagawâ (gawa) magsa_ [verb] to perform; to carry out; to perpetrate
 makagawâ (gawa) maka_ [verb] to be able to do; to be able to make; to be able to carry out; to be able to work; to achieve
-manggagawà (gawa) [noun] worker; laborer
-maygawâ (gawa) [noun] creator; maker; author
+manggagawà (gawa) magCV_ [noun] worker; laborer
+maygawâ (gawa) may_ [noun] creator; maker; author
 pagawaín (gawa) pa_in [verb] to make someone do something; to have someone do something
 paggawâ (gawa) pag_ [noun] manufacturing; making; doing; accomplishing; employment; labor
 pagpapagawâ (gawa) pagpapa_ [noun] construction; building; creating
 panggawâ (gawa) pang_ [noun] anything used for making something
-págawaan (gawa) [noun] factory
-gawad (gawad) [noun] award; gift; grant; prize
+págawaan (gawa) pa_a [noun] factory
+gawad (gawad) rt_ [noun] award; gift; grant; prize
 gawaran (gawad) _an [verb] to award
 igawad (gawad) i_ [verb] to award something; to bestow something
 kagawad (gawad) ka_ [noun] committee member
-kágawarán (gawad) [noun] department; ministry; faculty
+kágawarán (gawad) ka_an [noun] department; ministry; faculty
 maggawad (gawad) mag_ [verb] to award; to grant
 gawiin (gawi) _in [verb] to form a habit
-gawì (gawi) [noun] custom; habit; practices; propensity; tendency; behavior; side; ways
-gawî (gawi) [noun] direction; area; spot
+gawì (gawi) rt_ [noun] custom; habit; practices; propensity; tendency; behavior; side; ways
+gawî (gawi) rt_ [noun] direction; area; spot
 gumawí (gawi) _um_ [verb] to head toward; to veer toward
-kinagawian (gawi) [noun] habit; mannerism
+kinagawian (gawi) kina_an [noun] habit; mannerism
 magawî (gawi) ma_ [verb] to move or direct something (e.g., move or locate somewhere)
 makagawian (gawi) maka_an [verb] to get into the habit of
-gaya (gaya) [noun] imitation; [adjective] like; similar to
+gaya (gaya) rt_ [noun] imitation; [adjective] like; similar to
 gayahin (gaya) _in [verb] to copy something; to imitate something; to simulate something; to mimic something; to do like something
-gayahán (gaya) [noun] imitating
+gayahán (gaya) _an [noun] imitating
 gayarí (gaya) __ [adverb] like this
 gumaya (gaya) _um_ [verb] to imitate; to do like
-gáya-gaya (gaya) [noun] copycat; imitator
+gáya-gaya (gaya) rt_rt [noun] copycat; imitator
 kagaya (gaya) ka_ [adjective] like; similar to
 magaya (gaya) ma_ [verb] to imitate something (OF); to be able to imitate something (OF)
 paggaya (gaya) pag_ [noun] imitation
-pánggagaya (gaya) [noun] imitation
-gayat (gayat) [noun] thin slice of meat, bread, vegetables, etc.
+pánggagaya (gaya) pangCV_ [noun] imitation
+gayat (gayat) rt_ [noun] thin slice of meat, bread, vegetables, etc.
 gayatin (gayat) _in [verb] to slice
-gayát (gayat) [adjective] sliced
+gayát (gayat) rt_ [adjective] sliced
 gumayat (gayat) _um_ [verb] to slice vegetables
 ipagayat (gayat) ipa_ [verb] to have something sliced
 maggayát (gayat) mag_ [verb] to cut food; to slice food
 paggayat (gayat) pag_ [noun] cutting; slicing
 gayundín (gayon) compound_ [adverb] so; likewise
-gayón (gayon) [pronoun] such; considering; like that; that way; of that kind; whereas; although
+gayón (gayon) rt_ [pronoun] such; considering; like that; that way; of that kind; whereas; although
 gayón din (gayon) compound_ [adverb] so; likewise
 gayón man (gayon) [conjunction] however; though; anyway; nonetheless; nevertheless
 magkágayón (gayon) magka_ [verb] to become that way
@@ -2531,21 +2531,23 @@ gayuma (gayuma) rt_ [noun] allure; charm; fascination; magnetism; aphrodisiac
 gumayuma (gayuma) _um_ [verb] to charm; to allure
 magayuma (gayuma) ma_ [verb] to be charmed; to be captivated
 gibaín (giba) _in [verb] to demolish; to tear down
-gibâ (giba) [adjective] demolished; destroyed; wrecked
+gibâ (giba) rt_ [adjective] demolished; destroyed; wrecked
 gumibâ (giba) _um_ [verb] to demolish
 maggibâ (giba) mag_ [verb] to destroy; to demolish
 magibâ (giba) ma_ [verb] to collapse; to break down
 panggibâ (giba) pang_ [noun] anything used for demolishing
-giít (giit) [noun] insistence; assertion
+giít (giit) rt_ [noun] insistence; assertion
 igiít (giit) i_ [verb] to insist on something; to assert something
 maggiít (giit) mag_ [verb] to insist; to affirm
 paggigiít (giit) pagCV_ [noun] asserting; insisting
 paggiít (giit) pag_ [noun] asserting; insisting
-gilid (gilid) [noun] edge; border; rim; margin; side; brink; flank
+gilid (gilid) rt_ [noun] edge; border; rim; margin; side; brink; flank
 igilid (gilid) i_ [verb] to put something on its side
 itagilid (gilid) ita_ [verb] to lay something on its side
 tagilíd (gilid) [adjective] tilted; slanted; in danger of; not legal (slang)
 tumagilíd (gilid) _um_ [verb] to tilt; to slant
+gilitán (gilit) _an [verb] to incise; to cut into
+gilít (gilit) rt_ [noun] cutting into small pieces; cutting; marking
 ginhawa (ginhawa) rt_ [noun] ease; an easy feeling; wealth; relief from pain/sickness; rest; comfort
 guminhawa (ginhawa) _um_ [verb] to feel better; to comfort; to feel relief; to become more easy
 kaginhawahan (ginhawa) ka_an [noun] easing; getting relief; comfort; convenience; resting
@@ -2866,6 +2868,10 @@ hasà (hasa) rt_ [noun] sharpening; training
 hasâ (hasa) rt_ [adjective] sharp; well-trained
 hása-hasà (hasa) rt_rt [noun] short mackerel; short-bodied mackerel
 panghasà (hasa) pang_ [noun] grindstone
+ihasík (hasik) i_ [verb] to sow something; to scatter something
+hasík (hasik) rt_ [noun] sowing; spreading abroad
+maghasík (hasik) mag_ [verb] to sow; to sow seeds
+paghahasík (hasik) pagCV_ [noun] spreading; sowing; scattering
 hataw (hataw) rt_ [noun] hit; hitting; beating; thrashing
 hatawin (hataw) _in [verb] to strike something; to hit something
 humataw (hataw) _um_ [verb] to thrash; to hit; to make waves
@@ -3977,8 +3983,8 @@ pagkakakitaan (kita) pagkaka_an [noun] earning a living
 pagkakita (kita) pagka_ [noun] observation; seeing; upon seeing
 pagkikita (kita) pagCV_ [noun] meeting
 pagpapakita (kita) pagpapa_ [noun] showing; demonstrating
-pinagkakákitaan (kita) [noun] job; way of making money; earning a living
-pángitaín (kita) [noun] vision; sight; premonition; apparition
+pinagkakákitaan (kita) pinagkaka_an [noun] job; way of making money; earning a living
+pángitaín (kita) pang_in [noun] vision; sight; premonition; apparition
 tamó (kita) [expression] see?; do you see?; * contraction from "nakita mo"
 kaklase (klase) ka_ [noun] classmate
 klase (klase) rt_ [noun] class; kind; type; brand; classification; class in a school
@@ -4001,16 +4007,16 @@ kontrolín (kontrol) _in [verb] to take control of
 kontról (kontrol) [noun] control
 magkontról (kontrol) mag_ [verb] to control
 makontról (kontrol) ma_ [verb] to control; to be able to control
-pagkontról (kontrol) [noun] controlling
+pagkontról (kontrol) pag_ [noun] controlling
 ikopya (kopya) i_ [verb] to copy something for someone
 ipakopya (kopya) ipa_ [verb] to have something copied
 kopya (kopya) rt_ [noun] copy
 kumopya (kopya) _um_ [verb] to copy
 kópyahín (kopya) _in [verb] to copy something; to make a copy of something; to duplicate something
 magpakopya (kopya) magpa_ [verb] to get something copied
-pangopya (kopya) [noun] copying machine
+pangopya (kopya) pang_ [noun] copying machine
 ikublí (kubli) i_ [verb] to hide something; to disguise something; to conceal something
-kublihan (kubli) [noun] hide-out
+kublihan (kubli) _an [noun] hide-out
 kublí (kubli) rt_ [adjective] hidden; covert
 kumublí (kubli) _um_ [verb] to conceal; to hide
 magkublí (kubli) mag_ [verb] to hide
@@ -4027,29 +4033,29 @@ makakuha (kuha) maka_ [verb] to be able to get; to be able to obtain; to be able
 makuha (kuha) ma_ [verb] to get something; to happen to get something; to be able to get something; to be able to obtain something; to cope successfully with something; to manage something
 makunan (kuha) ma_an [verb] to capture; to miscarry
 manguha (kuha) mang_ [verb] to gather; to pick (ex., fruit); to take; to gather many/several things
-pagkuha (kuha) [noun] obtaining; taking; getting; securing
-pangkuha (kuha) something for getting/obtaining
+pagkuha (kuha) pag_ [noun] obtaining; taking; getting; securing
+pangkuha (kuha) pang_ [noun] something for getting/obtaining
 kakulangán (kulang) ka_an [noun] shortage; lack
 kulang (kulang) rt_ [adjective] inadequate; deficient; insufficient; deficient; short; incomplete; less; wanting; lacking; [noun] deficit
 kulangan (kulang) _an [verb] to cage
 kulangin (kulang) _in [verb] to run short; to run out of
 kúlang-kulang (kulang) rt_rt [adjective] a little lacking; missing; insufficient
 magkulang (kulang) mag_ [verb] to be short; to lack; to be lacking; to neglect
-pagkukulang (kulang) [noun] shortcoming; fault
+pagkukulang (kulang) pagCV_ [noun] shortcoming; fault
 kakulay (kulay) ka_ [adjective] having the same color
 kulay (kulay) rt_ [noun] color
 kulayan (kulay) _an [verb] to color something; to color in something
 magkakulay (kulay) magka_ [adjective] having the same color
 magkulay (kulay) mag_ [verb] to color
-makulay (kulay) [adjective] colorful; brightly colored
-pangulay (kulay) [noun] anything used for coloring; dye
-pinakamakulay (kulay) [adjective] the most colorful
+makulay (kulay) ma_ [adjective] colorful; brightly colored
+pangulay (kulay) pang_ [noun] anything used for coloring; dye
+pinakamakulay (kulay) pinakama_ [adjective] the most colorful
 kakulitán (kulit) ka_an [noun] naughtiness
 kulitín (kulit) _in [verb] to pester someone
 kulít (kulit) rt_ [noun] persistence; stubbornness; [adjective] pesky; persistent
-makulít (kulit) [adjective] stubborn; obnoxious; pesky; persistent; naughty
-pangungulít (kulit) [noun] being persistent or stubborn or pesky
-kulô (kulo) [noun] boiling; bubbling
+makulít (kulit) ma_ [adjective] stubborn; obnoxious; pesky; persistent; naughty
+pangungulít (kulit) pangCV_ [noun] being persistent or stubborn or pesky
+kulô (kulo) rt_ [noun] boiling; bubbling
 kumuló ang dugô (kulo) _um_ [verb] to have one's blood boil; to be very angry
 kumulô (kulo) _um_ [verb] to boil; to simmer; to grumble (stomach)
 pakuluan (kulo) pa_an [verb] to boil something
