@@ -23,7 +23,7 @@ def ()
 {
   for f in $*; do
     cat words.txt | tgrep.py "^$f\\t"
-    cat roots.txt | tgrep.py "^$f \("
+    cat roots.txt | tgrep.py "^$f \(" | sed 's/ (/\t\(/'
   done 
 }
 

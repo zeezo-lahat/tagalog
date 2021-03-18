@@ -10,6 +10,8 @@ import sys
 import time
 import argparse
 
+_mysep='\t'
+
 parser = argparse.ArgumentParser(description='Make flashcards from listen input files.')
 parser.add_argument('integers', metavar='N', type=int, nargs='+',
                             help='an integer for the accumulator')
@@ -52,16 +54,18 @@ while count < dothismany:
     while True:
         j += 1
         myout = random.choice(mylist)
-        if myout not in _didalready:
+        if myout in _didalready:
+            continue
+        else:
             _didalready.append(myout)
             break
         if j > 100:
             break
 
-    if myout.find('	') < 0:
+    if myout.find(_mysep) < 0:
         continue
 
-    t2e = myout.split(sep='	', maxsplit=1)
+    t2e = myout.split(sep=_mysep, maxsplit=1)
     if len(t2e) < 2:
         continue
 
