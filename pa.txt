@@ -1,12 +1,154 @@
-from tagalog-dictionary.com
-
-af. affix:
-
-for verbs meaning "to cause, get or allow someone to do what the root word indicates"
-
-adv:
-
-more, yet, still (expresses the immaturity or continuance of a situation and stands in
-   contrast with na).
-   - Mabuti pa.	Better yet.
-   - Basa pa ang damit.	The clothes are still wet.
+Binatà pa akó.	I'm still single. (male)
+Hindî pa.	Not yet.
+Naglalarô pa kamí.	We're still playing.
+Lálakí ka pa.	You will still grow taller.
+Hindî pa umáalís ang bus.	The bus hasn't left yet.
+Kakain ka pa?	Are you still going to eat?/Are you having some more?
+Gustó ko pa ng pagkain.	I'd like some more food.
+Gumagamit ka pa ba ng fountain pen?	Do you still use fountain pen?
+Hindî pa siyá naáaresto.	He hasn't been arrested yet.
+Teka, pumipilì pa kamí.	Wait, we're still choosing.
+Natutulog pa ang batà.	The child is still sleeping.
+Hinuhulaang mas úunlád pa ang bansâ sa súsunód na taón.	It is predicted that the country's economy will further improve next year.
+Matátagalán pa bago ko siyá maunawaan.	It would be a long time before I could understand her.
+Magkano pa ang perang nátitirá sa pitaka mo?	How much money is still left in your wallet?
+Natátandaán mo pa ba?	Are you still able to remember? / Do you remember?
+Hindî pa siyá nagpapasa ng mga card.	He has not passed the cards yet.
+Nadádakíp pa rin ang mga takas na preso.	Escaped felons are still being caught.
+Batà ka pa at marami ka pang maeexpérience.	You're still young and you'll have more to experience.
+Mapag-úusapan pa ba natin ang reklamo ni Daisy?	Will we still be able to discuss Daisy's complaint?
+Nagpápapalít pa si Toto ng kaniyáng mga baryá.	Toto is still exchanging his coins.
+Kung hindî legál ang mangarap, mangangarap ka pa rin ba?	If dreaming is illegal, will you still dream?
+Marami pang ibáng simbahan ang kasalukuyang itinatayô.	Several other churches are in the process of being built.
+Kinúkumpirmá pa nilá kung puwede kang sumama sa amin.	They're still confirming if you're allowed to join us.
+Hindî pa nilá natutukoy ang halagá ng alahas ni Wennie.	They have yet to determine the value of Wennie's jewelry.
+Gumagana pa ba itóng lumang radyo mo?	Does this old radio of yours still work?
+Ideposito mo sa bangko ang iyóng ipon bago mo pa itó magastos.	Deposit your savings to the back before you spend it.
+Hindî ko pa nami-meét ang nobyo mo.	I haven't met your boyfriend yet.
+Hindî ko pa siyá nakakasalubong ngayón.	I haven't met him yet today.
+Hindî pa ba umeere ang teleserye ni Bea?	Is Bea's telenovela not yet airing?
+Tumatambáy pa rin si Jenny sa condo ni Matt.	Jenny still hangs around in Matt's condo.
+Bigyán mo pa ng pagkakátaón.	Give it a chance.
+Hindî pa ba bumabangon ang tatay mo?	Hasn't your dad gotten out of bed yet?
+Hindî pa silá nagdedecide, sabi ni Nona.	They have yet to decide, according to Nona.
+Mababawì pa ba ni Ricky ang kaniyáng puhunan?	Will Ricky still recover his investment?
+Minsan pa, kákawayán niyá ang sikát na banda.	Once more, she will wave at the famous band.
+Hindî ko pa nababasa ang naturang dokumento.	I haven't read such document yet.
+Matátagpuán ko pa ba ang tunay na pagmamahál?	Will I ever find true love?
+Kahapon ko pa sinagót ang email mo.	I already replied to your email yesterday.
+Sana ay mas nanlabán pa akó sa kaniyá.	I should have tried harder to fight him off.
+Hindî pa rin niyá tinítigilan ang paninigarilyo.	He still hasn't quit smoking.
+Naníniwalà pa ba si Virginia kay Santa Claus?	Does Virginia still believe in Santa Claus?
+Huwág mawalán ng pag-asa kahit iláng beses ka pang mabigô.	Don't give up hope even if you fail many times.
+Hindî pa akó nakákapuntá sa bansáng Hapón.	I haven't been to Japan.
+Hindî ko pa napúpuntahán ang Niagara Falls.	I have not been to the Niagara Falls yet.
+Hindî pa ipinápanganák si Jane nang sumikat si Elvis.	Jane was not yet born when Elvis became popular.
+Lumapit ka pa sa akin.	Come even closer to me.
+Hindî pa akó tumitira.	I have not made a move yet (in a game).
+Umiiral na ang kautusáng iyán magmulâ pa noóng 1970s.	That order had been in operation since the 1970s.
+Kákailanganin mo pa ba itó?	Would you still be needing / have any use for this?
+Dinádamdám pa rin niyá ang pagkamatáy ng alagà niyáng aso.	He still feels sad about losing his dog.
+Anó pa ang gustóng hilingín ni Pogi?	What is Pogi's further request?
+Naníniwalà siyáng maisasalba pa ang mundó.	She believes that the world can still be saved.
+Nakákapagtrabaho pa ba si Mikey sa lagáy niyá ngayón?	Is Mikey still able to work in his current condition?
+Dumudugô pa ba ang sugat mo?	Is your wound still bleeding?
+Ayaw pa ni Kate na mabuntís.	Kate does not want to get pregnant yet.
+Maaga akóng gumising, pero nalate pa rin akó.	I woke up early, but I was still late.
+Hindî pa akó nakákapuntá sa bahay ni Vincent.	I have not been to Vincent's house.
+Limampúng pangalan pa lang ang naitatalâ ni Ditas.	So far, Ditas has put only fifty names on the list.
+Bakit ka pa mag-asawa kung hindî ka namán mag-áanák?	Why marry if you are not going to have children?
+May bíbilhín ka pa ba?	Is there something else you need to buy?
+Namámataán mo pa ba ang ambulánsiyá?	Are you still able to see the ambulance?
+Nagdedecide pa silá kung tátanggapín ka.	They're still deciding whether to accept you.
+Kailangan ka pa bang sabihan?	Do you still need to be told?
+Tinátanóng pa ba iyón?	Do you still have to ask? (Isn't it already obvious?)
+Hindî makabubuti ang magtangkâ ka pang baguhin ang isip niyá.	It will not be beneficial for you to still try to change his mind.
+Hindî pa ba silá nagkákaanák?	They haven't had kids yet?
+Hindî pa ngâ.	Actually, not yet.
+Iniisip niyá kung minsan na mas mabuti pang mamatáy kaysa sa mabigô.	Sometimes he thinks that dying would be better than failing.
+Hindî ka pa ba nakákaranas ng lindól?	Haven't you experienced an earthquake yet?
+Hindî pa siyá nakákabawì sa kaniyáng pagkagulat.	He hasn't recovered yet from his surprise.
+Íinumín mo pa ba itó?	Are you still going to finish (drinking) this?
+Hindî pa nagreresígn siná Sylvia at Ciri.	Sylvia and Ciri haven't resigned yet.
+Hindî lang bastá magandá, matalino pa.	Not just beautiful, but smart too.
+Naghiwaláy ang mga magulang ni Samantha noóng batà pa siyá.	Samantha's parents separated when she was young.
+Nasa bahay pa si John.	John is still at home.
+May magtátanóng pa ba?	Does anyone here still have a question to ask?
+Hindî pa tumatayâ siná Don at Aida.	Don and Aida have not placed their bet yet.
+Naapulà na ang sunog bago pa man dumatíng ang mga bumbero.	The fire was already extinguished even before the firefighters arrived.
+Isisilang pa ba ng iyóng pusà ang mga kutíng nitó?	Will your cat still give birth to its kittens?
+Hindî pa niyá kailangang gastahín ang minana niyá mulâ sa mga magulang.	He doesn't need to spend yet what he inherited from his parents.
+Kailangan nating maapulà ang sakít bago pa itó lumalâ.	We need to suppress the disease before it worsens.
+Hindî mo mamámataán ang pag-alís ko kung tulóg ka pa.	You won't see me leaving if you're still asleep.
+Ngayón pa lang akó umibig nang tunay.	This is my first time to truly fall in love.
+Minsan pa lang akóng umibig.	I have only fallen in love once.
+Bilisán natin at bakâ maabutan pa natin ang bus.	Let's move faster as we might still be able to catch the bus.
+Ang yaman-yaman mo na, hindî ka pa rin nakúkuntento?	You are already so rich, you're still not contented?
+Gabíng-gabí na gumagalà ka pa.	It's already so late at night and you're still wandering around.
+Bakit pa kayó lumayô, may mas malapit namáng mall dito.	Why did you still have to go far, there's a closer mall to here.
+Huwág ka munang babangon kung nahihilo ka pa.	Don't get up yet if you're still feeling dizzy.
+Saán pa ninyó gustóng dalhín ko kayó?	What other places would you like me to take you to?
+Sige na. Anó pa ang hiníhintáy mo?	Go on. What else are you waiting for?
+Isáng oras pa lang ang nakákaraán, gutóm ka na namán?	After only an hour you're hungry again?
+Hindî pa namin ipinápaalám kay Irene na nandito ka na.	We are not letting Irene know yet that you are already here.
+Gúgustuhín pa ni Rose na mamatáy kaysa magpakasál kay George.	Rose would rather die than marry George.
+Inuuna mo pa ang trabaho kaysa sa akin.	You give more priority to your work than to me.
+Kanina pa akó kumákatók pero hindî ka makariníg.	I've been knocking at the door for a while now but you're unable to hear it.
+Tútulóy ka pa ba sa plano mong bumilí ng kotse?	Would you still proceed with your plan to buy a car?
+Mabuti pang isipin mo na ang isásagót mo sa kanyá.	You better start thinking of what answer to give her.
+Kailangan kong gumising nang alas-saís kasí maglulutò pa akó ng almusál.	I need to wake up at 6 o'clock because I still have to cook breakfast.
+Bakit hindî mo pa kasí aminin?	Why don't you just admit it?
+Tumútugtóg pa ba itóng radyo mo?	Does this radio of yours still work?
+Tinítiyák ko sa iyó na binatà pa si Jim.	I'm assuring you that Jim is still a bachelor.
+Madalás nahúhulí sa klase si Richard kasí nanggagaling pa siyá sa malayò.	Richard offen arrives late for class because he still comes from far away..
+Magtátagál pa kayâ ang ulán?	Would the rain still continue for some time?
+Mga limáng minuto ka pa lang nakákaalís nang dumatíng si Charles.	It was just about five minutes after you left when Charles arrived.
+Hindî pa kitá tinátanóng tumátanggí ka na.	I haven't asked you anything yet and you're already saying no.
+Nais niyáng malaman kung dalaga pa siyá.	He wants to know if she is still single.
+Naghuhugas ka pa rin ng mga pinggán hanggáng ngayón?	You're still washing the dishes up to now?
+Mauuso pa kayâ ulî ang paggamit ng makinilya?	Would the use of typewriters come into style again?
+Batà pa siyá.	He is still young.
+Kauntî pa lang ang natítikmán kong pagkaing Pilipino.	I have only tried a few Filipino dishes.
+Magpápakasál ka na ba kay Tom kahit na isáng buwán mo pa lang siyá nakíkilala?	Would you already marry Tom even if you've just known him for only a month?
+Nagbakasyón si Maria sa Amérika pero iláng araw pa lang ang nakákalipas umuwî na siyá.	Maria went to America for vacation but just after a few days she already came back home.
+Huwág kang makialám sa kanilá at baka ikáw pa ang masisi.	Don't get involved with them as you might be the one to get blamed eventually.
+May idádagdág ka pa ba sa mga nasabi na?	Would you have something else to add to what have already been said?
+Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.	I have not given to Bill yet the gift you sent through me.
+Iláng beses na kitáng pinatatawad pero inuulit mo pa rin.	I have already forgiven you a number of times yet you still do it again.
+Hindî ko títigilan ang pagpapadalá sa iyó ng pera habang walâ ka pang trabaho.	I won't stop sending you money while you're still jobless.
+Sinísigawán ko na si Richard pero hindî pa rin niyá akó mariníg.	I am already shouting to Richard but he still can't hear me.
+Masásaktán ka talagá sa akin kapág inulit mo pa iyán.	You are really going to get it from me if you do that again.
+Inatupag ko pa muna ang pagpapakain sa aso bago akó naglabá.	I took care of feeding the dog first before I did the laundry.
+Kanina pa yung babae dito pero waláng umíintindí sa kaniyá.	That woman has been here much earlier but no one's attending to her.
+Maíinís na talagá akó sa iyó kung hindî ka pa tátahimik.	I'll really get pissed off with you if you still won't shut up.
+Iyán ang madalás na tinútugtóg ng lola ko sa violin nung buháy pa siyá.	That's why my grandma often used to play on the violin when she was still alive.
+Mga isáng oras nang nagsásayáw si Jill pero mukháng hindî pa rin siyá napapagod.	Jill has been dancing for about an hour now but she does not seem tired yet.
+Alám kong maaga pa.	I know it's still early.
+Ikáw na ang bahalà diyán para hindî ko na áalalahanin pa iyán.	You just take care of it so that I don't have to still worry about it.
+Hindî pa napápatáy ng mga bumbero ang sunog.	The firemen have not extinguished the fire yet.
+Ayos pa.	So far, so good.
+Uhaw pa rin ako.	I'm still thirsty.
+Hindi pa ako pagod.	I'm not a bit tired.
+Di pa handa si Tomas.	Tom isn't ready yet.
+Parang buhay pa siya.	It seems he's still alive.
+Di ka pa nagdisisyon?	Haven't you decided yet?
+Kumuha ka pa ng keyk.	Please help yourself to more cake.
+Di pa siya umuwi, ano?	He has not come home yet, has he?
+Hindi ko pa nasubukan.	I haven't tried.
+Gusto pa ninyo ng kape?	How about some more coffee?
+Mahal ko pa rin si Tom.	I still love Tom.
+Hindi ko pa siya hinalik.	I have not kissed her yet.
+Hindi pa ako nakakatulog.	I haven't slept.
+Isa pan style="color:#964b00;">pangpan> bote ng alak, po.	Another bottle of wine, please.
+Hindi pa ako tapos sa iyo.	I'm not through with you yet.
+Sabi nila'y buhay pa siya.	They say that he's still alive.
+Hinahanap pa nila ang bata.	They are still looking for the child.
+Meron bang gusto pa ng kape?	Would anybody like more coffee?
+Hindi pa magaling ang sugat.	The wound is not yet healed.
+Pareho pa rin ang sitwasyon.	The situation remains unchanged.
+Katatanghalian ko pa lamang.	I have just eaten lunch.
+Kailangan ko pa ng mga kumot.	I need more blankets.
+Hindi pa ako nakapagdesisyon.	I haven't made up my mind yet.
+Di ko alam kung nasa akin pa.	I don't know if I still have it.
+Noong pan style="color:#964b00;">pangpan> Martes na umuulan.	It has been raining since Tuesday.
+Ano pan style="color:#964b00;">pangpan> pwede ninyong gawin?	What else can you do?

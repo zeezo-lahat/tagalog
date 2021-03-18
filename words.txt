@@ -119,6 +119,7 @@ altapresyon	high blood pressure
 alukín	to offer
 amá	father
 ama-amahan	foster father
+amaín	stepfather; uncle
 ambâ	threaten; threatening gesture
 ambaán	to threaten someone; to make threatening gestures toward someone
 ambág	contribution
@@ -146,6 +147,7 @@ ani	crop, harvest
 ani	said by
 anihin	to harvest
 aniko	I said
+anito	a pre-christian idol
 aniya	he/she said (anya)
 ano man	whatever
 ano	"what" could be used as question or not, as in "I know what.." -> "alam ko anong.."
@@ -395,6 +397,7 @@ binilang	to count
 binibini	polite title for unmarried women (outdated)
 binti	leg, especially the calf part
 binubuo	composing/comprising (buuin)
+binyág	baptism
 birador	hitman(?)
 birò mo	can you imagine..?
 birò	joke, banter, gag (joke)
@@ -424,6 +427,7 @@ bubog	pieces of shattered glass
 bubong	roof
 bubúyog	bumblebee; kind of large bee
 bugaw	go-between, pimp; pander
+bugháw	blue
 bugbóg	beating up, pummeling
 bugsô	crowd of people
 bugsô	flush, blast, downpour
@@ -480,6 +484,7 @@ bunsô	youngest child in the family
 buntís	pregnant
 bunton	a pile, collection
 bunyág	disclosure, revelation
+bunyî	fame, renown, exaltation
 buô	complete, entire, whole; perfect, all
 buong-buo	completely intact
 buong-galang	respectfully
@@ -531,6 +536,7 @@ dalhin	to bring, carry
 dali	quickness, rapidity, ease
 dalian	to hurry
 dali-dali	quickly!
+dalísay	pure, unadulterated, immaculate
 dalitâ	extreme poverty
 daló	presence, attendance
 damdám	feeling
@@ -845,6 +851,7 @@ hirit	full force of a blow; asking for something; talking out of turn (also 'bí
 hiwagà	mystery
 hiwalay	separated
 hiwátig	hint, clue
+hiyás	gem, jewel
 hubad	naked (orig. from the waist up now more common and explicit than hubô)
 hubaran	to strip of clothes (hubad)
 hubarin	to disrobe (hubad)
@@ -1395,6 +1402,7 @@ kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
 kintáb	shine
+kisáp	wink, blink
 kislap	sparkle, scintillation, to glitter, twinkle
 kitá	I to you
 kita	income
@@ -1460,6 +1468,7 @@ kuwenta	(also kwenta) accounting/calculating; value
 kuwento	story, tale, narration
 kuwento-kuwento	myth, urban legend
 kuwintas	necklace
+kuwitis	sky-rocket, fireworks (kwitis)
 laán	destined; intended for; reserved; associated
 labada	washed clothes; clothes to be washed
 labág	against, contrary to, in violation
@@ -1652,8 +1661,11 @@ lumò	weariness
 lumpo	a crippled person, esp. the legs
 lumubóg	to set
 lumulUtan	floating
+lunggâ	burrow, hole, mouse hole, cave
 lungkot	sadness, sorrow
 lungsód	city
+lunti	green
+luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
 lupit	cruelty, mercilessness, savageness, harshness
 lusaw	to melt, dissolve
@@ -2097,6 +2109,7 @@ marálitâ	indigent, poor (less common than mahirap)
 maralitang taga-lungsod	urban poor
 maranasan	to feel, experience (dánas)
 marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
+maricon	a sissy
 máriníg	to hear
 martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
@@ -2429,6 +2442,7 @@ nilalamán	content(s) (noun, laman)
 nilito	was confused by something
 ningas	flame
 ningas-kugon	quickly going up in flames after starting something
+nino	whose, post positive form of kanino. (Kaninong bahay, bahay nino? Whose house?)
 ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
 niyog	coconut
@@ -2648,6 +2662,7 @@ pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
 pahina	a page of paper
+pahinante	could refer to a porter, stevedore (unloading cargo from ships at dock), member of a ship’s crew, personal driver, personal aide or assistant
 pahingá	rest, relaxation, day off; resperation (hinga)
 pahingi	"please give me.." (hingi. var: "pengi")
 pahintulot	permission, authorization
@@ -2823,6 +2838,7 @@ para	for, so that, in order to (syn: upang); like, seems like, appears; to stop
 paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
+paraiso	paradise, heaven
 paratang	accusation, allegation
 parati	always, all the time, again and again, perennial, often (dati)
 pare	a term for one's male buddy / friend; male best friend; used to refer to an unknown person of the same age
@@ -3229,6 +3245,7 @@ sitá	questioning, interrogating
 sitahín	to question or interrogate someone
 sitserya	junk food (typ pron "chitcherya")
 siwalat	to disclose, reveal, confess
+síwang	gap, opening, slit
 siyá nawâ	amen
 siyá	he, she, it; sufficient; pleasure
 siyangá palá	by the way
@@ -3286,6 +3303,7 @@ sumuway	to disobey, violate, oppose
 sundálo	soldier
 sundin	to obey (sunod)
 sundô	fetch someone from somewhere
+sungay	horn, antler
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
 sunóg	burnt
@@ -3302,6 +3320,7 @@ suwaíl	disobedient, insolent, hardheaded, stubborn, rebellious
 suwéldo	salary, pay (also 'sweldo')
 suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
+suyod	fine-toothed hair comb
 syonget	ugly
 taál	native, original
 taás	height

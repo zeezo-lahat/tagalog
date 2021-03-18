@@ -1,0 +1,137 @@
+Skip to main content
+
+    Analytics
+    Mentions
+
+Premium
+Long-distance dependencies in Tagalog: the case for Raising
+Peter Sells
+2008, Proceedings of the 26th west coast …
+17 Views
+10 Pages
+1 File ▾
+Long Distance
+Show more ▾
+... 37. Biglan =ng binuksan ni Fred ang pintuan. suddenly L opened.PV GEN Fred NOM door Fred opened the door suddenly. 38. Binuksan =ng biglan ni Fred ang pintuan. opened.PV L suddenly GEN Fred NOM door Fred opened the door suddenly. (S&amp;amp;amp;amp;O 1972:451) ...
+Original PDF
+Summary
+Related
+ 
+ 
+Long-Distance Dependencies in Tagalog:The Case for Raising
+ 
+Veronica Gerassimova and Peter Sells
+Stanford University and SOAS, University of London 
+1. Introduction
+One famous feature of Tagalog and other Western Austronesian languages is that only the Subject
+1
+ may relativize (e.g., Schachter & Otanes 1972); see (1-3). The verb's voice picks out one argument as Subject, which is the missing constituent in a relative clause; hence (3) is ungrammatical:
+2
+ 1. Binigyan ng sundalo ng pera
+ ang babae
+. Subject: Recipient gave.RV GEN soldier GEN money NOM woman
+The soldier gave the money to the woman.
+2. ang babae =ng binigyan ng sundalo ng pera Subject: Recipient  NOM woman =L gave.RV GEN soldier GEN money
+the woman that the soldier gave the money to
+3. *ang babae =ng ibinigay ng sundalo
+ang pera
+Subject: Theme  NOM woman =L gave.PV GEN soldier NOM money
+ Intended: the woman that the soldier gave the money to
+Another notorious characteristic of Tagalog relativization is the requirement that the predicates in a long-distance chain each appear in a particular voice (usually Patient voice), and that none of their overt arguments be a Nominative DP (Sells 2000). We refer to such chains as Subject-only chains.  Now Subject-only chains also uncontroversially characterize raising constructions in Tagalog (Davies 2000, Nakamura 2000, Sells 2000). In order to account for the identical constraints on relativization and raising, some have proposed that raising is A-bar-movement (e.g., Nakamura 2000). Following Gerassimova (2005), we explore the opposite possibility – that all Subject-only chains are in fact raising dependencies. This not only solves the problems faced by A-bar movement analyses,  but also has desirable consequences for several larger issues, including the constraints on wh-movement in Universal Grammar, the consequences that one can draw from the Keenan-Comrie Accessibility Hierarchy, and the claimed link between extraction and voice in so-called wh-agreement  phenomena. While the Tagalog system is assumed to be essentially different from what we find in English, English does in fact show voice constraints in relativization, specifically, in so-called reduced relatives: 4. a. the man __ known by Mary __ to be studying French English reduced RCs  b. the man __ known by Mary __ to have been photographed by Sam c. the man __ known by Mary *(that Sam photographed __ ) The contrast in the b/c examples is rather similar to what we find in Tagalog; the apparent voice constraints are not surprising in English, for we would immediately diagnose these dependencies as involving raising, not extraction. These examples provide a direct model for our approach to Tagalog. As well as arguing that there is no A-bar movement in Tagalog relative clauses, we show that wh- phrases in questions appear in only and exactly the same places where their non-wh-counterparts do (see also Gerassimova 2005). Hence Tagalog is a wh-in-situ language, and thus more similar to
+1 The argument marked with Nominative
+ang 
+ (
+ si
+ for names), also known as focus, topic, absolutive or trigger. 2
+ 
+Glosses:
+AV
+ – Actor voice;
+DAT
+ – Dative case;
+DV
+ – Dative voice;
+GEN
+ – Genitive case; L – linker;
+ NASA
+ – locative predication form;
+ NOM
+ – Nominative case;
+PV
+ – Patient voice;
+PL
+ – plural; Q – question particle;
+RV
+ – Recipient voice; [] – clause boundary; = – cliticization site; S&O – Schachter and Otanes.
+© 2008 Veronica Gerassimova and Peter Sells. Proceedings of the 26th West Coast Conference on FormalLinguistics, ed. Charles B. Chang and Hannah J. Haynie, 190-198. Somerville, MA: Cascadilla ProceedingsProject.
+ 
+ 
+languages like Malagasy (Sabel 2003, Paul & Potsdam, to appear), Niuean (Massam 2002), and Indonesian (Saddy 1991; Cole at al. 2005) than previously thought. Simply put, we argue that Tagalog has no evidence of any A-bar movement and (correspondingly) no evidence of overt wh-movement. Section 2 concerns relativization in Tagalog, with a review of existing extraction analyses of Subject-only chains; we then present our own analysis of Subject-only chains as raising chains. In Section 3 we turn to various strategies for wh-question formation, none involving movement, including the fronting of wh-adverbs and in-situ argument wh-phrases. Finally, in Section 4 we consider the bigger picture of (presumed) extraction in Tagalog, and discuss the consequences of our analysis for Universal Grammar, the Keenan-Comrie Hierarchy, and the typology of wh-agreement  phenomena.
+2. Tagalog relativization: Subject-only chains as raising
+In Tagalog, verbs in Subject-only chains are required to appear in a particular voice form. In the immediate clause containing the gap, or the base clause, this is the voice form that identifies the empty  position as the Subject of the clause, as in the relative clause examples in (1-3) above. In higher clauses along the chain, verbs must appear in one particular voice, usually the Patient voice:
+3
+ 
+4
+ 5. ang kalabaw [na ipinangako ng guro [na bibigyan
+ 
+ng lalaki ng
+bulaklak]]
+ NOM water.buffalo L promised.PV GEN teacher L gave.DV
+ 
+GEN man GEN flower
+the water buffalo [(that) the teacher promised [(that) the man would give a flower to]]
+6. ang babae [na sinabi ko kay Pedro [na ikakasal kay Jose]]  NOM woman L said.PV I.GEN DAT Pedro L marry.PV DAT Jose
+the woman [that I said to Pedro [that will marry Jose]]
+2.1 Previous analyses: extraction
+In much current work, Subject-only chains are treated as extraction, with various extra constraints to account for the fact that only Subjects may extract and for the voice constraints along the chain (e.g., Kroeger 1993, Nakamura 2000, Richards 2000, Aldridge 2002, Paul 2002, Rackowski 2002, Rackowski & Richards 2005). According to extraction analyses, Subject-only chains are formed via wh-movement of a null Operator; the voice of the base clause identifies as its Subject the empty  position; and the voice of a predicate in a higher clause identifies as its Subject its complement clause, through which the dependency passes. This style of analysis necessitates peculiar constraints on A-bar dependencies: that only Subjects may extract, and extraction is allowed only out of sentential Subjects, resulting in the following constraints on A-bar dependencies: 7. a. A gap must always be the Subject in its immediate clause, the base clause.  b. A subordinate clause containing a gap must itself be the Subject of its containing clause. Such extraction accounts raise both theoretical and empirical problems. First, they imply that an A-bar dependency interacts with voice. While voice is expected to play a central role in A-dependencies, it is not in A-bar extraction – this is one of the empirical motivations for the theoretical distinction between A- and A-bar dependencies. Thus the claim that the voice of predicates in Subject-only chains is determined by extraction obliterates a core difference between A- and A-bar constructions. Moreover, treating Subject-only chains as extraction results in a violation of the familiar constraint on extraction from sentential subjects, attested in a number of languages. Although there are languages in which sentential subjects are not extraction islands, extraction analysis of Tagalog Subject-only chains is unique in that sentential subjects are the
+only
+ possible environment for extraction, and it “not only allows, but actually requires, violations of the Sentential Subject
+3 In both raising and relativization, clauses in the chain are introduced by the linker/complementizer
+na/-ng 
+. 4 Any other voice form on the verbs in (5-6) leads to ungrammaticality. These restrictions on voice are only found in dependency constructions; regular subordinate clauses allow any voice form.
+191
+ 
+ 
+Constraint” (Kroeger 1993:210). Another undesirable consequence of extraction analyses is that Subjects are commonly dispreferred as extractees across languages. In a number of languages, objects are easier to extract than Subjects. In the English
+that-
+trace phenomenon, for instance, when an overt complementizer is  present, subjects (8) but not objects (9) are precluded from extracting. Tagalog, on the other hand, is ascribed the unusual typological property of disallowing object extraction and requiring Subject extraction. 8. *Who do you believe that
+ __ 
+ saw Jim? 9. Who do you believe that Tom saw __? Finally, extraction accounts fail to explain a key fact about the distribution of Subject-only chains, noted by several authors (Davies 2000, Nakamura 2000, Sells 2000) – in some languages, including Tagalog and Cebuano, chains with voice constraints occur in raising as well as relative clauses; some researchers have concluded that both relative clauses and raising are instances of A-bar extraction. To deal with these issues, we propose an alternative account of relativization in Tagalog. We suggest that the Subject-only chains found in relative clauses in fact involve (Subject-to-Subject) raising. A raising account of Subject-only chains avoids all of the undesirable effects of the extraction analyses, and provides a straightforward explanation of the otherwise puzzling properties just noted.
+2.2 Our proposal: Subject-only chains as raising
+As already mentioned, Subject-only chains have the same structure as raising chains (Davies 2000, Nakamura 2000, Sells 2000) – in both constructions it is the Subject of the base clause that is targeted by the dependency, and verbs higher up in the chain must appear in a particular voice form. Raising in Tagalog is always Subject-to-Subject. In (10) all of the arguments of the embedded clause are in their normal position. In (11) the Nominative of the complement clause,
+ang panbansang awit 
+ ‘national anthem’, has been raised into the matrix clause, and the downstairs Nominative position is empty. In contrast, (12) is ungrammatical because the raised phrase,
+ Linda,
+ is not the downstairs Subject. 10. Inasahan ko [na awitin ni Linda
+ang pambansang awit
+]. expected.RV I.GEN L sang.PV GEN Linda NOM national anthem
+ I expect (for) Linda to sing the national anthem.
+11. Inasahan ko
+ang pambansang awit
+[na awitin ni Linda]. expected.RV I.GEN NOM national anthem L sang.PV GEN Linda
+ I expected the national anthem to be sung by Linda.
+(Kroeger 1993:28, ex. 17) 12. *Inasahan ko
+si Linda
+ [na awitin
+ang panbansang awit
+]. expected.RV I.GEN NOM Linda L sang.PV NOM national anthem
+ Intended: I expected Linda to sing the national anthem.
+(Kroeger 1993:28, ex. 17) And like relativization, shown in (6) (repeated below in (13)), raising may also take place across more than one clause. In (14) the DP
+ang babae
+ ‘the woman’, which is semantically an argument of the lowest clause, is raised two clauses up and appears as an element of the main clause: 13. ang babae [na sinabi ko kay Pedro [na ikakasal kay Jose]]  NOM woman L said.PV I.GEN DAT Pedro L marry.PV DAT Jose
+the woman [that I said to Pedro [that will marry]]
+14. Pinaniwalaan ni Maria
+ang babae
+[=ng sinabi ni Juan [na binigyan ng pera]].  believed.RV GEN Maria NOM woman L said.PV GEN Juan L gave.RV GEN money
+ Maria believed the woman to have been said by Juan to have been given (the) money by him.
+One unappreciated fact about Subject-only chains is that they display not only the form, but also the distribution of raising dependencies, a property also found in English reduced relatives (see (4) above). Considering the voice forms of verbs in English Subject-to-Subject raising, such as the ones in (4) above, it is clear that they obey the same constraints as verbs in Tagalog: in the base clause the raised phrase is always the Subject, while in higher clauses the verbs are always in the passive voice, having as their Subject an empty argument position, as in (16), which is the structure of (4c).
+192
+
+    AboutPressBlogPeoplePapersJob BoardAdvertise
+
+ We're Hiring!
+
+     Help Center
+
+    TermsPrivacyCopyrightAcademia ©2021
+
