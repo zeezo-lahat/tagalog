@@ -5234,6 +5234,9 @@ ngitî (ngiti) rt_ [noun] smile
 ngumitî (ngiti) _um_ [verb] to smile
 pagngitî (ngiti) pag_ [noun] smile; smiling
 pangitî (ngiti) pa_ [adverb] smilingly
+ningníng (ningning) rt_ [adjective] sparkle; shine; brightness; brilliance
+magningníng (ningning) mag_ [verb] to sparkle; to shine; to shine brightly
+pagniningníng (ningning) pagCV_ [noun] shining; sparkling
 manipís (nipis) ma_ [noun] thin (opposite of thick); flimsy
 numipís (nipis) _um_ [verb] to grow thin
 nipís (nipis) rt_ [noun] thinness
@@ -5546,33 +5549,36 @@ mamasyál (pasyal) mang_ [verb] to stroll around; to take a walk
 pasyalan (pasyal) _an [noun] promenade; tourist destination
 pasyalán (pasyal) _an [verb] to visit something/someone
 pasyál (pasyal) rt_ [noun] stroll; roam around
-pasyál-pasyál (pasyal) strolling around
+pasyál-pasyál (pasyal) rt_rt strolling around
 pumasyál (pasyal) _um_ [verb] to take a walk; to take a stroll
+kapatagan (patag) ka_an [noun] plain; plains (geography)
+patag (patag) rt_ [adjective] even; level; flat
+patagín (patag) _in [verb] to level; to flatten out
 mapatakán (patak) ma_an [verb] to drip on something
-pagpaták (patak) [noun] falling; dropping
+pagpaták (patak) pag_ [noun] falling; dropping
 patakán (patak) _an [verb] to put in drops of liquid
 paták (patak) rt_ [noun] drop; drops (of liquid)
 pumaták (patak) _um_ [verb] to fall; to drop; to strike (as in a clock striking 3)
 ipataw (pataw) i_ [verb] to impose (e.g., a tax); to give a punishment
 magpataw (pataw) mag_ [verb] to impose
-pagpapataw (pataw) [noun] imposing; punishing
+pagpapataw (pataw) pagpa_ [noun] imposing; punishing
 pataw (pataw) rt_ [noun] surcharge; punishment
 patawan (pataw) _an [verb] to impose; to put a burden, tax or punishment on
-Mamatáy ka na! (patay) [interjection] I hope you die!; I hope you drop dead!
+Mamatáy ka na! (patay) phr_ [interjection] I hope you die!; I hope you drop dead!
 ipapatáy (patay) ipa_ [verb] to have someone killed
 magkámatayan (patay) magka_an [verb] to fight to the death
 magpatáy (patay) mag_ [verb] to slaughter (animals); to kill
 makapatáy (patay) maka_ [verb] to be able to kill
 mapatáy (patay) ma_ [verb] to be able to kill something (OF); to be able to turn off / extinguish (OF); to be killed (AF)
 nakapatáy (patay) naka_ [adjective] dead; turned off
-pagkakapatáy (patay) [noun] killing; death
-pagpatáy (patay) [noun] murder; killing
-pamatáy (patay) [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
+pagkakapatáy (patay) pagkaka_ [noun] killing; death
+pagpatáy (patay) pag_ [noun] murder; killing
+pamatáy (patay) pang_ [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
 patayan (patay) _an [noun] slaughter; killing
-patayan ng hayop (patay) [noun] slaughterhouse
+patayan ng hayop (patay) phr_ [noun] slaughterhouse
 patayín (patay) _in [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
 patáy (patay) rt_ [adjective] dead; deceased; [expressions] crap / oh my gosh / dang (slang)
-patáy-dampót (patay) [adjective] unconscious; dead weight
+patáy-dampót (patay) cmp_ [adjective] unconscious; dead weight
 patáy-patayan (patay) rt_rt_an [noun] playing dead; pretending to be dead
 pumatáy (patay) _um_ [verb] to kill; to extinguish
 patulan (patol) _an [verb] to stoop down to someone's level (figurative); to pay attention to someone of lower status; * generally used in antagonistic social scenarios

@@ -1,14 +1,14 @@
-xin chào - hello
-tạm biệt - goodbye
-cảm ơn - Thank you
-cám ơn em!
-xin lỗi – sorry / excuse me
-không có gì = không có chi: you're welcome
+xin chào	hello
+tạm biệt	goodbye
+cảm ơn	Thank you
+cám ơn em!	Thank you.
+xin lỗi	sorry / excuse me
+không có gì / không có chi	you're welcome
 Hồ Chí Minh ( Sài Gòn ) city
 
-hôm qua: yesterday
-hôm nay: today
-ngày mai: tomorrow
+hôm qua	yesterday
+hôm nay	today
+ngày mai	tomorrow
 
 mai	tomorrow
 
@@ -17,144 +17,145 @@ hôm nay anh ăn gì?	what did you eat today?
 hôm nay bạn sẽ ăn gì?	what will you eat today?
 ngày mai anh sẽ ăn gì?	what will you eat tomorrow?
 
-không : no, not
-có : have
-ở : at/in
-gì : what?
-đâu : where?
-làm : to do
-đi : to go
-vậy/dạy : question particle
+không	no, not
+có	have
+ở	at/in
+gì	what?
+đâu	where?
+làm	to do
+đi	to go
+vậy/dạy	question particle
 (vậy/dạy can go after every non yes/no question to make friendly)
 vậy is proper, dạy is something like colloquial ("wrong")
-là j is/am/are
-Ở đâu : (at) where
+là	is/am/are
+Ở đâu	(at) where
 
-em ăn gì?    what do you eat?
-em uống gì?  what do you drink?
-em đọc gì?   what do you read?
-em học gì?   what do you study?
-em làm gì?   what do you do?
-anh đọc sách gì?  what book do you read?
+em ăn gì?	what do you eat?
+em uống gì?	what do you drink?
+em đọc gì?	what do you read?
+em học gì?	what do you study?
+em làm gì?	what do you do?
+anh đọc sách gì?	what book do you read?
 
-anh đi khách sạn: I go to hotel
+anh đi khách sạn	I go to hotel
 
-nhà : home
-nhà hàng : restaurant
-chợ : market
-siêu thị : supermarket
-công ty : company
-khách sạn : hotel
-bệnh viện : hospital
+nhà	home
+nhà hàng	restaurant
+chợ	market
+siêu thị	supermarket
+công ty	company
+khách sạn	hotel
+bệnh viện	hospital
 
 đi đến: used for công ty, nhà, tiệm, quán, Việt Nam
 
-anh đi đâu?    where do you go?
-anh ăn ở đâu?  where do you eat?
-anh ăn ở công ty   I eat at company
+anh đi đâu?	where do you go?
+anh ăn ở đâu?	where do you eat?
+anh ăn ở công ty	I eat at company
 
-ở nhà hàng: at restaurant
-ở nhà: at home
-hôm nay anh ăn bánh mì ở đâu?   where do you eat bread today?
+ở nhà hàng	at restaurant
+ở nhà	at home
+hôm nay anh ăn bánh mì ở đâu?	where do you eat bread today?
 
-quán: store for food(?)
-tiệm: store for other things(?)
+quán	store for food(?)
+tiệm	store for other things(?)
 tiệm bánh mì
 tiệm trái cây
-đi vệ sinh:  go to toilet
+đi vệ sinh	 go to toilet
 
-Ở đâu : where?
-nhà vệ sinh ở đâu? : how to go to the toilet?
-nhà em ở đâu? : where is / how to go to your house?
-nhà em ở đâu vậy? : where is/ how to go to your house? (more friendly)
+Ở đâu	where?
+nhà vệ sinh ở đâu?	how to go to the toilet?
+nhà em ở đâu?	where is / how to go to your house?
+nhà em ở đâu vậy?	where is/ how to go to your house? (more friendly)
 
-em ăn gì vậy?: what did you eat? (friendly)
+em ăn gì vậy?	what did you eat? (friendly)
 
-tuổi : age
-anh : I, you (older male)
-chị : I, you (older female)
-em : I, you (younger male or female)
-name : tên 
-work : làm việc
-study : học
-house/home : nhà
-thích : like (prefer,attraction)
-mua : to buy
-ăn : eat
-uống : drink
-tiếng : language
-tiếng Việt : Vietnamese language
-tiếng Anh : English language
-du lịch : travel
-dạ : yes (polite word)
+tuổi	age
+anh	I, you (older male)
+chị	I, you (older female)
+em	I, you (younger male or female)
+name	tên 
+work	làm việc
+study	học
+house/home	nhà
+thích	like (prefer,attraction)
+mua	to buy
+ăn	eat
+uống	drink
+tiếng	language
+tiếng Việt	Vietnamese language
+tiếng Anh	English language
+du lịch	travel
+dạ	yes (polite word)
 
-giấy : paper
+giấy	paper
 
 trứng: egg
-sữa - milk 
-trà - tea
-nước : water
-ly : glass
-chai : bottle
-lon : can
-phòng ngủ : bedroom
-phòng khách : living room
-phòng tắm : bathing room
-nhà bếp : kitchen
+sữa	milk 
+trà	tea
+nước	water
+ly	glass
+chai	bottle
+lon	can
+phòng ngủ	bedroom
+phòng khách	living room
+phòng tắm	bathing room
+nhà bếp	kitchen
 
-người bạn : the friend
-cái đồng hồ : the clock/watch
-chiếc xe máy : the motorcycle
-cái ghế : the chair/couch
-cái bàn : the table
-quyển sách : the book
-tờ giấy : the paper
+người bạn	the friend
+cái đồng hồ	the clock/watch
+chiếc xe máy	the motorcycle
+cái ghế	the chair/couch
+cái bàn	the table
+quyển sách	the book
+tờ giấy	the paper
 
 how much/many:
-mấy <10
-bao nhiêu >10
+mấy	 how many (<10)
+bao nhiêu	 how many (>10)
 
-Anh có bao nhiêu tờ giấy?    Anh có 1 tờ giấy.
+Anh có bao nhiêu tờ giấy?	How many papers do you have?
+Anh có 1 tờ giấy.	I have one paper.
 
-Cô bao nhiêu tuổi?
-Tôi 39 tuổi : I'm 39 years old
+Cô bao nhiêu tuổi?	How old are you?
+Tôi 39 tuổi	I'm 39 years old
 Con mấy tuổi?
 
 dế
 
-tuổi: age
-Tôi 39 tuổi
+tuổi	age
+Tôi 39 tuổi	I am 39 years old
 
-sống live 
+sống	live 
 tại sao
-gặp : meet
+gặp	meet
 anh có gặp cô Khanh không?
 
-ấy : make pronoun into 3rd person
-chị : you
-chị ấy : she
-cháu/con : you (child)
-cháu (ấy) : he/she (child) (can't say "con ấy")
-nải chuối : bunch of oranges
+ấy	make pronoun into 3rd person
+chị	you
+chị ấy	she
+cháu/con	you (child)
+cháu (ấy)	he/she (child) (can't say "con ấy")
+nải chuối	bunch of oranges
 
 noun classifiers:
-”Cái” is the most common and universal and can be used to classify other classifier-nouns, e.g. “cái cốc”.  
+”Cái”	is the most common and universal classifier. can be used to classify other classifier-nouns, e.g. “cái cốc”.
 
-cái: inanimate objects
-người: people
-chiếc: car, motorcycle, ship, plane
-quyển: book, notebook, magazine
-tờ: paper, other(?)
+cái	cls. inanimate objects
+người	cls. people
+chiếc	cls. car, motorcycle, ship, plane
+quyển	cls. book, notebook, magazine
+tờ	cls. paper, other(?)
 
-hai cái hộp - two boxes
-người Việt Nam = Vietnamese people
+hai cái hộp	two boxes
+người Việt Nam	Vietnamese people
 
 fruits (trái) and vegetables (củ):
-chuối : banana
-cam : orange
-táo : apple
-xoài : mango
-khoai tây : potato
-hành : onion
+chuối	banana
+cam	orange
+táo	apple
+xoài	mango
+khoai tây	potato
+hành	onion
 
-trái cam : the apple
+trái cam	the apple

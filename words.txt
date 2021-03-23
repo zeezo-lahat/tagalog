@@ -422,6 +422,7 @@ biyernes	friday
 biyuda	widow
 bola	flattery
 bote-bote	many bottles
+brusko	rude; used to describe a man with a very big muscular body (slang)
 bubo	overflowing; pouring out; poured out
 bubog	pieces of shattered glass
 bubong	roof
@@ -639,6 +640,7 @@ gaano	how much
 gabáy	guide, support; handrail
 gabí	night
 gabíng-gabi	late (at night)
+gabunán	aswang na kumakain ng lamán ng tao minsan sa isang taon
 gagambá	spider
 gahasa	rape
 galà	rove, wander
@@ -663,6 +665,7 @@ ganid	carnivore; tightwad; brute
 ganito	like this, in this manner (gaya nito)
 gantí	revenge, retribution, return
 ganyán	like that (gaya + niyan)
+garbo	elegance; boast
 gasgás	scratch, abrasion
 gasgasín	to scratch
 gastahan	to spend on
@@ -1242,6 +1245,7 @@ kapariso	a piece (of)
 kaparusahan	punishment
 kapasidad	capacity
 kapat	one fourth
+kapatagan	plain; plains (geography)
 kapatíd	sibling
 kapatiran	fraternity, brotherhood
 kapayapaan	peace, tranquility
@@ -1317,7 +1321,7 @@ kasunód	next / the next; following; something that follows, result
 kasya	to fit in size; sufficient for what’s needed
 katabi	next to, adjacent
 katad	leather
-katagal	duration
+katagál	duration
 katahimikan	silence
 katakám-takám	very delicious
 katalo	opponent
@@ -1549,6 +1553,7 @@ lapida	gravestone
 lapit	nearness
 lapitan	to come near something
 lapnos	peeled off (skin that has been burnt, etc.)
+larangan	domain, field of knowledge
 larawan	picture, portrait (litrato]) ilarawan (i-)
 larga	go ahead!, proceed!
 lasa	the taste or flavor of something
@@ -1586,6 +1591,7 @@ ligay	put, place, install
 ligáya	happines, joy
 ligoy	(n) wordiness, beating around the bush
 ligtás	saved, freed, redeemed; safe; exempt
+ligsá	test, quiz
 liham	a letter (that you send in the mail)
 lIhim	(a) secret, confidential (also "sikreto")
 liit	smallness
@@ -2642,6 +2648,7 @@ pagtatagpô	meeting, appointment
 pagtatakíp	(n) camouflage; (the act of) covering (takíp)
 pagtátalagá	appointment; dedication
 pagtatanggál	removal
+pagtatatô	tattooing
 pagtawanán	to make fun of/laugh at/mock someone or something
 pagtugtog	performance on a musical instrument
 pagtutol	resistance
@@ -3734,6 +3741,7 @@ watáwat	flag, ensign, banner
 welga	a workers' strike (sp. "huelga")
 windang	torn apart; torn into tatters
 yabang	boast; boasting; arrogance; smugness; over confidence
+yabong	thriving, abundant growth, foliage, plentiful foliage
 yakap	hug, embrace
 yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
