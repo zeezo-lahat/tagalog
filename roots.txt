@@ -5787,9 +5787,9 @@ punít (punit) rt_ [adjective] torn
 magpunô (puno) mag_ [verb] to fill; to fill up; to compensate
 mamunò (puno) mang_ [verb] to lead (people); to conduct
 mapunô (puno) ma_ [verb] to become full; to be filled; to be full of; to be suffused; to be crowded
-pamumunò (puno) [noun] leadership
-pamunuan (puno) pa_an [verb] to lead something; to direct something; to preside over something
-pinuno (puno) [noun] leader; chief; official; officer;
+pamumunò (puno) pangCV_ [noun] leadership
+pamunuan (puno) pang_an [verb] to lead something; to direct something; to preside over something
+pinuno (puno) _in_ [noun] leader; chief; official; officer;
 pumunô (puno) _um_ [verb] to fill; to fill up
 punong-punô (puno) [adjective] very full; to the brim; crammed; extremely angry; fed up
 punuan (puno) _an [verb] to fill something in
@@ -5797,8 +5797,8 @@ punuín (puno) _in [verb] to fill something; to fill a container
 punán (puno) _an [verb] to complement; to supplement; to amplify
 punò (puno) rt_ [noun] tree; chief; boss; executive
 punô (puno) rt_ [adjective] full; filled
-pámunuán (puno) [noun] management; leadership; directors; board of officers
-púnong-kahoy (puno) [noun] tree; tree trunk; wooden tree (in contrast to, for example, a palm tree)
+pámunuán (puno) pang_an [noun] management; leadership; directors; board of officers
+púnong-kahoy (puno) cmp_ [noun] tree; tree trunk; wooden tree (in contrast to, for example, a palm tree)
 ipuntá (punta) i_ [verb] to bring something somewhere; to come for something
 magpuntá (punta) mag_ [verb] to go to; to move toward; to visit; to deliberately go somewhere
 makapuntá (punta) maka_ [verb] to be able to go

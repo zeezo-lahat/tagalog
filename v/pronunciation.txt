@@ -1,9 +1,3 @@
-Note: words which end with p, t, ch, c can only have rising or dot vowel tones.
-
-trang -> djyang
-
-ê ô ă ơ â 
-
 u - "boo"
 i - "me"
 o - "ah", "saw"
@@ -12,13 +6,13 @@ e - egg, sharp sound, like eng e mixed with viet a.  exagerate by making a wide 
 ê - dull egg, but relaxed, dull/dopey as if trying to say "a" without moving your mouth
 ô - "oh", lips round, do not move mouth
 ă - shortened viet "a".  (always followed by another sound.)
-ơ - "duh", "above"
+ơ - "duh", "above".  say with slight smile!
 â - ơ shortened, going up.  (always followed by another sound.)
 ư - awkward non-english sound, but somewhat like "oo" or vietnamese "u".
        > smile, push tongue back, pinch lips together a bit
-       try: say viet. "i", then move tongue backwards, or
+       try: say viet "i", then move tongue backwards, or
             start with viet "u", then move lips toward a smile shape
-            start with o-hook, then move lips closer together
+            start with "ơ", then move lips closer together
 
 b,g,h,l,m,n,ph,v sound mostly as in english
 c - like k, but almost like k/g together.  unaspirated
@@ -41,9 +35,9 @@ tones:
 none: high, long, flat
 up: start low, go up just at the end
 
+Note: words which end with p, t, ch, c can only have rising or dot vowel tones.
 
-
-spelling rule for g, ng, and c, if followed by vowels i, e, e-hat, ie-hat (ia):
+spelling rule for g, ng, and c, if followed by vowels i, e, ê, iê (ia):
  for g, ng: add h after them. 
    so ghi, ghe, ghe-hat, nghi, nghe, nghe-hat, nghia 
  for c, write k instead

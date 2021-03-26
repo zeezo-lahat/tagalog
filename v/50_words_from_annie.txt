@@ -1,50 +1,50 @@
-1. Hello – chào
-2. Thank you - cảm ơn
-3. Sorry – xin lỗi
-4. I, you (older male) – anh
-5. I, you (older female) – chị
-6. I, you (younger male or female) – em
-7. Name - tên 
-8. Is / am / are - là
-9. What - gì
-10. How much / how many - bao nhiêu
-11. Person - người
-12. Country - nước
-13. Which - nào
-14. Live - sống
-15. Where - Ở đâu
-16. At / in - ở
-17. Age - tuổi
-18. Work - làm việc
-19. Study - học
-20. This - cái nầy
-21. Street - đường
-22. District - quận
-23. City - thành phố
-24. Company - công ty
-25. House / home - nhà
-26. Like (prefer,attraction) - thích
-27. Eat - ăn
-28. Drink - uống
-29. Speak, say - nói
-30. Can, ok ,possible - được
-31. Language - tiếng
-32. Slow - từ từ
-33. Vietnamese language - tiếng Việt 
-34. English language - tiếng Anh
-35. Teacher - giáo viên
-36. No, not - không
-37. Know - biết
-38. Understand - hiểu
-39. Again - lại
-40. Time (one time…) - lần
-41. More - nữa 
-42. Right, correct - đúng
-43. Already - rồi
-44. We (including listener) - mình
-45. Confirmations (question word)  - hà? (huh?)
-46. Of, Belonging to - của
-47. Question particle - vậy
-48. Travel - du lịch
-49. Not yet - chưa
-50. Yes (polite word) - dạ
+Hello	chào
+Thank you	cảm ơn
+Sorry	xin lỗi
+I, you (older male)	anh
+I, you (older female)	chị
+I, you (younger male or female)	em
+Name	tên 
+Is/am/are	là
+What	gì
+How much/how many	bao nhiêu
+Person	người
+Country	nước
+Which	nào
+Live	sống
+Where	Ở đâu
+At/in	ở
+Age	tuổi
+Work	làm việc
+Study	học
+This	cái nầy
+Street	đường
+District	quận
+City	thành phố
+Company	công ty
+House/home	nhà
+Like (prefer,attraction)	thích
+Eat	ăn
+Drink	uống
+Speak, say	nói
+Can, ok ,possible	được
+Language	tiếng
+Slow	từ từ
+Vietnamese language	tiếng Việt 
+English language	tiếng Anh
+Teacher	giáo viên
+No, not	không
+Know	biết
+Understand	hiểu
+Again	lại
+Time (one time…)	lần
+More	nữa 
+Right, correct	đúng
+Already	rồi
+We (including listener)	mình
+Confirmations (question word) 	hà? (huh?)
+Of, Belonging to	của
+Question particle	vậy
+Travel	du lịch
+Not yet	chưa
+Yes (polite word)	dạ
