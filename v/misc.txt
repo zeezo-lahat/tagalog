@@ -1,8 +1,9 @@
 xin chào	hello
 tạm biệt	goodbye
 cảm ơn	Thank you
-cám ơn em!	Thank you.
+
 xin lỗi	sorry / excuse me
+cám ơn em!	Thank you.
 không có gì / không có chi	you're welcome
 Hồ Chí Minh ( Sài Gòn ) city
 
@@ -18,7 +19,7 @@ hôm nay bạn sẽ ăn gì?	what will you eat today?
 ngày mai anh sẽ ăn gì?	what will you eat tomorrow?
 
 không	no, not
-có	have
+có	yes, have
 ở	at/in
 gì	what?
 đâu	where?
