@@ -1,0 +1,18 @@
+Letters:
+aa: â
+aw: ă
+ee: ê
+oo: ô
+ow: ơ
+uw: ư
+dd: đ
+
+Tones:
+s f r x j
+á à ả ã ạ
+
+s: up tone (á í é ú ó)
+f: down tone (à è ì ù ò)
+r: ask tone (ả ỉ ẻ ủ ỏ)
+x: wave tone (ã ĩ ẽ ũ õ)
+j: dot tone (ạ ị ẹ ụ ọ)
