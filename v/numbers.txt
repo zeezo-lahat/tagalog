@@ -1,9 +1,6 @@
-Notes
-
- * 1 is pronounced mốt in numbers from 21 to 91
- * 5 is usually pronunced lăm in numbers from 15-95 to avoid confusion
-   with homophones
- * 10 is pronounced mươi in numbers from 20 to 99
+năm - lăm from 15-95
+mười - mươi from 20-90
+một - mốt from 21-91
 
 0	không / linh
 1	một
@@ -28,13 +25,13 @@ Notes
 20	hai mươi
 21	hai mươi mốt
 22	hai mươi hai
-23	hai mười ba
-24	hai mười bốn
+23	hai mươi ba
+24	hai mươi bốn
 25	hai mươi lăm
-26	hai mười sáu
-27	hai mười bảy
-28	hai mười tám
-29	hai mười chín
+26	hai mươi sáu
+27	hai mươi bảy
+28	hai mươi tám
+29	hai mươi chín
 30	ba mươi
 40	bốn mươi
 50	năm mươi
@@ -42,4 +39,8 @@ Notes
 70	bảy mươi
 80	tám mươi
 90	chín mươi
-100	trăm
+100	một trăm
+123	một trăm hai mươi ba
+200	hai trăm
+300	ba trăm
+555	năm trăm năm mươi lăm

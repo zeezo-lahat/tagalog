@@ -25,6 +25,8 @@ gì	what?
 đâu	where?
 làm	to do
 đi	to go
+đi đến công ty	go to company
+
 vậy/dạy	question particle
 (vậy/dạy can go after every non yes/no question to make friendly)
 vậy is proper, dạy is something like colloquial ("wrong")
@@ -71,14 +73,16 @@ nhà em ở đâu vậy?	where is/ how to go to your house? (more friendly)
 
 em ăn gì vậy?	what did you eat? (friendly)
 
-tuổi	age
+tuổi	age (toowee)
+anh hai mươi tám tuổi	I am 29 years old
+
 anh	I, you (older male)
 chị	I, you (older female)
 em	I, you (younger male or female)
-name	tên 
-work	làm việc
-study	học
-house/home	nhà
+tên	name
+làm việc	work
+học	study
+nhà	house/home
 thích	like (prefer,attraction)
 mua	to buy
 ăn	eat
@@ -113,7 +117,7 @@ tờ giấy	the paper
 
 how much/many:
 mấy	 how many (<10)
-bao nhiêu	 how many (>10)
+bao nhiêu	 how many (>10) (baw nyooo)
 
 Anh có bao nhiêu tờ giấy?	How many papers do you have?
 Anh có 1 tờ giấy.	I have one paper.
@@ -132,8 +136,12 @@ tại sao
 gặp	meet
 anh có gặp cô Khanh không?
 
+ông	you, grandfather aged
+bà	you, grandmother aged
+bố	you, father aged
+mẹ	you, mother aged
 ấy	make pronoun into 3rd person
-chị	you
+chị	you older sister aged
 chị ấy	she
 cháu/con	you (child)
 cháu (ấy)	he/she (child) (can't say "con ấy")
@@ -160,3 +168,26 @@ khoai tây	potato
 hành	onion
 
 trái cam	the apple
+
+đã	past
+dang	present
+sẽ	future
+
+làm	do
+đã làm	did
+đang làm	doing
+sẽ làm	will do
+
+em sẽ làm gì?	what will you do?
+em đã làm gì?	what did you do?
+em sẽ uống gì?	what will you drink?
+em đang uống gì?	what are you drinking?
+em sẽ đi đâu?	where will you go?
+
+gặp	meet
+ai	who
+Anh gặp ai?	You meet who?
+lâu	long (loow)
+lắm	very
+lâu lắm	very long
+lâu lắm không gặp em	long time I haven't seen you.
