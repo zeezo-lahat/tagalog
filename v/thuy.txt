@@ -29,23 +29,16 @@ anh có laptop
 không có gì	you're welcome
 
 3/25/21
-Anh khỏe. I'm good.
-Em cũng khỏe.
+Anh khỏe.	I'm good.
+Em cũng khỏe.	I'm also good.
 Rất vui được gặp lại anh.	Nice to see you again.
 Em có mệt không?	Are you tired?
 
-vui
-
-hạnh phúc
-
-buồn ngủ
-
+vui	happy
+hạnh phúc	happy
 vui, hạnh phúc	happy
-
 buồn ngủ	sleepy
-
 khỏe	good
-
 khát nước	thirsty
 
 đói, đói bụng	hungry
