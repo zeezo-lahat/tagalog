@@ -523,7 +523,7 @@ dahán-dahán	slowly
 dahás	force, ferocity
 dahil dito	consequently, therefore, so..
 dahil	because
-dahilan	reason (noun)
+dahilán	reason, excuse
 dahon	leaf
 daigdig	the world, the earth
 dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
@@ -1159,6 +1159,7 @@ kakaibang	different
 kakambal	fellow twin, being like someone
 kakanín	sweets, sweet foods, small snacks, rice cake
 kakarampot	only a very small quantity
+kakatapos	just finished something (focus on the something) (alt katatapos)
 kakaunti	(lubhang kaunti)
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
@@ -1344,9 +1345,7 @@ katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
 katarantahan	state of confusion, bewilderment
-katarantahan	state of confusion, bewilderment
-katatapos lang ng bagyo noon	?
-katatapos	just finished (kaCV - express something that just happened)
+katatapos	just finished something (focus on the something) (alt kakatapos)
 katawán	body
 katawanín	to represent/symbolize/embody something (-in, obj. focus)
 katawá-tawá	ridiculous, laughable

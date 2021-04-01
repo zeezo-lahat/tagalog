@@ -1,5 +1,5 @@
 Anh khỏe không?	How are you?
-Em khỏe.
+Em khỏe.	I'm good.
 Vì sao anh học tiếng Việt?	Why do you study Vietnamese?
 Anh đã học được những gì?	What have you learned?
 Anh có thích đi du lịch không?	Do you like to travel?
@@ -18,7 +18,7 @@ nói chuyện	talk to
 bạn bè	friends
 nói chuyện với	talk to
 Anh có thường nói chuyện với bạn bè không?	Do you usually talk to friends?
-lái xe hơi	drive car
+lái xe hơi	drive car (lie say-uh huh-ee)	
 Thuy, 4:28 PM
 Anh có ... không?
 ba mẹ	parents
@@ -33,33 +33,39 @@ Anh khỏe.	I'm good.
 Em cũng khỏe.	I'm also good.
 Rất vui được gặp lại anh.	Nice to see you again.
 Em có mệt không?	Are you tired?
-
 vui	happy
-hạnh phúc	happy
+hạnh phúc	happy (han foop)
 vui, hạnh phúc	happy
 buồn ngủ	sleepy
 khỏe	good
 khát nước	thirsty
-
 đói, đói bụng	hungry
+
 Thuy, 5:15 PM
 Hôm qua em có ôn bài không?	Did you review the lessons yesterday?
+ôn bài	review the lessons(?) (ohm buy)
+
+nói	talk, speak
 
 Thuy, 5:22 PM
-nói chuyện với họ	talk to them
-nghe nhạc	listen to music
-xem tivi	watch TV
+nói chuyện với họ	talk to them (nah-wee chooween vuh-ee ha)
+nghe nhạc	listen to music (n-yay-uh n-yeah-k)
+xem tivi	watch TV (sem tee vee)
+Em có biết ...?	Do you know ...? 
+biết	know (bee-ett)
+lái xe hơi	drive car (lie say-uh huh-ee)	
 Em có biết lái xe hơi không?	Do you know how to drive car? 
 hôi	stink
 
 Thuy, 5:37 PM
-bơi lội	swim
-nấu ăn	to cook
-nói tiếng Anh	speak English
-thích	like
+bơi lội	swim (buh-ee loy)
+nấu ăn	to cook (nuh-oo annn)
+nói tiếng Anh	speak English (no-ee teeing anh)
+thích	like (teek)
+Em có nói tiếng Anh không?	Do you speak English?
+Em có biết nói tiếng Anh không?	Do you know how to speak English?
 
 Thuy, 5:59 PM
 ơi
 nói -- với
 với - xe hơi
-biết	know
