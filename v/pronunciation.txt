@@ -36,6 +36,8 @@ tones:
 none: high, long, flat
 up: start low, go up just at the end
 
+words ending in oc or uc -> close mouth at end.  so phúc sounds like "foop"
+
 Note: words which end with p, t, ch, c can only have rising or dot vowel tones.
 
 spelling rule for g, ng, and c, if followed by vowels i, e, ê, iê (ia):
