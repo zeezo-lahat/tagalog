@@ -523,7 +523,7 @@ dahán-dahán	slowly
 dahás	force, ferocity
 dahil dito	consequently, therefore, so..
 dahil	because
-dahilan	reason (noun)
+dahilán	reason, excuse
 dahon	leaf
 daigdig	the world, the earth
 dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
@@ -552,6 +552,7 @@ damo	grass
 damot	stinginess, selfishness
 dampâ	bahay ng mahirap, karaniwang maliit at gawâ sa marupók na materyales
 dampot	act of picking up with the hand
+dának	spilling (of blood, etc.)
 dánas	experience
 dapâ	to trip, fall over; get down!
 dapat	should, ought to, must
@@ -622,6 +623,7 @@ dumako	to go somewhere, towards something
 dumal	shabbiness of environment or circumstances
 dumaló	to attend, attended
 dumami	to increase in number
+dumának	to flow, pour out
 dumanas	to undergo, experience
 dumapâ	purposely dropped to the ground on one’s belly / face down (dapâ)
 dumarami	to increase in amount
@@ -786,7 +788,8 @@ hangad	(n) desire, purpose, ambition, intention
 hangarin	(n) desire, purpose, ambition, intention
 hangarin	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
 hangga	result, end, outcome
-hanggan	end, boundary, limit
+hanggán	end, boundary, limit
+hanggánan	end, boundary, limit (stylized variant of "hanggán")
 hanggang	until, up to
 hanggát	while; unless; as long as (hanggá't - "hanggang at")
 hangin	air, wind
@@ -1155,10 +1158,11 @@ kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
 káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
-kakaibang	different
+kakaibá	different, strange, unusual
 kakambal	fellow twin, being like someone
 kakanín	sweets, sweet foods, small snacks, rice cake
 kakarampot	only a very small quantity
+kakatapos	just finished something (focus on the something) (alt katatapos)
 kakaunti	(lubhang kaunti)
 kakaunti	a very small amount (unti)
 kakayahán	capability, skill
@@ -1344,9 +1348,7 @@ katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
 katarantahan	state of confusion, bewilderment
-katarantahan	state of confusion, bewilderment
-katatapos lang ng bagyo noon	?
-katatapos	just finished (kaCV - express something that just happened)
+katatapos	just finished something (focus on the something) (alt kakatapos)
 katawán	body
 katawanín	to represent/symbolize/embody something (-in, obj. focus)
 katawá-tawá	ridiculous, laughable
@@ -1940,7 +1942,8 @@ makaluma	olden, old-fashioned
 makamít	to achieve, to gain
 makamkam	rapacious, greedy, want to have all
 makamtan	to get, to obtain
-makapaghain	to be able to set the table / prepare for / lay the groundwork for / file (a complaint, case, etc.)
+makapagbigáy	to be able to give/provide
+makapaghain	to be able to prepare for / lay the groundwork for / file (a complaint, case, etc.)
 makapaglakbay	to be able to travel
 makapál	thick, dense, abounding
 makapili	traitorous
@@ -3034,6 +3037,7 @@ putók	blast, explosion; body odor (slang, eg "may putók")
 putól	cut (adj)
 pútol	cut (noun, verb)
 púwa	lagsák o paglagsak (pagtatambak ng maruruming bagay)
+puwáng	gap (space)
 puwéde	can, possible (usually has an element of seeking or granting permission, kaysa sa ability)
 puwera	not included, except, excepted
 puwersa	(also 'pwersa') force, strength, pressure
