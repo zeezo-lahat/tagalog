@@ -137,11 +137,11 @@ Really!	Talaga!
 Look!	Tingnan mo!
 Give me this.	Ibigay mo sa akin ito.
 What time is it?	Anong oras na?
-Masama ang pakiramdam ko.	I don’t feel well.
-Ang sakit ng ulo ko.	My head hurts.
-May sakit ba siya?	Is she/he sick?
-Masakit.	It hurts.
-Aray!	Ouch!
+I don’t feel well.	Masama ang pakiramdam ko.
+My head hurts.	Ang sakit ng ulo ko.
+Is she/he sick?	May sakit ba siya?
+It hurts.	Masakit.
+Ouch!	Aray!
 Where is there a hospital?	Saan may ospital?
 Let’s bring her/him to the hospital.	Dalhin natin siya sa ospital.
 Nature
