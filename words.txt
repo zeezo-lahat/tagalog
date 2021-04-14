@@ -139,10 +139,10 @@ anák	child (offspring)
 anak-anakan	foster chld
 anak-pawis	“child of sweat” = born of the working class
 anay	termite, white ant
-ang	marker (usually said as "yung" in conversation)
 ang aga mo!	you’re so early!
 ang aga nila!	they’re so early!
 ang mga marálitâ	the extremely poor
+ang	marker (usually said as "yung" in conversation)
 angas	a show-off, boastful person
 ani	crop, harvest
 ani	said by
@@ -186,6 +186,7 @@ asungot	annoying person; irritating person; someone who likes to tag along or fo
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
+ataud	coffin, casket
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
@@ -212,14 +213,16 @@ baboy	pig
 babuyan	pigpen
 badíng	gay (baklâ)
 badúy	uncool, unhip, old-fashioned, low class
+badya	expression, indication
+badyahin	to signal, to indicate
 bagá	an emphatic marker
 baga	glowing coal, ember
 bagà	lung
 bagahe	baggage, luggage
 bagal	slowness
 bagamán	although, in spite of, while, even though (baga + man, old fashioned)
-bagamá't	even though; although; while; though, "bagamán at"
 bagamát	bagamá't (even though; although; while; though)
+bagamá't	even though; although; while; though, "bagamán at"
 bágay	appropriate, fitting; thing, object
 bágay-bagay	circumstances; this and that, things, various little things
 bagkus	on the contrary, instead, rather, but rather, but instead
@@ -274,9 +277,9 @@ balasa	shuffling (of playing cards, etc.)
 balat	birthmark, patch on the skin
 balat	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
 bale	value; as if; equal in value to; cash advance; so
+bálewalâ	meaningless; worthless; of no value; not worthy of attention
 bále-walâ	not worth ones salt, not worthy
 bále-walaín	to ignore something/someone; to disregard something
-bálewalâ	meaningless; worthless; of no value; not worthy of attention
 bali	fracture, break; fractured, broken
 baligtad	inside-out, upside-down (also 'baliktad')
 balik	return
@@ -328,11 +331,13 @@ batasan	legislature (lawmakers)
 batay	based on, by, with
 bátáyan	ground, basis, cause
 batayán	standard, criterion
+Bathalà	God; deity
+bathaluman	deity
 batì	greeting
 batíd	known, awareness (slightly formal term)
 batík	spot, mark, fleck, patch, stain, blemish
-batík-batík	spotted; speckled
 batikán	spotted; tried, tested, seasoned, ace, expert
+batík-batík	spotted; speckled
 batikos	tirade, harangue, invective, verbal abuse
 bato	a stone, rock; kidney; something to throw, throwing
 batok	back of the neck, nape
@@ -359,6 +364,7 @@ bayot	bakla
 benta	sell
 berde	green
 beses	time(s)
+betlog	scrotum ("a very uncouth-sounding word that less educated people use.")
 bibig	mouth; mouthpiece (person, newspaper, etc.; that speaks for others)
 biga	glib
 bigás	unhusked, uncooked rice
@@ -393,9 +399,9 @@ binati	greeted
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
 bingí	deaf
+binibini	polite title for unmarried women (outdated)
 binigkas	pronounced
 binilang	to count
-binibini	polite title for unmarried women (outdated)
 binti	leg, especially the calf part
 binubuo	composing/comprising (buuin)
 binyág	baptism
@@ -429,8 +435,8 @@ bubog	pieces of shattered glass
 bubong	roof
 bubúyog	bumblebee; kind of large bee
 bugaw	go-between, pimp; pander
-bugháw	blue
 bugbóg	beating up, pummeling
+bugháw	blue
 bugsô	crowd of people
 bugsô	flush, blast, downpour
 bugtóng	lone, the only one, sole, only child; unique (syn. tangì); riddle
@@ -464,6 +470,7 @@ bulóng	murmur, whisper; a magical incantation
 bulsá	pocket
 bulusok	sinking with the feet into soft mud; swishing sound; swift plunge downward by airplane
 bumaba	to go lower
+bumadya	to signal, to indicate
 bumagsak	to fail
 bumahíng	to sneeze, sneezed (also bumahín)
 bumakas	made an imprint
@@ -481,6 +488,7 @@ búnga	fruit; result; consequence
 bungad	front, threshold
 bungang-isip	“fruit of the mind” creative works
 bungang-tulog	“fruit of sleep” = dream
+bungangà	opened mouth; mouth; piehole
 bungo	skull
 buno	
 bunô	wrestling; scuffle
@@ -697,8 +705,8 @@ gibay	balancing, oscillating
 giit	insistence; assertion; persistent asking
 gila	demolished
 gilalás	amazement, takáng-taká, namanghâ
-gilálas	malakíng gúlat o anumang pagdudulot ng gúlat o taká
 gilálas	damdaming bunga ng malakíng tákot
+gilálas	malakíng gúlat o anumang pagdudulot ng gúlat o taká
 gilid	edge, border, margin; a slope of a hill
 giliran	edge, border
 giliw	being hospitable; fondness; affection
@@ -915,6 +923,8 @@ iatas	to assign, to order (ie, have someone do something.)
 iba	other, different, another
 iba’t-iba	 various, different, varied
 ibaba	to set/put down
+ibabadya	will be indicated (by)
+ibadya	to declare
 ibahin	to switch or change
 ibalík	to return something, give something back, replace something
 ibatay	to base something on
@@ -1089,6 +1099,7 @@ kababalaghán	wonder, mystery; miracle; phenomenom; marvel
 kabahan	dread
 kabahanin	to dread
 kabaligtaran	(the) opposite
+kabaong	coffin, casket
 kabatáan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
@@ -1603,8 +1614,8 @@ ligáw	wild, uncultivated, stray
 ligay	put, place, install
 ligáya	happines, joy
 ligoy	(n) wordiness, beating around the bush
-ligtás	saved, freed, redeemed; safe; exempt
 ligsá	test, quiz
+ligtás	saved, freed, redeemed; safe; exempt
 liham	a letter (that you send in the mail)
 lIhim	(a) secret, confidential (also "sikreto")
 liit	smallness
@@ -2377,6 +2388,7 @@ nanay	mother (inay)
 nandidito	is/are here
 nandito	here (same as narito)
 nandiyán	am/is/are there
+nang	when (for past event), since/upon/on/at/to/so, so as, so that, in order that; verb+adverb linker; na+ng
 nanghipo	touched
 nangulila	yearned
 nangyari	incident; happened
@@ -2504,7 +2516,7 @@ pabigla	suddenly
 pabrika	factory (pagawaan)
 padaliin	to make easy
 pader	wall made of stone; concrete or stone wall of a house, etc
-padyak	stamping of the foot/feet; sound of heavy steps; marking time (military term)
+padyák	pedicab; pedal as in biking; stamping of the feet; sound of heavy steps; marking time (military term)
 pag	(kapág) when, on, whenever, upon, in case that
 pag-aabuso	(n) abuse; abusing; abusive behavior.
 pag-aaksayá	(n) wasting.
@@ -2524,7 +2536,6 @@ pag-aaprúb	(n) approving; approval.
 pag-aapurá	(n) hurrying.
 pag-aaral	(n) studies; education; learning.
 pag-aarì	(n) property; owning; possession.
-pag-aarì	property
 pag-áarugâ	(n) care; looking after.
 pag-aasawa	(n) act of getting married; marriage.
 pag-aasikaso	(n) things needing attending to.
@@ -2564,7 +2575,7 @@ pagbilhán	to sell to someone; to sell somewhere
 pagbubukas	the time being open, as in a store
 pagbukud-bukurin	to sort, classify
 pagdaanan	to go through/endure something; to bring something to someone
-pagdating	upon arriving, when arrived; as for.., as far as.., regarding..
+pagdating	upon arriving, when arrived; as for.., as far as.., regarding.. (pagdating sa)
 pagdikitin	to stick things together
 pagdinig	a hearing (judicial, etc.)
 pagdiriwang	ceremony, celebration
@@ -2837,6 +2848,7 @@ panlahi	racial
 panonoód	watching (noun, gerund)
 panood	watching (nood, obj focus, alt of manood)
 panoorin	to watch something (nood, object focus)
+panót	bald (having a scalp partly lacking hair)
 pansamantala	for the time being
 pansan	obstacle that causes delay, accident, inconvenience, injury
 pansarili	personal, private
@@ -3572,8 +3584,8 @@ tuklás	discovery; discovered, found
 tuklasín	to discover or detect something
 tuklaw	snakebite; kagat ng ahas, sagpang; tuka
 tukmól	turtledove; an ugly or stupid person (slang) 
-túkod	support, prop
 tukô	gecko
+túkod	support, prop
 tukoy	experienced; accurate in shooting (marksmanship)
 tukoy	mention, reference, specification
 tukso	teasing, joking
@@ -3638,8 +3650,8 @@ tupók	burnt to ashes; nasunog at naging abó; sunóg na sunóg
 turing	remark, name, mention; answer to a riddle; modifier (in grammar); price offered (from seller or buyer)
 turò	point (as with your finger)
 turò	teach
-turò-turò	a restaraunt where you point to what you want
 túrok	multiple defs. most common meaning is in reference to being injected by a needle
+turò-turò	a restaraunt where you point to what you want
 tusak	nagkakatusak; masagana, marami, labis na pagkakaroon
 tusok	piercing, perforation
 tustos	allowance; stock, store, supply (e.g. of raw materials)
