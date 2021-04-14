@@ -759,6 +759,8 @@ babuyán (baboy) _an [noun] piggery; hog pen, pig sty
 báboy-damó (baboy) compound_ [noun] boar; wild boar
 káning-baboy (baboy) compound_ [noun] leftover food to feed the pigs
 mágbababóy (baboy) magCV_ [noun] pig seller
+magbadyâ (badya) mag_ [verb] to express; to declare; to assert
+badyá (badya) rt_ [noun] declaration; expression
 baga (baga) rt_ [noun] hot coal; ember; burning coal; cinder
 bagà (baga) rt_ [noun] lung; lungs
 kung bagá (baga) phr_ [expression] like; that is to say; in a sense; as if; it seems;
@@ -6134,6 +6136,9 @@ magsalaysáy (salaysay) mag_ [verb] to tell; to tell a story; to recount
 pagsasalaysáy (salaysay) pagCV_ [noun] narration; story; version; statement
 salaysáy (salaysay) rt_ [noun] narration; story; version; statement; testimony; account; claim; assertion; deposition
 tagapagsalaysáy (salaysay) tagapag_ [noun] narrator
+maisalbá (salba) mai_ [verb] to be able to save someone/something (ex(salba) save someone's life)
+salbá (salba) rt_ [noun] saving; freeing
+isalbá (salba) i_ [verb] to save something
 isali (sali) i_ [verb] to join as a participant; to include as a participant; to follow
 kasali (sali) ka_ [noun] participant; contestant
 makasali (sali) maka_ [verb] to be able to join; to be able to participate in

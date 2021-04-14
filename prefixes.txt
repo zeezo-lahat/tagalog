@@ -350,6 +350,7 @@ mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got 
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
 naka-	to be in current STATE (ex. nakaupo - sitting, nakaitim - wearing black)
 nakaka-	CAUSING/creating/producing state (ex. nakakainis - annoying)
+nakaCV-	alt. form of nakaka
 nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
 napaka-	intensive (very..). takes adj roots and stems.  napaka-bait (very kind), napaka-mapagbigay (very giving of oneself)
 pa-	MANNER (ex. pabulong - in a whisper)
