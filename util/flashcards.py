@@ -55,6 +55,7 @@ while count < dothismany:
         j += 1
         myout = random.choice(mylist)
         if myout in _didalready:
+            print('.', end='')
             continue
         else:
             _didalready.append(myout)

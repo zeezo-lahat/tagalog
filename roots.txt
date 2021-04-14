@@ -4113,6 +4113,9 @@ kurutan (kurot) _an [noun] pinching one another
 kusà (kusa) rt_ [adjective/adverb] automatic; voluntary; voluntarily; deliberate; by itself; on one's own initiative; [noun] initiative
 kusain (kusa) _in [verb] to take the initiative
 magkusà (kusa) mag_ [verb] to volunteer
+kuskusín (kuskos) _in [verb] to rub something; to scrub something
+kuskós (kuskos) rt_ [noun] rubbing; scrubbing
+ikuskós (kuskos) i_ [verb] to rub; to scrub
 ikuwento (kuwento) i_ [verb] to narrate; to tell a story; to tell stories
 kuwento (kuwento) rt_ [noun] story
 magkuwento (kuwento) mag_ [verb] to tell a story; to narrate
