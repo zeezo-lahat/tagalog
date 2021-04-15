@@ -1,9 +1,15 @@
+notes:
+đã    past
+dang  present
+sẽ    future
+
 hôm nay anh khỏe không?	how are you today? (home na-ee ann kw-eh-eh khome?)
 anh khỏe	I'm good
 rất vui được gặp lại anh	nice to see you again
 rất vui được gặp lại anh	(rutt vooeey duu-uck gyap liee ann)
 hôm nay mình ôn bài	today we review lessons
 mình	we
+em đã ... khi nào?	when did you ...?
 em đã gặp họ khi nào?	when did you meet them? (em daa-a gyop ha-ah key nay-ow)
 em đã nói chuyện với họ khi nào?	when did you talk to them?
 em đã đi Việt Nam khi nào?	when did you go to Vietnam?
@@ -11,15 +17,18 @@ em đã xem tv lúc mấy giờ vậy?	what time did you watch tv?
 em đã ôn bài lúc mấy giờ vậy?	what time did you review the lesson? 
 em có biết?	do you know?
 Thuy, 5:08 PM
-lái xe hơi	drive a car
+lái xe hơi	drive a car (la-ee say-uh huh-ee)
 chạy xe hơi	drive a car (kyay-uh say-uh huh-ee)
-Em (có) khỏe không?	Are you good?
-buồn ngủ
-nghe nhạc
-món ăn, thức ăn	food
-đồ ăn	food
+Em (có) khỏe không?	Are you good? (em caah kweyah khom)
+buồn ngủ	sleepy (boo-own noo)
+15:45
+nghe nhạc	listen to music (nyeaah nyak)
+món ăn	food (mone ann)
+thức ăn	food (tuk ann)
+đồ ăn	food (doh ann)
 món Việt	Vietnamese food
 món Thái	Thai food
+18:14 starts a good example of alternating down/flat - up/flat
 đồ ăn Mỹ	American food
 món ăn Mỹ	American food
 22:00
@@ -33,12 +42,15 @@ nhảy	dance (nya-ee)
 nói chuyện với anh	talk with me (nah-wee chu-ween vuh-ee ann)
 Thuy, 5:34 PM
 khi nào, lúc nào	when?
+em sẽ gặp họ khi nào?	when will you meet them? (em say-a gyop ha-ah key nay-ow)
 35:00: since we are asking about something that hasn't happened yet,
 we can put "khi nào" in the beginning (can still put at the end too)
-rời khỏi	leave (ruh-wee/smile khah-wee/round)
-thức dậy	get up (tuk yuh-ee)
+khi nào em sẽ gặp họ?	when will you meet them? (key nay-ow em say-a gyop ha-ah)
+rời khỏi	leave (ruh-ee/smile khah-wee/round)
+khi nào em sẽ rời khỏi Việt Nam?	when will you leave Vietnam?
+thức dậy	get up (tuk yuah-ee)
 ăn sáng	have breakfast
-ăn bữa sáng	have breakfast (an buuwah sang)
+ăn bữa sáng	have breakfast (an buuuwah sang)
 xin lỗi (vì) đã ...	sorry for doing..
 đến trễ	being late (dunn tyu-e-e)
 xin lỗi vì đã đến trễ	sorry for being late
