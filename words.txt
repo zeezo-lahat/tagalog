@@ -670,6 +670,7 @@ gáling	from where
 galíng	merit, skillfulness, proficiency
 galít	angry; to hate/dislike
 gálos	slight scratch
+gambalà	disturbance, nuisance, interruption
 gamít	usage
 gamit	use
 gamót	medicine
@@ -2582,6 +2583,7 @@ pagdiriwang	ceremony, celebration
 pagdugo	bleeds / act of bleeding
 pagdurugo	bleeding
 paggalang	respecting
+paggambala	interruption
 paggigiit	assertion, insistence of one's rights
 paggunita	remembrance, memorial
 paghahain	filing (a bill, application, etc.
@@ -3187,6 +3189,7 @@ sanayan	a place for practice
 sanaysay	an essay
 sandali	moment (dali)
 sandata	weapon; arms; ammunition
+sangá	branch
 sanggol	baby, infant
 sangkáp	ingredient, part, element
 sangkataúhan	mankind, the public
