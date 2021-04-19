@@ -1799,6 +1799,9 @@ dahan (dahan) rt_ [noun] slowness
 dahanan (dahan) _an [verb] to slow; to slacken in speed
 dáhan-dahan (dahan) rt_rt [adverb] slowly; carefully; take it easy
 marahan (dahan) ma_ [adjective] slow; gentle; soft; tender [adverb] gently; tenderly; softly; slowly
+karahasán (dahas) ka_an [noun] violence; ferocity
+marahás (dahas) ma_ [adjective] vicious; violent; ferocious; audacious; drastic
+dahás (dahas) rt_ [noun] force; ferocity
 dahil (dahil) rt_ [conjunction] because of; because
 dahil sa (dahil) conj_ [conjunction] because of
 dahilán (dahil) _an [noun] reason; cause; excuse; purpose; the reason why; alibi; factor; account; so as to
@@ -3598,7 +3601,7 @@ paláisipán (isip) pala_an [noun] puzzle; brain teaser; conundrum
 umisip (isip) _um_ [verb] to think up; to think of; to come up with a plan; to plan; * usually means "to come up with an idea" or something similar.
 itimán (itim) _an [verb] to shade something; to blacken something
 itím (itim) rt_ [noun] black; blackness; [adjective] black; dark
-kaitimán (itim) ka_an [adjective] blackness; darkness; dark skinned
+kaitimán (itim) ka_an [noun] blackness; darkness; [adjective] dark skinned
 maitím (itim) ma_ [adjective] black; dark; dark in color
 mangitím (itim) mang_ [verb] to become black; to become dark; to become dark in color; to darken
 nakaitím (itim) naka_ [adjective] dressed in black
@@ -4095,6 +4098,9 @@ ikumustá (kumusta) i_ [verb] to send regards on behalf of someone
 kumustahín (kumusta) _in [verb] to send regards; to inquire about the condition of something, or the health of someone
 kumustá (kumusta) sp_ [greeting] how are you; hello; how is; hi
 mangumustá (kumusta) mang_ [verb] to send regards; to say hello; to inquire about someone's condition
+mapagkukunan (kunan) mapagCV_ [noun] resources
+pinagkukunan (kunan) pinagCV_a[noun] source
+pagkunan (kunan) pag_ [verb] to take from something
 ikunót (kunot) i_ [verb] to pucker
 kumunót (kunot) _um_ [verb] to furrow; to wrinkle; to pucker
 kunot-noó (kunot) [adjective] wrinkled forehead; scowling; furrowed brow
@@ -5318,7 +5324,7 @@ magpahid (pahid) mag_ [verb] to wipe; to smear
 pagpapahid (pahid) [noun] application; applying
 pahid (pahid) rt_ [noun] wiping; smearing; anointing
 pahiran (pahid) _an [verb] to coat something; to cover something
-kapaitán (pait) ka_an [adjective] bitterness; acerbity
+kapaitán (pait) ka_an [noun] bitterness; acerbity
 mapaít (pait) [adjective] bitter
 papaitan (pait) pa_an a well known Ilocano soup dish mostly composed of cow or goat innards, garlic, and ginger.
 papaitín (pait) pa_in [verb] to make bitter
@@ -6134,6 +6140,9 @@ pasalamat (salamat) pa_ [noun] thanks; thanking; acknowledgement
 pasalamatan (salamat) pa_an [verb] to thank someone; to acknowledge someone; to appreciate someone/something
 pasasalamat (salamat) paCV_ [noun] gratitude; thanksgiving; thanking
 salamat (salamat) rt_ [expression] thank you; thanks
+salatín (salat) _in [verb] to palpate; to examine by touch
+salát (salat) rt_ [noun] touch; [adjective] poor; destitute; lacking
+tagsalát (salat) tag_ [noun] famine; state of severely lacking food or other basic necessities
 isalaysáy (salaysay) i_ [verb] to tell a story about something; to give a statement about something; * focus on the thing being told
 magsalaysáy (salaysay) mag_ [verb] to tell; to tell a story; to recount
 pagsasalaysáy (salaysay) pagCV_ [noun] narration; story; version; statement
@@ -7167,6 +7176,9 @@ katamaran (tamad) ka_an [noun] laziness
 nakakatamád (tamad) nakaka_ [adjective] tiring
 tamarín (tamad) _in [verb] to be lazy; to cause someone to feel lazy
 tamád (tamad) rt_ [adjective] lazy; idle; sluggish
+tamasahin (tamasa) _in [verb] to enjoy something good in life (leisure, wealth, etc.)
+tamasa (tamasa) rt_ [noun] enjoying wealth or good things in life
+magtamasa (tamasa) mag_ [verb] to enjoy good things in life
 itambák (tambak) i_ [verb] to dump; to dump out
 matambák (tambak) ma_ [verb] to be piled up; to be backed up
 nakatambák (tambak) naka_ [adjective] heaped; piled
@@ -8008,7 +8020,7 @@ pangangatuwiran (tuwid) [noun] reasoning; logic; argumentation
 tumuwíd (tuwid) _um_ [verb] to straighten; to become straight
 tuwiran (tuwid) [adjective] direct; straight forward; blunt
 tuwíd (tuwid) rt_ [adjective] straight; direct; [adverb] straight; directly
-katuyuan (tuyo) ka_an [adjective] dryness
+katuyuan (tuyo) ka_an [noun] dryness
 matuyô (tuyo) ma_ [verb] to dry up; to dry; to wither; to evaporate
 patuyuín (tuyo) pa_in [verb] to let dry; to dry out; to drain
 pátuyuan (tuyo) [noun] dryer
