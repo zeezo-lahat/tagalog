@@ -1,6 +1,7 @@
 Anh có thích ..... không?	Do you like ...?
 Anh có thường .... không?	Do you usually ...?
 Hôm qua em có .... không?	Did you ... yesterday?
+Em có .... không?	Are you..?
 Em có biết .... không?	Do you know how to ...?
 em (đã) .... lúc mấy giờ (vậy)?	what time did you ...?
 hôm qua em (đã) .... lúc mấy giờ (vậy)?	what time did you ... yesterday?
@@ -10,4 +11,5 @@ hôm nay mình ....	today we ...
 cảm ơn em (vì) đã ...	thank you for ...
 .... với anh	... with me
 xin lỗi (vì) đã ...	sorry for doing..
-
+Em có bao giờ ... chưa?	Have you ever ...?
+khi nào em sẽ ..?	when will you ..?

@@ -93,6 +93,7 @@ alalahanin	to recall, remember; think/worry about, consider; cause of worry
 alám	knowledge, to know
 alamat	folklore, tradition, legend, myth
 alamin	to find out, to investigate
+álang-alang	regard, consideration, awe; for the sake of, on behalf of
 alat	saltiness
 alay	offering
 albularyo	traditional healer, medicine man; quack doctor, charlatan
@@ -339,7 +340,7 @@ batík	spot, mark, fleck, patch, stain, blemish
 batikán	spotted; tried, tested, seasoned, ace, expert
 batík-batík	spotted; speckled
 batikos	tirade, harangue, invective, verbal abuse
-bato	a stone, rock; kidney; something to throw, throwing
+bató	a stone, rock; kidney; something to throw, throwing
 batok	back of the neck, nape
 batúgan	hard headed (big insult)
 batukan	to hit the back part of the head
@@ -850,6 +851,8 @@ himalâ	miracle
 himások	interference, meddling, intrusion (pasok)
 himatay	faint, swoon
 hímig	tune, melody; note
+himláy	slumber
+himlayan	bed; cemetery
 himok	inducement, persuasion, enticement
 himpapawíd	atmospheric space, the space above the ground, or esp. above rooftops
 hinaan	to lower the volume
@@ -1482,6 +1485,7 @@ kunwari	pretend (also kunyari)
 kupal	smegma; used to describe a foolish or nasty person
 kupas	faded, out of date, out of use
 kurIpot	stingy
+kuru-kuro	personal opinion (palagay, opinyon)
 kusà	deliberately, voluntarily
 kusang palo	self-starter
 kusang-loób	free will
@@ -1662,6 +1666,7 @@ luhóso	extravagant
 luksá	in mourning, in black
 lukso	jump, leap, spring
 lulan	what a vehicle is carrying, load (syn "karga")
+luló	fallen; addicted
 lumà	old, worn, stale, antiquated (used for objects, not like matanda)
 lumabág	to violate (eg, the law)
 lumabas	come out, emerge, be found to be, appear; brought out
@@ -1837,6 +1842,7 @@ maglaro	to play
 maglinis	to clean
 maglipat	transfer, hand over
 magmadali	to hurry; "hurry up!"
+magmág	common sense
 magmahal	to hold dear, value
 magmakaawà	to implore; to plead; to beg (awa)
 magmanEho	to drive
@@ -2038,6 +2044,7 @@ maliwanag	bright, clear, distinct
 malubáy	calm, relaxed, slack
 malubha	serious (ref to sickness or medical condition)
 maluho	extravagant
+maluló	to be hooked on a bad vice; to be addicted; to fall into a bad situation
 malungkot	sad
 malungkutin	prone to sadness
 malunod	drown, be drowned (e.g. in joy)
@@ -2263,6 +2270,7 @@ minsanan	a one-time thing
 miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
+mithî	ideal; earnest wish
 morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
@@ -2288,6 +2296,7 @@ nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
 nag-aalala	worrying
 nagawa	an action done
 nagbubuklod	binding
+nagdadalantao	pregnant
 nag-iipon	saving
 nag-íisá	alone; only; solitary; solo; single; unique
 nagíng	became
@@ -3015,6 +3024,7 @@ prito	fried
 pugad	nest
 pugante	fugitive
 puhúnan	investment
+pukpók	bang; hammering; beating; pounding
 pukyutan	bee, honeybee
 pulá	red
 pulgada	an inch
@@ -3228,6 +3238,7 @@ sayaw	dance
 saysáy	statement; value
 sekyu	security guard (also "sikyo")
 selos	jealousy
+sentido komun	common sense
 si	name marker, marks name of anything with a personality
 sibák	chopping wood with an axe. slang for firing someone.
 sibuyas	onion

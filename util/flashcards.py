@@ -10,59 +10,59 @@ import sys
 import time
 import argparse
 
+parser = argparse.ArgumentParser(description='Flashcard generator.')
+
+parser.add_argument('-r', dest='reverse', action='store_true',
+                    help='present second column rather than first, ie eng-tag')
+parser.add_argument('-a', dest='norandom', action='store_true',
+                    help="don't do random order, just go straight through")
+parser.add_argument('-c', dest='count', help='cards to do, 0 for "all"')
+parser.add_argument('infile', help='input file')
+
+args = parser.parse_args()
+
 _mysep='\t'
 
-parser = argparse.ArgumentParser(description='Make flashcards from listen input files.')
-parser.add_argument('integers', metavar='N', type=int, nargs='+',
-                            help='an integer for the accumulator')
-
-f = open(sys.argv[1], 'r') 
+f = open(args.infile, 'r') 
 
 # read input:
 myinput = f.read()
-order = ""
-dothismany = 10
 
-try:
-    if sys.argv[2] == "r": # if == "r" do english -> tagalog
-        order = "r"
-    elif int(sys.argv[2]): # do this many
-        dothismany = int(sys.argv[2])
-except:
-    pass
-
-
-try:
-    if sys.argv[3] == "r": # if == "r" do english -> tagalog
-        order = "r"
-    elif int(sys.argv[3]): # do this many
-        dothismany = int(sys.argv[3])
-except:
-    pass
+if args.count:
+    dothismany = int(args.count)
+else:
+    dothismany = 10
 
 inc = 0
 # split input into a list of lines:
 mylist = myinput.split('\n')
-mylist.pop()
+#mylist.pop()
 #print(mylist)
 
-count=0
+count=linecount=0
 _didalready = []
-while count < dothismany:
-    j = 0
+while count < dothismany and linecount < len(mylist) - 1:
 
-    while True:
-        j += 1
-        myout = random.choice(mylist)
-        if myout in _didalready:
-            #print('.', end='')
-            continue
-        else:
-            _didalready.append(myout)
-            break
-        if j > 100:
-            break
-
+    if args.norandom:
+        try:
+            myout = mylist[linecount]
+            linecount = linecount + 1
+        except:
+            exit()
+    else:
+        j = 0
+        while True:
+            j += 1
+            myout = random.choice(mylist)
+            if myout in _didalready:
+                #print('.', end='')
+                continue
+            else:
+                _didalready.append(myout)
+                break
+            if j > 100:
+                break
+    
     if myout.find(_mysep) < 0:
         continue
 
@@ -72,7 +72,7 @@ while count < dothismany:
 
     count = count + 1
 
-    if order == "r":
+    if args.reverse:
         #print(t2e[1].strip())
         print(t2e[1].strip(), end='')
         input()
