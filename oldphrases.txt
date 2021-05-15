@@ -1,272 +1,91 @@
-E| extended
-T| in-extend
-
-E| for example
-T| halimbawa
-
-E| again
-T| na naman
-
-E| according to
-T| Ayon sa
-
-E| I don't know / whatever
-T| Ewan ko
-
-E| do as you please / up to you / your call / figure it out yourself
-T| bahAla ka
-
-E| whatever happens happens
-T| bahAla na
-
-E| wake up!
-T| gIsing na
-
-E| obvious
-T| kiting-kita / halata / malinaw
-
-E| meanwhile
-T| samantala
-
-E| do this first
-T| unahin mo ito
-
-E| go ahead!
-T| hayo!
-
-E| don't worry about it / let it be
-T| hayaan mo / hamo
-
-E| never mind / don't worry about it
-T| hindi bale
-
-E| listen to me
-T| makinig ka sa akin
-
-E| slowly
-T| dahan-dahan
-
-E| slow
-T| mabAgal
-
-E| equal
-T| pantay
-
-E| I don't understand
-T| hindi ko maintindihan
-
-E| with me
-T| kasama ako
-
-E| let's go
-T| halika na
-
-E| forgive me
-T| patawarin mo ako
-
-E| excuse me
-T| mawalang galang lang
-
-E| oh!
-T| naku!
-
-E| this bag is prettier than that one
-T| mas maganda ang bag na ito kaysa iyan
-
-E| shall we go out?
-T| pwede ba tayong lumabas?
-
-E| get in the car
-T| pumasok ka sa kotse
-
-E| we are late
-T| huli na tayo
-
-E| are you ready?
-T| handa ka na ba? / handa na ba kayo?
-
-E| whatever
-T| kahit ano
-
-E| what else?
-T| ano pa?
-
-E| that's it
-T| ayan yun
-
-E| ask me
-T| tanungin mo ako
-
-E| don't ask me
-T| huwag kang magtanong sa akin
-
-E| because of you
-T| dahil sa iyo
-
-E| his father
-T| ang kanyang ama
-
-E| can also
-T| puwede rin
-
-E| even though / despite
-T| kahit pa
-
-E| my love
-T| mahal ko
-
-E| my hair
-T| ang aking buhok
-
-E| is this yours?
-T| sa iyo ba ito?
-
-E| your hair
-T| ang iyong buhok
-
-E| ever since..
-T| mula noong..
-
-E| I need coffee
-T| kailangan ko ng kape
-
-E| it's you
-T| ikaw 'yun
-
-E| alright!
-T| ayos!
-
-E| if you want
-T| kung gusto mo
-
-E| I did
-T| ginawa ko
-
-E| I did it
-T| nagawa ko
-
-E| stay away
-T| lumayo
-
-E| the day before yesterday
-T| kamakalawa
-
-E| (the) day after tomorrow
-T| sa makalawa
-
-E| before you were born
-T| bago ka ipinanganak
-
-E| I used to play chess
-T| dati akong naglalaro ng chess
-
-E| I will play chess
-T| maglalaro ako ng chess
-
-E| before you start
-T| bago ka magsimula
-
-E| move!
-T| ilipat!
-
-E| I don't want
-T| ayo ko / ayaw ko
-
-E| I will
-T| gagawin ko
-
-E| do it
-T| gawin mo
-
-E| they go to their school
-T| pumunta sila sa kanilang paaralan
-
-E| this is a fun place
-T| ito ay isang masaya na lugar
-
-E| to them, with them, their, for them
-T| ^ sa kanila ^
-
-E| it will be fine
-T| ito ay magiging mabuti
-
-E| it was fun
-T| ito ay mahusay na
-
-E| you should.
-T| dapat mo.
-
-E| you should bring that
-T| dapat mong dalhin iyon
-
-E| you should go home
-T| dapat kang umuwi
-
-E| we will watch a movie
-T| mananood kami ng isang pelikula
-
-E| you should always...
-T| dapat mong palaging...
-
-E| you should always be happy
-T| dapat mong laging maging masaya
-
-E| take a pill
-T| kumuha ng tableta
-
-E| let's go home
-T| umuwi na tayo
-
-E| let's go out
-T| labas tayo
-
-E| take me home
-T| iuwi mo ako
-
-E| take me to the new store
-T| dalhin mo ako sa bagong tindahan
-
-T| magdala, dalhin
-E| ^ bring ^
-
-E| the man has a brother
-T| may isang kapatid ang lalaki
-
-E| the woman is a lawyer
-T| abogado ang babae
-
-E| the picnic was fun
-T| masaya ang piknik
-
-E| the child slept in the room
-T| natulog ang bata sa kwarto
-
-E| the man has a brother
-T| may isang kapatid ang lalaki
-
-E| according to
-T| ayon kay
-
-E| the coffee is on the table
-T| nasa mesa ang kape
-
-E| I like the mango
-T| gusto ko ang mangga
-
-E| I like mangoes
-T| gusto ko ng mangga
-
-E| I need the book
-T| kailangan ko ang libro
-
-E| I need a book
-T| kailangan ko ng libro
-
-E| I am studying Tagalog
-T| nag-aaral ako ng Tagalog
-
-E| pretend to play a game
-T| magpanggap na maglaro ng isang laro
-
-E| pretend to know how to dance
-T| magpanggap na malaman kung paano sumayaw
+extended	in-extend
+for example	halimbawa
+again	na naman
+according to	Ayon sa
+I don't know / whatever	Ewan ko
+do as you please / up to you / your call / figure it out yourself	bahAla ka
+whatever happens happens	bahAla na
+wake up!	gIsing na
+obvious	kitang-kita / halata / malinaw
+meanwhile	samantala
+do this first	unahin mo ito
+go ahead!	hayo!
+don't worry about it / let it be	hayaan mo / hamo
+never mind / don't worry about it	hindi bale
+listen to me	makinig ka sa akin
+slowly	dahan-dahan
+slow	mabAgal
+equal	pantay
+I don't understand	hindi ko maintindihan
+with me	kasama ako
+let's go	halika na
+forgive me	patawarin mo ako
+excuse me	mawalang galang lang
+oh!	naku!
+this bag is prettier than that one	mas maganda ang bag na ito kaysa iyan
+shall we go out?	pwede ba tayong lumabas?
+get in the car	pumasok ka sa kotse
+we are late	huli na tayo
+are you ready?	handa ka na ba? / handa na ba kayo?
+whatever	kahit ano
+what else?	ano pa?
+that's it	ayan yun
+ask me	tanungin mo ako
+don't ask me	huwag kang magtanong sa akin
+because of you	dahil sa iyo
+his father	ang kanyang ama
+can also	puwede rin
+even though / despite	kahit pa
+my love	mahal ko
+my hair	ang aking buhok
+is this yours?	sa iyo ba ito?
+your hair	ang iyong buhok
+ever since..	mula noong..
+I need coffee	kailangan ko ng kape
+it's you	ikaw 'yun
+alright!	ayos!
+if you want	kung gusto mo
+I did	ginawa ko
+I did it	nagawa ko
+stay away	lumayo
+the day before yesterday	kamakalawa
+(the) day after tomorrow	sa makalawa
+before you were born	bago ka ipinanganak
+I used to play chess	dati akong naglalaro ng chess
+I will play chess	maglalaro ako ng chess
+before you start	bago ka magsimula
+move!	ilipat!
+I don't want	ayo ko / ayaw ko
+I will	gagawin ko
+do it	gawin mo
+they go to their school	pumunta sila sa kanilang paaralan
+this is a fun place	ito ay isang masaya na lugar
+to them, with them, their, for them	sa kanila
+it will be fine	ito ay magiging mabuti
+it was fun	ito ay mahusay na
+you should.	dapat mo.
+you should bring that	dapat mong dalhin iyon
+you should go home	dapat kang umuwi
+we will watch a movie	mananood kami ng isang pelikula
+you should always...	dapat mong palaging...
+you should always be happy	dapat mong laging maging masaya
+take a pill	kumuha ng tableta
+let's go home	umuwi na tayo
+let's go out	labas tayo
+take me home	iuwi mo ako
+take me to the new store	dalhin mo ako sa bagong tindahan
+bring	magdala, dalhin
+the man has a brother	may isang kapatid ang lalaki
+the woman is a lawyer	abogado ang babae
+the picnic was fun	masaya ang piknik
+the child slept in the room	natulog ang bata sa kwarto
+the man has a brother	may isang kapatid ang lalaki
+according to	ayon kay
+the coffee is on the table	nasa mesa ang kape
+I like the mango	gusto ko ang mangga
+I like mangoes	gusto ko ng mangga
+I need the book	kailangan ko ang libro
+I need a book	kailangan ko ng libro
+I am studying Tagalog	nag-aaral ako ng Tagalog
+pretend to play a game	magpanggap na maglaro ng isang laro
+pretend to know how to dance	magpanggap na malaman kung paano sumayaw

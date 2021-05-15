@@ -541,6 +541,8 @@ dahon	leaf
 daigdig	the world, the earth
 dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
 daíti	pagtabihin o pagdikitin ang dalawang bagay
+dakdak	to chatter nonstop
+dakdák	(n) dunk; dunk a basketball
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -919,6 +921,7 @@ humuhumi	twittering/tweeting (huni)
 humupa	subside
 hungháng	brainless, stupid
 huni	hoot, tweet, chirping sound
+hurado	a judge
 húsay	skill
 husga	act of passing judgment
 husto	adequate, sufficient, fitted, up-to-date, correct; amply, sufficiently
@@ -1759,6 +1762,7 @@ mabúti	carefully, well, with effort, vigorously, heartily
 mabúti	fine, good, advisable, wholesome, good in character, in good condition; better
 madaanan	passable, drivable
 madahan	slow
+madakdak	talkative, overly chatty
 madalang	rarely; rare, scarce, few, sparse, scanty, thin
 madalás	frequently
 madalI	easy
@@ -1981,6 +1985,7 @@ makapili	traitorous
 makápúlot	to happen to pick up, find
 makaramdám	to feel
 makasarili	selfish
+makatà	poet
 makatagpô	to discover, come across
 makatao	humanitarian, humane
 makatí	itchy
@@ -2072,7 +2077,7 @@ mamulot	to pick up things, glean
 man lamang	the minimum/least (magluto ka man lamang sana -> the least you could do is cook)
 man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 mana	inheritence (can be traits or wealth, etc.)
-manaig	prevail, override, overrule, conquerl predominate, surpass (daig)
+manaig	prevail, override, overrule, conquer, predominate, surpass (daig)
 manakot	to scare (mang-)
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
@@ -3017,6 +3022,7 @@ pintúra	paint
 pípi	mute, unable to speak; utal, umid, apaw; hindi makapagsalita
 pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
+pisì	twine
 pisngí	cheek
 pitaka	wallet, purse, billfold
 pitpit	flattened by beating, pounded

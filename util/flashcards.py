@@ -41,27 +41,17 @@ mylist = myinput.split('\n')
 
 count=linecount=0
 _didalready = []
-while count < dothismany and linecount < len(mylist) - 1:
+availablelines = len(mylist)
+while count < dothismany and linecount <= availablelines:
+    if not args.norandom:
+        random.shuffle(mylist)
 
-    if args.norandom:
-        try:
-            myout = mylist[linecount]
-            linecount = linecount + 1
-        except:
-            exit()
-    else:
-        j = 0
-        while True:
-            j += 1
-            myout = random.choice(mylist)
-            if myout in _didalready:
-                #print('.', end='')
-                continue
-            else:
-                _didalready.append(myout)
-                break
-            if j > 100:
-                break
+    try:
+        myout = mylist.pop(0)
+        linecount = linecount + 1
+    except:
+        print('out of lines.  sorry..')
+        exit()
     
     if myout.find(_mysep) < 0:
         continue
@@ -71,6 +61,7 @@ while count < dothismany and linecount < len(mylist) - 1:
         continue
 
     count = count + 1
+    print(count, '', end='')
 
     if args.reverse:
         #print(t2e[1].strip())
