@@ -47,6 +47,13 @@ defrep ()
   ht -$1 | defsagain
 }
 
+
+defrepmakeflash ()
+{
+  defrep "$*" | sed 's/\t.*\]/\t/'
+}
+
+
 tgw ()
 {
   cat roots.txt words.txt | tgrep.py "$*" | sort | uniq
