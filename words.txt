@@ -207,7 +207,6 @@ ayaw	don't/doesn't want
 ayuda	aid; something supplementary
 ayúno	fasting (not eating)
 ba	yes/no question former; used to emphasise question/ask for detail; also affirmation as "sige ba", "oo ba"
-ba't	bakit
 babà	lowness; to descend; chin
 bababa	will come down, descend, get off (as vehicle)
 babalâ	caution, warning, notice, alarm
@@ -327,6 +326,7 @@ basag-ulo	quarrel (“broken head”)
 basahan	rag
 báso	drinking glass
 basta	enough, sufficient, "it is enough"; as a declaration: "just because", "what matters is.."
+ba't	bakit
 batà	a child; "young"
 batang-hamog	street child
 batás	law
@@ -489,9 +489,9 @@ bumuô	to form, constitute, create
 bundol	ramming with something large and long
 búnga	fruit; result; consequence
 bungad	front, threshold
+bungangà	opened mouth; mouth; piehole
 bungang-isip	“fruit of the mind” creative works
 bungang-tulog	“fruit of sleep” = dream
-bungangà	opened mouth; mouth; piehole
 bungo	skull
 buno	
 bunô	wrestling; scuffle
@@ -541,8 +541,8 @@ dahon	leaf
 daigdig	the world, the earth
 dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
 daíti	pagtabihin o pagdikitin ang dalawang bagay
-dakdak	to chatter nonstop
 dakdák	(n) dunk; dunk a basketball
+dakdak	to chatter nonstop
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -2804,6 +2804,7 @@ pamahiin	superstition
 pamalagiin	to stabilize
 pamamagitan	intercession, intervention, mediation
 pamamaríl	shooting, gunning, hunting
+pamangkin	niece or nephew
 pamasahe	money used to pay for fare (transport)
 pamatay-apoy	fire extinguisher
 pambansâ	national
@@ -3167,6 +3168,7 @@ sakalì	in case, if; perhaps
 sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
+saklób	concave lid; face-to-face
 saklolo	succor, aid, help
 saknong	stanza; section of a ricefield assigned to one for harvesting
 sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
@@ -3650,6 +3652,7 @@ tumal	slowness (business) "ang tumal ng benta."
 tumalon	to jump
 tumanda	to age, grow old
 tumangGI	to refuse, deny
+tumaob	overturned
 tumapat	to stand in front of
 tumapos	to finish
 tumataas	mounting; increasing
