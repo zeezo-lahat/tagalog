@@ -316,6 +316,7 @@ barang	black magic; sorcery
 barilan	gun battle
 barkada	group of friends, clique, gang
 barkó	a ship
+barò	dress; gown; apparel
 baryá	change, loose money
 baryo	barrio
 bása	to read / reading
@@ -768,6 +769,7 @@ habang-panahon	"while time", forever
 hablot	grab
 habol	pursue, run after, chase
 hábong	hut, pavilion, temporary shelter
+hadlang	obstacle, obstruction
 hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
@@ -905,6 +907,7 @@ huli	catch
 húlog	fall/fallen (lit/fig), falling, failure (eg, of exam), drop
 hulog	payment installment; contribution/quota payed by a member
 hulog	significance, construction, interpretation, purport; translation; capture
+humadlang	to stand in the way, to obstruct
 humaginit	to swish by, to swish / swished; whine; make a whining sound; zip, swish by; whistle
 humakbáng	to step, to stride (actor) <humakbáng, humáhakbáng, háhakbáng>
 humalili	to substitute, to replace (halili, -um-) 
@@ -2660,6 +2663,7 @@ paglaruán	to play (with) something; to toy/trifle with someone
 pagliban	absence
 paglikha	the act of creating / creation ; invention
 paglipas	passing, passage, having passed (also pagkalipas)
+paglutás	act of solving; resolve
 pagmamalabis	(hyperbole)
 pagmamalupit	abuse, harsh treatment
 pagmamano	the bringing of an elder's hand to your forehead to show respect (also 'mano')
@@ -2855,6 +2859,7 @@ panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
 panghabang buhay	lifelong
 panghanda	preparation for
+pángil	snake fang; canine tooth
 panginoón	the Lord; master, a person who rules or commands people or things
 pangkalahátan	general
 pangkalakal	trade, business
@@ -3380,6 +3385,7 @@ sumuway	to disobey, violate, oppose
 sundálo	soldier
 sundin	to obey (sunod)
 sundô	fetch someone from somewhere
+sundót	poke, jab
 sungay	horn, antler
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
@@ -3399,6 +3405,7 @@ suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
 suyod	fine-toothed hair comb
 syonget	ugly
+syotà	lover (slang) from the English phrase "short time" (usually not serious); girlfriend/boyfriend; fling
 taál	native, original
 taás	height
 tabâ	fat
