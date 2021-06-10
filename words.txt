@@ -1944,6 +1944,7 @@ mahigpit	tight, tightly; strict, severe
 mahilig	fond of
 mahina ang tuhod	“weak-kneed” = having a frail body
 mahinahon	calm, cool, dispassionate, self assured; mild; calmly, mildly
+mahinhín	modest
 mahirap	difficult; poor, indigent
 mahirapan	experience difficulty; experience labor in childbirth
 mahulaan	to be able to guess
@@ -2091,7 +2092,7 @@ man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 mana	inheritence (can be traits or wealth, etc.)
 manaig	prevail, override, overrule, conquer, predominate, surpass (daig)
 manakot	to scare (mang-)
-manang	devotee; elder sister
+mánang	elder sister; a familiar term for a woman in her 40’s or thereabouts even if not related to her
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
@@ -2133,7 +2134,7 @@ manlamig	to be cold to someone
 manliligaw	suitor
 manloob	rob, steal; raid and rob with violence
 mano	the act of raising an elder's hand to your forehead to show respect; handful; by hand
-manong	older brother
+mánong	older brother; from the Spanish hermano. This is the male equivalent of manang.
 mánonoód	spectator, bystander, watcher
 manoód	to watch
 manukso	to tempt; to tease
@@ -2252,6 +2253,7 @@ matauhan	to recover consciousness
 matengga	to be put on hold, suspended (actor); to put something on hold, suspend something (object)
 matigás	hard, tough, stiff
 matigil	to be stopped or suspended; taken aback, briefly shocked; stop; come to an end
+matimtíman	mahinhín, may natatanging hinhin (pagsasaalang-alang sa kagandahang-asal at wastong pananamit, pagsasalita, at pagkilos
 matindi	intense, severe, extreme (syn. grabe, sobra)
 matinding-matindi	very severe
 matingkad	bright (colored)
