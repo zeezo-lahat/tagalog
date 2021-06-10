@@ -850,6 +850,7 @@ hikahós	needy, poor, bankrupt
 hila	pull
 hilaga	north
 hilahin	to pull
+hilakbót	fear, terror
 hilaw	uncooked, raw; green; unripe
 hilì	envy
 hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
@@ -2056,6 +2057,7 @@ malikhain	creative
 malilimutin	forgetful
 malImit	often
 malimutan	to forget, neglect
+malinamnám	tasty
 malinaw	clear, obvious, apparent
 malinis	clean, neat, hygienic; clear, chaste
 malisya	malice
@@ -2070,6 +2072,7 @@ malunod	drown, be drowned (e.g. in joy)
 malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
+mamangkâ	to go by boat, to go boating (bangkâ)
 mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
@@ -2087,6 +2090,7 @@ man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 mana	inheritence (can be traits or wealth, etc.)
 manaig	prevail, override, overrule, conquer, predominate, surpass (daig)
 manakot	to scare (mang-)
+manang	devotee; elder sister
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
@@ -2121,12 +2125,14 @@ mangulo	to head, preside
 mang-uyam	to be sarcastic; to be mocking
 mangyari	to happen, take place
 manhid	numbness; torpor, torpid condition
+manibugho	to be jealous
 manirahan	to live for a while, dwell
 maniwala	to believe, trust (tiwala)
 manlamig	to be cold to someone
 manliligaw	suitor
 manloob	rob, steal; raid and rob with violence
 mano	the act of raising an elder's hand to your forehead to show respect; handful; by hand
+manong	older brother
 mánonoód	spectator, bystander, watcher
 manoód	to watch
 manukso	to tempt; to tease
@@ -2240,7 +2246,7 @@ matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
 matapos	after
 mataranta	to be confused
-mataranta	to be confused
+matáray	snobby, sassy, bitchy (referring to women)
 matauhan	to recover consciousness
 matengga	to be put on hold, suspended (actor); to put something on hold, suspend something (object)
 matigás	hard, tough, stiff
@@ -2840,6 +2846,7 @@ panatilIhin	to maintain
 panauhin	a guest
 panaw	sudden disappearance, departure, death (also pagpanaw)
 panawan	to abandon; be deprived of
+panáy	regularly
 panayam	interview (generally of two); conference
 pandak	short in stature
 pandaraya	act of cheating
@@ -2875,6 +2882,8 @@ pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
 pangungulila	homesickness
 pangungusap	sentence (grammar); remarks; expression
 pangyayari	happening, an incident
+panibugho	jealousy
+paninibugho	jealousy
 paniki	large bat which feeds on plants/fruits
 panindigan	to affirm; allege; maintain an argument, etc.; take the part of; uphold (pinapanindigan, pinanindigan, papanindigan)
 paningin	sense of sight, eyesight

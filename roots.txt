@@ -949,8 +949,8 @@ bumaligtád (baligtad) _um_ [verb] to turn over; to reverse
 báligtaran (baligtad) [adjective] reversible
 ibaligtád (baligtad) i_ [verb] to reverse; to turn over; to turn inside out; to turn upside down
 kabaligtarán (baligtad) ka_an [noun] opposite; contrary; antithesis; reciprocal; wrong side; [grammar] passive form
-balikan (balik) [noun] round trip
-balikbayan (balik) [noun] returnee
+balikan (balik) _an [noun] round trip
+balikbayan (balik) compound_ [noun] returnee
 balikán (balik) _an [verb] to return to something; to return for something; to return to somewhere
 balík (balik) rt_ [noun] return; restoration; a coming back
 balík-bayan (balik) [noun] returnee
@@ -2554,6 +2554,10 @@ gumibâ (giba) _um_ [verb] to demolish
 maggibâ (giba) mag_ [verb] to destroy; to demolish
 magibâ (giba) ma_ [verb] to collapse; to break down
 panggibâ (giba) pang_ [noun] anything used for demolishing
+gigil (gigil) rt_ [noun] gritting of the teeth because of suppressed anger; thrill from inexpressible emotion; overcome with cuteness; cuteness aggression
+gigíl (gigil) rt_ [adjective] trembling; thrill; thrilling; barely contained emotion; gritting of teeth from emotion; overwhelming emotion; Usually caused by anger, frustration or cuteness.
+nakakagigil (gigil) nakaka_ [adjective] causing trembling; causing a thrill; causing barely contained emotion; causing gritting of teeth from emotion; causing an overwhelming emotion; (usually from anger, frustration or cuteness)
+manggigil (gigil) mang_ [verb] to shake because of strong emotion; to grit one's teeth because of suppressed emotion (typically anger or cuteness)
 giít (giit) rt_ [noun] insistence; assertion
 igiít (giit) i_ [verb] to insist on something; to assert something
 maggiít (giit) mag_ [verb] to insist; to affirm
@@ -7398,23 +7402,23 @@ pagtatapón (tapon) [noun] wasting (of resources, etc.)
 patapón (tapon) [adjective] good-for-nothing
 tapon (tapon) rt_ [noun] waste; deportee; exile
 tapunan (tapon) _an [verb] to throw toward/at something; to shoot a look at someone/something; to cast a glance at someone/something
-tapunán (tapon) [noun] place to throw something away; trash dump; rubbish dump; place of deportation
+tapunán (tapon) _an [noun] place to throw something away; trash dump; rubbish dump; place of deportation
 tapón (tapon) rt_ [noun] cork; plug; tap; stopper
 ipatapos (tapos) ipa_ [verb] to have someone finish something; to let someone finish something
-katapusán (tapos) [noun] end; conclusion
-katatapos (tapos) [adjective] recently concluded; just finished
+katapusán (tapos) ka_an [noun] end; conclusion
+katatapos (tapos) kaCV_ [adjective] recently concluded; just finished
 magtapós (tapos) mag_ [verb] to graduate
 makapagtapós (tapos) makapag_ [verb] to be able to finish; to be able to graduate
 makatapos (tapos) maka_ [verb] to be able to complete; to be able to finish something; to achieve
 matapos (tapos) ma_ [adverb] after
 matapos (tapos) ma_ [verb] to finish (AF); to finish something (OF)
 pagkatapos (tapos) pagka_ [adverb] then; and then; and afterwards; after; afterward; after doing; next; [noun] the manner in which something was completed
-pagkatapos noón (tapos) after that; after then
-pagtapos (tapos) [noun] completion; perfection; termination
-pagtatapós (tapos) [noun] finishing; graduating; graduation
+pagkatapos noón phr_ (tapos) after that; after then
+pagtapos (tapos) pag_ [noun] completion; perfection; termination
+pagtatapós (tapos) pagCV_ [noun] finishing; graduating; graduation
 patapusin (tapos) pa_in [verb] to let someone finish
 tapos (tapos) rt_ [noun] then; end; finished; done; complete; concluded; conclusion; last in a series
-tapos na (tapos) [adjective] done; over; finished
+tapos na (tapos) phr_ [adjective] done; over; finished
 tapusin (tapos) _in [verb] to finish something; to finish something off; to complete something; to conclude something
 tapós (tapos) rt_ [adjective] finished; completed; accomplished; being all done
 tumapos (tapos) _um_ [verb] to finish
@@ -7423,8 +7427,12 @@ matapyás (tapyas) ma_ [verb] to chip
 pagtapyás (tapyas) pag_ [noun] chipping; chipping away
 tapyás (tapyas) rt_ [noun] chip; facet
 matarantá (taranta) ma_ [verb] to be perturbed; to be bewildered; to be confused; to be rattled; to be baffled
-tarantado (taranta) _do [adjective] foolish; shameless; disrespectful; stupid; idiot
+tarantado (taranta) sp_ [adjective] foolish; shameless; disrespectful; stupid; idiot
 tarantá (taranta) rt_ [adjective] perturbed; rattled; confounded
+tarayan (taray) _an [verb] to be rude to someone
+mataray (taray) ma_ [adjective] rude; unkind; finding fault
+taray (taray) rt_ [noun] harshness; strictness; rudeness
+pagtataray (taray) pagCV_ [noun] being rude; being harsh
 tasa (tasa) rt_ [noun] cup; mug; assessment; estimate
 magtasa (tasa) mag_ [verb] to estimate; to assess; to evaluate
 pantasá (tasa) pang_ [noun] sharpener; pencil sharpener
