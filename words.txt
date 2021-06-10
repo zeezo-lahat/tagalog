@@ -94,6 +94,7 @@ alám	knowledge, to know
 alamat	folklore, tradition, legend, myth
 alamin	to find out, to investigate
 álang-alang	regard, consideration, awe; for the sake of, on behalf of
+alás	(n) ace
 alat	saltiness
 alay	offering
 albularyo	traditional healer, medicine man; quack doctor, charlatan
@@ -849,6 +850,7 @@ hikahós	needy, poor, bankrupt
 hila	pull
 hilaga	north
 hilahin	to pull
+hilakbót	fear, terror
 hilaw	uncooked, raw; green; unripe
 hilì	envy
 hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
@@ -1118,6 +1120,7 @@ kabaong	coffin, casket
 kabatáan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
+kabayo	horse
 kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
@@ -1941,6 +1944,7 @@ mahigpit	tight, tightly; strict, severe
 mahilig	fond of
 mahina ang tuhod	“weak-kneed” = having a frail body
 mahinahon	calm, cool, dispassionate, self assured; mild; calmly, mildly
+mahinhín	modest
 mahirap	difficult; poor, indigent
 mahirapan	experience difficulty; experience labor in childbirth
 mahulaan	to be able to guess
@@ -2055,6 +2059,7 @@ malikhain	creative
 malilimutin	forgetful
 malImit	often
 malimutan	to forget, neglect
+malinamnám	tasty
 malinaw	clear, obvious, apparent
 malinis	clean, neat, hygienic; clear, chaste
 malisya	malice
@@ -2069,6 +2074,7 @@ malunod	drown, be drowned (e.g. in joy)
 malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
+mamangkâ	to go by boat, to go boating (bangkâ)
 mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
@@ -2076,6 +2082,7 @@ mamasukan	to have a job
 mamayâ pa	not now, but later today
 mamayâ	later today
 mamayan	to live or reside in a town (báyan)
+mambabae	fool around with women; to have a mistress
 mamilipit	to writhe, squirm, convulse
 maminsan-minsan	occasionally
 mamuhunan	to invest
@@ -2085,6 +2092,7 @@ man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 mana	inheritence (can be traits or wealth, etc.)
 manaig	prevail, override, overrule, conquer, predominate, surpass (daig)
 manakot	to scare (mang-)
+mánang	elder sister; a familiar term for a woman in her 40’s or thereabouts even if not related to her
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
@@ -2119,12 +2127,14 @@ mangulo	to head, preside
 mang-uyam	to be sarcastic; to be mocking
 mangyari	to happen, take place
 manhid	numbness; torpor, torpid condition
+manibugho	to be jealous
 manirahan	to live for a while, dwell
 maniwala	to believe, trust (tiwala)
 manlamig	to be cold to someone
 manliligaw	suitor
 manloob	rob, steal; raid and rob with violence
 mano	the act of raising an elder's hand to your forehead to show respect; handful; by hand
+mánong	older brother; from the Spanish hermano. This is the male equivalent of manang.
 mánonoód	spectator, bystander, watcher
 manoód	to watch
 manukso	to tempt; to tease
@@ -2238,11 +2248,12 @@ matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
 matapos	after
 mataranta	to be confused
-mataranta	to be confused
+matáray	snobby, sassy, bitchy (referring to women)
 matauhan	to recover consciousness
 matengga	to be put on hold, suspended (actor); to put something on hold, suspend something (object)
 matigás	hard, tough, stiff
 matigil	to be stopped or suspended; taken aback, briefly shocked; stop; come to an end
+matimtíman	mahinhín, may natatanging hinhin (pagsasaalang-alang sa kagandahang-asal at wastong pananamit, pagsasalita, at pagkilos
 matindi	intense, severe, extreme (syn. grabe, sobra)
 matinding-matindi	very severe
 matingkad	bright (colored)
@@ -2875,6 +2886,8 @@ pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
 pangungulila	homesickness
 pangungusap	sentence (grammar); remarks; expression
 pangyayari	happening, an incident
+panibugho	jealousy
+paninibugho	jealousy
 paniki	large bat which feeds on plants/fruits
 panindigan	to affirm; allege; maintain an argument, etc.; take the part of; uphold (pinapanindigan, pinanindigan, papanindigan)
 paningin	sense of sight, eyesight
@@ -3035,6 +3048,7 @@ pira-piraso	pieces, bits, fragments
 piraso	piece, bit, fragment, portion
 pisì	twine
 pisngí	cheek
+pitak	portion, segment, partition
 pitaka	wallet, purse, billfold
 pitpit	flattened by beating, pounded
 podér	power; authority
@@ -3203,6 +3217,7 @@ saligang-batas	national constitution
 salisi	alternately, in opposite directions
 salitâ	word; language; talk
 salitain	to put into words
+salóp	a quantity or container of rice (also: ganta (dry measure of 3 liters))
 salot	epidemic, pest, plague
 salpók	collision, impact (syn of banggâ)
 saltík	crazy

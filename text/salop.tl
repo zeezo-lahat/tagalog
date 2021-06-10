@@ -12,9 +12,11 @@ SALOP
 
    Kapag puno na ang salop, kinakalos.
    When the container is full, the excess is shaved off.
+
+   Sa paghahangad ng kagitna isang salop ang nawala.
      __________________________________________________________________
 
-KAHULUGAN SA TAGALOG
+MGA KAHULUGAN SA TAGALOG
 
    salóp: súkat na halos katumbas ng 3 litro, lalo na sa mga butil
 
