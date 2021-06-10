@@ -29,7 +29,7 @@ f = open(args.infile, 'r')
 myinput = f.read()
 
 if args.count:
-    dothismany = int(args.count)
+    dothismany = 99999 if int(args.count) == 0 else int(args.count)
 else:
     dothismany = 10
 
@@ -50,7 +50,7 @@ while count < dothismany and linecount <= availablelines:
         myout = mylist.pop(0)
         linecount = linecount + 1
     except:
-        print('out of lines.  sorry..')
+        print('ubos na..')
         exit()
     
     if myout.find(_mysep) < 0:
