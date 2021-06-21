@@ -918,6 +918,8 @@ magbakasyón (bakasyon) mag_ [verb] to go on a vacation
 makapagbakasyón (bakasyon) maka_ [verb] to be able to vacation; to be able to take a vaction
 pagbabakasyón (bakasyon) pagCV_ [noun] vacationing
 pagbakasyunán (bakasyon) pag_an [verb] to spend a vacation somewhere
+bakát (bakat) rt_ [noun] trace; mark; scar; outline
+bumakát (bakat) _um_ [verb] to trace; to outline
 bakod (bakod) rt_ [noun] fence; enclosure
 bakuran (bakod) _an [noun] yard; backyard; premises
 bakuna (bakuna) rt_ [noun] vaccine; vaccination
@@ -1652,6 +1654,8 @@ bungguan (bunggo) _an [noun] collision
 bungguín (bunggo) _in [verb] to collide with
 bunggô (bunggo) rt_ [noun] collision; impact
 nakabunggô (bunggo) naka_ [adjective] collided
+bungì (bungi) rt_ [noun] missing tooth; missing teeth
+bungî (bungi) rt_ [adjective] gap toothed; with a missing tooth or teeth
 bumunot (bunot) _um_ [verb] to pull up; to uproot
 bunot (bunot) rt_ [noun] pulling out; drawing
 bunutan (bunot) _an [verb] to pull out; to pull up; to draw out
