@@ -2,4 +2,5 @@
 tmp
 bla
 bar
+__pycache__
 !.gitignore

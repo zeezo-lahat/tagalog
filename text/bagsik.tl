@@ -2,8 +2,6 @@
 
 BAGSIK
 
-   kabangisan, kalupitan; katindihan, kasidhian; potensiya, lakas, bisa,
-   kapangyarihan
    bagsík
    cruelty, severity, fierceness
 
@@ -36,3 +34,6 @@ MGA KAHULUGAN SA TAGALOG
 
    Naisip din niya kung ga’no kaya katagal pinag-aralan ng pulis na
    bagsikan ang boses nito.
+
+   kabangisan, kalupitan; katindihan, kasidhian; potensiya, lakas, bisa,
+   kapangyarihan

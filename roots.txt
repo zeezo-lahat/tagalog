@@ -827,6 +827,8 @@ pabagsakín (bagsak) pa_in [verb] to bring someone/something down; to overthrow 
 pabagsák (bagsak) pa_ [adverb] heavily; downward
 pagbagsák (bagsak) pag_ [noun] sudden fall; sudden crash; failure; downfall; bankruptcy; [adjective] failed; fallen; broken down; defeated; bankrupt.
 pagpapabagsák (bagsak) pagpapa_ [noun] crashing; downing; collapsing
+bagsík (bagsik) rt_ [noun] fierceness
+mabagsík (bagsik) ma_ [adjective] fierce; ferocious; cruel; atrocious
 bagyuhín (bagyo) _in [verb] to be hit by a typhoon
 bagyó (bagyo) rt_ [noun] typhoon; hurricane; large storm; cyclone
 bumagyó (bagyo) _um_ [verb] to have a typhoon; to have a hurricane; to have a storm
@@ -2608,6 +2610,9 @@ sa pamamagitan ng (gitan) phr_ [adverb/preposition] through; by means of; with t
 gitgitan (gitgit) _an [adjective] crowded
 gitgít (gitgit) rt_ [noun] gnashing of teeth
 gumitgít (gitgit) _um_ [verb] to hustle
+magiting (giting) ma_ [adjective] brave; heroic; courageous; valliant
+kagitingan (giting) ka_an [noun] heroism; courage; bravery
+giting (giting) rt_ [noun] heroism; courage
 gitnâ (gitna) rt_ [noun] center; middle; between
 gumitnâ (gitna) _um_ [verb] to get in the middle; to go to the center; to mediate
 igitnâ (gitna) i_ [verb] to put in the center or in the middle

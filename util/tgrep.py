@@ -1,8 +1,9 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python
 from collections import defaultdict
 import sys
 import re
 
+# expand matches for the vowels, so that eg "a" matches "à", "á", etc.
 _a = '[aAáàâ]'
 _e = '[eEé]'
 _i = '[iIíìî]'
