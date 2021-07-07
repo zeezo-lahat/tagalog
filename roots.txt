@@ -1462,7 +1462,6 @@ palabirô (biro) pala_ [adjective] likes to joke around; joker
 puwera birò (biro) phr_ [phrase] no kidding
 bisà (bisa) rt_ [noun] effectiveness; force; strength; power
 mabisà (bisa) ma_ [adjective] effective; works well
-magkabisá (bisa) magka_ [verb] to memorize
 may bisà (bisa) phr_ [adjective] valid
 pawawaláng-bisa (bisa) paCV_ [noun] voiding; cancelling out
 pinakamabisà (bisa) pinakama_ [adjective] most effective
@@ -3673,6 +3672,7 @@ kabado (kaba) sp_ [adjective] in doubt; nervous
 kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
 kabá (kaba) rt_ [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
 nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
+magkabisá (kabisa) magka_ [verb] to memorize
 ikabít (kabit) i_ [verb] to fasten; to attach; to hang
 kabitan (kabit) _an [noun] mounting; mount;
 kabitán (kabit) _an [verb] to attach; to fasten

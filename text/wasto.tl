@@ -20,8 +20,8 @@ MGA KAHULUGAN SA TAGALOG
    Mali : Makipot ang bunganga ng sanggol.
    Wasto : Makipot ang bibig ng sanggol.
 
-   Mali : Maluwang ang bibig ng pating
-   Wasto : Maluwang ang bunganga ng pating
+   Mali : Maluwang ang bibig ng pating.
+   Wasto : Maluwang ang bunganga ng pating.
 
    Mali : May kahali-halinang pagmumukha si Michelle.
    Wasto : May kahali-halinang mukha si Michelle.
