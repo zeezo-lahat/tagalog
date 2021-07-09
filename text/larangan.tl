@@ -2,7 +2,7 @@
 
 LARANGAN
 
-   larang
+   root word: lárang
    larangan
    domain, field of knowledge
 
@@ -20,5 +20,8 @@ MGA KAHULUGAN SA TAGALOG
 
    larángan: maluwang na tagpuan ng isang mahalagang pangyayari
 
-   lárang: disiplina o saklaw ng pag-aaral na akademiko ; dibisyon ng mga
+   lárang: disiplina o saklaw ng pag-aaral na akademiko; dibisyon ng mga
    kursong akademiko
+
+   mga larangang may kinalaman sa batas, edukasyon, administrasyong
+   pampulitiko, pangangalakal, at serbisyo publiko
