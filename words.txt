@@ -526,6 +526,7 @@ buuin	to complete
 buwán	month, moon
 buwang	crazy (Visayan)
 buwaya	crocodile
+buwelta	pagbabalik, return (also bwelta)
 buwis	tax, tariff, cropshare
 daán	hundred
 daán	road, path, way
@@ -1130,6 +1131,7 @@ kabayo	horse
 kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
+kabisá	(kabesá) sp. "cabeza".  "head"/pinuno; or referring to memorizing or knowing / being familiar with something
 kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
@@ -1182,6 +1184,7 @@ kahit paano	somehow
 kahit papaano	somehow; in some way; whatever happens
 kahit sino	anyone
 kahit	despite, although, even, even if (khit)
+kahol	bark, as of a dog (also tahól)
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
 kaibahan	a difference
@@ -1394,7 +1397,7 @@ katawanín	to represent/symbolize/embody something (-in, obj. focus)
 katawá-tawá	ridiculous, laughable
 katibayan	proof
 katigasan	hardness, firmness, stiffness, inflexibility, determination
-katitíng	very small (size or amount), tiny, minute; particle; bit; iota; very small amount (napakaliit, katitíng)
+katitíng	very small (size or amount), tiny, minute; particle; bit; iota; very small amount (napakaliit)
 katiwalian	irregularity, corruption
 katók	knock
 katol	mosquito coil (a coil used to kill mosquitos.  this is a brand name.)
@@ -3482,6 +3485,7 @@ tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
 tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
+tahól	bark, as of a dog (also kahol)
 tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 tákad	base, foundation, system (batayán)
@@ -3855,7 +3859,7 @@ walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
 wasak	ruin, destroy
-wasto	proper, correct, in order
+wastô	proper, correct, in order
 watáwat	flag, ensign, banner
 welga	a workers' strike (sp. "huelga")
 windang	torn apart; torn into tatters

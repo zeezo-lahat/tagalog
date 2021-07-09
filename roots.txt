@@ -1462,7 +1462,6 @@ palabirô (biro) pala_ [adjective] likes to joke around; joker
 puwera birò (biro) phr_ [phrase] no kidding
 bisà (bisa) rt_ [noun] effectiveness; force; strength; power
 mabisà (bisa) ma_ [adjective] effective; works well
-magkabisá (bisa) magka_ [verb] to memorize
 may bisà (bisa) phr_ [adjective] valid
 pawawaláng-bisa (bisa) paCV_ [noun] voiding; cancelling out
 pinakamabisà (bisa) pinakama_ [adjective] most effective
@@ -2948,6 +2947,9 @@ mahawakan (hawak) ma_an [verb] to be able to hold something
 makahawak (hawak) maka_ [verb] to be able to hold onto something
 mapahawak (hawak) mapa_ [verb] to hold something accidentally or unintentionally
 nakahawak (hawak) naka_ [adjective] holding onto something
+hayaan (haya) _an [verb] to let something be; to allow something; to let someone/something do something; to leave something; to not disturb something; to let something happen; to never mind something
+hamó (haya) compound_ [expression] don't worry about it; let him/her/it be; * shortened form of "hayaan mo"
+hayà (haya) rt_ [noun] tolerance of an act
 hayagan (hayag) _an [adverb] in public; openly; without restraint
 hayág (hayag) rt_ [adjective] conspicuous; easily seen; public
 ihayág (hayag) i_ [verb] to declare something; to announce something; to express something; to reveal something
@@ -3194,7 +3196,7 @@ maghiwaláy (hiwalay) mag_ [verb] to separate; to separate from one another; to 
 magkahiwaláy (hiwalay) magka_ [adjective] separated; [adverb] separately
 magkáhiwaláy (hiwalay) magka_ [verb] to become separate; to become separated; to have a separation
 mahiwaláy (hiwalay) ma_ [verb] to be separated; to be set apart of isolated
-pághiwalayín (hiwalay) pag_an [verb] to separate one from another
+pághiwalayín (hiwalay) pag_in [verb] to separate one from another
 Pahiyá ka no? (hiya) phr_ [expression] Wasn't that embarrassing?
 dyahe (hiya) slang_ [adjective] embarrassing; shameful; awkward; (slang)
 hiyang-hiyâ (hiya) rt_na_rt [adjective] embarrassed
@@ -3670,6 +3672,7 @@ kabado (kaba) sp_ [adjective] in doubt; nervous
 kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
 kabá (kaba) rt_ [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
 nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
+magkabisá (kabisa) magka_ [verb] to memorize
 ikabít (kabit) i_ [verb] to fasten; to attach; to hang
 kabitan (kabit) _an [noun] mounting; mount;
 kabitán (kabit) _an [verb] to attach; to fasten
