@@ -7231,7 +7231,11 @@ matamís (tamis) [adjective] sweet; [noun] sweets; dessert
 minatamís (tamis) [noun] something (usually fruit) preserved in syrup
 napakatamís (tamis) [adjective] very sweet
 tamís (tamis) rt_ [noun] sweetness
-tamís-tamís (tamis) [adjective] very sweet
+tamís-tamís (tamis) rt_rt [adjective] very sweet
+matamláy (tamlay) ma_ [adjective] weak; frail; fatigued; languid; faint
+tamláy (tamlay) rt_ [noun] fatigue
+pananamláy (tamlay) panang_ [noun] lethargy; depression; lassitude
+tumamláy (tamlay) _um_ [verb] to become lethargic
 magtamó (tamo) mag_ [verb] to acquire; to reap; to attain; to elicit
 matamó (tamo) ma_ [verb] to attain something (OF); to reap something (OF); to receive something (OF)
 pagtatamo (tamo) pagCV_ [noun] acquiring; attaining

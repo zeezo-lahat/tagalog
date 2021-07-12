@@ -147,6 +147,7 @@ ang mga marálitâ	the extremely poor
 ang	marker (usually said as "yung" in conversation)
 angas	a show-off, boastful person
 angilan	to snarl at, to growl at
+angkán	family, clan; lineage, ancestry
 ani	crop, harvest
 ani	said by
 anihin	to harvest
@@ -1302,6 +1303,7 @@ kapatagan	plain; plains (geography)
 kapatíd	sibling
 kapatiran	fraternity, brotherhood
 kapayapaan	peace, tranquility
+kapílyuhán	mischief, misbehavior
 kapit	hold, grasp
 kapitan	to hold, to grasp
 kapit-bahay	neighbor "adjacent house"
@@ -1805,7 +1807,7 @@ maganáp	to happen, take place (syn. mangyari)
 magandá	beautiful, pretty, lovely
 magarbo	graceful, elegant
 magastos	costly
-magawa	to be able to do; to happen or be done
+magawâ	to be able to do; to happen or be done
 magbaba	to lower
 magbagá	to burn brightly/hot
 magbago	to change, reform, mend
@@ -2169,6 +2171,7 @@ mapait	bitter, acidic
 mapakagát	to make someone bite, to make someone agree to something, to bite something involuntarily, to agree to something involuntarily
 mapalad	grateful
 mapalaya	to free someone/something
+mapaliwanag	to be able to explain something
 mapamahiin	superstitious
 mapanalunan	to win
 mapangitî	to cause someone to smile; to smile involuntarily or suddenly
@@ -2248,7 +2251,7 @@ matalas	sharp (lit/fig), keen; acute; sharp (ref. to the intellect or hearing)
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matamaan	to come against with force
-matamlay	lethargic, listless, languid, having no energy
+matamláy	lethargic, listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
 matandâ	old
@@ -2314,6 +2317,7 @@ miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
 mithî	ideal; earnest wish
+mithiin	crave for, long for keenly, desire vehemently
 morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
@@ -2630,7 +2634,7 @@ pagbilhán	to sell to someone; to sell somewhere
 pagbubukas	the time being open, as in a store
 pagbukud-bukurin	to sort, classify
 pagdaanan	to go through/endure something; to bring something to someone
-pagdating	upon arriving, when arrived; as for.., as far as.., regarding.. (pagdating sa)
+pagdatíng	upon arriving, when arrived; when it comes to / as for / as far as / regarding.. (pagdating sa)
 pagdikitin	to stick things together
 pagdinig	a hearing (judicial, etc.)
 pagdiriwang	ceremony, celebration
