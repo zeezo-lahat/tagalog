@@ -6612,6 +6612,11 @@ may-sindí (sindi) [adjective] kindled
 sindihán (sindi) _an [verb] to light something; to light some on fire; kindle something
 sindí (sindi) rt_ [noun] lighter; kindle; spark
 sumindí (sindi) _um_ [verb] to ignite; to light up
+singilín (singil) _in [verb] to collect payment from someone; to charge someone
+maningíl (singil) mang_ [verb] to collect payment; to collect a debt
+singíl (singil) rt_ [noun] charge; collection
+paniningíl (singil) pangCV_ [noun] bills; debt collecting
+tagasingíl (singil) taga_ [noun] collector
 isingit (singit) i_ [verb] to put in between; to fit something in; to squeeze something in; to insert;
 maisingit (singit) mai_ [verb] to be able to fit something in; to be able to squeeze something in
 makasingit (singit) maka_ [verb] to be able to squeeze in; to be able to fit
