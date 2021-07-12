@@ -272,6 +272,7 @@ bakuran	(front) yard; premises
 bakwit	evacuate
 bála	bullet, pellet, slug
 bala	threat, warning
+balagat	clavicle, collarbone (klabikula)
 balaghán	wonder, amazement
 balahíbo	fine body hair, feather hair of fowls of woolly hair of animals, fur
 bálak	plan, intention
@@ -282,7 +283,7 @@ bálang-araw	someday, one day
 balangkas	framework, plan
 balasa	shuffling (of playing cards, etc.)
 balat	birthmark, patch on the skin
-balat	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
+balát	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
 bale	value; as if; equal in value to; cash advance; so
 bálewalâ	meaningless; worthless; of no value; not worthy of attention
 bále-walâ	not worth ones salt, not worthy
@@ -693,6 +694,7 @@ gana	appetite, enthusiasm, interest
 gana	to be in operation
 ganáp	complete, perfect, total, thorough; fulfilled, completed
 ganid	carnivore; tightwad; brute
+ganirí	like this, in this way/manner (gáya + nirî) (also gayarí)
 ganito	like this, in this manner (gaya nito)
 gantí	revenge, retribution, return
 ganyán	like that (gaya + niyan)
@@ -709,6 +711,7 @@ gawan	to do for, make for
 gawin	to do, perform, adapt, make
 gaya	(also kagaya) imitation; like, similar, followed by ng phrase
 gayák	dressed up; decoration, trimmings, intention
+gayarí	like this, in this way/manner (gáya + nirî) (also ganirí)
 gayón din naman	likewise
 gayón	such, like that (gaya + niyon)
 gayundin	likewise, in the same way
@@ -1006,7 +1009,7 @@ ilihim	to hide, keep secret
 ilipat	to move/transfer something
 ilong	nose
 imbes na	instead of (sa halip na)
-ina	mother
+iná	mother
 inaasahan	is expected to..
 inagaw	to snatch
 inagawan	to deprive
@@ -1105,7 +1108,7 @@ iugnay	to connect
 iuwi	to take someone home
 iwan	leaving, abandoning, omitting
 iwas	avoidance
-iyak	crying
+iyák	crying
 iyong	informal "ang", like "yung"
 jack-en-poy	rock-paper-scissors
 jokla	gay
@@ -1391,6 +1394,7 @@ katápátan	loyalty, integrity
 katapusan	the end
 katapus-tapusan	the very end
 katarantahan	state of confusion, bewilderment
+katarúngan	justice
 katatapos	just finished something (focus on the something) (alt kakatapos)
 katawán	body
 katawanín	to represent/symbolize/embody something (-in, obj. focus)
@@ -2013,6 +2017,7 @@ makasarili	selfish
 makatà	poet
 makatagpô	to discover, come across
 makatao	humanitarian, humane
+makatarúngan	just, fair
 makatí	itchy
 makatotohanan	realistic
 makatulog	to be able to sleep
@@ -2116,6 +2121,7 @@ manduhan	to be in authority over
 mandurukot	pickpocket
 maneho	management; act of managing; driving (vehicle)
 manermon	to give a sermon
+mang	shortened "mamang = mamà + na", used like "mister <foo>", where <foo> is always a first name, eg "mang freddie"
 mang-aagaw	someone who snatches away (a thing or lover)
 mang-ahit	to shave someone
 mangahulugan	to mean, denote, signify
@@ -2669,7 +2675,7 @@ pagkakámali	mistake
 pagkakaroon	having, availability
 pagkakasabi	how something was said
 pagkakasundo	consensus
-pagkakataon	an opportunity or occasion (pangalawang pagkakataon -> 2nd chance)
+pagkakátaón	an opportunity or occasion (pangalawang pagkakataon -> 2nd chance)
 pagkalakhán	to grow up with someone (laki)
 pagkalipas	passing, passage, having passed (also paglipas)
 pagkalito	confusion
@@ -3120,7 +3126,7 @@ puta	used as general curse (fuck, etc.), literally: whore
 putahe	viand; dish; course (part of a meal)
 putang iná	"fuck you", your mother is a whore
 putik	mud (often used as an inoffensive substitute for the word puta)
-putikan	a muddy place
+putikán	a muddy place
 puto maya	is made by steaming glutinous or sticky rice and coconut milk ("fake" puto)
 puto	white cake made from rice flour
 putók batok	a meal that may cause you to have a heart attack or stroke
@@ -3275,7 +3281,7 @@ sapa	small stream, brook
 sapagkát	because, since
 sapak	hit, punch, smack, beat
 sápit	arrival
-sapok	a hit, punch
+sapok	a hit, punch (buntal, bigawas, suntok, dagok, dunggol)
 sapól	at the very beginning; straight, direct
 sapúl	since; to hit a target (syn. tamaan)
 sará	closed; to close
@@ -3408,6 +3414,7 @@ sumakáy	to ride
 sumali	to join, participate
 sumama	to go with, join
 sumapì	to join
+sumapit	to arrive; to have the time arrive; to reach; to reach a destination (sapit)
 sumasailalim	comes/falls over the purview of
 sumaya	to cheer up
 sumbong	complaint, accusation
@@ -3477,11 +3484,13 @@ taglagas	autumn
 tagláy	possessing, possessed
 tagò ng tagò	(TNT) illegal immigrant
 tagò	hide
+tagós	penetrating (adj)
 tagpô	scene, circumstances
 tagpuan	meeting place, rendezvous
 tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
+tagusán	to pierce
 tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
@@ -3499,19 +3508,20 @@ takdâ	measure, limitation, limit, restriction; stated, limited, restricted
 takdang-aralin	lesson assignment (school homework)
 takdang-araw	assigned date
 takdang-oras	time limit, death
-takíp	(n) cover; lid; cap (takíp)
+takíp	cover, lid, cap (takíp)
 takipan	(n) covering up faults (takíp)
-takíp-matá	(n) eyelid
-takip-silim	twilight; dusk
+takíp-matá	eyelid
+takip-silim	twilight, dusk
 takot	fear
 takót	scared, fearful
 takpán	to cover something (takíp)
 taksil	not to be trusted; traitor; traitorous
 takutin	to frighten
 takwil	renunciation
-talâ	a list, record; notes (root)
+talâ	a list, record; notes
 taláhib	tall grass
 talahuluganan	glossary
+talakay	discussion
 talakayan	discussion
 talakayin	to discuss
 talamák	serious, critical, hard to cure; fallen; addicted
@@ -3796,7 +3806,7 @@ umiinom	drinking
 umiiral	is existing
 umíral	existed
 umiskór	to score
-umiyak	to cry/cried
+umiyák	to cry/cried
 umpisá	beginning, start
 umunawá	to understand, to grasp mentally
 umurong	to retreat, withdraw, retract

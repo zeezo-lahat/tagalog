@@ -4280,6 +4280,10 @@ lagót (lagot) rt_ [adjective] cut off; broken; snapped
 lumagót (lagot) _um_ [verb] to cut; to snap
 malagután ng hiningá (lagot) ma_an [verb] to die; * literally to have one's breath cut off
 malagót (lagot) ma_ [verb] to snap; to break
+lagpás (lagpas) rt_ [adjective/adverb] past (in distance); beyond; exceeding; excessive; overlapping
+lumagpás (lagpas) _um_ [verb] to go beyond; to exceed; to go past; to go too far
+malagpasán (lagpas) ma_an [verb] to get past something; to overcome something
+palagpasín (lagpas) pa_in [verb] to pass something up; to miss out on the chance to do something
 ilahád (lahad) i_ [verb] to expose something; to reveal something; to put something out for display
 lahád (lahad) rt_ [noun] unfolding; offering one's hand
 maglahád (lahad) mag_ [verb] to expose
@@ -4652,9 +4656,9 @@ ligáw (ligaw) rt_ [adjective] wild; undomesticated; stray; astray; feral
 lumigaw (ligaw) _um_ [verb] to court; to date; to woo; to seek to marry
 maligáw (ligaw) ma_ [verb] to be lost; to wander; to stray; to go astray; to lose one's way; to be wild / untamed
 manligaw (ligaw) mang_ [verb] to date; to court; to woo
-manliligaw (ligaw) suitor; lover
-pagkaligáw (ligaw) [noun] wandering; being lost; aberration
-panliligaw (ligaw) [noun] wooing; courting
+manliligaw (ligaw) mangCV_ [noun] suitor; lover
+pagkaligáw (ligaw) pagka_ [noun] wandering; being lost; aberration
+panliligaw (ligaw) pangCV_ [noun] wooing; courting
 Maligayang batì (ligaya) Happy birthday!
 kaligayahan (ligaya) ka_an [noun] happiness; joy; bliss
 ligaya (ligaya) rt_ [noun] joy; happiness; delight
@@ -4664,8 +4668,8 @@ aligíd (ligid) a_ [adjective/adverb] lingering; hovering
 kapaligirán (ligid) kapa_an [noun] surroundings; environment; atmosphere
 ligid (ligid) rt_ [noun] circumference; surroundings; atmosphere
 lumigid (ligid) _um_ [verb] to encircle; to surround
-paligid (ligid) [noun] surroundings; vicinity; periphery; environment
-liguan (ligo) [noun] bathing area; lagoon; swimming area
+paligid (ligid) pa_ [noun] surroundings; vicinity; periphery; environment
+liguan (ligo) _an [noun] bathing area; lagoon; swimming area
 ligò (ligo) rt_ [noun] bath; taking a bath / shower
 magpaligò (ligo) magpa_ [verb] to give a bath to
 makaligò (ligo) maka_ [verb] to be able to bathe; to be able to take a shower
@@ -6686,12 +6690,15 @@ masiyahán (siya) ma_an [verb] to approve; to be satisfied; to be contented
 siyá (siya) rt_ [pronoun] he / she / it; him / her / it; [noun] pleasure; [adjective] sufficient; * gender neutral pronoun
 sya (siya) rt_ [pronoun] him/her (shortened form of "siya")
 syá ay (siya) [phrase] he/she is (shortened form of "siya ay")
-ikasiyám (siyam) [adjective] ninth
-labinsiyám (siyam) [adjective] nineteen (19)
-pansiyám (siyam) [adjective] ninth
-siyamnapû (siyam) [number] ninety (90)
+ikasiyám (siyam) num_ [adjective] ninth
+labinsiyám (siyam) num_ [adjective] nineteen (19)
+pansiyám (siyam) num_ [adjective] ninth
+siyamnapû (siyam) num_ [number] ninety (90)
 siyám (siyam) rt_ [number] nine (9)
 tig-siyám (siyam) [adjective] nine for each
+pagsisiyasat (siyasat) pagCV_ [noun] investigation; inquiry
+siyasatin (siyasat) _in [verb] to check out something; to investigate something; to examine something; to explore something
+magsiyasat (siyasat) mag_ [verb] to check; to investigate
 masóbrahán (sobra) ma_an [verb] to have or put too much of something
 sobra (sobra) rt_ [adjective] too much; excessive; super; extreme; so; more than; [noun] excess; surplus; extra;
 sobrahán (sobra) _an [verb] to overdo something; to do too much of something
@@ -7005,6 +7012,8 @@ taguan (tago) _an [verb] to hide oneself from something/someone
 taguán (tago) [noun] hiding place; hide-and-seek (children's game)
 tagò (tago) rt_ [adjective] hidden, secluded
 tagô (tago) rt_ [adjective] hidden; concealed; inconspicuous; obscure; secret; covert
+tagós (tagos) rt_ [adjective] penetrating
+tumagós (tagos) _um_ [verb] to pierce; to penetrate
 katagpô (tagpo) ka_ [noun] date
 magtagpô (tagpo) mag_ [verb] to meet; to encounter; to converge
 makatagpô (tagpo) maka_ [verb] to be able to meet; to be able to find; to be able to encounter
