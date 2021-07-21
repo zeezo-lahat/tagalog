@@ -119,7 +119,6 @@ akó ay (ako) phr_ [phrase] I am
 makaakó (ako) maka_ [adjective] conceited; egotistical
 nakó (ako) contraction_ shortened / informal for "na ako" or "na ko" (now + I)
 pa akó (ako) phr_ I still
-pangkaraniwan (karaniwan) pang_ [adjective] normal; typical
 umakò (ako) _um_ [verb] to take on; to take on the responsibility of
 aksayahín (aksaya) _in [verb] to waste something; * focus on the thing being wasted
 aksayá (aksaya) rt_ [noun] waste; wastefulness; wastage; [adjective] wasteful; wasted
@@ -2571,7 +2570,7 @@ paggiít (giit) pag_ [noun] asserting; insisting
 gilid (gilid) rt_ [noun] edge; border; rim; margin; side; brink; flank
 igilid (gilid) i_ [verb] to put something on its side
 itagilid (gilid) ita_ [verb] to lay something on its side
-tagilíd (gilid) [adjective] tilted; slanted; in danger of; not legal (slang)
+tagilíd (gilid) ta_ [adjective] tilted; slanted; in danger of; not legal (slang)
 tumagilíd (gilid) _um_ [verb] to tilt; to slant
 gilitán (gilit) _an [verb] to incise; to cut into
 gilít (gilit) rt_ [noun] cutting into small pieces; cutting; marking
@@ -2580,21 +2579,21 @@ guminhawa (ginhawa) _um_ [verb] to feel better; to comfort; to feel relief; to b
 kaginhawahan (ginhawa) ka_an [noun] easing; getting relief; comfort; convenience; resting
 maginhawa (ginhawa) ma_ [adjective] with ease; easy; comfortable
 gipitín (gipit) _in [verb] to cause someone to be desperate
-gipít (gipit) [adjective] desperate; scarce; pressed; pressured
+gipít (gipit) rt_ [adjective] desperate; scarce; pressed; pressured
 gumipít (gipit) _um_ [verb] to cause someone to be in straits
 ikagipít (gipit) ika_ [verb] to cause someone desperation
 kagipitan (gipit) ka_an [noun] dire straits; adversity; emergency
 magipít (gipit) ma_ [verb] to be short of something; to be desperate for something
 panggigipít (gipit) pangCV_ [noun] pressure
-ginisá (gisa) [noun] saute; [adjective] sauted
+ginisá (gisa) _in [noun] saute; [adjective] sauted
 gisado (gisa) [adjective] sauteed
 gisahín (gisa) _in [verb] to saute
-gisá (gisa) [noun] saute
+gisá (gisa) rt_ [noun] saute
 igisá (gisa) i_ [verb] to saute
 maggisá (gisa) mag_ [verb] to saute
 Gising na! (gising) [expression] Wake up now!
-gising (gising) [noun] awake; wake; wake from sleeping; waking
-gising na gising (gising) [adjective] wide-awake
+gising (gising) rt_ [noun] awake; wake; wake from sleeping; waking
+gising na gising (gising) rt_na_rt [adjective] wide-awake
 gisingin (gising) _in [verb] to awaken someone; to wake someone up; * focus on the person being woken up
 gumising (gising) _um_ [verb] to wake; to wake up; to awake; to arouse
 kagigising (gising) kaCV_ just (now/recently) woke up
@@ -3903,6 +3902,8 @@ maykathâ (katha) may_ [noun] author; writer
 katí (kati) rt_ [noun] itch; burning desire
 kumatí (kati) _um_ [verb] to itch
 makatí (kati) ma_ [adjective] itchy; [noun] a large, wealthy city in metro Manila
+katigan (katig) _an [verb] to support something; to vote for something; to endorse something; to approve of something
+katig (katig) rt_ [noun] boat outrigger
 katukín (katok) _in [verb] to knock on something
 katók (katok) rt_ [noun] knock; knocking
 kumatók (katok) _um_ [verb] to knock
@@ -5349,6 +5350,9 @@ mapagod (pagod) ma_ [verb] to get tired; to be tired; to feel tired
 nakakapagod (pagod) nakaka_ [adjective] tiring; exhausting
 pagod (pagod) rt_ [noun] tiredness; exhaustion
 pagód (pagod) rt_ [adjective] tired; weary; exhausted
+pagpág (pagpag) rt_ [noun] food made from left over / discarded food; dusting off; shaking off
+magpagpág (pagpag) mag_ [verb] to shake out dust, dirt or sand
+pagpagín (pagpag) _in [verb] to shake something out / off (e.g., shake off dirt, dust)
 ipahid (pahid) i_ [verb] to spread something on; to spread something out in a thin layer; to apply something on
 magpahid (pahid) mag_ [verb] to wipe; to smear
 pagpapahid (pahid) [noun] application; applying
