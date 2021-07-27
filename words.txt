@@ -293,6 +293,7 @@ baligtad	inside-out, upside-down (also 'baliktad')
 balik	return
 balikat	shoulder
 balik-balik	repeatedly
+baliktarin	to turn something over (lit/fig)
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balitaan	notify
 balot	wrapper, wrapping
@@ -558,6 +559,7 @@ dait	placed close to, united, fastened, attatched (also daíti, syn. to dikit)
 daíti	pagtabihin o pagdikitin ang dalawang bagay
 dakdák	(n) dunk; dunk a basketball
 dakdak	to chatter nonstop
+dakilà	great, distinguished, notable, illustrious, noble
 dako	direction, way; region of a body, spot, place
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
@@ -968,6 +970,7 @@ ibilí	to buy something for someone
 ibiníbigáy	giving something
 ibon	bird; wang (slang)
 ibukod	to set aside, to put to one side
+ibulgar	to expose, divulge, reveal something
 ibunyág	to reveal, expose, divulge, disclose
 idaan	to drop something by
 idadaos	will hold an event
@@ -1453,7 +1456,7 @@ kilanlín	to recognize someone, to admit something (-in)
 kilíg	tremble, shudder; giddiness
 kiligin	to be tickled pink
 kilikili	armpit
-kilos	action, movement, motion; demeanor, behavior, conduct, manner, attitude
+kilos	action, movement, motion; demeanor, behavior, conduct, manner, attitude (ásal)
 kinabahan	became nervous
 kinabukásan	future; the following day, the day after, the next day
 kinagabihan	on that night
@@ -1490,6 +1493,7 @@ kuko	fingernail, toenail, talon, hoof
 kukunin	will take/get
 kúlang	deficient, lacking, inadequate
 kulay	color
+kulélat	performs badly, comes in last in competition
 kuli	retraction, revocation
 kulit	peskiness
 kulitin	to badger, pester
@@ -2331,6 +2335,7 @@ mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
 mithî	ideal; earnest wish
 mithiin	crave for, long for keenly, desire vehemently
+módo	manners, civility (asal, ugalì)
 morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
@@ -3095,6 +3100,7 @@ pósas	handcuffs
 preno	brake
 preso	prisoner
 prito	fried
+pruweba	proof
 pugad	nest
 pugante	fugitive
 puhúnan	investment
@@ -3730,6 +3736,7 @@ tumayo	to stand up
 tumestigo	testify
 tumigil	to stop
 tumilî	shrieked, screeched
+tumínag	to budge
 tumingkad	to become brighter/clearer (as colors)
 tumok	kakitkitan; kalaguan ng mga damong tumutubo
 tumpak	correct, right (tama)
