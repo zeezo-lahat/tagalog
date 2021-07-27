@@ -332,6 +332,7 @@ baság	cracked, broken, shattered
 basagulero	troublemaker
 basag-ulo	quarrel (“broken head”)
 basahan	rag
+basehán	basis
 báso	drinking glass
 basta	enough, sufficient, "it is enough"; as a declaration: "just because", "what matters is.."
 ba't	bakit
@@ -476,6 +477,7 @@ bulak	cotton
 bulakbol	truancy; jobless person, vagabond
 bulaklak	flower (noun)
 bulalákaw	meteorite, shooting star
+bulate	worm
 bulilít	tiny, drawfish; smallest/youngest person
 búlo	the hairy covering of some fruit
 bulók	rotten, spoiled, decaying; corrupt
@@ -522,6 +524,7 @@ burarâ	careless with things and actions, untidy,sloppy, messy, slipshod
 burol	a hill
 burol	lying in state
 búti	goodness, properness
+butikî	lizard
 butil	grain, kernel, seed, bead
 buto	bone; seed
 buto't balat	malnourished (bones and skin)
@@ -1691,7 +1694,7 @@ lobo	balloon
 loko	cheating, deceiving; crazy person, lunatic; crazy, insane, demented, mad
 losyang	looking older than her age, especially married women who’ve let themselves go.
 lubáy	calm (n), looseness (lubayán, lumubáy, maglubáy)
-lubhâ	extremely
+lubhâ	extremely (syn. lalâ)
 lubóg	submerged, sunken, buried (lit. or fig.)
 lubos	complete, exhaustive, entire, unmitigated, quite, wholly, in full
 lugár	place, site, point, spot, region, location, seat, space
@@ -2088,7 +2091,7 @@ malinis	clean, neat, hygienic; clear, chaste
 malisya	malice
 maliwanag	bright, clear, distinct
 malubáy	calm, relaxed, slack
-malubha	serious (ref to sickness or medical condition)
+malubhâ	serious, dire (often ref to sickness or medical condition)
 maluho	extravagant
 maluló	to be hooked on a bad vice, to be addicted; to fall into a bad situation
 malungkot	sad
@@ -2104,6 +2107,7 @@ mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
 mamasukan	to have a job
 mamayâ pa	not now, but later today
 mamayâ	later today
+mamayagpág	to flap ones wings (lit/fig) (namamayagpag, namayagpag, mamamayagpag)
 mamayan	to live or reside in a town (báyan)
 mambabae	fool around with women; to have a mistress
 mamilipit	to writhe, squirm, convulse
@@ -2229,7 +2233,7 @@ masasayang	will waste
 masayá	happy, fun
 maselan	fastidious, meticulous, particular
 masigásig	enthusiastic
-masigla	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, briskly, smartly
+masiglá	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, briskly, smartly
 masikap	diligent, industrious
 masikip	tight, congested (as in traffic)
 masilaw	dazzled
@@ -2714,6 +2718,7 @@ pagmultahin	to make someone pay a fine
 pagnanakaw	burglary, stealing, larceny
 págod	exhaustion
 pagód	tired
+pagóng	turtle
 pagpag	shake off, as in clothes etc.; dumpster food; ghost (multo)
 pagpanaw	sudden disappearance, departure, death
 pagpapahalaga	importance, regard, appreciation, regard
@@ -2726,7 +2731,7 @@ pagpasensyahán	to have patience with someone
 pagpasláng	(n) killing (also pasláng)
 pagpupumilit	the act of coercing
 pagsabihan	to say something to someone; to reprimand someone, to scold someone, to correct someone
-pagsama	to combine
+pagsama	joining, combining
 pagsamantalahán	to take advantage of someone/something
 pagsápit	upon arrival; approaching, arriving, coming, eventuality
 pagsasalin	translation
@@ -3599,7 +3604,7 @@ tarantádo	foolish, shameless, disrespectful; moron, asshole
 taratahin	to confuse, baffle, bewilder
 taratahin	to confuse, baffle, bewilder
 tasa	a cup
-tatag	establishment, stability; solidarity, security; established, organized
+tatág	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
 tatay	father
 tatlóng-kalimá	three-fifths

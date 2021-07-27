@@ -11,20 +11,25 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-LALAGÚKAN
+MALUBHA
 
-   root word: lagok
+   root word: lubhâ
 
-   la·la·gú·kan
-   Adam’s apple
+   ma·lub·hâ
+   serious, dire
 
-   The laryngeal prominence or “neck triangle” is the lump or protrusion
-   in the human neck formed by the angle of the thyroid cartilage
-   surrounding the larynx seen especially in males.
+   malubhâng sakit
+   serious illness
 
-   Adam's apple in Tagalog Adam's apple in Tagalog
+   malubhâng problema
+   dire problem
 
-KAHULUGAN SA TAGALOG
+MGA KAHULUGAN SA TAGALOG
 
-   lalagúkan: pag-usli ng kartilago ng thyroid na nabubuo sa may lalamunan
-   at karaniwang nakikíta sa mga lalaki
+   malubhâ: may angking lubhâ, gaya sa malubhang sakít at malubhang
+   problema
+
+   lubhâ: kulang na kulang o labis na labis sa karaniwang pamantayan gaya
+   sa lubhang masayá o lubhang malungkot
+
+   lubhâ: lalâ

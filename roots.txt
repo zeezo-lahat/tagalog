@@ -2298,6 +2298,9 @@ ka-edaran (edad) ka_an [noun] peers
 ka-edád (edad) ka_ [adjective] being the same age; [noun] a person of the same age
 kasing edád (edad) compound_ [adjective] the same age
 menór-de-edád (edad) compound_ [noun/adjective] minor; below the age of an adult; minor in age
+maengganyo (engganyo) ma_ [verb] to be enticed (AF)
+engganyo (engganyo) rt_ [noun] enticement
+makaengganyo (engganyo) maka_ [verb] to be able to entice; to entice
 gaanán (gaan) _an [verb] to lighten; to reduce the load of; to simplify
 gaán (gaan) rt_ [noun] lightness (of weight); easiness
 gumaán (gaan) _um_ [verb] to become light
@@ -2852,6 +2855,10 @@ tagahangà (hanga) taga_ [noun] admirer
 hangarín (hangad) _in [verb] to desire something; to aspire to something; to seek something; to intend something; to have the goal of doing something; to aim to accomplish for something
 hangád (hangad) rt_ [noun] desire; purpose; ambition; intention; aspiration; seeking
 maghangád (hangad) mag_ [verb] to desire; to seek; to intend; to aspire
+humantóng (hantong) _um_ [verb] to stop; to end up; to result in; to culminate in
+kahahantungan (hantong) kaCV_an [noun] the end result; stopping point; final resting place; the final result
+hantungan (hantong) _an [noun] stopping point; final resting place
+hantóng (hantong) [noun] result; end
 Haponés (hapon) _ [noun] Japanese; native of Japan
 Hapón (hapon) rt_ [noun] Japanese; Japan
 dápit-hapon (hapon) compound_ [adjective] late afternoon; twilight; dusk
@@ -3671,7 +3678,7 @@ kabado (kaba) sp_ [adjective] in doubt; nervous
 kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
 kabá (kaba) rt_ [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
 nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
-magkabisá (kabisa) magka_ [verb] to memorize
+magkabisá (kabisa) mag_ [verb] to memorize
 ikabít (kabit) i_ [verb] to fasten; to attach; to hang
 kabitan (kabit) _an [noun] mounting; mount;
 kabitán (kabit) _an [verb] to attach; to fasten
@@ -5652,6 +5659,8 @@ pagpayag (payag) pag_ [noun] approval; giving permission; assenting; assent
 payag (payag) rt_ [adjective] in agreement; willing
 payagan (payag) _an [verb] to allow someone to do; to allow something; to acquiesce on something; to concede something
 pumayag (payag) _um_ [verb] to agree; to accept; to allow; to assent; to approve; to comply; to acquiesce
+mamayagpág (payagpag) mang_ [verb] to flap one's wings; to boast over a win or success
+pamamayagpág (payagpag) pangCV_ [noun] flapping; flapping one's wings; inflating; boasting about a win
 kapayapaan (payapa) ka_an [noun] peace; freedom from war; tranquility
 kapayapaan ng isip (payapa) [noun] peace of mind
 mamayapà (payapa) mang_ [verb] to die; to rest in peace; to be tranquil
