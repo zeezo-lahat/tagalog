@@ -1,5 +1,3 @@
-
-
 HANDOG
 
    handog: gift, offering, tribute
@@ -15,10 +13,6 @@ HANDOG
    is a 1986 song recorded in Tagalog by a supergroup composed of 15
    Filipino artists. The song became the anthem of the bloodless People
    Power Revolution.
-
-   IFRAME:
-   https://www.youtube.com/embed/ooGtSV7UafI?version=3&rel=1&fs=1&auto
-   hide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
 
 MGA KAHULUGAN SA TAGALOG
 

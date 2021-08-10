@@ -1,5 +1,3 @@
-
-
 KANIN
 
    cooked rice
@@ -18,9 +16,6 @@ KANIN
    Paano Magsaing ng Bigas
    How to Cook Rice
 
-   IFRAME:
-   https://www.youtube.com/embed/kd51DKSizv0?version=3&rel=1&fs=1&auto
-   hide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
      __________________________________________________________________
 
    Kumain ka ng kanin.

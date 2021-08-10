@@ -1,5 +1,3 @@
-
-
 KATOL
 
    Katól is the generic term that Filipinos use to refer to a coil that is
@@ -24,10 +22,6 @@ KATOL
 
    Here is a commercial for Dragon Katol. Dragon kung umusok, Lamok
    siguradong tepok.
-
-   IFRAME:
-   https://www.youtube.com/embed/89oCQP5Epfo?version=3&rel=1&fs=1&auto
-   hide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
 
    ** Burning one mosquito coil is as dangerous as burning 75 to 137
    cigarettes because of harmful chemicals like formaldehyde,

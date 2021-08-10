@@ -1,10 +1,4 @@
-
-
 TAGAY
-
-   IFRAME:
-   https://www.youtube.com/embed/jDjxmCQRoGQ?version=3&rel=1&fs=1&auto
-   hide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent
 
    tagay
    a toast in drinking
