@@ -1,8 +1,8 @@
-
-
 LAMBAT
 
-   lam·bát: a net used for catching fish, birds or other animals
+   (lam·bát)
+
+   lambát: a net used for catching fish, birds or other animals
 
 KAHULUGAN SA TAGALOG
 

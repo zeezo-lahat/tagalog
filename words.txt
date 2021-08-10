@@ -180,6 +180,7 @@ arawán	on a daily basis
 arì	property
 arí-arian	possessions, property, goods
 ariin	to consider, acknowledge
+armás	arms (weapons)
 aruga	nurture, tender care
 arugain	to nurture
 asahan	to expect, be sure that something will happen
@@ -187,15 +188,18 @@ asahan	to expect, be sure that something will happen
 asár	infuriating, offensive, teasing
 asarín	to infuriate/offend/anger someone
 asim	sourness
+asúkal	sugar
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at saka	furthermore, and also, as well as
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
+ata	our, ours
 ataud	coffin, casket
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 atubilí	hesitation, reluctance (syn. bantulót)
+atupag	chore, thing to do, task, occupation
 awa	pity, mercy
 awat	pacification of quarreling people (mang-awat, umawat, awatin)
 awatin	pacify or separate quarreling persons
@@ -296,6 +300,7 @@ balik-balik	repeatedly
 baliktarin	to turn something over (lit/fig)
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balitaan	notify
+balón	a well (water well)
 balot	wrapper, wrapping
 balsa	a float, raft, ferry
 banál	holy, virtuous, blessed
@@ -423,6 +428,7 @@ birò mo	can you imagine..?
 birò	joke, banter, gag (joke)
 bisà	power, force, effect, strength
 bisi	busy
+bisig	forearm, arm; manpower, laborer
 bisor	supervisor
 bistado	obvious, exposed
 bisto	obvious; discovered or found out
@@ -458,6 +464,7 @@ bugtóng	lone, the only one, sole, only child; unique (syn. tangì); riddle
 búhat nang	since
 búhat	from (buhat sa)
 búhat	lift
+buhangin	sand
 buháwi	whirlwind, cyclone, waterspout
 buháy	alive
 búhay	life
@@ -510,7 +517,7 @@ bungo	skull
 buno	
 bunô	wrestling; scuffle
 bunong-braso	arm wrestling
-bunsô	youngest child in the family
+bunsô	youngest child in the family, younger sibling (mga bunso -> younger siblings)
 bunsód	launch (like a boat), launch an activity; a "boom" in something
 buntís	pregnant
 bunton	a pile, collection
@@ -565,6 +572,7 @@ dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
 dalaga	a young/single woman; teenage girl; unmarried woman
 dalagita	teenage female, preteen girl
+dalampasígan	seashore
 dalás	frequency
 dálaw	visit; guest
 dalawáng-katló	two-thirds
@@ -643,7 +651,7 @@ doon	there ("dun", "duon")
 dugô	blood
 duguan	bloody
 dugyót	small and dirty
-dukhâ	poor, needy
+dukhâ	poor, needy, indigent, destitute
 dukot	snatching; kidnapping; to pull something out
 duling	cross-eyed
 dúlo	end, result; tip, point
@@ -668,7 +676,7 @@ dumumí	to defecate
 dúnong	knowledge, wisdom, learning, education
 dupók	fragility
 duwág	coward
-e di	so.., therefore..
+e di	"eh, kung hindi", "well if not, then..", so.., therefore..
 edad	age
 ensáyo	practice
 estero	estuary
@@ -801,6 +809,7 @@ halalan	election
 halaman	a plant
 haligi	post, column, pole
 halika	come here
+halímaw	beast, monster
 halimbawâ	example, "for example"
 halina	Come along!, Let's go!, Come here!
 halip	stead, alternative, substitute (sa halip: instead)
@@ -1602,6 +1611,7 @@ lamang loob	innards
 lamang	only, even, mere (lang)
 lamangan	advantage over others
 lambanóg	coconut booze
+lambát	a net used for catching fish, birds or other animals
 lambót	softness, tenderness
 lamig	coldness
 lamon	voracious eating, gorging, gormandizing
@@ -1784,6 +1794,7 @@ mabaít	nice, kind
 mabalaghán	to be astonished
 mabalot	wrap around, envelop, enshroud, encase, encrust
 mabanatan	to be beat up
+mabangís	savage, vicious, fierce, ferocious
 mabasag	to be broken
 mabatid	to be informed
 mabenta	very marketable (is selling a lot)
@@ -2037,6 +2048,7 @@ makatwiran	rational, reasonable
 makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makikiha	???? see making out in tagalog "please get.."
 makíkipag-Usap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
+makikipagsapalaran	hazard; risk; take a chance (jointly)
 makíkiraán	please let me pass by
 makilala	to meet
 makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
@@ -2054,6 +2066,7 @@ makisabay	to go at the same time
 makislap	luminous, brilliant, glittering, lambent, lucent
 makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
+makukuha	attainable, that can be achieved
 makulit	importunate, pesky; a person who is a pest
 makulong	be confined, be interned; be shut in (in a crowd)
 malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
@@ -2215,6 +2228,7 @@ maralitang taga-lungsod	urban poor
 maranasan	to feel, experience (dánas)
 marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
 maricon	a sissy
+marikit	dainty. This is an old-fashioned word for “pretty.”
 máriníg	to hear
 martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
@@ -2541,6 +2555,7 @@ nauunawaan	to understand
 nawá	may (expressing a wish or hope)
 nawawala	lost; something/someone lost
 nayon	village; hamlet; "barrio" (local community) (also "kanayunan")
+nek-nek mo	fuck you, up yours
 nga	expresses a request; affirmation marker, "truthful, certain" (maganda nga siya -> she certainly is pretty)
 ngangá	act of opening the mouth; having an open mouth
 ngayón lang	just now
@@ -2808,6 +2823,7 @@ pakiusap	a plea, a request/petition as in an announcement
 pakpák	wing
 paksa	fact, topic, subject, the main idea, point of contention
 pakumbabâ	modest, humble (also mapagpakumbabâ)
+pakyu	fuck you
 pála	a shovel
 palá	expression of realization; indicates change in topic, as "by the way"
 palaaway	belligerent
@@ -2871,7 +2887,7 @@ pamilíhan	market, marketplace (bili)
 pamiliin	to let someone choose
 pamilya	family
 paminsan-minsan	occasionally, from time to time
-pampang	river bank (origin of the name "Pampanga")
+pampang	river bank (origin of the name "Pampanga"), or shore of sea, etc.
 pampapawis	something to make you sweat
 panaginip	a dream
 panahon	weather; time, season, age, era, epoch; all of time; grammatical tense
@@ -2914,6 +2930,7 @@ panggáp	to pretend, to profess
 panghabang buhay	lifelong
 panghanda	preparation for
 pángil	snake fang; canine tooth
+pangingikil	extortion
 panginoón	the Lord; master, a person who rules or commands people or things
 pangkalahátan	general
 pangkalakal	trade, business
@@ -3104,6 +3121,7 @@ pruweba	proof
 pugad	nest
 pugante	fugitive
 puhúnan	investment
+púkot	uri ng lambat na ginagamit sa malalim na bahagi ng dagat
 pukpók	bang; hammering; beating; pounding
 pukyutan	bee, honeybee
 pulá	red
@@ -3222,6 +3240,7 @@ saglit	instant, moment
 saglitan	briefly
 sagót	answer
 sagutin	to answer something
+sagwán	paddle (as for a raft)
 sahig	floor
 sáhod	open hands used to catch a falling object
 sahod	salary, wage
@@ -3283,11 +3302,13 @@ sanáy	skilled, proficient, used to
 sanayan	a place for practice
 sanaysay	an essay
 sandali	moment (dali)
+sandamakmak	lots of (idiomatic) sangkatutak
 sandata	weapon; arms; ammunition
 sangá	branch
 sanggol	baby, infant
 sangkáp	ingredient, part, element
 sangkataúhan	mankind, the public
+sangkatutak	lots of (idiomatic) sandamakmak
 sangkót	implicated, linked
 sanglinikha	universe, all creatures
 sanhi ng	caused by
@@ -3653,6 +3674,7 @@ tindahan	a store
 tindero	a male seller
 tindi	intensity, severity
 tindíg	posture, bearing
+tinggâ	lead (uri ng metal)
 tingín	look, view, sight (lit and fig); opinion, estimate (palagay)
 tingkád	brightness (of color)
 tingnán	look at, check (tingín)

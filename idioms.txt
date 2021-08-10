@@ -46,17 +46,17 @@ gusto kong kinain ang shrimp	I like to eat the shrimp
 gusto ko sana X	I (would) like X
 ibig ko sana X	I (would) like X
 mas gusto ko sana X	I would rather have X
-iyon ang gusto ko <sa>	that's what I like about <sa>
-Sobrang gusto ko <ang>	I love <ang>
+iyon ang gusto ko sa <X>	that's what I like about <X>
+Sobrang gusto ko ang <X>	I love <X>
 sinasabi mo na..	so you're saying that..
-edí (e kung hindi)..	well, in that case..
-<ang> kasing X <ng>	<ang> is as X as / the same X as <ng>
+edí (e kung hindi)..	well, in that case.. (so, if not then..)
+ANG kasing <X> NG	ANG is as <X> as / the same <X> as.. 
 kayá ngâ	that's exactly why
-kasama <ang>	with (ie, together with) <ang>
-nang hindî <ang> kasama	without (ie, not with) <ang>
-<ang> ang kasama <ng>	<ang> is with/companion <ng>
+kasama ANG	with (ie, together with) <X>
+nang hindî ANG kasama	without (ie, not with) ANG
+ANG ang kasama NG	ANG is with/companion NG
 Tuwíng magkikita kamí ni <X>..	Every time <X> and I see each other..
-may kasáma <ang> <-> <na X>	<ang> includes / comes with / has <X>
+may kasáma ANG <-> <na X>	ANG includes / comes with / has <X>
 sakâ na (lang)	some other time
 sakâ mo na ako tanungin	ask me another time.
 walang tiyagA	impatient
@@ -64,7 +64,7 @@ hindî na	not any more; never mind
 hindi yata	I don't think so
 <something> yata	<something>, I think
 malamáng hindi	unlikely
-ayaw <ng phrase> ng <X>	<ng> doesn't want/like <X>
+ayaw NG ng <X>	NG doesn't want/like <X>
 tíla	apparently, seemingly, "it seems"
 tíla uulan	It seems it's going to rain
 huli tayo	we're late
@@ -74,7 +74,7 @@ Nasa sa iyo (nasa 'yo)		it's up to you
 gayon din naman		likewise
 handa ka na bang pumunta?	are you ready to go?
 gawin mo muli	just do it again
-gusto mo bang sumama sa akin sa <somewhere>	do you want to come with me to <somewhere>
+gusto mo bang sumama sa akin sa <X>	do you want to come with me to <X>
 hintayin mo ako	wait for me
 masama ang pakiramdam	I'm not feeling well
 ayan ka na naman	there you go again

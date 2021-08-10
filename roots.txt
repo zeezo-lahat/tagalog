@@ -1028,6 +1028,9 @@ mabanggâ (bangga) ma_ [verb] to bang against something (OF); to collide with so
 magbanggâ (bangga) mag_ [verb] to collide; to crash
 nakabanggâ (bangga) naka_ [adjective] collided
 pagbanggâ (bangga) pag_ [noun] colliding
+bangís (bangis) rt_ [noun] ferocity; savageness; fury
+mabangís (bangis) ma_ [adjective] vicious; fierce; ferocious; savage; brutal; wild; atrocious; barbarous; wrathful
+kabangisan (bangis) ka_an [noun] ferocity; fury
 banggitín (banggit) _in [verb] to mention something; to cite something; to quote something
 banggít (banggit) rt_ [noun] mention; reference; citation
 kakabanggít (banggit) kaka_ just mentioned
@@ -2577,6 +2580,9 @@ tagilíd (gilid) ta_ [adjective] tilted; slanted; in danger of; not legal (slang
 tumagilíd (gilid) _um_ [verb] to tilt; to slant
 gilitán (gilit) _an [verb] to incise; to cut into
 gilít (gilit) rt_ [noun] cutting into small pieces; cutting; marking
+giliw (giliw) rt_ [noun] being hospitable; fondness; affection
+magiliw (giliw) ma_ [adjective] hospitable; beloved; blessed; gentle; affectionate; genial
+paggiliw (giliw) pag_ [noun] affection; love
 ginhawa (ginhawa) rt_ [noun] ease; an easy feeling; wealth; relief from pain/sickness; rest; comfort
 guminhawa (ginhawa) _um_ [verb] to feel better; to comfort; to feel relief; to become more easy
 kaginhawahan (ginhawa) ka_an [noun] easing; getting relief; comfort; convenience; resting
@@ -3938,6 +3944,10 @@ kayód (kayod) rt_ [noun] grating; scraping; hard work; scraping by
 kumayod (kayod) _um_ [verb] to work hard; to toil
 káyod-kalabáw (kayod) compound_ [adjective] hardworking; diligent
 pangayod (kayod) pang_ [noun] abrasive; scraper
+pangingikil (kikil) pangCV_ [noun] extortion; shakedown
+kikilan (kikil) _an [verb] to extort
+kikil (kikil) rt_ [noun] extortion; filing down; nail filing
+kumikil (kikil) _um_ [verb] to extort
 kakilá-kilabot (kilabot) ka_rt_rt [adjective] terrifying; horrifying
 kilabot (kilabot) rt_ [noun] terror; goose bumps; goose pimples
 kilabutan (kilabot) _an [verb] to give someone goose bumps
