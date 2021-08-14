@@ -5479,6 +5479,11 @@ labás sa panganib (panganib) phr_ [phrase] out of danger
 manganib (panganib) ma_ [verb] to be in danger; to be threatened
 mapanganib (panganib) ma_ [adjective] dangerous
 panganib (panganib) rt_ [noun] danger; risk; crisis
+pamamanhikan (panhik) pangCV_ [noun] a meeting of the parents of an engaged couple to discuss wedding plans
+pumanhík (panhik) _um_ [verb] to go upstairs; to enter
+panhík (panhik) rt_ [noun] ascending
+ipanhík (panhik) i_ [verb] to take upstairs
+magpanhík (panhik) mag_ [verb] to bring upstairs
 panig (panig) rt_ [noun] side; panel; aspect; party; part; section
 pumanig (panig) _um_ [verb] to take sides; to side with
 panigan (panig) _an [verb] to take sides with someone
@@ -5688,6 +5693,8 @@ magpayo (payo) mag_ [verb] to advise
 payo (payo) rt_ [noun] advice; counsel
 payuhan (payo) _an [verb] to counsel; to advise
 tagapayo (payo) [noun] adviser; mentor; counselor
+pamaypáy (paypay) pang_ [noun] fan (manual); paper fan; folding fan
+paypayán (paypay) _an [verb] to fan something/someone
 magkapera (pera) magka_ [verb] to obtain money; to earn money
 mamera (pera) [adjective] valued or priced at one centavo each
 mapera (pera) [adjective] has money

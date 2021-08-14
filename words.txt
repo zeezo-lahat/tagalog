@@ -543,6 +543,7 @@ buwang	crazy (Visayan)
 buwaya	crocodile
 buwelta	pagbabalik, return (also bwelta)
 buwis	tax, tariff, cropshare
+buwísit	a nuisance
 daán	hundred
 daán	road, path, way
 daan-daan	hundreds
@@ -1395,6 +1396,7 @@ kasosyo	business partner
 kastígo	reprimand, rebuke; originally meant punishment
 kasundo	someone you get along with; agreeing
 kásunduan	agreement, deal, compromise, covenant, bargain, treaty, concord, contract, compact, pact
+kasungitan	irritableness; sulkiness
 kasunód	next / the next; following; something that follows, result
 kasya	to fit in size; sufficient for what’s needed
 katabi	next to, adjacent
@@ -2120,6 +2122,7 @@ malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
 mamangkâ	to go by boat, to go boating (bangkâ)
+mamanhik	to appeal, make an appeal (namamanhik, namanhik, mamamanhik)
 mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
@@ -2266,6 +2269,7 @@ maskí	although, even though, nevertheless, however, whether, aside from; even, 
 maso	mallet, sledgehammer
 masugid	active, industrious, diligent
 masukal	savage, wild, dense, thick (súkal)
+masúngit	grouchy, ill-tempered
 másunurin	obedient
 masuwa	to be butted (as a head-butt, etc.)
 masyado	"too", more, exceedingly, very (labis)
@@ -3373,8 +3377,10 @@ silang	birth, appearance, rising as of the sun
 siláng	mountain pass
 silát	slit, aperture, opening, crevice, gap (also siwang)
 silaw	a glare
-silid	a room
+silíd	a room
+silíd-tulugán	bedroom
 silip	to peek, peer
+silya	chair
 silyón	easy-chair
 sinamahan	accompanied
 sinayang	(verb) wasted something
