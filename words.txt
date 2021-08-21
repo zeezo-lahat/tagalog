@@ -146,6 +146,7 @@ ang aga mo!	you’re so early!
 ang aga nila!	they’re so early!
 ang mga marálitâ	the extremely poor
 ang	marker (usually said as "yung" in conversation)
+angal	prolonged crying; complaint, problem
 angas	a show-off, boastful person
 angilan	to snarl at, to growl at
 angkán	family, clan; lineage, ancestry
@@ -298,6 +299,7 @@ baligtad	inside-out, upside-down (also 'baliktad')
 balik	return
 balikat	shoulder
 balik-balik	repeatedly
+baliktad	inside-out, upside-down (also 'baligtad')
 baliktarin	to turn something over (lit/fig)
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balitaan	notify
@@ -670,7 +672,7 @@ dumanas	to undergo, experience
 dumapâ	purposely dropped to the ground on one’s belly / face down (dapâ)
 dumarami	to increase in amount
 dumating	to arrive, come
-dumí	feces
+dumí	feces, dirt
 dumoon	to go there
 dumulas	to slip
 dumulóg	to appear before someone, to turn to someone for help
@@ -729,8 +731,8 @@ gawin	to do, perform, adapt, make
 gaya	(also kagaya) imitation; like, similar, followed by ng phrase
 gayák	dressed up; decoration, trimmings, intention
 gayarí	like this, in this way/manner (gáya + nirî) (also ganirí)
-gayón din naman	likewise
 gayón	such, like that (gaya + niyon)
+gayón din naman	likewise
 gayundin	likewise, in the same way
 gayunman	nevertheless, however (gayón + man)
 gayunpaman	nevertheless, however (gayón + pa + man)
@@ -1130,7 +1132,7 @@ iuwi	to take someone home
 iwan	leaving, abandoning, omitting
 iwas	avoidance
 iyák	crying
-iyong	informal "ang", like "yung"
+iyong	informal "ang", like "yung"; iyo + na (your)
 jack-en-poy	rock-paper-scissors
 jokla	gay
 kaagád	immediately; soon/asap
@@ -1152,10 +1154,12 @@ kabatáan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
 kabayo	horse
+kabihasnán	civilization (rt. bihasa)
 kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
 kabisá	(kabesá) sp. "cabeza".  "head"/pinuno; or referring to memorizing or knowing / being familiar with something
+kabisera	capital, capital city; town center
 kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
@@ -1282,6 +1286,7 @@ kamay	hand
 kamayin	use your hands
 kambál	twins
 kambal-patinig	dipthong
+kambíng	goat
 kamí	we (excluding you)
 kamí-kamí	just us (exclusive)
 kamít	acquisition; obtaining, getting, achieving
@@ -1498,6 +1503,7 @@ konsiyénsiyá	conscience
 koponán	a team
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
+krimen	crime
 krus	cross
 kúbo	hut
 kugon	a type of tall grass
@@ -1508,6 +1514,7 @@ kúlang	deficient, lacking, inadequate
 kulay	color
 kulélat	performs badly, comes in last in competition
 kuli	retraction, revocation
+kuliglíg	cricket
 kulit	peskiness
 kulitin	to badger, pester
 kulob	something that is covered up
@@ -2288,6 +2295,7 @@ matalas	sharp (lit/fig), keen; acute; sharp (ref. to the intellect or hearing)
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matamaan	to come against with force
+matamis	sweet (adj); dessert (n)
 matamláy	lethargic, listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
@@ -2579,6 +2587,7 @@ nino	whose, post positive form of kanino. (Kaninong bahay, bahay nino? Whose hou
 ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
 niyog	coconut
+niyón	(of) that ("ng" form of "iyon")
 noó	forehead, brow
 nood	root word related to watching (manoód, panoorín, etc.)
 noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
@@ -3448,7 +3457,7 @@ sulat	writing, letter
 súliranin	a problem
 sulit	worth it, a good deal; a test
 suló	binti ng hayop; pagkasilaw; baluktot
-sulok	corner
+sulok	corner, including metaphorically, eg "lahat ng sulok ng pilipinas": every corner of the philippines
 súlong	advance, progress (as military); go ahead!
 sulpót	to emerge suddenly or unexpectedly
 sumabit	to get lodged, caught
