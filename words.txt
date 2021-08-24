@@ -146,6 +146,7 @@ ang aga mo!	you’re so early!
 ang aga nila!	they’re so early!
 ang mga marálitâ	the extremely poor
 ang	marker (usually said as "yung" in conversation)
+angal	prolonged crying; complaint, problem
 angas	a show-off, boastful person
 angilan	to snarl at, to growl at
 angkán	family, clan; lineage, ancestry
@@ -298,6 +299,7 @@ baligtad	inside-out, upside-down (also 'baliktad')
 balik	return
 balikat	shoulder
 balik-balik	repeatedly
+baliktad	inside-out, upside-down (also 'baligtad')
 baliktarin	to turn something over (lit/fig)
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balitaan	notify
@@ -543,6 +545,7 @@ buwang	crazy (Visayan)
 buwaya	crocodile
 buwelta	pagbabalik, return (also bwelta)
 buwis	tax, tariff, cropshare
+buwísit	a nuisance
 daán	hundred
 daán	road, path, way
 daan-daan	hundreds
@@ -569,6 +572,7 @@ dakdák	(n) dunk; dunk a basketball
 dakdak	to chatter nonstop
 dakilà	great, distinguished, notable, illustrious, noble
 dako	direction, way; region of a body, spot, place
+dakót	fist, handful
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
 dalaga	a young/single woman; teenage girl; unmarried woman
@@ -669,7 +673,7 @@ dumanas	to undergo, experience
 dumapâ	purposely dropped to the ground on one’s belly / face down (dapâ)
 dumarami	to increase in amount
 dumating	to arrive, come
-dumí	feces
+dumí	feces, dirt
 dumoon	to go there
 dumulas	to slip
 dumulóg	to appear before someone, to turn to someone for help
@@ -728,8 +732,8 @@ gawin	to do, perform, adapt, make
 gaya	(also kagaya) imitation; like, similar, followed by ng phrase
 gayák	dressed up; decoration, trimmings, intention
 gayarí	like this, in this way/manner (gáya + nirî) (also ganirí)
-gayón din naman	likewise
 gayón	such, like that (gaya + niyon)
+gayón din naman	likewise
 gayundin	likewise, in the same way
 gayunman	nevertheless, however (gayón + man)
 gayunpaman	nevertheless, however (gayón + pa + man)
@@ -784,6 +788,7 @@ gumawa	to make, create, produce, commit, undertake
 gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
 gunaw	end of the world, destruction of all things, deluge
 gunitâ	memory, recollection
+guni-guní	hallucination; imagination; illusion; figment; mirage
 guro	teacher
 gusali	building, structure
 gusto pa	still want
@@ -914,6 +919,7 @@ hipo	touch
 hiram	something borrowed
 hirap	difficulty, trouble
 hirit	full force of a blow; asking for something; talking out of turn (also 'bírit')
+hità	thigh; upper leg
 hiwagà	mystery
 hiwalay	separated
 hiwátig	hint, clue
@@ -1129,7 +1135,7 @@ iuwi	to take someone home
 iwan	leaving, abandoning, omitting
 iwas	avoidance
 iyák	crying
-iyong	informal "ang", like "yung"
+iyong	informal "ang", like "yung"; iyo + na (your)
 jack-en-poy	rock-paper-scissors
 jokla	gay
 kaagád	immediately; soon/asap
@@ -1151,10 +1157,12 @@ kabatáan	the young, collective youth
 kabatiran	information
 kabayan	of the same bayan; compatriate
 kabayo	horse
+kabihasnán	civilization (rt. bihasa)
 kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
 kabisá	(kabesá) sp. "cabeza".  "head"/pinuno; or referring to memorizing or knowing / being familiar with something
+kabisera	capital, capital city; town center
 kabít	attached, connected; mistress
 kabuhayan	livelihood
 kabukiran	the countryside, rural area
@@ -1270,6 +1278,7 @@ kaltasín	to dedcuct, subtract; lay off
 káluluwá	soul
 kalungkutan	sadness
 kalungkut-lungkot	sorrowful
+kalunós-lunós	pitiful, tragic
 kalusUgan	health
 kamag-anak	relative(s)
 kamakailán	recently
@@ -1281,6 +1290,7 @@ kamay	hand
 kamayin	use your hands
 kambál	twins
 kambal-patinig	dipthong
+kambíng	goat
 kamí	we (excluding you)
 kamí-kamí	just us (exclusive)
 kamít	acquisition; obtaining, getting, achieving
@@ -1497,6 +1507,7 @@ konsiyénsiyá	conscience
 koponán	a team
 kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
+krimen	crime
 krus	cross
 kúbo	hut
 kugon	a type of tall grass
@@ -1507,6 +1518,7 @@ kúlang	deficient, lacking, inadequate
 kulay	color
 kulélat	performs badly, comes in last in competition
 kuli	retraction, revocation
+kuliglíg	cricket
 kulit	peskiness
 kulitin	to badger, pester
 kulob	something that is covered up
@@ -1761,6 +1773,7 @@ lumulUtan	floating
 lunggâ	burrow, hole, mouse hole, cave
 lungkot	sadness, sorrow
 lungsód	city
+lunos	pity, compassion
 lunti	green
 luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
@@ -2121,6 +2134,7 @@ malupít	cruel, brutal
 mamà	term of address for an unknown man
 mamâ	to chew betel leaves
 mamangkâ	to go by boat, to go boating (bangkâ)
+mamanhik	to appeal, make an appeal (namamanhik, namanhik, mamamanhik)
 mamalengke	to go shopping in a wet market
 mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
@@ -2286,6 +2300,7 @@ matalas	sharp (lit/fig), keen; acute; sharp (ref. to the intellect or hearing)
 matalíno	intelligent, bright
 matamaan	to (be) hit (by) something
 matamaan	to come against with force
+matamis	sweet (adj); dessert (n)
 matamláy	lethargic, listless, languid, having no energy
 matanaw	view (n)
 matanawan	to see from a distance
@@ -2577,6 +2592,7 @@ nino	whose, post positive form of kanino. (Kaninong bahay, bahay nino? Whose hou
 ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
 niyog	coconut
+niyón	(of) that ("ng" form of "iyon")
 noó	forehead, brow
 nood	root word related to watching (manoód, panoorín, etc.)
 noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
@@ -2884,6 +2900,7 @@ pamamaríl	shooting, gunning, hunting
 pamangkin	niece or nephew
 pamasahe	money used to pay for fare (transport)
 pamatay-apoy	fire extinguisher
+pamaypáy	fan (manual); paper fan; folding fan
 pambansâ	national
 pambatà	for kids; infantile
 pamigay	giveaway
@@ -2953,7 +2970,7 @@ paningin	sense of sight, eyesight
 paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
 panlahi	racial
-panonoód	watching (noun, gerund)
+panonoód	watching (noun, gerund: pangCV-nood)
 panood	watching (nood, obj focus, alt of manood)
 panoorin	to watch something (nood, object focus)
 panót	bald (having a scalp partly lacking hair)
@@ -3375,8 +3392,10 @@ silang	birth, appearance, rising as of the sun
 siláng	mountain pass
 silát	slit, aperture, opening, crevice, gap (also siwang)
 silaw	a glare
-silid	a room
+silíd	a room
+silíd-tulugán	bedroom
 silip	to peek, peer
+silya	chair
 silyón	easy-chair
 sinamahan	accompanied
 sinayang	(verb) wasted something
@@ -3444,13 +3463,14 @@ sulat	writing, letter
 súliranin	a problem
 sulit	worth it, a good deal; a test
 suló	binti ng hayop; pagkasilaw; baluktot
-sulok	corner
+sulok	corner, including metaphorically, eg "lahat ng sulok ng pilipinas": every corner of the philippines
 súlong	advance, progress (as military); go ahead!
 sulpót	to emerge suddenly or unexpectedly
 sumabit	to get lodged, caught
 sumailalim	to go under, to submit
 sumailalim	to undergo (sa-ilalim)
 sumakáy	to ride
+sumalang	to touch lightly (sumasalang, sumalang, sasalang)
 sumali	to join, participate
 sumama	to go with, join
 sumapì	to join
@@ -3793,6 +3813,7 @@ turò	point (as with your finger)
 turò	teach
 túrok	multiple defs. most common meaning is in reference to being injected by a needle
 turò-turò	a restaraunt where you point to what you want
+turón	sweet, crispy banana rolls, made with a banana fried in an eggroll-style wrapper
 tusak	nagkakatusak; masagana, marami, labis na pagkakaroon
 tusok	piercing, perforation
 tustos	allowance; stock, store, supply (e.g. of raw materials)

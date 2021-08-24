@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python
 '''Input .tl files, output tagalog phrase -> english translations
 reads from stdin, writes to stdout
 

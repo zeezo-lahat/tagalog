@@ -17,6 +17,7 @@ parser.add_argument('-r', dest='reverse', action='store_true',
 parser.add_argument('-a', dest='norandom', action='store_true',
                     help="don't do random order, just go straight through")
 parser.add_argument('-c', dest='count', help='cards to do, 0 for "all"')
+parser.add_argument('-s', dest='startline', help='start on this line.  default is 1.')
 parser.add_argument('infile', help='input file')
 
 args = parser.parse_args()
@@ -28,6 +29,10 @@ f = open(args.infile, 'r')
 # read input:
 myinput = f.read()
 
+startline = 1
+if args.startline:
+    startline = int(args.startline)
+
 if args.count:
     dothismany = 99999 if int(args.count) == 0 else int(args.count)
 else:
@@ -35,7 +40,8 @@ else:
 
 inc = 0
 # split input into a list of lines:
-mylist = myinput.split('\n')
+alllines = myinput.split('\n')
+mylist = alllines[startline-1:]
 #mylist.pop()
 #print(mylist)
 

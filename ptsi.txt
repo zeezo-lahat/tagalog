@@ -1,0 +1,50 @@
+grammar section 7 (p. 281)
+
+7.1 potential forms (abilitive)
+maka(pag)- active
+ma- direct
+ma-an local
+
+almost all verbs may have potential forms
+
+for some mag- verbs, pag- is inserted after the potential active (maka) and local passive (ma-an)
+forms, but not after direct passive (ma-) forms.
+
+for mang- verbs, pang- may be put after the prefixes.
+
+7.11 some verbs have a potential form with a long vowel on the prefix. ex:
+makArinig nakArinig nakAkarinig makAkarinig
+mArinig nArinig nAririnig mAririnig
+mAtirhan nAtirhan nAtitirhan mAtitirhan
+
+the reduplicated vowel in the root tends to be shortened.  dialects differ though.
+some retain the long vowel in the root:
+nArIrinig, nAtItirahan
+or shorten the vowel in the prefix:
+narIrinig, natItirhan (Manila)
+
+7.2 meanings
+
+7.21 past potential: managed to do, happened to do, succeeded in doing, had a chance to do, did
+accidentally
+
+7.22 present potential:
+1) abilitive   - nakAkabAsa ka ba?  can you read
+2) repeated/general opportunity or repeated accidental/incidental
+3) something that has not yet had a chance to happen, with "hindi pa", eg "hindi pa nakAkahAnap": not yet been able to find
+note that, the negative (eg, hindi nakAka-) means *physically* unable, not just temporary inability
+
+7.23 future potential:
+a) will be able to happen
+b) will succeed in happening
+c) will happen to someone
+also used in clauses introduced by "kung", as it requires future tense
+
+7.24 dependent tense (infinitive)
+1) cannot or will not be able to (temporarily, as opposed to the present potential)
+2) other contexts which require the dependent, eg after para, baka, gusto, etc. (see p. 115)
+
+7.4 local potential meaning "happen to someone"
+for some roots, the local passive potential means "happen to someone"
+
+

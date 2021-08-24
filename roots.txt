@@ -5312,7 +5312,7 @@ mapanoód (nood) mapa_ [verb] to be able to watch; to get the chance to watch
 mánonoód (nood) maCV_ [noun] bystander; watcher
 nakapanoód (nood) naka_ [adjective] someone who watched; watched
 noód (nood) rt_ [noun] watching a show
-panonoód (nood) paCV_ [noun] watching; viewing
+panonoód (nood) pangCV_ [noun] watching; viewing
 panoorín (nood) pa_in [verb] to watch something; to watch a show; to see a show; to look on at something
 tagapanoód (nood) tagapa_ [noun] audience; viewer; watcher; onlooker
 okupado (okupante) [adjective] occupied; busy
@@ -5479,6 +5479,11 @@ labás sa panganib (panganib) phr_ [phrase] out of danger
 manganib (panganib) ma_ [verb] to be in danger; to be threatened
 mapanganib (panganib) ma_ [adjective] dangerous
 panganib (panganib) rt_ [noun] danger; risk; crisis
+pamamanhikan (panhik) pangCV_ [noun] a meeting of the parents of an engaged couple to discuss wedding plans
+pumanhík (panhik) _um_ [verb] to go upstairs; to enter
+panhík (panhik) rt_ [noun] ascending
+ipanhík (panhik) i_ [verb] to take upstairs
+magpanhík (panhik) mag_ [verb] to bring upstairs
 panig (panig) rt_ [noun] side; panel; aspect; party; part; section
 pumanig (panig) _um_ [verb] to take sides; to side with
 panigan (panig) _an [verb] to take sides with someone
@@ -5688,6 +5693,8 @@ magpayo (payo) mag_ [verb] to advise
 payo (payo) rt_ [noun] advice; counsel
 payuhan (payo) _an [verb] to counsel; to advise
 tagapayo (payo) [noun] adviser; mentor; counselor
+pamaypáy (paypay) pang_ [noun] fan (manual); paper fan; folding fan
+paypayán (paypay) _an [verb] to fan something/someone
 magkapera (pera) magka_ [verb] to obtain money; to earn money
 mamera (pera) [adjective] valued or priced at one centavo each
 mapera (pera) [adjective] has money
@@ -6989,6 +6996,9 @@ tabingî (tabi) slang_ lop-sided
 tabí (tabi) rt_ [noun] side; edge; [preposition] beside
 tabí-tabí (tabi) rt_rt [expression] expression said when entering a location where folkloric creatures may reside, to show respect; [adverb] side by side
 tumabí (tabi) _um_ [verb] to go near someone; to put to the side; to step aside
+matabunan (tabon) ma_an [verb] to happen to fill something; to be able to fill something; to be entombed
+tabon (tabon) rt_ [noun] heap used to fill up a hole
+tabunan (tabon) _an [verb] to fill up something/somewhere
 itabóy (taboy) i_ [verb] to drive something/someone away; to chase something/someone away; to push something/someone away; to turn someone away (reject someone)
 tabóy (taboy) rt_ [noun] repelling; driving away
 maitabóy (taboy) mai_ [verb] to be able to drive something/someone away; to be able to chase something/someone away
@@ -7242,6 +7252,9 @@ tamád (tamad) rt_ [adjective] lazy; idle; sluggish
 tamasahin (tamasa) _in [verb] to enjoy something good in life (leisure, wealth, etc.)
 tamasa (tamasa) rt_ [noun] enjoying wealth or good things in life
 magtamasa (tamasa) mag_ [verb] to enjoy good things in life
+tumambád (tambad) _um_ [verb] to expose; to disclose; to be revealed
+tambád (tambad) rt_ [adjective] exposed to view; visible; revealed
+itambád (tambad) i_ [verb] to expose to view
 itambák (tambak) i_ [verb] to dump; to dump out
 matambák (tambak) ma_ [verb] to be piled up; to be backed up
 nakatambák (tambak) naka_ [adjective] heaped; piled
