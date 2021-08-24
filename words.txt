@@ -572,6 +572,7 @@ dakdák	(n) dunk; dunk a basketball
 dakdak	to chatter nonstop
 dakilà	great, distinguished, notable, illustrious, noble
 dako	direction, way; region of a body, spot, place
+dakót	fist, handful
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
 dalaga	a young/single woman; teenage girl; unmarried woman
@@ -787,6 +788,7 @@ gumawa	to make, create, produce, commit, undertake
 gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
 gunaw	end of the world, destruction of all things, deluge
 gunitâ	memory, recollection
+guni-guní	hallucination; imagination; illusion; figment; mirage
 guro	teacher
 gusali	building, structure
 gusto pa	still want
@@ -917,6 +919,7 @@ hipo	touch
 hiram	something borrowed
 hirap	difficulty, trouble
 hirit	full force of a blow; asking for something; talking out of turn (also 'bírit')
+hità	thigh; upper leg
 hiwagà	mystery
 hiwalay	separated
 hiwátig	hint, clue
@@ -1275,6 +1278,7 @@ kaltasín	to dedcuct, subtract; lay off
 káluluwá	soul
 kalungkutan	sadness
 kalungkut-lungkot	sorrowful
+kalunós-lunós	pitiful, tragic
 kalusUgan	health
 kamag-anak	relative(s)
 kamakailán	recently
@@ -1769,6 +1773,7 @@ lumulUtan	floating
 lunggâ	burrow, hole, mouse hole, cave
 lungkot	sadness, sorrow
 lungsód	city
+lunos	pity, compassion
 lunti	green
 luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
@@ -2895,6 +2900,7 @@ pamamaríl	shooting, gunning, hunting
 pamangkin	niece or nephew
 pamasahe	money used to pay for fare (transport)
 pamatay-apoy	fire extinguisher
+pamaypáy	fan (manual); paper fan; folding fan
 pambansâ	national
 pambatà	for kids; infantile
 pamigay	giveaway
@@ -2964,7 +2970,7 @@ paningin	sense of sight, eyesight
 paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
 panlahi	racial
-panonoód	watching (noun, gerund)
+panonoód	watching (noun, gerund: pangCV-nood)
 panood	watching (nood, obj focus, alt of manood)
 panoorin	to watch something (nood, object focus)
 panót	bald (having a scalp partly lacking hair)
@@ -3464,6 +3470,7 @@ sumabit	to get lodged, caught
 sumailalim	to go under, to submit
 sumailalim	to undergo (sa-ilalim)
 sumakáy	to ride
+sumalang	to touch lightly (sumasalang, sumalang, sasalang)
 sumali	to join, participate
 sumama	to go with, join
 sumapì	to join
@@ -3806,6 +3813,7 @@ turò	point (as with your finger)
 turò	teach
 túrok	multiple defs. most common meaning is in reference to being injected by a needle
 turò-turò	a restaraunt where you point to what you want
+turón	sweet, crispy banana rolls, made with a banana fried in an eggroll-style wrapper
 tusak	nagkakatusak; masagana, marami, labis na pagkakaroon
 tusok	piercing, perforation
 tustos	allowance; stock, store, supply (e.g. of raw materials)

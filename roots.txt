@@ -5312,7 +5312,7 @@ mapanoód (nood) mapa_ [verb] to be able to watch; to get the chance to watch
 mánonoód (nood) maCV_ [noun] bystander; watcher
 nakapanoód (nood) naka_ [adjective] someone who watched; watched
 noód (nood) rt_ [noun] watching a show
-panonoód (nood) paCV_ [noun] watching; viewing
+panonoód (nood) pangCV_ [noun] watching; viewing
 panoorín (nood) pa_in [verb] to watch something; to watch a show; to see a show; to look on at something
 tagapanoód (nood) tagapa_ [noun] audience; viewer; watcher; onlooker
 okupado (okupante) [adjective] occupied; busy
@@ -6996,6 +6996,9 @@ tabingî (tabi) slang_ lop-sided
 tabí (tabi) rt_ [noun] side; edge; [preposition] beside
 tabí-tabí (tabi) rt_rt [expression] expression said when entering a location where folkloric creatures may reside, to show respect; [adverb] side by side
 tumabí (tabi) _um_ [verb] to go near someone; to put to the side; to step aside
+matabunan (tabon) ma_an [verb] to happen to fill something; to be able to fill something; to be entombed
+tabon (tabon) rt_ [noun] heap used to fill up a hole
+tabunan (tabon) _an [verb] to fill up something/somewhere
 itabóy (taboy) i_ [verb] to drive something/someone away; to chase something/someone away; to push something/someone away; to turn someone away (reject someone)
 tabóy (taboy) rt_ [noun] repelling; driving away
 maitabóy (taboy) mai_ [verb] to be able to drive something/someone away; to be able to chase something/someone away
@@ -7249,6 +7252,9 @@ tamád (tamad) rt_ [adjective] lazy; idle; sluggish
 tamasahin (tamasa) _in [verb] to enjoy something good in life (leisure, wealth, etc.)
 tamasa (tamasa) rt_ [noun] enjoying wealth or good things in life
 magtamasa (tamasa) mag_ [verb] to enjoy good things in life
+tumambád (tambad) _um_ [verb] to expose; to disclose; to be revealed
+tambád (tambad) rt_ [adjective] exposed to view; visible; revealed
+itambád (tambad) i_ [verb] to expose to view
 itambák (tambak) i_ [verb] to dump; to dump out
 matambák (tambak) ma_ [verb] to be piled up; to be backed up
 nakatambák (tambak) naka_ [adjective] heaped; piled
