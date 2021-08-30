@@ -2170,6 +2170,7 @@ mang	shortened "mamang = mamà + na", used like "mister <foo>", where <foo> is a
 mang-aagaw	someone who snatches away (a thing or lover)
 mang-ahit	to shave someone
 mangahulugan	to mean, denote, signify
+mangailangan	to need something (actor) <nangailangan, nangángailangan, mangángailangan>
 mangako	to promise
 mangambâ	to feel threatened; to feel fear
 manganib	to be in danger; to be threatened
@@ -3541,6 +3542,7 @@ tagapagtaguyod	sponsor, suppporter
 taga-parusa	punisher
 tagarito	local, resident, "from here"
 tagasaan	from what place?
+tagatuós	an accountant
 tagausig	prosecutor
 tagay	a toast in drinking; term in Batangas for a little girl
 tagilid	tilt, slant
