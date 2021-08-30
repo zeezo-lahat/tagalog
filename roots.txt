@@ -1009,11 +1009,12 @@ magbalot (balot) mag_ [verb] to wrap; to pack
 nakabalot (balot) naka_ [adjective] wrapped; covered
 pambalot (balot) pang_ [noun] covering; wrapping; something used to cover or wrap something
 pinagbalutan (balot) [noun] wrapper; thing used to cover something
-banat (banat) [noun] stretching; insult
+banat (banat) rt_ [noun] stretching; insult
 banatan (banat) _an [verb] to attack someone; to beat up someone
 banatin (banat) _in [verb] to stretch
 banát (banat) rt_ [adjective] stretched; tense; smooth
 bumanat (banat) _um_ [verb] to stretch; to strain; to pull; to go hard in
+mabanat (banat) ma_ [verb] to be stretched
 bangas (bangas) rt_ [noun] bruise; bruise or wound on the face
 bangasan (bangas) _an [verb] to wound someone on the face
 bangasín (bangas) _in [verb] to bruise one's face
@@ -2034,6 +2035,8 @@ karápat-dapat (dapat) ka_rt_rt [adjective] deserving; fitting; right; fit; qual
 marapat (dapat) ma_ [adjective] proper; deserving; commensurate; appropriate; advisable
 nararapat (dapat) [adjective] appropriate; deserving; due
 walâng-karapatán (dapat) phr_ [adjective] having no right
+dumaplís (daplis) _um_ [verb] to glance off; to graze
+daplís (daplis) rt_ [noun] going off on a tangent; going on a tangent; sliding away
 dasalan (dasal) _an [noun] prayer book; place of prayer; rosary beads
 dasalín (dasal) _in [verb] to pray about something; to pray for something
 dasál (dasal) rt_ [noun] prayer
