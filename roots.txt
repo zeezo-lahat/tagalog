@@ -205,6 +205,7 @@ alamín (alam) _in [verb] to find out something; to figure out something; to kno
 alám (alam) rt_ [adjective] know; known; familiar; revealed; aware; conscious; [noun] knowledge; something known
 alám ko (alam) phr_ [phrase] I know
 hindí ko alám (alam) phr_ I don't know
+ipaalám (alam) ipa_ [verb] to disclose something; to inform of something; to let someone know something
 kaalamán (alam) ka_an [noun] knowledge; information; intelligence; idea; statistics
 kaalám-alám (alam) ka_rt_rt having any knowledge (of something)
 kinalaman (alam) kin_an [noun] connection to something; regarding; a share (of something); knowledge about something
@@ -551,6 +552,9 @@ may-arì (ari) compound_ [noun] owner; proprietor
 paarî (ari) pa_ [grammar] possessive; referring to sa words / phrases
 pag-aarì (ari) pag_ [noun] property; owning; possession
 pagmamayarì (ari) pagmaam_ [noun] owner; proprietor
+arkilahín (arkila) _in [verb] to rent something; to hire someone
+umarkilá (arkila) _um_ [verb] to rent; to hire
+arkilá (arkila) rt_ [noun] rent; rental; rental price
 arte (arte) rt_ [noun] art; mannerism
 artista (arte) sp_ [noun] actor/actress; artist; celebrity; celebrities
 maarte (arte) ma_ [adjective] artistic; with artificial mannerisms; snobby
@@ -4171,6 +4175,8 @@ kuwento (kuwento) rt_ [noun] story
 magkuwento (kuwento) mag_ [verb] to tell a story; to narrate
 maikuwento (kuwento) mai_ [verb] to by able to tell something; to be able to narrate a story about something; to be able to relate a story about something
 pagkukuwento (kuwento) pagCV_ [noun] story telling; story; reciting; recounting something
+kuyog (kuyog) rt_ [noun] swarm
+kuyugin (kuyog) _in [verb] to swarm something/someone
 ilaán (laan) i_ [verb] to devote something; to dedicate something
 laán (laan) rt_ [adjective] destined; intended for; reserved; associated
 maglaán (laan) mag_ [verb] to allocate; to devote; to provide; to dedicate; to appoint
@@ -4827,6 +4833,11 @@ linggo-linggó (linggo) rt_rt [adverb] every week; weekly
 lingguhan (linggo) [adjective] weekly
 linggó (linggo) rt_ [noun] week
 nakaraáng linggó (linggo) phr_ [adverb] last week
+maglingkód (lingkod) mag_ [verb] to serve
+paglilingkód (lingkod) pagCV_ [noun] serving; service
+lingkód (lingkod) rt_ [noun] servant
+paglingkurán (lingkod) pag_an [verb] to serve someone
+abáng lingkód (lingkod) phr_ [noun] humble servant
 kalilinis (linis) kaCV_ just finished cleaning
 kalinisan (linis) ka_an [noun] cleanliness
 linis (linis) rt_ [noun] cleanliness; neatness; purity
@@ -4985,6 +4996,10 @@ luhód (luhod) rt_ [noun] kneeling
 lumuhód (luhod) _um_ [verb] to kneel
 mapaluhód (luhod) mapa_ [verb] to fall to one's knees
 nakaluhód (luhod) naka_ [adjective] kneeling
+maluklók (luklok) ma_ [verb] to be seated or elected to a ruling position (AF); to be seated on the throne (AF)
+luklók (luklok) rt_ [noun] throne; seat of honor
+lumuklók (luklok) [verb] _um_ to sit on a throne
+iluklók sa trono (luklok) phr_ [phrase] enthrone
 kalumaan (luma) ka_an [noun] decrepitude; advanced age (of an item, not of a person); rundown; dilapidation
 lumà (luma) rt_ [adjective] old; worn; stale
 lúmang-lumà (luma) rt_na_rt [adjective] extremely old; very old
@@ -5347,7 +5362,6 @@ mag-paá (paa) mag_ [verb] to go by foot; to go barefoot
 nakapaá (paa) naka_ [adjective] barefooted
 paanán (paa) _an [noun] base or foot (of a structure)
 paá (paa) rt_ [noun] foot (body part); footsteps
-ipaalám (paalam) i_ [verb] to disclose something; to inform of something; to let someone know something
 magpaalam (paalam) mag_ [verb] to say goodbye; to seek permission
 makapagpaalam (paalam) makapag_ [verb] to be able to say goodbye
 mamaalam (paalam) mang_ [verb] to say good-bye
@@ -6225,7 +6239,7 @@ saluhan (sali) _an [verb] to join in eating; to eat with someone
 sumali (sali) _um_ [verb] to take part in; to participate in; to join in; to take part in; to compete in
 kapanalig (salig) kapang_ [noun] fellow person one has trust or faith in; trusted person
 manalig (salig) mang_ [verb] to have faith
-panalig (salig) pang_ [noun] dependence; trust; faith; reliance; creed
+panalig (salig) pa_ [noun] dependence; trust; faith; reliance; creed
 panaligan (salig) pang_an [verb] to put trust in someone/something; to depend on someone/something
 salig (salig) rt_ based; based on
 magsaliksík (saliksik) mag_ [verb] to research
@@ -6603,7 +6617,10 @@ manilbihan (silbi) mang_an [verb] to serve; to work serving others
 pagsisilbí (silbi) [noun] service; serving
 paninilbihan (silbi) [noun] service
 silbí (silbi) rt_ [noun] service; use
-waláng-silbí (silbi) [adjective] useless; good for nothing
+waláng-silbí (silbi) phrase_ [adjective] useless; good for nothing
+silíd (silid) rt_ [noun] room
+isilíd (silid) i_ [verb] to insert something; to put something inside
+nakasilid (silid) naka_ [adjective] contained; inhabited; occupying
 manilip (silip) mang_ [verb] to peek
 masilip (silip) ma_ [verb] to be able to get a quick peek at something; to be able to take a quick look
 nakasilip (silip) naka_ [adjective] peeking
@@ -7796,11 +7813,12 @@ dí-kapaní-paniwalà (tiwala) compound_ [adjective] incredible; inconceivable; 
 kapaní-paniwalà (tiwala) compound_ [adjective] credible; authentic; convincing
 kátiwalà (tiwala) ka_ [noun] caretaker
 magtiwalà (tiwala) mag_ [verb] to believe; to be convinced; to have confidence in; to trust in
+makapaniwalà (tiwala) makapa_ [verb] to be able to believe
 maniwalà (tiwala) ma_ [verb] to believe; to be convinced; to have confidence in
 mapagkákatiwalaan (tiwala) mapagkaka_an [adjective] trustworthy; can be trusted
 pagkátiwalaan (tiwala) pagka_an [verb] entrust to the care of; consign; relegate; confide
 pagtitiwalà (tiwala) pagCV_ [noun] trust; confidence; leaving in the care of someone; confiding
-paniwalà (tiwala) pang_ [noun] belief; opinion; attitude; credence; [adjective] convinced
+paniwalà (tiwala) pa_ [noun] belief; opinion; attitude; credence; [adjective] convinced
 tiwalà (tiwala) rt_ [noun] trust; reliance; faith in someone; confidence in someone
 katiwalián (tiwali) ka_an [noun] anomaly; violation; corruption; absurdity
 tiwalî (tiwali) rt_ [adjective] corrupt; anomalous; irregular
@@ -8368,6 +8386,10 @@ uwián (uwi) _an [verb] to bring home something for someone
 uwî (uwi) rt_ [noun] anything brought home after a trip; the act of going home
 mang-uyam (uyam) mang_ [verb] to be sarcastic; to be mocking
 nakauuyám (uyam) naka_ [adjective] cynical; sarcastic
+iwagaywáy (wagayway) i_ [verb] to wave something; to wave something in the air; * focus on the thing being waved
+magwagaywáy (wagayway) mag_ [verb] to wave; to flutter
+wumagaywáy (wagayway) _um_ [verb] to wave; to flutter; to fly (a flag)
+pagwawagaywáy (wagayway) pagCV_ [noun] waving; fluttering; (e.g., of a flag)
 ipagwagî (wagi) ipag_ [verb] to win
 magwagî (wagi) mag_ [verb] to win; to prevail
 nagwagî (wagi) nag_ [noun] winner

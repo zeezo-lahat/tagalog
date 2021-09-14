@@ -10,14 +10,28 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+ARKILA
 
-MGA KAHULUGAN SA TAGALOG
+   inaarkila (is renting)
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   arkila
+   rent (a vehicle)
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   upa
+   rent (a house)
 
-   kúyog: sumunod o sundin
+   Magkano ang arkila ng bisikleta?
+   How much is it to rent a bike?
 
-   kumuyóg, kuyugán, kuyugín
+   Dalawang daan isang araw ang arkila ng bisikleta.
+   Two hundred a day is the bicycle rent.
+
+   Gusto kong umarkila ng kotse.
+   I want to rent a car.
+   (mag-arkila is less common)
+
+   Gusto nilang umarkila ng bangka para sa tatlo.
+   They want to rent a boat for three.
+
+   Huwag bilhin. Arkilahin na lang ang mga makina.
+   Don’t rent (them). Just rent the machines.
