@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,26 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+DANYOS
+
+   This word is from the Spanish daños.
+
+   dányos
+   damages
+
+   danyóso
+   damages
 
 MGA KAHULUGAN SA TAGALOG
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   dányos: pinsalà o sirà
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   dányos: bayad sa napinsalà
 
-   kúyog: sumunod o sundin
+   danyóso: nakapipinsalà
 
-   kumuyóg, kuyugán, kuyugín
+   dányos perhuwisyos: báyad-pinsalà
+
+   Ang danyos na ito ay tinatayang bilyong piso tauntaon. Kung isasama pa
+   ang danyos sa ating isda at pagkaing-dagat, bilyun-bilyong piso pa rin
+   ang madadagdag na danyos.

@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,35 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+DAPLIS
+
+   dap·lís
+
+   daplís
+   grazing, tangential
+
+   daplis
+   just barely hitting
+
+   dumaplís
+   to just miss the target
+
+   dumaplis
+   to graze, glance off
+
+   Dumaplis ang bala sa gilid ng ulo ko.
+   The bullet grazed the side of my head.
+
+   daplís
 
 MGA KAHULUGAN SA TAGALOG
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   daplís: pasagi o pahaging ang pagtama
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+KASINGKAHULUGAN
 
-   kúyog: sumunod o sundin
+   pasapyaw na tama, sagi, dapyo, hindi sapol, paltik
 
-   kumuyóg, kuyugán, kuyugín
+KAHULUGAN SA TAGALOG
+
+   daplís: uri ng lambat na patatsulok at ginagamit sa Batangas

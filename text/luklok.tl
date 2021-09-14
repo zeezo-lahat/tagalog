@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,31 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+LUKLOK
+
+   luk·lók
+
+   luklók: throne, seat of honor
+
+   lumuklok: sat, took a seat or position
+
+   iniluklok: enthroned (someone)
+
+   nailuklok: was assigned to a position
+
+   nagluklok: appointed someone to a seat of power
+
+   Para mailuklok ang mabuting kandidato
+   In order to place a good candidate
 
 MGA KAHULUGAN SA TAGALOG
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   luklók: pag-upô sa upuan ng karangalan
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   lumuklok: umupo
 
-   kúyog: sumunod o sundin
+   iluklók, lumuklók, magluklók
 
-   kumuyóg, kuyugán, kuyugín
+   luklók: dahon ng gabe
+
+   Si Purisima ay pormal nang nailuklok bilang bagong hepe ng PNP.

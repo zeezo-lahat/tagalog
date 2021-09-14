@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,17 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+PAREHAS
 
-MGA KAHULUGAN SA TAGALOG
+   from the Spanish word parejas, meaning couple, team or set
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   parehas: couple, match
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   parehas: the same (see pareho)
 
-   kúyog: sumunod o sundin
+   kaparehas: partner
+     __________________________________________________________________
 
-   kumuyóg, kuyugán, kuyugín
+   parehas: pares, pagpapares
+
+   pareha: katamabal, abay

@@ -1,3 +1,30 @@
+grammar section 5
+
+5.4 The direct object with active verbs is (1) a dative of the pronoun or (2) the dative particle
+before a name or title (kay or kina) or (3) ng plus a noun or phrase.  Note the direct object
+marker ng is written separate from what precedes it.  The direct object of an active verb must 
+follow the verb.
+
+51. Kayo bang dalawa ang naghAhanap ng kwArto?  "Are both of you looking for a room?"
+53. Lagi silang naghAhandA ng isda.  "They always serve fish."
+
+If the direct object of the active verb is a proper noun or a pronoun, the dative form is used.
+
+54. Ako na lang ang mattAtanong kay Mr. OcAmpo.  "I'll be the one to ask Mr. Ocampo."
+55. Sino kayA ang gustong maghintay sa iyo? "Who would want to wait for you?"
+
+However, the genitive of the demonstrative pronoun is used as the direct object of active verbs.
+For example, in the following sentence "noong libro" ("those books") is the direct object of the
+active verb "bumili":
+
+56. Ako ang bumili noong mga libro (or "ng mga librong iyon").  "I was the one who bought those
+books."
+
+With a verb that refers to motion, the direct object is introduced by sa or ng alternatively.
+
+57.  Sa Sabado pa siya bAbalik ng (or "sa") Maynila.  "He will only be going back to Manila on
+Saturday."
+
 grammar section 7 (p. 281)
 
 7.1 potential forms (abilitive)

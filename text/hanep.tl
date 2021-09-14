@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,31 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+HANEP
 
-MGA KAHULUGAN SA TAGALOG
+   The Filipino word hanep is slang and cannot be found in standard
+   dictionaries.
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   Hanep!
+   Wow!
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   hanep
+   amazing
 
-   kúyog: sumunod o sundin
+   Hanep!
+   Impressive!
 
-   kumuyóg, kuyugán, kuyugín
+   hanep
+   cool
+
+   Hanep na hanep.
+   So awesome.
+
+   Hanep, ang galing mo talaga.
+   Wow, you’re really good.
+
+   Hanep sa ganda.
+   Impressive in beauty.
+
+   Hanep na Madugong Moon
+   Super Blood Moon

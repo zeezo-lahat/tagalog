@@ -10,14 +10,18 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+LUBAK
 
-MGA KAHULUGAN SA TAGALOG
+   lumbak, bako, uka, hukay
+   lubak
+   pothole, hollow in the ground
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   malubak
+   potholed, full of potholes
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   Malubak ang daan.
+   The road is full of potholes.
 
-   kúyog: sumunod o sundin
+KAHULUGAN SA TAGALOG
 
-   kumuyóg, kuyugán, kuyugín
+   lubák: hukay o uka sa daan na malimit panatilihan ng tubig

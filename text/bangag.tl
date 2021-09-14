@@ -1,4 +1,5 @@
 
+
    IFRAME:
    https://www.fiverr.com/embed_gigs?id=U2FsdGVkX1+CFUvPA6U6f9Q8B066qG
    3SoJUc4gasZRoKeniO9FhK/9jXOeYNRzwGINh7+BcRfPMXTYsa6SZt5uMl6Cd78wxViy6B+
@@ -10,14 +11,25 @@
    6MhvtR0SsbffhBPnx58TVML0UMIMR4TUZvO7rKJxIgdFJqru26DTN8iE&affiliate_id=3
    487&strip_google_tagmanager=true
 
-KUYOG
+BANGAG
 
-MGA KAHULUGAN SA TAGALOG
+   ba·ngág
+   bangag
+   to be high (on drugs, etc)
 
-   kúyog: sáma-sáma o sabay-sabay na lakad o kilos ng isang pangkat
+   bangag sa droga
+   high on drugs
 
-   kúyog: ahas na maramihan kung lumabas sa lungga upang manginain
+   bangag sa alak
+   high on liquor
 
-   kúyog: sumunod o sundin
+   bangag sa shabu
+   high on methamphetamines
 
-   kumuyóg, kuyugán, kuyugín
+KAHULUGAN SA TAGALOG
+
+   bangág: may naiibang pakiramdam bunga ng narkotiko
+
+KAHULUGAN SA TAGALOG
+
+   bángag: paggulpi o pagpalò sa pamamagitan ng kahoy
