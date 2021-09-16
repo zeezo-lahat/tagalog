@@ -5832,6 +5832,10 @@ magbigáy-pugay (pugay) mag_ [verb] to salute
 pagbibigay-pugay (pugay) [noun] saluting; giving a salute
 pagpupugay (pugay) [noun] saluting
 pugay (pugay) rt_ [noun] salute
+puksaín (puksa) _in [verb] to destroy something; to annihilate something; to massacre something; to eradicate something; to exterminate something
+pagpuksâ (puksa) pag_ [noun] extermination; annihilation
+mapuksâ (puksa) ma_ [verb] to be destroyed; to be annihilated;
+puksâ (puksa) rt_ [adjective] exterminated; annihilated
 mamulá (pula) mang_ [verb] to become red/reddish; to redden; to blush; to redden temporarily; to flush (redden)
 mapulá (pula) [adjective] red; red-colored; bloodshot
 pamumulà (pula) [noun] habitual criticism or fault finding
