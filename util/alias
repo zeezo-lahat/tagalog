@@ -135,7 +135,7 @@ pinoydict ()
 		sed '1,/Meaning of/d' | 
 		sed '/^  *Tagalog$/d' | 
 		sed '/Pinoy Dict/,$d' | 
-		grep [a-z]
+		grep '[a-z]'
 }
 pd ()
 {
