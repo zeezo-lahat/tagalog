@@ -1840,6 +1840,8 @@ dakíp (dakip) rt_ [noun] catching; arresting
 dumakíp (dakip) _um_ [verb] to catch; to apprehend; to capture; to arrest
 madakíp (dakip) ma_ [verb] to be able to catch; to be captured, caught or arrested
 pagkakadakíp (dakip) pagkaka_ [noun] arrest; capture
+dako (dako) rt_ [noun] direction; part; region; spot; around; around (+time)
+dumako (dako) _um_ [verb] to move on; to arrive at
 dala-dalá (dala) rt_rt [adjective/noun] bringing; being brought with one; something carried around
 dalahin (dala) _in [noun] load
 dalaín (dala) _in [verb] to make someone experience something unpleasant
@@ -3691,6 +3693,10 @@ kabado (kaba) sp_ [adjective] in doubt; nervous
 kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
 kabá (kaba) rt_ [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
 nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
+kabilâ (kabila) rt_ [noun] the other side; despite
+kabi-kabilá (kabila) rt_rt [adjective] on all sides
+kábilaan (kabila) _an [adjective] reversible
+sa kabilá ng (kabila) phr_ [preposition] despite; in spite of
 magkabisá (kabisa) mag_ [verb] to memorize
 ikabít (kabit) i_ [verb] to fasten; to attach; to hang
 kabitan (kabit) _an [noun] mounting; mount;
@@ -6535,6 +6541,10 @@ pagselosin (selos) pag_in [verb] to make someone jealous
 pagseselos (selos) [noun] jealousy; acting jealous
 selos (selos) rt_ [noun] jealousy
 seloso (selos) [adjective] jealous
+senyas (senyas) rt_ [noun] sign; signal
+isenyas (senyas) i_ [verb] to signal something
+pagsenyas (senyas) pag_ [noun] signalling
+magsenyas (senyas) mag_ [verb] to signal
 kaseryoso (seryoso) ka_ as serious; how serious
 magseryosó (seryoso) mag_ [verb] to be serious; to act seriously; to take something seriously
 napakaseryoso (seryoso) [adjective] very serious
@@ -6958,6 +6968,8 @@ masusì (susi) ma_ [adverb] thoroughly; diligently; carefully
 susian (susi) _an [verb] to lock with a key
 susián (susi) _an [noun] keyhole
 susì (susi) rt_ [noun] key
+sustento (sustento) rt_ [noun] sustenance; alimony
+sumustento (sustento) _um_ [verb] to sustain
 suwerte (suwerte) rt_ [noun] luck; good luck; destiny; fate
 suwertihin (suwerte) _in [verb] to be struck with good luck; to be lucky
 masuwerte (suwerte) ma_ [adjective] lucky; fortunate
@@ -7293,7 +7305,7 @@ tambalan (tambal) [noun] pair; pairing
 tambál (tambal) rt_ [noun] pair
 nakatambay (tambay) naka_ [adjective] standing around; hanging out
 tambay (tambay) rt_ [noun] loafer; vagrant; lallygag; [adjective] standing by;
-tambayan (tambay) [noun] hangout; haunt; stomping ground
+tambayan (tambay) _an [noun] hangout; haunt; stomping ground
 tambayan (tambay) _an [verb] to hang out somewhere
 tumambáy (tambay) _um_ [verb] to hang around; to hang out
 matamís (tamis) [adjective] sweet; [noun] sweets; dessert
@@ -8126,6 +8138,8 @@ matuwâ (tuwa) ma_ [verb] to be glad; to be joyful; to be happy; to enjoy; to ha
 nakatutuwâ (tuwa) nakaCV_ [adjective] amusing; interesting; funny
 tuwang-tuwâ (tuwa) [adjective] very happy; very cheerful; cheery; overjoyed; ecstatic; elated; enjoying
 tuwâ (tuwa) rt_ [noun] joy; gladness; happiness; cheer; delight
+tuwád (tuwad) rt_ [adjective] bent over; upside down
+nakatuwád (tuwad) naka_ [adjective] bent over
 ituwíd (tuwid) i_ [verb] to straighten; to correct
 katwiran (tuwid) [noun] argument; reason; justice; explanation; excuse; reasoning
 matuwíd (tuwid) [adjective] straight; righteous; correct
