@@ -111,6 +111,11 @@ kaákit-akit (akit) ka_rt_rt [adjective] attractive; alluring; enchanting; beaut
 maakit (akit) ma_ [verb] to be attracted to; to be able to attract; to entice; to seduce
 makaakit (akit) maka_ [verb] to attract; to appeal to
 umakit (akit) _um_ [verb] to attract; to seduce; to entice; to charm
+akma
+akmâ (akma) rt_ [adjective] fitted; proper; appropriate; suited; apropos; ready to do something; ready to; set; aimed
+umakmâ (akma) _um_ [verb] to get ready (to do); to be properly equipped
+iakmâ (akma) i_ [verb] to adjust something; to adapt somethign; to set something; to aim something
+naaakmâ (akma) naCV_ [adjective] fitted; suited
 Akó na namán?! (ako) phr_ [interjection] Why me?; Why does it always have to be me?
 akin (ako) conj_ [pronoun] my; mine; me; I
 akuin (ako) _in [verb] to take responsibility for something; to take over something
@@ -892,18 +897,20 @@ bahò (baho) rt_ [noun] stink; stench
 bumahò (baho) _um_ [verb] to stink
 kabahuan (baho) ka_an [noun] fetidness
 mabahuan (baho) ma_an [verb] to stink; to smell something unpleasant
-mabahò (baho) [adjective] stinky; smelly; smells bad; stinking
-napakabahò (baho) [adjective] very stinky; very smelly
-pinakamabahò (baho) [adjective] stinkiest
+mabahò (baho) ma_ [adjective] stinky; smelly; smells bad; stinking
+napakabahò (baho) napaka_ [adjective] very stinky; very smelly
+pinakamabahò (baho) pinakama_ [adjective] stinkiest
 baít (bait) rt_ [noun] kindness; goodness; niceness
 bumaít (bait) _um_ [verb] to become good; to become nice
 kabaitan (bait) ka_an [noun] kindness
-mabaít (bait) [adjective] nice; kind (character); good (character); well behaved; generous; friendly; benevolent
+mabaít (bait) ma_ [adjective] nice; kind (character); good (character); well behaved; generous; friendly; benevolent
 magbaít (bait) mag_ [verb] to act properly; to be good
 magpakabaít (bait) magpaka_ [verb] to be nice; to make nice
 masiraan ng baít (bait) ma_an [verb] to lose one's cool
-napakabaít (bait) [adjective] very nice; very kind
-pinakamabaít (bait) [adjective] nicest; kindest; friendliest
+napakabaít (bait) napaka_ [adjective] very nice; very kind
+pinakamabaít (bait) pinaka_ [adjective] nicest; kindest; friendliest
+mabagók (bagok) ma_ [verb] to get bumped (AF); to bump something (OF)
+bagók (bagok) rt_ [noun] bump; bump one's head on something
 baka (baka) rt_ [noun] cow; beef; cattle; fight; conflict
 bakahán (baka) [noun] ranch; cattle ranch
 bakâ (baka) rt_ [adverb] perhaps; maybe; might; possible; possibly; lest
@@ -2730,6 +2737,8 @@ pahabain (haba) pa_in [verb] to prolong; to extend
 pahabá (haba) pa_ [adverb/adjective] lengthwise; going along the length
 parihabâ (haba) pari_ [noun] rectangle; [adjective] rectangular
 pinakamahabà (haba) [adjective] longest
+hablutín (hablot) _in [verb] to grab something
+mahablót (hablot) ma_ [verb] to be able to grab something
 habol (habol) [noun] hurrying in order to overtake; pursuing; chasing; object of pursuit; claim
 habulin (habol) _in [verb] to run after something/someone; to follow behind someone; to chase after something/someone; to hound; to hunt; to pursue
 habulán (habol) [noun] chasing incident
@@ -3008,6 +3017,10 @@ higít sa lahát (higit) phr_ [phrase] above all; above all else
 higít sa sino man (higit) phr_ [phrase] more than anyone; greater than anyone else
 humigít (higit) _um_ [verb] to surpass; to exceed; to pull tight
 mahigít (higit) ma_ [adjective] more than; exceeding; over; at least; beyond; well beyond
+humigop (higop) _um_ [verb] to sip; to suck in; to slurp
+higop (higop) rt_ [noun] suction; sip; slurp
+higupin (higop) _in [verb] to suck something; to suck up something; to sip something; to slurp something
+paghigop (higop) pag_ [noun] sipping
 higpitán (higpit) _an [verb] to tighten something; to restrict something
 higpít (higpit) rt_ [noun] tightness; tight; close; closeness; strictness
 humigpít (higpit) _um_ [verb] to tighten; to become tight
@@ -3444,6 +3457,8 @@ makailán (ilan) maka_ [adverb] several times; several; [interjection] How many 
 mangilán-ngilán (ilan) mang_rt_rt [adjective/noun] a few; a couple
 nakailán (ilan) naka_ how many times (is it)
 íilán (ilan) CV_ [adjective] only a few; few only; several
+mailáp (ilap) ma_ [adjective] elusive; wild; hermitted
+iláp (ilap) rt_ [noun] elusiveness
 ilaw (ilaw) rt_ [noun] light; lamp; illumination; electricity
 ilawan (ilaw) _an [verb] to illuminate; to give light
 ilawán (ilaw) _an [noun] lamp; illumination
@@ -3693,6 +3708,9 @@ kabado (kaba) sp_ [adjective] in doubt; nervous
 kabahán (kaba) _an [verb] to feel nervous; to palpitate; to be startled; to have a premonition
 kabá (kaba) rt_ [noun] palpitation; quick heartbeat; anxiety; [adjective] beating
 nakakakabá (kaba) nakaka_ [adjective] causing heart palpitations / a quick heartbeat (scary)
+kabig (kabig) rt_ [noun] pulling towards oneself
+kumabig (kabig) _um_ [verb] to pull towards oneself
+kabigin (kabig) _in [verb] to seize something; to grab something and pull it toward oneself; to snatch something
 kabilâ (kabila) rt_ [noun] the other side; despite
 kabi-kabilá (kabila) rt_rt [adjective] on all sides
 kábilaan (kabila) _an [adjective] reversible
@@ -3805,6 +3823,9 @@ kalmado (kalma) sp_ [adjective] calm
 kalmante (kalma) _ [noun] sedative
 kumalma (kalma) _um_ [verb] to calm; to calm down
 pampakalma (kalma) pampa_ [noun] sedative; something for calming
+kalmót (kalmot) rt_ [noun] scratch (with nails); claw
+kalmutín (kalmot) _in [verb] to claw someone; to scratch someone
+kumalmót (kalmot) _um_ [verb] to claw; to scratch
 kamayán (kamay) _an [verb] to shake hands with someone
 kamayín (kamay) _in [verb] to use one's hands on something; to knead something
 kamáy (kamay) rt_ [noun] hand
@@ -6007,6 +6028,8 @@ saan-saán (saan) [pronoun] where (plural); various places
 saanmán (saan) compound_ [adverb] wherever; anywhere; everywhere
 saán (saan) rt_ [adverb] where
 tagasaán (saan) [interrogative] from where; from what place
+sabát (sabat) rt_ [noun] butting into the talk of others; unexpected answer; interruption
+masabát (sabat) ma_ [verb] to intercept something (OF)
 pagsabak (sabak) [noun] rushing into something; plunging into something
 sumabak (sabak) _um_ [verb] to plunge into (undertake something suddenly); to dive into
 isabáy (sabay) i_ [verb] to do something together; to do something at the same time; to go together with someone
@@ -6896,6 +6919,8 @@ pagkakasundo (sundo) [noun] reconciliation; harmony; unification
 sumundô (sundo) _um_ [verb] to pick up (opposite of drop off); to fetch
 sunduín (sundo) _in [verb] to pick up someone/something; to pick someone up; to fetch someone
 sundô (sundo) rt_ [noun] fetcher; someone who will pick someone else up
+masungit (sungit) ma_ [adjective] unpleasant; grouchy; strict; irritable; unfriendly; crabby; snobby; ill tempered;
+sungit (sungit) rt_ [noun] unpleasantness; unfriendliness; harshness; strictness; sternness
 alinsunod sa (sunod) [preposition] in accordance with; pursuant to
 kasunód (sunod) ka_ [adjective] after; later; following; next; subsequent
 magkakasunod (sunod) magkaka_ [adjective] consecutive
@@ -7326,6 +7351,9 @@ magtampók (tampok) mag_ [verb] to feature; to show off
 pagtatampók (tampok) [noun] featuring
 tampukán (tampok) _an [verb] to feature something
 tampók (tampok) rt_ [noun] feature; gem; [adjective] featured
+tanan (tanan) rt_ [noun] escapee; eloping
+magtanan (tanan) mag_ [verb] to elope
+itanan (tanan) i_ [verb] to escape; to elope
 makatanáw (tanaw) maka_ [verb] to be able to see from a distance
 matanáw (tanaw) ma_ [verb] to look at from distance
 pagbabalík-tana`w (tanaw) [noun] looking back
@@ -7961,7 +7989,6 @@ tuldók-kuwít (tuldok) cmp_ [noun] semicolon
 tutuldók (tuldok) CV_ [noun] colon (punctuation)
 magpatulì (tuli) magpa_ [verb] to have oneself circumcised
 magtulì (tuli) mag_ [verb] to circumcise
-matulis (tuli) ma_ [adjective] pointed; pointy; sharp point
 tuliin (tuli) _in [verb] to circumcise someone
 tulì (tuli) rt_ [noun] circumcision
 tulî (tuli) rt_ [adjective] circumcised
@@ -7971,6 +7998,9 @@ napakatulin (tulin) napaka_ [adjective] speedy; full speed
 patulín (tulin) pa_ [adjective] getting faster
 tulin (tulin) rt_ [noun] speed; [adjective] speedy
 tumulin (tulin) _um_ [verb] to accelerate
+matulis (tulis) ma_ [adjective] pointed; pointy; sharp point
+tulis (tulis) rt_ [noun] sharp end; sharp item
+patulís (tulis) pa_ [adjective] pointed
 matulog (tulog) ma_ [verb] to sleep
 mákatulog (tulog) maka_ [verb] to be able to sleep; to fall asleep
 pampatulog (tulog) pampa_ [adjective] something to cause/help with sleep
@@ -8183,7 +8213,7 @@ kaugnayan (ugnay) [noun] relation; association; relationship; affinity; relevanc
 kaugnáy (ugnay) [adjective] allied; related; relative; incidental
 mag-ugnáy (ugnay) mag_ [verb] to associate; to relate
 magkakaugnáy (ugnay) magkaka_ [adjective] connected; coherent
-makipag-ugnayan (ugnay) makapag_an [verb] to associate with; to coordinate
+makipag-ugnayan (ugnay) makipag_an [verb] to associate with; to coordinate
 pag-ugnayín (ugnay) pag_in [verb] to relate; to attach
 pagkakaugnáy (ugnay) [noun] association; relationship
 pakíkipag-ugnayan (ugnay) [noun] communication; coordination

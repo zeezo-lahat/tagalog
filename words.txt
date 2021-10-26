@@ -492,6 +492,7 @@ burak	deep mud, mire
 burarâ	careless with things and actions, untidy,sloppy, messy, slipshod
 burol	a hill
 burol	lying in state
+busisi	fastidious, overnice, slow in action; foreskin; prepuce
 butikî	lizard
 butil	grain, kernel, seed, bead
 buto	bone; seed
@@ -623,15 +624,17 @@ dilaw	yellow
 diligán	to water something; to sprinkle with water
 dilà	tongue
 dilíg	watering (of plants); irrigation
-din	too, also; nevertheless, anyway, surely; in return; pretty much
+din	too, also; pretty much, somewhat, to some extent; nevertheless, anyway, surely; in return
 dinUmog	to mob, mobbed
 dingdíng	flimsy wall; wooden wall ("pader" is for a sturdy wall)
 dinggín	to listen to, to hear (dinig)
 dinuguan	“bloodied” blood stew, meat dish
 diníg	audible
+dis-oras	at odd hours, very late
 disgrasya	mishap
 diskarte	resourcefulness, mojo, street smarts; appeal
 disényo	design
+ditse	the second eldest sister
 diwang	ceremony, celebration (prefer pagdiriwang)
 diwatà	a muse, nymph, fairy
 diwà	essence, meaning; spirit; sense, central point, meaning
@@ -836,6 +839,7 @@ hangà	admiration, appreciation, amazement (root)
 hantik	large, red, poisonous ant
 haplos	caressing, stroking, petting
 hapít	tight fitting, tense, taut
+harana	serenade
 harangin	to block
 harinawá	God willing, hopefully
 haráp	front
@@ -994,6 +998,7 @@ igalaw	to move something
 igiit	insist on; persist; obtrude; force one’s way (iginiit, iginigiit, igigiit)
 igisa	to sauté/stir-fry something
 igláp	brief moment (syn. saglit)
+iha	daughter, name for a younger girl (Spanish origin)
 ihain	to offer something; to put food on a table; to serve food; to sacrifice something. <inihain, inihahain, ihahain>
 ihayag	disclose, reveal, divulte
 ihinto	to cause to stop
@@ -1144,6 +1149,7 @@ kababalaghán	wonder, mystery; miracle; phenomenom; marvel
 kabahan	dread
 kabahanin	to dread
 kabaligtaran	(the) opposite
+kabanatà	episode, chapter
 kabaong	coffin, casket
 kabatiran	information
 kabatáan	the young, collective youth
@@ -1207,6 +1213,7 @@ kahit sino	anyone
 kahol	bark, as of a dog (also tahól)
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
+kahuyan	woodland, forest
 kahánga-hangà	wonderful, extraordinary, magnificent, amazing
 kahéra	female store cashier
 kahéro	male store cashier
@@ -1443,6 +1450,7 @@ kautusan	order, mandate, command (utos)
 kawag	wave, wag
 kawalan	loss, a lack of X, void, nothingness
 kawalang-kahulugan	“absence of meaning”, meaninglessness
+kawali	frying-pan
 kawat	stealing, theft (Visaya)
 kawatán	thief
 kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
@@ -2230,6 +2238,7 @@ maputík	muddy
 mapuyát	to lack sleep, to need sleep
 mapágbigáy	generous
 mapágmalakí	proud, snob
+mapraníng	to be paranoid (colloquial/slangy)
 marahás	violent, ferocious, audacious, drastic
 maralita	indigent, extremely poor, miserable
 maralitang taga-lungsod	urban poor
@@ -2364,6 +2373,7 @@ mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
 mithiin	crave for, long for keenly, desire vehemently
 mithî	ideal; earnest wish
+mongha	nun
 morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 multó	ghost
@@ -2786,6 +2796,7 @@ pagsasalin	translation
 pagsasatao	personification (also pagsasakatao)
 pagsasáma	relationship
 pagsikapan	to try, attempt
+pagsikil	suppression
 pagsikláb	blazing, outbreak
 pagsisikap	attempt, effort, enthusiasm, zeal
 pagsulong	progress
@@ -2881,6 +2892,8 @@ palayok	earthen pot
 palayán	rice field, rice paddy
 palengke	a traditional marketplace, especially a wet market
 paliban	postponement
+palibhasa	"for this reason", expresses that what follows is stated as a reason (also palibasa)
+palibhasa	mockery, disdain
 paligid	vicinity; circumference
 palihis	deviated, deflected, erroneous, incorrect
 palikuran	a toilet, especially an outhouse
@@ -2956,6 +2969,7 @@ pangkalahátan	general
 pangkalakal	trade, business
 pangkaraniwan	normal, typical; common, ordinary; mediocre; widespread; colloquial; routine
 pangkat	group, party; section; division (book); article; segment
+pangongotong	extortion (kotong)
 pangulo	president
 pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
 pangungulila	homesickness
@@ -3025,6 +3039,7 @@ pasamain	to make worse
 pasarapin	to make delicious
 pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
+pasíkot-sikot	roundabout, ins and outs, twists and turns; way around, getting around
 pasimuno	perpetrator
 pasinayà	inauguration
 pasintabi	please step aside, please let me pass ("pasintabi po")
@@ -3109,6 +3124,7 @@ pinapasok	to allow to enter
 pinapuntá	(ng) sent (ang) somewhere
 pinatakas	allowed to escape
 pinauso	brought into vogue
+pindot	squeezing
 pinigilan	stopped from doing something
 pino	thin, light
 pinsala	damages, losses, harm
@@ -3128,6 +3144,7 @@ polusyon	pollution
 pook-pamilíhan	literally “marketplace”
 porsiyénto	percent (syn: bahagdán)
 poók	place, site
+praníng	"paranoid" (newish colloquial term)
 preno	brake
 preso	prisoner
 prito	fried
@@ -3213,7 +3230,7 @@ reklámo	complain
 repaso	review, going over
 reseta	prescription
 resibo	receipt
-rin	also, too; anyway, regardless
+rin	also, too; anyway, regardless; to some extent (see "din")
 rosas	pink
 rámbol	fight involving multiple participants
 ríles	rails, train rails, railroad rails (sp. carriles)
@@ -3383,6 +3400,9 @@ sigà	bully
 sigâ	blaze; bonfire
 sikap	diligence, hard work
 sikapin	to try, seek
+sikil	pushing; jostling (esp. with elbows/shoulders); oppression, ill-treatment
+sikil	oppressed, ill-treated
+sikilin	to suppress something
 siklista	bicyclist
 sikláb	blaze, flame
 siko	elbow
@@ -3712,6 +3732,7 @@ tipon	a collection; saving of money; savings; gathering; collected; gathered tog
 tipunin	to collect, to gather together, to store away.
 tira	residence; enduring; left-over, residue
 tirhan	to spare, set aside for someone
+tisay	fair skinned, mixed-race (from mestiso. mestisa/tisay?)
 titik	(n) text, writing; lyric; letter (of alphabet)
 titik-hilig	italics
 tiwala	trust, faith
@@ -3923,6 +3944,7 @@ uwian	usual time to go home, dismissal time
 uwî	return home; something brought home
 uyam	mocking; jeering; sarcasm
 wagás	pure, perfect
+wais	wise, cunning
 wala sa kanyang sarili	absent-minded, not being oneself
 walang anu-ano	unexpectedly
 walang-antala	without delay
@@ -3999,3 +4021,4 @@ yáring-kamáy	handmade
 úsap	talking to each other
 úsig	prosecute, persecute, investigation (also tugis)
 útos	command, order
+yungib	cave, dome, den
