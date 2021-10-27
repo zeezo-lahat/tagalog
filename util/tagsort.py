@@ -69,14 +69,15 @@ def characterordering():
 def getstrindex(mystr: str) -> tuple:
     """map string to two bytearrays to be used as sort key function"""
     allchars = characterordering()
-    strcharbytes = bytearray(255)
-    strattrbytes = bytearray(255)
+    # initialize empty arrays for this string:
+    strcharbytes = bytearray()
+    strattrbytes = bytearray()
     for x in mystr:
         if x == linetermchar:
             break
-        # default value for chars that we have not enumerated
-        charbytes = bytearray(255)
-        attrbytes = bytearray(255)
+        # default value for chars that we have not enumerated "\xff"
+        charbytes = bytearray([255])
+        attrbytes = bytearray([255])
         for c in allchars:
             if x in c:
                 charindex = allchars.index(c)
