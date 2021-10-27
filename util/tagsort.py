@@ -1,82 +1,110 @@
 #!/usr/bin/env python3
-'''sort stdin, print to stdout
-'''
+"""sort Tagalog text by line
+
+   * handles input which includes vowels adorned with pronunciation diacritics,
+     plain upper and lower case letters, and all other printable ascii chars
+   * reads stdin, print to stdout
+   * by default, lines are sorted up to any '\t' char.  override with '-t', eg:
+       -t ' ': sort lines up to space char
+       -t '': sort full lines
+   * two-tiered sort:
+       primary: letters of the alphabet
+       secondary: letter attributes (uppercase precedes lowercase, accents follow.
+       eg: "I", "i", "ì", "í", "î")
+   * non-letters precede letters
+   * example of sorting order:
+   yarì    manufacture; making, constructing
+   yarí    this
+   yarî    made, made of, finished, ready-made, ready
+   yariin  to manufacture, construct
+   yáring-kamáy    handmade
+"""
 import sys
-#mycharorder = 'AaàáâBbCcDdEeéFfGgHhIiìíîJjKkLlMmNnOoòóôPpQqRrSsTtUuúVvXwXxYyZz'
-mychars = (
-("A", "a", "à", "á", "â"),
-("B", "b"),
-("C", "c"),
-("D", "d"),
-("E", "e", "é"),
-("F", "f"),
-("G", "g"),
-("H", "h"),
-("I", "i", "ì", "í", "î"),
-("J", "j"),
-("K", "k"),
-("L", "l"),
-("M", "m"),
-("N", "n"),
-("O", "o", "ò", "ó", "ô"),
-("P", "p"),
-("Q", "q"),
-("R", "r"),
-("S", "s"),
-("T", "t"),
-("U", "u", "ú"),
-("V", "v"),
-("W", "w"),
-("X", "x"),
-("Y", "y"),
-("Z", "z"),
-)
-def gettagindex(mystr):
-    indexes = []
+
+linetermchar = '\t'
+if len(sys.argv) > 1:
+    if len(sys.argv[1]) == 1:
+        linetermchar = sys.argv[1]
+        if linetermchar == "X":
+            linetermchar = ''
+    else:
+        raise SystemExit(f'Usage: {sys.argv[0]} [single-char-sort-terminator]'
+                '\n  (the line-sort terminator character defaults to tab, "\\t"'
+                '\n  the value "X" means "sort the whole line")'
+                )
+
+def characterordering():
+    """define the character ordering in tiers given by tuples"""
+    nonletters = [tuple(c for c in r''' !"#$%&'()*+,-./0123456789:;<=>?@[\]^_''')]
+    letters = [
+        ("A", "a", "à", "á", "â"),
+        ("B", "b"),
+        ("C", "c"),
+        ("D", "d"),
+        ("E", "e", "é"),
+        ("F", "f"),
+        ("G", "g"),
+        ("H", "h"),
+        ("I", "i", "ì", "í", "î"),
+        ("J", "j"),
+        ("K", "k"),
+        ("L", "l"),
+        ("M", "m"),
+        ("N", "n"),
+        ("O", "o", "ò", "ó", "ô"),
+        ("P", "p"),
+        ("Q", "q"),
+        ("R", "r"),
+        ("S", "s"),
+        ("T", "t"),
+        ("U", "u", "ú"),
+        ("V", "v"),
+        ("W", "w"),
+        ("X", "x"),
+        ("Y", "y"),
+        ("Z", "z"),
+    ]
+    return nonletters + letters
+
+def getstrindex(mystr: str) -> tuple:
+    """map string to two bytearrays to be used as sort key function"""
+    allchars = characterordering()
+    strcharbytes = bytearray(255)
+    strattrbytes = bytearray(255)
     for x in mystr:
-        letterindex = 0
-        got = 999
-        for c in mychars:
-            if x in c[0]:
-                got = letterindex
+        if x == linetermchar:
+            break
+        # default value for chars that we have not enumerated
+        charbytes = bytearray(255)
+        attrbytes = bytearray(255)
+        for c in allchars:
+            if x in c:
+                charindex = allchars.index(c)
+                attrindex = c.index(x)
+                charbytes = bytearray([charindex])
+                attrbytes = bytearray([attrindex])
                 break
-            else:
-                letterindex += 1
-        indexes.append(got)
-    return indexes
+        strcharbytes += charbytes
+        strattrbytes += attrbytes
+    return (strcharbytes, strattrbytes)
       
-assert gettagindex("Ab") < gettagindex("ab")
-assert gettagindex("ábot") < gettagindex("ac")
-assert gettagindex("a") < gettagindex("B")
-assert gettagindex("áb") < gettagindex("ba")
-assert gettagindex("ab") < gettagindex("bá")
-assert gettagindex("á") < gettagindex("â")
-assert gettagindex("â") < gettagindex("B")
-assert gettagindex("é") < gettagindex("í")
-assert gettagindex("é") < gettagindex("w")
-def tcmp(string):
-    # if any chars in the input are not in this string, you're screwed..
-    sortstr=" !'(),-./;<>AaàáâBbCcDdEeéFfGgHhIiìíîJjKkLlMmNnOoòóôPpQqRrSsTtUuúVvXwXxYyZz’…\n\t"
-    r = []
-    for c in string:
-        try:
-            r.append(sortstr.index(c))
-        except Exception as e:
-            #print('got', e, 'on char: ', c)
-            r.append(99)
-    return r
+assert getstrindex("Ab") < getstrindex("ab")
+assert getstrindex("ábot") < getstrindex("ac")
+assert getstrindex("a") < getstrindex("B")
+assert getstrindex("áb") < getstrindex("ba")
+assert getstrindex("ab") < getstrindex("bá")
+assert getstrindex("á") < getstrindex("â")
+assert getstrindex("â") < getstrindex("B")
+assert getstrindex("é") < getstrindex("í")
+assert getstrindex("é") < getstrindex("w")
+if linetermchar:
+    assert getstrindex(f'yarì{linetermchar}manufacture; making, constructing') < \
+       getstrindex(f'yarí{linetermchar}this') < \
+       getstrindex(f'yarî{linetermchar}made, made of, finished, ready-made, ready') < \
+       getstrindex(f'yariin{linetermchar}to manufacture, construct') < \
+       getstrindex(f'yáring-kamáy{linetermchar}handmade')
 
 lines = sys.stdin.readlines()
-lines.sort(key=gettagindex)
+lines.sort(key=getstrindex)
 for line in lines:
     print(line, end='')
-
-assert tcmp('Bathalà') == tcmp('bathala')
-assert tcmp('bathalà', 'bathalA') == 0
-assert tcmp('bathalà', 'cathalà') == 1
-assert tcmp('Bathalà', 'Bathalàb') == -1
-assert tcmp('Poón', 'pOOn') == 0
-assert tcmp('abala', 'abalá') == 0
-assert tcmp('Báklá', 'baklâ') == 0
-assert tcmp('útos', 'utós') == 0
-

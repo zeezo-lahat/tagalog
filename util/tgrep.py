@@ -1,7 +1,8 @@
-#!/usr/bin/python3
-from collections import defaultdict
-import sys
+#!/usr/bin/env python3
+"""grep for"""
 import re
+import sys
+from collections import defaultdict
 
 # expand matches for the vowels, so that eg "a" matches "à", "á", etc.
 _a = '[aAáàâ]'
@@ -20,7 +21,7 @@ try:
     #mysearchstring = sys.argv[2]
     mysearchstring = sys.argv[1]
 except:
-    print('I need a filename and a pattern to search, dumb-ass')
+    print('I need a filename and a pattern to search..')
     exit(1)
 
 newsearch = ''
