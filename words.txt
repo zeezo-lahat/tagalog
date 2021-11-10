@@ -297,6 +297,7 @@ bangág	to be high (on drugs, etc)
 bangís	savageness, viciousness, fierceness, ferociousness
 bangús	milkfish
 bansâ	nation, state, country
+bansót	stout (rude); stunted in growth
 bantulót	hesitation, reluctance (syn. atubilí)
 bantáy	guard, sentry, look after
 bantâ	threat, suspicion, notion, intention
@@ -1411,6 +1412,7 @@ katakám-takám	very delicious
 katalo	opponent
 katambál	a partner, someone you’re paired with
 katamtáman	comfortable, moderate; just enough; average
+katangahán	stupidity, lack of intelligence
 katanggap-tanggap	acceptable
 katangian	characteristic, trait; attribute, feature
 katanungan	question
@@ -1850,6 +1852,7 @@ mag-ingay	to make loud noise
 mag-isa	to be alone
 mag-isip	to think of a plan
 mag-ulat	to report, give an account of
+mag-ungkat	to bring up again
 magaan	light, not heavy (gaan)
 magagawa	able to be done
 magalak	to rejoice
@@ -2077,6 +2080,7 @@ makipaggitgitan	(gitgit) to advance by repeated slight movements, to go forward 
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
 makipagpalitan	to exchange, to barter
+makipagtagísan	to compete (in brains or speech)
 makipagtalik	to have sex
 makisabay	to go at the same time
 makislap	luminous, brilliant, glittering, lambent, lucent
@@ -2097,6 +2101,7 @@ malampasan	be able to overtake
 malamán	meaty (lamán)
 malamáng	probably, likely
 malamáng na hindi	unlikely
+malaot	far away, far out in the open sea
 malapit	to approach, impend, be near at hand (nalalapit, nalapit, malalapit)
 malapít	emotionally close
 malas	bad luck; unlucky; intent or searching look
@@ -2271,6 +2276,7 @@ masiglá	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, bris
 masigásig	enthusiastic
 masikap	diligent, industrious
 masikip	tight, congested (as in traffic)
+masikmura	to be able to stomach something
 masilaw	dazzled
 masinsin	dense
 masipag	hardworking
@@ -3359,7 +3365,7 @@ sanhî	cause, motive, reason
 sanáy	skilled, proficient, used to
 sapa	small stream, brook
 sapagkát	because, since
-sapak	hit, punch, smack, beat
+sapák	hit, punch, smack, beat
 sapok	a hit, punch (buntal, bigawas, suntok, dagok, dunggol)
 sapól	at the very beginning; straight, direct
 sapúl	since; to hit a target (syn. tamaan)
@@ -3405,6 +3411,7 @@ sikil	oppressed, ill-treated
 sikilin	to suppress something
 siklista	bicyclist
 sikláb	blaze, flame
+sikmurà	stomach, upper stomch
 siko	elbow
 siksik	crammed, tightly packed
 siksíkan	packed, crowded
@@ -3571,6 +3578,7 @@ tagausig	prosecutor
 tagay	a toast in drinking; term in Batangas for a little girl
 tagilid	tilt, slant
 tagiliran	side; boundary; either side (eg, left or right) of something
+tagísan	a competition, esp. regarding intelligence/wits
 taglagas	autumn
 tagláy	possessing, possessed
 tagpuan	meeting place, rendezvous
@@ -3783,6 +3791,8 @@ tulakin	to push/shove something
 tularan	imitate
 tulay	bridge
 tuligsa	invective, public attack in words
+tulis	a sharp end, point
+tulisan	highwayman, brigand, bandit; to sharpen
 tuloy-tuloy	continual/continuous, straight and unchanging
 tulóy	proceeding, entering, continuing, progressing
 tulóy	to enter, stay somewhere; as a result of (cause/effect)
@@ -3902,6 +3912,7 @@ umanó	alleged(ly), supposed(ly), purported(ly), "it is said"
 umapaw	to overflow
 umawit	to sing
 umayos	to behave
+umimík	to talk, speak
 umiinom	drinking
 umiiral	is existing
 umiskór	to score
@@ -3919,6 +3930,7 @@ unang-una	firstly, first of all
 unano	dwarf, pigmy, midget
 unawa	to understand, comprehend (like intindi)
 unawain	to understand, to grasp mentally
+ungkatin	to bring up again
 untî	bit, small amount
 untî-untî	gradually
 unós	tempest, storm

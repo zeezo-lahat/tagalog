@@ -243,6 +243,9 @@ alayan (alay) _an [verb] to offer something to someone
 ialay (alay) i_ [verb] to dedicate something; to offer something
 mag-alay (alay) mag_ [verb] to offer; to dedicate
 pag-aalay (alay) pagCV_ [noun] dedication; offering
+alinlangan (alinlangan) rt_ [noun] doubt; doubting; uncertainty; [adverb] uncertainly
+mag-alinlangan (alinlangan) mag_ [verb] to doubt
+pag-aalinlangan (alinlangan) pagCV_ [noun] hesitation; doubts; doubting
 Alís! (alis) rt_ [interjection] Leave!; Get outta here!
 alisán (alis) _an [verb] to remove something from something/someone; to take something away from someone; * focus on the thing/person that is having something taken away /removed
 alisín (alis) _in [verb] to remove something; to take something off; to take something away; to get rid of something; to eliminate something; to delete something; to cancel something
@@ -1106,7 +1109,10 @@ babasahín (basa) CV_in [noun] reading material
 basahan (basa) _an [verb] to read to someone; * focus on the person being read to SS
 basahin (basa) _in [verb] to read something SS
 basâ (basa) rt_ [adjective] wet
-basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
+basâ ang papél (basâ) id_ [idiomatic] having a bad reputation (literally(basa) wet paper)
+bastá (basta) rt_ [adverb] just so long as; provided that; only; just; simply; enough; that's all; sufficient; as long as; make sure you; [interjection] stop!; for no reason!; just because!; anything for (you/him/her)
+basta-bastá (basta) rt_rt [adverb] merely; lightly; [adjective] just any (person/thing/etc.)
+bastá na lang (basta) phr_ anything at all just so something might happen
 bumasa (basa) _um_ [verb] to read
 ibasa (basa) i_ [verb] to read something for someone
 ipabasa (basa) ipa_ [verb] to have something read
@@ -2795,6 +2801,9 @@ halík (halik) rt_ kiss
 humalík (halik) _um_ [verb] to kiss
 maghalikan (halik) mag_an [verb] to kiss one another
 paghalík (halik) pag_ [noun] kissing
+halili (halili) rt_ [noun] replacement; substitute; successor
+humalili (halili) _um_ [verb] to replace
+kahalili (halili) ka_ [noun] replacement; substitute; successor
 mahalina (halina) ma_ [verb] to be charmed (AF); to be fascinated (AF); to be enticed (AF); to entice someone (OF)
 halina (halina) rt_ [noun] charm; shortened form of "halika na" = come here
 humalina (halina) _um_ [verb] to charm
@@ -3490,6 +3499,9 @@ imbitahín (imbita) _in [verb] to invite someone
 imbitasyón (imbita) sp_ [noun] invitation
 mag-imbitá (imbita) mag_ [verb] to invite
 pag-imbitá (imbita) pag_ [noun] inviting
+umimík (imik) _um_ [verb] to make a sound; to speak; to break the silence; to mutter
+imík (imik) rt_ [noun] talk; answer; reply; utterance; peep; breaking the silence
+walang-imík (imik) phr_ [adjective] reticent
 inahín (ina) _in [noun] female animal
 inakáy (ina) _ [noun] birdling; young bird; baby bird
 inaín (ina) _in [noun] stepmother
@@ -3978,6 +3990,10 @@ kayód (kayod) rt_ [noun] grating; scraping; hard work; scraping by
 kumayod (kayod) _um_ [verb] to work hard; to toil
 káyod-kalabáw (kayod) compound_ [adjective] hardworking; diligent
 pangayod (kayod) pang_ [noun] abrasive; scraper
+kibô (kibo) rt_ [noun] movement; action; breaking of silence
+kumibô (kibo) _um_ [verb] to move
+kibuín (kibo) _in [verb] to move; to break the silence
+walang-kibô (kibo) phr_ [adjective] silent; motionless
 pangingikil (kikil) pangCV_ [noun] extortion; shakedown
 kikilan (kikil) _an [verb] to extort
 kikil (kikil) rt_ [noun] extortion; filing down; nail filing
@@ -6775,7 +6791,11 @@ pagsitá (sita) [noun] questioning; interrogating
 paninitá (sita) [noun] interrogating; questioning; grilling (questioning)
 sitahín (sita) _in [verb] to question someone; to interrogate someone
 sitá (sita) rt_ [noun] questioning; interrogating
-ang siyang (siya) the one; the one who; the person
+isiwalat (siwalat) i_ [verb] to reveal something; to confess something; to divulge something
+pagsisiwalat (siwalat) pagCV_ [noun] revelation; confession
+magsiwalat (siwalat) mag_ [verb] to confess; to disclose
+siwalat (siwalat) rt_ [noun] disclosure; confession; revelation
+ang siyang (siya) phr_ the one; the one who; the person
 kasiyahan (siya) ka_an [noun] happiness; satisfaction; complacency; gratification; pleasure
 magbigáy-kasiyahan (siya) ka_an [verb] to satisfy
 masiyahán (siya) ma_an [verb] to approve; to be satisfied; to be contented
@@ -7462,7 +7482,7 @@ patanóng (tanong) pa_ [adjective] interrogative; uncertain;[adverb] questioning
 tagapagtanóng (tanong) [noun] interrogator
 tanungín (tanong) _in [verb] to ask about something; to ask someone; to ask something; to question someone; to interrogate someone;
 tanóng (tanong) rt_ [noun] question
-karapatáng pantao (tao) [noun] human rights
+karapatáng pantao (tao) phr_ [noun] human rights
 katao (tao) [noun] person; human being
 katauhan (tao) [noun] personality; reputation; person; character; identity
 makatao (tao) [adjective] humane; for humanity
@@ -7473,7 +7493,7 @@ pagkatao (tao) [noun] personality; character
 panao (tao) pang_ [adjective] personal
 panauhan (tao) pang_an [grammar] person (e.g., 1st person, 2nd person, etc.)
 panauhin (tao) pang_in [noun] guest
-pantao (tao) pan_ [adjective] human
+pantao (tao) pang_ [adjective] human
 sa katauhan ni (tao) phr_ [phrase] in the person of
 sángkatauhan (tao) sangka_an [noun] humankind
 tao (tao) rt_ [noun] person; people

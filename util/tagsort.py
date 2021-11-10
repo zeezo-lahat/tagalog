@@ -13,6 +13,10 @@
        eg: "I", "i", "ì", "í", "î")
    * non-letters precede letters
    * example of sorting order:
+   ábot    reach, power, capacity
+   abot-kamay      within reach
+   ábot ng isip    scope
+   abot-tanaw      horizon
    yarì    manufacture; making, constructing
    yarí    this
    yarî    made, made of, finished, ready-made, ready
