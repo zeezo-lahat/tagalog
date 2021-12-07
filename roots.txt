@@ -894,6 +894,9 @@ maybahay (bahay) [noun] wife; housewife; (literally(bahay) one who "has the hous
 pabahay (bahay) pa_ [noun] housing
 pamamahay (bahay) pangCV_ [noun] household; home
 pambahay (bahay) pang_ [noun] domestic; indoor; for the house; household item
+bahid (bahid) rt_ [noun] blot; moral stain; streak
+mabahiran (bahid) ma_an [verb] to be stained (AF); to stain something (OF)
+bahiran (bahid) _an [verb] to stain
 bahista (baho) [noun] bass player
 baho (baho) rt_ [noun] bass
 bahò (baho) rt_ [noun] stink; stench
@@ -917,7 +920,7 @@ bagók (bagok) rt_ [noun] bump; bump one's head on something
 baka (baka) rt_ [noun] cow; beef; cattle; fight; conflict
 bakahán (baka) [noun] ranch; cattle ranch
 bakâ (baka) rt_ [adverb] perhaps; maybe; might; possible; possibly; lest
-karnéng-baka (baka) [noun] beef
+karnéng-baka (baka) cmp_ [noun] beef
 pagbaka (baka) pag_ [noun] fighting against something (that is bad or wrong)
 pakikibaka (baka) pakiki_ [adjective] starting to fight
 bakasán (bakas) _an [verb] to put marks; to put traces on
@@ -1638,6 +1641,8 @@ bulâ (bula) rt_ [noun] bubbles; soapsuds; suds; foam; froth; [adjective] fleeti
 bumulâ (bula) _um_ [verb] to bubble
 mabulâ (bula) ma_ [adjective] sudsy
 pábulá (bula) sp_ [noun] fable
+pabulaanan (bulaan) pa_an [verb] to refute something; to deny something
+bulaan (bulaan) rt_ [noun] liar; [adjective] deceitful
 bulagin (bulag) _in [verb] to blind; to make blind
 bulág (bulag) rt_ [adjective] blind
 bumulag (bulag) _um_ [verb] to blind; to make blind
@@ -2780,6 +2785,10 @@ napakamahalagá (halaga) napakama_ [adjective] crucial; critical; most important
 pagpápahalagá (halaga) pagpapa_ [noun] appreciation; esteem; emphasis
 pahalagahán (halaga) pa_an [verb] to appreciate something; to value something; to esteem something; to prize something
 pínakamahalagá (halaga) pinakama_ [adjective] most important; most valuable
+halakhák (halakhak) rt_ [noun] loud laugh; guffaw; burst of laughter; boisterous laugh
+humalakhák (halakhak) _um_ [verb] to laugh loudly; to guffaw
+halakhakan (halakhak) _an [noun] laughing loudly as a group
+halakhakán (halakhak) _an [verb] to laugh loudly (at something)
 halalan (halal) _an [noun] election
 halál (halal) rt_ [noun] vote; [adjective] elected
 ihalál (halal) i_ [verb] to vote for; to elect
@@ -3352,6 +3361,10 @@ pagkahulog (hulog) pagka_ [noun] fall
 pakahulugán (hulog) paka_an [noun] interpretation
 síngkahulugán (hulog) singka_an [noun] synonym
 taláhuluganan (hulog) tala_anan [noun] dictionary; glossary
+mahumaling (humaling) ma_ [verb] to fancy; to like
+pagkahumaling (humaling) pagka_ [noun] craze; obsession
+humaling (humaling) rt_ [noun] extreme fondness; great liking; obsession; fascination
+nakakahumaling (humaling) nakaka_ [adjective] enchanting; enthralling
 hindí mahusay (husay) phr_ [adverb] poorly; badly
 husay (husay) rt_ [noun] skill; quality; perfection
 ihusay (husay) i_ [verb] to make improvements
@@ -4309,6 +4322,10 @@ lumaganap (laganap) _um_ [verb] to become widespread; to circulate; to spread
 paglaganap (laganap) pag_ [noun] circulation; spread; dissemination
 pagpapalaganap (laganap) pagpapa_ [noun] spread; spreading
 palaganapin (laganap) pa_in [verb] to spread something
+lagás (lagas) rt_ [adjective] fallen; fallen off; something fallen off of something else; something shed; fallen of due to age or being wilted
+malagas (lagas) ma_ [verb] to fall off; to fall out; to fall out (as in an armed force)
+nalagas (lagas) na_ [adjective] fallen; fallen off
+taglagás (lagas) tag_ [noun] autumn; fall
 ilagáy (lagay) i_ [verb] to place something; to put something; to lay something
 ipalagáy (lagay) ipa_ [verb] to consider; to suppose; to assume; to attribute; to conclude; to deem
 kalagayan (lagay) ka_an [noun] condition; position; situation; circumstance
@@ -5775,6 +5792,10 @@ ipihit (pihit) i_ [verb] to turn something; to twist something
 pagpihit (pihit) [noun] turning
 pihit (pihit) rt_ [noun] turn
 pihitán (pihit) _an [noun] switch; dial
+nakapiít (piit) naka_ [adjective] in jail; in prison; jailed; imprisoned
+piitan (piit) _an [noun] prison
+mapiít (piit) ma_ [verb] to be imprisoned; to be cornered
+piít (piit) rt_ [noun] prisoner; [adjective] imprisoned
 ipikít ang matá (pikit) i_ [verb] to close one's eyes; to ignore
 mapapikít (pikit) mapa_ [verb] to involuntarily close one's eyes
 nakapikít (pikit) naka_ [adjective] with eyes closed
@@ -6882,6 +6903,8 @@ sukat (sukat) rt_ [noun] measurement; size; dimensions; gauge
 sukatan (sukat) _an [verb] to measure someone (i.e., for clothing)
 sukatin (sukat) _in [verb] to measure something; to gauge something; to fit out something
 sumukat (sukat) _um_ [verb] to measure
+suklám (suklam) rt_ [noun] loathing; disgust; aversion
+masuklám (suklam) ma_ [verb] to abhor; to detest
 isukò (suko) i_ [verb] to surrender something; to relinquish something; to give up something; to bow to something/someone
 masukuín (suko) [adjective] easy to quit
 pagsukò (suko) [noun] surrendering; submitting
@@ -7263,6 +7286,7 @@ nakatalagá (talaga) naka_ [adjective] prepared
 pagkakatalagá (talaga) pagkaka_ [noun] intention; appropriation; role
 talagá (talaga) rt_ [adverb] really; just; certainly; definitely; actual; in fact; downright; indeed; surely
 talakay (talakay) rt_ [noun] discussion
+tálakayán (talakay) _an [noun] conference; discussion
 talakayin (talakay) _in [verb] to discuss something
 tumalakay (talakay) _um_ [verb] to discuss
 matalas (talas) ma_ [adjective] sharp; sharp edge; sharpened; keen; clever; acute; astute
@@ -7765,11 +7789,22 @@ magtiklóp (tiklop) mag_ [verb] to fold
 tiklupín (tiklop) _in [verb] to fold
 tiklóp (tiklop) rt_ [noun] fold
 tumiklóp (tiklop) _um_ [verb] to fold; to fold in on oneself
+tiktík (tiktik) rt_ [noun] detective; spy; secret agent; look out
+paniniktík (tiktik) pangCV_ [noun] spying; espionage
+mamutiktík (tiktik) mang_ [verb] to be abundant; to be full of
+magtílian (tilî) mag_an [verb] to shriek as a group; to shriek together
+tilî (tilî) rt_ [noun] shriek; scream; squeal
+tilián (tilî) _an [verb] to shriek at someone/something; to scream at someone/something
+tumilî (tilî) _um_ [verb] to shriek; to screech
 magpanatili (tili) magpang_ [verb] to preserve; to retain; to maintain
-magtílian (tili) mag_an [verb] to shriek as a group; to shriek together
+manatili (tili) ma_ [verb] to remain; to stay; to be permanent; to keep; to maintain
+mapanatili (tili) mapa_ [verb] to be able to maintain; to retain
+panatilihin (tili) pa_in [verb] to preserve something; to keep something; to keep something in check; to maintain something; to retain something
+pananatilì (tili) paCV_ [noun] residing; continued stay; permanence; persistence
 tilián (tili) _an [verb] to shriek at someone/something; to scream at someone/something
-tilî (tili) rt_ [noun] shriek; scream; squeal
-tumilî (tili) _um_ [verb] to shriek; to screech
+pagpápanatili (tili) pagpapa_ [noun] preservation; retention; perpetuation
+mapatilî (tili) mapa_ [verb] to suddenly shriek or scream
+tagapanatili (tili) tagapag_ [noun] preserver; keeper
 magtimbáng (timbang) mag_ [verb] to weigh
 panimbáng (timbang) [noun] balance
 timbangan (timbang) [noun] weighing scale; balance
@@ -7802,6 +7837,14 @@ tindí (tindi) rt_ [noun] intensity; stress; strain
 tumindí (tindi) _um_ [verb] to become serious; to become intense; to get stronger (in intensity)
 manindigán (tindig) ma_an [verb] to strongly argue for; to strongly maintain (an argument); to stand one's ground
 nakatindíg (tindig) naka_ [adjective] stands; is standing
+panínindigan (tindig) [noun] affirmation; resolve; support
+tindíg (tindig) rt_ [noun] bearing; posture; stance; comportment
+tumindíg (tindig) _um_ [verb] to stand up; to arise
+itingalâ (tingala) i_ [verb] to tilt upwards
+nakatingalâ (tingala) naka_ [adjective] tilted upward; looking upward
+tingalaín (tingala) _in [verb] to look up to something/someone; to respect something/someone
+tingalâ (tingala) rt_ [adjective] looking upward; tilted upward
+tumingalâ (tingala) _um_ [verb] to look upward; to look up
 panínindigan (tindig) [noun] affirmation; resolve; support
 tindíg (tindig) rt_ [noun] bearing; posture; stance; comportment
 tumindíg (tindig) _um_ [verb] to stand up; to arise
@@ -8548,7 +8591,7 @@ yakap (yakap) rt_ [noun] hug; embrace
 yakapin (yakap) _in [verb] to hug someone/something; to embrace someone/something; to cuddle something/someone
 yumakap (yakap) _um_ [verb] to hug; to embrace
 anak-mayaman (yaman) compound_ [noun] rich kid; rich child
-ingatáng-yaman (yaman) compounc_ [noun] treasury
+ingatáng-yaman (yaman) compound_ [noun] treasury
 kayamanan (yaman) ka_an [noun] riches; wealth; being wealthy
 likás-yaman (yaman) compound_ [noun] natural treasure; natural wonder; natural riches
 magpayaman (yaman) magpa_ [verb] to enrich; to cultivate
