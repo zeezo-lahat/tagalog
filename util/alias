@@ -150,7 +150,7 @@ pd ()
 }
 getlang () 
 { 
-    lynx -dump https://www.tagaloglang.com/$1/ | sed '1,/INS: :INS/d' | sed '/INS: :INS/,$d' | sed '/implemented/d' | sed 's/\[7.\]//' | sed 's/\[7.\]//g'
+    lynx -dump https://www.tagalog.com/$1/ | sed '1,/INS: :INS/d' | sed '/INS: :INS/,$d' | sed '/implemented/d' | sed 's/\[7.\]//' | sed 's/\[7.\]//g'
 }
 tl ()
 {

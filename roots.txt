@@ -60,6 +60,10 @@ agarín (agad) _in [verb] to do without delay; to do promptly
 agád (agad) rt_ [adverb] right (away/after/etc); immediately; right away; quickly; soon; soon; so soon; readily; suddenly; without delay; at once; promptly; [adjective] urgent
 agád-agád (agad) rt_rt_ [adverb] immediately; right away; at once
 kaagád (agad) ka_ [adverb] right away; immediately; instantly
+maagapan (agap) ma_an [verb] to be able to be prepared for something; to be able to prevent something; to be able to anticipate something
+maagap (agap) ma_ [adjective] prompt; alert; punctual; quick; [adverb] promptly; quickly
+agapan (agap) _an [verb] to anticipate something; to be on the alert for something; to prevent something
+agap (agap) rt_ [noun] quickness; promptness; anticipation; prevention
 agapay (agapay) rt_ [adjective] side by side; [adverb] alongside
 iagapay (agapay) _ [verb] to put alongside another
 kaagapay (agapay) ka_ [noun] someone by one's side
@@ -274,6 +278,8 @@ mag-alíw (aliw) mag_ [verb] to enjoy oneself
 nakakaalíw (aliw) nakaka_ [adjective] entertaining; amusing
 pang-alíw (aliw) pang_ [adjective] something for comfort or pleasure
 umalíw (aliw) _um_ [verb] to console or comfort
+almá (alma) rt_ [noun] tantrum; having a fit; uprising; rising in protest
+umalmá (alma) _um_ [verb] to have a tantrum; to buck (like a horse); to speak up about something
 alugín (alog) _in [verb] to shake the contents of something; to shake something
 alóg (alog) rt_ [noun] shake; shaking up/off; jerking
 maalóg (alog) ma_ [adjective] shaky
@@ -356,6 +362,9 @@ umandár (andar) um_ [verb] to start; to start running; to move
 paandarín (andar) pa_in [verb] to cause something to operate; to cause to run or set in motion; to drive something
 andár (andar) rt_ [noun] running; operation; operating; functioning; working; activity
 pag-andár (andar) pag_ [noun] working; running
+umangal (angal) _um_ [verb] to whine; to bellow; to bawl
+angal (angal) rt_ [noun] howling cry; bellow; severe crying
+angalan (angal) _an [verb] to let out a howling cry
 angatín (angat) _in [verb] to lift something up
 angát (angat) rt_ [adjective] raised
 iangát (angat) i_ [verb] to lift something up
@@ -655,6 +664,8 @@ pagkaawà (awa) pagka_ [noun] commiseration
 pagmamakaawà (awa) pagmama_ [noun] pleading; begging for mercy
 awatin (awat) _in [verb] to pacify someone; to referee someone
 awat (awat) rt_ [noun] pacification
+umawat (awat) _um_ [verb] to break up a fight / quarrel; to pacify
+pag-awat (awat) pag_ [noun] pacifying
 away (away) rt_ [noun] conflict; fight; quarrel; dispute; feud
 awayin (away) _in [verb] to quarrel with someone; to fight with someone
 awayán (away) _an [noun] enmity; fighting
@@ -1150,6 +1161,9 @@ basaín (basâ) _in [verb] to wet something; to splash something
 basâ ang papél (basâ) [idiomatic] having a bad reputation (literally(basa) wet paper)
 mabasâ (basâ) ma_ [verb] to get wet
 mamasâ (basâ) mang_ [verb] to get wet (AF); to become wet (AF)
+basbás (basbas) rt_ [noun] blessing; benediction
+basbasán (basbas) _an [verb] to bless someone/something
+bumasbás (basbas) _um_ [verb] to bless
 atabs (bata) slang_ [noun] child (slang); [adjective] juvenile; underage (slang)
 bata (bata) rt_ [noun] bathrobe; robe
 batang lansangan (bata) phr_ [noun] street kid
@@ -1468,6 +1482,10 @@ ikabingí (bingi) ika_ [verb] to cause deafness
 mabingí (bingi) ma_ [verb] to become deaf
 mabinì (bini) ma_ [adjective] modest; gentle; demure
 binì (bini) rt_ [noun] modesty
+pagbintangán (bintang) pag_an [verb] to blame someone
+bintáng (bintang) rt_ [noun] suspicion; charges; imputation; accusation; blame
+ibintáng (bintang) i_ [verb] to blame
+magbintáng (bintang) mag_ [verb] to suspect
 binyág (binyag) rt_ [noun] baptism; christening
 binyagán (binyag) _an [verb] to baptize someone
 binyagan (binyag) _an [noun] baptism; baptismal ceremony; baptismal party
@@ -2061,6 +2079,10 @@ nararapat (dapat) [adjective] appropriate; deserving; due
 walâng-karapatán (dapat) phr_ [adjective] having no right
 dumaplís (daplis) _um_ [verb] to glance off; to graze
 daplís (daplis) rt_ [noun] going off on a tangent; going on a tangent; sliding away
+dapuan (dapo) _an [verb] to perch on something; to alight on something
+dumapò (dapo) _um_ [verb] to descend and settle on (like a bird does); to perch
+dapò (dapo) rt_ [noun] to descend or land on something (like birds do)
+nakadapò (dapo) naka_ [adjective] perched; alighted on
 dasalan (dasal) _an [noun] prayer book; place of prayer; rosary beads
 dasalín (dasal) _in [verb] to pray about something; to pray for something
 dasál (dasal) rt_ [noun] prayer
@@ -2610,6 +2632,9 @@ gilít (gilit) rt_ [noun] cutting into small pieces; cutting; marking
 giliw (giliw) rt_ [noun] being hospitable; fondness; affection
 magiliw (giliw) ma_ [adjective] hospitable; beloved; blessed; gentle; affectionate; genial
 paggiliw (giliw) pag_ [noun] affection; love
+gináw (ginaw) rt_ [noun] chill; the chills (from being sick); coldness of the weather
+ginawín (ginaw) _in [verb] to be chilly; to be cold (because of the environment or an illness);
+magináw (ginaw) ma_ [adjective] chilly; cold weather; cool weather
 ginhawa (ginhawa) rt_ [noun] ease; an easy feeling; wealth; relief from pain/sickness; rest; comfort
 guminhawa (ginhawa) _um_ [verb] to feel better; to comfort; to feel relief; to become more easy
 kaginhawahan (ginhawa) ka_an [noun] easing; getting relief; comfort; convenience; resting
@@ -2775,6 +2800,10 @@ hakbáng (hakbang) rt_ [noun] step; stepping; pace
 humakbáng (hakbang) _um_ [verb] to step; to stride
 makahakbáng (hakbang) maka_ [verb] to be able to step; to be able to take a step
 paghakbáng (hakbang) pag_ [noun] stepping
+humakot (hakot) [verb] to transport; to load up
+hakot (hakot) [noun] load
+hakutin (hakot) [verb] to transport; to cart; to carry away
+paghakot (hakot) [noun] loading
 halagá (halaga) rt_ [noun] value; price; worth; cost; costing; amount
 kahalagahán (halaga) ka_an [noun] importance
 magkahalagá (halaga) magka_ [verb] to cost; to be worth; to amount to
@@ -4165,6 +4194,9 @@ magkulay (kulay) mag_ [verb] to color
 makulay (kulay) ma_ [adjective] colorful; brightly colored
 pangulay (kulay) pang_ [noun] anything used for coloring; dye
 pinakamakulay (kulay) pinakama_ [adjective] the most colorful
+pangungulimbát (kulimbat) pangCV_ [noun] smuggling
+mángungulimbát (kulimbat) mangCV_ [noun] smuggler
+kulimbát (kulimbat) rt_ [adjective] stolen; [noun] stealing
 kakulitán (kulit) ka_an [noun] naughtiness
 kulitín (kulit) _in [verb] to pester someone
 kulít (kulit) rt_ [noun] persistence; stubbornness; [adjective] pesky; persistent
@@ -4556,7 +4588,7 @@ lumantád (lantad) _um_ [verb] to expose; to be revealed; to be prominent
 maglantád (lantad) mag_ [verb] to expose
 mailantád (lantad) mai_ [verb] to be able to expose something
 malantád (lantad) ma_ [verb] to be exposed (AF); to expose something (OF)
-kalaunan (laon) ka_an [adjective] after a while; in time; as time went on; long time
+kalaunan (laon) ka_an [adjective] eventually; after a while; in time; as time went on; long time
 nang lumaon (laon) _um_ [phrase] eventually; in time
 laon (laon) rt_ [noun] long (in time)
 malaon (laon) ma_ [adjective] long time
@@ -4732,8 +4764,11 @@ libot (libot) rt_ [noun] environment; surroundings
 libutin (libot) _in [verb] to wander around somewhere; to go around somewhere
 lumibot (libot) _um_ [verb] to go around; to wander
 maglibót (libot) mag_ [verb] to go around; to wander
+malibot (libot) ma_ [verb] to be able to go around; to be able to wander
 nakapalibot (libot) nakapa_ [adjective] surrounding
-paglilibot (libot) pagCV_ [noun] wandering around; roaming around
+paglilibót (libot) pagCV_ [noun] wandering around; roaming around
+pagpapalibot (libot) pagpapa_ [noun] surrounding
+palibutan (libot) pa_an [verb] to have something/someone surrounded
 palibot (libot) pa_ [noun] surroundings; circumference
 sangkalibutan (libot) sangka_an [noun] universe
 sánlibután (libot) sang_an [noun] universe; galaxy; world
@@ -4887,6 +4922,8 @@ luminaw (linaw) _um_ [verb] to clear up; to become clear
 malinaw (linaw) [adjective] clear; apparent; evident
 napakalinaw (linaw) [adjective] very clear
 paglilinaw (linaw) [noun] clarification
+malingát (lingat) ma_ [verb] to be neglectful; to be careless; to be off-guard
+lingát (lingat) rt_ [noun] negligence
 Linggó (linggo) rt_ [noun] Sunday
 kinálingguhán (linggo) [noun] the next week
 linggo-linggó (linggo) rt_rt [adverb] every week; weekly
@@ -5875,6 +5912,9 @@ nakaplano (plano) naka_ [adjective] planned
 pagpaplano (plano) [noun] planning
 plano (plano) rt_ [noun] plan (design of a house); scheme
 planuhin (plano) _in [verb] to plan
+poót (poot) rt_ [noun] hostility; hatred; hate; animosity; wrath;
+mapoót (poot) ma_ [verb] to loathe; to detest; to abhor; to hate
+kapootán (poot) ka_an [verb] to detest something/someone
 ipóst (post) i_ [verb] to post something; to post something online
 magpóst (post) mag_ [verb] to post; to post something on the internet; * Taglish verb using the English word "post"
 mai-póst (post) mai_ [verb] able to post something
@@ -6774,6 +6814,9 @@ sipol (sipol) rt_ [noun] whistle
 sipulan (sipol) _an [verb] to whistle
 sumipol (sipol) _um_ [verb] to whistle
 sípol-sipol (sipol) [adjective] whistling
+sumipót (sipot) _um_ [verb] to show up; to arrive; to appear
+siputín (sipot) _in [verb] to arrive somewhere
+sipót (sipot) rt_ [noun] arrival
 kasiraán (sira) ka_an [noun] corruption
 magsirâ (sira) mag_ [verb] to break
 makasirà (sira) maka_ [verb] to spoil; to be able to spoil
@@ -7555,7 +7598,7 @@ tumapang (tapang) _um_ [verb] to become brave; to become fierce; to increase in 
 ipagtapát (tapat) ipag_ [verb] to confess something; to come clean about something; to reveal something; to admit something
 itapát (tapat) i_ [verb] to put something directly in front of
 katapatan (tapat) [noun] loyalty; honesty; sincerity; faithfulness; fidelity
-katapát (tapat) [adjective] opposite
+katapát (tapat) [adjective] opposite; front; front and center
 magtapát (tapat) mag_ [verb] to be honest; to tell the truth; to put something directly opposite, above, or under another; to confess
 matapát (tapat) ma_ [adjective] sincere; honest; forthright; faithful; devoted; candid; [adverb] without deception
 nakatapát (tapat) naka_ [adjective] across from; in front of

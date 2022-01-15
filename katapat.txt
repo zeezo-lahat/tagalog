@@ -1,0 +1,11 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+katapat
+Filipino / Tagalog language translation for the meaning of the word katapat in the Tagalog Dictionary.
+Definition for the Tagalog word katapat:
+katapát
+[adjective] opposite; front; front and center
+Root: tapat
+Very Frequent
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary
