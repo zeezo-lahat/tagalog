@@ -243,6 +243,7 @@ bagamán	although, in spite of, while, even though (baga + man, old fashioned)
 bagamát	bagamá't (even though; although; while; though)
 bágay	appropriate, fitting; thing, object
 bágay-bagay	circumstances; this and that, things, various little things
+bagbág	broken up (soil or rock); shipwrecked; sympathetic
 bagkus	on the contrary, instead, rather, but rather, but instead
 bágo	new, fresh; before, prior to, previous 
 bágo pa	before, prior to
@@ -899,7 +900,7 @@ hatinggabi	midnight
 hawa	infection, contagion
 hawak	hold, grasp; unwanted touch
 hawakan	to take hold of
-hawig	similar, alike, akin
+hawíg	similar, alike, akin
 hayà	tolerance of an act; threatening gesture
 hayaàn	to let, allow, let be (hayà, see also bayáan, pabayáan)
 hayaàn mo na lang	just let it be
@@ -968,6 +969,7 @@ hugis	shape, form
 hugot	to pull or draw out; coll. drawing out feelings from deep within
 hugpóng	joint
 hukay	excavation, hole, pit, crater; grave
+Húkbalaháp	The People's Army Against the Japanese (Hukbo ng Bayan Laban sa Hapon)
 hukbo	army
 hukuman	a court of law
 hulà	guess, forecast
@@ -1542,6 +1544,7 @@ kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
 kintáb	shine
+kisame	ceiling
 kisáp	wink, blink
 kislap	sparkle, scintillation, to glitter, twinkle
 kita	income
@@ -1720,7 +1723,7 @@ lawin	hawk
 lawit	suspended, hanging
 layà	freedom, liberty
 layag	a sail
-layas	get out!, go away!
+layás	get out!, go away!
 layo	distance
 layon	intention, purpose, objective, object, aim
 layUnin	purpose, objective,aim, cause, goal, mission, intention (layon)
@@ -3673,7 +3676,7 @@ tagay	a toast in drinking; term in Batangas for a little girl
 tagilid	tilt, slant
 tagiliran	side; boundary; either side (eg, left or right) of something
 tagísan	a competition, esp. regarding intelligence/wits
-taglagas	autumn
+taglagás	autumn
 tagláy	possessing, possessed
 tagò	hide
 tagò ng tagò	(TNT) illegal immigrant

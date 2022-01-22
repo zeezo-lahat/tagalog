@@ -1,5 +1,5 @@
 abante	lead (n) in a game; go ahead!, proceed!
-ahon	(ahon) rt_ [noun] rising out of; emerging from
+ahon	rising out of; emerging from
 aklás	revolt
 alilà	servant
 alingasngás	a scandal
@@ -7,52 +7,65 @@ alitan	quarrel, conflict, tiff, strife
 amo	master, employer, boss
 angkán	family, clan; lineage, ancestry
 bále-walaín	to ignore something/someone; to disregard something
-banság	(bansag) rt_ [noun] motto; slogan; nickname; alias; surname; boasting
-bansagán	(bansag) _an [verb] to be called a name; to ridicule by name-calling; to be labeled; to have a reputation of being known as
+banság	rt_ [noun] motto; slogan; nickname; alias; surname; boasting
+bansagán	_an [verb] to be called a name; to ridicule by name-calling; to be labeled; to have a reputation of being known as
+dako	direction, way; part; region of body; spot; around; around (+time)
 daló	presence, attendance
 dedma	the act of ignoring, feigning unawareness ("dead malice")
+gapos	manacle; rope tied around the arms or hands; bond; tie
 hamog	the moisture in the air that can be seen, vapor; dew
-italagá	(talaga) i_ [verb] to dedicate; to devote; to assign; to be assigned for; to consecrate
-itatág	(tatag) i_ [verb] to establish something; to institute something; to constitute something; to found something (e.g., an organization)
-kalaunan	(laon) ka_an [adjective] after a while; in time; as time went on; long time
-kapatagan	(patag) ka_an [noun] plain; plains (geography)
+hango	literary adaptation or reproduction from original; derived, extracted, adapted
+hawíg	resemblance; similar, alike, akin
+hikayat	persuasion
+igapos	to be bound by someone by hands or arms
+italagá	to dedicate; to devote; to assign; to be assigned for; to consecrate
+itatág	to establish something; to institute something; to constitute something; to found something (e.g., an organization)
+kakaibá	different, strange, unusual
+kalás	detached; removed; freed from
+kalaunan	ka_an [adjective] after a while; in time; as time went on; long time
+kapatagan	plain; plains (geography)
 kapatiran	fraternity, brotherhood
-kathâ	(katha) rt_ [noun] literary composition; creation; fiction
+kathâ	literary composition; creation; fiction
 kutà	fort, bulwark, hideout; makapal na pader o moog
-laon	(laon) rt_ [noun] long (in time)
+laitin	to revile, abuse with words, vilify, deride (nilalait, nilait, lalaitin)
+laon	long (in time)
 larangan	domain, field of knowledge
-liít	(liit) rt_ [noun] smallness
-likhâ	(likha) rt_ [noun] creation; fiction; creative work
+liít	smallness
+likhâ	creation; fiction; creative work
 lingid	hidden, not known, secret
-lumikhâ	(likha) _um_ [verb] to create; to generate; to contrive
+lumikhâ	to create; to generate; to contrive
 lúmot	moss, algae
-maabutan	(abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
-magkamalî	(mali) magka_ [verb] to make a mistake; to be mistaken; to blunder
+maabutan	to happen to encounter something; to catch up with / to something or someone
+magkamalî	to make a mistake; to be mistaken; to blunder
+magtanggál	to remove; to detach
 malas	bad luck; unlucky; intent or searching look
 maliin	consider as wrong or mistaken (minamali, minali, mamaliin)
 maliitin	to make little of, to belittle
 mamunò	(puno) mang_ [verb] to lead (people); to conduct
-matapang	(tapang) ma_ [adjective] brave; bold; audacious; fearless; courageous; daring; strong; tough; hard
+matanggál	to detach something (OF); to become detached (AF); to be able to detach something (OF); to be removed (AF); to remove something (OF); to be unlaced (AF)
+matapang	brave; bold; audacious; fearless; courageous; daring; strong; tough; hard
 muntik	nearly
 naturang	such, said, mentioned, aforementioned (sym in use to sarili)
 pagbigyán	to give in/accommodate/oblige/concede to someone
-pagkain	(kain) pag_ [noun] food; the act of eating
-pagkakaalam	knowledge
-pagkakáalám	(alam) pagkaka_ [noun] understanding
-pagsusulit	(sulit) [noun] exam; test; quiz
-páhayagán	(hayag) pa_an [noun] newspaper
-palayô	(layo) pa_ [adverb] away; further away
+pagkain	pag_ [noun] food; the act of eating
+pagkakáalám	pagkaka_ [noun] understanding, knowing
+pagsusulit	exam; test; quiz
+páhayagán	pa_an [noun] newspaper
+palayô	pa_ [adverb] away; further away
 panayám	interview (generally of two); conference
-parangál	(dangal) pa_ [noun] award celebration; reward; magnification; awards; accolade
-pasa	(pasa) rt_ [noun] pass; passing; handing over
-patag	(patag) rt_ [adjective] even; level; flat
+parangál	pa_ [noun] award celebration; reward; magnification; awards; accolade
+pasa	rt_ [noun] pass; passing; handing over
+patag	rt_ [adjective] even; level; flat
 patalastas	an advertisement
-pugay	(pugay) rt_ [noun] salute
-punò	(puno) rt_ [noun] tree; chief; boss; executive
+poót	rt_ [noun] hostility; hatred; hate; animosity; wrath
+pugay	rt_ [noun] salute
+punò	rt_ [noun] tree; chief; boss; executive
 punô	full, filled
-salát	(salat) rt_ [noun] touch; [adjective] poor; destitute; lacking
-timbáng	(timbang) rt_ [noun] weight; heaviness
+salát	rt_ [noun] touch; [adjective] poor; destitute; lacking
+taglagás	autumn
+tanggál	unfastened; removed; detached; dismissed from employment; abolished
+timbáng	rt_ [noun] weight; heaviness
 tipak	chip, piece; block, chunk, lump, nugget
-ukit	(ukit) rt_ [noun] carving; etching
-ulán	(ulan) rt_ [noun] rain
+ukit	rt_ [noun] carving; etching
+ulán	rt_ [noun] rain
 uwî	return home; something brought home

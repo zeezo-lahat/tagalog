@@ -815,6 +815,8 @@ magkakabagay (bagay) magkaka_ [adjective] fitting; homogenous; in sync
 makibagay (bagay) maki_ [verb] to adjust oneself to; to conform to
 nababagay (bagay) naCV_ [adjective] suitable; fitting
 pakikibagay (bagay) pakiki_ [noun] conforming
+mabagbág (bagbag) ma_ [verb] to be submerged by water
+bagbagín (bagbag) _in [verb] to undermine
 bagito (bago) sp_ [noun] newbie; rookie; [adjective] inexperienced
 bago (bago) rt_ [conjunction/adverb] before; [adjective] new; modern; recent; fresh
 baguhin (bago) _in [verb] to change something
@@ -3024,6 +3026,10 @@ mahawakan (hawak) ma_an [verb] to be able to hold something
 makahawak (hawak) maka_ [verb] to be able to hold onto something
 mapahawak (hawak) mapa_ [verb] to hold something accidentally or unintentionally
 nakahawak (hawak) naka_ [adjective] holding onto something
+hawíg (hawig) rt_ [noun] resemblance
+kahawíg (hawig) ka_ [adjective/noun] someone/something resembling someone/something else; looking alike
+pagkakahawíg (hawig) pagkaka_ [noun] semblance; resemblance
+mahawíg (hawig) ma_ [verb] to resemble (AF); to resemble something (OF)
 hayaan (haya) _an [verb] to let something be; to allow something; to let someone/something do something; to leave something; to not disturb something; to let something happen; to never mind something
 hamó (haya) compound_ [expression] don't worry about it; let him/her/it be; * shortened form of "hayaan mo"
 hayà (haya) rt_ [noun] tolerance of an act
@@ -3846,6 +3852,9 @@ kalapin (kalap) _in [verb] to recruit something/someone
 kumalap (kalap) _um_ [verb] to recruit
 makalap (kalap) ma_ [verb] to be able to recruit; to be able to gather information or data
 mangalap (kalap) mang_ [verb] to gather
+kumalás (kalas) _um_ [verb] to untie; to disengage; to unravel; to untangle
+kalás (kalas) rt_ [adjective] detached; removed; freed from
+kalasín (kalas) _in [verb] to dismantle something; to untie something; to detach something
 ikalat (kalat) i_ [verb] to scatter something; to spread something; to circulate something; to disseminate something; to disperse something
 ipakalat (kalat) ipa_ [verb] to disseminate something; to spread something
 kalat (kalat) rt_ [noun] litter; disorder; mess
@@ -4710,10 +4719,10 @@ paglayà (laya) pag_ [noun] liberation; freedom
 pagpapalayà (laya) pagpapa_ [noun] freeing; releasing; release; liberating; liberation
 palayain (laya) pa_in [verb] to set free; to liberate; to release; to let off
 layasan (layas) _an [verb] to abandon someone; to run away from someone
-layás (layas) rt_ [adjective] fond of traveling
-lumayas (layas) _um_ [verb] to run away; to shove off; to leave
+lumayas (layas) _um_ [verb] to run away; to shove off; to leave; to move out of (as in custody); to leave the presence of
+palayasin (layas) pa_in [verb] to banish something/someone; to oust someone; to exclude something/someone; to send someone away
 maglayás (layas) mag_ [verb] to leave because of resentment
-palayasin (layas) pa_in [verb] to banish something/someone; to oust someone; to exclude something/someone
+layás (layas) rt_ [adjective] fond of traveling; [noun] running away
 dí-kalayuan (layo) [adjective] not-so-distant; not far; nearby
 gaano kalayò (layo) how far (distance); how distant
 ilayô (layo) i_ [verb] to turn something away from; to bring something far from; to steer away from; to avert
