@@ -3547,6 +3547,9 @@ imbitahín (imbita) _in [verb] to invite someone
 imbitasyón (imbita) sp_ [noun] invitation
 mag-imbitá (imbita) mag_ [verb] to invite
 pag-imbitá (imbita) pag_ [noun] inviting
+nakakaimbyerna (imbiyerna) nakaka_ [adjective] annoying
+imbiyerna (imbiyerna) rt_ [noun] annoyance
+ma-imbiyerna (imbiyerna) ma_ [verb] to get annoyed
 umimík (imik) _um_ [verb] to make a sound; to speak; to break the silence; to mutter
 imík (imik) rt_ [noun] talk; answer; reply; utterance; peep; breaking the silence
 walang-imík (imik) phr_ [adjective] reticent
@@ -4434,6 +4437,10 @@ lahók (lahok) rt_ [noun] ingredient; entry to a contest
 lumahók (lahok) _um_ [verb] to participate; to mix with; to join; to enter a contest/race
 makilahók (lahok) maki_ [verb] to mingle; to mix together
 paglahók (lahok) pag_ [noun] entry; participation
+laitin (lait) _in [verb] to insult something/someone; to revile at something
+lait (lait) rt_ [noun] insult
+panlalait (lait) _pangCV_ [noun] insulting; ridiculing; mocking
+lumait (lait) _um_ [verb] to revile
 ilakad (lakad) i_ [verb] to take something out for a walk; to take/walk (move) something; to use something in walking; to negotiate something
 ipalakad (lakad) ipa_ [verb] to have someone run errands for someone else
 kalakarán (lakad) ka_an [noun] style; prevailing style;
@@ -4747,6 +4754,9 @@ pinakamalayò (layo) pinakama_[adjective] furthest (in distance); farthest (in d
 layon (layon) rt_ [noun] intention; purpose; objective; object; aim
 layunin (layon) _in [noun] objective; aim; cause; goal; mission; intention; purpose
 palayon (layon) pa_ [grammar] objective; referring to ng words / phrases
+libák (libak) rt_ [noun] scorn; contempt
+libakín (libak) _in [verb] to ridicule
+lumibák (libak) _um_ [verb] to scorn; to ridicule
 iliban (liban) i_ [verb] to postpone
 ipagpaliban (liban) ipagpa_ [verb] to procrastinate on something; to delay something; to postpone something; to defer something; to put something off
 liban (liban) rt_ [noun] absence; [adjective] absent
@@ -5535,6 +5545,9 @@ palakpakán (palakpak) _an [verb] to clap for someone/something; to applaud some
 palakpák (palakpak) rt_ [noun] clapping; applause; accolades
 pumalakpák (palakpak) _um_ [verb] to clap; to applaud; to acclaim
 pálakpakan (palakpak) [noun] applause; clap; clapping
+pananampalataya (palataya) pananang_ [noun] faith; belief in God; creed
+manampalataya (palataya) manang_ [verb] to have faith
+manánampalatayá (palataya) mananang_ [noun] believer; religious believers
 ipalít (palit) i_ [verb] to exchange something with something else; to substitute; to replace; to convert
 kapalít (palit) ka_ [noun] what is given in exchange; replacement; successor (person); [adjective] reciprocal; in return
 magpalitan (palit) mag_an [verb] to exchange; to trade; to swap; to barter
@@ -5956,6 +5969,9 @@ pamumulá (pula) [noun] reddening; blushing
 pulà (pula) rt_ [noun] criticism
 pulá (pula) rt_ [adjective] red
 puláng-pulá (pula) [adjective] crimson
+pulô (pulo) rt_ [noun] island; isolated place
+kapuluán (pulo) ka_an [noun] archipelago; group of islands
+sankapuluán (pulo) sangka_an [noun] archipelago; the whole archipelago
 kapulungán (pulong) ka_an [noun] assembly; chamber; congregation; congress; conference; convention
 magpulong (pulong) mag_ [verb] to meet; to have a meeting
 makipagpulong (pulong) makipag_ [verb] to have a meeting with
