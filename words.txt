@@ -1205,6 +1205,7 @@ kabihasnán	civilization (rt. bihasa)
 kabilâ	the next; the other side (time/space); in spite of (sa kabilâ ng)
 kabilang	including/included, among (kabilang sa)
 kabilisan	quickness, celerity
+kabisado	memorized
 kabisá	(kabesá) sp. "cabeza".  "head"/pinuno; or referring to memorizing or knowing / being familiar with something
 kabisera	capital, capital city; town center
 kabít	attached, connected; mistress
@@ -1832,7 +1833,7 @@ lumipas	passed
 lumipat	change one's place of living, transfer, migrate
 lumò	weariness
 lúmot	moss, algae
-lumpo	a crippled person, esp. the legs
+lumpó	a crippled person, esp. the legs
 lumubóg	to set
 lumulan	to load, to ride
 lumulUtan	floating
@@ -2160,7 +2161,7 @@ makislap	luminous, brilliant, glittering, lambent, lucent
 makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
 makukuha	attainable, that can be achieved
-makulit	importunate, pesky; a person who is a pest
+makulít	importunate, pesky; a person who is a pest
 makulong	be confined, be interned; be shut in (in a crowd)
 malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
 malagím	gloomy, glum
@@ -2227,6 +2228,7 @@ mamayâ pa	not now, but later today
 mamayagpág	to flap ones wings (lit/fig) (namamayagpag, namayagpag, mamamayagpag)
 mamayan	to live or reside in a town (báyan)
 mambabae	fool around with women; to have a mistress
+mamighatî	to be in anguish or distress, to suffer affliction (namimighati, namighati, mamimighati)
 mamilipit	to writhe, squirm, convulse
 maminsan-minsan	occasionally
 mamuhunan	to invest
@@ -2400,7 +2402,7 @@ matandâ	old
 matandaan	to remember something
 matangkád	tall
 matanong	inquisitive
-matanto	to realize; be able to comprehend
+matantô	to realize; be able to comprehend
 matao	crowded
 matapang	brave, courageous (tapang)
 matapát	loyal, faithful, sincere
@@ -2458,7 +2460,7 @@ mga kahingían	requirements
 milagro	miracle (similar to himalâ)
 miming	kitty-cat
 minana	inheritance, heritage
-minsan	sometimes; once, at one time
+minsan	sometimes; once, at one time (in the past), sometime (in the future)
 minsanan	a one-time thing
 miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
@@ -2486,6 +2488,7 @@ naaalala	to remember (like natatandaan)
 naaawa	to pity
 naaayon	associated with
 naabutan	happened to encounter
+nabábagabag	distraught
 nabuhayan	to re-live something
 nadalâ	has become wary
 nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
@@ -3202,6 +3205,7 @@ peklat	scar (galos, gasgas, dungis, batik)
 pero	but
 perwísyo	damage
 petsa	calendar date
+pighatî	anguish, torment, grief
 pigil	detention, control, restraint
 pigilin	to control, restrain, keep back, hold back
 pihikan	(píhik) choosy, fussy, fastidious, exacting (syn. mapili)
