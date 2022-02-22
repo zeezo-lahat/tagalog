@@ -158,6 +158,7 @@ ani	crop, harvest
 ani	said by
 anihin	to harvest
 aniko	I said
+anino	shadow, image or reflection
 anito	a pre-christian idol
 aniya	he/she said (anya)
 ano	"what" could be used as question or not, as in "I know what.." -> "alam ko anong.."
@@ -3263,6 +3264,7 @@ pugot	decapitated
 puhúnan	investment
 púkot	uri ng lambat na ginagamit sa malalim na bahagi ng dagat
 pukpók	bang; hammering; beating; pounding
+pukol	throwing, hurling; a shot (e.g. in a ball game); hitting one thing with another, end on end
 pukyutan	bee, honeybee
 pulá	red
 pulgada	an inch
@@ -4059,6 +4061,7 @@ utáyin	to do little by little
 utol	colloquial/informal term for one's brother or sister; buddy. (also tol)
 utong	nipple
 útos	command, order
+uwak	crow, raven
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
 uyam	mocking; jeering; sarcasm
