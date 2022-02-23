@@ -13,19 +13,19 @@ bansagán	_an [verb] to be called a name; to ridicule by name-calling; to be lab
 batis	spring of water, brook, fountain or source
 bigô	frustrated, disappointed; failure
 bisig	forearm, arm; manpower, laborer
-bukal	 spring of fresh water; source; reservoir
-bunyág	 rt_ [adjective] revealed; exposed
+bukal	spring of fresh water; source; reservoir
+bunyág	rt_ [adjective] revealed; exposed
 bunyág	disclosure, revelation
 dako	direction, way; part; region of body; spot; around; around (+time)
 daló	presence, attendance
 dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
-dayà	 [noun] deceit; fraud; cheating; trickery;
+dayà	[noun] deceit; fraud; cheating; trickery;
 dedma	the act of ignoring, feigning unawareness ("dead malice")
-engganyo	 rt_ [noun] enticement
-gaán	 rt_ [noun] lightness (of weight); easiness
+engganyo	rt_ [noun] enticement
+gaán	rt_ [noun] lightness (of weight); easiness
 gapos	manacle; rope tied around the arms or hands; bond; tie
-guhit	 rt_ [noun] drawing; line; stripe; design; mark
-gumaán	 _um_ [verb] to become light
+guhit	rt_ [noun] drawing; line; stripe; design; mark
+gumaán	_um_ [verb] to become light
 hamog	the moisture in the air that can be seen, vapor; dew
 hango	literary adaptation or reproduction from original; derived, extracted, adapted
 hawíg	resemblance; similar, alike, akin
@@ -45,7 +45,7 @@ kathâ	literary composition; creation; fiction
 katúmbas	an equivalent
 kintáb	shine
 kutà	fort, bulwark, hideout; makapal na pader o moog
-labá	 rt_ [noun] laundry; laundry clothing
+labá	rt_ [noun] laundry; laundry clothing
 lagalág	wanderer, rover; well travelled, nomadic, wandering
 laitin	to revile, abuse with words, vilify, deride (nilalait, nilait, lalaitin)
 laon	long (in time)
@@ -57,8 +57,8 @@ lumikhâ	to create; to generate; to contrive
 lúmot	moss, algae
 lumpó	a crippled person, esp. the legs
 maabutan	to happen to encounter something; to catch up with / to something or someone
-mabisà	 ma_ [adjective] effective; works well
-madurog	 ma_ [verb] to be crushed; to be breakable
+mabisà	ma_ [adjective] effective; works well
+madurog	ma_ [verb] to be crushed; to be breakable
 magkamalî	to make a mistake; to be mistaken; to blunder
 magtanggál	to remove; to detach
 makamít	to achieve, to gain
@@ -77,17 +77,17 @@ naturang	such, said, mentioned, aforementioned (sym in use to sarili)
 pagbigyán	to give in/accommodate/oblige/concede to someone
 pagkain	pag_ [noun] food; the act of eating
 pagkakáalám	pagkaka_ [noun] understanding, knowing
-pagsisisi	 [noun] regret; repentance
+pagsisisi	[noun] regret; repentance
 pagsusulit	exam; test; quiz
 páhayagán	pa_an [noun] newspaper
 pákay	purpose, aim
 palayô	pa_ [adverb] away; further away
-pamagát	 rt_ [noun] title; caption
+pamagát	rt_ [noun] title; caption
 panayám	interview (generally of two); conference
 parangál	pa_ [noun] award celebration; reward; magnification; awards; accolade
 pasa	rt_ [noun] pass; passing; handing over
 pasamain	to make worse
-pasamaín	 pa_in [verb] to corrupt; to debauch; to make someone evil
+pasamaín	pa_in [verb] to corrupt; to debauch; to make someone evil
 patag	rt_ [adjective] even; level; flat
 patalastas	an advertisement
 paumanhín	apology, "sorry" (very formal)
@@ -99,28 +99,28 @@ pugay	rt_ [noun] salute
 punò	rt_ [noun] tree; chief; boss; executive
 punô	full, filled
 purók	district (smaller than a barangay)
-saád	 rt_ [adjective] stated; said
+saád	rt_ [adjective] stated; said
 sakalì	in case, if; perhaps
 salát	rt_ [noun] touch; [adjective] poor; destitute; lacking
-salungát	 rt_ [adjective] opposite; contrary; adverse; anti; counter; against
+salungát	rt_ [adjective] opposite; contrary; adverse; anti; counter; against
 sikmurà	stomach, upper stomch
-sungit	(sungit) rt_ [noun] unpleasantness; unfriendliness; harshness; strictness; sternness
-sunód	 rt_ [noun] next; follower; [adjective] fulfilled
-sustento	 rt_ [noun] sustenance; alimony
-tagál	 rt_ [noun] duration; length of time
+sungit	rt_ [noun] unpleasantness; unfriendliness; harshness; strictness; sternness
+sunód	rt_ [noun] next; follower; [adjective] fulfilled
+sustento	rt_ [noun] sustenance; alimony
+tagál	rt_ [noun] duration; length of time
 taglagás	autumn
-talas	 rt_ [noun] sharpness; sharp
-talik	 rt_ [noun] closeness; being close to one another;
+talas	rt_ [noun] sharpness; sharp
+talik	rt_ [noun] closeness; being close to one another;
 talinghagà	metaphor, aphorism
 tanggál	unfastened; removed; detached; dismissed from employment; abolished
 tanghál	to be shown, on display; presentation, exhibition
 tantô	realize, understand
-taray	(taray) rt_ [noun] harshness; strictness; rudeness
+taray	rt_ [noun] harshness; strictness; rudeness
 tayútay	figure of speech
 timbáng	rt_ [noun] weight; heaviness
 tipak	chip, piece; block, chunk, lump, nugget
 ukit	rt_ [noun] carving; etching
-ukol	 rt_ [adjective] intended for; about; destined; proper; suitable
+ukol	rt_ [adjective] intended for; about; destined; proper; suitable
 ulit	repetition
-usap	 rt_ [noun] discussion
-yayà	 rt_ [noun] invitation
+usap	rt_ [noun] discussion
+yayà	rt_ [noun] invitation

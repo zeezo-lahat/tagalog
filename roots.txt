@@ -4825,6 +4825,9 @@ ligpít (ligpit) rt_ [adjective] orderly
 lumigpít (ligpit) _um_ [verb] to put away; to make orderly
 magligpít (ligpit) mag_ [verb] to put things away; to put things in an order; to clean things up
 pagliligpít (ligpit) [noun] putting away things away; putting things in order
+kaligtaán (ligta) ka_an [verb] to overlook something
+ligtâ (ligta) rt_ [noun] omission
+ligtaán (ligta) _an [verb] to omit; to overlook; to forget
 iligtás (ligtas) i_ [verb] to save someone/something; to rescue someone/something
 kaligtasan (ligtas) ka_an [noun] safety; security; salvation
 ligtás (ligtas) rt_ [adjective] saved; safe; freed; free; redeemed; escape; stable; secure
@@ -5627,6 +5630,9 @@ panig (panig) rt_ [noun] side; panel; aspect; party; part; section
 pumanig (panig) _um_ [verb] to take sides; to side with
 panigan (panig) _an [verb] to take sides with someone
 kapanig (panig) ka_ [noun] ally
+panís (panis) rt_ [adjective] stale food; spoiled food; bad
+mapanis (panis) ma_ [verb] to get spoiled; to become rotten
+panisín (panis) _in [adjective] prone to spoilage
 kapansanan (pansan) ka_an [noun] disability
 may kapansanan (pansan) phr_ [adjective] disabled
 pansán (pansan) rt_ [noun] accident; injury; inconvenience
@@ -5961,6 +5967,9 @@ magbigáy-pugay (pugay) mag_ [verb] to salute
 pagbibigay-pugay (pugay) [noun] saluting; giving a salute
 pagpupugay (pugay) [noun] saluting
 pugay (pugay) rt_ [noun] salute
+puhunan (puhunan) rt_ [noun] capital; investment; stake; share
+pamumuhunan (puhunan) pangCV_ [noun] investment; entrepreneurship
+mamumuhunan (puhunan) mangCV_ [noun] investor; capitalist
 puksaín (puksa) _in [verb] to destroy something; to annihilate something; to massacre something; to eradicate something; to exterminate something
 pagpuksâ (puksa) pag_ [noun] extermination; annihilation
 mapuksâ (puksa) ma_ [verb] to be destroyed; to be annihilated;
@@ -6247,6 +6256,9 @@ magpasahod (sahod) magpa_ [verb] to pay a salary to
 pasahód (sahod) pa_ [noun] pay; salary; wages; payday
 sahod (sahod) rt_ [noun] salary; payday
 sahurin (sahod) _in [verb] to receive salary; to receive something with both hands
+masahol (sahol) ma_ [adjective] worse; inferior
+sahol (sahol) rt_ [adjective] inadequate
+pinakamasahol (sahol) pinakama_ [adjective] the worst; the most inferior
 isaing (saing) i_ [verb] to cook or to steam rice or fish
 magsaing (saing) mag_ [verb] to cook rice; to steam rice
 saing (saing) rt_ [noun] steamed rice; steaming rice; boiling rice
@@ -6949,7 +6961,7 @@ sugurin (sugod) _in [verb] to rush something; to charge; to attack
 sumugod (sugod) _um_ [verb] to rush forward; to plunge forward; to charge forward
 masugpô (sugpo) ma_ [verb] to be suppressed (AF); to suppress something (OF)
 sugpuín (sugpo) _in [verb] to suppress; to curb
-sugpô (sugpo) rt_ [noun] prawn
+sugpô (sugpo) rt_ [noun] suppression; prawn
 manuhol (suhol) mang_ [verb] to bribe
 pagsuhol (suhol) [noun] bribing; bribery
 panunuhol (suhol) [noun] bribery
@@ -7877,14 +7889,14 @@ pagpápanatili (tili) pagpapa_ [noun] preservation; retention; perpetuation
 mapatilî (tili) mapa_ [verb] to suddenly shriek or scream
 tagapanatili (tili) tagapag_ [noun] preserver; keeper
 magtimbáng (timbang) mag_ [verb] to weigh
-panimbáng (timbang) [noun] balance
-timbangan (timbang) [noun] weighing scale; balance
+panimbáng (timbang) pa_ [noun] balance
+timbangan (timbang) _an [noun] weighing scale; balance
 timbangín (timbang) _in [verb] to weigh
 timbáng (timbang) rt_ [noun] weight; heaviness
 tumimbáng (timbang) _um_ [verb] to weigh
 magtimplá (timpla) mag_ [verb] to mix
-pagtimplá (timpla) [noun] mixing
-panimplá (timpla) [noun] seasoning; flavoring
+pagtimplá (timpla) pag_ [noun] mixing
+panimplá (timpla) pa_ [noun] seasoning; flavoring
 timplahán (timpla) _an [verb] to mix something for someone; to prepare something for someone; to prepare a drink for someone
 timplá (timpla) rt_ [noun] blend; mix; seasoning; flavor
 tinag (tinag) rt_ [noun] move; budge

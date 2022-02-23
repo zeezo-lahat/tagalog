@@ -98,6 +98,7 @@ alamin	to find out, to investigate
 alás	(n) ace
 alat	saltiness
 alay	offering
+alboroto	uproar, outcry, tantrum, childish tantrum, simmering moodiness (also "alburoto")
 albularyo	traditional healer, medicine man; quack doctor, charlatan
 ale	aunt, step mother, expression addressed to a woman, reference to a woman
 alikabok	dust
@@ -872,7 +873,7 @@ hanep	amazing, wow!
 hangà	admiration, appreciation, amazement (root)
 hangad	(n) desire, purpose, ambition, intention
 hangarin	(n) desire, purpose, ambition, intention
-hangarin	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
+hangarín	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
 hangga	result, end, outcome
 hanggán	end, boundary, limit
 hanggánan	end, boundary, limit (stylized variant of "hanggán")
@@ -1411,6 +1412,7 @@ karapat-dapat	qualified, worthy, fitting, deserving
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
 karatig	contiguous, adjoining
+karátulá	signboard, sign, poster
 karayom	a needle
 karera	a race
 karibal	rival (often in romance)
@@ -2436,6 +2438,7 @@ mauná	"go first", to go/be first, to lead
 mauná	"go first", to go/be first, to lead
 maunawaan 	to be able to understand; to make sense, to be understandable, to be reasonable
 maUnawaín	understanding (ma-unawa-in)
+maungusan	to get ahead of something; to be able to get ahead of something
 maunlád	progressive
 mauntól	to be put on hold (AF); to put something on hold (OF)
 maupós	to become faint (as in a light)
@@ -2526,6 +2529,7 @@ naipuwesto	was able to put in place
 nais	desire, wish
 naisin	wish for something
 naiwan	left
+nakababátà	younger
 nakabubuo	constructive (helpful)
 nakabukas	is open
 nakagagayak	decorative
@@ -2743,7 +2747,7 @@ pag-aalagà	(n) care; protection.
 pag-áalalá	(n) worries; warning; anxiety; worrying; foreboding; presentiment.
 pag-aalay	(n) dedication; offering.
 pag-aalay	an offering
-pag-aalburoto	(n) throwing a tantrum; having a fit.
+pag-aalburoto	(n) throwing a tantrum, having a fit
 pag-aalinlangan	(n) doubts; doubting.
 pag-aalís	(n) removal; elimination.
 pag-aampon	adoption
