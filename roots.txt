@@ -3547,6 +3547,9 @@ imbitahín (imbita) _in [verb] to invite someone
 imbitasyón (imbita) sp_ [noun] invitation
 mag-imbitá (imbita) mag_ [verb] to invite
 pag-imbitá (imbita) pag_ [noun] inviting
+nakakaimbyerna (imbiyerna) nakaka_ [adjective] annoying
+imbiyerna (imbiyerna) rt_ [noun] annoyance
+ma-imbiyerna (imbiyerna) ma_ [verb] to get annoyed
 umimík (imik) _um_ [verb] to make a sound; to speak; to break the silence; to mutter
 imík (imik) rt_ [noun] talk; answer; reply; utterance; peep; breaking the silence
 walang-imík (imik) phr_ [adjective] reticent
@@ -4434,6 +4437,10 @@ lahók (lahok) rt_ [noun] ingredient; entry to a contest
 lumahók (lahok) _um_ [verb] to participate; to mix with; to join; to enter a contest/race
 makilahók (lahok) maki_ [verb] to mingle; to mix together
 paglahók (lahok) pag_ [noun] entry; participation
+laitin (lait) _in [verb] to insult something/someone; to revile at something
+lait (lait) rt_ [noun] insult
+panlalait (lait) _pangCV_ [noun] insulting; ridiculing; mocking
+lumait (lait) _um_ [verb] to revile
 ilakad (lakad) i_ [verb] to take something out for a walk; to take/walk (move) something; to use something in walking; to negotiate something
 ipalakad (lakad) ipa_ [verb] to have someone run errands for someone else
 kalakarán (lakad) ka_an [noun] style; prevailing style;
@@ -4747,6 +4754,9 @@ pinakamalayò (layo) pinakama_[adjective] furthest (in distance); farthest (in d
 layon (layon) rt_ [noun] intention; purpose; objective; object; aim
 layunin (layon) _in [noun] objective; aim; cause; goal; mission; intention; purpose
 palayon (layon) pa_ [grammar] objective; referring to ng words / phrases
+libák (libak) rt_ [noun] scorn; contempt
+libakín (libak) _in [verb] to ridicule
+lumibák (libak) _um_ [verb] to scorn; to ridicule
 iliban (liban) i_ [verb] to postpone
 ipagpaliban (liban) ipagpa_ [verb] to procrastinate on something; to delay something; to postpone something; to defer something; to put something off
 liban (liban) rt_ [noun] absence; [adjective] absent
@@ -4815,6 +4825,9 @@ ligpít (ligpit) rt_ [adjective] orderly
 lumigpít (ligpit) _um_ [verb] to put away; to make orderly
 magligpít (ligpit) mag_ [verb] to put things away; to put things in an order; to clean things up
 pagliligpít (ligpit) [noun] putting away things away; putting things in order
+kaligtaán (ligta) ka_an [verb] to overlook something
+ligtâ (ligta) rt_ [noun] omission
+ligtaán (ligta) _an [verb] to omit; to overlook; to forget
 iligtás (ligtas) i_ [verb] to save someone/something; to rescue someone/something
 kaligtasan (ligtas) ka_an [noun] safety; security; salvation
 ligtás (ligtas) rt_ [adjective] saved; safe; freed; free; redeemed; escape; stable; secure
@@ -5115,6 +5128,9 @@ lumbáy (lumbay) rt_ [noun] sorrow; depression; doldrums
 pagkalumbáy (lumbay) pagka_ [noun] getting depressed; depression
 nakakalumbáy (lumbay) nakaka_ [adjective] depressing; causing depression
 malumbáy (lumbay) ma_ [adjective] depressed; dejected
+lumpó (lumpo) rt_ [noun] crippled person; paralyzed person; paralytic; [adjective] crippled; paralyzed
+malumpó (lumpo) ma_ [verb] to be crippled (AF)
+lumpuhín (lumpo) _in [verb] to maim; to cripple
 lumunas (lunas) _um_ [verb] to heal; to cure
 lunas (lunas) rt_ [noun] cure; treatment; remedy
 lunasan (lunas) _an [verb] to cure; to remedy
@@ -5535,6 +5551,9 @@ palakpakán (palakpak) _an [verb] to clap for someone/something; to applaud some
 palakpák (palakpak) rt_ [noun] clapping; applause; accolades
 pumalakpák (palakpak) _um_ [verb] to clap; to applaud; to acclaim
 pálakpakan (palakpak) [noun] applause; clap; clapping
+pananampalataya (palataya) pananang_ [noun] faith; belief in God; creed
+manampalataya (palataya) manang_ [verb] to have faith
+manánampalatayá (palataya) mananang_ [noun] believer; religious believers
 ipalít (palit) i_ [verb] to exchange something with something else; to substitute; to replace; to convert
 kapalít (palit) ka_ [noun] what is given in exchange; replacement; successor (person); [adjective] reciprocal; in return
 magpalitan (palit) mag_an [verb] to exchange; to trade; to swap; to barter
@@ -5611,6 +5630,9 @@ panig (panig) rt_ [noun] side; panel; aspect; party; part; section
 pumanig (panig) _um_ [verb] to take sides; to side with
 panigan (panig) _an [verb] to take sides with someone
 kapanig (panig) ka_ [noun] ally
+panís (panis) rt_ [adjective] stale food; spoiled food; bad
+mapanis (panis) ma_ [verb] to get spoiled; to become rotten
+panisín (panis) _in [adjective] prone to spoilage
 kapansanan (pansan) ka_an [noun] disability
 may kapansanan (pansan) phr_ [adjective] disabled
 pansán (pansan) rt_ [noun] accident; injury; inconvenience
@@ -5945,6 +5967,9 @@ magbigáy-pugay (pugay) mag_ [verb] to salute
 pagbibigay-pugay (pugay) [noun] saluting; giving a salute
 pagpupugay (pugay) [noun] saluting
 pugay (pugay) rt_ [noun] salute
+puhunan (puhunan) rt_ [noun] capital; investment; stake; share
+pamumuhunan (puhunan) pangCV_ [noun] investment; entrepreneurship
+mamumuhunan (puhunan) mangCV_ [noun] investor; capitalist
 puksaín (puksa) _in [verb] to destroy something; to annihilate something; to massacre something; to eradicate something; to exterminate something
 pagpuksâ (puksa) pag_ [noun] extermination; annihilation
 mapuksâ (puksa) ma_ [verb] to be destroyed; to be annihilated;
@@ -5956,6 +5981,9 @@ pamumulá (pula) [noun] reddening; blushing
 pulà (pula) rt_ [noun] criticism
 pulá (pula) rt_ [adjective] red
 puláng-pulá (pula) [adjective] crimson
+pulô (pulo) rt_ [noun] island; isolated place
+kapuluán (pulo) ka_an [noun] archipelago; group of islands
+sankapuluán (pulo) sangka_an [noun] archipelago; the whole archipelago
 kapulungán (pulong) ka_an [noun] assembly; chamber; congregation; congress; conference; convention
 magpulong (pulong) mag_ [verb] to meet; to have a meeting
 makipagpulong (pulong) makipag_ [verb] to have a meeting with
@@ -6228,6 +6256,9 @@ magpasahod (sahod) magpa_ [verb] to pay a salary to
 pasahód (sahod) pa_ [noun] pay; salary; wages; payday
 sahod (sahod) rt_ [noun] salary; payday
 sahurin (sahod) _in [verb] to receive salary; to receive something with both hands
+masahol (sahol) ma_ [adjective] worse; inferior
+sahol (sahol) rt_ [adjective] inadequate
+pinakamasahol (sahol) pinakama_ [adjective] the worst; the most inferior
 isaing (saing) i_ [verb] to cook or to steam rice or fish
 magsaing (saing) mag_ [verb] to cook rice; to steam rice
 saing (saing) rt_ [noun] steamed rice; steaming rice; boiling rice
@@ -6930,7 +6961,7 @@ sugurin (sugod) _in [verb] to rush something; to charge; to attack
 sumugod (sugod) _um_ [verb] to rush forward; to plunge forward; to charge forward
 masugpô (sugpo) ma_ [verb] to be suppressed (AF); to suppress something (OF)
 sugpuín (sugpo) _in [verb] to suppress; to curb
-sugpô (sugpo) rt_ [noun] prawn
+sugpô (sugpo) rt_ [noun] suppression; prawn
 manuhol (suhol) mang_ [verb] to bribe
 pagsuhol (suhol) [noun] bribing; bribery
 panunuhol (suhol) [noun] bribery
@@ -7858,14 +7889,14 @@ pagpápanatili (tili) pagpapa_ [noun] preservation; retention; perpetuation
 mapatilî (tili) mapa_ [verb] to suddenly shriek or scream
 tagapanatili (tili) tagapag_ [noun] preserver; keeper
 magtimbáng (timbang) mag_ [verb] to weigh
-panimbáng (timbang) [noun] balance
-timbangan (timbang) [noun] weighing scale; balance
+panimbáng (timbang) pa_ [noun] balance
+timbangan (timbang) _an [noun] weighing scale; balance
 timbangín (timbang) _in [verb] to weigh
 timbáng (timbang) rt_ [noun] weight; heaviness
 tumimbáng (timbang) _um_ [verb] to weigh
 magtimplá (timpla) mag_ [verb] to mix
-pagtimplá (timpla) [noun] mixing
-panimplá (timpla) [noun] seasoning; flavoring
+pagtimplá (timpla) pag_ [noun] mixing
+panimplá (timpla) pa_ [noun] seasoning; flavoring
 timplahán (timpla) _an [verb] to mix something for someone; to prepare something for someone; to prepare a drink for someone
 timplá (timpla) rt_ [noun] blend; mix; seasoning; flavor
 tinag (tinag) rt_ [noun] move; budge
