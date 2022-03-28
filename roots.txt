@@ -7249,8 +7249,8 @@ tagpô (tagpo) rt_ [noun] scene; setting; situation; meeting
 itaguyod (taguyod) i_ [verb] to uphold something; to support something; to back something; to further something; to help something move forward; to promote something
 magtaguyod (taguyod) mag_ [verb] to establish; to promote; to support; to stick up for
 maitaguyod (taguyod) mai_ [verb] to be able to support something
-pagtataguyod (taguyod) [noun] support; supporting
-tagapagtaguyod (taguyod) [noun] supporter; breadwinner
+pagtataguyod (taguyod) pagCV_ [noun] support; supporting
+tagapagtaguyod (taguyod) tagapag_ [noun] supporter; breadwinner
 taguyod (taguyod) rt_ [noun] support
 ipatahî (tahi) ipa_ [verb] to have something sewn
 itahî (tahi) i_ [verb] to sew something for someone
@@ -7906,21 +7906,21 @@ dí-matinag (tinag) phr_ [adjective] immovable
 ipatindá (tinda) ipa_ [verb] to consign
 itindá (tinda) i_ [verb] to sell something
 magtindá (tinda) mag_ [verb] to sell; to deal
-maninindá (tinda) [noun] vendor; vendors
-pagtitindá (tinda) [noun] selling; selling merchandise
-panindá (tinda) [noun] merchandise; goods for sale; commodity
-patindá (tinda) [noun] consignment
-tindahan (tinda) [noun] store; shop; stall
-tindero (tinda) [noun] merchant; seller; salesman
+maninindá (tinda) mangCV_ [noun] vendor; vendors
+pagtitindá (tinda) pagCV_ [noun] selling; selling merchandise
+panindá (tinda) pang_ [noun] merchandise; goods for sale; commodity
+patindá (tinda) pa_ [noun] consignment
+tindahan (tinda) _an [noun] store; shop; stall
+tindero (tinda) sp_ [noun] merchant; seller; salesman
 tindá (tinda) rt_ [noun] merchandise
-matindí (tindi) [adjective] intense; serious; severe; terrible; extreme; great; heavy; acute; hard; strong; tremendous
-pagtindí (tindi) [noun] intensifying; straining
-pinakamatindî (tindi) [adjective] the most serious; the most severe
+matindí (tindi) ma_ [adjective] intense; serious; severe; terrible; extreme; great; heavy; acute; hard; strong; tremendous
+pagtindí (tindi) pag_ [noun] intensifying; straining
+pinakamatindî (tindi) pinakama_ [adjective] the most serious; the most severe
 tindí (tindi) rt_ [noun] intensity; stress; strain
 tumindí (tindi) _um_ [verb] to become serious; to become intense; to get stronger (in intensity)
 manindigán (tindig) ma_an [verb] to strongly argue for; to strongly maintain (an argument); to stand one's ground
 nakatindíg (tindig) naka_ [adjective] stands; is standing
-panínindigan (tindig) [noun] affirmation; resolve; support
+panínindigan (tindig) pangCV_ [noun] affirmation; resolve; support
 tindíg (tindig) rt_ [noun] bearing; posture; stance; comportment
 tumindíg (tindig) _um_ [verb] to stand up; to arise
 itingalâ (tingala) i_ [verb] to tilt upwards
@@ -7928,9 +7928,6 @@ nakatingalâ (tingala) naka_ [adjective] tilted upward; looking upward
 tingalaín (tingala) _in [verb] to look up to something/someone; to respect something/someone
 tingalâ (tingala) rt_ [adjective] looking upward; tilted upward
 tumingalâ (tingala) _um_ [verb] to look upward; to look up
-panínindigan (tindig) [noun] affirmation; resolve; support
-tindíg (tindig) rt_ [noun] bearing; posture; stance; comportment
-tumindíg (tindig) _um_ [verb] to stand up; to arise
 itingalâ (tingala) i_ [verb] to tilt upwards
 nakatingalâ (tingala) naka_ [adjective] tilted upward; looking upward
 tingalaín (tingala) _in [verb] to look up to something/someone; to respect something/someone
@@ -7945,9 +7942,9 @@ makatingín (tingin) maka_ [verb] to be able to look
 mapatingín (tingin) mapa_ [verb] to happen to look at; to happen to see; to suddenly look at
 nakatingín (tingin) naka_ [adjective] looking
 pagtingín (tingin) [noun] looking; favor; attention; attitude
-pakitingnán (tingin) please look at (something)
-paningín (tingin) [noun] vision; sight; view; sense of sight
-patingín (tingin) [adjective] looking; [interjection] look!
+pakitingnán (tingin) paki_an please look at (something)
+paningín (tingin) pang_ [noun] vision; sight; view; sense of sight
+patingín (tingin) pa_ [adjective] looking; [interjection] look!
 tingnán (tingin) _an [verb] to look at something; to notice something; to view something; to investigate something; to look after something; to check something
 tingín (tingin) rt_ [noun] look; viewpoint; gaze; opinion; attention; diagnosis; esteem
 tumingín (tingin) _um_ [verb] to look at; to view; to behold; to investigate; to diagnose; to look after
