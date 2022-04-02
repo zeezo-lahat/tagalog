@@ -808,6 +808,7 @@ gíwang	vacillation, swaying, wobbling
 goma	rubber
 grabe	wow!, intense, extreme, wild/crazy, etc..
 granada	pomegranate; hand grenade
+gripo	faucet, tap
 gubat	forest, jungle
 guhò	landslide; collapse; ruins
 guhUnan	collapsed
@@ -943,6 +944,8 @@ himagsík	rebellion; uprising (bagsik)
 himalâ	miracle
 himások	interference, meddling, intrusion (pasok)
 himatay	faint, swoon
+himay	shelling, husking; stringing and chopping up of beans; rest after work, relaxing before going to bed
+himayin	to separate grains of corn from the cob, peas from a pod, etc.
 hímig	tune, melody; note
 himláy	slumber
 himlayan	bed; cemetery
@@ -3032,6 +3035,7 @@ páligsahan	a competition
 palihis	deviated, deflected, erroneous, incorrect
 palikuran	a toilet, especially an outhouse
 palimós	begging; request for money from beggars
+palipasin	let pass; pass, use, spend (one's time)
 palípat-lípat	hopping from place to place
 palit	exchange, substitute, replace
 palitan	exchange, exchange rate
@@ -3444,6 +3448,7 @@ sakalì	in case, if; perhaps
 sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
+sakláw	amount, extent, limits; precincts; range; sphere; comprehension
 saklób	concave lid; face-to-face
 saklolo	succor, aid, help
 saknong	stanza; section of a ricefield assigned to one for harvesting
@@ -3511,6 +3516,7 @@ sapa	small stream, brook
 sapagkát	because, since
 sapák	hit, punch, smack, beat
 sápit	arrival
+saplot	dirty or tattered clothes
 sapok	a hit, punch (buntal, bigawas, suntok, dagok, dunggol)
 sapól	at the very beginning; straight, direct
 sapúl	since; to hit a target (syn. tamaan)
@@ -3764,7 +3770,7 @@ takdang-araw	assigned date
 takdang-oras	time limit, death
 takíp	cover, lid, cap (takíp)
 takíp-matá	eyelid
-takip-silim	twilight, dusk
+takip-silim	twilight, dusk (takipsilim)
 takipan	(n) covering up faults (takíp)
 takot	fear
 takót	scared, fearful
@@ -3914,6 +3920,7 @@ titik	(n) text, writing; lyric; letter (of alphabet)
 titik-hilig	italics
 tiwala	trust, faith
 tiwala sa sarili	self-confidence
+tiwalag	dismissed from work; separated
 tiwalî	incorrect; inverted; absurd
 tiwasáy	tranquil, peaceful, secure
 tiya	aunt
@@ -4021,6 +4028,7 @@ turò-turò	a restaraunt where you point to what you want
 túrok	multiple defs. most common meaning is in reference to being injected by a needle
 turón	sweet, crispy banana rolls, made with a banana fried in an eggroll-style wrapper
 tusak	nagkakatusak; masagana, marami, labis na pagkakaroon
+tuso	subtle; sly, tricky, wily; astute; shrewd; calculating
 tusok	piercing, perforation
 tustos	allowance; stock, store, supply (e.g. of raw materials)
 tustusan	support financially; extend, prolong
