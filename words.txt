@@ -2736,6 +2736,7 @@ noón	indicator of the past; then, back when/in, during, at that time, last, pri
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
 normál	normal
+nunal	mole on the skin
 nunò	tiny dwarf or fairy who lives in small mounds or anthills
 óbra	a work (of art, etc.)
 óbra maéstra	masterpiece
@@ -3908,6 +3909,7 @@ tinggâ	lead (uri ng metal)
 tingín	look, view, sight (lit and fig); opinion, estimate (palagay)
 tingkád	brightness (of color)
 tingnán	look at, check (tingín)
+tinidor	fork
 tinig	voice
 tinik	fishbone, thorn
 tinutUkoy	talking about X
