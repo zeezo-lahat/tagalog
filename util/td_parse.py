@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3
 '''Input .td files, output the english phrase -> tagalog translations,
 so that, eg., this:
 

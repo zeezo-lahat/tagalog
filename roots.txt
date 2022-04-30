@@ -8367,6 +8367,9 @@ paubós (ubos) [adjective] running out of
 ubusin (ubos) _in [verb] to deplete something; to finish something; to finish off something; to devour something; to exhaust something
 ubós (ubos) rt_ [adjective] all gone; consumed; used up
 umubos (ubos) _um_ [verb] to consume; to run out of; to exhaust
+úubrá (ubra) CV_ [adjective] possible; can be
+ubrá (ubra) rt_ [adjective] possible; maybe
+di-úubrá (ubra) phrase_ [phrase] cannot be; impossible
 maudlót (udlot) ma_ [verb] be postponed; to be terminated suddenly
 udlót (udlot) rt_ [noun] postponement; sudden termination of an event
 kaugalián (ugali) [noun] custom; practice; fashion; convention; manner; habit; disposition
