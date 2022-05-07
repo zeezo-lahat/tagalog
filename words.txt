@@ -4122,6 +4122,7 @@ uri	kind, class, sort, species, type
 uri-uri	of all kinds
 urong	retreat, backward movement
 urong-sulong	“going backward, going forward” = indecisive, hesitation
+usá	a deer
 úsad	forward movement, progress forward; mabagal na pagsulong
 úsap	talking to each other
 usap-usapan	what people are talking about = rumors, gossip
