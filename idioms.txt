@@ -1,15 +1,30 @@
+Kung ako ikaw, titigil na ako sa paninigarilyo.	If I were you I would stop smoking.
+Hindi ako nagtatrabaho kapag weekend.	I don't work weekends.
+Baka may magnakaw niyan.	Someone might steal that.
+Baka hindi magkasya ang pagkain natin.	Perhaps the food may not be enough for us.
+Huwag ka diyan, baka matamaan ka ng bola.	Don't stay there as you might get hit by the ball.
+Tingnan mo baka dumating na si May.	See if May has already arrived.
+Bakit wala ako dito?	Why wasn't I here?
+Niloloko mo ba ako?	Are you fooling me?
+May pagkukulang ba ako?	Do I have any shortcomings?
+Bakit hindi mo ako mapatawad?	Why can't you forgive me?
+Mahirap ba akong mahalin?	Am I hard to love?
+Nasaan ba ako sa iyo?	Where am I to you?
+Anong pakialam ko sa kanya?	What do I care about her?
+Kasya kaya ito sa akin?	Will this fit me?
+Pwedeng akin na lang ito?	Can I have this?
 Mag-ahit ka ng balbas mong pagkahaba-haba na!	Shave your beard "that is so very long already"!
 Gaano mo sya katagal na gusto?	How long do you want it for?
 Makíkipagkita kamí kay Tony.	We will meet up with Tony.
 Isa ako sa mga hindi makatulog matapos mapanood ang The Ring.	I was one of those who could not sleep after watching The Ring.
 Gaano ang timbáng mo?	How much do you weigh?
-sa balat ng lupa	on the face of the earth
+Sa balat ng lupa	On the face of the earth
 Anó ba 'yan!	What the heck! (expressing irritation)
-tabi mo yan	put that aside
+Tabi mo yan	Put that aside
 Kung magsalita siya, akala'y alam lahat.	She talks as if she knew everything.
 Pagka nagsasalita ka, akala mo'y alam lahat.	You talk as if you knew everything.
 Parang mayaman siyang magsalita.	He speaks as if he were rich.
-dati akong school teacher	I used to be a school teacher
+Dati akong school teacher	I used to be a school teacher
 Napahamak si Romina nang magsínungalíng si Daniela tungkól sa kaniyá.	Romina was in danger when Daniela told a lie about her.
 Si Penny ang paborito kong katuwáng sa klase.	Penny is my favorite partner in class.
 Ang sabi, aaréstuhín na raw si Gloria.	They say Gloria will be arrested soon.
@@ -30,17 +45,17 @@ Inasahan kong daratíng ka kahapon.	I expected you to arrive/come yesterday.
 Hahaluin mo siyá nang dáhan-dahan.	You should stir it slowly.
 Bakit hindî mo pa kasí aminin?	Why don't you just admit it?
 Bakit kasi hindi mo sabihin na mahal mo siya?	Why don't you say you love him?
-walâ namáng mawawalâ sa iyó	you have nothing to lose
-susubukan <ng phrase> na <infinitive> <obj>	<whoever> will try to <do something>
-si Mary ang babae	the woman is Mary
-ang teacher ang babae	the woman is the teacher
-umuulan	It's raining
+Walâ namáng mawawalâ sa iyó	You have nothing to lose
+Susubukan NG na <infinitive> <obj>	<whoever> will try to <do something>
+Si Mary ang babae	The woman is Mary
+Ang teacher ang babae	The woman is the teacher
+Umuulan	It's raining
 Mahirap magsalita ng Tagalog.	It's hard to speak Tagalog.
 Tagalog yata yan.	I think that's Tagalog.
-lalo na sa iyo	especially you
-bumaha sa Maynila	it flooded in Manila
-binaha ang Maynila	Manila flooded
-alas-tres na pala	it seems it's three o'clock (already)
+Lalo na sa iyo	Especially you
+Bumaha sa Maynila	It flooded in Manila
+Binaha ang Maynila	Manila flooded
+Alas-tres na pala	It seems it's three o'clock (already)
 ginabi ako	I stayed out late
 mamayáng gabí	later tonight
 kaninang umaga	this morning, earlier this morning
@@ -61,7 +76,7 @@ kasama ANG	with (ie, together with) <X>
 nang hindî ANG kasama	without (ie, not with) ANG
 ANG ang kasama NG	ANG is with/companion NG
 Tuwíng magkikita kamí ni <X>..	Every time <X> and I see each other..
-may kasáma ANG <-> <na X>	ANG includes / comes with / has <X>
+may kasáma ANG na X	ANG includes / comes with / has X
 sakâ na (lang)	some other time
 sakâ mo na ako tanungin	ask me another time.
 walang tiyagA	impatient
@@ -69,7 +84,7 @@ hindî na	not any more; never mind
 hindi yata	I don't think so
 <something> yata	<something>, I think
 malamáng hindi	unlikely
-ayaw NG ng <X>	NG doesn't want/like <X>
+ayaw NG ng X	NG doesn't want/like X
 tíla	apparently, seemingly, "it seems"
 tíla uulan	It seems it's going to rain
 huli tayo	we're late
@@ -79,7 +94,7 @@ Nasa sa iyo (nasa 'yo)		it's up to you
 gayon din naman		likewise
 handa ka na bang pumunta?	are you ready to go?
 gawin mo muli	just do it again
-gusto mo bang sumama sa akin sa <X>	do you want to come with me to <X>
+gusto mo bang sumama sa akin sa X	do you want to come with me to X
 hintayin mo ako	wait for me
 masama ang pakiramdam	I'm not feeling well
 ayan ka na naman	there you go again
@@ -88,7 +103,7 @@ dahan-dahan magsalita nga!	speak slowly!
 malay ko ba?	how would I know?
 máibá namán	for a change
 pagbigyán mo naman ako	please give me some slack
-akin na <X>	give me the <X>
+akin na ANG	give me the ANG
 tama na	that's enough / no more
 'di nga?	srsly?
 sabihin mo sa akin	tell me
@@ -259,3 +274,4 @@ Huwag mong damdamín ito.	Don’t feel resentment over this.
 ano'ng akala mo sa akin, tanga?	what do you think I am, a fool?
 Dapat ay kinampihan mo ako, bagkus tumawa ka pa.	You should’ve supported me; instead, you laughed.
 Nagkunwaring nag-íisíp si Mike.	Mike pretended to be thinking.
+sanhi ng	caused by, due to
