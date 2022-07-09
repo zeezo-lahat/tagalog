@@ -1,3 +1,16 @@
+Saklolo!	Help!
+Pakiabot.	Please pass it on.
+Patay!	I'm screwed!
+Lagot!	<someone> is in trouble.
+Pahirám?	May I borrow?
+Kulang.	It's not enough.
+Pareho.	Both.
+Malamáng.	Probably.
+Seryoso?	Seriously?
+Sána.	I really hope so.
+Bastá!	Just because, don't ask why.
+Pareho?	Are they the same?
+Pabili!	I will buy something! (announcing your presence at sari-sari store)
 sama ka?	care to join?
 kapalagAyan ng loob	calmness, serenity
 Depende 'yan.	It depends.
@@ -202,3 +215,6 @@ sa kalaunan	eventually, after a while
 oo ba	yes, for sure
 pambihira ka naman	you're really something else / one-of-a-kind
 Makíkipag-usap ako kay Paul.	I'll talk to Paul.
+Gawin ko na..	I already did that..
+mula pa noong biyernes	since last friday
+mula sa kahirapan	out from poverty

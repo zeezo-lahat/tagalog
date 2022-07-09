@@ -14,8 +14,9 @@ parser = argparse.ArgumentParser(description='Flashcard generator.')
 
 parser.add_argument('-r', dest='reverse', action='store_true',
                     help='present second column rather than first, ie eng-tag')
-parser.add_argument('-a', dest='norandom', action='store_true',
+parser.add_argument('-n', dest='norandom', action='store_true',
                     help="don't do random order, just go straight through")
+parser.add_argument('-a', dest='autosleep', help="proceed to next after sleep, no keyboard input needed")
 parser.add_argument('-c', dest='count', help='cards to do, 0 for "all"')
 parser.add_argument('-s', dest='startline', help='start on this line.  default is 1.')
 parser.add_argument('infile', help='input file')
@@ -70,19 +71,27 @@ while count < dothismany and linecount <= availablelines:
     print(count, '', end='')
 
     if args.reverse:
-        #print(t2e[1].strip())
-        print(t2e[1].strip(), end='')
-        input()
-        #time.sleep(25) 
-        print('\t\t\t\t', t2e[0].strip())
+        if args.autosleep:
+            print(t2e[1].strip())
+            time.sleep(int(args.autosleep))
+            print('\t', t2e[0].strip())
+            time.sleep(int(args.autosleep))
+        else:
+            print(t2e[1].strip(), end='')
+            input() # this will not work if reading input text from stdin!!!
+            print('\t\t\t\t', t2e[0].strip())
         time.sleep(2) 
         print()
     else:
-        print(t2e[0].strip(), end='')
-        # this will not work if reading input text from stdin!!!
-        input()
-        #time.sleep(8) 
-        print('\t\t\t\t', t2e[1].strip())
+        if args.autosleep:
+            print(t2e[0].strip())
+            time.sleep(int(args.autosleep))
+            print('\t', t2e[1].strip())
+            time.sleep(int(args.autosleep))
+        else:
+            print(t2e[0].strip(), end='')
+            input() # this will not work if reading input text from stdin!!!
+            print('\t\t\t\t', t2e[1].strip())
         time.sleep(2) 
         print()
     

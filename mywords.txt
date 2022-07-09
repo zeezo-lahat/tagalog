@@ -1,44 +1,47 @@
 abante	lead (n) in a game; go ahead!, proceed!
-ágam-ágam	feeling of foreboding, anxiety, suspicion; reflection
 ahon	rising out of; emerging from
 aklás	revolt
+alagad	follower, disciple
 alilà	servant
 alingasngás	a scandal
 alitan	quarrel, conflict, tiff, strife
 angkán	family, clan; lineage, ancestry
+bagabag	rt_ [noun] trouble; uneasiness
 bagsík	cruelty, severity, fierceness
 bala	threat, warning
-bále-walaín	to ignore something/someone; to disregard something
-banság	rt_ [noun] motto; slogan; nickname; alias; surname; boasting
 bansagán	_an [verb] to be called a name; to ridicule by name-calling; to be labeled; to have a reputation of being known as
+banság	rt_ [noun] motto; slogan; nickname; alias; surname; boasting
 batis	spring of water, brook, fountain or source
 bigô	frustrated, disappointed; failure
 bisig	forearm, arm; manpower, laborer
 bukal	spring of fresh water; source; reservoir
-bunyág	rt_ [adjective] revealed; exposed
 bunyág	disclosure, revelation
+bunyág	rt_ [adjective] revealed; exposed
+buwis	tax, tariff, cropshare
+bále-walaín	to ignore something/someone; to disregard something
 dako	direction, way; part; region of body; spot; around; around (+time)
 daló	presence, attendance
-dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
 dayà	[noun] deceit; fraud; cheating; trickery;
 dedma	the act of ignoring, feigning unawareness ("dead malice")
+dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
 engganyo	rt_ [noun] enticement
-gaán	rt_ [noun] lightness (of weight); easiness
 gapos	manacle; rope tied around the arms or hands; bond; tie
+gaán	rt_ [noun] lightness (of weight); easiness
 guhit	rt_ [noun] drawing; line; stripe; design; mark
 gumaán	_um_ [verb] to become light
 hamog	the moisture in the air that can be seen, vapor; dew
 hango	literary adaptation or reproduction from original; derived, extracted, adapted
+harót	unladylike, coarse, unrefined, boisterous
 hawíg	resemblance; similar, alike, akin
+hayág	easily seen, public, exposed view
 hikayat	persuasion
 himagsík	rebellion; uprising (bagsik)
-igapos	to be bound by someone by hands or arms
 italagá	to dedicate; to devote; to assign; to be assigned for; to consecrate
-itatág	to establish something; to institute something; to constitute something; to found something (e.g., an organization)
 kabisado	memorized
+kailâ	rt_ [adjective] secret
 kakaibá	different, strange, unusual
-kalás	detached; removed; freed from
 kalaunan	ka_an [adjective] after a while; in time; as time went on; long time
+kalás	detached; removed; freed from
 kamít	acquisition; obtaining, getting, achieving
 kapatagan	plain; plains (geography)
 kapatiran	fraternity, brotherhood
@@ -53,12 +56,13 @@ laitin	to revile, abuse with words, vilify, deride (nilalait, nilait, lalaitin)
 laon	long (in time)
 larangan	domain, field of knowledge
 lason	poison
-liít	smallness
 likhâ	creation; fiction; creative work
 lingid	hidden, not known, secret
+liít	smallness
 lumikhâ	to create; to generate; to contrive
-lúmot	moss, algae
 lumpó	a crippled person, esp. the legs
+lungkót	rt_ [noun] sadness; dejection
+lúmot	moss, algae
 maabutan	to happen to encounter something; to catch up with / to something or someone
 mabisà	ma_ [adjective] effective; works well
 madurog	ma_ [verb] to be crushed; to be breakable
@@ -71,6 +75,7 @@ maliin	consider as wrong or mistaken (minamali, minali, mamaliin)
 maliitin	to make little of, to belittle
 mamighatî	to be in anguish or distress, to suffer affliction
 mamunò	(puno) mang_ [verb] to lead (people); to conduct
+manampalataya	[verb] to have faith
 matamláy	lethargic, listless, languid, having no energy
 matanggál	to detach something (OF); to become detached (AF); to be able to detach something (OF); to be removed (AF); to remove something (OF); to be unlaced (AF)
 matantô	to realize; be able to comprehend
@@ -79,28 +84,24 @@ minsan	sometimes; once, at one time (in the past), sometime (in the future)
 muntik	nearly
 naturang	such, said, mentioned, aforementioned (sym in use to sarili)
 pagbigyán	to give in/accommodate/oblige/concede to someone
-pagkain	pag_ [noun] food; the act of eating
 pagkakáalám	pagkaka_ [noun] understanding, knowing
 pagsisisi	[noun] regret; repentance
 pagsusulit	exam; test; quiz
-páhayagán	pa_an [noun] newspaper
-pákay	purpose, aim
 palayô	pa_ [adverb] away; further away
+palít	rt_ [noun] change; exchange; substitute
 pamagát	rt_ [noun] title; caption
+pananampalataya	pananang_ [noun] faith; belief in God; creed
 panayám	interview (generally of two); conference
 parangál	pa_ [noun] award celebration; reward; magnification; awards; accolade
 pasa	rt_ [noun] pass; passing; handing over
-pasamain	to make worse
-pasamaín	pa_in [verb] to corrupt; to debauch; to make someone evil
+pasamaín	pa_in [verb] to corrupt; to debauch; to make someone evil; to make worse
 patag	rt_ [adjective] even; level; flat
 patalastas	an advertisement
-<<<<<<< HEAD
-pisíl	(pisil) rt_ [noun] squeezing with one's hand
-=======
 paumanhín	apology, "sorry" (very formal)
 pighatî	anguish, torment, grief
-pílay	lame, limp, crippled; sprain, dislocation
->>>>>>> fa30135c1cdab063e359ea016e97d9e5ba1e7857
+pilak	silver (the metal)
+pinggan	dish, plate
+pisíl	rt_ [noun] squeezing with one's hand
 poót	rt_ [noun] hostility; hatred; hate; animosity; wrath
 prangka	frank, sincere, plain-spoken
 pugay	rt_ [noun] salute
@@ -108,19 +109,29 @@ pulot	picking up from the ground
 punò	rt_ [noun] tree; chief; boss; executive
 punô	full, filled
 purók	district (smaller than a barangay)
-saád	rt_ [adjective] stated; said
+páhayagán	pa_an [noun] newspaper
+pákay	purpose, aim
+pílay	lame, limp, crippled; sprain, dislocation
+pípi	mute, unable to speak; utal, umid, apaw; hindi makapagsalita
+sagwán	paddle (as for a raft)
 sakalì	in case, if; perhaps
-salát	rt_ [noun] touch; [adjective] poor; destitute; lacking
+sakláw	amount, extent, limits; precincts; range; sphere; comprehension
 salungát	rt_ [adjective] opposite; contrary; adverse; anti; counter; against
+salát	rt_ [noun] touch; [adjective] poor; destitute; lacking
+samakatwíd	therefore
+saád	rt_ [adjective] stated; said
 sikmurà	stomach, upper stomch
+singit	rt_ [noun] pressing; squeezing in; groin
 sungit	rt_ [noun] unpleasantness; unfriendliness; harshness; strictness; sternness
 sunód	rt_ [noun] next; follower; [adjective] fulfilled
 sustento	rt_ [noun] sustenance; alimony
-tagál	rt_ [noun] duration; length of time
 taglagás	autumn
+tagál	rt_ [noun] duration; length of time
+talakay	rt_ [noun] discussion
 talas	rt_ [noun] sharpness; sharp
 talik	rt_ [noun] closeness; being close to one another;
 talinghagà	metaphor, aphorism
+talumpati	speech, oration, address
 tanggál	unfastened; removed; detached; dismissed from employment; abolished
 tanghál	to be shown, on display; presentation, exhibition
 tantô	realize, understand
@@ -131,6 +142,6 @@ tipak	chip, piece; block, chunk, lump, nugget
 tuksó	teasing; tempting; temptation; jest
 ukit	rt_ [noun] carving; etching
 ukol	rt_ [adjective] intended for; about; destined; proper; suitable
-ulit	repetition
 usap	rt_ [noun] discussion
 yayà	rt_ [noun] invitation
+ágam-ágam	feeling of foreboding, anxiety, suspicion; reflection
