@@ -1,3 +1,7 @@
+Pronouns as subject: needs to be put inside the predicate as the second word (p.44 PTSI):
+Kwarto ito ng katulong namin.  "This is our maid's room"
+HINDI: Kwarto ng katulong namin ito. (WRONG!!)
+
 gusto|ayaw <ng> <ng>
 gusto namin ng bir.
 
@@ -7,13 +11,13 @@ pa_in - focus on the "someone":
 Pinaluto ni Mario si Aling Tess ng pansit para sa handaan. | Mario had Aling Tess cook pansit for the celebration.
 
 ipa_ - focus on the "something":
-Ipapaluto ni Mario kay Aling Tess ang pansit para sa handaan. |  Mario will have Aling Tess cook the pansit for the celebration.
+Ipinaluto ni Mario kay Aling Tess ang pansit para sa handaan. |  Mario had Aling Tess cook the pansit for the celebration.
 
 Could also be:
-Ipapaluto ni Mario ang pansit kay Aling Tess para sa handaan.
+Ipinaluto ni Mario ang pansit kay Aling Tess para sa handaan.
 
-Could NOT be!!:
-(WRONG!!) Ipapaluto ang pansit ni Mario kay Aling Tess para sa handaan. (WRONG!!)
+NOT!!:
+WRONG WORD ORDER: Ipinaluto ang pansit ni Mario kay Aling Tess para sa handaan. (WRONG!!)
 
 
 ipag-in - causative + benefactive:
