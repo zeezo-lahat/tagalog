@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 '''Loop through random lines from input file given as sys.argv[1] ('-' for stdin)
 Lines consist of two fields delimited by '\t'
 First part is Tagalog, second part is English or vice versa

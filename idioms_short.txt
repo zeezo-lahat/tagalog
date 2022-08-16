@@ -1,3 +1,5 @@
+kung saan	"where", including eg "kung saan ang katawan ay kulang sa melanin" "where the body lacks melanin"
+sa mga panahong ito..	in these times..
 Saklolo!	Help!
 Pakiabot.	Please pass it on.
 Patay!	I'm screwed!
@@ -218,3 +220,4 @@ Makíkipag-usap ako kay Paul.	I'll talk to Paul.
 Gawin ko na..	I already did that..
 mula pa noong biyernes	since last friday
 mula sa kahirapan	out from poverty
+paré-pareho	similarly, in the same way
