@@ -104,6 +104,7 @@ albularyo	traditional healer, medicine man; quack doctor, charlatan
 ale	aunt, step mother, expression addressed to a woman, reference to a woman
 alikabok	dust
 alilà	servant
+alimango	crab
 alimasag	small crab, a type of small crab
 alín	which?
 alingasngás	a scandal
@@ -446,6 +447,7 @@ bilangguan	jail
 bilasa	stale, putrid, spoilt (referring to fish)
 bilíb	confidence in someone or something (colloquial term for 'believe')
 bilibid	jail
+bilihan	a place where men trade
 bilíng	turn; turning; restless
 bilis	speed
 bilisan	hurry
@@ -864,6 +866,7 @@ habágat	southwest, often ref. to storm winds
 hábang	while, throughout, during ("as long as"?)
 hábang-buhay	lifelong, "while alive" (var: habambuhay)
 habang-panahon	"while time", forever
+habilin	will (legal document); something entrusted to someone; trust (habil)
 hablot	grab
 habol	pursue, run after, chase
 hábong	hut, pavilion, temporary shelter
@@ -1303,6 +1306,7 @@ kahit pa	even though, despite
 kahit paano	somehow
 kahit papaano	somehow; in some way; whatever happens
 kahit sino	anyone
+kahóg	haste (also, something to do with embarrassment..)
 kahol	bark, as of a dog (also tahól)
 kahón	a box
 kahoy	wood, lumber, tree
@@ -1390,6 +1394,7 @@ kamí-kamí	just us (exclusive)
 kamiseta	shirt
 kamít	acquisition; obtaining, getting, achieving
 kamote	sweet potato; blockhead / dimwit (slang)
+kampante	complacent, content
 kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kamungawan	comprehension
@@ -1630,6 +1635,8 @@ kulì	retraction, revocation
 kuliglíg	cricket
 kulit	peskiness
 kulitin	to badger, pester
+kulkól	a shallow hole
+kulkulín	to dig a shallow hole
 kulob	something that is covered up
 kulóng	jailed, caged
 kulot	curl
@@ -1665,7 +1672,8 @@ kupal	smegma; used to describe a foolish or nasty person
 kupas	faded, out of date, out of use
 kupkop	kept and protected under care; held against the chest
 kurípot	stingy
-kuru-kuro	personal opinion (palagay, opinyon)
+kuro	comment, tenet, viewpoint, notion, point of view, belief
+kuró-kuró	personal opinion (palagay, opinyon) point of view; notion; belief; concept (kuru-kuro)
 kusà	deliberately, voluntarily
 kusang-loób	free will
 kusang palo	self-starter
@@ -1761,7 +1769,7 @@ lampaso	a mop
 landas	a path, trail
 langaw	housefly
 langgám	ant
-langis	oil, grease
+langís	oil; oily or fawning behavior (figurative)
 langit	sky, heavens; ecstasy
 langitngit	the squeaking sound of a door hinge
 langóy	swimming
@@ -1850,6 +1858,7 @@ liwayway	dawn
 liyab	blaze, flame
 lobo	balloon
 loko	cheating, deceiving; crazy person, lunatic; crazy, insane, demented, mad
+lóok	a bay, gulf, harbor
 losyang	looking older than her age, especially married women who’ve let themselves go.
 lubák	pothole, hollow in the ground
 lubák-lubák	full of potholes
@@ -1860,7 +1869,7 @@ lubóg	submerged, sunken, buried (lit. or fig.)
 lubos	complete, exhaustive, entire, unmitigated, quite, wholly, in full
 lugár	place, site, point, spot, region, location, seat, space
 lugí	financial loss
-lugmok	prostrate and helpless
+lugmók	prostrate and helpless
 lúho	luxury
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luhóso	extravagant
@@ -2043,6 +2052,7 @@ magkasama	together
 magkasintahan	a couple in a romantic relationship
 magkatulad	similar (two things)
 magkaunawaan	to have an understanding of each other’s position
+magkumahóg	to rush; to hasten (kahóg)
 magkunwari	to pretend
 maglaán	to allocate, devote, provide, dedicate, appoint
 maglagi	to stay/visit/remain somewhere
@@ -2071,6 +2081,7 @@ magpahangin	to get some fresh air
 magpahinga	to take a break
 magpahirap	to make matters difficult
 magpakabaít	to be nice, to make nice
+magpakabuti	to be good
 magpakahulugan	to interpret
 magpakailanman	forever, forevermore
 magpakamatáy	to commit suicide
@@ -2195,6 +2206,7 @@ makapál	thick, dense, abounding
 makapili	traitorous
 makápúlot	to happen to pick up, find
 makaramdám	to feel
+makasanlibutan	something like humanity or worldly people.  used in biblical translations for "one who is in the world" (John 4:4), isang katauhan
 makasarili	selfish
 makatà	poet
 makatagpô	to discover, come across
@@ -2359,6 +2371,7 @@ mano	the act of raising an elder's hand to your forehead to show respect; handfu
 mánong	older brother; from the Spanish hermano. This is the male equivalent of manang.
 mánonoód	spectator, bystander, watcher
 manoód	to watch
+manugang	son-in-law or daughter-in-law
 manukso	to tempt; to tease
 manuluyan	to stay in someone's house
 manumpâ	to pledge/swear/attest to; to swear in (to a position) (sumpâ)
@@ -2416,7 +2429,7 @@ marikit	dainty. This is an old-fashioned word for “pretty.”
 máriníg	to hear
 martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
-marupók	weak, fragile
+marupók	weak, materially weak, weak willed, fragile, flimsy (dupok)
 mas	more
 mas kaunti	less
 masagána	abundant, plentiful (sagána)
@@ -3573,6 +3586,7 @@ sanglinikha	universe, all creatures
 sangsang	strong but not unpleasant odor
 sanhî	cause, motive, reason
 sanhi ng	caused by, due to
+sánlibután	universal (katoliko)
 sapa	small stream, brook
 sapagkát	because, since
 sapák	hit, punch, smack, beat
