@@ -592,6 +592,7 @@ buwaya	crocodile
 buwelta	pagbabalik, return (also bwelta)
 buwis	tax, tariff, cropshare
 buwísit	a nuisance
+chichirya	snacks / junk food
 daán	hundred
 daán	road, path, way
 daan-daan	hundreds
@@ -2220,7 +2221,6 @@ makatulong	helpful; to be able to help
 makatuturán	significant, of value  
 makatwiran	rational, reasonable
 makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
-makikiha	???? see making out in tagalog "please get.."
 makíkipag-úsap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
 makikipagsapalaran	hazard; risk; take a chance (jointly)
 makíkiraán	please let me pass by
@@ -3691,6 +3691,7 @@ sipot	arrival
 sirà	break, damage, ruin (milder than wasak)
 sirâ	broken
 siraulo	brain-broken (crazy)
+sirit	sizzling sound; gurgling sound of liquid; hissing sound;  squirt of a liquid
 sisánte	dismiss, sack, fire (also sisánti)
 sisi	remorse
 sísig	a dish from the chopped parts of a pig’s head, ears, cheeks, snout, heart and, brain
