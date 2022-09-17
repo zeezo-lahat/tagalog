@@ -514,6 +514,10 @@ apuhapin (apuhap) _in [verb] to fumble; to grope blindly
 maapuhap (apuhap) ma_ [verb] to grope around; to feel by hand
 mag-apuhap (apuhap) mag_ [verb] to fumble; to grope
 umapuhap (apuhap) _um_ [verb] to grope; to fumble
+maapulá (apula) ma_ [verb] to surpress something (OF); to be surpressed (AF); to be stopped; to be checked (stopped/slowed); to dissipate (AF)
+apulain (apula) _in [verb] to stop something; to arrest something (stop); to check something (stop/slow)
+apulà (apula) rt_ [noun] stopping or preventing something (like(apula) stopping a fire, spread of disease, etc.)
+maapulá ang apoy (apula) phr_ [verb] to put out fire
 apurado (apura) sp_ [adjective] in a hurry
 apurahan (apura) _an [adjective/adverb] urgent
 apurahín (apura) _in [verb] to hurry up; to quicken
@@ -3502,6 +3506,8 @@ pag-ibig (ibig) pag_ [noun] love; romantic love; romantic affection
 pag-íibigán (ibig) pagCV_an [noun] loving each other; mutual love
 pakikipagkaibigan (ibig) pakikipagka_an [noun] friendship
 umibig (ibig) _um_ [verb] to love; to fall in love; to romantically love
+maibsán (ibsan) ma_ [verb] to be able to relieve something
+ibsán (ibsan) rt_ [verb] to unload something; to relieve something
 nakaidlíp (idlip) naka_ [adjective] napping
 maidlíp (idlip) ma_ [verb] to nap; to doze
 umidlíp (idlip) _um_ [verb] to nap; to take a nap
@@ -4889,6 +4895,8 @@ kapaligirán (ligid) kapa_an [noun] surroundings; environment; atmosphere
 ligid (ligid) rt_ [noun] circumference; surroundings; atmosphere
 lumigid (ligid) _um_ [verb] to encircle; to surround
 paligid (ligid) pa_ [noun] surroundings; vicinity; periphery; environment
+paligiran (ligid) pa_an [verb] to surround something/someone
+palígid-ligid (ligid) pa_rt_rt [adjective/adverb] everywhere
 liguan (ligo) _an [noun] bathing area; lagoon; swimming area
 ligò (ligo) rt_ [noun] bath; taking a bath / shower
 magpaligò (ligo) magpa_ [verb] to give a bath to
@@ -8374,6 +8382,10 @@ patunay (tunay) pa_ [noun] proof; evidence; manifestation
 patunayan (tunay) pa_an [verb] to prove; to testify; to verify; to certify; to authenticate; to corroborate
 sa katunayan (tunay) phr_ [adverb] in fact; in reality
 tunay (tunay) rt_ [adjective] true; genuine; full-blooded; concrete; sincere; actual; factual
+matunghayán (tunghay) ma_an [verb] to be able to oversee something; to be able to look at or read something carefully
+tunghayán (tunghay) _an [verb] to look over; to look at or read something carefully
+nakatungháy (tunghay) naka_ [adjective] looking up; looking upward; with a raised head
+tungháy (tunghay) rt_ [adjective] looking up
 katungkulan (tungkol) ka_an [noun] task; job; duty; obligation; business; position; function; employment
 panunungkulan (tungkol) pangCV_an [noun] time in office; term (ex(tungkol) presidential term)
 patungkól (tungkol) pa_ [noun] about; dedication
