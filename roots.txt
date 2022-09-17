@@ -290,8 +290,8 @@ alugín (alog) _in [verb] to shake the contents of something; to shake something
 alóg (alog) rt_ [noun] shake; shaking up/off; jerking
 maalóg (alog) ma_ [adjective] shaky
 mag-alóg (alog) mag_ [verb] to shake the contents of
-pag-alóg pag_ (alog) [noun] shaking
-umalug-alóg (alog) _um_ [verb] to keep shaking; to keep jerking
+pag-alóg (alog) pag_ [noun] shaking
+umalug-alóg (alog) _um_rt_rt [verb] to keep shaking; to keep jerking
 umalóg (alog) _um_ [verb] to shake
 áalug-alóg (alog) CVrt_rt [adjective] wobbly; shaky; ramshackle; rickety
 áalóg-alóg (alog) CVrt_rt [adjective] shaky
@@ -4352,6 +4352,9 @@ magkusà (kusa) mag_ [verb] to volunteer
 kuskusín (kuskos) _in [verb] to rub something; to scrub something
 kuskós (kuskos) rt_ [noun] rubbing; scrubbing
 ikuskós (kuskos) i_ [verb] to rub; to scrub
+kusutín (kusot) _in [verb] to crumple something; to rumple something; to crush something; to squint something (one's eyes)
+kusót (kusot) rt_ [adjective] crumpled; wrinkled
+magkusót (kusot) mag_ [verb] to rub; to scrub; to wash clothes by rubbing; to crumple
 ikuwento (kuwento) i_ [verb] to narrate; to tell a story; to tell stories
 kuwento (kuwento) rt_ [noun] story
 magkuwento (kuwento) mag_ [verb] to tell a story; to narrate
