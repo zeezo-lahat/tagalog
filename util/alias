@@ -41,7 +41,7 @@ defsagain () # read stdin and pass the final word from each line to def.  feed m
           read stuff || return
           _t=${stuff/* /}
           def $_t
-        done | sort | uniq
+        done | uniq #| sort | uniq
 }
 
 defrep ()
