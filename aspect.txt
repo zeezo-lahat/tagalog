@@ -1,13 +1,13 @@
+Gaano katagal 'yon kapag nilakad?	How long does it take to walk?
 Magsísimulâ pa lang si James kumain nang dumatíng ang pinsan niyá.	James was just about to start to eat when his cousin arrived.
 Hindî pa kitá tinátanóng tumátanggí ka na.	I haven't asked you anything yet and you're already saying no.
-Nakakapagod ang gawain	the task was tiring
-
-walang kikilos -> don't move
+Nakakapagod ang gawain	The task was tiring
+walang kikilos	don't move
 
 nagpapátay	to have had someone killed (nagpa)
 nagpapatáy	to be killing someone (nagCV)
 
-> "while were/was doing" is written as just "while doing"
+> "while were/was doing" (eg, with 'habang' or 'nang') is written as "while is doing"
 
  What did you do while we were watching TV?
 
@@ -36,7 +36,7 @@ nagpapatáy	to be killing someone (nagCV)
 
 
 
-> "can/can't" is stated as "will/won't be able to"
+> "can" is stated as "will be able to" , "can't" is stated as "won't be able to"
 
  Where can I watch the film?
 
