@@ -24,6 +24,7 @@ abat	ambush, snare
 abatan	to ambush, waylay someone
 abay	an attendant
 abay	lying or sitting close to each other
+abér	"Abér!"  Go ahead!, Look!
 aberya	mechanical trouble; a snag; literal or metaphorical malfunction
 abiso	notice, notification (mag: i: an)
 abisuhan	notify beforehand, forewarn
@@ -692,6 +693,7 @@ dilà	tongue
 dilaw	yellow
 dilíg	watering (of plants); irrigation
 diligán	to water something; to sprinkle with water
+dimarim	disgust
 din	too, also; (with adjective) pretty much / somewhat / to some extent; nevertheless, anyway, surely; in return
 dingdíng	flimsy wall; wooden wall ("pader" is for a sturdy wall)
 dinggín	to listen to, to hear (dinig)
@@ -880,6 +882,7 @@ hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
 hakbáng	step; stepping; move
 hakbangin	(n) steps
+halá	Watch out!, Oh no!, Geez!, Wow!, Oh my!, exclamation of warning, surprise, etc.
 halagá	price, cost, charge, worth, value, importance
 halál	vote, elective
 halalan	election
@@ -1506,7 +1509,7 @@ kasingkahulugan	synonym
 kasingkahulugan	synonymous
 kasintahan	someone you’re in a romantic relationship with
 kasiyahán	satisfaction, pleasure, zest (siyá)
-káso	lawsuit, case; value, importance; disagreement; the point, the truth
+káso	lawsuit, case; value, importance; disagreement; the point, the truth; "except that.." (eg "Kaso Espanyol")
 kasosyo	business partner
 kastígo	reprimand, rebuke; originally meant punishment
 kasundo	someone you get along with; agreeing
@@ -3094,7 +3097,7 @@ palayain	to free someone/something
 palayán	rice field, rice paddy
 paláyaw	nickname, sobriquet
 palayo	getting further away
-palayok	earthen pot
+palayók	earthen pot
 palda	skirt
 palengke	a traditional marketplace, especially a wet market
 paliban	postponement
@@ -3423,6 +3426,7 @@ pusang kalye	street cat
 pusit	squid
 puslít	smuggling, low-key escape: squirt, spurt
 pusò	heart
+punô	a bundle of rice (or something like that)
 pusod	navel, bellybutton; hub; deepest part of a body of water
 pusón	abdomen
 puspusan	fully, completely, thoroughly
