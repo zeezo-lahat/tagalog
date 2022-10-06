@@ -1618,6 +1618,7 @@ kítang-kíta	very easily seen; obvious
 klase	case, type, category
 kódigó	notes hidden by students during examinations; code, secret words/signs; code of laws or rules
 komadre	ninang; matalik na kaibigan (also kumádre, kumáre)
+komplikado	complicated
 konsiyénsiyá	conscience
 koponán	a team
 kortina	curtain
@@ -2422,8 +2423,7 @@ maputík	muddy
 mapuyát	to lack sleep, to need sleep
 marahás	violent, ferocious, audacious, drastic
 maráhil	probably, perhaps (dahil)
-maralita	indigent, extremely poor, miserable
-marálitâ	indigent, poor (less common than mahirap)
+marálitâ	indigent, poor, miserable (less common than mahirap)
 maralitang taga-lungsod	urban poor
 maranasan	to feel, experience (dánas)
 marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
@@ -2457,12 +2457,13 @@ masikap	diligent, industrious
 masikip	tight, congested (as in traffic)
 masikmura	to be able to stomach something
 masilaw	dazzled
+masalimuót	complex, complicated
 masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
 masiyahán	to approve; to be satisfied; to be contented
-maskí	although, even though, nevertheless, however, whether, aside from; even, mere (sp. "mas que", bagaman)
-maski na	even if/then/though
+maskí	although, even though, nevertheless, however, whether, aside from; even, mere (sp. "mas que", bagamán)
+maskí na	even if/then/though
 maso	mallet, sledgehammer
 masugid	active, industrious, diligent
 masukal	savage, wild, dense, thick (súkal)
