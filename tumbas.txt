@@ -1,0 +1,26 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+tumbas
+Filipino / Tagalog language translation for the meaning of the word tumbas in the Tagalog Dictionary.
+Definition for the Tagalog word tumbas:
+tumbás
+[adjective] equal; enough; sufficient
+[math] equals
+Root: tumbas
+Not Frequent
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary
+How to pronounce tumbas:
+TUMBAS AUDIO CLIP:
+Markup Code:
+[rec:10583]
+Related Filipino Words:
+katumbástumbasánitumbás
+Related English Words:
+equalequalsenoughsufficient
+Feedback / Suggestions:
+Did you find an error or do you know of an improvement for this entry? Please let us know, your feedback is very helpful!
+Submit Suggestion »
+Become a patron
+We love our supporters! :)
+© copyright 2022. Do not copy or reproduce content or audio without prior written authorization. Scraping and republishing our data is a copyright violation. We put a lot of hard work and TLC into this website -- please don't copy or publish our content without permission.

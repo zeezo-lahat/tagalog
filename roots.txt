@@ -116,6 +116,9 @@ akbayán (akbay) _an [verb] to put one's arm over the shoulders of someone else;
 umakbáy (akbay) _um_ [verb] to put an arm over the shoulder of another
 nakaakbáy (akbay) naka_ [adjective] having an arm on the shoulder of someone
 akbáy (akbay) rt_ [noun] a position where one's arm is on the shoulder of someone else
+akdâ (akda) rt_ [noun] work; literary work; composition
+akdaín (akda) _in [verb] to author (write) something
+may-akdâ (akda) phr_ [noun] writer; author
 akit (akit) rt_ [noun] attraction
 akitin (akit) _in [verb] to attract someone; to seduce someone; to entice someone
 kaákit-akit (akit) ka_rt_rt [adjective] attractive; alluring; enchanting; beautiful; fancy
@@ -4767,6 +4770,7 @@ lumason (lason) _um_ [verb] to poison
 makalason (lason) maka_ [verb] to poison
 malason (lason) ma_ [verb] to get poisoned (AF)
 nakakalason (lason) nakaka_ [adjective] poisonous
+kalaswaan (laswa) ka_an [noun] vulgarity
 laswâ (laswa) rt_ [noun] immorality; vulgarity
 malaswâ (laswa) ma_ [adjective] vulgar; immoral
 abrelata (lata) sp_ [noun] can opener
@@ -7846,6 +7850,8 @@ tarayan (taray) _an [verb] to be rude to someone
 mataray (taray) ma_ [adjective] rude; unkind; finding fault
 taray (taray) rt_ [noun] harshness; strictness; rudeness
 pagtataray (taray) pagCV_ [noun] being rude; being harsh
+matarik (tarik) ma_ [adjective] steep; sloping;
+tarik (tarik) rt_ [noun] steepness; slope
 tasa (tasa) rt_ [noun] cup; mug; assessment; estimate
 magtasa (tasa) mag_ [verb] to estimate; to assess; to evaluate
 pantasá (tasa) pang_ [noun] sharpener; pencil sharpener
