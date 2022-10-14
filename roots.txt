@@ -4681,6 +4681,11 @@ lamang (lang) rt_ [adverb] only; just; alone; * long form of the common word "la
 lang (lang) rt_ [enclitic] only; just; alone; right (here/there); * common shortened form of the word "lamang"
 na lang (lang) phr_ [enclitics] now only; already only; now just; do as a second choice
 pa lang (lang) phr_ [enclitics] just; only; still; only still; only so-and-so much/long
+malangháp (langhap) ma_ [verb] to be able to inhale; to be able to smell; to be able to breathe in; to be able to savor
+langhapín (langhap) _in [verb] to inhale something; to breathe something in; to savor something
+langháp (langhap) rt_ [noun] inhalation; smelling; breathing in; savoring
+makalangháp (langhap) maka_ [verb] to happen to inhale; to be able to inhale
+lumangháp (langhap) _um_ [verb] to inhale; to breathe in; to savor
 languyan (langoy) _an [noun] swimming pool
 languyín (langoy) _in [verb] to swim somewhere
 langóy (langoy) rt_ [noun] swimming
