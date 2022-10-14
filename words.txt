@@ -172,7 +172,7 @@ aniya	he/she said (anya)
 ano	"what" could be used as question or not, as in "I know what.." -> "alam ko anong.."
 ano man	whatever
 antála	delay
-antás	step, degree, grade
+antás	step/degree/level/grade/rank of progress; circumference; academic degree
 antasín	to classify, grade (not commonly used)
 antáy	waiting
 antig	friendly reminder
@@ -214,6 +214,7 @@ ata	our, ours
 ataud	coffin, casket
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
+atin	[sa pronoun] our, ours, us, by us (inclusive)
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 atubilí	hesitation, reluctance (syn. bantulót)
 atupag	chore, thing to do, task, occupation
@@ -261,7 +262,7 @@ bágo	new, fresh; before, prior to, previous
 bágo pa	before, prior to
 bágong-panganák	newborn
 bágong silang	newly born
-bagsak	decline, failure, dropoff; sudden fall or crash
+bagsák	decline, failure, dropoff, sudden fall or crash; failed, broken-down, collapsed
 bagsík	cruelty, severity, fierceness
 baguhin	to change
 bagwís	feather
@@ -1000,6 +1001,7 @@ hiram	something borrowed
 hirap	difficulty, trouble
 hirit	full force of a blow; asking for something; talking out of turn (also 'bírit')
 hità	thigh; upper leg
+hitík	filled with, full, plentiful, abounding
 hiwagà	mystery
 hiwalay	separated
 hiwátig	hint, clue
@@ -2343,6 +2345,7 @@ mang	shortened "mamang = mamà + na", used like "mister <foo>", where <foo> is a
 mang-aagaw	someone who snatches away (a thing or lover)
 mang-ahit	to shave someone
 mang-uyam	to be sarcastic; to be mocking
+mangahás	to venture; to take by force; to betray
 mangahulugan	to mean, denote, signify
 mangailangan	to need something (actor) <nangailangan, nangángailangan, mangángailangan>
 mangako	to promise
