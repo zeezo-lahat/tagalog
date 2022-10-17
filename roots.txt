@@ -4681,6 +4681,11 @@ lamang (lang) rt_ [adverb] only; just; alone; * long form of the common word "la
 lang (lang) rt_ [enclitic] only; just; alone; right (here/there); * common shortened form of the word "lamang"
 na lang (lang) phr_ [enclitics] now only; already only; now just; do as a second choice
 pa lang (lang) phr_ [enclitics] just; only; still; only still; only so-and-so much/long
+malangháp (langhap) ma_ [verb] to be able to inhale; to be able to smell; to be able to breathe in; to be able to savor
+langhapín (langhap) _in [verb] to inhale something; to breathe something in; to savor something
+langháp (langhap) rt_ [noun] inhalation; smelling; breathing in; savoring
+makalangháp (langhap) maka_ [verb] to happen to inhale; to be able to inhale
+lumangháp (langhap) _um_ [verb] to inhale; to breathe in; to savor
 languyan (langoy) _an [noun] swimming pool
 languyín (langoy) _in [verb] to swim somewhere
 langóy (langoy) rt_ [noun] swimming
@@ -6249,6 +6254,10 @@ makaramdám (ramdam) maka_ [verb] to feel (physically or emotionally); to be awa
 maramdamán (ramdam) ma_an [verb] to feel something (physically or emotionally)
 pakiramdám (ramdam) paki_ [noun] feeling; sensation
 ramdám (ramdam) rt_ [adjective] felt
+marangyâ (rangya) ma_ [adjective] pompous; flashy; luxurious
+karangyaán (rangya) ka_an [noun] extravagance
+rangyâ (rangya) rt_ [noun] luxury; pomp; grandeur; splendor
+parangyâ (rangya) pa_ [noun] anything used to show off
 iregalo (regalo) i_ [verb] to give something as a gift
 magregalo (regalo) mag_ [verb] to gift; to give a gift
 pang-regalo (regalo) [adjective] for a gift; as a gift
