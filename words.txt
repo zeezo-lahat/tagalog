@@ -244,7 +244,7 @@ babuyan	pigpen
 badil	practice of political candidates paying people to get their fingers inked prior to an election so they can't vote
 badíng	gay (baklâ)
 badúy	uncool, unhip, old-fashioned, low class
-badya	expression, indication
+badyá	expression, indication
 badyahin	to signal, to indicate
 baga	glowing coal, ember
 bagà	lung
@@ -2454,6 +2454,7 @@ masakit	persevering, diligent, great
 masakláp	acrid, disagreeable, offensive, bitter, wretched
 masakote	to be caught, apprehended, arrested
 masaksihan	to witness something
+masalimuót	complex, complicated
 masalita	talkative
 masamâ	bad, evil, wicked
 masarap	feels good, enjoyable
@@ -2466,7 +2467,7 @@ masikap	diligent, industrious
 masikip	tight, congested (as in traffic)
 masikmura	to be able to stomach something
 masilaw	dazzled
-masalimuót	complex, complicated
+masimót	to be able to consume all of something
 masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
@@ -3680,6 +3681,7 @@ silíd-tulugán	bedroom
 silip	to peek, peer
 silya	chair
 silyón	easy-chair
+simutín	to consume something
 sinamahan	accompanied
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
