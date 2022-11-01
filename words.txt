@@ -447,6 +447,7 @@ bihira	seldom
 bílang	number; "as X"
 bilanggo	prisoner, captive
 bilangguan	jail
+bilas	husband of one's sister-in-law; wife of one's brother-in-law
 bilasa	stale, putrid, spoilt (referring to fish)
 bilíb	confidence in someone or something (colloquial term for 'believe')
 bilibid	jail
@@ -503,6 +504,7 @@ bubo	overflowing; pouring out; poured out
 bubog	pieces of shattered glass
 bubong	roof
 bubúyog	bumblebee; kind of large bee
+budhî	conscience, sense of right and wrong (konsiyensiya)
 bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
 bugháw	blue
@@ -879,6 +881,7 @@ hábong	hut, pavilion, temporary shelter
 hadlang	obstacle, obstruction
 hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
+hagkán	to kiss someone (variant of halikan)
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
@@ -1886,6 +1889,7 @@ lugmók	prostrate and helpless
 lúho	luxury
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luhóso	extravagant
+luko	crazy (loko)
 luksá	in mourning, in black
 lukso	jump, leap, spring
 lulan	what a vehicle is carrying, load (syn "karga")
@@ -2551,6 +2555,7 @@ mauwi	to develop into, to happen as a result
 mawala	to be lost, vanish, disappear
 mawalan	to lose something
 mawalang-galang	apologies for being disrespectful
+mawari	discern, perceive, distinguish, comprehend
 mawawala	will be lost, vanish, disappear
 may-arì	owner
 may gustó ka ba sa	do you like X?
