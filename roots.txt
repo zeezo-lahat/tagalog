@@ -950,7 +950,7 @@ magbaít (bait) mag_ [verb] to act properly; to be good
 magpakabaít (bait) magpaka_ [verb] to be nice; to make nice
 masiraan ng baít (bait) ma_an [verb] to lose one's cool
 napakabaít (bait) napaka_ [adjective] very nice; very kind
-pinakamabaít (bait) pinaka_ [adjective] nicest; kindest; friendliest
+pinakamabaít (bait) pinakama_ [adjective] nicest; kindest; friendliest
 mabagók (bagok) ma_ [verb] to get bumped (AF); to bump something (OF)
 bagók (bagok) rt_ [noun] bump; bump one's head on something
 baka (baka) rt_ [noun] cow; beef; cattle; fight; conflict
@@ -3206,7 +3206,10 @@ manghinà ang loób (hina) mang_ [verb] to get discouraged; to lose one's resolv
 napakahinà (hina) napaka_ [adjective] very weak
 paghinà (hina) pag_ [noun] deterioration; slowing down; weakening
 panghihinà (hina) pangCV_ [noun] deterioration; faintness; lack of energy; lethargy
-pinakamahinà (hina) pinaka_ [adjective] weakest
+pinakamahinà (hina) pinakama_ [adjective] weakest
+mahinahon (hinahon) ma_ [adjective] calm; cool; cool-headed; dispassionate; discreet; careful; mild
+huminahon (hinahon) _um_ [verb] to calm down
+hinahon (hinahon) rt_ [noun] self-control; composure; gentleness; calmness
 hinalain (hinala) _in [verb] to suspect something
 kahina-hinalà (hinala) ka_rt_rt [adjective] dubious; suspicious
 paghinalaan (hinala) pag_an [verb] to suspect someone (of something)
@@ -4647,6 +4650,11 @@ lumamáng (lamang) _um_ [verb] to outdo
 malamáng (lamang) ma_ [adverb] likely; most likely; probably; most probably; apt
 malamangán (lamang) ma_an [verb] to outdo someone/something; to be able to outdo someone/something
 nakalalamang (lamang) nakaCV_ [adjective] superior; coming in first; ranking first
+lamay (lamay) rt_ [noun] wake; to hold a vigil for someone who has died
+maglamay (lamay) mag_ [verb] to attend a wake; to stay up all night
+lamayán (lamay) _an [noun] wake (vigil for the dead)
+paglamaya (lamay) pag_ [verb] to hold vigil for someone[noun]
+paglalamay (lamay) pagCV_ [noun] vigil; holding vigil; wake
 lambingin (lambing) _in to caress; cuddle
 lambingan (lambing) _an [noun] affection and tenderness between two people
 lambíng (lambing) rt_ [noun] caress; affection; tenderness
@@ -4664,7 +4672,7 @@ malamíg (lamig) ma_ [adjective] cold; chilly; cool
 manlamíg (lamig) mang_ [verb] to feel cold (in temperature); to be cold or indifferent to someone
 napakalamíg (lamig) napaka_ [adjective] very cold; too cold
 nilálamíg (lamig) nila_ [adjective] cold; chilly; freezing; [verb] to feel cold
-pinakamalamíg (lamig) pinaka_ [adjective] coldest; coolest
+pinakamalamíg (lamig) pinakama_ [adjective] coldest; coolest
 taglamíg (lamig) tag_ [noun] winter
 kakalampás (lampas) kaka_ just passed; just passed by
 lampasán (lampas) _an [verb] to go past something; to exceed something; to outdo something; to overtake something; to overthrow something; to transcend something; to overcome something
@@ -7328,7 +7336,7 @@ matabâ (taba) ma_ [adjective] fat; stout; obese; bulky; fatty
 nakakatabâ (taba) nakaka_ [adjective] fattening
 patabaín (taba) pa_in [verb] to fatten
 patabâ (taba) pa_ [noun] fertilizer
-pinakamatabâ (taba) pinaka_ [adjective] fattest
+pinakamatabâ (taba) pinakama_ [adjective] fattest
 tabâ (taba) rt_ [noun] fat; fatso; grease
 tumabâ (taba) _um_ [verb] to get fat; to become fat; to gain weight
 Pasintabi pô (tabi) phr_ [phrase] Please step aside; Please let me pass.
@@ -8328,6 +8336,10 @@ tumulin (tulin) _um_ [verb] to accelerate
 matulis (tulis) ma_ [adjective] pointed; pointy; sharp point
 tulis (tulis) rt_ [noun] sharp end; sharp item
 patulís (tulis) pa_ [adjective] pointed
+tulò (tulo) rt_ [noun] dripping; drip; leakage; leak; STD (sexually transmitted disease)
+tumulò (tulo) _um_ [verb] to drip; to leak; to fall (water); to stream; to dribble
+patulò (tulo) pa_ [adverb] flowing; dripping; (e.g., tears)
+patuluin (tulo) pa_in [verb] to let liquid drip off of something; to dry off washed dishes; to let something air dry
 matulog (tulog) ma_ [verb] to sleep
 mákatulog (tulog) maka_ [verb] to be able to sleep; to fall asleep
 pampatulog (tulog) pampa_ [adjective] something to cause/help with sleep

@@ -244,7 +244,7 @@ babuyan	pigpen
 badil	practice of political candidates paying people to get their fingers inked prior to an election so they can't vote
 badíng	gay (baklâ)
 badúy	uncool, unhip, old-fashioned, low class
-badya	expression, indication
+badyá	expression, indication
 badyahin	to signal, to indicate
 baga	glowing coal, ember
 bagà	lung
@@ -362,6 +362,7 @@ baon	pocket money; food or provisions brought to workplace, etc.
 baón	buried
 barako	strong like the coffee from Batangas
 barang	black magic; sorcery
+barás	bar, rod, beam
 barilan	gun battle
 barkada	group of friends, clique, gang
 barkó	a ship
@@ -446,7 +447,7 @@ bihira	seldom
 bílang	number; "as X"
 bilanggo	prisoner, captive
 bilangguan	jail
-bilas	asawa ng bayáw
+bilas	husband of one's sister-in-law; wife of one's brother-in-law, asawa ng bayáw
 bilasa	stale, putrid, spoilt (referring to fish)
 bilíb	confidence in someone or something (colloquial term for 'believe')
 bilibid	jail
@@ -503,6 +504,7 @@ bubo	overflowing; pouring out; poured out
 bubog	pieces of shattered glass
 bubong	roof
 bubúyog	bumblebee; kind of large bee
+budhî	conscience, sense of right and wrong (konsiyensiya)
 bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
 bugháw	blue
@@ -879,6 +881,7 @@ hábong	hut, pavilion, temporary shelter
 hadlang	obstacle, obstruction
 hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
+hagkán	to kiss someone (variant of halikan)
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
@@ -1886,6 +1889,7 @@ lugmók	prostrate and helpless
 lúho	luxury
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luhóso	extravagant
+luko	crazy (loko)
 luksá	in mourning, in black
 lukso	jump, leap, spring
 lulan	what a vehicle is carrying, load (syn "karga")
@@ -2455,6 +2459,7 @@ masakit	persevering, diligent, great
 masakláp	acrid, disagreeable, offensive, bitter, wretched
 masakote	to be caught, apprehended, arrested
 masaksihan	to witness something
+masalimuót	complex, complicated
 masalita	talkative
 masamâ	bad, evil, wicked
 masarap	feels good, enjoyable
@@ -2467,7 +2472,7 @@ masikap	diligent, industrious
 masikip	tight, congested (as in traffic)
 masikmura	to be able to stomach something
 masilaw	dazzled
-masalimuót	complex, complicated
+masimót	to be able to consume all of something
 masinsin	dense
 masipag	hardworking
 masira	spoil, damage, break down
@@ -2504,6 +2509,7 @@ matandâ	old
 matandaan	to remember something
 matangkád	tall
 matanong	inquisitive
+matanso	to be tricked/fooled/duped
 matantô	to realize; be able to comprehend
 matao	crowded
 matapang	brave, courageous (tapang)
@@ -2549,6 +2555,7 @@ mauwi	to develop into, to happen as a result
 mawala	to be lost, vanish, disappear
 mawalan	to lose something
 mawalang-galang	apologies for being disrespectful
+mawari	discern, perceive, distinguish, comprehend
 mawawala	will be lost, vanish, disappear
 may-arì	owner
 may gustó ka ba sa	do you like X?
@@ -3680,6 +3687,7 @@ silíd-tulugán	bedroom
 silip	to peek, peer
 silya	chair
 silyón	easy-chair
+simutín	to consume something
 sinamahan	accompanied
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
@@ -3938,6 +3946,7 @@ tangkilikin	to patronize, as in a business, etc.
 taním	a plant; ill-feeling planted in the heart, grudge
 tanod	guard
 tanong	question (usisa, kuwestiyon, interogasyon)
+tansô	bronze,brass; deception
 tantô	realize, understand
 tanyág	famous, celebrated, well-known; distinguished, eminent; illustrious
 táo	person
