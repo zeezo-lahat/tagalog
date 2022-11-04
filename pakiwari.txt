@@ -1,0 +1,30 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+pakiwari
+Filipino / Tagalog language translation for the meaning of the word pakiwari in the Tagalog Dictionary.
+Definition for the Tagalog word pakiwari:
+pakiwarì
+[noun] a view or opinion or judgment formed about something, not necessarily based on fact or knowledge
+Root: wari
+Average Frequency
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary
+Join us! We are a free online community for Filipino / Tagalog language learners
+Join »
+How to pronounce pakiwari:
+PAKIWARI AUDIO CLIP:
+Markup Code:
+[rec:56280]
+Related Filipino Words:
+warìmawarìmagwarì
+Related English Words:
+opinionviewjudgmentestimation
+Grammatical Ligature:
+This word plus a grammatical ligature would be:
+pakiwaring
+Feedback / Suggestions:
+Did you find an error or do you know of an improvement for this entry? Please let us know, your feedback is very helpful!
+Submit Suggestion »
+Become a patron
+We love our supporters! :)
+© copyright 2022. Do not copy or reproduce content or audio without prior written authorization. Scraping and republishing our data is a copyright violation. We put a lot of hard work and TLC into this website -- please don't copy or publish our content without permission.

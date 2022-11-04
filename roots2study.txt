@@ -1,3 +1,6 @@
-bahay
+tingin
+ramdam
+roon
 daan
 sama | egrep -v 'wicked|bad|evil|unlucky|fail|evil|harm'
+bahay
