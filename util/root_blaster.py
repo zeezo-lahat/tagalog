@@ -25,6 +25,7 @@ parser = argparse.ArgumentParser(
 parser.add_argument('--affixes', dest='affixes', nargs='+',
                     help='the affixes to match against, eg "mag_ pa_ _an')
 parser.add_argument('--wordtype', dest='wordtype', help='specify the word type (eg: verb, adjective)')
+parser.add_argument('--listonly', dest='listonly', action='store_true', help='just output the matching roots')
 
 args = parser.parse_args()
 
@@ -70,11 +71,14 @@ for r, r_words in rootz.items():
         matches.append(r)
 
 for root in matches:
-    for entry in rootz[root]:
-        if entry['affix'] in patternz:
-            print(f"{root}:  {entry['word']} - {entry['def']}")
-    print('')
-
+    if args.listonly:
+        print(root)
+    else:
+	    for entry in rootz[root]:
+	        if entry['affix'] in patternz:
+	            print(f"{root}:  {entry['word']} - {entry['def']}")
+	    print('')
+	
 
 '''
 rootz = {
