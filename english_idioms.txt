@@ -23,3 +23,5 @@ uncertain/indefinite/undetermined	 di-tiyák
 I have an appointment	may usápan ako
 as long as I'm still alive	hangga't buhay pa ako
 not even one of them	walâ ni isá sa kanilá
+no less than	hindí bábabá sa 
+not lesser than	hindi bawas nang

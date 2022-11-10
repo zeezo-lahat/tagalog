@@ -2567,13 +2567,14 @@ ganérn (ganoon) slang_ [adverb] like that; that way; of that kind; slang for ga
 gumanoón (ganoon) _um_ [verb] to be like that
 magkaganoón (ganoon) magka_ [verb] to get like that; to come to be like that
 pa-ganoón (ganoon) pa_ [adverb] heading there; toward over there
-gantihan (ganti) [noun] retaliation; mutual retaliation
+gantihan (ganti) _an [noun] retaliation; mutual retaliation
 gantihán (ganti) _an [verb] to reciprocate with something; to reward with something
-gantí (ganti) [noun] return; retribution; revenge; vengeance; retribution
+gantí (ganti) rt_ [noun] return; retribution; revenge; vengeance; retribution
 gumantí (ganti) _um_ [verb] to reciprocate; to retaliate; to reward
-igantí (ganti) i_ [verb] to retaliate; to reward
+igantí (ganti) i_ [verb] to retaliate something; to avenge something; to reward something; to respond with something
 makagantí (ganti) maka_ [verb] to get revenge; to get payback; to be able to get revenge
-gapang (gapang) [noun] crawl; crawling
+paggantí (ganti) pag_ [noun] revenge; retribution
+gapang (gapang) rt_ [noun] crawl; crawling
 gapangan (gapang) _an [verb] to crawl; to creep
 gapangin (gapang) _in [verb] to rape
 gumapang (gapang) _um_ [verb] to crawl; to creep
@@ -2582,38 +2583,38 @@ gapiín (gapi) _in [verb] to overpower something; to subdue someone/something; t
 magapî (gapi) ma_ [verb] to overpower
 paggapî (gapi) pag_ [noun] overpowering; subduing
 gapî (gapi) rt_ [adjective] subdued
-gapos (gapos) [noun] manacle; rope tied around the arms or hands; bond; tie
+gapos (gapos) rt_ [noun] manacle; rope tied around the arms or hands; bond; tie
 gumapos (gapos) _um_ [verb] to bind; to chain
 igapos (gapos) i_ [verb] to bind someone by hands or arms; to chain someone
 nakagapos (gapos) naka_ [adjective] bound by ones hands or arms
 pagkakagapos (gapos) pagkaka_ [noun] bondage
-dagdág-gastos (gastos) added expense
-gastos (gastos) [noun] expenses; expenditure; costs
-gastusin (gastos) [noun] expenses; list of expenses
+dagdág-gastos (gastos) compound_ [noun] added expense
+gastos (gastos) rt_ [noun] expenses; expenditure; costs
+gastusin (gastos) _in [noun] expenses; list of expenses
 gumastos (gastos) _um_ [verb] to spend (money)
 gástusín (gastos) _in [verb] to spend money; to spend something
-magastos (gastos) [adjective] costly; expensive
+magastos (gastos) ma_ [adjective] costly; expensive
 magastos (gastos) ma_ [verb] to spend (money)
 paggastos (gastos) pag_ [noun] spending (money); expending; costing
 panggastos (gastos) pang_ [noun] something used to pay for expenses
 gataán (gata) _an [verb] to juice something
 gataín (gata) _in [verb] to cook in coconut milk
-gatâ (gata) [noun] juice; fruit juice; vegetable juice
-ginatán (gata) [noun] snack with coconut milk; dessert cooked with coconut milk
-kákang-gatâ (gata) [noun] coconut cream; coconut milk
-gawain (gawa) [noun] assignment; activity; enterprise; occupation; operation; task; chore; way; business; work; doings
+gatâ (gata) rt_ [noun] juice; fruit juice; vegetable juice
+ginatán (gata) _an [noun] snack with coconut milk; dessert cooked with coconut milk
+kákang-gatâ (gata) compound_ [noun] coconut cream; coconut milk
+gawain (gawa) _in [noun] assignment; activity; enterprise; occupation; operation; task; chore; way; business; work; doings
 gawán (gawa) _an [verb] to make something for someone; to do something for someone; to do something on/toward something else
-gawâ (gawa) [noun] something made; made of; work; action; act; doing; deed; product; artistic work; task; duty; [adjective] manufactured by; written by; caused by; due to; on account of
+gawâ (gawa) rt_ [noun] something made; made of; work; action; act; doing; deed; product; artistic work; task; duty; [adjective] manufactured by; written by; caused by; due to; on account of
 gawín (gawa) _in [verb] to do something; to make something; to create something; to service something; to repair something
-gumagawâ (gawa) [noun] repairman; technician
+gumagawâ (gawa) _umCV_ [noun] repairman; technician
 gumawâ (gawa) _um_ [verb] to do; to make; to produce; to engineer; to build; to create
 igawâ (gawa) i_ [verb] to make something for someone
 ipagawâ (gawa) ipa_ [verb] to have or make someone fix or repair something; to have or make someone do something
 isagawâ (gawa) isa_ [verb] to execute something (an action/plan/etc); to perform an action; to implement something; to have something happen
 kagagawán (gawa) kaCV_an [noun] doing; responsibility for an undesirable act
 kámanggagawà (gawa) [noun] co-worker
-káwang-gawâ (gawa) [noun] charity
-magagawâ (gawa) [adjective] feasible; practical
+káwang-gawâ (gawa) compound_ [noun] charity
+magagawâ (gawa) maCV_ [adjective] feasible; practical
 magawâ (gawa) ma_ [verb] to be able to do something (OF); to be able to make something (OF); to be able to fix something (OF); to be able to do (AF); to get fixed (AF)
 maggawâ (gawa) mag_ [verb] to make; to manufacture
 magpagawâ (gawa) magpa_ [verb] to have something done; to have something built
