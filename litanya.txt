@@ -1,0 +1,11 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+litanya
+Filipino / Tagalog language translation for the meaning of the word litanya in the Tagalog Dictionary.
+Definition for the Tagalog word litanya:
+litanya
+[noun] litany
+Root: litanya
+Frequent
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary
