@@ -8204,12 +8204,12 @@ dí-kapaní-paniwalà (tiwala) compound_ [adjective] incredible; inconceivable; 
 kapaní-paniwalà (tiwala) compound_ [adjective] credible; authentic; convincing
 kátiwalà (tiwala) ka_ [noun] caretaker
 magtiwalà (tiwala) mag_ [verb] to believe; to be convinced; to have confidence in; to trust in
-makapaniwalà (tiwala) makapa_ [verb] to be able to believe
-maniwalà (tiwala) ma_ [verb] to believe; to be convinced; to have confidence in
+makapaniwalà (tiwala) makapang_ [verb] to be able to believe
+maniwalà (tiwala) mang_ [verb] to believe; to be convinced; to have confidence in
 mapagkákatiwalaan (tiwala) mapagkaka_an [adjective] trustworthy; can be trusted
 pagkátiwalaan (tiwala) pagka_an [verb] entrust to the care of; consign; relegate; confide
 pagtitiwalà (tiwala) pagCV_ [noun] trust; confidence; leaving in the care of someone; confiding
-paniwalà (tiwala) pa_ [noun] belief; opinion; attitude; credence; [adjective] convinced
+paniwalà (tiwala) pang_ [noun] belief; opinion; attitude; credence; [adjective] convinced
 tiwalà (tiwala) rt_ [noun] trust; reliance; faith in someone; confidence in someone
 katiwalián (tiwali) ka_an [noun] anomaly; violation; corruption; absurdity
 tiwalî (tiwali) rt_ [adjective] corrupt; anomalous; irregular
