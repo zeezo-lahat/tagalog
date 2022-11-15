@@ -302,7 +302,7 @@ alsahín (alsa) _in [verb] to lift something up
 alsá (alsa) rt_ [noun] rising; uprising; rising of dough
 ialsá (alsa) i_ [verb] to raise (something upward)
 mag-alsá (alsa) mag_ [verb] to revolt; to rise up against; to rebel
-pampaalsá (alsa) pampa_ [noun] baking powder
+pampaalsá (alsa) pangpa_ [noun] baking powder
 umalsá (alsa) _um_ [verb] to swell; to rise
 ambaán (amba) _an [verb] to threaten someone; to make threatening gestures toward someone
 ambâ (amba) rt_ [noun] threaten; threatening gesture
@@ -2680,6 +2680,8 @@ igiít (giit) i_ [verb] to insist on something; to assert something
 maggiít (giit) mag_ [verb] to insist; to affirm
 paggigiít (giit) pagCV_ [noun] asserting; insisting
 paggiít (giit) pag_ [noun] asserting; insisting
+kagilá-gilalás (gilalas) ka_rt_rt [adjective] marvelous; wonderful; bizarre; astounding
+gilalás (gilalas) rt_ [noun] astonishment; amazement
 gilid (gilid) rt_ [noun] edge; border; rim; margin; side; brink; flank
 igilid (gilid) i_ [verb] to put something on its side
 itagilid (gilid) ita_ [verb] to lay something on its side
@@ -3973,7 +3975,7 @@ kalma (kalma) rt_ [noun] calm
 kalmado (kalma) sp_ [adjective] calm
 kalmante (kalma) _ [noun] sedative
 kumalma (kalma) _um_ [verb] to calm; to calm down
-pampakalma (kalma) pampa_ [noun] sedative; something for calming
+pampakalma (kalma) pangpa_ [noun] sedative; something for calming
 kalmót (kalmot) rt_ [noun] scratch (with nails); claw
 kalmutín (kalmot) _in [verb] to claw someone; to scratch someone
 kumalmót (kalmot) _um_ [verb] to claw; to scratch
@@ -4500,7 +4502,7 @@ ilaglág (laglag) i_ [verb] to drop something (intentionally); to let go of some
 laglág (laglag) rt_ [adjective] dropped; fallen; eliminated; let go (to drop)
 malaglág (laglag) ma_ [verb] to fall off; to drop
 pagpapalaglág (laglag) pagpapa_ [noun] having an abortion; spontaneous abortion
-pampalaglág (laglag) pampa_ [noun] abortion medicine/pills
+pampalaglág (laglag) pangpa_ [noun] abortion medicine/pills
 lagô (lago) rt_ [noun] growth
 lumagô (lago) _um_ [verb] to thrive; to develop; to grow
 malagô (lago) ma_ [adjective] luxurious
@@ -4577,8 +4579,8 @@ nápakalakás (lakas) napaka_ [adjective] very strong; very loud
 paglakás (lakas) pag_ [noun] strengthening; convalescing
 pagpapalakás (lakas) pagpapa_ [noun] strengthening; reinforcing;
 palakasín (lakas) pa_in [verb] to strengthen something; to make something louder
-pampalakasan (lakas) pampa_an [adjective] athletic
-pampalakás (lakas) pampa_ [noun] something to strengthen; strengthening
+pampalakasan (lakas) pangpa_an [adjective] athletic
+pampalakás (lakas) pangpa_ [noun] something to strengthen; strengthening
 pínakamalakás (lakas) pinakama_ [adjective] strongest; toughest; loudest
 lakbayín (lakbay) _in [verb] to travel around something; to journey somewhere
 lakbáy (lakbay) rt_ [noun] trip; travel
@@ -4932,11 +4934,11 @@ ligò (ligo) rt_ [noun] bath; taking a bath / shower
 magpaligò (ligo) magpa_ [verb] to give a bath to
 makaligò (ligo) maka_ [verb] to be able to bathe; to be able to take a shower
 maligò (ligo) ma_ [verb] to shower; to take a bath; to bathe; to bathe with
-pagkaligò (ligo) showering; after showering; after bathing; after taking a bath
+pagkaligò (ligo) pagka_ [noun] showering; after showering; after bathing; after taking a bath
 paliguan (ligo) pa_an [verb] to bathe someone; to give someone/something a bath
-paliligò (ligo) [noun] bathing
-pampaligò (ligo) [noun] bath water; something used for bathing
-páliguán (ligo) [noun] bathroom
+paliligò (ligo) paCV_ [noun] bathing
+pampaligò (ligo) pangpa_ [noun] bath water; something used for bathing
+páliguán (ligo) pa_an [noun] bathroom
 iligpít (ligpit) i_ [verb] to put something away; to get rid of something; to kill (slang)
 ligpít (ligpit) rt_ [adjective] orderly
 lumigpít (ligpit) _um_ [verb] to put away; to make orderly
@@ -6367,7 +6369,7 @@ waláng sabit (sabit) phrase_ [phrase] without a hitch
 isabog (sabog) i_ [verb] to scatter something; to disseminate something
 magsabóg (sabog) mag_ [verb] to throw around; to scatter around
 pagsabog (sabog) pag_ [noun] explosion; scattering
-pampasabog (sabog) pampa_ [noun] explosive; bomb materials
+pampasabog (sabog) pangpa_ [noun] explosive; bomb materials
 pasabog (sabog) pa_ [noun] explosive; revelation (figurative)
 pasabugin (sabog) pa_in [verb] to blow up something
 sabog (sabog) rt_ [noun] scattering; dispersion; diffusion; things scattered around
@@ -6813,6 +6815,10 @@ ikasawî (sawi) ika_ [verb] to cause misfortune
 kasawian (sawi) ka_an [noun] misfortune; failure
 masawî (sawi) ma_ [verb] to meet with misfortune; to die
 sawî (sawi) rt_ [adjective] unfortunate; unlucky
+sawsawan (sawsaw) _an [noun] sauce; gravy; dip; dipping sauce
+sawsáw (sawsaw) rt_ [noun] dipping something into something else
+isawsáw (sawsaw) i_ [verb] to dip into a liquid; to dip into a sauce
+sumawsáw (sawsaw) _um_ [verb] to dip in; to deal with (slang); to get involved with (slang)
 ikasayá (saya) ika_ [verb] to make glad; to make happy
 kasayahan (saya) ka_an [noun] being happy; party; affair; festival; gathering of happy people; fun
 magpasayá (saya) magpa_ [verb] to brighten up; to make one happy; to amuse
@@ -7217,8 +7223,11 @@ sumpaín (sumpa) _in [verb] to curse; to damn; to condemn
 sumpâ (sumpa) rt_ [noun] curse; promise; swearing
 sumumpâ (sumpa) _um_ [verb] to swear; to swear to something (promise); to promise; to curse
 kásunduan (sundo) [noun] agreement; deal; compromise; covenant; bargain; treaty; concord; contract; compact; pact
+mapagkasundô (sundo) mapagka_ [verb] to reconcile; to get along
 mapagkasunduan (sundo) mapagka_an [verb] to agree on something (together/reciprocally)
+masundô (sundo) ma_ [verb] to be able to pick up someone/something
 pagkakasundo (sundo) [noun] reconciliation; harmony; unification
+pagsundô (sundo) pag_ [noun] picking up
 sumundô (sundo) _um_ [verb] to pick up (opposite of drop off); to fetch
 sunduín (sundo) _in [verb] to pick up someone/something; to pick someone up; to fetch someone
 sundô (sundo) rt_ [noun] fetcher; someone who will pick someone else up
@@ -8352,7 +8361,7 @@ patulò (tulo) pa_ [adverb] flowing; dripping; (e.g., tears)
 patuluin (tulo) pa_in [verb] to let liquid drip off of something; to dry off washed dishes; to let something air dry
 matulog (tulog) ma_ [verb] to sleep
 mákatulog (tulog) maka_ [verb] to be able to sleep; to fall asleep
-pampatulog (tulog) pampa_ [adjective] something to cause/help with sleep
+pampatulog (tulog) pangpa_ [adjective] something to cause/help with sleep
 patulugin (tulog) pa_in [verb] to put to bed; to sedate
 silíd-tulugán (tulog) cmp_ [noun] bedroom
 tulog (tulog) rt_ [noun] sleep; slumber

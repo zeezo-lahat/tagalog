@@ -329,6 +329,7 @@ baliktarin	to turn something over (lit/fig)
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balisóng	fan knife, butterfly knife
 balitaan	notify
+balo	widow, widower
 balón	a well (water well)
 balot	wrapper, wrapping
 balsa	a float, raft, ferry
@@ -985,7 +986,7 @@ himlayan	bed; cemetery
 himok	inducement, persuasion, enticement
 himpapawíd	atmospheric space, the space above the ground, or esp. above rooftops
 hinaan	to lower the volume
-hinaíng	supplication, earnest request; complaint, grievance (daíng)
+hinaíng	complaint, grievance, frustration, supplication, earnest request (daíng)
 hinalà	suspicion
 hindí kailanmán	never
 hindî na	not any more, no more, no longer; not now, no further; never; never mind
@@ -2071,6 +2072,7 @@ magkapit	to hold onto each other, to join hands
 magkaroón	to come to have, to have happen, to acquire (mayroon)
 magkasama	together
 magkasintahan	a couple in a romantic relationship
+magkasundô	to agree (mutual focus)
 magkatulad	similar (two things)
 magkaunawaan	to have an understanding of each other’s position
 magkumahóg	to rush; to hasten (kahóg)
@@ -2456,6 +2458,7 @@ mas	more
 mas kaunti	less
 masagána	abundant, plentiful (sagána)
 masagasà	to be run over
+masagwâ	obscenity, indecency, awful, inappropriate, unsightly
 masáhol	worse
 masakim	avaricious, covetous, greedy, rapacious, selfish
 masakit	painful, hurting, sensitive, sarcastic, sharp
@@ -3539,6 +3542,7 @@ saglitan	briefly
 sagót	answer
 sagrado	sacred, belonging to God, holy
 sagutin	to answer something
+sagwâ	vulgarity, obsenity, in bad taste
 sagwán	paddle (as for a raft)
 sahig	floor
 sahod	salary, wage
@@ -3954,6 +3958,7 @@ taním	a plant; ill-feeling planted in the heart, grudge
 tanod	guard
 tanong	question (usisa, kuwestiyon, interogasyon)
 tansô	bronze,brass; deception
+tantanán	to leave something/someone alone, to stop with someone, to stop doing something (tantan)
 tantô	realize, understand
 tanyág	famous, celebrated, well-known; distinguished, eminent; illustrious
 táo	person
