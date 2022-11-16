@@ -44,7 +44,7 @@ I couldn't sleep last night.	Di ako makatulog kagabi.
 Don't waste your time.	Wag mong sayangin ang oras mo.
 Fred has the money.	Na kay Fred ang pera.
 It's hard to guess.	Mahirap hulaan yan.
-Did you read my test?	Nabasa mo ba ang text ko?
+Did you read my text?	Nabasa mo ba ang text ko?
 What can I say?	Anong masasabi ko?
 What time shall we meet?	Anong oras tayo magkikita?
 Can I borrow some money?	Pwede ba kong humiram ng kaunting pera?
@@ -61,3 +61,6 @@ I could never do that.	Hindi ko kailanman magagawa iyon.
 I'm a fast learner.	Mabilis akong matuto.
 I'm not used to his appearance.	Naninibago ako sa hitsura niya.
 I only have one close friend.	Isa lang ang matalik kong kaibigan.
+Nakatakdáng ganapín ang 2020 Olympics sa Tokyo mulâ Hulyo hanggáng Agosto.	The 2020 Olympics is scheduled to take place in Tokyo from July to August.
+I almost forgot.	Muntik ko nang makalimutan.
+Thanks for reminding me.	Salamat, ipinaalala mo sa akin.
