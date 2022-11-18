@@ -245,6 +245,9 @@ waláng kaalám-alám (alam) phr_ know absolutely nothing; haven't the faintest 
 waláng pakialám (alam) phr_ don't care
 waláng paké (alam) phr_ [phrase] without a care (short for "walang pakialam")
 wapakéls (alam) phr_ [expression/slang] I don't care; None of my business; Short for "Wala akong pakialam"
+alanganin (alangan) _in [adjective] doubtful; uncertain; insufficient; homosexual
+alangán (alangan) rt_ [adjective] uncertain; unfit; improper; doubtful; abnormal; irregular; unworthy; insufficient;
+mag-alangán (alangan) mag_ [verb] to be uncertain; to hesitate
 alat (alat) rt_ [noun] saltiness
 alatan (alat) _an [verb] to add salt; to make salty
 alatin (alat) _in [verb] to lose one's good luck
@@ -307,6 +310,7 @@ umalsá (alsa) _um_ [verb] to swell; to rise
 ambaán (amba) _an [verb] to threaten someone; to make threatening gestures toward someone
 ambâ (amba) rt_ [noun] threaten; threatening gesture
 mangambâ (amba) mang_ [verb] to feel threatened; to feel fear
+nakaambá (amba) naka_ [adjective] threatened
 nakambâ (amba) naka_ [adjective] threatening
 pangambahán (amba) pang_an [verb] to threaten somewhere/something
 ambagan (ambag) _an [noun] contribution by several people

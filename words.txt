@@ -311,6 +311,7 @@ bálang	each, any
 bálang araw	some/one day (ie, eventually)
 bálang-araw	someday, one day
 balangkas	framework, plan
+balanì	magnetism, gravitational pull
 balasa	shuffling (of playing cards, etc.)
 bálat	birthmark, patch on the skin
 balát	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
@@ -400,6 +401,7 @@ batikos	tirade, harangue, invective, verbal abuse
 batis	spring of water, brook, fountain or source
 batisan	shallow pool; place around a spring
 bató	a stone, rock; kidney; something to throw, throwing
+bató-balanì	magnet
 batok	back of the neck, nape
 batúgan	hard headed (big insult)
 batukan	to hit the back part of the head
@@ -1807,7 +1809,7 @@ larangan	domain, field of knowledge
 larawan	picture, portrait (litrato]) ilarawan (i-)
 larga	go ahead!, proceed!
 lasa	the taste or flavor of something
-lasing	drunk, intoxicated, inebriated
+lasíng	drunk, intoxicated, inebriated
 lason	poison
 lasunin	to poison
 lata	can; tin; a container, box, etc. made of tin
@@ -4035,6 +4037,7 @@ tinig	voice
 tinik	fishbone, thorn
 tinutúkoy	talking about X
 tipak	chip, piece; block, chunk, lump, nugget
+tipo	type
 tipon	a collection; saving of money; savings; gathering; collected; gathered together
 tipunin	to collect, to gather together, to store away.
 tira	residence; enduring; left-over, residue
