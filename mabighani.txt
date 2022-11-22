@@ -1,0 +1,35 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+mabighani
+Filipino / Tagalog language translation for the meaning of the word mabighani in the Tagalog Dictionary.
+Definition for the Tagalog word mabighani:
+mabighanì
+[verb] to be charmed; to be enthralled
+Verb conjugations of mabighani:
+Focus:  Actor  Root: bighaniConjugation Type: Ma-
+Infinitive:
+mabighanì
+Completed (Past):
+nabighanì
+Uncompleted (Present):
+nabibighanì
+Contemplated (Future):
+mabibighanì
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary
+Join us! We are a free online community for Filipino / Tagalog language learners
+Join »
+How to pronounce mabighani:
+MABIGHANI AUDIO CLIP:
+Markup Code:
+[rec:56585]
+Related Filipino Words:
+bighanì
+Related English Words:
+enthralledbe enthralledbe enchantedenchantedcharmedcharming
+Feedback / Suggestions:
+Did you find an error or do you know of an improvement for this entry? Please let us know, your feedback is very helpful!
+Submit Suggestion »
+Become a patron
+We love our supporters! :)
+© copyright 2022. Do not copy or reproduce content or audio without prior written authorization. Scraping and republishing our data is a copyright violation. We put a lot of hard work and TLC into this website -- please don't copy or publish our content without permission.
