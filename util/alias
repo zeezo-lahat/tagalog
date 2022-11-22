@@ -70,6 +70,10 @@ tgv ()
 {
   cat roots.txt words.txt tl_*.txt td_*.txt | tgrep.py "$*" | sort | uniq
 }
+tcat ()
+{
+  cat roots.txt words.txt tl_*.txt td_*.txt | sort | uniq
+}
 
 tga ()
 {
