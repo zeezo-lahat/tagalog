@@ -5296,6 +5296,8 @@ lunók (lunok) rt_ [noun] swallow; gulp
 mapalunók (lunok) mapa_ [verb] to swallow; to swallow involuntarily; to gulp
 nakalunók (lunok) naka_ [adjective] having swallowed
 paglunók (lunok) pag_ [noun] swallowing
+kalunós-lunós (lunos) ka_rt_rt [adjective] pitiful; tragic
+lunos (lunos) rt_ [noun] pity; compassion
 ilunsád (lunsad) i_ [verb] to launch something
 lumunsád (lunsad) _um_ [verb] to disembark
 lunsaran (lunsad) _an [noun] unloading zone
@@ -6733,12 +6735,13 @@ magsanib (sanib) mag_ [verb] to coalesce; to fuse
 pagsanibin (sanib) pag_in [verb] to unite
 pagsasanib (sanib) pagCV_ [noun] coalition; fusion; union
 sanib (sanib) rt_ [noun] overlapping; joining
-kamposanto (santo) [noun] cemetery
+sumanib (sanib) _um_ [verb] to coalesce; to come together
+kamposanto (santo) sp_ [noun] cemetery
 san (santo) abbrev_ [adjective] saint; [adverb] shortened and informal form of "saan" = "where"
-santa (santo) [noun] saint
+santa (santo) sp_ [noun] saint
 santo (santo) rt_ [adjective] holy
 santuhín (santo) _in [verb] to worship someone/something; to respect someone as a saint
-santísimá (santo) [adjective] holiest; most holy
+santísimá (santo) sp_ [adjective] holiest; most holy
 santó (santo) rt_ [noun] saint
 sapakín (sapak) _in [verb] to punch someone/something
 sapák (sapak) rt_ [noun] punch; beating
