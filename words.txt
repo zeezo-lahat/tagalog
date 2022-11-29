@@ -121,6 +121,7 @@ alisto	alert, quick, nimble (also 'listo')
 alit	quarrel, conflict, tiff, strife
 alitan	quarrel, conflict, tiff, strife
 alituntunin	law, rules, principles, regulations (e.g. traffic rules)
+aliwalas	airiness, spaciousness (waag, luwang, luwag, kahanginan, kapreskuhan); brightness, pleasantness, coziness (waag, liwanag, ganda, ayos, ginhawa; (by extension) pleasant or joyful disposition or appearance (of a person) (saya, kasayahan)
 alkalde	mayor
 alkansya	piggy bank, penny bank, money box
 almusal	breakfast
@@ -753,6 +754,7 @@ echapwera	to be neglected or ignored (sp "echa fuera": to throw outside)
 edad	age
 embahada	embassy
 ensáyo	practice
+eskinita	alley
 estero	estuary
 gaano	how much
 gaano kalayo	how far?
@@ -1958,6 +1960,7 @@ maalaala	to remember (also maalala)
 maalala	to remember/recall something; to be reminded of something; to be able to remember something; to remember something by accident
 maalalahanin	thoughtful
 maalat	salty
+maaliwalas	bright; serene (as of the weather, a room, the countenance, etc.)
 maámo	gentle
 maamuyan	to smell something
 maangháng	spicy, pungent; piquant
@@ -2711,7 +2714,7 @@ nalaláman	being conscious/aware of, knows
 nalalapit	approaching (lit or fig)
 naláman	found out
 nalampasan	overtook
-nalibang	had fun (look this up)
+nalibáng	amused, had fun
 nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
@@ -4274,6 +4277,7 @@ uwak	crow, raven
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
 uyam	mocking; jeering; sarcasm
+waág	open, wide and clear (referring to a place) cleared of obstructions that hinder clear viewing
 wagás	pure, perfect
 wais	wise, cunning
 wakwák	ripped, ripped open (also gahák)

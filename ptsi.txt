@@ -10,7 +10,7 @@ follow the verb.
 
 If the direct object of the active verb is a proper noun or a pronoun, the dative form is used.
 
-54. Ako na lang ang mattAtanong kay Mr. OcAmpo.  "I'll be the one to ask Mr. Ocampo."
+54. Ako na lang ang matAtanong kay Mr. OcAmpo.  "I'll be the one to ask Mr. Ocampo."
 55. Sino kayA ang gustong maghintay sa iyo? "Who would want to wait for you?"
 
 However, the genitive of the demonstrative pronoun is used as the direct object of active verbs.
@@ -96,8 +96,8 @@ grammar section 7 (p. 281)
 
 7.1 potential forms (abilitive)
 maka(pag)- active
-ma- direct
-ma-an local
+ma- direct (passive)
+ma-an local (passive)
 
 almost all verbs may have potential forms
 
