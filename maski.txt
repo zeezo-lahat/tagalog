@@ -1,0 +1,11 @@
+No AudioContext found in this environment. Please ensure your window or global object contains a working AudioContext constructor function.
+  https://www.tagalog.com/js/Pizzicato.min.js:1
+Skip to main
+maski
+Filipino / Tagalog language translation for the meaning of the word maski in the Tagalog Dictionary.
+Definition for the Tagalog word maski:
+maskí
+[conjunction] despite; even if; even though; although; even though; nevertheless; however; whether; aside from
+Root: maski
+Very Frequent
+Tagalog.com is now on the App Store! TDC Tagalog Dictionary

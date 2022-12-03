@@ -442,6 +442,7 @@ bigkás	pronunciation
 bigkasin	to pronounce, pronounced
 bigla	sudden, immediate, unexpected
 biglang-bigla	suddenly, unexpectedly
+bigote	mustache
 bigô	frustrated, disappointed; failure
 bigti	strangled, hanged or hung by a rope
 bigtihin	to hang or strangle oneself
@@ -686,6 +687,7 @@ despachadora	a saleslady
 detálye	detail
 dí-kailangan	not needed, unnecessary
 dí-kapaní-paniwalà	unbelievable; fishy, doubtful
+dí-mapakalí	not at peace, restless, fidgety, anxious, not able to stay still
 di-mapigil	unstoppable
 di-sanáy	unskilled, unused to
 di-umanó	it is said, allegedly, they say
@@ -1375,6 +1377,7 @@ kalawakan	space, especially referring to outer space
 kalawang	rust
 kalayaan	freedom
 kalbaryo	calvary; used to denote extreme suffering, especially mental suffering
+kalí	peace, tranquility, quiet
 kalidad	quality
 kalikasan	nature
 kalimítan	normally, typically, usually
@@ -1659,6 +1662,7 @@ kulitin	to badger, pester
 kulkól	a shallow hole
 kulkulín	to dig a shallow hole
 kulob	something that is covered up
+kulog	thunder
 kulóng	jailed, caged
 kulot	curl
 kulungan	a cage, a prison
@@ -1678,6 +1682,7 @@ kumot	sheet, bedsheet
 kumpirma	to confirm
 kumpisál	confession, religious confession
 kumpiyansa	confidence
+kumportable	comfortable
 kundangan	because of; due to the fact that
 kundiman	native song, love song; muslin (textile) with blood-red color
 kundî	except, if not, but, if not for, but also, not only; otherwise, on the contrary, or else
@@ -3079,7 +3084,7 @@ pákay	purpose, aim
 pake	(pakialam) to have a shit to give. (anong pake ko? wala akong pake!)
 paki-abot	"please pass.."
 paki-bilis	please hurry
-pakialam	caring/concern; busybody, meddler
+pakialám	caring/concern; busybody, meddler
 pakikiapíd	fornication
 pakikibagay	conforming, adaptation
 pakikipag-usap	conversation
@@ -3454,6 +3459,7 @@ puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
 purók	district (smaller than a barangay)
 purong-puro	very pure
+púrsigido	persistent
 pusa	cat
 pusakal	street cat
 pusang kalye	street cat
@@ -3884,6 +3890,7 @@ tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tahól	bark, as of a dog (also kahol)
+tahô	a sweet snack made with soft tofu, sago/tapioca pearls, and a caramelized sugar syrup
 tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 takád	stamping of feet in anger or protest
@@ -3946,8 +3953,8 @@ tampók	center of attraction
 tanáw	view
 tandâ	sign, mark; signal; evidence
 tandaan	to remember
-tangay	carried away (by force, seizure, abduction, mouth)
-tangay	carried away (by wind, current, bird or prey, or emotions)
+tangáy	carried away (by force, seizure, abduction, mouth)
+tangáy	carried away (by wind, current, bird or prey, or emotions)
 tange	stupid (less harsh than tanga) also "tangi"
 tangengot	stupid
 tanggál	remove by unfastening, detaching
