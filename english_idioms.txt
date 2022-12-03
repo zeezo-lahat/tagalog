@@ -1,4 +1,4 @@
-# common english idioms, expressions
+# common english idioms, expressions (mga kasabihán/sawikaín)
 are there more?	mas marami ba?
 I agree with you	sang-ayon ako sayo
 good idea	magandang idea mo
@@ -8,7 +8,6 @@ get used to it	masanay ka na
 not for now	hindi sa ngayon
 I can't keep up	hindi ako makasabay
 affordable	abot kaya
-I need to get ready for work
 around 8 or 9 o'clock	mga 8, 9, ganyan
 we've met already	nagkita na tayo
 what about this?	ano naman ito?
@@ -69,7 +68,7 @@ not less than an hour	di bawas nang isang oras
 no less than	hindí bábabá sa
 Give me half	Bigyan mo ako ng kalahati
 cut it in half	hatiin mo ito
-I'm almost done	malapit na ako matapos
+I'm almost done	malapit na akong matapos
 can I use this?	Pwede bang magamit ito?
 consequently, therefore	dahil dito, kung gayón/ganoon, samakatwíd, kayâ nga
 don't panic	wag kang mataranta
@@ -78,7 +77,7 @@ I don't have the faintest idea	waláng kaalám-alám ako
 in a nutshell..	sa madalíng salitâ..
 There is no use talking to her.	Walang kuwenta siyang kausapin.
 not even for one day	kahit ni isang araw
-You’re merciless.	Walang awa ka.
+You’re merciless.	Walang awà ka.
 out of the blue	walang anu-ano, biglang-bigla
 this and that	anu-anó
 This is going nowhere.	Walang pupuntahan ito.
@@ -102,3 +101,21 @@ I have fallen behind in my work	Nahulí ako sa aking trabaho.
 I am feeling stressed out	Nakakaramdam ako Ng stress, 
 I'm a little off (my game) today	medyo nalilito ako 
 meet in person	makipagkita sa personal.
+I want another.	Gusto ko ng iba.
+you wish!	asa ka pa!
+disheartened	sirâ ang loób
+forgotten	isulat sa tubig
+mark my words	itagá mo sa bató
+I have a lot to do	marami akong ginagawá
+it's just that.../the problem is../the thing is..	kayá lang
+I can't help you	hindi kita matutulângan
+I got there at eight	alas otso na ako dumating
+I'm sick	may sakit ako
+are you alright?	ayos ka ba?
+are you busy?	abala ka ba?
+Jerry who?	sinong Jerry?
+are you Paul?	ikaw ba si Paul?
+which one?	alin dito?
+which ones?	alin sa mga ito?
+be patient with me	pagpasensiyahan mo ako
+
