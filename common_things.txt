@@ -35,7 +35,7 @@ I am happy to know it.	Masaya akong malaman ito.
 When I see you I want to be with you.	Pag nakikita kita sobrang gusto ko na makasama kita.
 May the curse be upon you.	Mapuntá sana sa iyó ang sumpâ.
 I prayed that you wouldn't leave.	Nagdasál akó na sana hindî ka umalís. 
-May this be a lesson for you.	Magsilbí sana itóng aral sa inyó.     
+May this be a lesson for you.	Magsilbí sana itóng aral sa inyó.
 May I be endowed with more wisdom.	Pagkaloobán sana akó ng dagdág na karunungan. 
 I was just about to call you.	Tatawagan ng nga sana kita.
 Just let me know.	Sabihán mo lang ako.
@@ -67,3 +67,32 @@ I only have one close friend.	Isa lang ang matalik kong kaibigan.
 Nakatakdáng ganapín ang 2020 Olympics sa Tokyo mulâ Hulyo hanggáng Agosto.	The 2020 Olympics is scheduled to take place in Tokyo from July to August.
 I almost forgot.	Muntik ko nang makalimutan.
 Thanks for reminding me.	Salamat, ipinaalala mo sa akin.
+Why were you absent yesterday?	Bakit ka liban kahapon?
+I would do anything but that.	Gagawin ko ang kahit ano maliban iyon.
+I often stay up late.	Madalas akong nagpupuyat.
+Do you often eat meat?	Madalas ka bang kumakain ng karne?
+I often get sick.	Madalas akong nagkakasakit.
+I often forget my car key.	Madalas kong makalimutan ang susi ng kotse ko.
+Bob often eats Thai food.	Madalas kumain ng pagkaing Thai si Bob.
+How often do you see him here?	Gaano kadalas mo siyang makita rito?
+Do you often go on business trips?	Madalas ka bang nagbi-business trip?
+How often should I feed my dog?	Gaano kadalas ko dapat pakaInin ang aso ko?
+I'm sorry to bother you so often.	Pasensya na kung madalas kitang isturbuhin.
+I often catch a cold in the winter.	Madalas akong sipunin kapag taglamig.
+I often bump into him at the mall.	Madalas ko siyang makasalubong sa mall.
+She often leaves dirty plates in the sink.	Madalas siya nag-iiwang maruruming plato sa labAbo.
+Do you often go there?	Madalas ka bang nagpupunta roon?
+How often do you call your parents?	Gaano mo kadalas tawagan ang mga magulang mo?
+I often make mistakes.	Madalas akong nagkakamali.
+My nephew often pretends to be asleep.	Madalas nagtutulog-tulugan and pamangkin ko.
+Do you often eat out?	Madalas ka bang kumakain sa labas?
+I often exceed the speed limit.	Madalas akong lumalagpas sa speed limit.
+Why does this happen so often.	Bakit madalas itong nangyayari.
+He often breaks his promises.	Madalas niyang hindi tinutupad ang mga pangako niya.
+He is often alone.	Madalas siyang nag-iisa.
+We often have lunch together.	Madalas kaming magkasamang mag-lunch/mananghalian.
+We often spend Christmas in Sweden.	Madalas kaming mag-Pasko sa Sweden.
+How often do you take a shower?	Gaano kadalas kang maligO?
+Do you often watch basketball?	Madalas ka bang manood ng basketball?
+How often should I take this medicine?	Gaano kadalas ko dapat inumin ang gamot na ito?
+Try to exercise as often as possible.	Hangga't maaari, subukan mong mag-ehersisyo nang madalas.
