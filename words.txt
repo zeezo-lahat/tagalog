@@ -1,6 +1,6 @@
 aalug-alog	shaky, rickety
 aapa-apa	groping around
-aba	oh!, well!
+abá	oh!, well!, expression of admiration or surprise
 aba	poor, humble, subservient
 abahin	notify, pay attention to, take care of
 abain	look down upon, scorn
@@ -126,7 +126,7 @@ alkalde	mayor
 alkansya	piggy bank, penny bank, money box
 almusal	breakfast
 alók	an offer
-alon	waves (as at a beach)
+alon	waves (as at a beach, hair, etc.)
 altapresyon	high blood pressure
 alukín	to offer
 alunyâ	bawal na paglalambingan
@@ -541,6 +541,7 @@ bulakbol	truancy; jobless person, vagabond
 bulaklak	flower (noun)
 bulalákaw	meteorite, shooting star
 bulate	worm
+bulból	pubic hair
 bulilít	tiny, drawfish; smallest/youngest person
 búlo	the hairy covering of some fruit
 bulók	rotten, spoiled, decaying; corrupt
@@ -1849,7 +1850,7 @@ ligáya	happines, joy
 ligoy	(n) wordiness, beating around the bush
 ligsá	test, quiz
 ligtás	saved, freed, redeemed; safe; exempt
-liham	a letter (that you send in the mail)
+liham	a letter (that you send in the mail, email, etc.)
 líhim	(a) secret, confidential (also "sikreto")
 liit	smallness
 likas	exodus, evacuation
@@ -2841,6 +2842,7 @@ noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
 normál	normal
 nunal	mole on the skin
+nung	"ng" marker alternative
 nunò	tiny dwarf or fairy who lives in small mounds or anthills
 óbra	a work (of art, etc.)
 óbra maéstra	masterpiece
@@ -4340,7 +4342,7 @@ yumaman	to get rich
 yumaníg	to shake, to shock
 yumaong	deceased
 yumarì	to manufacture, construct
-yung	informal "ang".  also "iyon"
+yung	informal "ang" marker
 yungib	cave, dome, den
 pumitík	to snap one's fingers, to topple or push with a flip of the fingers mamitik, pitikin (mang-:-in)
 pitikín	to flick
