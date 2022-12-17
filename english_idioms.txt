@@ -1,4 +1,4 @@
-# common english idioms, expressions
+# common english idioms, expressions (mga kasabihán/sawikaín)
 are there more?	mas marami ba?
 I agree with you	sang-ayon ako sayo
 good idea	magandang idea mo
@@ -8,7 +8,6 @@ get used to it	masanay ka na
 not for now	hindi sa ngayon
 I can't keep up	hindi ako makasabay
 affordable	abot kaya
-I need to get ready for work
 around 8 or 9 o'clock	mga 8, 9, ganyan
 we've met already	nagkita na tayo
 what about this?	ano naman ito?
@@ -32,11 +31,9 @@ stop that	itigil mo ‘yan
 come to think of it	kung tútuusín
 in fact	sa katotohanan, sa katunayan
 last time I saw him	hulí ko siyáng nakita
-I can't help it / there's nothing I can do	walâ akong magagawâ
 so far	hanggang ngayon
 the last time I saw her	ang hulí ko siyáng nakita
 I can't help it / there's nothing I can do (about it)	walâ akong magagawâ (tungkol doon)
-so far	hanggang ngayon
 that ticked me off
 make the most of something	sulitin
 there is someone	may isang tao
@@ -67,13 +64,23 @@ just forget it	kalimutan na lang yun
 Every single day.	Bawat isang araw.
 the other day	noong isang araw
 two times a day	nang dalawang beses sa isang araw
-not even for one day	kahit ni isang araw
 not less than an hour	di bawas nang isang oras
 no less than	hindí bábabá sa
 Give me half	Bigyan mo ako ng kalahati
 cut it in half	hatiin mo ito
-I'm almost done	malapit na ako matapos
+I'm almost done	malapit na akong matapos
 can I use this?	Pwede bang magamit ito?
+consequently, therefore	dahil dito, kung gayón/ganoon, samakatwíd, kayâ nga
+don't panic	wag kang mataranta
+provided that.., as long as..	yamang..
+I don't have the faintest idea	waláng kaalám-alám ako
+in a nutshell..	sa madalíng salitâ..
+There is no use talking to her.	Walang kuwenta siyang kausapin.
+not even for one day	kahit ni isang araw
+You’re merciless.	Walang awà ka.
+out of the blue	walang anu-ano, biglang-bigla
+this and that	anu-anó
+This is going nowhere.	Walang pupuntahan ito.
 yes, obviously	Oo halatang maysakit na 
 I'll call you in a few minutes / a little while	tatawag sa iyo sa ilang minuto. 
 for what it's worth	Para sa Kung Anong halaga nito. 
@@ -102,3 +109,42 @@ I heard..	balita ko..
 I'm really excited	nasasabik na nga ako
 I'm happy for you	masaya ako para sa iyo
 there you go again	ayan ka na naman
+I want another.	Gusto ko ng iba.
+you wish!	asa ka pa!
+disheartened	sirâ ang loób
+forgotten	isulat sa tubig
+mark my words	itagá mo sa bató
+I have a lot to do	marami akong ginagawá
+it's just that.../the problem is../the thing is..	kayá lang
+I can't help you	hindi kita matutulângan
+I got there at eight	alas otso na ako dumating
+I'm sick	may sakit ako
+are you alright?	ayos ka ba?
+are you busy?	abala ka ba?
+Jerry who?	sinong Jerry?
+are you Paul?	ikaw ba si Paul?
+which one?	alin dito?
+which ones?	alin sa mga ito?
+be patient with me	pagpasensiyahan mo ako
+I can't believe it	hindi ako makapaniwala
+it was tough	mahirap
+how did it go?	ano'ng nangyari?
+Most salt bread nowadays..	Maraming pandesal ngayon..
+give it to me straight	sabihin mo sa akin nang diretso
+Just be there on time.	Bastá dumatíng ka sa oras.
+it will be hot	magiging mainit
+the last time I was here	noóng nakaraáng puntá ko rito
+Yes, sometimes.	Oo, kung minsan.
+I don't know what you're referring to.	Hindî ko alám kung anó ang tinutukoy mo.
+I hope you'd be able understand why I did that.	Sana maintindihán mo kung bakit ko ginawâ 'yun.
+whenever I want	kung kailán ko gustó
+I wonder why	Nagtataká akó kung bakit
+It's hard to know who's at fault.	Mahirap tukuyin kung sino ang may sala.
+Where there's life, there's hope.	Kung saan may buhay, may pag-asa.
+Who cares?	Sinong may pakialam?
+I have a request.	May pakiusap ako.
+It just means..	Nangángahulugán lang itó na..
+all of the time (always)	sa lahat ng oras
+if I'm not mistaken	kung hindi ako nagkakamali
+I wish I could	sana kaya ko
+no new pictures from my girl	wala pa bagong litrato galing sa babae ko

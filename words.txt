@@ -113,6 +113,7 @@ alin-alin	which? (plural)
 alín man	whichever
 aling	a title of familial respect used before the first name of a woman; when the name is not appended, the noun form is ale
 alinman	any, anything
+alinsangan	heat and humidity of the weather, oppressiveness of weather
 alinsunod	pursuant, in accordance to
 alipin	slave
 alipustâ	belittlement, maltreatment
@@ -121,6 +122,7 @@ alisto	alert, quick, nimble (also 'listo')
 alit	quarrel, conflict, tiff, strife
 alitan	quarrel, conflict, tiff, strife
 alituntunin	law, rules, principles, regulations (e.g. traffic rules)
+aliwalas	airiness, spaciousness (waag, luwang, luwag, kahanginan, kapreskuhan); brightness, pleasantness, coziness (waag, liwanag, ganda, ayos, ginhawa; (by extension) pleasant or joyful disposition or appearance (of a person) (saya, kasayahan)
 alkalde	mayor
 alkansya	piggy bank, penny bank, money box
 almusal	breakfast
@@ -145,6 +147,7 @@ amo	master, employer, boss
 amok	amuck, in a frenzy state
 amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
+ampalaya	balsam apple; bitter gourd
 ampón	adoptee
 amuyin	to smell something
 anák	child (offspring)
@@ -428,6 +431,7 @@ bayot	bakla
 benta	sell
 berde	green
 beses	time(s)
+bestida	dress
 betlog	scrotum ("a very uncouth-sounding word that less educated people use.")
 bibig	mouth; mouthpiece (person, newspaper, etc.; that speaks for others)
 biga	glib
@@ -755,6 +759,7 @@ echapwera	to be neglected or ignored (sp "echa fuera": to throw outside)
 edad	age
 embahada	embassy
 ensáyo	practice
+eskinita	alley
 estero	estuary
 gaano	how much
 gaano kalayo	how far?
@@ -1150,6 +1155,7 @@ inihain	served food
 iniipit	"putting the squeeze on"
 iniirog	beloved (iniibig, minamahal are more common)
 inís	irritation, annoyance; suffocation
+inodoro	toilet
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
 Intsik	Chinese
@@ -1491,6 +1497,7 @@ karátulá	signboard, sign, poster
 karayom	a needle
 karera	a race
 karibal	rival (often in romance)
+karimarimarim	disgusting(?) (dimarim)
 kartero	postman
 karukhaán	poverty; lack, deficiency (dukhâ)
 karumal-dumal	loathsome, nasty
@@ -1816,6 +1823,7 @@ larawan	picture, portrait (litrato]) ilarawan (i-)
 larga	go ahead!, proceed!
 lasa	the taste or flavor of something
 lasíng	drunk, intoxicated, inebriated
+lasinggero	drunkard (also "lasingero")
 lason	poison
 lasunin	to poison
 lata	can; tin; a container, box, etc. made of tin
@@ -1964,6 +1972,8 @@ maalaala	to remember (also maalala)
 maalala	to remember/recall something; to be reminded of something; to be able to remember something; to remember something by accident
 maalalahanin	thoughtful
 maalat	salty
+maalinsangan	humid, hot and humid, muggy (alinsangan)
+maaliwalas	bright; serene (as of the weather, a room, the countenance, etc.)
 maámo	gentle
 maamuyan	to smell something
 maangháng	spicy, pungent; piquant
@@ -2052,6 +2062,7 @@ maghain	to set the table; to prepare for; to lay the groundwork for; to file (a 
 maghambóg	to brag, boast
 maghapunan	to have dinner
 maghawak	to hold each other by the hand
+maghunos-dilì	to control oneself, to 'think before you act' (also 'hunusdili')
 magigisnan	to awaken to
 magiliw	hospitable, gentle, affectionate, genial; beloved; blessed
 maging	to happen, become, experience something (is followed by adj or noun stem)
@@ -2317,6 +2328,7 @@ malimutan	to forget, neglect
 malinamnám	tasty
 malinaw	clear, obvious, apparent
 malinis	clean, neat, hygienic; clear, chaste
+malipat	to be moved, to be transferred; to be able to move
 malisya	malice
 maliwanag	bright, clear, distinct
 malubak	potholed, full of potholes
@@ -2583,6 +2595,7 @@ mayaman	rich, wealthy
 mayari	to be finished, to be made, slang: to be killed
 maykapál	Creator; God
 mensáhe	message
+meryenda	afternoon snack
 mga	pluralizer; about, approximately
 mga kahingían	requirements
 milagro	miracle (similar to himalâ)
@@ -2719,7 +2732,7 @@ nalaláman	being conscious/aware of, knows
 nalalapit	approaching (lit or fig)
 naláman	found out
 nalampasan	overtook
-nalibang	had fun (look this up)
+nalibáng	amused, had fun
 nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
@@ -3080,6 +3093,7 @@ pahiwátig	a hint, impression, subtle inadvertent suggestion
 pailaw	a light
 pakahulugan	interpretation
 pakainin	to feed
+pakana	plan, project, machination; an evil plot, deceitful plan
 pákay	purpose, aim
 pake	(pakialam) to have a shit to give. (anong pake ko? wala akong pake!)
 paki-abot	"please pass.."
@@ -4008,6 +4022,7 @@ taunan	annual, yearly
 tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
 tawanan	to laugh at
+táwas	nakaiwas, nakalaya, o nakaligtas mula sa sumpa o kamalasan.
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayâ	bet, stake
@@ -4286,6 +4301,7 @@ uwak	crow, raven
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
 uyam	mocking; jeering; sarcasm
+waág	open, wide and clear (referring to a place) cleared of obstructions that hinder clear viewing
 wagás	pure, perfect
 wais	wise, cunning
 wakwák	ripped, ripped open (also gahák)

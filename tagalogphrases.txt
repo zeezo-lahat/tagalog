@@ -1854,7 +1854,7 @@ Bibili ako ng bagong bisikleta sa susunod na Linggo.	I'm going to buy a new bicy
 Bibili ako ng kape para sa iyo.	I will buy coffee for you.
 Bibili ako ng libro.	I'm going to buy a book.
 Bibili ako ng mas maraming tubig bukas.	I will buy more water tomorrow.
-Bibili ang tatay ng bulaklak para sa amin.	Father will flowers for us (exclusive)
+Bibili ang tatay ng bulaklak para sa amin.	Father will buy flowers for us (exclusive)
 Bibili ka ba ng dalawa?	Will you buy two?
 Bibili siya ng damit sa tindahan bukas.	She's going to buy clothes at the store tomorrow.
 Bibisitahin ko ang aking lola bukas.	Tomorrow I'm going to visit my grandmother.
