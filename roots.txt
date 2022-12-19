@@ -4295,6 +4295,10 @@ makunan (kuha) ma_an [verb] to capture; to miscarry
 manguha (kuha) mang_ [verb] to gather; to pick (ex., fruit); to take; to gather many/several things
 pagkuha (kuha) pag_ [noun] obtaining; taking; getting; securing
 pangkuha (kuha) pang_ [noun] something for getting/obtaining
+kulam (kulam) rt_ [noun] witchcraft; sorcery; bewitchment; black magic
+mangkukulam (kulam) mangCV_ [noun] witch; wizard; witch doctor; user of black magic
+kulamin (kulam) _in [verb] to bewitch someone
+kumulam (kulam) _um_ [verb] to grumble (as in, one's stomach); to bewitch
 kakulangán (kulang) ka_an [noun] shortage; lack
 kulang (kulang) rt_ [adjective] inadequate; deficient; insufficient; deficient; short; incomplete; less; wanting; lacking; [noun] deficit
 kulangan (kulang) _an [verb] to cage
@@ -4467,7 +4471,10 @@ ilagà (laga) i_ [verb] to boil; to cook in boiling water or broth
 lagaan (laga) _an [verb] to boil something for someone
 lagà (laga) rt_ [noun] boiler
 maglagà (laga) mag_ [verb] to cook by boiling; to boil
-nilagà (laga) [adjective] boiled
+nilagà (laga) ni_ [adjective] boiled
+lagak (lagak) rt_ [noun] money deposit (in a bank); something left in care of someone; bail
+ilagak (lagak) i_ [verb] to deposit; to leave something in the care of someone else
+nakalagak (lagak) naka_ [adjective] deposited
 laganap (laganap) rt_ [adjective] widespread; common; general
 lumaganap (laganap) _um_ [verb] to become widespread; to circulate; to spread
 paglaganap (laganap) pag_ [noun] circulation; spread; dissemination
@@ -5182,6 +5189,8 @@ maliwanag (liwanag) ma_ [adjective] bright; light outside; clear (understandable
 pagpápaliwanag (liwanag) pagpapa_ [noun] explaining
 paliwanag (liwanag) pa_ [noun] explanation; caption
 paliwanagan (liwanag) pa_an [verb] to explain to someone; to enlighten someone
+magliyáb (liyab) mag_ [verb] to blaze; to burn with a bright flame; to flare
+liyáb (liyab) rt_ [noun] flame; flash; blaze
 kalokohan (loko) ka_an [noun] foolishness; mischief; craziness; joking around; folly; nonsense; antics
 loko (loko) rt_ [noun] crazy person; lunatic; [adjective] crazy; insane; demented; mad
 lokohin (loko) _in [verb] to cheat someone; to trick someone; to fool someone; to deceive someone; to cheat on someone; to have an affair on someone; * focus on the person being cheated/cheated on
@@ -5971,6 +5980,9 @@ pumatong (patong) _um_ [verb] to be on top of something
 pátongpatong (patong) [adjective] one on top of another
 magpaubayà (paubaya) mag_ [verb] to waive; to release; to relinquish
 paubayà (paubaya) rt_ [noun] waiver
+mapawì (pawi) ma_ [verb] to come to an end; to be able to exterminate or extinguish something; to be able to obliterate something; to be able to erase something
+pawiin (pawi) _in [verb] to dissipate something; to dissolve something
+pawì (pawi) rt_ [noun] relief (from pain, anger, sadness, etc.); removal
 anák-pawis (pawis) [adjective] poor; destitute; [noun] laborer
 magpawis (pawis) mag_ [verb] to sweat; to perspire
 pagpawisan (pawis) pag_an [verb] to sweat; to break out in a sweat
@@ -6470,6 +6482,7 @@ masakyán (sakay) ma_an [verb] to be able to ride; to get/understand something (
 nakasakáy (sakay) naka_ [adjective] riding
 pagsakáy (sakay) pag_ [noun] boarding; loading; riding
 pasakáy (sakay) pa_ [adverb] by riding (animal or vehicle); [request] can I ride
+pasakayín (sakay) pa_in [verb] to have someone ride; to let someone ride (e.g., a car, bus, etc.)
 sakayan (sakay) _an [noun] stop; bus stop; jeepney stop
 sakyán (sakay) _an [verb] to catch a ride on something (bus, car, etc.); to mount something (a horse, motorcycle, etc.); to play along with someone/something
 sakáy (sakay) rt_ [noun] passenger; [adjective] on board; aboard; riding
@@ -7916,6 +7929,8 @@ pinakatumaták (tatak) [adjective] most noteworthy; most noticeable; giving the 
 tatakán (tatak) _an [verb] to mark something; to stamp something; to seal something
 taták (tatak) rt_ [noun] imprint; seal; rubber stamp mark; trademark; brand; logo
 tumaták (tatak) _um_ [verb] to be imprinted; (of a habit, belief or attitude) to be ingrained; to make a mark
+matatás (tatas) ma_ [adjective] articulate; smooth-spoken
+tatás (tatas) rt_ [noun] fluency
 ikatló (tatlo) [adjective] third
 labintatló (tatlo) [number] thirteen (13)
 makaitló (tatlo) [adjective] three times; thrice
@@ -8554,6 +8569,7 @@ pátuyuan (tuyo) [noun] dryer
 tagtuyót (tuyo) [noun] drought; season with little rain
 tuyót (tuyo) [adjective] extremely dry; drought-like condition
 tuyô (tuyo) rt_ [adjective] dry; arid; dried-up; [noun] dried and salted fish
+ipaubayà (ubaya) ipa_ [verb] to entrust something; to waive something; to have something waived; to relinquish something
 maubó (ubo) ma_ [verb] to cough accidentally or involuntarily
 pag-ubó (ubo) [noun] coughing
 ubuhín (ubo) _in [verb] to have a cough
@@ -8819,6 +8835,7 @@ umuwî (uwi) _um_ [verb] to return home; to go home
 uwian (uwi) _an [noun] dismissal time; end of the work day; end of the school day; time to go home
 uwián (uwi) _an [verb] to bring home something for someone
 uwî (uwi) rt_ [noun] anything brought home after a trip; the act of going home
+uyám (uyam) rt_ [noun] sarcasm
 mang-uyam (uyam) mang_ [verb] to be sarcastic; to be mocking
 nakauuyám (uyam) naka_ [adjective] cynical; sarcastic
 iwagaywáy (wagayway) i_ [verb] to wave something; to wave something in the air; * focus on the thing being waved

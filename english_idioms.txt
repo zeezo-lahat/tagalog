@@ -105,6 +105,14 @@ I have fallen behind in my work	Nahulí ako sa aking trabaho.
 I am feeling stressed out	Nakakaramdam ako Ng stress, 
 I'm a little off (my game) today	medyo nalilito ako 
 meet in person	makipagkita sa personal.
+after a while	hindî nagtagál
+at first/initially..	noóng una..
+in person	ng mAlapitAn, sArilinAn, sa personal
+you'll do well	magiging magaling ka
+I heard..	balita ko..
+I'm really excited	nasasabik na nga ako
+I'm happy for you	masaya ako para sa iyo
+there you go again	ayan ka na naman
 I want another.	Gusto ko ng iba.
 you wish!	asa ka pa!
 disheartened	sirâ ang loób
@@ -122,6 +130,28 @@ are you Paul?	ikaw ba si Paul?
 which one?	alin dito?
 which ones?	alin sa mga ito?
 be patient with me	pagpasensiyahan mo ako
+I can't believe it	hindi ako makapaniwala
+it was tough	mahirap
+how did it go?	ano'ng nangyari?
+Most salt bread nowadays..	Maraming pandesal ngayon..
+give it to me straight	sabihin mo sa akin nang diretso
+Just be there on time.	Bastá dumatíng ka sa oras.
+it will be hot	magiging mainit
+the last time I was here	noóng nakaraáng puntá ko rito
+Yes, sometimes.	Oo, kung minsan.
+I don't know what you're referring to.	Hindî ko alám kung anó ang tinutukoy mo.
+I hope you'd be able understand why I did that.	Sana maintindihán mo kung bakit ko ginawâ 'yun.
+whenever I want	kung kailán ko gustó
+I wonder why	Nagtataká akó kung bakit
+It's hard to know who's at fault.	Mahirap tukuyin kung sino ang may sala.
+Where there's life, there's hope.	Kung saan may buhay, may pag-asa.
+Who cares?	Sinong may pakialam?
+I have a request.	May pakiusap ako.
+It just means..	Nangángahulugán lang itó na..
+all of the time (always)	sa lahat ng oras
+if I'm not mistaken	kung hindi ako nagkakamali
+I wish I could	sana kaya ko
+no new pictures from my girl	wala pa bagong litrato galing sa babae ko
 disgusting!	kadiri
 I'm screwed	lagot/patay/hala!
 can I taste it?	patikim
@@ -162,3 +192,4 @@ I'm disappointed	nawalan na ako ng gana
 I got caught in the rain	inabutan ako ng ulan
 I got/am lost	nawala ako
 I lost my phone	nawalan ako ng phone
+how should I know?	málay ko

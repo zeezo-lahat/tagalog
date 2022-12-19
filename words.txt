@@ -113,6 +113,7 @@ alin-alin	which? (plural)
 alín man	whichever
 aling	a title of familial respect used before the first name of a woman; when the name is not appended, the noun form is ale
 alinman	any, anything
+alinsangan	heat and humidity of the weather, oppressiveness of weather
 alinsunod	pursuant, in accordance to
 alipin	slave
 alipustâ	belittlement, maltreatment
@@ -146,6 +147,7 @@ amo	master, employer, boss
 amok	amuck, in a frenzy state
 amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
+ampalaya	balsam apple; bitter gourd
 ampón	adoptee
 amuyin	to smell something
 anák	child (offspring)
@@ -430,6 +432,7 @@ bayot	bakla
 benta	sell
 berde	green
 beses	time(s)
+bestida	dress
 betlog	scrotum ("a very uncouth-sounding word that less educated people use.")
 bibig	mouth; mouthpiece (person, newspaper, etc.; that speaks for others)
 biga	glib
@@ -444,6 +447,7 @@ bigkás	pronunciation
 bigkasin	to pronounce, pronounced
 bigla	sudden, immediate, unexpected
 biglang-bigla	suddenly, unexpectedly
+bigote	mustache
 bigô	frustrated, disappointed; failure
 bigti	strangled, hanged or hung by a rope
 bigtihin	to hang or strangle oneself
@@ -689,6 +693,7 @@ despachadora	a saleslady
 detálye	detail
 dí-kailangan	not needed, unnecessary
 dí-kapaní-paniwalà	unbelievable; fishy, doubtful
+dí-mapakalí	not at peace, restless, fidgety, anxious, not able to stay still
 di-mapigil	unstoppable
 di-sanáy	unskilled, unused to
 di-umanó	it is said, allegedly, they say
@@ -1152,6 +1157,7 @@ inihain	served food
 iniipit	"putting the squeeze on"
 iniirog	beloved (iniibig, minamahal are more common)
 inís	irritation, annoyance; suffocation
+inodoro	toilet
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
 Intsik	Chinese
@@ -1379,6 +1385,7 @@ kalawakan	space, especially referring to outer space
 kalawang	rust
 kalayaan	freedom
 kalbaryo	calvary; used to denote extreme suffering, especially mental suffering
+kalí	peace, tranquility, quiet
 kalidad	quality
 kalikasan	nature
 kalimítan	normally, typically, usually
@@ -1492,6 +1499,7 @@ karátulá	signboard, sign, poster
 karayom	a needle
 karera	a race
 karibal	rival (often in romance)
+karimarimarim	disgusting(?) (dimarim)
 kartero	postman
 karukhaán	poverty; lack, deficiency (dukhâ)
 karumal-dumal	loathsome, nasty
@@ -1663,6 +1671,7 @@ kulitin	to badger, pester
 kulkól	a shallow hole
 kulkulín	to dig a shallow hole
 kulob	something that is covered up
+kulog	thunder
 kulóng	jailed, caged
 kulot	curl
 kulungan	a cage, a prison
@@ -1682,6 +1691,7 @@ kumot	sheet, bedsheet
 kumpirma	to confirm
 kumpisál	confession, religious confession
 kumpiyansa	confidence
+kumportable	comfortable
 kundangan	because of; due to the fact that
 kundiman	native song, love song; muslin (textile) with blood-red color
 kundî	except, if not, but, if not for, but also, not only; otherwise, on the contrary, or else
@@ -1815,6 +1825,7 @@ larawan	picture, portrait (litrato]) ilarawan (i-)
 larga	go ahead!, proceed!
 lasa	the taste or flavor of something
 lasíng	drunk, intoxicated, inebriated
+lasinggero	drunkard (also "lasingero")
 lason	poison
 lasunin	to poison
 lata	can; tin; a container, box, etc. made of tin
@@ -1963,6 +1974,7 @@ maalaala	to remember (also maalala)
 maalala	to remember/recall something; to be reminded of something; to be able to remember something; to remember something by accident
 maalalahanin	thoughtful
 maalat	salty
+maalinsangan	humid, hot and humid, muggy (alinsangan)
 maaliwalas	bright; serene (as of the weather, a room, the countenance, etc.)
 maámo	gentle
 maamuyan	to smell something
@@ -2052,6 +2064,7 @@ maghain	to set the table; to prepare for; to lay the groundwork for; to file (a 
 maghambóg	to brag, boast
 maghapunan	to have dinner
 maghawak	to hold each other by the hand
+maghunos-dilì	to control oneself, to 'think before you act' (also 'hunusdili')
 magigisnan	to awaken to
 magiliw	hospitable, gentle, affectionate, genial; beloved; blessed
 maging	to happen, become, experience something (is followed by adj or noun stem)
@@ -2317,6 +2330,7 @@ malimutan	to forget, neglect
 malinamnám	tasty
 malinaw	clear, obvious, apparent
 malinis	clean, neat, hygienic; clear, chaste
+malipat	to be moved, to be transferred; to be able to move
 malisya	malice
 maliwanag	bright, clear, distinct
 malubak	potholed, full of potholes
@@ -3082,11 +3096,12 @@ pahiwátig	a hint, impression, subtle inadvertent suggestion
 pailaw	a light
 pakahulugan	interpretation
 pakainin	to feed
+pakana	plan, project, machination; an evil plot, deceitful plan
 pákay	purpose, aim
 pake	(pakialam) to have a shit to give. (anong pake ko? wala akong pake!)
 paki-abot	"please pass.."
 paki-bilis	please hurry
-pakialam	caring/concern; busybody, meddler
+pakialám	caring/concern; busybody, meddler
 pakikiapíd	fornication
 pakikibagay	conforming, adaptation
 pakikipag-usap	conversation
@@ -3461,6 +3476,7 @@ puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
 purók	district (smaller than a barangay)
 purong-puro	very pure
+púrsigido	persistent
 pusa	cat
 pusakal	street cat
 pusang kalye	street cat
@@ -3891,6 +3907,7 @@ tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tahól	bark, as of a dog (also kahol)
+tahô	a sweet snack made with soft tofu, sago/tapioca pearls, and a caramelized sugar syrup
 tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 takád	stamping of feet in anger or protest
@@ -3953,8 +3970,8 @@ tampók	center of attraction
 tanáw	view
 tandâ	sign, mark; signal; evidence
 tandaan	to remember
-tangay	carried away (by force, seizure, abduction, mouth)
-tangay	carried away (by wind, current, bird or prey, or emotions)
+tangáy	carried away (by force, seizure, abduction, mouth)
+tangáy	carried away (by wind, current, bird or prey, or emotions)
 tange	stupid (less harsh than tanga) also "tangi"
 tangengot	stupid
 tanggál	remove by unfastening, detaching
@@ -4008,6 +4025,7 @@ taunan	annual, yearly
 tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
 tawanan	to laugh at
+táwas	nakaiwas, nakalaya, o nakaligtas mula sa sumpa o kamalasan.
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayâ	bet, stake
