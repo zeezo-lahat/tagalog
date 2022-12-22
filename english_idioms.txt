@@ -130,7 +130,6 @@ are you Paul?	ikaw ba si Paul?
 which one?	alin dito?
 which ones?	alin sa mga ito?
 be patient with me	pagpasensiyahan mo ako
-<<<<<<< HEAD
 I can't believe it	hindi ako makapaniwala
 it was tough	mahirap
 how did it go?	ano'ng nangyari?
@@ -186,9 +185,13 @@ I'll be back soon	balik ako agad
 I'm just about to..	malapit na akong..
 I'm just about to get dressed	magbibihis pa lang ako
 It's still only three o'clock	alas tres pa lang
-I just finished	katatapos ko pa lang
+I just finished	katatapos ko pa lang / kakatapos ko lang
 it's only july	hulyo pa lang ngayon
 put it to good use	gamitin mo sa mabuting paraán ito
+I'm disappointed	nawalan na ako ng gana
+I got caught in the rain	inabutan ako ng ulan
+I got/am lost	nawala ako
+I lost my phone	nawalan ako ng phone
 how should I know?	málay ko
 you never know	málay mo
 I'm not into that	hindi ako mahilig dyan
@@ -203,3 +206,7 @@ I heard...	balita ko..
 did you hear that..	narinig mo ba..
 you should be	dapat lang
 don't worry about it	wag mong alalahanin
+did it work?	gumana ba?
+what is that for?	para saan naman iyan?
+where is it (now)?	nasaan na?
+I'll figure it out.	Aalimain ko muna.

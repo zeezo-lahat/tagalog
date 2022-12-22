@@ -331,6 +331,7 @@ balik-balik	repeatedly
 balikat	shoulder
 baliktad	inside-out, upside-down (also 'baligtad')
 baliktarin	to turn something over (lit/fig)
+balikukô	skewed
 balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara, dalawa ang mukha
 balisóng	fan knife, butterfly knife
 balitaan	notify
@@ -2585,8 +2586,8 @@ mausok	smoky
 mautak	brainy
 mautas	to have ended or terminated, consummated
 mauwi	to develop into, to happen as a result
-mawala	to be lost, vanish, disappear
-mawalan	to lose something
+mawalâ	to be lost, to vanish, to disappear (focus on the thing lost)
+mawalán	to lose something (actor focus!)
 mawalang-galang	apologies for being disrespectful
 mawari	discern, perceive, distinguish, comprehend
 mawawala	will be lost, vanish, disappear
