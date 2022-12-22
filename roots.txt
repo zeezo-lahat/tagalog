@@ -7687,6 +7687,10 @@ magtamó (tamo) mag_ [verb] to acquire; to reap; to attain; to elicit
 matamó (tamo) ma_ [verb] to attain something (OF); to reap something (OF); to receive something (OF)
 pagtatamo (tamo) pagCV_ [noun] acquiring; attaining
 tamuhín (tamo) _in [verb] to obtain something; to acquire something to evoke something; to elicit something
+magtampó (tampo) mag_ [verb] to sulk; to give the silent treatment
+tampó (tampo) rt_ [noun] sulking; silent treatment
+tampuhan (tampo) _an [noun] sulking; silent treatment; resentment; lover's quarrel
+pagtatampó (tampo) magCV_ [noun] sulking; silent treatment.
 itampók (tampok) i_ [verb] to feature
 magtampók (tampok) mag_ [verb] to feature; to show off
 pagtatampók (tampok) [noun] featuring
