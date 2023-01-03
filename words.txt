@@ -319,6 +319,7 @@ balasa	shuffling (of playing cards, etc.)
 bálat	birthmark, patch on the skin
 balát	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
 balbál	vulgarity; vulgarness 
+baldado	crippled, disabled, worn out
 bale	value; as if; equal in value to; cash advance; so
 bále-walâ	not worth ones salt, not worthy
 bále-walaín	to ignore something/someone; to disregard something
@@ -888,6 +889,7 @@ habágat	southwest, often ref. to storm winds
 hábang	while, throughout, during ("as long as"?)
 hábang-buhay	lifelong, "while alive" (var: habambuhay)
 habang-panahon	"while time", forever
+habas	prudence, discretion
 habilin	will (legal document); something entrusted to someone; trust (habil)
 hablot	grab
 habol	pursue, run after, chase
@@ -2172,6 +2174,7 @@ magtagumpay	to succeed
 magtaká	to be surprised
 magtakíp	to cover (takíp)
 magtamo	to obtain, to acquire
+magtampó	to sulk. Nagtampo si Dolores. Dolores sulked.
 magtánda	to mark; to learn a lesson
 magtanong	to question
 magtanong-tanong	to ask around(?)
@@ -2337,6 +2340,7 @@ maliwanag	bright, clear, distinct
 malubak	potholed, full of potholes
 malubáy	calm, relaxed, slack
 malubhâ	serious, dire (often ref to sickness or medical condition)
+malugód	to be pleased or content
 maluho	extravagant
 maluló	to be hooked on a bad vice, to be addicted; to fall into a bad situation
 malunggáy	a common leafy green vegetable/herb in the Philippines with a taste like horseradish that is full of vitamins and often used to treat illness
@@ -3968,6 +3972,7 @@ tambalang-salita	paired words, compound words
 tambáng	ambush
 tambay	instantly, immediately; consumed, finished; killed instantaneously
 tamis	sweetness; pleasure
+tampó	sulking
 tampók	center of attraction
 tanáw	view
 tandâ	sign, mark; signal; evidence
@@ -4159,6 +4164,7 @@ tumayo	to stand up
 tumbás	equal, enough, sufficient; [math] equals
 tumestigo	testify
 tumigil	to stop
+tumilà	to cease (usually referring to rain)
 tumilî	shrieked, screeched
 tumínag	to budge
 tumingkad	to become brighter/clearer (as colors)
@@ -4319,6 +4325,7 @@ walang-diwa	senseless
 walang-galang	without respect
 walang-gawa	“nothing doing” = unemployed, idle
 walang-hanggan	infinite, boundless, eternal
+waláng-habas	recklessly, non-stop, never-ending
 walang-ingat	careless (pabayâ)
 waláng kamálay-malay	unsuspecting
 walang-kulang	lacking nothing / complete

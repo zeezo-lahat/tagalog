@@ -193,6 +193,19 @@ I got caught in the rain	inabutan ako ng ulan
 I got/am lost	nawala ako
 I lost my phone	nawalan ako ng phone
 how should I know?	málay ko
+you never know	málay mo
+I'm not into that	hindi ako mahilig dyan
+that's good to hear	mabuti naman kung ganoon
+we'll see	titingnan natin
+in/around the area/neighborhood	sa lugar
+downtown	sa bayan
+every corner	lahat ng sulok
+might not	baka hindi
+how frustrating!	nakakainis!
+I heard...	balita ko..
+did you hear that..	narinig mo ba..
+you should be	dapat lang
+don't worry about it	wag mong alalahanin
 did it work?	gumana ba?
 what is that for?	para saan naman iyan?
 where is it (now)?	nasaan na?
@@ -200,4 +213,6 @@ I'll figure it out.	Aalimain ko muna.
 says who?	sabi ninó?
 I just woke up	bagong gising ako
 I took a nap	naidlip ako
-
+I'll figure it out.	Aalamin ko muna.
+congratulations	binabati kita
+no kidding	puwera birò
