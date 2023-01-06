@@ -1039,7 +1039,8 @@ hugpóng	joint
 hukay	excavation, hole, pit, crater; grave
 Húkbalaháp	The People's Army Against the Japanese (Hukbo ng Bayan Laban sa Hapon)
 hukbo	army
-hukuman	a court of law
+hukuman	a court of law (also "hukoman")
+hukoman	a court of law (also "hukuman")
 hulà	guess, forecast
 hulaan	to guess
 huli	catch
@@ -1162,6 +1163,7 @@ inís	irritation, annoyance; suffocation
 inodoro	toilet
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
+intriga	intrigue
 Intsik	Chinese
 ipaalám	to inform (object focus) (inform <SA> of <ANG>)
 ipabatid	to inform
@@ -1341,7 +1343,7 @@ kahol	bark, as of a dog (also tahól)
 kahón	a box
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
-kahuyan	woodland, forest
+kahuyán	woodland, forest
 kaibahan	a difference
 kaibigang putik	“mud” friend = fake friend
 kailán	when (kelan)
@@ -1353,6 +1355,7 @@ kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
 káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
+kakahúyan	malawak na lupaing maraming punongkahoy (var kahúyan, kagubátan)
 kakaibá	different, strange, unusual
 kakambal	fellow twin, being like someone
 kakanín	sweets, sweet foods, small snacks, rice cake
@@ -2429,6 +2432,7 @@ manuluyan	to stay in someone's house
 manumpâ	to pledge/swear/attest to; to swear in (to a position) (sumpâ)
 manyakis	pervert (from "sex maniac")
 maông	jeans
+mapa-oo	to convince (?)
 mápa	map
 mapag-usápan	to discuss, to settle matters, to be talked about
 mapágbigáy	generous
@@ -4046,6 +4050,7 @@ terno	matching items, set, suite; matching
 testigo	witness
 tibay	sturdiness
 tibò	matalim at matulis na organ ng ilang kulisap, gaya ng bubuyog o ilang uri ng isda, at ginagamit bílang proteksiyon.
+tigang	very dry (soil); barren
 tigás	hardness, toughness, stiffness
 tigdás	measles
 tigil	stop, pause
