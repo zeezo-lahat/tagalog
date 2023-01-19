@@ -261,6 +261,8 @@ alayan (alay) _an [verb] to offer something to someone
 ialay (alay) i_ [verb] to dedicate something; to offer something
 mag-alay (alay) mag_ [verb] to offer; to dedicate
 pag-aalay (alay) pagCV_ [noun] dedication; offering
+maalimpungatan (alimpungat) ma_an [verb] to awaken suddenly; to feel groggy
+alimpungát (alimpungat) rt_ [noun] half awake; half asleep; grogginess
 alinlangan (alinlangan) rt_ [noun] doubt; doubting; uncertainty; [adverb] uncertainly
 mag-alinlangan (alinlangan) mag_ [verb] to doubt
 pag-aalinlangan (alinlangan) pagCV_ [noun] hesitation; doubts; doubting
@@ -4355,6 +4357,8 @@ kumpleto (kumpleto) rt_ [adjective] complete
 kumpletuhin (kumpleto) _in [verb] to complete something; to finish something
 makumpleto (kumpleto) ma_ [verb] to be complete (AF)
 pagkumpleto (kumpleto) pag_ [noun] completion
+pagkukumpuní (kumpuni) pagCV_ [noun] repairs; repairing
+magkumpuní (kumpuni) mag_ [verb] to repair
 muztá (kumusta) How are you. slang written abbreviation for "kumusta," used in texting or social media.
 ikumustá (kumusta) i_ [verb] to send regards on behalf of someone
 kumustahín (kumusta) _in [verb] to send regards; to inquire about the condition of something, or the health of someone
@@ -6732,6 +6736,7 @@ sanáy (sanay) rt_ [adjective] experienced; skillful; skilled; efficient at; def
 tagasanay (sanay) taga_ [noun] coach; trainer
 isandál (sandal) i_ [verb] to recline something against/on something; to lean something on; to press something (against)
 nakasandál (sandal) naka_ [adjective] leaning
+sandalán (sandal) _an [verb] to lean on something
 sandalan (sandal) _an [noun] backrest; back; rest
 sandál (sandal) rt_ [noun] leaning on something
 sumandál (sandal) _um_ [verb] to recline; to lean on something
@@ -7016,11 +7021,14 @@ samaháng-simbahan (simba) [noun] church group
 simbahan (simba) [noun] church
 simbá (simba) rt_ [noun] Mass; church service; religious service
 sumimbá (simba) _um_ [verb] to go to church; to attend Mass
+kakasimulâ (simula) kaka_ just started
+magpasimulâ (simula) magpa_ [verb] to have (something) started; to initiate; to put into action
 magsimulâ (simula) mag_ [verb] to start; to begin; to commence; to launch; to embark
 makapagsimulâ (simula) makapag_ [verb] to be able to start; to be able to begin
 masimulán (simula) ma_an [verb] to start something
-pagsisimulâ (simula) [noun] starting; start
+pagsisimulâ (simula) pagCV_ [noun] starting; start
 pasimulán (simula) pa_an [verb] to start something; to get something started
+pinakasimulâ (simula) pinaka_ [adjective] the very beginning
 simulán (simula) _an [verb] to begin something; to embark on something; to enter upon something
 simulâ (simula) rt_ [noun] beginning; start; origin; opening; [preposition] starting from; beginning at; (often the abbreviated form "mula" is used as the preposition instead)
 sindák (sindak) rt_ [noun] shock; terror
@@ -7594,8 +7602,8 @@ nakatalagá (talaga) naka_ [adjective] prepared
 pagkakatalagá (talaga) pagkaka_ [noun] intention; appropriation; role
 talagá (talaga) rt_ [adverb] really; just; certainly; definitely; actual; in fact; downright; indeed; surely
 talakay (talakay) rt_ [noun] discussion
-tálakayán (talakay) _an [noun] conference; discussion
-talakayin (talakay) _in [verb] to discuss something
+tálakayán (talakay) _an [noun] discussion; conference; exchange of ideas or opinions
+talakayin (talakay) _in [verb] to discuss something; to "dig in" to discuss something
 tumalakay (talakay) _um_ [verb] to discuss
 matalas (talas) ma_ [adjective] sharp; sharp edge; sharpened; keen; clever; acute; astute
 talas (talas) rt_ [noun] sharpness; sharp
