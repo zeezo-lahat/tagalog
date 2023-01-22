@@ -7826,6 +7826,8 @@ patanóng (tanong) pa_ [adjective] interrogative; uncertain;[adverb] questioning
 tagapagtanóng (tanong) [noun] interrogator
 tanungín (tanong) _in [verb] to ask about something; to ask someone; to ask something; to question someone; to interrogate someone;
 tanóng (tanong) rt_ [noun] question
+tantiyá (tantiya) rt_ [noun] estimate; calculation; testing
+tantiyado (tantiya) sp_ [adjective] estimated; assessed
 mapagtantó (tanto) mapag_ [verb] to come to realize something; to come to understand something
 tantó (tanto) rt_ [adjective] realized; known
 matantó (tanto) ma_ [verb] to realize; to know
@@ -8477,6 +8479,9 @@ patunay (tunay) pa_ [noun] proof; evidence; manifestation
 patunayan (tunay) pa_an [verb] to prove; to testify; to verify; to certify; to authenticate; to corroborate
 sa katunayan (tunay) phr_ [adverb] in fact; in reality
 tunay (tunay) rt_ [adjective] true; genuine; full-blooded; concrete; sincere; actual; factual
+katunggalî (tunggali) ka_ [noun] opponent; rival; enemy;
+tunggalian (tunggali) _an [noun] rivalry; conflict
+tunggalî (tunggali) rt_ [noun] conflict; argument
 matunghayán (tunghay) ma_an [verb] to be able to oversee something; to be able to look at or read something carefully
 tunghayán (tunghay) _an [verb] to look over; to look at or read something carefully
 nakatungháy (tunghay) naka_ [adjective] looking up; looking upward; with a raised head
