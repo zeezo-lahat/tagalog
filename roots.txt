@@ -12,6 +12,8 @@ abangán (abang) _an [verb] to watch out for; to keep an eye out for
 abáng (abang) rt_ [noun] watcher; lookout (person); someone watching and waiting for something
 mag-abáng (abang) mag_ [verb] to wait for; to watch out for; to keep an eye out for; * Usually meaning to watch or wait for a ride of person to arrive
 nakaabáng (abang) naka_ looking for; keeping an eye out
+aberyá (aberya) rt_ [noun] snag; unexpected problem; obstacle;
+magka-aberyá (aberya) magka_ [verb] to encounter an unexpected problem; to hit a snag
 abuhan (abo) _an [noun] ash tray; ash
 abuhin (abo) _in [adjective] ash colored; ashen
 abó (abo) rt_ [noun] ash; ashes; cinders; grey
@@ -259,6 +261,8 @@ alayan (alay) _an [verb] to offer something to someone
 ialay (alay) i_ [verb] to dedicate something; to offer something
 mag-alay (alay) mag_ [verb] to offer; to dedicate
 pag-aalay (alay) pagCV_ [noun] dedication; offering
+maalimpungatan (alimpungat) ma_an [verb] to awaken suddenly; to feel groggy
+alimpungát (alimpungat) rt_ [noun] half awake; half asleep; grogginess
 alinlangan (alinlangan) rt_ [noun] doubt; doubting; uncertainty; [adverb] uncertainly
 mag-alinlangan (alinlangan) mag_ [verb] to doubt
 pag-aalinlangan (alinlangan) pagCV_ [noun] hesitation; doubts; doubting
@@ -866,10 +870,10 @@ bagót (bagot) rt_ [noun] exasperation; boredom; [adjective] exasperated
 mabagót (bagot) ma_ [verb] to be bored or weary; to annoy
 nakakabagót (bagot) nakaka_ [adjective] boring
 pagkabagót (bagot) pagka_ [noun] boredom
-bagsakan (bagsak) _an [noun] destination; place where goods are delivered
+bagsakan (bagsak) _an [noun] destination; place where goods are delivered; musically(bagsak) beat drop, or breakdown
 bagsák (bagsak) rt_ [noun] collapse; sudden fall; sudden crash; failure; [adjective] collapsed; failed; fallen; broken down; defeated; bankrupt; fail
 bumagsák (bagsak) _um_ [verb] to crash ; to collapse ; to fall; to fail
-ibagsák (bagsak) i_ [verb] to overthrow; to upset; to slam down; to flunk
+ibagsák (bagsak) i_ [verb] to throw something down; to overthrow something; to upset something; to slam something down; to flunk something
 mabagsakan (bagsak) ma_an [verb] to have something fall on something/someone; to collapse
 mabagsák (bagsak) ma_ [verb] to drop; to fall; to crash
 magbagsák (bagsak) mag_ [verb] to bring down; to subvert; to overthrow
@@ -1608,7 +1612,7 @@ ipagbuhát (buhat) ipag_ [verb] to lift/carry something for someone else
 magbuhat (buhat) mag_ [verb] to carry; to lift; to arise; to originate
 pagbubuhát (buhat) pagCV_ [noun] lifting
 pagbuhatín (buhat) pag_in [verb] to lift/carry for someone else
-Mabuhay! (buhay) phr_ [expression] Welcome!; Literally(buhay) "Live long!"
+mabuhay! (buhay) phr_ [expression] welcome!; literally(buhay) "Live long!"
 buhay (buhay) rt_ [noun] life
 buhayin (buhay) _in [verb] to bring something/someone to life; to give life to something/someone; to revive someone; to provide for someone; to support something/someone; to enable another to live; to raise someone (a child)
 buháy (buhay) rt_ [adjective] alive; living
@@ -1829,7 +1833,7 @@ buwan-buwán (buwan) [adjective] every month; each month; monthly
 buwanan (buwan) _an [adjective/adverb] on a monthly basis; monthly
 buwán (buwan) rt_ [noun] month; moon
 kabuwanan (buwan) ka_an [noun] month when things become mature; maturity of pregnancy; maturation
-Makíkiraán pô (daan) phr_ Please let me pass.
+makíkiraán pô (daan) phr_ please let me pass.
 bigyáng-daán (daan) compound_ [noun] giving way
 daan-daán (daan) rt_rt [adjective] hundreds
 daanan (daan) _an [noun] passageway; aisle
@@ -4029,6 +4033,10 @@ kumantá (kanta) _um_ [verb] to sing
 magkantahán (kanta) mag_an [verb] to sing together; to sing all together
 pagkantá (kanta) pag_ [noun] singing; way of singing
 pakantahín (kanta) pa_in [verb] to ask someone to sing; to make someone/something sing; to make someone confess to a crime.
+kantutín (kantot) _in [verb] to fuck someone/something; to have sex with someone * vulgar
+kantót (kantot) rt_ [noun] fuck; sex act (vulgar)
+magkantót (kantot) mag_ [verb] to fuck ( have sex ); * vulgar
+pagkantót (kantot) pag_ [noun] having sex
 kanya-kanyá (kanya) rt_rt [pronoun] each; each one; individually; his/her respective
 kanyahín (kanya) _in [verb] to appropriate something for oneself
 kanyá (kanya) rt_ [pronoun] him / her / it; hers / his; his / her / its (variation of "kaniya")
@@ -4218,7 +4226,7 @@ kiskisan (kiskis) _an [noun] rice mill; friction
 kiskisín (kiskis) _in [verb] to rub something; to grind something; to grind something smooth
 kiskís (kiskis) rt_ [noun] friction
 kumiskís (kiskis) _um_ [verb] to rub
-Makikita mo! (kita) phr_ [interjection] You'll see!
+makikita mo! (kita) phr_ [interjection] you'll see!
 ipakita (kita) ipa_ [verb] to show someone something; to display something; to indicate; to demonstrate; * focus on the thing being shown
 kita (kita) rt_ [noun] earnings; profits; wages; income; seeing; see
 kitain (kita) _in [verb] to earn something; to meet up with someone
@@ -4349,7 +4357,9 @@ kumpleto (kumpleto) rt_ [adjective] complete
 kumpletuhin (kumpleto) _in [verb] to complete something; to finish something
 makumpleto (kumpleto) ma_ [verb] to be complete (AF)
 pagkumpleto (kumpleto) pag_ [noun] completion
-Muztá (kumusta) How are you. Slang written abbreviation for "kumusta," used in texting or social media.
+pagkukumpuní (kumpuni) pagCV_ [noun] repairs; repairing
+magkumpuní (kumpuni) mag_ [verb] to repair
+muztá (kumusta) How are you. slang written abbreviation for "kumusta," used in texting or social media.
 ikumustá (kumusta) i_ [verb] to send regards on behalf of someone
 kumustahín (kumusta) _in [verb] to send regards; to inquire about the condition of something, or the health of someone
 kumustá (kumusta) sp_ [greeting] how are you; hello; how is; hi
@@ -4928,7 +4938,7 @@ manligaw (ligaw) mang_ [verb] to date; to court; to woo
 manliligaw (ligaw) mangCV_ [noun] suitor; lover
 pagkaligáw (ligaw) pagka_ [noun] wandering; being lost; aberration
 panliligaw (ligaw) pangCV_ [noun] wooing; courting
-Maligayang batì (ligaya) Happy birthday!
+maligayang batì (ligaya) happy birthday!
 kaligayahan (ligaya) ka_an [noun] happiness; joy; bliss
 ligaya (ligaya) rt_ [noun] joy; happiness; delight
 lumigaya (ligaya) _um_ [verb] to be happy; to be joyful
@@ -5385,8 +5395,8 @@ lumuwás (luwas) _um_ [verb] to move or travel from a province to a city; to go 
 luwás (luwas) rt_ [noun] a move from a province to a city
 pagluluwás (luwas) pagCV_ [noun] exporting
 pagluwás (luwas) pag_ [noun] going from the provinces to the city
-Mahál kitá (mahal) phr_ [phrase] I love you.
-Mahál na mahál kitá (mahal) phr_ [phrase] I love you very much
+mahál kitá (mahal) phr_ [phrase] I love you.
+mahál na mahál kitá (mahal) phr_ [phrase] I love you very much
 kamahalan (mahal) ka_an [adjective] excellency; his/her excellency; * commonly used with royalty or rulers
 magmahalan (mahal) mag_an [verb] to love each other or one another
 magmahál (mahal) mag_ [verb] to love; to become expensive
@@ -5407,8 +5417,8 @@ malasin (malas) _in [verb] to have bad luck; to suffer harm; to be unlucky
 pagpapamalas (malas) pagpapa_ [noun] showing; showing off; exhibiting
 malasakit (malasakit) rt_ [noun] concern; empathy; solicitude
 pagmamalasakit (malasakit) pagCV_ [noun] concern; empathy; solicitude
-Malay ko ba? (malay) phr_ [interjection] How should I know?; Damned if I know
-Malay mo. (malay) phr_ [phrase] You never know.
+malay ko ba? (malay) phr_ [interjection] how should I know?; damned if I know
+malay mo. (malay) phr_ [phrase] you never know.
 kamalayán (malay) ka_an [noun] recognition; cognizance
 kawaláng-malay (malay) compound_ [noun] innocence; ignorance
 magkamalay (malay) magka_ [verb] to regain consciousness; to revive
@@ -5736,6 +5746,9 @@ pumalò (palo) _um_ [verb] to spank; to whip; to hit; to beat; to flog
 kapalpakan (palpak) ka_an [noun] failure
 palpák (palpak) rt_ [noun] failure; [adjective] done poorly
 pumalpák (palpak) _um_ [verb] to fail
+pumalyá (palya) _um_ [verb] to fail; to falter; to miss;
+palyá (palya) rt_ [noun] failure; fault; miss
+palyado (palya) sp_ [adjective] misfiring (e.g., machine or gun); faulty; failed; defective
 pamagát (pamagat) rt_ [noun] title; caption
 pamagatán (pamagat) _an [verb] to title something; to entitle something; to give something a name/title;
 hábang-panahón (panahon) compound_ [adverb] forever
@@ -5951,7 +5964,7 @@ magpataw (pataw) mag_ [verb] to impose
 pagpapataw (pataw) pagpa_ [noun] imposing; punishing
 pataw (pataw) rt_ [noun] surcharge; punishment
 patawan (pataw) _an [verb] to impose; to put a burden, tax or punishment on
-Mamatáy ka na! (patay) phr_ [interjection] I hope you die!; I hope you drop dead!
+mamatáy ka na! (patay) phr_ [interjection] I hope you die!; I hope you drop dead!
 ipapatáy (patay) ipa_ [verb] to have someone killed
 magkámatayan (patay) magka_an [verb] to fight to the death
 magpatáy (patay) mag_ [verb] to slaughter (animals); to kill
@@ -6439,7 +6452,7 @@ sagót (sagot) rt_ [noun] answer; reply; response
 sumagót (sagot) _um_ [verb] to answer; to reply; to pay for something
 tagapanagót (sagot) tagapang_ [noun] guarantor
 ságupaán (sagupa) _an [noun] battle
-Makasagupà (sagupa) maka_ To encounter; meet (esp. when unexpected)
+makasagupà (sagupa) maka_ [verb] to encounter; meet (esp. when unexpected)
 makasagupà (sagupa) maka_ [verb] to collide (meet); to encounter (usually unexpected)
 sagupain (sagupa) _in [verb] to attack something
 sagupà (sagupa) rt_ [noun] encounter; collision
@@ -6723,6 +6736,7 @@ sanáy (sanay) rt_ [adjective] experienced; skillful; skilled; efficient at; def
 tagasanay (sanay) taga_ [noun] coach; trainer
 isandál (sandal) i_ [verb] to recline something against/on something; to lean something on; to press something (against)
 nakasandál (sandal) naka_ [adjective] leaning
+sandalán (sandal) _an [verb] to lean on something
 sandalan (sandal) _an [noun] backrest; back; rest
 sandál (sandal) rt_ [noun] leaning on something
 sumandál (sandal) _um_ [verb] to recline; to lean on something
@@ -6982,6 +6996,8 @@ nakasilid (silid) naka_ [adjective] contained; inhabited; occupying
 manilip (silip) mang_ [verb] to peek
 masilip (silip) ma_ [verb] to be able to get a quick peek at something; to be able to take a quick look
 nakasilip (silip) naka_ [adjective] peeking
+pagsilip (silip) pag_ [noun] peeping; glancing; peeking; upon taking a peek
+paninilip (silip) pangCV_ [noun] spying; peeping
 pasilip (silip) can I take a peek
 silip (silip) rt_ [noun] peep; secret look
 silipan (silip) _an [verb] to peek at something/someone; to peep at something/someone;
@@ -7005,11 +7021,14 @@ samaháng-simbahan (simba) [noun] church group
 simbahan (simba) [noun] church
 simbá (simba) rt_ [noun] Mass; church service; religious service
 sumimbá (simba) _um_ [verb] to go to church; to attend Mass
+kakasimulâ (simula) kaka_ just started
+magpasimulâ (simula) magpa_ [verb] to have (something) started; to initiate; to put into action
 magsimulâ (simula) mag_ [verb] to start; to begin; to commence; to launch; to embark
 makapagsimulâ (simula) makapag_ [verb] to be able to start; to be able to begin
 masimulán (simula) ma_an [verb] to start something
-pagsisimulâ (simula) [noun] starting; start
+pagsisimulâ (simula) pagCV_ [noun] starting; start
 pasimulán (simula) pa_an [verb] to start something; to get something started
+pinakasimulâ (simula) pinaka_ [adjective] the very beginning
 simulán (simula) _an [verb] to begin something; to embark on something; to enter upon something
 simulâ (simula) rt_ [noun] beginning; start; origin; opening; [preposition] starting from; beginning at; (often the abbreviated form "mula" is used as the preposition instead)
 sindák (sindak) rt_ [noun] shock; terror
@@ -7583,8 +7602,8 @@ nakatalagá (talaga) naka_ [adjective] prepared
 pagkakatalagá (talaga) pagkaka_ [noun] intention; appropriation; role
 talagá (talaga) rt_ [adverb] really; just; certainly; definitely; actual; in fact; downright; indeed; surely
 talakay (talakay) rt_ [noun] discussion
-tálakayán (talakay) _an [noun] conference; discussion
-talakayin (talakay) _in [verb] to discuss something
+tálakayán (talakay) _an [noun] discussion; conference; exchange of ideas or opinions
+talakayin (talakay) _in [verb] to discuss something; to "dig in" to discuss something
 tumalakay (talakay) _um_ [verb] to discuss
 matalas (talas) ma_ [adjective] sharp; sharp edge; sharpened; keen; clever; acute; astute
 talas (talas) rt_ [noun] sharpness; sharp
@@ -7807,6 +7826,8 @@ patanóng (tanong) pa_ [adjective] interrogative; uncertain;[adverb] questioning
 tagapagtanóng (tanong) [noun] interrogator
 tanungín (tanong) _in [verb] to ask about something; to ask someone; to ask something; to question someone; to interrogate someone;
 tanóng (tanong) rt_ [noun] question
+tantiyá (tantiya) rt_ [noun] estimate; calculation; testing
+tantiyado (tantiya) sp_ [adjective] estimated; assessed
 mapagtantó (tanto) mapag_ [verb] to come to realize something; to come to understand something
 tantó (tanto) rt_ [adjective] realized; known
 matantó (tanto) ma_ [verb] to realize; to know
@@ -8458,6 +8479,9 @@ patunay (tunay) pa_ [noun] proof; evidence; manifestation
 patunayan (tunay) pa_an [verb] to prove; to testify; to verify; to certify; to authenticate; to corroborate
 sa katunayan (tunay) phr_ [adverb] in fact; in reality
 tunay (tunay) rt_ [adjective] true; genuine; full-blooded; concrete; sincere; actual; factual
+katunggalî (tunggali) ka_ [noun] opponent; rival; enemy;
+tunggalian (tunggali) _an [noun] rivalry; conflict
+tunggalî (tunggali) rt_ [noun] conflict; argument
 matunghayán (tunghay) ma_an [verb] to be able to oversee something; to be able to look at or read something carefully
 tunghayán (tunghay) _an [verb] to look over; to look at or read something carefully
 nakatungháy (tunghay) naka_ [adjective] looking up; looking upward; with a raised head

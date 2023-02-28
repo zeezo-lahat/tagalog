@@ -473,6 +473,7 @@ binati	greeted
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
 bingí	deaf
+bingwit	fishing tackle
 binibini	polite title for unmarried women (outdated)
 binigkas	pronounced
 binilang	to count
@@ -1040,7 +1041,8 @@ hugpóng	joint
 hukay	excavation, hole, pit, crater; grave
 Húkbalaháp	The People's Army Against the Japanese (Hukbo ng Bayan Laban sa Hapon)
 hukbo	army
-hukuman	a court of law
+hukuman	a court of law (also "hukoman")
+hukoman	a court of law (also "hukuman")
 hulà	guess, forecast
 hulaan	to guess
 huli	catch
@@ -1163,6 +1165,7 @@ inís	irritation, annoyance; suffocation
 inodoro	toilet
 intensibo	intensive
 intindihín	to attend to, take care of, focus on something; to understand something
+intriga	intrigue
 Intsik	Chinese
 ipaalám	to inform (object focus) (inform <SA> of <ANG>)
 ipabatid	to inform
@@ -1342,7 +1345,7 @@ kahol	bark, as of a dog (also tahól)
 kahón	a box
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
-kahuyan	woodland, forest
+kahuyán	woodland, forest
 kaibahan	a difference
 kaibigang putik	“mud” friend = fake friend
 kailán	when (kelan)
@@ -1354,6 +1357,7 @@ kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
 káisa-isá	lone, only, sole, one and only
 kaisipan	the mind, intellect, attitude
+kakahúyan	malawak na lupaing maraming punongkahoy (var kahúyan, kagubátan)
 kakaibá	different, strange, unusual
 kakambal	fellow twin, being like someone
 kakanín	sweets, sweet foods, small snacks, rice cake
@@ -1415,6 +1419,7 @@ kamakailán	recently
 kamakalawá	the day before yesterday (dalawa)
 kamalayán	awareness
 kamalian	mistake
+kamalig	storehouse, warehouse; barn, granary
 kamara	legislative chamber; hall, chamber
 kamay	hand
 kamayin	use your hands
@@ -1430,6 +1435,7 @@ kampante	complacent, content
 kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kamungawan	comprehension
+kamusmusan	innocence (as a child)
 kanais-nais	desirable
 kanan	right (vs. left)
 kanayunan	center of a village/barrio; a remote rural area (also nayon)
@@ -1696,6 +1702,7 @@ kumpisál	confession, religious confession
 kumpiyansa	confidence
 kumportable	comfortable
 kundangan	because of; due to the fact that
+kundangan	respect, consideration, veneration, reverence
 kundiman	native song, love song; muslin (textile) with blood-red color
 kundî	except, if not, but, if not for, but also, not only; otherwise, on the contrary, or else
 kung	if, whether (hypothetical, non-actual/possible condition, though used same as kapág)
@@ -2431,6 +2438,7 @@ manuluyan	to stay in someone's house
 manumpâ	to pledge/swear/attest to; to swear in (to a position) (sumpâ)
 manyakis	pervert (from "sex maniac")
 maông	jeans
+mapa-oo	to convince (?)
 mápa	map
 mapag-usápan	to discuss, to settle matters, to be talked about
 mapágbigáy	generous
@@ -2629,6 +2637,7 @@ muna	first, beforehand; for now
 mungkáhi	recommendation, suggestion, proposition, proposal
 muntî	little
 muntik	nearly
+musmós	innocent, naive, child
 mutyá	amulet, charm; pearl; jewel; darling [fig.]
 muwang	sense, grasp, comprehension, understanding
 na	now, by now, as of now, already, that, anymore, by now; linker; emphasizer
@@ -3444,10 +3453,12 @@ Poón	Lord; God; Master; (shortened form of "Panginoon")
 porsiyénto	percent (syn: bahagdán)
 pósas	handcuffs
 poso	a well
+poste	a post (of wood, etc.)
 prangka	frank, sincere, plain-spoken
 praníng	"paranoid" (newish colloquial term)
 premyado	awarded a prize
 preno	brake
+presko	fresh, cool (ref. to weather)
 preso	prisoner
 prito	fried
 pruweba	proof
@@ -4050,6 +4061,7 @@ terno	matching items, set, suite; matching
 testigo	witness
 tibay	sturdiness
 tibò	matalim at matulis na organ ng ilang kulisap, gaya ng bubuyog o ilang uri ng isda, at ginagamit bílang proteksiyon.
+tigang	very dry (soil); barren
 tigás	hardness, toughness, stiffness
 tigdás	measles
 tigil	stop, pause
@@ -4312,6 +4324,8 @@ utol	colloquial/informal term for one's brother or sister; buddy. (also tol)
 utong	nipple
 útos	command, order
 uwak	crow, raven
+úwang	void, nothingness, void (kawalán)
+uwáng	beetle (bug)
 uwî	return home; something brought home
 uwian	usual time to go home, dismissal time
 uyam	mocking; jeering; sarcasm
