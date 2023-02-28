@@ -496,7 +496,7 @@ kaapihán (api) ka_an [noun] oppression; persecution
 maapí (api) ma_ [verb] to feel oppressed; to be oppressed
 mang-apí (api) mang_ [verb] to persecute; to oppress; to bully; to mistreat; to abuse
 mapang-apí (api) mapang_ [noun] bully
-máng-aapí (api) mang_ [noun] bully; oppressor; offender
+máng-aapí (api) mangCV_ [noun] bully; oppressor; offender
 pang-aapí (api) pangCV_ [adjective] for oppressing; for oppression
 apò (apo) rt_ [noun] old man/woman; ancestor
 apó (apo) rt_ [noun] grandchild
