@@ -196,7 +196,7 @@ mangalagà (alaga) mang_ [verb] to protect; to care for
 mapangalagaan (alaga) mapang_an [verb] to be able to take care of something
 pag-aalagà (alaga) pagCV_ [noun] care; protection
 pangalagaan (alaga) pang_an [verb] to take care of something
-pangángalagà (alaga) pangang_ [noun] care; caring; concern; custody
+pangángalagà (alaga) panCV_ [noun] care; caring; concern; custody
 tagapag-alagà (alaga) tagapag_ [noun] caretaker; custodian; guardian
 tagapangalagà (alaga) tagapang_ [noun] trustee
 alala (alala) rt_ [noun] memory; recollection
@@ -374,7 +374,7 @@ mag-anak (anak) mag_ [noun] family; the whole family; family members
 mag-anák (anak) mag_ [verb] to have a child; to breed; to produce offspring
 magkaanák (anak) magka_ [verb] to have a child; to have a baby
 manganák (anak) mang_ [verb] to give birth
-panganganák (anak) pangang_ [noun] giving birth; delivery of a child; childbirth
+panganganák (anak) pangCV_ [noun] giving birth; delivery of a child; childbirth
 umandár (andar) um_ [verb] to start; to start running; to move
 nakaandár (andar) naka_ [adjective] running; operating; functioning; working
 paandarín (andar) pa_in [verb] to cause something to operate; to cause to run or set in motion; to drive something
@@ -650,7 +650,7 @@ umasim (asim) _um_ [verb] to sour; to ferment
 asiwà (asiwa) rt_ [verb] to administer something
 asiwâ (asiwa) rt_ [adjective] clumsy; awkward; unskilled
 mangasiwà (asiwa) mang_ [verb] to manage; to administer; to direct; to officiate
-pangangasiwà (asiwa) pangang_ [noun] management
+pangangasiwà (asiwa) pangCV_ [noun] management
 pangasiwaan (asiwa) pang_an [verb] to administer something; to direct something
 pángasiwaán (asiwa) pang_an [noun] administration; administrating
 tagapangasiwà (asiwa) tagapang_ [noun] supervisor
@@ -3916,7 +3916,7 @@ kailanganin (kailangan) _in [verb] to need something; to require something
 kailángang-kailangan (kailangan) rt_na_rt [adjective] really needed; very much needed; absolutely necessary
 kumailangan (kailangan) _um_ [verb] to need
 mangailangan (kailangan) mang_ [verb] to need something
-pangángailangan (kailangan) pangang_ [noun] need; needs; necessity; requirement
+pangángailangan (kailangan) pangCV_ [noun] need; needs; necessity; requirement
 Anóng nakain mo? (kain) phr_ [idiom] What's gotten into you?
 hapág-kainán (kain) compound_ [noun] table for eating together; dinner table SS
 ipakain (kain) ipa_ [verb] to have something fed; * focus on the thing being given for food
@@ -3970,7 +3970,7 @@ kaliwâ (kaliwa) rt_ [noun] left; [adjective] left side; to the left
 kumaliwâ (kaliwa) _um_ [verb] to turn left; to go left
 káliwaan (kaliwa) _an [expression] Cash On Delivery (COD)
 pakaliwâ (kaliwa) pa_ [adverb] going to the left; toward the left
-pangángaliwâ (kaliwa) pangang_ [noun] infidelity; betrayal
+pangángaliwâ (kaliwa) pangCV_ [noun] infidelity; betrayal
 kalkalín (kalkal) _in [verb] to rummage through something
 kumalkál (kalkal) _um_ [verb] to rummage through; to scratch; to scrape
 pagkalkál (kalkal) pag_ [noun] rummaging; digging through
@@ -4108,7 +4108,7 @@ katawanín (katawan) _in [verb] to represent something; to symbolize something
 katawán (katawan) rt_ [noun] body; figure
 kinatawán (katawan) _in_ [noun] representative
 kumatawán (katawan) _um_ [verb] to embody; to personify
-pangangatawán (katawan) pangang_ [noun] body; physique; figure; bodily constitution
+pangangatawán (katawan) pangCV_ [noun] body; physique; figure; bodily constitution
 katayin (katay) _in [verb] to slaughter something; to slaughter an animal; to kill something for food
 katay (katay) rt_ [noun] slice of meat; butchering; cutting into pieces
 kumatay (katay) _um_ [verb] to butcher; to cut meat
@@ -8584,11 +8584,11 @@ tuwâ (tuwa) rt_ [noun] joy; gladness; happiness; cheer; delight
 tuwád (tuwad) rt_ [adjective] bent over; upside down
 nakatuwád (tuwad) naka_ [adjective] bent over
 ituwíd (tuwid) i_ [verb] to straighten; to correct
-katwiran (tuwid) [noun] argument; reason; justice; explanation; excuse; reasoning
-matuwíd (tuwid) [adjective] straight; righteous; correct
-pangangatuwiran (tuwid) [noun] reasoning; logic; argumentation
+katwiran (tuwid) ka_an [noun] argument; reason; justice; explanation; excuse; reasoning
+matuwíd (tuwid) ma_ [adjective] straight; righteous; correct
+pangangatuwiran (tuwid) pangCV_an [noun] reasoning; logic; argumentation
 tumuwíd (tuwid) _um_ [verb] to straighten; to become straight
-tuwiran (tuwid) [adjective] direct; straight forward; blunt
+tuwiran (tuwid) _an [adjective] direct; straight forward; blunt
 tuwíd (tuwid) rt_ [adjective] straight; direct; [adverb] straight; directly
 katuyuan (tuyo) ka_an [noun] dryness
 matuyô (tuyo) ma_ [verb] to dry up; to dry; to wither; to evaporate

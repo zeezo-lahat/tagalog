@@ -1074,6 +1074,7 @@ húsay	skill
 husga	act of passing judgment
 husto	adequate, sufficient, fitted, up-to-date, correct; amply, sufficiently
 huwebes	thursday
+huwes	a judge
 iabót	to hand something over
 iakyát	to bring up
 ialay	to offer, to give
@@ -1646,6 +1647,7 @@ kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
 kintáb	shine
+kirot	pain
 kisame	ceiling
 kisáp	wink, blink
 kislap	sparkle, scintillation, to glitter, twinkle
@@ -2305,6 +2307,7 @@ malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
 malagím	gloomy, glum
 malakas-lakas	somewhat strong
 malalâ	serious, acute
+maláman	to know, learn about, discover, or figure out something
 malálim	deep
 malamán	meaty (lamán)
 maláman	to know / be aware / learn about / discover something (obj); to find out (actor); (alam) 
@@ -2659,7 +2662,8 @@ nag-íisáng anak	only-child
 nagawa	an action done
 nagbubuklod	binding
 nagdadalantao	pregnant
-nagíng	became
+nagiging	"gets"/"getting"/"become"/"becoming"
+nagíng	"became"/"was"
 nagkaganoon	happened that way
 nagkáisá	to unite
 nagkalituhan	(people) getting mixed up
@@ -3035,6 +3039,7 @@ paglaon	eventually
 paglaruán	to play (with) something; to toy/trifle with someone
 pagliban	absence
 paglikha	the act of creating / creation ; invention
+paglilitis	judicial hearing (pagdinig)
 paglipas	passing, passage, having passed (also pagkalipas)
 paglutás	act of solving; resolve
 pagmamalabis	(hyperbole)
