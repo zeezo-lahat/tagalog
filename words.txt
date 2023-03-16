@@ -95,6 +95,7 @@ alalá	worried, anxious, thinking about
 alalahanin	to recall, remember; think/worry about, consider; cause of worry
 alám	knowledge, to know
 alamat	folklore, tradition, legend, myth
+alamáng	small shrimp, often used to make bagoong
 alamin	to find out, to investigate
 álang-alang	regard, consideration, awe; for the sake of, on behalf of
 alás	(n) ace
@@ -283,7 +284,8 @@ bahid	stain, smear, trace
 bahid-dungis	dirt stain, stain on one’s name
 bahíng	sneeze (also bahín)
 baít	kindness; the mind
-baitang	a step of stairs, rung of a ladder; a grade or level in school
+bai-baitáng	step by step
+baitáng	a step of stairs, rung of a ladder; a grade or level in school
 baka	beef; cow
 bakâ	perhaps, maybe, might, "faint possibility of being a factual statement"
 bakal	iron
@@ -309,6 +311,7 @@ balagat	clavicle, collarbone (klabikula)
 balaghán	wonder, amazement
 balahíbo	fine body hair, feather hair of fowls of woolly hair of animals, fur
 bálak	plan, intention
+balakid	obstacle
 baláng	hindi maayos (pabaláng)
 bálang	each, any
 bálang araw	some/one day (ie, eventually)
@@ -350,6 +353,7 @@ bangág	to be high (on drugs, etc)
 bangayán	squabble
 banggâ	collision, bang into
 banggít	mention
+bangín	ravine, gorge, chasm
 bangís	savageness, viciousness, fierceness, ferociousness
 bangkâ	a type of outrigger boat (mag, mang, pa)
 bangkay	corpse
@@ -473,6 +477,7 @@ binati	greeted
 binatilyo	a teenaged boy who has just hit puberty, "young binata"
 binato	to throw something
 bingí	deaf
+bingit	edge, brink
 bingwit	fishing tackle
 binibini	polite title for unmarried women (outdated)
 binigkas	pronounced
@@ -508,7 +513,8 @@ biyaya	favor, grace, mercy
 biyenan	parent-in-law; in-law; in-laws
 biyernes	friday
 biyuda	widow
-bola	flattery
+bola	a ball or round object; flattery
+boláhin	to flatter someone; to draw something (by lottery); to kid someone
 bóngga	extravagently stylish
 bote-bote	many bottles
 brusko	rude; used to describe a man with a very big muscular body (slang)
@@ -570,6 +576,7 @@ bumawi	to make up for something (bawì)
 bumbilyá	light bulb
 bumigay	collapse
 bumigkas	to pronounce
+bumingit	to be on the brink
 bumitiw	to release one's hold or grip (bumitaw); disengage
 bumuô	to form, constitute, create
 bundol	ramming with something large and long
@@ -708,6 +715,7 @@ diin	emphasizing, stressing, pressing, insisting
 dikit	stick, adhere, paste
 dikitán	to attach, stick
 dilà	tongue
+dilát	nakabukás ang mga talukap ng mata (mulat), hindi na hangal, may alám sa katotohanan
 dilaw	yellow
 dilíg	watering (of plants); irrigation
 diligán	to water something; to sprinkle with water
@@ -735,6 +743,7 @@ duguan	bloody
 dugyót	small and dirty
 dukhâ	poor, needy, indigent, destitute
 dukot	snatching; kidnapping; to pull something out
+dúlak	dilát
 duling	cross-eyed
 dúlo	end, result; tip, point
 dulot	offer, offering; bringing/brought about
@@ -932,7 +941,8 @@ handáan	a party with prepared food
 handog	to present, offer; donation; dedication; fee
 hanep	amazing, wow!
 hangà	admiration, appreciation, amazement (root)
-hangad	(n) desire, purpose, ambition, intention
+hangád	(n) desire, purpose, ambition, intention
+hangál	foolish; stupid; asinine
 hangarin	(n) desire, purpose, ambition, intention
 hangarín	to desire, aspire, mean, seek, woo (hinahangad, hinangad, háhangarín)
 hangga	result, end, outcome
@@ -1291,7 +1301,7 @@ kabuhayan	livelihood
 kabukiran	the countryside, rural area
 kabuktután	corruption; extreme wickedness
 kabulagan	state of blindness
-kabuluhan	value, worth
+kabuluhán	value, worth, meaning (bulo)
 kabutíhan	goodness
 kabuuán	composition, entirety
 kadalásan	frequently, usually
@@ -1592,6 +1602,7 @@ katúpáran	accomplishment, fulfillment
 katutubò	native, indigenous, ethnic (tubo, syn: taal)
 katutubong-ugali	native habits, behavior, instinct, nature
 katuturán	significance, value, use, utility (this is a root)
+katuwáng	partner; coefficient (mathematics) (this is a root)
 katwíran	(a) reason, logical argument, justification, explanation, excuse, reasoning (tuwid)
 kaugnáy	regarding, allied, related; relative; incidental
 kaugnayan	relation
@@ -1731,6 +1742,7 @@ kutsara	spoon
 kutsero	driver of horse-drawn vehicle, coachman
 kutsilyo	table or kitchen knife
 kutsón	mattress, cushion
+kuwago	owl
 kuwán	whatchamacallit/thingie/so-and-so
 kuwarto	room, bedroom
 kuweba	cave
@@ -1961,6 +1973,7 @@ lumpó	a crippled person, esp. the legs
 lumubóg	to set
 lumulan	to load, to ride
 lumulútan	floating
+lumusong	to descend, to sink
 lunggâ	burrow, hole, mouse hole, cave
 lungkot	sadness, sorrow
 lungsód	city
@@ -1971,6 +1984,7 @@ lupa	earth
 lupit	cruelty, mercilessness, savageness, harshness
 lusaw	to melt, dissolve
 lusóg	healthiness
+lusong	descent, sinking
 lutáng	afloat; drifting; buoyed; floating
 luto	cooking, cuisine
 lutó	cheating, game fixing (slang)
@@ -2236,6 +2250,7 @@ maitalâ	to measure up to (actor); to be able to measure or record (object)
 maiwan	to leave something behind
 makaakó	conceited, egotistical
 makabayan	patriotic
+makabuluhán	meaningful; relevant; significant (bulo)
 makagantí	to get revenge, payback
 makagitgit	(gitgit) to advance by repeated slight movements
 makaipon	to be able to save (money, etc)
@@ -2628,6 +2643,7 @@ mongha	nun
 morena	brown skinned (also kayumanggi)
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
+mulát	with open eyes; educated; trained (dilát)
 mulî	again
 múlta	fine, penalty
 multó	ghost
@@ -3204,6 +3220,7 @@ pamiliin	to let someone choose
 pamilya	family
 paminsan-minsan	occasionally, from time to time
 pampang	river bank (origin of the name "Pampanga"), or shore of sea, etc.
+pampanitikan	literary
 pampapawis	something to make you sweat
 panaginip	a dream
 panahon	weather; time, season, age, era, epoch; all of time; grammatical tense
@@ -3359,6 +3376,7 @@ patí	including, even, as well
 patí na rin ang	as well as
 patikim	"let me have a taste"
 pating	a shark
+patímpalák	a contest
 patingkarin	brighten, intensify the color
 patiyempo	through proper timing
 patnúbay	guide, companion, escort; guidance
@@ -3473,6 +3491,7 @@ pulgada	an inch
 pulô	island
 pulong	meeting
 pulot	picking up from the ground; honey, syrup
+pulsó	wrist
 pulubi	pauper, mendicant, beggar (magpapalimos)
 pumadyak	to stamp the feet
 pumalit	to substitute for
@@ -3487,6 +3506,7 @@ punò	tree; chief, leader; origin, source, base
 punô	full, filled
 puntahan	to go to a person or place
 puntód	mound; tomb
+pupulsuhán	wrist
 puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
 purók	district (smaller than a barangay)
@@ -3591,6 +3611,7 @@ sagrado	sacred, belonging to God, holy
 sagutin	to answer something
 sagwâ	vulgarity, obsenity, in bad taste
 sagwán	paddle (as for a raft)
+sagwíl	barrier, obstacle
 sahig	floor
 sahod	salary, wage
 sáhod	open hands used to catch a falling object
@@ -3638,7 +3659,7 @@ samâ	bad, evil, wicked
 sáma	to go with, join, accompany
 sama-sama	together (multiple)
 samahan	to accompany someone
-samakalawá	on the day after tomorrow
+samakalawá	on the day after tomorrow (sa makálawá)
 samakatwíd	therefore
 samantala	meanwhile, while, for the time being
 samantalá	to capitalize, take advantage of
@@ -3842,6 +3863,7 @@ sumipot	appear, arrive, show up
 sumisinsin	is becoming dense
 sumite	submit
 sumpak	a homemade firearm; a fire piston (device used to kindle a fire)
+sumpungín	to suffer an attack of something (a sickness, heart attack, etc.)
 sumugod	to attack, impulsively go forth
 sumuka	to vomit
 sumukò	to give up
@@ -3870,6 +3892,7 @@ suutan	to dress someone
 suwag	butting with horns (as a kalabaw)
 suwaíl	disobedient, insolent, hardheaded, stubborn, rebellious, defiant
 suwéldo	salary, pay (also 'sweldo')
+suwero	serum
 suwerte	luck, fate
 suyà	disgust, dissatisfaction; to feel disgust, be fed up with
 suyod	fine-toothed hair comb
@@ -4073,6 +4096,7 @@ timbóg	caught, arrested
 tímbre	can refer to a stamp like a seal or to a button like a doorbell.
 timog	south
 timplada	mixture, compound
+timyás	genuineness or purity of love, loyalty, etc.
 tinda	selling, merchandise
 tindahan	a store
 tindero	a male seller
