@@ -7,6 +7,11 @@ you are relentless	waláng-lubáy ka talaga
 I bet
 I can tell (see/recognize).	Natutukoy ko.
 Excuse me, passing through	(pa)sintabì
+you are relentless
+I bet	sigurado ako(?)
+that's exactly what I was thinking / had in mind.	Iyan mismo and nasa isip ko.
+ok with you?	ayos lang ba sayo?
+you've been quiet today.	kanina ka pa tahimik.
 I'm not in a hurry	hindi ako nagmamadali
 are there more?	mas marami ba?
 I agree with you	sang-ayon ako sayo
@@ -202,7 +207,7 @@ that's good to hear	mabuti naman kung ganoon
 we'll see	titingnan natin
 in/around the area/neighborhood	sa lugar
 downtown	sa bayan
-every corner	lahat ng sulok
+every corner (fig)	lahat ng sulok
 might not	baka hindi
 how frustrating!	nakakainis!
 I heard...	balita ko..
@@ -212,9 +217,16 @@ don't worry about it	wag mong alalahanin
 did it work?	gumana ba?
 what is that for?	para saan naman iyan?
 where is it (now)?	nasaan na?
+I'll figure it out.	Aalimain ko muna.
+says who?	sabi ninó?
+I just woke up	bagong gising ako
+I took a nap	naidlip ako
 I'll figure it out.	Aalamin ko muna.
 congratulations	binabati kita
 no kidding	puwera birò
+it can be seen from the port of Catbalogan	makikita sa port ng Catbalogan
+yes, for sure!	oo ba
+sorry to bother you	paumanhin sa abala
 I just hope...	sana nga lang...
 too many to count	hindí mabilang
 it took me more than two hours to...	Inabot ako ng mahigit dalawang oras sa <infinitive verb>
@@ -228,7 +240,7 @@ what about..	paano naman..
 the ins and outs of..	ang pasíkot-sikot sa..
 even when it was small	kahit noong maliit pa ito
 'di nga?	srsly?
- You go first, go ahead, lead the way	Mauná ka (na)
+You go first, go ahead, lead the way	Mauná ka (na)
 "you never know"	hindi mo alam
 How much longer will it take?	Gaano pa katagál?
 I already did that..	Gawin ko na..

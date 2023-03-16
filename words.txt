@@ -604,6 +604,7 @@ burak	deep mud, mire
 burarâ	careless with things and actions, untidy,sloppy, messy, slipshod
 burol	a hill
 burol	lying in state
+busabos	bum, thief
 busina	toot (sound of a horn, whistle etc.); horn (on a car and the like)
 busisi	fastidious, overnice, slow in action; foreskin; prepuce
 búti	goodness, properness
@@ -1083,6 +1084,7 @@ húsay	skill
 husga	act of passing judgment
 husto	adequate, sufficient, fitted, up-to-date, correct; amply, sufficiently
 huwebes	thursday
+huwes	a judge
 iabót	to hand something over
 iakyát	to bring up
 ialay	to offer, to give
@@ -1104,7 +1106,7 @@ ibilí	to buy something for someone
 ibiníbigáy	giving something
 ibon	bird; wang (slang)
 ibukod	to set aside, to put to one side
-ibulgar	to expose, divulge, reveal something
+ibulgár	to expose, divulge, reveal something
 ibunyág	to reveal, expose, divulge, disclose
 idaan	to drop something by
 idadaos	will hold an event
@@ -1656,6 +1658,7 @@ kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
 kintáb	shine
+kirot	pain
 kisame	ceiling
 kisáp	wink, blink
 kislap	sparkle, scintillation, to glitter, twinkle
@@ -1835,6 +1838,7 @@ lansángan	street, road
 lantáy	pure, unadulterated
 laós	obsolete, outdated
 láot	far out in the open sea
+lapastangan	irreverent, disrespectful, discourteous (walang pitagan, walang galang, walang pakundangan, bastos)
 lapat	fine stripes of bamboo
 lápat	close fitting; well adjusted, exact
 lapida	gravestone
@@ -2318,6 +2322,7 @@ malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
 malagím	gloomy, glum
 malakas-lakas	somewhat strong
 malalâ	serious, acute
+maláman	to know, learn about, discover, or figure out something
 malálim	deep
 malamán	meaty (lamán)
 maláman	to know / be aware / learn about / discover something (obj); to find out (actor); (alam) 
@@ -2673,7 +2678,8 @@ nag-íisáng anak	only-child
 nagawa	an action done
 nagbubuklod	binding
 nagdadalantao	pregnant
-nagíng	became
+nagiging	"gets"/"getting"/"become"/"becoming"
+nagíng	"became"/"was"
 nagkaganoon	happened that way
 nagkáisá	to unite
 nagkalituhan	(people) getting mixed up
@@ -3049,6 +3055,7 @@ paglaon	eventually
 paglaruán	to play (with) something; to toy/trifle with someone
 pagliban	absence
 paglikha	the act of creating / creation ; invention
+paglilitis	judicial hearing (pagdinig)
 paglipas	passing, passage, having passed (also pagkalipas)
 paglutás	act of solving; resolve
 pagmamalabis	(hyperbole)
@@ -3665,6 +3672,7 @@ samantala	meanwhile, while, for the time being
 samantalá	to capitalize, take advantage of
 samantalahín	to take advantage of
 samantálang	whereas
+sambóng	a shrub that grows wild in tropical climates and is used as herbal medicine
 samo	supplication, appeal, entreaty, earnest request
 sampalok	tamarind
 samsám	confiscation, seizure
@@ -3781,6 +3789,7 @@ sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sintabì	"Excuse me, passing through"; salitâng-ugat ng pasintabi at nagsasaad ng paggálang, lalo na kung humihingi ng pahintulot
+sinturón	a belt
 sínu-sino	who (plural) also "sinu-sino"
 sinulid	thread
 sinungaling	liar; lie
