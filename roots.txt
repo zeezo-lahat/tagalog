@@ -4845,6 +4845,8 @@ abrilata (lata) sp_ [noun] can opener
 de-lata (lata) sp_ [adjective] canned; [noun] canned goods
 lata (lata) rt_ [noun] tin; anything made of tin; tin can; container
 lataán (lata) _an [verb] to make tender; to tenderize
+manlata (lata) mang_ [verb] to go weak in the knees; to feel weak
+panlalatâ (lata) pangCV_ [noun] lethargy
 ilatag (latag) i_ [verb] to spread something out
 latag (latag) rt_ [noun] covering; spread; layer
 latagan (latag) _an [verb] to pave; to prepare the way for
@@ -5799,9 +5801,9 @@ mapanalunan (panalo) ma_an [verb] to win
 pagkapanalo (panalo) [noun] winning
 panalo (panalo) rt_ [noun] winner; winnings; win
 kapanatagan (panatag) ka_an [noun] tranquility; contentment
-kapanatagan ng loob (panatag) [noun] peace of mind; inner peace
-mapanatag (panatag) ma_ [verb] to be tranquil
-panatag (panatag) rt_ [adjective] tranquil; peaceful
+kapanatagan ng loob (panatag) phr_ [noun] peace of mind; inner peace
+mapanatag (panatag) ma_ [verb] to be tranquil; to be at peace; to be assured; to be content; to feel at ease
+panatag (panatag) rt_ [adjective] tranquil; peaceful; at peace; self assurance
 pumanatag (panatag) _um_ [verb] to become peaceful; to become tranquil
 pagpanaw (panaw) [noun] death
 panaw (panaw) rt_ [noun] sudden disappearance; departure; death
@@ -6937,6 +6939,8 @@ pagselosin (selos) pag_in [verb] to make someone jealous
 pagseselos (selos) [noun] jealousy; acting jealous
 selos (selos) rt_ [noun] jealousy
 seloso (selos) [adjective] jealous
+sumemplang (semplang) _um_ [verb] to fall suddenly; to trip; to crash
+semplang (semplang) rt_ [noun] sudden fall or tripping; crash
 senyas (senyas) rt_ [noun] sign; signal
 isenyas (senyas) i_ [verb] to signal something
 pagsenyas (senyas) pag_ [noun] signalling
