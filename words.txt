@@ -361,6 +361,8 @@ bangketa	sidewalk, footpath
 bangkô	bench
 bángko	bank
 bangon	to arise, get up, rise up
+bangungot	nightmare
+bangungutin	to have a nightmare (binangungot ako: I had a nightmare)
 bangús	milkfish
 baníg	mat, sleeping mat; blanket (historically made of woven, dried coconut leaves)
 bansâ	nation, state, country
@@ -610,7 +612,8 @@ busisi	fastidious, overnice, slow in action; foreskin; prepuce
 búti	goodness, properness
 butikî	lizard
 butil	grain, kernel, seed, bead
-buto	bone; seed
+butlíg	blister; cyst
+butó	bone; seed
 buto't balat	malnourished (bones and skin)
 buuin	to complete
 buwán	month, moon
@@ -1701,7 +1704,7 @@ kulungan	a cage, a prison
 kumag	lazy idiot; worthless person; small insect   
 kumahig	to scrabble; to scratch
 kumamkám	to claim or take without right, usurp (kumakamkam, kumamkam, kakamkam)
-kumanâ	to succeed in doing, dominate
+kumanâ	to succeed in doing, dominate (kanâ)
 kumanan	to go right
 kumapâ	search for by feeling / groping
 kumapit	to hold, grasp
@@ -2781,6 +2784,7 @@ namanghá	amazed
 nambola	flattery
 namimilipit	is writhing, squirming, convulsing
 namiminto	expected/likely to happen soon ("on the threshold") (pintô)
+nanà	pus
 nanay	mother (inay)
 nandidito	is/are here
 nandito	here (same as narito)

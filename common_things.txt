@@ -1,3 +1,5 @@
+She can not have said such a thing.	Di niya puwedeng sinabing ganoon.
+It's a big difference.	Malaki ang pagkakaiba.
 How expensive are they?	Gaano ba kamahal sila?
 How much do you love me?	Gaano mo ba ako kamahal?
 How much sugar do you want in your coffee?	Gaano karaming asukal ang gusto mo sa kape mo?
@@ -148,7 +150,7 @@ I have no toleratance for that.	Wala akong pasensya diyan.
 I'm not into it.	Wala akong interes diyan.
 I'm not into it.	Hindi ko hilig 'yan.
 I'm into it.	Hilig ko 'yan.
-It will be less than two months.	Hindi na lalampas ng dalawang buwan.
+It will not be more than two months.	Hindi na lalampas ng dalawang buwan.
 I'm afraid of it.	Takot ako dyan.
 Don't worry too much.	Huwag ka masyadong mag-alala.
 I'm sure you know.	Sigurado akong alam mo.
