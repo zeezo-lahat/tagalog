@@ -375,7 +375,7 @@ pa-an	nouns of location or contests
 pa-in	ng HAS OR ALLOWS SOMEONE (ang) to do something - pa-in, pina, pinapa, papa-in
 pa-in	to INCREASE something (beauty, shortness..) - pa-in, pina, pinapa, papa-in
 pa-in	non-focus form of certain ma-root verbs (eg. panoorin ko ang movie)
-pag-	the act or manner of doing an action (usually for -um- and -in verbs)
+pag-	gerund former for -um-, -in verbs, the act or manner of doing an action
 pag-	upon doing the action of the root
 pagCV-	gerund former for mag-, -an verbs
 pagCV-	the act or manner of doing an action repeatedly
@@ -416,6 +416,9 @@ pag-an	(ng) does something WITH/REGARDING ang (obj)
 	Dapat makinabang ka sa pinaghirapan mo.  |  You should benefit from what you worked hard for.
 	Kung gustó mong makamít ang iyóng pangarap, paghirapan mo itó.  |  If you want to achieve your dreams, you have to work hard for it.
 	Pinagbibidahan ni Julia ang palabás sa telebisyón.  |  Julia stars in the television show.
+pagCV-an	noun former of mag-an verbs.
+	pagsusuntukan - fight between two or more people
+	pag-aawayan - quarelling/fighting with each other
 pag-in	(ng) does something to/with MULTIPLE THINGS/PEOPLE (ang) JOINTLY - pag-in, pinag, pinapag, papag-in
 	Kunin ninyó siláng lahát at pagbabarilín!  |  Take them all out and shoot them!
 	Pinagbabaríl ni Erwan ang kandado para makapasok sa gusalì.  |  Erwan shot the door lock to enter the building.
