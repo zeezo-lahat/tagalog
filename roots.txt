@@ -5127,6 +5127,10 @@ paglilingkód (lingkod) pagCV_ [noun] serving; service
 lingkód (lingkod) rt_ [noun] servant
 paglingkurán (lingkod) pag_an [verb] to serve someone
 abáng lingkód (lingkod) phr_ [noun] humble servant
+lumingón (lingon) _um_ [verb] to look back; to look around
+lingón (lingon) rt_ [noun] looking back
+lingunín (lingon) _in [verb] to look back at someone/something; to look over toward someone/something; to look over at someone/something; * focus on the person/thing being looked at
+mapalingón (lingon) mapa_ [verb] to look back; to involuntarily look back; to suddenly look back
 kalilinis (linis) kaCV_ just finished cleaning
 kalinisan (linis) ka_an [noun] cleanliness
 linis (linis) rt_ [noun] cleanliness; neatness; purity
@@ -8804,6 +8808,10 @@ pagkaunawà (unawa) pagka_ [noun] understanding
 pang-unawà (unawa) pang_ [noun] understanding; comprehension
 paunawà (unawa) pa_ [noun] notice; notification
 unawain (unawa) _in [verb] to understand something; to realize something; to comprehend something; to decipher something
+ungol (ungol) rt_ [noun] groan; growl; moan; grunt
+umungol (ungol) _um_ [verb] to growl; to howl; to groan
+mapaungol (ungol) mapa_ [verb] to suddenly groan
+pag-ungol (ungol) pag_ [noun] groaning
 iunlád (unlad) i_ [verb] to develop; to cause to thrive
 kaunlarán (unlad) ka_an [noun] development
 mapaunlád (unlad) mapa_ [verb] to be able to develop something
