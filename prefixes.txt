@@ -197,7 +197,9 @@ ka-	adverb assoc with root
 	kapiling | near to, side by side with (piling)
 	kawawa | poor, pitiful, wretched (awa)
 	kaugnay | related, associated
-ka-REPREP	adj. in extreme (katawa-tawa - hilarious)
+ka-REPREP	adj. having or causing in extreme (katawa-tawa - hilarious)
+	kaákit-akit having attractiveness, being alluring, enchanting, beautiful
+	kaawa-awà causing pity, pitiful
 kaCV/kaka-	nouns of excessiveness or repeated behavior
 kaCV/kaka-	express something that just happened; present only, no focus
 kaka-	denotes action stated in the verb is tediously performed repeatedly or for a long duration of time
@@ -291,12 +293,13 @@ maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
-maka-	accidental/unintentional of ma- actor focus 
+maka-	verb: (actor) accidental/incidental/unintentional of ma-
 	makatulog  |  to fall asleep
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something
-maka-	abilitative ka-in (obj)
-maka-	(actor) to be able/have opportunity to do/cause/bring about something
+maka-	verb: (actor) abilitative/causative (ika-)
+maka-	verb: (obj) abilitative (ka-in)
+maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cause/bring about something
 	-> compare this with makapag- (assoc with mag verbs)
 	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
 	Nakatulong ang gamót  |  The medicine was helpful.
@@ -304,7 +307,6 @@ maka-	(actor) to be able/have opportunity to do/cause/bring about something
 	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
 	May nakákakita kayâ sa atin?  |  Could someone see/be watching us?
 	Gagawin ko ang aking makakaya.  |  I will do my best.
-maka-	abilitative/causative (ika-) (actor)
 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		makapagsalita siya ng English  |  she is able to speak English
