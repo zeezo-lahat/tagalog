@@ -332,6 +332,7 @@ baligtád	inside-out, upside-down, backwards, etc. (also 'baliktád')
 balik	return
 balik-balik	repeatedly
 balikat	shoulder
+balikatán       a shouldering of the load together
 baliktad	inside-out, upside-down (also 'baligtad')
 baliktarin	to turn something over (lit/fig)
 balikukô	skewed
@@ -1624,7 +1625,8 @@ kawag	wave, wag
 kawalán	loss, a lack of X, void, nothingness
 kawalang-kahulugan	“absence of meaning”, meaninglessness
 kawali	frying-pan
-kawani	employee, assistant, helper
+kawaní	employee, assistant, helper
+káwanihán	bureau
 kawat	stealing, theft (Visaya)
 kawatán	thief
 kawawa	poor, pitiful, wretched (rt. awa.  note: not condescending)
@@ -2440,6 +2442,7 @@ mángingisdâ	a fisherman
 manginíg	to shake, shiver, tremble (nginig)
 mangisdâ	to fish
 manglamang	advantage over others (noun)
+mangmáng	uneducated, ignorant, illiterate
 mangulila	to yearn (as like an orphan)
 mangulo	to head, preside
 mangyari	to happen, take place
