@@ -278,6 +278,8 @@ magsa-	act the role of, or imitate; to translate
 	magsaulo - to memorize
 magsi-	pluralized -um- with several people doing act (actor)
 magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
+	Nagsiuwian na ang mga tao.	The people went home (simultaneously).
+	Nagsisitáwanán ang mgá kalaro dahil napadulás si Bobo.	The players are all laughing together because Bobo slipped.
 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
 magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
 mai-	abilitative of i- (?) <ang> from <ng> to <sa> (object)
@@ -289,7 +291,7 @@ maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
-maka-	accidental of ma- actor focus 
+maka-	accidental/unintentional of ma- actor focus 
 	makatulog  |  to fall asleep
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something

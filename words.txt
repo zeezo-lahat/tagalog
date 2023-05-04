@@ -152,6 +152,7 @@ ampalaya	balsam apple; bitter gourd
 ampón	adoptee
 amuyin	to smell something
 anák	child (offspring)
+anag-ág	faint light, glimmer of light
 anak-anakan	foster chld
 anak-pawis	“child of sweat” = born of the working class
 anay	termite, white ant
@@ -200,6 +201,7 @@ arì	property
 arí-arian	possessions, property, goods
 ariin	to consider, acknowledge
 arkila	rent (a vehicle)
+arkilado	rented (vehicle) inupahan
 armás	arms (weapons)
 aruga	nurture, tender care
 arugain	to nurture
@@ -374,6 +376,7 @@ bantulót	hesitation, reluctance (syn. atubilí)
 banyaga	foreigner; foreign, alien
 baon	pocket money; food or provisions brought to workplace, etc.
 baón	buried
+baraha	playing cards
 barako	strong like the coffee from Batangas
 barang	black magic; sorcery
 barás	bar, rod, beam
@@ -381,6 +384,7 @@ barilan	gun battle
 barkada	group of friends, clique, gang
 barkó	a ship
 barò	dress; gown; apparel
+barò at sayá	the traditional/native attire for women, including a top blouse and skirt
 baróng	traditional filipino dress shirt
 bárung-barong	a shanty
 baryá	change, loose money
@@ -541,6 +545,8 @@ búhay	life
 buhok	hair
 búhos	pour
 bukal	(natural) spring of fresh water; source; reservoir
+bukambibíg	common expression, adage, saying (also bukáng-bibíg)
+bukáng-bibíg	common expression, adage, saying (also bukambibíg)
 bukás	open
 búkas	tomorrow
 búkid	farm, country side
@@ -814,6 +820,7 @@ ganirí	like this, in this way/manner (gáya + nirî) (also gayarí)
 ganito	like this, in this manner (gaya nito)
 gantí	revenge, retribution, return
 ganyán	like that (gaya + niyan)
+gapok	rotten inside (wood); fragile (wood, clothes, etc. due to age)
 garbo	elegance; boast
 gasgás	scratch, abrasion
 gasgasín	to scratch
@@ -871,6 +878,7 @@ gulangan	to take advantage of an inexperienced person (“to use age on”)
 gulat	shock, surprise
 gulát	(adj.) scared, frightenened, shocked
 gulatin	to scare, frighten
+gulgól	waste, by-product
 gulo	disorder
 gulóng	wheel
 gúlong	to roll
@@ -911,6 +919,7 @@ hadlang	obstacle, obstruction
 hagdán	ladder, stairs
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagkán	to kiss someone (variant of halikan)
+hagók	snore (also harók)
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
@@ -935,6 +944,7 @@ hambalos	whacking
 hambóg	boastful, proud, vain, arrogant, stuck-up (esp referring to a man)
 hamóg	fog, water vapor
 hámon	a challenge
+hamok	hand-to-hand fight
 hampas	to hit, to strike
 hanap	quest; object of search, find
 hanap-buhay	livelihood, job, way of making a living
@@ -966,6 +976,7 @@ hárang	obstacle
 harangin	to block
 haráp	front
 harinawá	God willing, hopefully
+harók	snore (also hagók)
 harót	unladylike, coarse, unrefined, boisterous
 hasík	sown
 hasikán	sow a place with seeds
@@ -1065,6 +1076,7 @@ hulog	significance, construction, interpretation, purport; translation; capture
 húlog	fall/fallen (lit/fig), falling, failure (eg, of exam), drop
 humadlang	to stand in the way, to obstruct
 humaginit	to swish by, to swish / swished; whine; make a whining sound; zip, swish by; whistle
+humagok	to snore
 humakbáng	to step, to stride (actor) <humakbáng, humáhakbáng, háhakbáng>
 humalili	to substitute, to replace (halili, -um-) 
 humamak	to treat with contempt (hámak)
@@ -1400,6 +1412,7 @@ kalangitan	the sky (langit)
 kalansáy	skeleton
 kalapit	person or place nearby; neighboring, nearby
 kalaro	playmate, play partner
+kalesa	horse drawn carriage; calesa; chariot; cart
 kalas	detached; unstitched; freed from (e.g. betrothal)
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
 kalaw	hornbill (bird)
@@ -1518,12 +1531,13 @@ karaníwan	usually, generally, customarily; common, typical, ordinary, habitual 
 karapat-dapat	qualified, worthy, fitting, deserving
 karapatán	a right, a legal claim; something that is due to a person
 karapatang-ari	copyright
-karatig	contiguous, adjoining
+karatig	contiguous, adjoining, adjacent
 karátulá	signboard, sign, poster
 karayom	a needle
-karera	a race
+karera	a race; career
 karibal	rival (often in romance)
 karimarimarim	disgusting(?) (dimarim)
+karit	sickle, skythe
 kartero	postman
 karukhaán	poverty; lack, deficiency (dukhâ)
 karumal-dumal	loathsome, nasty
@@ -1603,6 +1617,7 @@ katotohanan	the truth
 katúlad	like, similar
 katulong	a helper, aid, attendant
 katúmbas	an equivalent
+katumpakán	accuracy, correctness
 katunáyan	truth, actuality, fact
 katúpáran	accomplishment, fulfillment
 katutubò	native, indigenous, ethnic (tubo, syn: taal)
@@ -1743,6 +1758,7 @@ kusang palo	self-starter
 kutà	fort, bulwark, hideout; makapal na pader o moog
 kutaan	to fortify a place
 kutíng	kitten
+kutis	skin (parang balat)
 kutkutín	to dig up something; to excavate (kutkot)
 kutkutin	junk food; chips; finger food
 kutób	foreboding, premonition
@@ -1754,6 +1770,7 @@ kuwago	owl
 kuwán	whatchamacallit/thingie/so-and-so
 kuwarto	room, bedroom
 kuweba	cave
+kuwelyo	collar
 kuwenta	(also kwenta) accounting/calculating; value
 kuwento	story, tale, narration
 kuwento-kuwento	myth, urban legend
@@ -1769,6 +1786,7 @@ labì	lip, brim
 labí	remains, excess, euphemism for “corpse” or dead body
 labis	surplus, excess, too/so much
 ladlád	revealed; unfolded
+lagabláb	flame
 lagalág	wanderer, rover; well travelled, nomadic, wandering
 lagari	a saw
 lagay	condition, relationship, level, circumstances, location (see kalagayan)
@@ -2132,6 +2150,7 @@ magkita	to meet or see each other (reciprocal actor focus)
 magkumahóg	to rush; to hasten (kahóg)
 magkunwari	to pretend
 maglaán	to allocate, devote, provide, dedicate, appoint
+maglagabláb	to blaze, to go in flames
 maglagi	to stay/visit/remain somewhere
 maglahad	to offer, to set forth in words
 maglaho	to dissolve, fade away, vanish
@@ -2157,6 +2176,7 @@ magpagaling	to heal, cure, recuperate
 magpahangin	to get some fresh air
 magpahinga	to take a break
 magpahirap	to make matters difficult
+magpaiwan	to remain
 magpakabaít	to be nice, to make nice
 magpakabuti	to be good
 magpakahulugan	to interpret
@@ -2317,6 +2337,7 @@ makipagtagísan	to compete (in brains or speech)
 makipagtalik	to have sex
 makisabay	to go at the same time
 makisama	to get along with (ang -> sa)
+makísig	dashing (man)
 makislap	luminous, brilliant, glittering, lambent, lucent
 makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
@@ -2431,7 +2452,7 @@ manghamak	to insult, disparage
 manghimások	interfere (pasok)
 manghingi	to ask for
 manghuhula	fortune teller
-mangikil	to ask for money, chisel, bum
+mangikil	to ask for money, chisel, bum (kikil)
 mangilabot	feeling creeped out
 mangilid	to line, encircle
 mangiló	to feel a tingling sensation in the teeth; to have a nerve pain in the teeth
@@ -2454,6 +2475,7 @@ mano	the act of raising an elder's hand to your forehead to show respect; handfu
 mánong	older brother; from the Spanish hermano. This is the male equivalent of manang.
 mánonoód	spectator, bystander, watcher
 manoód	to watch
+mantika	oil
 mantikilya	butter
 manugang	son-in-law or daughter-in-law
 manukso	to tempt; to tease
@@ -2517,10 +2539,11 @@ marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, materially weak, weak willed, fragile, flimsy (dupok)
 mas	more
 mas kaunti	less
+masa	mass (as in mass of people, etc.); "the masses"
 masagána	abundant, plentiful (sagána)
 masagasà	to be run over
 masagwâ	obscenity, indecency, awful, inappropriate, unsightly
-masáhol	worse
+masáhol	worse, inferior
 masakim	avaricious, covetous, greedy, rapacious, selfish
 masakit	painful, hurting, sensitive, sarcastic, sharp
 masakit	persevering, diligent, great
@@ -2888,6 +2911,7 @@ nino	whose, post positive form of kanino. (Kaninong bahay, bahay nino? Whose hou
 ninong	godfather
 ninunò	ancestor; grandparent
 nito	ng + ito - (of) this/these
+nitso	tomb
 niyebe	snow
 niyog	coconut
 niyón	(of) that ("ng" form of "iyon")
@@ -2948,7 +2972,7 @@ pag-aangkát	(n) importation; importing.
 pag-aanib	(n) act of allying or affiliating.
 pag-aaprúb	(n) approving; approval.
 pag-aapurá	(n) hurrying.
-pag-aaral	(n) studies; education; learning.
+pag-aaral	(n) studies; education; learning, a study/research report
 pag-aarì	(n) property; owning; possession.
 pag-áarugâ	(n) care; looking after.
 pag-aasawa	(n) act of getting married; marriage.
@@ -3263,7 +3287,7 @@ pandiwa	verb
 pandurúkot	pickpocketing
 pang-ilan	used in questions, eg. what number in line, etc.
 pangako	promise
-pangambá	fear
+pangambá	fear, anxiety, thread, apprehension (a root?)
 pangambahán	to threaten somewhere/something (amba)
 panganay	first-born child; first-born (adj)
 pangangalakal	scavenging
@@ -3316,6 +3340,7 @@ pantanggal	something used for removing
 pantás	specialist; academic; learned person
 pantay	level, equal
 pantinig	vocal
+pantog	bladder
 pánukála	a proposal, proposition, arrangement
 pánukálang-batás	draft legislation; draft bill; proposed legislation
 panunukso	the act of tempting (someone); teasing
@@ -3323,7 +3348,7 @@ panutó	instruction, order; indicator
 panyo	handkerchief
 papag	bamboo bed
 papaano	 in what way; how; anyhow; what do we do with; how did/will it be done/happen?
-papalapit	approaching(?)
+papalapít	going toward; on the way toward
 papas	unroofed; blown off (roof)
 papasok	about to go to school/work
 papasok	incoming
@@ -3363,6 +3388,7 @@ pasaríng	insinuation, innuendo
 pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasíkot-sikot	roundabout, ins and outs, twists and turns; way around, getting around
+pasimulâ	beginning (noun)
 pasimuno	perpetrator
 pasinayà	inauguration
 pasintabi	please step aside, please let me pass ("pasintabi po")
@@ -3503,6 +3529,7 @@ pulá	red
 pulgada	an inch
 pulô	island
 pulong	meeting
+pulós	all of the same kind; completely
 pulot	picking up from the ground; honey, syrup
 pulsó	wrist
 pulubi	pauper, mendicant, beggar (magpapalimos)
@@ -3515,6 +3542,7 @@ pumayag	agreed, consented
 pumili	to choose
 pumuwesto	to take a position
 puná	criticism, remark, observation
+púnong-kahoy	tree; tree trunk; wooden tree (in contrast to, for example, a palm tree)
 punò	tree; chief, leader; origin, source, base
 punô	full, filled
 puntahan	to go to a person or place
@@ -3635,6 +3663,7 @@ sakalì	in case, if; perhaps
 sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
+sakla	gambling game with Spanish cards
 sakláw	amount, extent, limits; precincts; range; sphere; comprehension
 saklób	concave lid; face-to-face
 saklolo	succor, aid, help
@@ -3802,6 +3831,7 @@ sinungaling	liar; lie
 sipa	kick (with the foot); game using a rattan ball
 sípag	diligence, hard work
 sipat	looking to see if it is straight or level; act of sighting or aiming (with a gun, etc.)
+sipatín	to line up something in one's sights, to aim for or at something
 sipón	a cold
 sipot	arrival
 sirà	break, damage, ruin (milder than wasak)
@@ -3837,7 +3867,7 @@ sugapà	addict
 sugaról	gambler
 súgat	cut, sore, wound
 sugatán	wounded person, casualty
-sugo	delegate, messenger, envoy, ambassador, emissary
+sugò	delegate, messenger, envoy, ambassador, emissary
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
 súka	spew, vomit
@@ -3901,6 +3931,7 @@ suót	clothes
 supalpál	something covering or forced into the mouth; a block in basketball
 suplada	snob
 suplado	snob
+supot	bag
 suri	analysis, diagnosis, scrutiny, study, test
 sustento	allowance, support (magsustento, sustentuhan, sustentuhin)
 suutan	to dress someone
@@ -4042,6 +4073,7 @@ tangkaíng	to attempt something
 tangkáy	stalk, stem
 tangkílik	tagúyod
 tangkilikin	to patronize, as in a business, etc.
+tangó	nod
 taním	a plant; ill-feeling planted in the heart, grudge
 tanod	guard
 tanong	question (usisa, kuwestiyon, interogasyon)
@@ -4218,7 +4250,7 @@ tumilî	shrieked, screeched
 tumínag	to budge
 tumingkad	to become brighter/clearer (as colors)
 tumok	kakitkitan; kalaguan ng mga damong tumutubo
-tumpak	correct, right (tama)
+tumpák	Exactly!; proper, accurate, correct (tama?)
 tumuklás	to discover; to detect
 tumungo	to go to
 tumungó	to bow one’s head in submissiveness
@@ -4394,6 +4426,7 @@ wastô	proper, correct, in order
 watáwat	flag, ensign, banner
 welga	a workers' strike (sp. "huelga")
 windang	torn apart; torn into tatters
+yabag	the sound of footsteps
 yabang	boast; boasting; arrogance; smugness; over confidence
 yabong	thriving, abundant growth, foliage, plentiful foliage
 yakap	hug, embrace
