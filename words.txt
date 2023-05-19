@@ -911,6 +911,7 @@ habol	pursue, run after, chase
 hábong	hut, pavilion, temporary shelter
 hadlang	obstacle, obstruction
 hagdán	ladder, stairs
+hagikgíkan	snicker, giggle
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagkán	to kiss someone (variant of halikan)
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
@@ -1224,6 +1225,7 @@ ipunin	to gather, collect, save
 ipuwesto	to install in place
 irog	beloved, darling (sinta, giliw)
 isá't kalahatì	one and a half
+isaálang-álang	to consider, regard
 isagawa	to put into effect
 isaglit	to do in a hurry
 isahod	catch something falling
@@ -1502,7 +1504,7 @@ kapit-tukô	“gripping like a gecko” clinging or holding on very tight
 kapitan	to hold, to grasp
 kapkáp	frisking e.g. of pockets; feeling or groping something not seen
 kapós	insufficient, lacking, inadequate; short in length
-kapre	savage, inhuman; folklore giant
+kapre	savage, inhuman; folklore giant, tree demon
 kapulungan	assembly
 kapusò	a close friend, of one heart; a gma TV fan
 kapútik	muddy
@@ -1564,6 +1566,7 @@ kasiyahán	satisfaction, pleasure, zest (siyá)
 káso	lawsuit, case; value, importance; disagreement; the point, the truth; "except that.." (eg "Kaso Espanyol")
 kasosyo	business partner
 kastígo	reprimand, rebuke; originally meant punishment
+kasuklám-suklám	disgusting, loathsome, execrable
 kasundo	someone you get along with; agreeing
 kásunduan	agreement, deal, compromise, covenant, bargain, treaty, concord, contract, compact, pact
 kasungitan	irritableness; sulkiness
@@ -1781,6 +1784,7 @@ lagím	gloom, deep sorrow, depressed feeling; dread, terror; desolation
 lagnát	a fever
 lagô	luxuriant growth
 lagot	snapped off, cut off, broken (rope, cable, etc.); completely obsessed with something
+lagpák	fall, crash, thud, failure
 lagpás	past, beyond (syn: lábis, tagós lampás)
 lagsák	pagkadurog ng bagay na lumabis ang pagkaluto
 lagusan	exit tunnel, passageway
@@ -4104,6 +4108,7 @@ tigás	hardness, toughness, stiffness
 tigdás	measles
 tigil	stop, pause
 tigok	sound produced in the throat by swallowing
+tikbalang	mythical demon horse
 tikim	to taste, to try
 tiklô	caught; arrested by the police (syn. huli)
 tikmán	to taste something (tikim)
