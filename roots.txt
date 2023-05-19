@@ -90,6 +90,9 @@ agwadór (agwa) sp_ [noun] water carrier
 agwahe (agwa) sp_ [noun] tidal wave
 medya-agwa (agwa) phr_ [noun] eaves; awning
 ágwa-bendita (agwa) phr_ [noun] holy water
+agwatán (agwat) _an [verb] to space out; to put space between
+agwát (agwat) rt_ [noun] gap; chasm; distance; figurative gap
+umagwát (agwat) _um_ [verb] to distance oneself; to make a gap
 ahit (ahit) rt_ [noun] shave
 ahitan (ahit) _an [verb] to shave someone
 ahitin (ahit) _in [verb] to shave something; to shave something off
@@ -2787,6 +2790,7 @@ gumulat (gulat) _um_ [verb] to surprise
 ikagulat (gulat) ika_ [verb] to cause surprise; to cause shock
 magulantáng (gulat) mag_ang [verb] to be startled (AF)
 magulat (gulat) ma_ [verb] to be surprised (AF); to be startled (AF); to be frightened (AF); to surprise someone (OF); to startle someone (OF)
+manggulat (gulat) mang_ [verb] to feel surprised; to feel shocked
 nakakagulat (gulat) nakaka_ [adjective] shocking; surprising
 pagkagulat (gulat) pagka_ [noun] shock; surprise.
 guluhín (gulo) _in [verb] to put something in a disorderly state; to disturb something; to bewilder someone; to harass someone
@@ -4146,6 +4150,8 @@ kumatí (kati) _um_ [verb] to itch
 makatí (kati) ma_ [adjective] itchy; [noun] a large, wealthy city in metro Manila
 katigan (katig) _an [verb] to support something; to vote for something; to endorse something; to approve of something
 katig (katig) rt_ [noun] boat outrigger
+katóg (katog) rt_ [adjective] shaking; trembling; quivering
+nangángatóg (katog) nangang_ [adjective] shaking
 katukín (katok) _in [verb] to knock on something
 katók (katok) rt_ [noun] knock; knocking
 kumatók (katok) _um_ [verb] to knock
@@ -5515,9 +5521,9 @@ pagkamanhíd (manhid) pagka_ [noun] numbness
 manmanán (manman) _an [verb] to observe carefully
 manmán (manman) rt_ [noun] critical observation; careful observation
 pagmamanmán (manman) pagCV_ [noun] careful observation; careful observing
-magmasíd (masid) mag_ [verb] to observe
+magmasíd (masid) mag_ [verb] to observe; to watch over
 mapagmasíd (masid) mapag_ [adjective] observant
-masdán (masid) _an [verb] to observe
+masdán (masid) _an [verb] to observe something
 masíd (masid) rt_ [noun] stare; observation
 nakamasíd (masid) naka_ [adjective] watching; observing; staring
 tagamasíd (masid) taga_ [noun] observer; supervisor
@@ -6154,6 +6160,8 @@ pilitin (pilit) _in [verb] to force something/someone; to coerce someone
 pilít (pilit) rt_ [adjective] forced; strained; not unnatural
 pumilit (pilit) _um_ [verb] to force; to coerce; to constrain
 sápilitán (pilit) sa_an [adjective] obligatory; mandatory; compulsory; forced
+kapílyuhán (pilyo) ka_an [noun]  mischief; prank
+pilyo (pilyo) rt_ [adjective] naughty; mischievous
 mapinsalà (pinsala) [adjective] destructive
 mapinsalà (pinsala) ma_ [verb] to be harmed; to be injured
 napinsalà (pinsala) [adjective] harmed; injured
@@ -6542,6 +6550,7 @@ saká (saka) rt_ [adverb] also; besides; moreover; furthermore; and then
 saká na (saka) phr_ [phrase] some other time; later
 sumaka (saka) _um_ [verb] to farm
 masakal (sakal) ma_ [verb] to be choked (AF); to be strangled (AF)
+pagsakál (sakal) pag_ [noun] choking
 sakalan (sakal) _an [noun] strangling each other
 sakalín (sakal) _in [verb] to choke someone/something; to strangle someone
 sakál (sakal) rt_ [adjective] strangled; choked

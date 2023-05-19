@@ -443,6 +443,7 @@ bayong	a large bag; bag or sack made of woven palm leaves
 bayot	bakla
 benta	sell
 berde	green
+berde ang dugô	gay, homosexual (literally translated as "green blooded")
 beses	time(s)
 bestida	dress
 betlog	scrotum ("a very uncouth-sounding word that less educated people use.")
@@ -595,7 +596,7 @@ bungang-isip	“fruit of the mind” creative works
 bungang-tulog	“fruit of sleep” = dream
 bungangà	opened mouth; mouth; piehole
 bungisngís	(noun) giggle, chuckle
-bungo	skull
+bungô	skull, cranium
 buno	
 bunô	wrestling; scuffle
 bunong-braso	arm wrestling
@@ -877,6 +878,7 @@ guhò	landslide; collapse; ruins
 guhúnan	collapsed
 gulang	age
 gulangan	to take advantage of an inexperienced person (“to use age on”)
+gulantáng	startled (gulat)
 gulat	shock, surprise
 gulát	(adj.) scared, frightenened, shocked
 gulatin	to scare, frighten
@@ -1018,6 +1020,7 @@ hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nigh
 himagsík	rebellion; uprising (bagsik)
 himalâ	miracle
 himások	interference, meddling, intrusion (pasok)
+himasmás	to regain consciousness or wake up
 himatay	faint, swoon
 himay	shelling, husking; stringing and chopping up of beans; rest after work, relaxing before going to bed
 himayin	to separate grains of corn from the cob, peas from a pod, etc.
@@ -1032,6 +1035,7 @@ hinalà	suspicion
 hindí kailanmán	never
 hindî na	not any more, no more, no longer; not now, no further; never; never mind
 hindí	no/not (as in do not, cannot, is not, am not, will not, would not; so as not to..)
+hindík	labored breathing; gasp in fright; sudden feeling of fright
 hinding-hindi	never
 hingá	breath, breathing (humingá)
 hinggíl	about, regarding
@@ -2252,6 +2256,7 @@ mahawa	to become infected
 mahigit	more than (sa)
 mahigpit	tight, tightly; strict, severe
 mahilig	fond of
+mahimasmasán	to regain consciousness or regain one's senses
 mahina ang tuhod	“weak-kneed” = having a frail body
 mahinahon	calm, cool, dispassionate, self assured; mild; calmly, mildly
 mahinhín	modest
@@ -2411,6 +2416,7 @@ mamamaalam	saying goodbye
 mámamayán	citizen; resident of a city/town; national (mangCV-báyan)
 mamangkâ	to go by boat, to go boating (bangkâ)
 mamanhik	to appeal, make an appeal (namamanhik, namanhik, mamamanhik)
+mamasada	to operate a public transport vehicle (e.g., jeepney, bus)
 mamasukan	to have a job
 mamayâ	later today
 mamayâ pa	not now, but later today
@@ -3095,6 +3101,7 @@ paglutás	act of solving; resolve
 pagmamalabis	(hyperbole)
 pagmamalupit	abuse, harsh treatment
 pagmamano	the bringing of an elder's hand to your forehead to show respect (also 'mano')
+pagmasdán	to look at something attentively; to carefully observe something.
 pagmulán	to be the source or cause of something
 pagmultahin	to make someone pay a fine
 pagnanakaw	burglary, stealing, larceny
@@ -3417,6 +3424,7 @@ patayo	standing, vertical, perpendicular
 patayutay	figuratively
 patí	including, even, as well
 patí na rin ang	as well as
+patibóng	trap, booby trap
 patikim	"let me have a taste"
 pating	a shark
 patímpalák	a contest
@@ -3823,6 +3831,7 @@ singsíng	a ring (jewelry)
 sinibak	fired, dismissed, axed (slang)
 sinigang	meat or fish stew with condiments
 siniko	elbowed
+síning	art
 sinisi	blamed
 sino man	whoever
 sinsín	density of growth; closeness of weaving
@@ -3935,6 +3944,7 @@ suót	clothes
 supalpál	something covering or forced into the mouth; a block in basketball
 suplada	snob
 suplado	snob
+suplíng	offspring
 supot	bag
 suri	analysis, diagnosis, scrutiny, study, test
 sustento	allowance, support (magsustento, sustentuhan, sustentuhin)
