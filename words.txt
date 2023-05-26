@@ -721,6 +721,7 @@ di-sanáy	unskilled, unused to
 di-umanó	it is said, allegedly, they say
 dibdib	chest, bosom (do not use a hyphen!)
 dibdibin	to brood over something
+dighay	belch, burp
 digma	war, warfare, battle
 digmaan	the act of warring
 digmain	to wage war on
@@ -1769,7 +1770,7 @@ kusang palo	self-starter
 kutà	fort, bulwark, hideout; makapal na pader o moog
 kutaan	to fortify a place
 kutíng	kitten
-kutis	skin (parang balat)
+kutis	skin (parang balát)
 kutkutín	to dig up something; to excavate (kutkot)
 kutkutin	junk food; chips; finger food
 kutób	foreboding, premonition
@@ -2552,6 +2553,7 @@ máriníg	to hear
 martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, materially weak, weak willed, fragile, flimsy (dupok)
+maruya	fritter (fruits and other things)
 mas	more
 mas kaunti	less
 masa	mass (as in mass of people, etc.); "the masses"
@@ -4131,6 +4133,7 @@ tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
 tawanan	to laugh at
 táwas	nakaiwas, nakalaya, o nakaligtas mula sa sumpa o kamalasan.
+tawás	alum
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayâ	bet, stake
