@@ -6461,28 +6461,36 @@ sabáy-sabáy (sabay) rt_rt [adjective] simultaneous; [adverb] simultaneously; t
 sumabát (sabay) _um_ [verb] to butt in; to interrupt
 sumabáy (sabay) _um_ [verb] to accompany; to do something or happen at the same time as
 Sinabi mo! (sabi) phr_ [interjection] Exactly! You betcha! You bet!
-ansabe (sabi) slang_ short for "anong sinabi" = "what was said"
+anikó (sabi) I said ("sabi ko" variant)
+ansabe (sabi) slang_ short for "anong sinabi" = "what was said" or "what do you say"
+ebas (sabi) slang_ [slang] said / talking (derived from "sabi")
 ipagsabí (sabi) ipag_ [verb] to spread the word around to someone; to tell anyone; to gossip to someone; to tell something on behalf of
 ipasabi (sabi) ipa_ [verb] to have someone relay a message; to make someone say something; * focus on the thing said / the message given
+kakasabi (sabi) kaka_ just said
 kasabihán (sabi) ka_an [noun] proverb; household word; expression; byword; saying; precept; idiom; adage
+magpasabi (sabi) magpa_ [verb] to have (someone) tell
 magsabi (sabi) mag_ [verb] to say; to tell; to state; to mention; to make known; to allege; to declare
-magsabihan (sabi) mag_an [verb] to tell each other; to share with each other (by speaking);
+magsabihán (sabi) mag_an [verb] to tell each other; to share with each other; (reciprocal verb)
 makapagsabi (sabi) makapag_ [verb] to be able to say; to be able to tell/relay
-masabi (sabi) ma_ [verb] to say something; to be able to say something; to mention something; to comment on something
-pagkasabi (sabi) pagka_ [noun] saying something; saying
+mapagsabihan (sabi) mapag_an [verb] to be able to say something to someone; to be able to reprimand someone
+masabi (sabi) ma_ [verb] to say something; to be able to say something; to mention something; to comment on something; to bring something to attention
+masabihan (sabi) ma_an [verb] to be able to say to someone; to happen to say to someone
+nasabi (sabi) na_ [adjective] aforementioned
+pagkasabi (sabi) pagka_ [noun] saying something; saying; the way something was said; upon saying
 pagsabihan (sabi) pag_an [verb] to reprimand someone; to scold someone; to correct someone; to say something to someone; * focus on the person being talked to
 pagsasabi (sabi) pagCV_ [noun] saying; telling
 pakisabi (sabi) paki_ [phrase] please tell; please say
-pasabi (sabi) pa_ [noun] sent message; notification
-pinagsasabí (sabi) pinagCV_ [noun] allegation; assertion without proof
+pasabi (sabi) pa_ [noun] notification; sent message; notice
+pinagsasabí (sabi) pinagCV_ [noun] suggesting; saying; talking about; alleging; allegation; assertion without proof;
 sabi (sabi) rt_ [noun] said; stated; statement; according to; shorthand for the verb conjugation "sinabi"
-sabi ninó? (sabi) phrase_ [phrase] said / says who? / who said?
+sabi ninó? (sabi) phr_ [phrase] said / says who? / who said?
 sabihan (sabi) _an [verb] to tell something to someone; to give notice to someone; to admonish someone; * focus on the person being talked to
 sabihin (sabi) _in [verb] to say something; to tell something; to allege something; to declare something; * focus on the thing being said
 sinabi (sabi) _in [noun] word; words; said
 sábi-sabi (sabi) rt_rt [noun] hearsay; rumor; myth
-waláng sinabi (sabi) phrase_ [adjective] loser; no match
-waláng sinasabi (sabi) phrase_ [adjective] mum; silent; with nothing to say
+waláng sabi-sabing (sabi) phr_ [expression] without a word; without saying anything
+waláng sinabi (sabi) phr_ [adjective] loser; no match
+waláng sinasabi (sabi) phr_ [adjective] mum; silent; with nothing to say
 kasabikán (sabik) ka_an [noun] excitement; eagerness
 manabík (sabik) mang_ [verb] to be eager for something (OF); to long for something (OF); to crave something (OF); to feel eager (AF)
 masabík (sabik) ma_ [verb] to be thrilled (AF)

@@ -274,6 +274,7 @@ bagsík	cruelty, severity, fierceness
 baguhin	to change
 bagwís	feather
 bagyó	storm, typhoon; successful
+bagtas	trail through rough country; intersection
 bahâ	flood
 bahág	G-string (loin-cloth)
 bahág-hari	rainbow
@@ -311,6 +312,7 @@ bala	threat, warning
 bála	bullet, pellet, slug
 balagat	clavicle, collarbone (klabikula)
 balaghán	wonder, amazement
+balagtás	direct statement without circumlocution; shortcut; crossing a street/road
 balahíbo	fine body hair, feather hair of fowls of woolly hair of animals, fur
 bálak	plan, intention
 balakid	obstacle
@@ -722,6 +724,7 @@ di-sanáy	unskilled, unused to
 di-umanó	it is said, allegedly, they say
 dibdib	chest, bosom (do not use a hyphen!)
 dibdibin	to brood over something
+dighay	belch, burp
 digma	war, warfare, battle
 digmaan	the act of warring
 digmain	to wage war on
@@ -842,7 +845,7 @@ gayarí	like this, in this way/manner (gáya + nirî) (also ganirí)
 gayón	such, like that (gaya + niyon)
 gayón din naman	likewise
 gayundin	likewise, in the same way
-gayunman	nevertheless, however (gayón + man)
+gayunman	nevertheless, yet, however (gayón + man)
 gayunpaman	nevertheless, however (gayón + pa + man)
 giba	demolished
 gibain	to demolish
@@ -1243,6 +1246,7 @@ ipon	gather, collect, save
 ipot	droppings of fowls and small animals
 ipunin	to gather, collect, save
 ipuwesto	to install in place
+iring	disdain, disdainful treatment
 irog	beloved, darling (sinta, giliw)
 isá't kalahatì	one and a half
 isaálang-álang	to consider, regard
@@ -1775,7 +1779,7 @@ kusang palo	self-starter
 kutà	fort, bulwark, hideout; makapal na pader o moog
 kutaan	to fortify a place
 kutíng	kitten
-kutis	skin (parang balat)
+kutis	skin (parang balát)
 kutkutín	to dig up something; to excavate (kutkot)
 kutkutin	junk food; chips; finger food
 kutób	foreboding, premonition
@@ -2561,6 +2565,8 @@ martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, materially weak, weak willed, fragile, flimsy (dupok)
 mas	more (also "higit na")
+maruya	fritter (fruits and other things)
+mas	more
 mas kaunti	less
 masa	mass (as in mass of people, etc.); "the masses"
 masagána	abundant, plentiful (sagána)
@@ -3293,6 +3299,7 @@ pananagutan	duty, responsibility
 pananakot	scaring, intimidation
 pananalitâ	speech
 pananamantala	exploitation
+pananantsing	an act of lasciviousness
 panaghóy	lamentation (taghóy)
 pananamlay	state of being languid, listless, having no energy
 pananghalian	lunch
@@ -3476,6 +3483,7 @@ peklat	scar (galos, gasgas, dungis, batik)
 pero	but
 perwísyo	damage
 petsa	calendar date
+pigá	squeezing out liquid by pressure
 pighatî	anguish, torment, grief
 pigil	detention, control, restraint
 pigilin	to control, restrain, keep back, hold back
@@ -3841,6 +3849,7 @@ sinamahan	accompanied
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
 singa	act of blowing one's nose
+singaw	steam, fog
 singganda	as beautiful as
 singil	price quoted, charge, collection of payment of debt (-um-:-in)
 singkahulugan	synonym
@@ -4143,6 +4152,7 @@ tawad	discount, bargain; forgiveness
 tawag	calling (all meanings)
 tawanan	to laugh at
 táwas	nakaiwas, nakalaya, o nakaligtas mula sa sumpa o kamalasan.
+tawás	alum
 tawíd	crossing
 táwiran	crossing point, crosswalk
 tayâ	bet, stake
