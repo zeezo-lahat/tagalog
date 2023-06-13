@@ -675,6 +675,7 @@ dalian	to hurry
 dalísay	pure, unadulterated, immaculate
 dalitâ	extreme poverty
 daló	presence, attendance
+dambuhala	giant, huge; whale; monster
 damdám	feeling
 damdamin	feelings, sentiment, emotions
 damdamín	to feel hurt or resentful about something
@@ -1006,7 +1007,7 @@ hayop	animal
 heto	"here"
 hibáng	a crazy person; delirious
 hidhid	a selfish person
-higít	more (than), over
+higít	more (than), over (higit na..)
 higpít	tightness; strictness, severity
 hikahós	needy, poor, bankrupt
 hila	pull
@@ -1019,7 +1020,7 @@ hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
 hiling	a request, claim, application
 hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nightfall
 himagsík	rebellion; uprising (bagsik)
-himágod	slight fatigue
+himágod	slight fatigue, loss of heart
 himalâ	miracle
 himások	interference, meddling, intrusion (pasok)
 himasmás	to regain consciousness or wake up
@@ -1185,6 +1186,7 @@ inagaw	to snatch
 inagawan	to deprive
 inalipusta	belittled, maltreated
 inalis	removed
+ináng	mother
 inararo	plowed, eg run-over (arado: plow, spanish)
 inaruga	is nurturing, nurtured
 inasál	barbecued; a type of roast chicken originating from Bacolod
@@ -1203,6 +1205,7 @@ intriga	intrigue
 Intsik	Chinese
 ipaalám	to inform (object focus) (inform <SA> of <ANG>)
 ipabatid	to inform
+ipadpád	to be driven somewhere (as by current, wind, etc.)
 ipag-utos	to command/order someone
 ipagawâ	to have or make someone fix or repair something; to have or make someone do something
 ipagbawal	to prohibit/ban/forbid/outlaw something
@@ -1382,7 +1385,7 @@ kahón	a box
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
 kahuyán	woodland, forest
-kaibahan	a difference
+kaibahán	a difference
 kaibigang putik	“mud” friend = fake friend
 kailán	when (kelan)
 kailan man	whenever
@@ -1543,6 +1546,7 @@ karapatang-ari	copyright
 karatig	contiguous, adjoining, adjacent
 karátulá	signboard, sign, poster
 karayom	a needle
+karelasyón	partner, person one has a relationship with, person one has an affair with
 karera	a race; career
 karibal	rival (often in romance)
 karimarimarim	disgusting(?) (dimarim)
@@ -1671,6 +1675,7 @@ kilíg	tremble, shudder; giddiness
 kiligin	to be tickled pink
 kilikili	armpit
 kilos	action, movement, motion; demeanor, behavior, conduct, manner, attitude (ásal)
+kimona	a kind of loose native blouse; maluwag na blu-sang pang-itaas, maikli ang mang-gas, at karaniwang ipinapatong sa sáya.
 kinabahan	became nervous
 kinabukásan	future; the following day, the day after, the next day
 kinagabihan	on that night
@@ -1700,6 +1705,7 @@ klase	case, type, category
 kódigó	notes hidden by students during examinations; code, secret words/signs; code of laws or rules
 komadre	ninang; matalik na kaibigan (also kumádre, kumáre)
 komplikado	complicated
+konsého	council
 konsiyénsiyá	conscience
 koponán	a team
 kortina	curtain
@@ -1748,7 +1754,7 @@ kumportable	comfortable
 kundangan	because of; due to the fact that
 kundangan	respect, consideration, veneration, reverence
 kundiman	native song, love song; muslin (textile) with blood-red color
-kundî	except, if not, but, if not for, but also, not only; otherwise, on the contrary, or else
+kundî	except, if not, but, if not for, but also, not only; otherwise, but rather, on the contrary, or else
 kung	if, whether (hypothetical, non-actual/possible condition, though used same as kapág)
 kung ano	whatever, anything that, any that (however?)
 kung bagá	it’s as though…
@@ -2028,6 +2034,7 @@ lutáng	afloat; drifting; buoyed; floating
 luto	cooking, cuisine
 lutó	cheating, game fixing (slang)
 luwag	looseness, ease, with space/allowance
+luwát	a long time
 maaarì	possible, can, may (less common than puwede)
 maáasahan	can depend on
 maaga	early, immediately, right away
@@ -2124,6 +2131,7 @@ magdaya	to cheat, trick
 magdikit	to stick together
 maghain	to set the table; to prepare for; to lay the groundwork for; to file (a complaint, case, etc.). (actor)
 maghambóg	to brag, boast
+maghanáp	to seek, to find, to search
 maghapunan	to have dinner
 maghawak	to hold each other by the hand
 maghunos-dilì	to control oneself, to 'think before you act' (also 'hunusdili')
@@ -2552,7 +2560,7 @@ máriníg	to hear
 martilyo	a hammer
 marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
 marupók	weak, materially weak, weak willed, fragile, flimsy (dupok)
-mas	more
+mas	more (also "higit na")
 mas kaunti	less
 masa	mass (as in mass of people, etc.); "the masses"
 masagána	abundant, plentiful (sagána)
@@ -2816,6 +2824,7 @@ nalibáng	amused, had fun
 nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
+namamaga	swollen
 namamalimos	one who engages in begging
 namán	also, too; all things considered; really, truly, anyway; please!; also used to soften requests and questions
 namanghá	amazed
@@ -2941,6 +2950,7 @@ nung	"ng" marker alternative
 nunò	tiny dwarf or fairy who lives in small mounds or anthills
 óbra	a work (of art, etc.)
 óbra maéstra	masterpiece
+ogis	albino (anak-araw)
 oras	hour, time
 ordinaryo	ordinary
 pa	still, yet, else, more
@@ -3086,7 +3096,7 @@ pagkamasarili	egotism
 pagkamatáy	death
 pagkat	because, whereas, considering that (sa pagkat, sapagkat)
 pagkatalo	defeat
-pagkatao	character, nature (of a person)
+pagkatao	character, nature/essence/being (of a person)
 pagkátiwalaan	to trust someone/thing, to entrust to the care of, consign, relegate, confide (tiwala)
 pagkukúsa	initiative
 paglabág	violating; in violation
@@ -3736,6 +3746,7 @@ sanaysay	an essay
 sandali	moment (dali)
 sandamakmak	lots of (idiomatic) sangkatutak
 sandata	weapon; arms; ammunition
+sándo	jersey (as in basketball jersey)
 sangá	branch
 sanggol	baby, infant
 sanggunián	reference; mutual consultation;	consultancy firm; consultation hour
@@ -3797,6 +3808,7 @@ sigaw	shout, scream, yell
 sige	go on, go ahead, proceed, continue part. go on, proceed, continue
 sige na	"go ahead"
 siglá	liveliness, enthusiasm, zip, eagerness, warmth, exhilaration, initiative
+siglo	century
 siguro	maybe, perhaps, probably
 sikap	diligence, hard work
 sikapin	to try, seek
@@ -4203,6 +4215,7 @@ todo	all, all of, the whole of
 tokwa	tofu
 tol	colloquial/informal term for one's brother or sister; buddy. (also utol)
 tong	contribution of money
+tono	tone (as in tone of voice)
 torótot	party horn, toy trumpet
 totoó	true, real, genuine
 traidór	traitor
@@ -4318,6 +4331,7 @@ tuwáng-tuwáng	in pairs
 tuwi	every, each time, always conj. whenever tuwi conj. (+ ng) whenever, everytime.
 tuwíd	straight, erect, direct
 tuwing	every time, every now and then
+ubad	dowry (given by father to daughter as wedding gift)
 ubó	cough
 ubrá	possible, maybe; maaarì
 udyok	urge, incite, entice
@@ -4399,6 +4413,7 @@ usá	a deer
 usap-usapan	what people are talking about = rumors, gossip
 usápan	conversation
 usapín	a topic of conversation/discussion/contention, etc.
+usbóng	sprout, bud, growth of plants; offspring [fig.]
 úsig	prosecute, persecute, investigation (also tugis)
 uso	stylish, in vogue, in fashion; style, trend, fashion
 usok	smoke (n)

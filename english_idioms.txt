@@ -1,4 +1,6 @@
 # common english idioms, expressions (mga kasabihán/sawikaín)
+in common	magka-, magkaka-, magkakapareho
+thanks for letting me know	salamat at pinaalam mo sa akin
 83% finished	83% nang tapos
 unfair	hindi patas
 less than half	kulang pa sa kalahati(?)
@@ -372,3 +374,4 @@ before December	bago mag Decembre
 the last few days	nitong mga nakaraang araw
 (in order) to be closer to..	para mas maging malapit sa..
 I just got your message.	Bago ko lang natanggap ang iyong mensahe.
+the vast majority	higit na marami
