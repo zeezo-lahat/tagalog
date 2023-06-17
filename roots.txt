@@ -3240,6 +3240,9 @@ humimbíng (himbing) _um_ [verb] to fall asleep; to fall into a deep sleep
 mahimbíng (himbing) ma_ [adjective] sleeping deeply; sleeping soundly
 mahimbíng (himbing) ma_ [verb] to sleep soundly; to be deep in sleep
 pagkahimbíng (himbing) pagka_ [noun] having slept deeply/soundly
+himig (himig) rt_ [noun] tune; melody; rhythm of music; intonation; trace (of sound)
+humimig (himig) _um_ [verb] to sing a tune; to croon
+ihimig (himig) i_ [verb] to sing a tune; to croon
 hinaan (hina) _an [verb] to lower the volume
 hinà (hina) rt_ [noun] weakness; softness
 huminà (hina) _um_ [verb] to become weak; to soften; to ebb; to slow; to decline
@@ -3572,6 +3575,7 @@ maigi (igi) ma_ [adverb] well; carefully; fine; all right
 igi (igi) rt_ [noun] goodness; fineness; excellence; orderliness
 umigi (igi) _um_ [verb] to get well
 igihan (igi) _an [verb] to do something well; to put in order
+pinakamaigi (igi) pinakama_ [adjective] most appropriate
 mag-igíb (igib) mag_ [verb] to draw water (e.g., from a well)
 igíb (igib) rt_ [noun] drawing water (e.g., from a well)
 igiban (igib) _an [noun] place where water can be drawn; watering hole
@@ -3579,6 +3583,8 @@ igtingán (igting) _an [verb] to tighten
 igtíng (igting) rt_ [noun] tightness; tension
 mag-igtíng (igting) mag_ [verb] to tighten; to strain
 maigtíng (igting) ma_ [adjective] tight; [adverb] tightly
+mapaigtíng (igting) mapa_ [verb] to suddenly tighten
+pag-igtíng (igting) pag_ [noun] tightening; clenching
 pagpapaigtíng (igting) pagpapa_ [noun] tightening; strengthening; having something tightened
 paigtingín (igting) pa_in [verb] to have something tightened; to have something strengthened
 ihaw (ihaw) rt_ [noun] broiling; grilling; barbecue;
