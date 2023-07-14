@@ -1,0 +1,19 @@
+dagdág-gastos (gastos) cmp_ [noun] added expense
+gastos (gastos) rt_ [noun] expenses; expenditure; costs
+gastusin (gastos) _in [noun] expenses; list of expenses
+gumastos (gastos) _um_ [verb] to spend (money)
+gástusín (gastos) _in [verb] to spend money; to spend something
+magastos (gastos) ma_ [adjective] costly; expensive
+magastos (gastos) ma_ [verb] to spend (money)
+paggastos (gastos) pag_ [noun] spending (money); expending; costing
+panggastos (gastos) pang_ [noun] something used to pay for expenses
+dagdág-gastos (gastos) added expense
+gastos
+gastos (gastos) [noun] expenses; expenditure; costs
+gastusin (gastos) [noun] expenses; list of expenses
+gumastos (gastos) [verb] to spend (money)
+gástusín (gastos) [verb] to spend money; to spend something
+magastos (gastos) [adjective] costly; expensive
+magastos (gastos) [verb] to spend (money)
+paggastos (gastos) [noun] spending (money); expending; costing
+panggastos (gastos) [noun] allowance; something used to pay for expenses

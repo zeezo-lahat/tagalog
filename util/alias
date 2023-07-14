@@ -77,7 +77,7 @@ tcat ()
 
 tga ()
 {
-  cat *.txt | tgrep.py "$*" | sort | uniq
+  cat *.txt | grep ^[A-Z] | tgrep.py "$*" | sort | uniq
 }
 
 try ()

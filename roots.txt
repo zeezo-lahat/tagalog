@@ -78,6 +78,9 @@ kaagaw (agaw) ka_ [noun/adjective] rival
 maagaw (agaw) ma_ [verb] to be snatched
 mang-agaw (agaw) mang_ [verb] to snatch
 umagaw (agaw) _um_ [verb] to deprive; to take away from; to snatch; to abduct; to grab for
+maagnás (agnas) ma_ [verb] to decompose; to erode
+agnás (agnas) rt_ [noun] erosion; decomposition; melting
+agnasín (agnas) _in [verb] to erode something; to corrode something; to decompose something; to wear away something
 agos (agos) rt_ [noun] flowing liquid; current; river current
 agusan (agos) _an [verb] to flow over something
 maagos (agos) ma_ [adjective] having a strong current
@@ -1771,6 +1774,9 @@ mabuntís (buntis) ma_ [verb] to become pregnant (AF); to get pregnant (AF); to 
 makabuntís (buntis) maka_ [verb] to get a woman (or a female animal) pregnant
 pagbubuntís (buntis) pagCV_ [noun] pregnancy
 pagpipigil sa pagbubuntis (buntis) phr_ [noun] contraception; birth control
+buntunan (bunton) _an [noun] dump
+buntón (bunton) rt_ [noun] pile; collection; batch
+ibuntón (bunton) i_ [verb] to heap up something; to pile something on
 bumuntót (buntot) _um_ [verb] to trail
 buntót (buntot) rt_ [noun] tail; bodyguard
 kabuntót (buntot) ka_ [noun] someone tailing someone else
@@ -2622,7 +2628,7 @@ gástusín (gastos) _in [verb] to spend money; to spend something
 magastos (gastos) ma_ [adjective] costly; expensive
 magastos (gastos) ma_ [verb] to spend (money)
 paggastos (gastos) pag_ [noun] spending (money); expending; costing
-panggastos (gastos) pang_ [noun] something used to pay for expenses
+panggastos (gastos) pang_ [noun] allowance; something used to pay for expenses
 gataán (gata) _an [verb] to juice something
 gataín (gata) _in [verb] to cook in coconut milk
 gatâ (gata) rt_ [noun] juice; fruit juice; vegetable juice
@@ -3222,6 +3228,10 @@ hilutin (hilot) _in [verb] to massage something
 humilot (hilot) _um_ [verb] to massage
 ipahilot (hilot) ipa_ [verb] to have someone massage something
 manghihilot (hilot) mangCV_ [noun] someone who gives therapeutic massage for sprains, pain, or sickness
+himas (himas) rt_ [noun] caress; gentle touch; stroke
+himasin (himas) _in [verb] to caress something; to massage something; to rub something
+humimas (himas) _um_ [verb] to caress; to gently touch; to fondle
+paghimas (himas) pag_ [noun] gently touching; caressing
 himatayín (himatay) _in [verb] to pass out (AF); to faint (AF); to cause someone to pass out (OF);
 himatáy (himatay) rt_ [noun] losing consciousness
 mahimatáy (himatay) ma_ [verb] to lose consciousness; to faint
@@ -3230,6 +3240,9 @@ humimbíng (himbing) _um_ [verb] to fall asleep; to fall into a deep sleep
 mahimbíng (himbing) ma_ [adjective] sleeping deeply; sleeping soundly
 mahimbíng (himbing) ma_ [verb] to sleep soundly; to be deep in sleep
 pagkahimbíng (himbing) pagka_ [noun] having slept deeply/soundly
+himig (himig) rt_ [noun] tune; melody; rhythm of music; intonation; trace (of sound)
+humimig (himig) _um_ [verb] to sing a tune; to croon
+ihimig (himig) i_ [verb] to sing a tune; to croon
 hinaan (hina) _an [verb] to lower the volume
 hinà (hina) rt_ [noun] weakness; softness
 huminà (hina) _um_ [verb] to become weak; to soften; to ebb; to slow; to decline
@@ -3562,6 +3575,7 @@ maigi (igi) ma_ [adverb] well; carefully; fine; all right
 igi (igi) rt_ [noun] goodness; fineness; excellence; orderliness
 umigi (igi) _um_ [verb] to get well
 igihan (igi) _an [verb] to do something well; to put in order
+pinakamaigi (igi) pinakama_ [adjective] most appropriate
 mag-igíb (igib) mag_ [verb] to draw water (e.g., from a well)
 igíb (igib) rt_ [noun] drawing water (e.g., from a well)
 igiban (igib) _an [noun] place where water can be drawn; watering hole
@@ -3569,6 +3583,8 @@ igtingán (igting) _an [verb] to tighten
 igtíng (igting) rt_ [noun] tightness; tension
 mag-igtíng (igting) mag_ [verb] to tighten; to strain
 maigtíng (igting) ma_ [adjective] tight; [adverb] tightly
+mapaigtíng (igting) mapa_ [verb] to suddenly tighten
+pag-igtíng (igting) pag_ [noun] tightening; clenching
 pagpapaigtíng (igting) pagpapa_ [noun] tightening; strengthening; having something tightened
 paigtingín (igting) pa_in [verb] to have something tightened; to have something strengthened
 ihaw (ihaw) rt_ [noun] broiling; grilling; barbecue;
@@ -3905,6 +3921,11 @@ magpakabít (kabit) magpa_ [verb] to have someone install something; to have som
 maikabít (kabit) mai_ [verb] to be able to attach something; to be abe to fasten something
 nakakabít (kabit) naka_ [adjective] attached; adhered to
 pagkakabít (kabit) pagCV_ [noun] sticking; fastening
+biyakín (biyak) _in [verb] to divide something; to split something; to break something in two; to bisect something
+biyák (biyak) rt_ [noun] split; cleavage; division [adjective] split; divided
+bumiyák (biyak) _um_ [verb] to split; to split into
+kabiyák (biyak) ka_ [noun] mate; spouse; husband or wife; a part of two pieces
+magbiyák (biyak) mag_ [verb] to split (something)
 kagat-kagát (kagat) rt_rt biting
 kagatan (kagat) _an [noun] biting one another; biting each other
 kagatán (kagat) _an [verb] to bite something
@@ -4095,6 +4116,9 @@ kapitan (kapit) _an [verb] to hold onto something; to stick onto something; to g
 kapít (kapit) rt_ [adjective] stuck; glued; clinging to; holding on
 kumapit (kapit) _um_ [verb] to hold on; to cling to
 nakakapít (kapit) naka_ [adjective] stuck; glued
+kakapusan (kapos) ka_an [noun] deficit; scarcity; shortage
+kapusín (kapos) _in [verb] to fall short of something
+kapós (kapos) rt_ [adjective] insufficient; broke (financially)
 di-pangkaraniwan (karaniwan) phr_ [adjective] unusual; peculiar; extraordinary
 karaniwan (karaniwan) rt_ [adjective] common; usual; widespread; habitual; average; colloquial [adverb] commonly; generally; in general; chiefly; customarily
 pangkaraniwan (karaniwan) pang_ [adjective] normal; typical
@@ -4392,6 +4416,10 @@ kumpleto (kumpleto) rt_ [adjective] complete
 kumpletuhin (kumpleto) _in [verb] to complete something; to finish something
 makumpleto (kumpleto) ma_ [verb] to be complete (AF)
 pagkumpleto (kumpleto) pag_ [noun] completion
+magkumpulan (kumpol) mag_an [verb] to gather all together; to congregate
+kumpól (kumpol) rt_ [noun] bunch; cluster; clump
+nakakumpól (kumpol) naka_ [adjective] clustered; clumped
+kumpulín (kumpol) _in [verb] to gather; to gather together
 pagkukumpuní (kumpuni) pagCV_ [noun] repairs; repairing
 magkumpuní (kumpuni) mag_ [verb] to repair
 muztá (kumusta) slang_ How are you. slang written abbreviation for "kumusta," used in texting or social media.
@@ -4565,6 +4593,8 @@ malagô (lago) ma_ [adjective] luxurious
 mapalagô (lago) mapa_ [verb] to be able to grow something; to suddenly grow something
 paglagô (lago) pag_ [noun] growing
 palaguín (lago) pa_in [verb] to grow
+lagós (lagos) rt_ [adjective] penetrating
+lumagós (lagos) _um_ [verb] to go through; to cut through; to penetrate
 lagutín (lagot) _in [verb] to cut off
 lagót (lagot) rt_ [adjective] cut off; broken; snapped
 lumagót (lagot) _um_ [verb] to cut; to snap
@@ -5458,6 +5488,9 @@ lumuwás (luwas) _um_ [verb] to move or travel from a province to a city; to go 
 luwás (luwas) rt_ [noun] a move from a province to a city
 pagluluwás (luwas) pagCV_ [noun] exporting
 pagluwás (luwas) pag_ [noun] going from the provinces to the city
+mamagâ (maga) mang_ [verb] to swell up; to become swollen; to become inflamed; to bloat; to get bloated
+magâ (maga) rt_ [adjective] swollen; inflamed; bloated; infected; abscessed
+pamamagâ (maga) pangCV_ [noun] swelling
 mahál kitá (mahal) phr_ [phrase] I love you.
 mahál na mahál kitá (mahal) phr_ [phrase] I love you very much
 kamahalan (mahal) ka_an [adjective] excellency; his/her excellency; * commonly used with royalty or rulers
@@ -5617,6 +5650,8 @@ napakamura (mura) [adjective] very cheap; inexpensive
 pagmmura (mura) [noun] cursing
 pagmumura (mura) [noun] swearing; cursing
 pinakamura (mura) [adjective] cheapest
+muwáng (muwang) rt_ [noun] sense; understanding; knowledge
+waláng muwáng (muwang) phr_ [adjective] innocent; naive
 hindí kanáis-nais (nais) [adjective] undesirable
 kanáis-nais (nais) ka_rt_rt [adjective] desirable; wholesome
 magnais (nais) mag_ [verb] to wish for; to desire
@@ -6829,6 +6864,10 @@ isandíg (sandig) i_ [verb] to recline
 nakasandíg (sandig) naka_ [adjective] reclining; leaning back
 sandigan (sandig) _an [noun] foundation; main support; backrest; person upon whom one relies for support
 sandíg (sandig) rt_ [noun] reclining; depending on someone; leaning on someone
+sandók (sandok) rt_ [noun] ladle; scoop
+sandukín (sandok) _in [verb] to scoop out something; to scoop something; to ladle something
+sumandók (sandok) _um_ [verb] to scoop out; to scoop; to ladle
+magsandók (sandok) mag_ [verb] to scoop out; to ladle; to scrape out
 kasanggâ (sangga) ka_ [noun] partner (in a game, business, etc.); friend; ally
 pananggâ (sangga) pang_ [noun] shield
 panánggaláng (sangga) [noun] protection; a person or thing that provides protection
@@ -7010,12 +7049,12 @@ magsisigáw (sigaw) magCV_ [verb] to shout out loudly
 makasigáw (sigaw) maka_ [verb] to be able to shout
 mapasigáw (sigaw) mapa_ [verb] to suddenly scream / shout
 nakasigáw (sigaw) naka_ [adjective] shouting
-pagsigáw (sigaw) [noun] shouting
+pagsigáw (sigaw) pag_ [noun] shouting
 pasigáw (sigaw) pa_ [adverb] loudly
 sigawán (sigaw) _an [verb] to shout to / at someone; to yell at someone
 sigáw (sigaw) rt_ [noun] shout; howl; yell; forced confession; cry out
 sumigáw (sigaw) _um_ [verb] to shout; to scream
-masiglá (sigla) [adjective] enthusiastic; ardent; active; agile; energetic
+masiglá (sigla) ma_ [adjective] enthusiastic; ardent; active; agile; energetic
 siglá (sigla) rt_ [noun] vitality; liveliness; energy; ardor; enthusiasm
 kasiguraduhan (sigurado) ka_an [noun] certainty; assurance; guarantee
 panigurado (sigurado) pang_ [noun] assurance; [adjective/adverb] assured; assuredly; surely; for sure
@@ -7026,8 +7065,8 @@ magsiguro (siguro) mag_ [verb] to make sure
 makasiguro (siguro) maka_ [verb] to ensure; to make sure
 masiguro (siguro) ma_ [verb] to be sure about something (OF); to ensure something (OF)
 masiguro (siguro) ma_ [verb] to ensure something
-paniniguro (siguro) [noun] confirming; assuring; assurance
-sigurista (siguro) [noun] a perfectionist; person who is careful to make sure things go well/right
+paniniguro (siguro) pangCV_ [noun] confirming; assuring; assurance
+sigurista (siguro) sp_ [noun] a perfectionist; person who is careful to make sure things go well/right
 siguro (siguro) rt_ [adverb] maybe; sure; perhaps; probably
 siguruhin (siguro) _in [verb] to make sure of something; to ensure something; to be certain about something
 sumiguro (siguro) _um_ [verb] to make sure; to assure
@@ -7035,7 +7074,7 @@ magsikap (sikap) mag_ [verb] to be diligent; to strive; to endeavor; to work har
 masikap (sikap) ma_ [adjective/adverb] diligent; diligently
 pagsikapan (sikap) pag_an [verb] to strive for something
 pagsisikap (sikap) pagCV_ [noun] hard work; effort; zeal; endeavor
-pagsusumikap (sikap) [noun] hard work
+pagsusumikap (sikap) pagCVum_ [noun] hard work
 sikapin (sikap) _in [verb] to try for something; to strive for something
 napakasikát (sikat) napaka_ [adjective] very famous; very well-known
 pasikat (sikat) pa_ [noun] showy
@@ -7289,6 +7328,9 @@ pagsusuka (suka) [noun] throwing up; vomiting
 suka (suka) rt_ [noun] vomit; throw up
 sukà (suka) rt_ [noun] vinegar
 sumuka (suka) _um_ [verb] to vomit; to throw up; to puke
+kasukalan (sukal) ka_an [noun] wilderness; wilds
+masukal (sukal) ma_ [adjective] weedy; dense (forest)
+sukal (sukal) rt_ [noun] thicket; filth; rubbish; waste; antidote
 isukat (sukat) i_ [verb] to try on clothes; to try something on
 kasukát (sukat) ka_ [adjective] proportional; commensurate
 magsukát (sukat) mag_ [verb] to try on an outfit / clothing; to measure
@@ -7618,6 +7660,7 @@ ipagtaká (taka) ipag_ [verb] to cause surprise; to surprise
 katakataká (taka) ka_rt_rt [adjective] puzzling; curiously strange
 magtaká (taka) mag_ [verb] to be surprised; to wonder
 nakapagtátaká (taka) nakapagCV_ [adjective] surprising; magic; magical; wondrous
+pagtataká (taka) pagCV_ [noun] wondering; feeling surprised; surprise
 taká (taka) rt_ [noun] wonder; surprise
 itakas (takas) i_ [verb] to hide away; to run away with
 magtakas (takas) mag_ [verb] to escape with
@@ -7726,6 +7769,9 @@ matalik (talik) ma_ [adjective] close; intimate; best (friend)
 pagtatalik (talik) pagCV_ [noun] sex (the act); copulation; coitus; sexual activity; sexual intercourse
 pakikipagtalik (talik) pakikipag_ [noun] having sex; sex; having sex together
 talik (talik) rt_ [noun] closeness; being close to one another;
+matalím (talim) ma_ [adjective] sharp; cutting
+patalím (talim) pa_ [noun] knife; any sharp cutting instrument
+talím (talim) rt_ [noun] blade; knife or dagger blade; edge; point
 katalinuhan (talino) ka_an [noun] intelligence; smartness
 matalino (talino) ma_ [adjective] smart; intelligent; brilliant; astute; clever
 napakatalino (talino) napaka_ [adjective] very smart; brilliant
@@ -7915,6 +7961,9 @@ tumingkayád (tangkad) _um_ [verb] to stand on tip toes
 tanglawán (tanglaw) _in [verb] to illuminate something
 tangláw (tanglaw) rt_ [noun] light; illumination
 tumangláw (tanglaw) _um_ [verb] to illuminate
+tanguán (tango) _an [verb] to nod at someone; to agree by nodding at someone
+tangó (tango) rt_ [noun] nodding one's head to say Yes, or in approval of something, or nodding in agreement
+tumangó (tango) _um_ [verb] to nod (yes); to nod in approval; to nod in agreement
 tangos (tangos) rt_ [noun] peninsula; prominence; length; [adjective] long; prominent
 matangos (tangos) ma_ [adjective] long and pointy
 itaním (tanim) i_ [verb] to plant something; to implant something; to inculcate something; to sow something
@@ -8261,6 +8310,11 @@ timbangan (timbang) _an [noun] weighing scale; balance
 timbangín (timbang) _in [verb] to weigh
 timbáng (timbang) rt_ [noun] weight; heaviness
 tumimbáng (timbang) _um_ [verb] to weigh
+magtimpî (timpi) mag_ [verb] to control one's self; to refrain; to hold one's self back
+makapagtimpî (timpi) makapag_ [verb] to be able to control one's self
+matimpiin (timpi) ma_in [adjective] reserved; self-controlled; restrained
+pagtitimpî (timpi) pagCV_ [noun] controlling one's self; self control; self restraint
+timpî (timpi) rt_ [noun] temperance; moderation; self-control
 magtimplá (timpla) mag_ [verb] to mix
 pagtimplá (timpla) pag_ [noun] mixing
 panimplá (timpla) pa_ [noun] seasoning; flavoring
@@ -8631,6 +8685,9 @@ matunugán (tunog) ma_an [verb] to become aware of something; to be alerted to s
 pagtunóg (tunog) pag_ [noun] sounding; making a sound
 tumunóg (tunog) _um_ [verb] to sound; to make a sound; to ring
 tunóg (tunog) rt_ [noun] sound; click; ringing
+matuntón (tunton) ma_ [verb] to track down something; to be able to track down something; to trace something; to be tracked down (AF)
+panuntunan (tunton) pang_an [noun] rule; guideline
+tuntón (tunton) rt_ [noun] retracing; tracking down
 ituón (tuon) i_ [verb] to focus something
 makatuón (tuon) maka_ [verb] to be able to focus
 matuón (tuon) ma_ [verb] to focus
@@ -8874,6 +8931,7 @@ ungol (ungol) rt_ [noun] groan; growl; moan; grunt
 umungol (ungol) _um_ [verb] to growl; to howl; to groan
 mapaungol (ungol) mapa_ [verb] to suddenly groan
 pag-ungol (ungol) pag_ [noun] groaning
+ikaunlád (unlad) ika_ [verb] to cause development or progress
 iunlád (unlad) i_ [verb] to develop; to cause to thrive
 kaunlarán (unlad) ka_an [noun] development
 mapaunlád (unlad) mapa_ [verb] to be able to develop something
