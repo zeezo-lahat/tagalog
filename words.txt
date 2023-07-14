@@ -44,6 +44,7 @@ abot-tanaw	horizon
 aboy	being driven to a certain place
 absuwelto	absolved, acquitted
 absuweltuhin	to forgive
+abu-abo	mist, haze, drizzle
 abuhin	ash colored, grey
 abuloy	alms, contribution, subsidy, aid, help from multiple people
 aburido	upset, worried, disturbed
@@ -834,6 +835,7 @@ gastahan	to spend on
 gastos	expense, cost
 gastusan	to spend money (ginagastusan, ginastusan, gagastusan)
 gatang	unit of measure for rice/grain
+gatong	firewood, fuel; to feed with fuel, to put into the fire as fuel
 gawâ	to do, to make
 gawad	award, bestowal, grant, prize [syn. gantimpala', premyo]
 gawan	to do for, make for
@@ -1927,6 +1929,7 @@ ligáya	happines, joy
 ligoy	(n) wordiness, beating around the bush
 ligsá	test, quiz
 ligtás	saved, freed, redeemed; safe; exempt
+ligwák	spill; fail, lose, defeat (slang)
 liham	a letter (that you send in the mail, email, etc.)
 líhim	(a) secret, confidential (also "sikreto")
 liit	smallness
@@ -2677,6 +2680,7 @@ may-arì	owner
 may gustó ka ba sa	do you like X?
 may-itsúra	has an attractive appearance
 maya-maya	a bit later (today)
+mayabong	leaf, with thick foliage
 mayá't-mayá	time and again; always; every now and then
 mayaman	rich, wealthy
 mayari	to be finished, to be made, slang: to be killed
@@ -4197,6 +4201,7 @@ tipo	type
 tipon	a collection; saving of money; savings; gathering; collected; gathered together
 tipunin	to collect, to gather together, to store away.
 tira	residence; enduring; left-over, residue
+tira-tira	leftovers
 tirhan	to spare, set aside for someone
 tisay	fair skinned, mixed-race (from mestiso. mestisa/tisay?)
 titik	(n) text, writing; lyric; letter (of alphabet)
