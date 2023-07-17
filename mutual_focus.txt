@@ -1,0 +1,39 @@
+#grep 'each other|one another' roots.txt | grep ' .verb. '
+mag-away (away) mag_ [verb] to quarrel with each other; to fight with each other
+makipag-away (away) makipag_ [verb] to quarrel with each other; to argue with each other
+magbangayán (bangay) mag_an [verb] to squabble with each other
+magbatián (bati) mag_an [verb] to greet one another (reciprocal)
+magbigayan (bigay) mag_an [verb] to compromise; to give one another; to allow one another
+magbulungan (bulong) mag_an [verb] to whisper to one another
+magdalawán (dalaw) mag_an [verb] to visit one another
+maghalikan (halik) mag_an [verb] to kiss one another
+maghampasan (hampas) mag_an [verb] to swat at each other
+magharáp (harap) mag_ [verb] to present; to face; to face one another
+maghawak (hawak) mag_ [verb] to hold; to clench; to hold each other
+maghiwaláy (hiwalay) mag_ [verb] to separate; to separate from one another; to split up; to set apart; to divide; to diverge
+magkáhiyaan (hiya) magka_an [verb] to feel shy around each other; to feel ashamed around each other
+maghiyawan (hiyaw) mag_an [verb] to scream at one another; to scream all at once
+magkákilala (kilala) magka_ [verb] to know each other; to be acquainted with each other; to be introduced to each other; to meet each other
+makipagkilala (kilala) makipag_ [verb] to meet; to know someone; to meet each other
+mag-kíta-kita (kita) mag_ [verb] to see one another
+magkita (kita) mag_ [verb] to meet or see someone; to meet each other accidentally; to see each other (reciprocal)
+maglaban (laban) mag_ [verb] to fight; to fight with one another; to fight back; to compete
+maglabanán (laban) mag_an [verb] to compete; to fight each other; to struggle
+magpálakasan (lakas) magpa_an [verb] to strengthen each other
+maglapít (lapit) mag_ [verb] to go near each other; to go near one another
+maglipon (lipon) mag_ [verb] to converse with one another
+magmahalan (mahal) mag_an [verb] to love each other or one another
+magmurahán (mura) mag_an [verb] to curse at one another
+magpansinan (pansin) mag_an [verb] to pay attention to each other; to notice each other
+magsabihán (sabi) mag_an [verb] to tell each other; to share with each other; (reciprocal verb)
+magkásalubóng (salubong) magka_ [verb] to happen to meet accidentally one another on the way; to bump in to (meet) on another; to encounter one another
+magsalubong (salubong) mag_ [verb] to meet accidentally; to bump in to (meet); to meet one another; to greet each other on arrival;
+magsigawan (sigaw) mag_an [verb] to shout at each other; to shout together
+itaón (taon) i_ [verb] to make events coincide with each other
+magtawagan (tawag) mag_an [verb] to call each other
+magkátinginan (tingin) magka_an [verb] to look at one another
+magtinginan (tingin) mag_an [verb] to look at one another
+magtulong (tulong) mag_ [verb] to collaborate; to help one another
+magtulungán (tulong) mag_an [verb] to help one another
+makipagtulungán (tulong) makipag_an [verb] to cooperate; to help each other
+magyapusan (yapos) mag_an [verb] to embrace one another (reciprocal)
