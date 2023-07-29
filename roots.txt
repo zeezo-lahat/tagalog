@@ -210,14 +210,17 @@ alalahanin (alala) _anin [verb] to remember something; to keep something in mind
 alalahanín (alala) _anin [noun] worry; concern
 alalá (alala) rt_ [adjective] worried; concerned
 alaláng-alalá (alala) rt_na_rt [adjective] very worried; worried sick
-maalala (alala) ma_ [verb] to remember something; to be reminded of something; to be able to remember something; to recall something; to remember something by accident
+ipaalala (alala) ipa_ [verb] to give a reminder about something
+maalala (alala) ma_ [verb] to remember something; to be reminded of something; to be able to remember something; to recall something; to remember something by accident; to reminisce about something
 maalalahanín (alala) ma_anin [adjective] devoted; considerate; thoughtful; compassionate
 mag-alalá (alala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
+magpaalala (alala) magpa_ [verb] to give a reminder;
 makaalala (alala) maka_ [verb] to be able to remember
 paalaala (alala) pa_ [noun] reminder; warning
 paalala (alala) pa_ [noun] reminder
 paalalahanan (alala) pa_anan [verb] to remind someone; to have someone be reminded; to warn someone
-pag-áalalá (alala) pagCV_ [noun] worries; warning; anxiety; worrying; foreboding; presentiment
+pag-áalalá (alala) pagCV_ [noun] concern; worry; worries; warning; anxiety; worrying; foreboding; presentiment
+pagkakaalala (alala) pagkaka_ [noun] recollection; memory
 pagpapaalala (alala) pagpapa_ [noun] reminding
 alalay (alalay) rt_ [noun] support; assistant; helpful friend; holding or carrying with care
 alalayan (alalay) _an [verb] to hold or carry someone/something carefully; to aid someone; to support someone
@@ -531,7 +534,7 @@ apuhapin (apuhap) _in [verb] to fumble; to grope blindly
 maapuhap (apuhap) ma_ [verb] to grope around; to feel by hand
 mag-apuhap (apuhap) mag_ [verb] to fumble; to grope
 umapuhap (apuhap) _um_ [verb] to grope; to fumble
-maapulá (apula) ma_ [verb] to surpress something (OF); to be surpressed (AF); to be stopped; to be checked (stopped/slowed); to dissipate (AF)
+maapulá (apula) ma_ [verb] to supress something (OF); to be supressed (AF); to be stopped; to be checked (stopped/slowed); to dissipate (AF)
 apulain (apula) _in [verb] to stop something; to arrest something (stop); to check something (stop/slow)
 apulà (apula) rt_ [noun] stopping or preventing something (like(apula) stopping a fire, spread of disease, etc.)
 maapulá ang apoy (apula) phr_ [verb] to put out fire
@@ -2795,7 +2798,7 @@ gulatin (gulat) _in [verb] to startle someone; to surprise someone; to frighten 
 gulát (gulat) [adjective] startled; shocked
 gumulat (gulat) _um_ [verb] to surprise
 ikagulat (gulat) ika_ [verb] to cause surprise; to cause shock
-magulantáng (gulat) mag_ang [verb] to be startled (AF)
+magulantáng (gulat) ma_ang [verb] to be startled (AF)
 magulat (gulat) ma_ [verb] to be surprised (AF); to be startled (AF); to be frightened (AF); to surprise someone (OF); to startle someone (OF)
 manggulat (gulat) mang_ [verb] to feel surprised; to feel shocked
 nakakagulat (gulat) nakaka_ [adjective] shocking; surprising
@@ -3293,19 +3296,23 @@ hinahabol na paghingá (hinga) phr_ [noun] breathlessness
 hingahan (hinga) _an [noun] air hole; confidant
 hingahán (hinga) _an [verb] to breathe on
 hingahán (hinga) _an [verb] to reveal one's feelings to someone
-hingá (hinga) rt_ [noun] respiration; breathing; wind
+hingá (hinga) rt_ [noun] respiration; breathing; wind; [command] breathe
 hiningá (hinga) _in_ [noun] breath
 humingá (hinga) _um_ [verb] to breathe
 ihingá (hinga) i_ [verb] to reveal one's feelings about something
 ihingá (hinga) i_ [verb] to unload; to breathe out; to exhale
 ipahingá (hinga) ipa_ [verb] to have something rest; to rest something (Ex(hinga) rest one's eyes)
+magbuntóng-hiningá (hinga) compound_ [verb] to sigh
 maghingá (hinga) mag_ [verb] to reveal one's feelings; to unburden
 magpahingá (hinga) magpa_ [verb] to rest; to take a break; to take a rest
 makahingá (hinga) maka_ [verb] to be able to breathe
 makapaghingá (hinga) makapag_ [verb] to release or express displeasure (makapaghinga`` ng sama``` ng loo``b)
 makapagpahingá (hinga) makapag_ [verb] to be able to rest; to be refreshed
-mapabuntóng-hiningá (hinga) mapa_ [verb] to sigh; to sigh involuntarily
+mamahingá (hinga) mangCV_ [verb] to rest
+mapabuntóng-hiningá (hinga) compound_ [verb] to sigh; to sigh involuntarily
+mapahingá (hinga) mapa_ [verb] to be able to rest; to be able to take a break
 paghingá (hinga) pag_ [noun] breathing; respiration
+pagpahingahín (hinga) pagpa_in [verb] to have someone take a rest; to have someone rest somewhere
 pagpápahingá (hinga) pagpapa_ [noun] rest; resting
 pahingá (hinga) pa_ [noun] rest; relaxation; relaxing; break; vacation; breather; downtime
 pamamahingá (hinga) pangpapa_ [noun] leave (of absence)
@@ -5608,6 +5615,8 @@ minsan (minsan) rt_ [adverb] once; sometime; sometimes; once in a while; one tim
 minsan pá (minsan) once more
 noóng minsan (minsan) phr_ [adverb] one time; once; at times
 pamínsan-minsan (minsan) pa_rt_rt [adverb] once in a while; occasionally; at times;sometimes
+magmistula (mistula) mag_ [verb] to appear; to appear to be
+mistula (mistula) rt_ [pseudo-verb] seem; seems like; appear; [adjective] seemingly
 de-motór (motor) [adjective] motor
 magmotor (motor) mag_ [verb] to ride on a motorcycle; to travel by motorcycle
 motorista (motor) [noun] motorist; motorcycle driver
@@ -7396,6 +7405,11 @@ pagsusulong (sulong) [noun] moving forward; pushing forward; pushing to the fron
 pasulóng (sulong) pa_ [adverb] forward; onward; ahead
 sulong (sulong) rt_ [noun] move; moving; moving forward; pushing forward
 sumulong (sulong) _um_ [verb] to advance; to go forward
+mapasulyáp (sulyap) mapa_ [verb] to happen to glance at
+masulyapan (sulyap) ma_an [verb] to happen to glance at something; to be able to glance at someone/something; to be able to catch sight of something/someone
+sulyapán (sulyap) _an [verb] to glance at someone/something
+sulyáp (sulyap) rt_ [noun] glance; glimpse; eye glance
+sumulyáp (sulyap) _um_ [verb] to glance
 sumbatán (sumbat) _an [verb] to rebuke someone
 isumbát (sumbat) i_ [verb] to rebuke someone for something
 sumbát (sumbat) rt_ [noun] rebuke; reproach; scold
@@ -8456,6 +8470,9 @@ paniwalà (tiwala) pang_ [noun] belief; opinion; attitude; credence; [adjective]
 tiwalà (tiwala) rt_ [noun] trust; reliance; faith in someone; confidence in someone
 katiwalián (tiwali) ka_an [noun] anomaly; violation; corruption; absurdity
 tiwalî (tiwali) rt_ [adjective] corrupt; anomalous; irregular
+itiwarík (tiwarik) i_ [verb] to turn upside down
+patiwarík (tiwarik) pa_ [adverb] upside down
+tiwarík (tiwarik) rt_ [adjective] upside down
 magtiyagâ (tiyaga) mag_ [verb] to persevere; to persist; to make do
 matiyagâ (tiyaga) ma_ [adjective] persevering; diligent; painstaking; assiduous; [adverb] patiently; persistently
 pagtiyagaán (tiyaga) pag_an [verb] to persevere over something; to overcome something

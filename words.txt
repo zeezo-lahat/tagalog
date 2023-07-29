@@ -2381,7 +2381,7 @@ makislap	luminous, brilliant, glittering, lambent, lucent
 makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
 makukuha	attainable, that can be achieved
-makulít	importunate, pesky; a person who is a pest
+makulít	importunate, pesky; a person who is a pest (also "mangulit")
 makulong	be confined, be interned; be shut in (in a crowd)
 malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
 malagím	gloomy, glum
@@ -2794,6 +2794,7 @@ nakakakilabot	fearsome
 nakakalason	poisonous
 nakakalito	confusing
 nakakalungkot	depressing, makes one sad (also nakalulungkot)
+nakakapahinga	relaxing
 nakakasawa	describes things that never get tiresome or old
 nakakasilaw	blinding
 nakakatakot	scary
