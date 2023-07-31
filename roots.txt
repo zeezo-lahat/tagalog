@@ -314,6 +314,9 @@ umalug-alóg (alog) _um_rt_rt [verb] to keep shaking; to keep jerking
 umalóg (alog) _um_ [verb] to shake
 áalug-alóg (alog) CVrt_rt [adjective] wobbly; shaky; ramshackle; rickety
 áalóg-alóg (alog) CVrt_rt [adjective] shaky
+alpás (alpas) rt_ [adjective] unconfined; loose; free (from captivity)
+makaalpás (alpas) maka_ [verb] to be able to go free; to be able to be free
+umalpás (alpas) _um_ [verb] to get free; to get loose; to get untied (an animal)
 alsahín (alsa) _in [verb] to lift something up
 alsá (alsa) rt_ [noun] rising; uprising; rising of dough
 ialsá (alsa) i_ [verb] to raise (something upward)
@@ -2894,6 +2897,8 @@ hagisan (hagis) _an [verb] to throw something at
 humagis (hagis) _um_ [verb] to be thrown
 ihagis (hagis) i_ [verb] to throw something; to fling something
 maghagis (hagis) mag_ [verb] to throw
+maihagis (hagis) mai_ [verb] to be able to throw something
+paghahagis (hagis) pagCV_ [noun] throw
 hagulgól (hagulgol) rt_ [noun] wailing; fierce crying
 humagulgól (hagulgol) _um_ [verb] to wail; to sob
 paghagulgól (hagulgol) pag_ [noun] wailing; strong crying
@@ -8906,6 +8911,8 @@ maulilà (ulila) ma_ [verb] to be orphaned; to become orphaned
 pangungulilà (ulila) [noun] loneliness; melancholy; bereavement
 ulilang lubós (ulila) [noun] orphan; orphan child; * literally, completely orphaned, meaning both parents are gone
 ulilà (ulila) rt_ [noun] orphan
+maulinigan (ulinig) ma_an [verb] to overhear something
+ulinig (ulinig) rt_ [noun] sense of hearing
 mag-ulit (ulit) mag_ [verb] to redo; to revise; to rework
 maulit (ulit) ma_ [verb] to repeat; to happen again
 pag-uulit (ulit) pagCV_ [noun] repeating
@@ -9052,6 +9059,9 @@ mausog (usog) ma_ [verb] to shift (AF); to budge (AF); to shift something (OF);
 umusog (usog) _um_ [verb] to budge
 usog (usog) rt_ [noun] budging; shifting
 usóg (usog) rt_ [noun] flatulence; gas
+kautalán (utal) ka_an [noun] stuttering
+mautál (utal) ma_ [verb] to stutter; to stammer
+utál (utal) rt_ [adjective] stuttering; stammering
 Pautang! (utang) phr_ [expression] Lend me money!
 ipautang (utang) ipa_ [verb] to lend money
 mangutang (utang) mang_ [verb] to go into debt; to take on debt
