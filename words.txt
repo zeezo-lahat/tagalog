@@ -677,6 +677,7 @@ dalhin	to bring, carry
 dali	quickness, rapidity, ease
 dali-dali	quickly!
 dalian	to hurry
+daliri	finger
 dalísay	pure, unadulterated, immaculate
 dalitâ	extreme poverty
 daló	presence, attendance
@@ -761,6 +762,7 @@ doon	there ("dun", "duon")
 dugô	blood
 duguan	bloody
 dugyót	small and dirty
+dumukdók	to slump
 dukhâ	poor, needy, indigent, destitute
 dukot	snatching; kidnapping; to pull something out
 dúlak	dilát
@@ -840,6 +842,7 @@ gastusan	to spend money (ginagastusan, ginastusan, gagastusan)
 gatang	unit of measure for rice/grain
 gatong	firewood, fuel; to feed with fuel, to put into the fire as fuel
 gawâ	to do, to make
+gawâ-gawâ	something that is made up (not real)
 gawad	award, bestowal, grant, prize [syn. gantimpala', premyo]
 gawan	to do for, make for
 gawin	to do, perform, adapt, make
@@ -854,6 +857,7 @@ gayunpaman	nevertheless, however (gayón + pa + man)
 giba	demolished
 gibain	to demolish
 gibay	balancing, oscillating
+gibík	saklólo
 giit	insistence; assertion; persistent asking
 gila	demolished
 gilalás	amazement, takáng-taká, namanghâ
@@ -892,6 +896,7 @@ gulát	(adj.) scared, frightenened, shocked
 gulatin	to scare, frighten
 gulgól	waste, by-product
 gulo	disorder
+gúlok	machete, sword
 gulóng	wheel
 gúlong	to roll
 gulpí	to beat up; to hit, strike
@@ -1014,6 +1019,7 @@ hayop	animal
 heto	"here"
 hibáng	a crazy person; delirious
 hidhid	a selfish person
+higála	friend
 higít	more (than), over (higit na..)
 higpít	tightness; strictness, severity
 hikahós	needy, poor, bankrupt
@@ -1430,6 +1436,7 @@ kalahok	contestant
 kalakal	merchandise, commodity
 kalakbay	fellow traveller
 kalamidád	calamity
+kalampág	clank, clang, bang, thud
 kalangitan	the sky (langit)
 kalansáy	skeleton
 kalapit	person or place nearby; neighboring, nearby
@@ -1561,6 +1568,7 @@ karera	a race; career
 karibal	rival (often in romance)
 karimarimarim	disgusting(?) (dimarim)
 karit	sickle, skythe
+karitón	a pushcart
 kartero	postman
 karukhaán	poverty; lack, deficiency (dukhâ)
 karumal-dumal	loathsome, nasty
@@ -1599,6 +1607,7 @@ kasiyahán	satisfaction, pleasure, zest (siyá)
 káso	lawsuit, case; value, importance; disagreement; the point, the truth; "except that.." (eg "Kaso Espanyol")
 kasosyo	business partner
 kastígo	reprimand, rebuke; originally meant punishment
+kasukdúlan	climax
 kasuklám-suklám	disgusting, loathsome, execrable
 kasundo	someone you get along with; agreeing
 kásunduan	agreement, deal, compromise, covenant, bargain, treaty, concord, contract, compact, pact
@@ -2376,7 +2385,7 @@ makislap	luminous, brilliant, glittering, lambent, lucent
 makita	to see, find (a *specific* thing) (obj. focus)
 makiusap	to request, ask for, plead
 makukuha	attainable, that can be achieved
-makulít	importunate, pesky; a person who is a pest
+makulít	importunate, pesky; a person who is a pest (also "mangulit")
 makulong	be confined, be interned; be shut in (in a crowd)
 malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
 malagím	gloomy, glum
@@ -2493,6 +2502,7 @@ mangilabot	feeling creeped out
 mangilid	to line, encircle
 mangiló	to feel a tingling sensation in the teeth; to have a nerve pain in the teeth
 mángingisdâ	a fisherman
+mangisáy	to convulse
 manginíg	to shake, shiver, tremble (nginig)
 mangisdâ	to fish
 manglamang	advantage over others (noun)
@@ -2788,6 +2798,7 @@ nakakakilabot	fearsome
 nakakalason	poisonous
 nakakalito	confusing
 nakakalungkot	depressing, makes one sad (also nakalulungkot)
+nakakapahinga	relaxing
 nakakasawa	describes things that never get tiresome or old
 nakakasilaw	blinding
 nakakatakot	scary
@@ -2843,7 +2854,7 @@ nalibáng	amused, had fun
 nalito	became confused
 nalulunod	is drowning
 nalunod	drowned
-namamaga	swollen
+namamagâ	swollen
 namamalimos	one who engages in begging
 namán	also, too; all things considered; really, truly, anyway; please!; also used to soften requests and questions
 namanghá	amazed
@@ -2937,6 +2948,7 @@ nayon	village; hamlet; "barrio" (local community) (also "kanayunan")
 nek-nek mo	fuck you, up yours
 nga	expresses a request; affirmation marker, "truthful, certain" (maganda nga siya -> she certainly is pretty)
 ngangá	act of opening the mouth; having an open mouth
+ngasáb	eating noisily like a pig
 ngayón	now; today
 ngayón lang	just now
 ngiló	tingling sensation in the teeth
@@ -3245,6 +3257,7 @@ palakaibigan	friendly (pala-)
 palakasan	a competition to see who’s stronger
 palakasan	a strength competition
 palakasin	to strengthen something
+palakól	axe
 palamigan	a cooler
 palamigin	to chill, refrigerate, make cold, cool (pinalamig, pinalalamig, palalamigin) 
 palangiti	always smiling
@@ -3443,6 +3456,7 @@ paslít	young innocent child; very young, innocent, inexperienced
 pasók	entry, admission; work, school
 pastól	shepherd
 pasubali	taking exception to something (during a discussion, etc.); dissenting opinion
+pasuwít	loud and short whistle usually used to get someone's attention (paswít)
 pasuyò	please can you do me a favor?
 patagalin	to make longer
 patagilid	sideways
@@ -3530,7 +3544,7 @@ pinauso	brought into vogue
 pindot	squeezing
 pinggan	dish, plate
 pinigilan	stopped from doing something
-pino	thin, light
+píno	fine, delicate, thin, light
 pinsala	damages, losses, harm
 pínsan	cousin
 pintíg	throb, pulse
@@ -3565,6 +3579,7 @@ preno	brake
 presko	fresh, cool (ref. to weather)
 preso	prisoner
 prito	fried
+proseso	a process
 pruweba	proof
 pugad	nest
 pugante	fugitive
@@ -3822,7 +3837,10 @@ sentido komun	common sense
 sényas	sign, signal
 serye	series
 si	name marker, marks name of anything with a personality
+sibà	glutton
+masibà	gluttonous
 sibák	chopping wood with an axe. slang for firing someone.
+sibásib	ravaging, viscious animal attack
 sibuyas	onion
 sidlan	to fill a container
 sigà	bully
@@ -3844,6 +3862,8 @@ sikilin	to suppress something
 sikíp	tightness
 sikláb	blaze, flame
 siklista	bicyclist
+sikmát	sudden bite (by a dog, etc.); rebuke; pagsiba-sib ng kaaway, lalo na ng mababangis na hayop; pabugso-bugsong pagsinghal ng isang nagagálit
+sikmatin	snatch like a dog does; speak quickly and sharply; snap
 sikmurà	stomach, upper stomch
 siko	elbow
 siksik	crammed, tightly packed
@@ -3859,6 +3879,7 @@ silíd-tulugán	bedroom
 silip	to peek, peer
 silya	chair
 silyón	easy-chair
+símoy	wind, breeze
 simutín	to consume something
 sinamahan	accompanied
 sinayang	(verb) wasted something
@@ -3975,6 +3996,8 @@ sundin	to obey (sunod)
 sundô	fetch someone from somewhere
 sundót	poke, jab
 sungay	horn, antler
+sunggáb	grab, seize	
+sunggabán	to grab/seize/clutch something
 sungkit	picking/choosing, origin: using a pole to pick fruit
 sunod	follow; next
 sunúd-sunód	chronological, successive, consecutive, one after the other
@@ -4080,7 +4103,7 @@ talakay	discussion
 tálakayán	discussion
 talakayin	to discuss
 talamák	serious, critical, hard to cure; fallen; addicted
-talampakan	sole of a foot; 12 inches
+talampakan	sole of a foot; 12 inches; a literal foot ("paa")
 talasalitaan	vocabulary
 talím	blade; knife or dagger blade; edge; point
 talíno	smarts, talent
@@ -4199,7 +4222,7 @@ tíla	apparently, seemingly, "it seems", "strong possibility of being a factual 
 tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
 timbóg	caught, arrested
-tímbre	can refer to a stamp like a seal or to a button like a doorbell.
+tímbre	a stamp/seal; a button like a doorbell; a musical tone
 timog	south
 timplada	mixture, compound
 timyás	genuineness or purity of love, loyalty, etc.
@@ -4321,7 +4344,7 @@ tumutol	objected
 tumuwáng	to help carry a load
 tunaw	melt, dissolve
 túnay	true, correct, pure, real, genuine, legit
-tungkól	concerning, about
+tungkól	concerning, about (followed by 'sa' phrase)
 tungkulin	(noun) duty, responsibility, concern, mission, function, role
 tungo	goal, purpose, direction; to deal with
 tungó	bowing of the head
@@ -4351,6 +4374,7 @@ tutál	anyway
 túto	learning, gaining knowledge or skill (mostly used as root, eg matúto)
 tutok	point (a gun at), aim, focus attention on
 tutol	objection, disapproval, opposition, protest
+tutóp	covering (e.g., one's mouth); being caught in the act; act red handed
 tuwâ	joy, happiness, fun
 tuwalyá	towel
 tuwáng	coordinate (grammar)
@@ -4369,6 +4393,7 @@ ugalì	attitude, behavior, disposition, nature, character, manners, mannerism, h
 ugnay	connection, relation, relevance
 ugnayan	connection, links, interdependence
 ugnayin	to connect
+ugód	decrepitude, decrepit, stooped
 ugong	roaring, resonance, howling of wind, noise like thunder
 uha	cry of a newborn baby
 uhaw	thirst, thirsty
@@ -4412,6 +4437,7 @@ umiskór	to score
 umiyák	to cry/cried
 umpisá	beginning, start
 umugà	to be loose; to sway back forth
+umugod-ugód	hobble, walk awkwardly
 umunawá	to understand, to grasp mentally
 umurong	to retreat, withdraw, retract
 umusad	to move forward
