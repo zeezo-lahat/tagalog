@@ -135,6 +135,8 @@ alukín	to offer
 alunyâ	bawal na paglalambingan
 amá	father
 ama-amahan	foster father
+ámag	mold, mildew
+amagin	to become moldy, mildewy
 amaín	stepfather; uncle
 ambâ	threaten; threatening gesture
 ambaán	to threaten someone; to make threatening gestures toward someone
@@ -4398,6 +4400,7 @@ ugód	decrepitude, decrepit, stooped
 ugong	roaring, resonance, howling of wind, noise like thunder
 uha	cry of a newborn baby
 uhaw	thirst, thirsty
+uhod	maggot, caterpillar (also uod)
 uka	dent, hollowed out
 uka-uka	full of holes
 ulap	clouds, fog
@@ -4457,6 +4460,7 @@ unós	tempest, storm
 untî	bit, small amount
 untî-untî	gradually
 untól	temporary stop, pause, halt
+uod	maggot, caterpillar (also uhod)
 upa	rent (a house)
 upang	so that, for, in order to (formal. "para" is used in informal conversation.)
 upós	cigarette stub or butt; consumed, down to the butt (as candles, cigarettes, cigars); submerged
