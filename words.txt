@@ -402,6 +402,7 @@ basahan	rag
 basehán	basis
 báso	drinking glass
 basta	enough, sufficient, "it is enough"; as a declaration: "just because", "what matters is.."
+baston	a cane (walking stick)
 batà	a child; "young"
 batang-hamóg	street kids
 batás	law
@@ -681,7 +682,7 @@ dalitâ	extreme poverty
 daló	presence, attendance
 dambuhala	giant, huge; whale; monster
 damdám	feeling
-damdamin	feelings, sentiment, emotions
+damdámin	feelings, sentiment, emotions
 damdamín	to feel hurt or resentful about something
 dami	amount, quantity; lots / a lot of
 damit	clothing, dress
@@ -734,6 +735,7 @@ diin	emphasizing, stressing, pressing, insisting
 dikit	stick, adhere, paste
 dikitán	to attach, stick
 dilà	tongue
+dilag	magnificence, gorgeousness, pomp
 dilát	nakabukás ang mga talukap ng mata (mulat), hindi na hangal, may alám sa katotohanan
 dilaw	yellow
 dilíg	watering (of plants); irrigation
@@ -757,6 +759,7 @@ diwatà	a muse, nymph, fairy
 diyan ka lang	stay put
 diyosa	goddess
 doon	there ("dun", "duon")
+dúgas	paraan ng panlilinlang upang mapagsamantalahan ang ibang tao.
 dugô	blood
 duguan	bloody
 dugyót	small and dirty
@@ -787,6 +790,7 @@ dumumí	to defecate
 dúnong	knowledge, wisdom, learning, education
 dupók	fragility
 duwág	coward
+duyan	cradle, hammock, swing
 e di	"eh, kung hindi", "well if not, then..", so.., therefore..
 echapwera	to be neglected or ignored (sp "echa fuera": to throw outside)
 edad	age
@@ -882,6 +886,8 @@ gíwang	vacillation, swaying, wobbling
 goma	rubber
 grabe	wow!, intense, extreme, wild/crazy, etc..
 granada	pomegranate; hand grenade
+grasa	grease
+grasáhan	to grease
 gripo	faucet, tap
 gubat	forest, jungle
 guhò	landslide; collapse; ruins
@@ -1028,6 +1034,7 @@ hilakbót	fear, terror
 hilaw	uncooked, raw; green; unripe
 hilì	envy
 hilig	liking, desire, inclination, hobby, propensity, leaning position/(slant)
+hilik	snore
 hiling	a request, claim, application
 hilom	cicatrization/healing of a wound; closing up of an opening (crevice); nightfall
 himagsík	rebellion; uprising (bagsik)
@@ -1202,6 +1209,7 @@ inararo	plowed, eg run-over (arado: plow, spanish)
 inaruga	is nurturing, nurtured
 inasál	barbecued; a type of roast chicken originating from Bacolod
 inayos	to fix something
+indahín	to feel something; to sense something
 ingatan	to pay heed to something, pay attention to something
 ingay	noise, fuss
 inihahandog	is presenting/offering/dedicating
@@ -1424,6 +1432,7 @@ kakupalan	state of being nasty
 kalà	alt spelling of 'akalà'
 kalabán	opponent
 kalabanin	to fight something/someone
+kalabít	poke; strum; beckoning; tapping someone to get his/her attention; pulling a trigger
 kalabóg	thud of a heavy falling body
 kalabóso	prison
 kaladkád	drag/dragging
@@ -2416,6 +2425,7 @@ maligamgám	lukewarm; confused, chaotic
 máligáw	to lose one’s way
 maligáya	happy, joyful (ligáya)
 maligayang bati	joyful wishes (happy birthday)
+maligno	evil spirit
 maliin	consider as wrong or mistaken (minamali, minali, mamaliin)
 maliitín	to make little of, to belittle
 malikhain	creative
@@ -2793,6 +2803,7 @@ nakakainis	irritating, annoying
 nakakakilabot	fearsome
 nakakalason	poisonous
 nakakalito	confusing
+nakákaloka	drives one crazy (also (kaloka" or "kaluka")
 nakakalungkot	depressing, makes one sad (also nakalulungkot)
 nakakapahinga	relaxing
 nakakasawa	describes things that never get tiresome or old
@@ -2937,6 +2948,7 @@ natilapon	was wildly thrown
 natunaw	melted
 naturang	such, said, mentioned, aforementioned (sym in use to sarili)
 natutúnan	learned, something learned
+naulíla	bereaved
 nauunawaan	to understand
 nawá	may (expressing a wish or hope)
 nawawala	lost; something/someone lost
@@ -2945,7 +2957,7 @@ nek-nek mo	fuck you, up yours
 nga	expresses a request; affirmation marker, "truthful, certain" (maganda nga siya -> she certainly is pretty)
 ngangá	act of opening the mouth; having an open mouth
 ngasáb	eating noisily like a pig
-ngayón	now; today
+ngayón	now; today, nowadays
 ngayón lang	just now
 ngiló	tingling sensation in the teeth
 nginíg	to shake, shiver, tremble
@@ -3439,7 +3451,7 @@ pasalamatan	to thank
 pasama	from better to worse
 pasamain	to make worse
 pasarapin	to make delicious
-pasaríng	insinuation, innuendo
+pasaríng	insinuation, innuendo, quip
 pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasíkot-sikot	roundabout, ins and outs, twists and turns; way around, getting around
@@ -3477,12 +3489,14 @@ patingkarin	brighten, intensify the color
 patiyempo	through proper timing
 patnúbay	guide, companion, escort; guidance
 patók	a sure winner, a big hit
+patos	displaced; metal wedge, metal reinforcement, horseshoe
 patuloy	constant, continuous, ongoing
 patúnay	proof, testimony
 patunayan	to prove, testify, verify
 patungan	apply; put on (pinapatungan, pinatungan, papatungan)
 patungkol	(noun) dedication, commemoration
 patungo	toward, going to a certain place
+patutsáda	innuendo, gossip, negative rumor, hint (tutsada)
 patutunguhan	destination
 paulit-ulit	again and again, over and over
 paumanhín	apology, "sorry" (very formal)
@@ -3515,6 +3529,7 @@ piitan	prison
 pikón	quick to anger
 pila	line, queue; ones place in line
 pilak	silver (the metal)
+pilapil	a dike
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
@@ -3576,6 +3591,7 @@ preso	prisoner
 prito	fried
 proseso	a process
 pruweba	proof
+pucha	damn! (aka putsa)
 pugad	nest
 pugante	fugitive
 pugot	decapitated
@@ -3634,6 +3650,7 @@ putók	blast, explosion; body odor (slang, eg "may putók")
 putók batok	a meal that may cause you to have a heart attack or stroke
 putól	cut (adj)
 pútol	cut (noun, verb)
+putaa	damn! (aka pucha)
 púwa	lagsák o paglagsak (pagtatambak ng maruruming bagay)
 puwáng	gap (space)
 puwéde	can, possible (usually has an element of seeking or granting permission, kaysa sa ability)
@@ -3828,6 +3845,7 @@ sekyu	security guard (also "sikyo")
 seldâ	cell, small room as in a jail, convent, etc. [coll.]
 selos	jealousy
 sentido komun	common sense
+senyales	sign (senya)
 sényas	sign, signal
 serye	series
 si	name marker, marks name of anything with a personality
@@ -4066,6 +4084,7 @@ tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tahól	bark, as of a dog (also kahol)
 tahô	a sweet snack made with soft tofu, sago/tapioca pearls, and a caramelized sugar syrup
+taimtím	sincere, fervent, solemn
 tainga	ear (normally said as "tenga")
 taká	puzzlement, surprise
 takád	stamping of feet in anger or protest
@@ -4134,7 +4153,7 @@ tangáy	carried away (by wind, current, bird or prey, or emotions)
 tange	stupid (less harsh than tanga) also "tangi"
 tangengot	stupid
 tanggál	remove by unfastening, detaching
-tanggalin	to detach, to loosen, to take off
+tanggalín	to detach, to loosen, to take off, to eliminate
 tanggap	to accept, receive (in-, ma-, mag-)
 tanggí	refusal, denial, negation
 tanggúlan	fortification
