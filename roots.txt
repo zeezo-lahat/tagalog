@@ -467,7 +467,8 @@ maantala (antala) ma_ [verb] to be delayed
 pagkaantala (antala) pagka_ [noun] delaying; procrastinating; holding up
 walaang antala (antala) phr_ [adjective] without delay; right away
 antáy (antay) rt_ [noun] waiting
-magantáy (antay) mag_ [verb] to wait; to await; * variation of "maghintay"
+mag-antáy (antay) mag_ [verb] to wait; to await; * variation of "maghintay"
+pag-aantáy (antay) pagCV_ [noun] waiting
 antukin (antok) _in [adjective] always sleep; always drowsy; sleepyhead
 antukín (antok) _in [verb] to be sleepy; to be drowsy; * This -in- verb acts similar to an actor focus verb. See examples.
 antók (antok) rt_ [noun] sleepiness; drowsiness; tiredness
@@ -1531,6 +1532,9 @@ kabilugan ng buwán (bilog) phr_ [noun] full moon
 mabilog (bilog) ma_ [adjective] round
 mamilog (bilog) mang_ [verb] to become round
 pabilóg (bilog) pa_ [adjective/adverb] in a circle; in circles
+binat (binat) rt_ [noun] relapse
+binatin (binat) _in [verb] to cause to have a relapse
+mabinat (binat) ma_ [verb] to relapse
 bingihín (bingi) _in [verb] to deafen
 bingí (bingi) rt_ [adjective] deaf
 bingí't pipi (bingi) phr_ [noun] deaf-mute
@@ -1545,6 +1549,9 @@ magbintáng (bintang) mag_ [verb] to suspect
 binyág (binyag) rt_ [noun] baptism; christening
 binyagán (binyag) _an [verb] to baptize someone
 binyagan (binyag) _an [noun] baptism; baptismal ceremony; baptismal party
+birahín (bira) _in [verb] to pull something; to tug something; to yank something; to punch it (accelerate)
+birá (bira) rt_ [noun] strike; punch; yank
+bumirá (bira) _um_ [verb] to pull; to tug
 biruin (biro) _in [verb] to joke about something; to tease someone; to banter with someone
 biruán (biro) _an [noun] joking; teasing
 birò (biro) rt_ [noun] joke; banter; gag (joke); can you imagine
@@ -2108,6 +2115,12 @@ damuhán (damo) _an [verb] to mow something; to cut the grass for
 damó (damo) [noun] grass; pasture; [slang] marijuana
 madamó (damo) [adjective] grassy
 magdamó (damo) mag_ [verb] to mow; to cut the grass
+damot (damot) rt_ [noun] stinginess; selfishness
+ipagdamot (damot) ipag_ [verb] to be stingy about something; to be selfish about something
+karamutan (damot) ka_an [noun] stinginess; selfishness
+madamot (damot) ma_ [adjective] stingy; selfish
+napakadamot (damot) napaka_ [adjective] very stingy
+pinakadamot (damot) pinaka_ [adjective] stingiest
 dampián (dampi) _an [verb] to dab something
 dampiín (dampi) _in [verb] to touch lightly
 dampî (dampi) [noun] gentle touch
@@ -2722,6 +2735,9 @@ paggigiít (giit) pagCV_ [noun] asserting; insisting
 paggiít (giit) pag_ [noun] asserting; insisting
 kagilá-gilalás (gilalas) ka_rt_rt [adjective] marvelous; wonderful; bizarre; astounding
 gilalás (gilalas) rt_ [noun] astonishment; amazement
+gilas (gilas) rt_ [noun] elegance; mettle; gallantry; mettle
+magilas (gilas) ma_ [adjective] elegant; gallant
+magpakítang-gilas (gilas) cmp_ [verb] to show off; to showcase
 gilid (gilid) rt_ [noun] edge; border; rim; margin; side; brink; flank
 igilid (gilid) i_ [verb] to put something on its side
 itagilid (gilid) ita_ [verb] to lay something on its side
@@ -3538,6 +3554,10 @@ mahumaling (humaling) ma_ [verb] to fancy; to like
 pagkahumaling (humaling) pagka_ [noun] craze; obsession
 humaling (humaling) rt_ [noun] extreme fondness; great liking; obsession; fascination
 nakakahumaling (humaling) nakaka_ [adjective] enchanting; enthralling
+humupà (hupa) _um_ [verb] to subside; to die down; to abate; to decrease
+hupà (hupa) rt_ [noun] end of a natural disaster; subsidence
+paghupà (hupa) pag_ [noun] end of a natural disaster
+pahupain (hupa) pa_in [verb] to cause something to subside; to tone something down; to cool something/someone down (figuratively)
 hindí mahusay (husay) phr_ [adverb] poorly; badly
 husay (husay) rt_ [noun] skill; quality; perfection
 ihusay (husay) i_ [verb] to make improvements
@@ -3575,7 +3595,7 @@ taga-ibáng (iba) taga_ [adjective] from another (usually followed by a descript
 ibig (ibig) rt_ [pseudo-verb] want; like; [noun] love; wish; purpose; desire;
 ibig sabihin (ibig) phr_ [noun] meaning; [phrase] mean; want to say
 ibigin (ibig) _in [verb] to love someone/something romantically
-maibigan (ibig) ma_in [verb] to like something; to desire something
+maibigan (ibig) ma_an [verb] to like something; to desire something
 makaibig (ibig) maka_ [verb] to like
 pag-ibig (ibig) pag_ [noun] love; romantic love; romantic affection
 pag-íibigán (ibig) pagCV_an [noun] loving each other; mutual love
@@ -4401,6 +4421,7 @@ kakulitán (kulit) ka_an [noun] naughtiness
 kulitín (kulit) _in [verb] to pester someone
 kulít (kulit) rt_ [noun] persistence; stubbornness; [adjective] pesky; persistent
 makulít (kulit) ma_ [adjective] stubborn; obnoxious; pesky; persistent; naughty
+mangulít (kulit) mang_ [verb] to pester; to cause trouble
 pangungulít (kulit) pangCV_ [noun] being persistent or stubborn or pesky
 kulô (kulo) rt_ [noun] boiling; bubbling
 kumuló ang dugô (kulo) id_ [verb] to have one's blood boil; to be very angry
@@ -4444,7 +4465,7 @@ kumustahín (kumusta) _in [verb] to send regards; to inquire about the condition
 kumustá (kumusta) sp_ [greeting] how are you; hello; how is; hi
 mangumustá (kumusta) mang_ [verb] to send regards; to say hello; to inquire about someone's condition
 mapagkukunan (kunan) mapagCV_ [noun] resources
-pinagkukunan (kunan) pinagCV_a[noun] source
+pinagkukunan (kunan) pinagCV_ [noun] source
 pagkunan (kunan) pag_ [verb] to take from something
 ikunót (kunot) i_ [verb] to pucker
 kumunót (kunot) _um_ [verb] to furrow; to wrinkle; to pucker
@@ -5056,6 +5077,8 @@ paliguan (ligo) pa_an [verb] to bathe someone; to give someone/something a bath
 paliligò (ligo) paCV_ [noun] bathing
 pampaligò (ligo) pangpa_ [noun] bath water; something used for bathing
 páliguán (ligo) pa_an [noun] bathroom
+ligoy (ligoy) rt_ [noun] wordiness; beating around the bush
+magpaliguy-ligóy (ligoy) magpa_rt_rt [verb] to beat around the bush (to be indirect and wordy)
 iligpít (ligpit) i_ [verb] to put something away; to get rid of something; to kill (slang)
 ligpít (ligpit) rt_ [adjective] orderly
 lumigpít (ligpit) _um_ [verb] to put away; to make orderly
@@ -5306,6 +5329,8 @@ paliwanag (liwanag) pa_ [noun] explanation; caption
 paliwanagan (liwanag) pa_an [verb] to explain to someone; to enlighten someone
 magliyáb (liyab) mag_ [verb] to blaze; to burn with a bright flame; to flare
 liyáb (liyab) rt_ [noun] flame; flash; blaze
+loka (loka) rt_ [adjective] crazy
+nakákaloka! (loka) nakaka_ [interjection] It drives me nuts!; [adjective] drives one' nuts; crazy; wild
 kalokohan (loko) ka_an [noun] foolishness; mischief; craziness; joking around; folly; nonsense; antics
 loko (loko) rt_ [noun] crazy person; lunatic; [adjective] crazy; insane; demented; mad
 lokohin (loko) _in [verb] to cheat someone; to trick someone; to fool someone; to deceive someone; to cheat on someone; to have an affair on someone; * focus on the person being cheated/cheated on
@@ -5555,6 +5580,9 @@ manahin (mana) _in [verb] to inherit something
 pamana (mana) pa_ [noun] inheritance; legacy; heritage
 pamanahan (mana) pa_an [verb] to leave an inheritance
 tagapagmana (mana) tagapag_ [noun] heir
+magmando (mando) mag_ [verb] to command
+mando (mando) rt_ [noun] command
+mánduhán (mando) mang_ [verb] to command; to order
 ipagmaneho (maneho) ipag_ [verb] to drive someone (in a vehicle)
 magmaneho (maneho) mag_ [verb] to drive
 makapagmaneho (maneho) makapag_ [verb] to be able to drive
@@ -5822,6 +5850,8 @@ pagpapalà (pala) [noun] blessing; a prayer blessing someone
 pala (pala) rt_ [noun] shovel; spade
 palà (pala) rt_ [noun] blessing; grace; favor
 palá (pala) rt_ [enclitic] after all; surprisingly; indeed; so; oh, I just realized; said after a fact one has just discovered
+pagpalain (pala) pag_in [verb] to bless someone/something
+pinagpalá (pala) pinag_ [adjective] blessed
 siyangá palá (pala) [expression] by the way
 bukás-palad (palad) cmp_ [adjective] generous; charitable; with open palms
 kapalaran (palad) ka_an [noun] chance; luck; fate; destiny
@@ -5906,15 +5936,21 @@ ipinagkaloób na pangalan (pangalan) [noun] given name
 kapangalan (pangalan) ka_ [noun] someone with the same name; one's namesake
 magpangalan (pangalan) mag_ [verb] to name
 nakapangalan (pangalan) naka_ [adjective] named; in person's name
-waláng pangalan (pangalan) [adjective] anonymous
+waláng pangalan (pangalan) phr_ [adjective] anonymous
 hindí mapanganib (panganib) phr_ [adjective] not dangerous; safe
 isapanganib (panganib) isa_ [verb] to threaten; to endanger
 itayá sa panganib (panganib) phr_ [verb] to risk danger
 kapanganibán (panganib) ka_an [noun] danger; dangerous situation
 labás sa panganib (panganib) phr_ [phrase] out of danger
-manganib (panganib) ma_ [verb] to be in danger; to be threatened
+malapangarap (pangarap) mala_ [adjective] dreamlike
+manganib (panganib) mang_ [verb] to be in danger; to be threatened
 mapanganib (panganib) ma_ [adjective] dangerous
 panganib (panganib) rt_ [noun] danger; risk; crisis
+mangarap (pangarap) mang_ [verb] to dream; to aspire
+mapangarapin (pangarap) ma_in [adjective] visionary
+pangangarap (pangarap) pangCV_ [noun] dreaming
+pangarap (pangarap) rt_ [noun] aspiration; ambition; dream; vision
+pangarapin (pangarap) _in [verb] to dream of something
 magpanggáp (panggap) mag_ [verb] to pretend
 panggáp (panggap) rt_ [noun] pretending; pretension; pretense; [adjective] pretend
 pagpapanggáp (panggap) pagpa_ [noun] pretense; pretending
@@ -6232,6 +6268,9 @@ maipintá (pinta) mai_ [verb] to be able to paint something
 nakapintá (pinta) naka_ [adjective] painted
 pintahán (pinta) _an [verb] to paint something
 pintá (pinta) rt_ [noun] painting
+kapintasán (pintas) ka_an [noun] flaw; defect
+pintasán (pintas) _an [verb] to criticize
+pintás (pintas) rt_ [noun] negative criticism; fault/flaw; defect; critique
 mapirmahán (pirma) ma_an [verb] to be able to sign (by adding one's name or signature) something
 pirmado (pirma) [adjective] signed
 pirmahán (pirma) _an [verb] to sign (by adding one's name or signature) something
@@ -6371,6 +6410,8 @@ puring-purì (puri) rt_na_rt [adjective] full of praise (for)
 purì (puri) rt_ [noun] praise; credit; compliment; commend; fame
 mapuról (purol) ma_ [adjective] blunt; dull
 puról (purol) rt_ [noun] bluntness; dullness (of blade or intellect)
+magpursigí (pursigi) mag_ [verb] to pursue
+pursigí (pursigi) rt_ [noun] persevering; pursuing
 Araw ng mga Pusò (puso) phr_ [noun] Valentine's Day (holiday)
 atake sa pusò (puso) phr_ [noun] heart attack; cardiac arrest
 buong-pusò (puso) cmp_ [adjective] wholehearted; [adverb] heartily; whole-heartedly
@@ -6908,6 +6949,10 @@ kasangkót (sangkot) ka_ [noun] fellow person implicated
 masangkót (sangkot) ma_ [verb] to implicate someone (OF); to be implicated (AF)
 pagkakásangkót (sangkot) pagkaka_ [noun] implication; involvement
 sangkót (sangkot) rt_ [adjective] involved in; implicated; [noun] implication
+isanglâ (sangla) i_ [verb] to pawn something; to mortgage something; to pledge something;
+magsanglâ (sangla) mag_ [verb] to mortgage; to pawn
+sanglaan (sangla) _an [noun] pawnshop
+sanglâ (sangla) rt_ [noun] pledge; bond; security; mortgage
 isanib (sanib) i_ [verb] to unite something with another
 magkasanib (sanib) magka_ [adjective] overlapping; to have overlap
 magsanib (sanib) mag_ [verb] to coalesce; to fuse
@@ -8793,6 +8838,7 @@ tuto (tuto) rt_ [noun] learning; gaining knowledge or skill
 itutok (tutok) i_ [verb] to point a weapon at; to focus; to aim at
 manutok (tutok) ma_ [verb] to hold someone up at gunpoint; to rob
 nakatutók (tutok) naka_ [adjective] focused on; aimed at
+pagtutók (tutok) pag_ [noun] focusing; focusing on
 tumutok (tutok) _um_ [verb] to concentrate; to focus
 tutukan (tutok) _an [verb] to point a weapon at something; to focus on something; to aim at something
 tutók (tutok) rt_ [adjective] focused on something
@@ -8859,21 +8905,21 @@ maugát (ugat) [adjective] veiny
 palaugatan (ugat) [noun] etymology
 ugát (ugat) rt_ [noun] root; origin; source; vein; artery
 iugnáy (ugnay) i_ [verb] to associate; to relate to
-kaugnayan (ugnay) [noun] relation; association; relationship; affinity; relevance
-kaugnáy (ugnay) [adjective] allied; related; relative; incidental
+kaugnayan (ugnay) ka_an [noun] relation; association; relationship; affinity; relevance
+kaugnáy (ugnay) ka_ [adjective] allied; related; relative; incidental
 mag-ugnáy (ugnay) mag_ [verb] to associate; to relate
 magkakaugnáy (ugnay) magkaka_ [adjective] connected; coherent
 makipag-ugnayan (ugnay) makipag_an [verb] to associate with; to coordinate
 pag-ugnayín (ugnay) pag_in [verb] to relate; to attach
-pagkakaugnáy (ugnay) [noun] association; relationship
-pakíkipag-ugnayan (ugnay) [noun] communication; coordination
-pang-ugnáy (ugnay) [grammar] conjunction
-ugnayan (ugnay) [noun] contact; correlation; relationship
+pagkakaugnáy (ugnay) pagkaka_ [noun] association; relationship
+pakíkipag-ugnayan (ugnay) pakikipag_an [noun] communication; coordination
+pang-ugnáy (ugnay) grammar_ [grammar] conjunction
+ugnayan (ugnay) _an [noun] contact; correlation; relationship
 ugnáy (ugnay) rt_ [noun] relation; association; relevance
-kauhawán (uhaw) [noun] thirst
+kauhawán (uhaw) ka_an [noun] thirst
 mauhaw (uhaw) ma_ [verb] to be thirsty
-nauuhaw (uhaw) [adjective] thirsty
-pagkauhaw (uhaw) [noun] thirst; thirsting
+nauuhaw (uhaw) naCV_ [adjective] thirsty
+pagkauhaw (uhaw) pagka_ [noun] thirst; thirsting
 uhaw (uhaw) rt_ thirst
 uháw (uhaw) rt_ thirsty
 iukit (ukit) i_ [verb] to engrave something; to carve out something; to inscribe something; to etch something
@@ -8882,21 +8928,21 @@ ukit (ukit) rt_ [noun] carving; etching
 ukitín (ukit) _in [verb] to carve something; to engrave something
 umukit (ukit) _um_ [verb] to carve; to etch; to engrave
 iukol (ukol) i_ [verb] to allot; to attribute; to dedicate; to devote
-kaukulán (ukol) [grammar] case; [noun] relation; [adjective] related; associated
-kinaúukulan (ukol) [noun] authorities
+kaukulán (ukol) grammar_ [grammar] case; [noun] relation; [adjective] related; associated
+kinaúukulan (ukol) kinaCV_an [noun] authorities
 mag-ukol (ukol) mag_ [verb] to set aside
 nakaukol (ukol) naka_ [adjective] intended for; destined; proper; suitable
-pag-uukol (ukol) [noun] use; application
-pang-ukol (ukol) [grammar] preposition
+pag-uukol (ukol) pagCV_ [noun] use; application
+pang-ukol (ukol) grammar_ [grammar] preposition
 ukol (ukol) rt_ [adjective] intended for; about; destined; proper; suitable
-inulán (ulan) rained
+inulán (ulan) _in rained
 magpaulán (ulan) magpa_ [verb] to get oneself wet in the rain
 maulanán (ulan) ma_an [verb] to be rained on; to get wet by rain
-maulán (ulan) [adjective] rainy
-pag-ulán (ulan) [noun] raining; rain event
+maulán (ulan) ma_ [adjective] rainy
+pag-ulán (ulan) pag_ [noun] raining; rain event
 paulanán (ulan) pa_an [verb] to rain down; to shower
-tag-ulán (ulan) [noun] rainy season
-túbig-ulán (ulan) [noun] rainwater
+tag-ulán (ulan) tag_ [noun] rainy season
+túbig-ulán (ulan) cmp_ [noun] rainwater
 ulán (ulan) rt_ [noun] rain
 umulán (ulan) _um_ [verb] to rain
 iulat (ulat) i_ [verb] to report something
@@ -8904,13 +8950,13 @@ kamánunulát (ulat) [noun] co-author; co-writer
 mag-ulat (ulat) mag_ [verb] to report
 maiulat (ulat) mai_ [verb] to be able to report something
 mapaulat (ulat) mapa_ [verb] to report
-pag-uulat (ulat) [noun] reporting; report
-tagapag-ulat (ulat) [noun] reporter
+pag-uulat (ulat) pag_ [noun] reporting; report
+tagapag-ulat (ulat) tagapag_ [noun] reporter
 ulat (ulat) rt_ [noun] statement; report; bulletin
 mangulilà (ulila) mang_ [verb] to feel lonely
 maulilà (ulila) ma_ [verb] to be orphaned; to become orphaned
-pangungulilà (ulila) [noun] loneliness; melancholy; bereavement
-ulilang lubós (ulila) [noun] orphan; orphan child; * literally, completely orphaned, meaning both parents are gone
+pangungulilà (ulila) pangCV_ [noun] loneliness; melancholy; bereavement
+ulilang lubós (ulila) phr_ [noun] orphan; orphan child; * literally, completely orphaned, meaning both parents are gone
 ulilà (ulila) rt_ [noun] orphan
 maulinigan (ulinig) ma_an [verb] to overhear something
 ulinig (ulinig) rt_ [noun] sense of hearing
@@ -8925,11 +8971,11 @@ ulít-ulitin (ulit) _in [verb] to keep repeating; to reiterate
 umulit (ulit) _um_ [verb] to repeat; to do again; to happen again
 isaulo (ulo) isa_ [verb] to memorize something
 magsaulo (ulo) magsa_ [verb] to memorize
-may saltík sa ulo (ulo) [phrase] crazy; sick in the head
+may saltík sa ulo (ulo) phr_ [phrase] crazy; sick in the head
 pangulo (ulo) pang_ [noun] president
 pauluhín (ulo) pa_in [verb] fill to overflow
 pauló (ulo) pa_ [adjective] full to overflowing
-tigás-ulo (ulo) [adjective] stubborn; hard headed
+tigás-ulo (ulo) cmp_ [adjective] stubborn; hard headed
 ulo (ulo) rt_ [noun] head
 ulunan (ulo) _an [noun] head; top / front / leading position
 kaninang umaga (umaga) phr_ [adverb] this morning; earlier this morning
@@ -8988,6 +9034,8 @@ maunlád (unlad) ma_ [adjective] productive; progressive; thriving
 pag-unlád (unlad) pag_ [noun] development
 pagpapaunlád (unlad) pagpapa_ [noun] development; developing; progression
 paunlarín (unlad) pa_in [verb] to develop something
+iuntóg (untog) i_ [verb] to bump one's head on something
+mauntóg (untog) ma_ [verb] to accidentally bump one's head
 mangupahan (upa) mang_an [verb] to rent; to be renting
 maupahan (upa) ma_an [verb] to be available for rent
 páupahán (upa) pa_an [noun] a place for renting; something for rent
