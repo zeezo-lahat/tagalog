@@ -1739,6 +1739,10 @@ Bulagâ! (bulaga) rt_ [interjection] Boo!
 bumulagâ (bulaga) _um_ [verb] to take by surprise
 mabulagá (bulaga) ma_ [verb] to be caught unaware; to be caught by surprise; to be startled
 bulagaín (bulaga) _in [verb] to surprise; to catch unaware
+bulô (bulo) rt_ [noun] calf; young cow or carabao
+kabuluhán (bulo) ka_an [noun] worth; meaning
+makabuluhán (bulo) maka_an [adjective] meaningful; relevant; significant
+waláng kabuluhán (bulo) phr_ [adjective] senseless
 bulukín (bulok) _in [verb] to let rot
 bulók (bulok) rt_ [adjective] rotten; spoiled; corrupt morally; of poor quality; decaying; bad
 bumulók (bulok) _um_ [verb] to gurgle; to bubble
@@ -6100,6 +6104,8 @@ pasukan (pasok) _an [verb] to enter something into; to go to work; to go to scho
 pasukin (pasok) _in [verb] to enter something; to go into something
 pasukán (pasok) _an [noun] start of the school year; the school year; entrance; entryway; entry
 pumasok (pasok) _um_ [verb] to go in; to enter; to get in; to go to school or work; to be hired as
+paspás (paspas) rt_ [noun] gust
+paspasán (paspas) _an [verb] to dust something off; to attack something
 pasyá (pasya) rt_ [noun] decision
 mapagpasyahán (pasya) mapag_an [verb] to decide something; to come to a decision about something
 ipasyál (pasyal) i_ [verb] to take someone for a walk / stroll; to take someone to places; to take someone on a tour
