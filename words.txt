@@ -144,6 +144,7 @@ ambág	contribution
 ambagan	contribution by several (diff. from ambagán)
 ambagán	to contribute
 ambon	drizzle, light rain
+amíhan	cool northeasterly airflow
 amin	ours (exclusive)
 ámin	confess, admit, acknowledge
 aminin	to own up to/admit/confess something (inamin, inaamin, aaminin)
@@ -363,6 +364,7 @@ bangág	to be high (on drugs, etc)
 bangayán	squabble
 banggâ	collision, bang into
 banggít	mention
+bangháy	plot, plan, story
 bangín	ravine, gorge, chasm
 bangís	savageness, viciousness, fierceness, ferociousness
 bangkâ	a type of outrigger boat (mag, mang, pa)
@@ -413,7 +415,7 @@ batang-hamóg	street kids
 batás	law
 batasan	legislature (lawmakers)
 batay	based on, by, with
-batayán	standard, criterion
+batayán	standard, criterion, basis (batay)
 bátáyan	ground, basis, cause
 Bathalà	God; deity
 bathaluman	deity
@@ -450,7 +452,7 @@ baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
 bayong	a large bag; bag or sack made of woven palm leaves
 bayot	bakla
-baywang	waist
+baywáng	waist
 benta	sell
 berde	green
 berde ang dugô	gay, homosexual (literally translated as "green blooded")
@@ -910,6 +912,7 @@ gúlok	machete, sword
 gulóng	wheel
 gúlong	to roll
 gulpí	to beat up; to hit, strike
+gulumihan	disturbance or disorder of the mind, especially from fear or worry (gulomi)
 gumagaling	improving
 gumagana	functioning properly
 gumalà	to roam around
@@ -964,6 +967,7 @@ halímaw	beast, monster
 halimbawâ	example, "for example"
 halimuyak	fragrance, scent; whiff; spreading of scent, etc.
 halina	Come along!, Let's go!, Come here!
+halintulad	parallel, analogous
 halip	stead, alternative, substitute (sa halip: instead)
 hálos	almost, nearly; approximately, about
 hámak	lowly, humble; mean, petty, shabby
@@ -1055,7 +1059,7 @@ himayin	to separate grains of corn from the cob, peas from a pod, etc.
 hímig	tune, melody; note
 himláy	slumber
 himlayan	bed; cemetery
-himok	inducement, persuasion, enticement
+himok	persuasion, urging, pleading, attempting to convince
 himpapawíd	atmospheric space, the space above the ground, or esp. above rooftops
 hinaan	to lower the volume
 hinaíng	complaint, grievance, frustration, supplication, earnest request (daíng)
@@ -1462,6 +1466,7 @@ kalawakan	space, especially referring to outer space
 kalawang	rust
 kalayaan	freedom
 kalbaryo	calvary; used to denote extreme suffering, especially mental suffering
+kaldero	pot
 kalí	peace, tranquility, quiet
 kalidad	quality
 kalikasan	nature
@@ -1523,6 +1528,7 @@ kanlungan	to provide with shelter against weather
 kanlúran	west
 kanta	song
 kantá	to sing
+kantiyáw	banter
 kanto	corner, street corner
 kantót	having sex, sex act (vulgar); fuck!
 kantutín	to have sex with someone/something, to have sex with someone
@@ -1991,6 +1997,7 @@ litanya	litany
 litó	confused
 litong-lito	 very confused.
 litráto	picture
+liwalíw	leisure
 liwanag	light, shine
 liwayway	dawn
 liyab	blaze, flame
@@ -2009,6 +2016,8 @@ lugár	place, site, point, spot, region, location, seat, space
 lugí	financial loss
 lugmók	prostrate and helpless
 lúho	luxury
+luhò	luxury, whim
+maluhò	luxurious
 luhod	act of kneeling; kissing the hand of elders, or ecclesiastics accompanied by kneeling
 luhóso	extravagant
 luko	crazy (loko)
@@ -2059,7 +2068,7 @@ lunos	pity, compassion
 lunti	green
 luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
-lupit	cruelty, mercilessness, savageness, harshness
+lupít	cruelty, mercilessness, savageness, harshness
 lusaw	to melt, dissolve
 lusóg	healthiness
 lusong	descent, sinking
@@ -2373,6 +2382,7 @@ makatulog	to be able to sleep
 makatulong	helpful; to be able to help
 makatuturán	significant, of value  
 makatwiran	rational, reasonable
+makausap	to talk to someone (ma-, object focus, ma-kausap: ng -> ang)
 makiisa	to join with others in some action (nakiisa, nakikiisa, makikiisa)
 makíkipag-úsap	will converse with, communicate with (actor/talker focus, typically initiator of discussion)
 makikipagsapalaran	hazard; risk; take a chance (jointly)
@@ -2547,6 +2557,7 @@ maông	jeans
 mapa-oo	to convince (?)
 mápa	map
 mapag-usápan	to discuss, to settle matters, to be talked about
+mapagbalátkayo	artful, deceiptful
 mapágbigáy	generous
 mapagkámalán	to misunderstand; to misconstrue. <napagkámalán, napápagkámalán, mapápagkámalán>
 mapagkasunduan	to agree
@@ -2740,6 +2751,7 @@ mithiin	crave for, long for keenly, desire vehemently
 módo	manners, civility (asal, ugalì)
 mongha	nun
 morena	brown skinned (also kayumanggi)
+mudmód	distribution
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
 mulát	with open eyes; educated; trained (dilát)
@@ -3141,6 +3153,7 @@ pagkámalán	to mistake someone/something (for something else); to misconstrue s
 pagkamapanlikha	originality
 pagkamasarili	egotism
 pagkamatáy	death
+pagkásunduán	to agree on something
 pagkat	because, whereas, considering that (sa pagkat, sapagkat)
 pagkatalo	defeat
 pagkatao	character, nature/essence/being (of a person)
@@ -3276,6 +3289,7 @@ palakasin	to strengthen something
 palakól	axe
 palamigan	a cooler
 palamigin	to chill, refrigerate, make cold, cool (pinalamig, pinalalamig, palalamigin) 
+palamutî	decoration
 palangiti	always smiling
 palapág	downwards; floor (storey) of a building
 palapit	oncoming, approaching
@@ -3283,6 +3297,7 @@ palásingsingan	ring finger
 palatanong	inquisitive
 palatanungan	questionnaire
 palatawa	has a tendency to always laugh
+palatuntunan	statute
 palatutol	having a tendency to correct others
 palautós	bossy
 palawakin	to expand even more
@@ -3366,12 +3381,14 @@ pangambá	fear, anxiety, thread, apprehension (a root?)
 pangambahán	to threaten somewhere/something (amba)
 panganay	first-born child; first-born (adj)
 pangangalakal	scavenging
+pangangantiyáw	bantering, joking
 pangangarap	dreaming
 pangangaso	hunting
 panganib	danger, risk, crisis (this is a root)
 pangáral	sermon, serious talk, moral lecture
 pangarap	dream as in wish or hope (not sleeping dream) (root)
 pangarapin	to dream of something
+pangatníg	conjunction (grammar)
 panggabi	for the evening
 panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
@@ -3514,7 +3531,7 @@ pauwi	on the way home
 pauwiin	to send home
 pawa	nothing else than, entirely, purely; all
 páwis	sweat, perspiration
-pawisan	sweaty
+pawisán	sweaty
 payag	agreement, consent
 payagan	agree, acquiesce,  accept; allow
 payák	simple, mere, basic, with nothing added
@@ -3632,6 +3649,7 @@ punò	tree; chief, leader; origin, source, base
 punô	full, filled
 puntahan	to go to a person or place
 puntód	mound; tomb
+puntos	"points" a numerical score or record, such as points in a game, etc.
 pupulsuhán	wrist
 puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
@@ -3674,6 +3692,7 @@ puyó	cowlick; tuft
 pwersa	force, strength, pressure (also 'puwersa')
 rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
+rebulto	statue
 reklámo	complain
 repaso	review, going over
 reseta	prescription
@@ -3708,6 +3727,7 @@ saan man	wherever
 saan-saan	in/at what place; everywhere
 saanmán	everywhere
 sabá	a type of banana
+sabád	interruption, interrupt
 sabák	blind attack on someone or something
 sabat	interrupt
 sabatin	to interrupt
@@ -3838,6 +3858,7 @@ sasabay	will go together
 sasakyan	will ride (sakay)
 sasakyán	vehicle
 sasáma	will join/accompany
+saserdote	priest
 sawà	satiated, fed up
 sawâ	python
 sawáy	prohibition, restraint; reprimand, rebuke
@@ -3910,7 +3931,7 @@ singa	act of blowing one's nose
 singaw	steam, fog
 singganda	as beautiful as
 singhap	loss of breath, gasping for breath
-singil	price quoted, charge, collection of payment of debt (-um-:-in)
+singíl	price quoted, charge, collection of payment of debt (-um-:-in)
 singkahulugan	synonym
 singsíng	a ring (jewelry)
 sinibak	fired, dismissed, axed (slang)
@@ -3989,6 +4010,7 @@ sulok	corner, including metaphorically, eg "lahat ng sulok ng pilipinas": every 
 súlong	advance, progress (as military); go ahead!
 sulpót	to emerge suddenly or unexpectedly
 suma	sum
+sumábad	to interrupt or butt in
 sumabit	to get lodged, caught
 sumailalim	to go under, to submit
 sumailalim	to undergo (sa-ilalim)

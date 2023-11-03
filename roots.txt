@@ -12,6 +12,9 @@ abangán (abang) _an [verb] to watch out for; to keep an eye out for
 abáng (abang) rt_ [noun] watcher; lookout (person); someone watching and waiting for something
 mag-abáng (abang) mag_ [verb] to wait for; to watch out for; to keep an eye out for; * Usually meaning to watch or wait for a ride of person to arrive
 nakaabáng (abang) naka_ looking for; keeping an eye out
+abay (abay) rt_ [noun] best man; maid of honor; bridesmaid; groomsman; companion
+pang-abay (abay) pang_ [grammar] adverb
+umabay (abay) _um_ [verb] to escort; to be the best man/woman at a wedding
 aberyá (aberya) rt_ [noun] snag; unexpected problem; obstacle;
 magka-aberyá (aberya) magka_ [verb] to encounter an unexpected problem; to hit a snag
 abuhan (abo) _an [noun] ash tray; ash
@@ -237,7 +240,7 @@ hindí ko alám (alam) phr_ I don't know
 ipaalám (alam) ipa_ [verb] to disclose something; to inform of something; to let someone know something
 kaalamán (alam) ka_an [noun] knowledge; information; intelligence; idea; statistics
 kaalám-alám (alam) ka_rt_rt having any knowledge (of something)
-kinalaman (alam) kin_an [noun] connection to something; regarding; a share (of something); knowledge about something
+kinalaman (alam) kina_an [noun] connection to something; regarding; a share (of something); knowledge about something
 lákompaké (alam) phr_ [expression] I don't care; * short for "wala akong pakialam"
 maalam (alam) ma_ [adjective] knowledgeable; wise; well-versed
 makaalám (alam) maka_ [verb] to be able to know
@@ -1341,8 +1344,8 @@ bayani (bayan) sp_ [noun] hero SS
 kababayan (bayan) ka_an [noun] compatriot; countryman; countrywoman; fellow citizen
 kabayanan (bayan) ka_an [noun] downtown; economic and political center of a town SS
 kwenton bayan (bayan) phr_ [noun] folklore
-makabayan (bayan) [adjective] patriotic
-makamámamayán (bayan) [adjective] pro-people; for the people SS
+makabayan (bayan) maka_ [adjective] patriotic
+makamámamayán (bayan) makamangCV_ [adjective] pro-people; for the people SS
 mámamayán (bayan) mangCV_ [noun] citizen; resident of a city/town; national SS
 pagkamakabayan (bayan) pagkamaka_ [noun] being patriotic; being nationalistic; patriotism
 pambayan (bayan) pang_ [adjective] civic
@@ -1350,7 +1353,7 @@ pámayanán (bayan) pang_an [noun] community SS
 sámbayanán (bayan) sang_an [noun] the whole town; society SS
 tagabayan (bayan) taga_ [noun] townsperson; town resident
 táong-bayan (bayan) cmp_ [noun] townspeople; townsman; community
-táumbayan (bayan) compound [noun] townspeople
+táumbayan (bayan) cmp_ [noun] townspeople
 bayanihan (bayani) _an [noun] mutual help; helping each other out; helping one's fellow countryman; community support; community spirit; "being a hero"; giving assistance without compensation
 kabayanihan (bayani) ka_an [noun] heroism
 mamayani (bayani) mang_ [verb] to prevail
@@ -2081,13 +2084,20 @@ pakikiramay (damay) pakiki_ [noun] condolence; compassion; going out of one's wa
 damdamin (damdam) _in [noun] feelings; sentiment; emotions
 damdám (damdam) rt_ [noun] feeling
 iparamdám (damdam) ipa_ [verb] to cause someone to feel something
+karamdaman (damdam) ka_an [noun] sickness; disorder; illness; ailment;
 madamdamin (damdam) ma_in [adjective] expressive; emotional; passionate
 magdamdám (damdam) mag_ [verb] to feel hurt; to take offense; to resent
 magparamdám (damdam) magpa_ [verb] to make one's presence known; to reveal
+makaramdám (damdam) maka_ [verb] to feel (physically or emotionally); to be aware of
 makiramdám (damdam) maki_ [verb] to sharpen one's senses
+pagdadamdám (damdam) pagCV_ [noun] hurt feelings; grievance
+pagpaparamdám (damdam) pagpapa_ [noun] sensing
+pakiramdám (damdam) paki_ [noun] feeling; sensation
 pakiramdamán (damdam) paki_an [verb] to sharpen one's senses directed toward something; to listen for something
+pandamdám (damdam) pang_ [noun] interjection (grammar); sense; feeling
 pangungusap na padamdám (damdam) phr_ [grammar] interjection; exclamatory sentence
 paramdám (damdam) pa_ [noun] hint; insinuation
+ramdám (damdam) _ [adjective] felt
 dami (dami) rt_ [noun] amount; number; quantity; volume; a lot
 dami-dami (dami) rt_rt [adjective] huge amount; huge number; so many
 damihan (dami) _an [verb] to increase the quantity of something
@@ -3068,6 +3078,10 @@ humantóng (hantong) _um_ [verb] to stop; to end up; to result in; to culminate 
 kahahantungan (hantong) kaCV_an [noun] the end result; stopping point; final resting place; the final result
 hantungan (hantong) _an [noun] stopping point; final resting place
 hantóng (hantong) [noun] result; end
+hapdî (hapdi) rt_ [noun] stinging pain
+humapdî (hapdi) _um_ [verb] to sting in pain
+mahapdî (hapdi) ma_ [adjective] painful; hurting; stinging pain
+paghapdî (hapdi) pag_ [noun] stinging
 Haponés (hapon) _ [noun] Japanese; native of Japan
 Hapón (hapon) rt_ [noun] Japanese; Japan
 dápit-hapon (hapon) cmp_ [adjective] late afternoon; twilight; dusk
@@ -3143,6 +3157,8 @@ hatulan (hatol) _an [verb] to sentence; to convict; to condemn
 humatol (hatol) _um_ [verb] to judge
 ihatol (hatol) i_ [verb] to decide
 mahatulan (hatol) ma_an [verb] to be sentenced; to be judged
+paghatol (hatol) pag_ [noun] judging
+tagahatol (hatol) taga_ [noun] referee; judge
 hawa (hawa) rt_ [noun] infection; contagion
 hawahan (hawa) _an [verb] to infect someone else with a disease / illness
 magkahawaan (hawa) magka_an [verb] to get infected (plural)
@@ -3275,6 +3291,9 @@ pagkahimbíng (himbing) pagka_ [noun] having slept deeply/soundly
 himig (himig) rt_ [noun] tune; melody; rhythm of music; intonation; trace (of sound)
 humimig (himig) _um_ [verb] to sing a tune; to croon
 ihimig (himig) i_ [verb] to sing a tune; to croon
+himod (himod) rt_ [noun] licking
+himurin (himod) _in [verb] to lick something; to lap something up
+humimod (himod) _um_ [verb] to lick
 hinaan (hina) _an [verb] to lower the volume
 hinà (hina) rt_ [noun] weakness; softness
 huminà (hina) _um_ [verb] to become weak; to soften; to ebb; to slow; to decline
@@ -3689,6 +3708,10 @@ ilawán (ilaw) _an [noun] lamp; illumination
 kalyeng ilaw (ilaw) phr_ [noun] street light
 pailaw (ilaw) pa_ [adjective] providing lights
 umilaw (ilaw) _um_ [verb] to light up
+ilíng (iling) rt_ [noun] shaking one's head to say no
+mapailíng (iling) mapa_ [verb] to involuntarily or unconsciously shake one's head No
+pailíng-ilíng (iling) pa_rt_rt [adverb] while shaking one's head to say No
+umilíng (iling) _um_ [verb] shake one's head to say No; shake the head as a sign of disagreement
 imbakan (imbak) _an [noun] storehouse
 imbakín (imbak) _in [verb] to preserve something; to stock up on something
 imbák (imbak) rt_ [noun] conservation; storage
@@ -4322,6 +4345,10 @@ kiskisan (kiskis) _an [noun] rice mill; friction
 kiskisín (kiskis) _in [verb] to rub something; to grind something; to grind something smooth
 kiskís (kiskis) rt_ [noun] friction
 kumiskís (kiskis) _um_ [verb] to rub
+kisláp (kislap) rt_ [noun] sparkle; glitter; sheen; luster; flash
+kumisláp (kislap) _um_ [verb] to sparkle; to twinkle
+makisláp (kislap) ma_ [adjective] sparkling; brilliant
+pakislapín (kislap) pa_in [verb] to light something up; to flare up
 makikita mo! (kita) phr_ [interjection] you'll see!
 ipakita (kita) ipa_ [verb] to show someone something; to display something; to indicate; to demonstrate; * focus on the thing being shown
 kita (kita) rt_ [noun] earnings; profits; wages; income; seeing; see
@@ -4498,11 +4525,18 @@ ikuskós (kuskos) i_ [verb] to rub; to scrub
 kusutín (kusot) _in [verb] to crumple something; to rumple something; to crush something; to squint something (one's eyes)
 kusót (kusot) rt_ [adjective] crumpled; wrinkled
 magkusót (kusot) mag_ [verb] to rub; to scrub; to wash clothes by rubbing; to crumple
-ikuwento (kuwento) i_ [verb] to narrate; to tell a story; to tell stories
-kuwento (kuwento) rt_ [noun] story
+deskuwento (kuwento) des_ [noun] discount
+ikuwento (kuwento) i_ [verb] to narrate something; to tell a/the story about something; to tell stories about something
+kuwentista (kuwento) sp_ [noun] short story teller
+kuwento (kuwento) rt_ [noun] story; telling a story
 magkuwento (kuwento) mag_ [verb] to tell a story; to narrate
-maikuwento (kuwento) mai_ [verb] to by able to tell something; to be able to narrate a story about something; to be able to relate a story about something
-pagkukuwento (kuwento) pagCV_ [noun] story telling; story; reciting; recounting something
+maikuwento (kuwento) mai_ [verb] to be able to tell something; to be able to narrate a story about something; to be able to relate a story about something
+makapagkuwento (kuwento) makapag_ [verb] to be able to tell a story; to be able to narrate
+makipagkuwentuhan (kuwento) makipag_an [verb] to chat together; to tell stories together
+makwento (kuwento) ma_ [adjective] talkative; a story teller
+makwento (kuwento) ma_ [verb] to be able to tell the story of something
+pagkukuwento (kuwento) pagCV_ [noun] story telling; story; reciting; recounting something; chatting
+pagkukuwentuhán (kuwento) pagCV_an [noun] chatting with each other; telling each other stories
 kuyog (kuyog) rt_ [noun] swarm
 kuyugin (kuyog) _in [verb] to swarm something/someone
 ilaán (laan) i_ [verb] to devote something; to dedicate something
@@ -4872,6 +4906,10 @@ lapat (lapat) rt_ [adjective] well-adjusted; exact
 lapatan (lapat) _an [verb] to apply onto something; to administer (ex(lapat) a pill, a treatment, etc.)
 lapát (lapat) rt_ [noun] strips of bamboo
 maglapat (lapat) mag_ [verb] to apply
+gitlapì (lapi) git_ [grammar] infix
+hulapì (lapi) hu_ [grammar] suffix
+panlapì (lapi) pang_ [grammar] affix
+unlapì (lapi) un_ [grammar] prefix
 dí-paglapit (lapit) cmp_ [noun] aloofness
 ilapit (lapit) i_ [verb] to get closer to something; to move closer to something; to put something closer to something
 kalapít (lapit) ka_ [noun] nearby person; nearby place; [adjective] nearby; neighboring
@@ -5861,11 +5899,13 @@ bukás-palad (palad) cmp_ [adjective] generous; charitable; with open palms
 kapalaran (palad) ka_an [noun] chance; luck; fate; destiny
 kapós-palad (palad) cmp_ [adjective] poor
 kasamaáng-palad (palad) cmp_ [noun] bad luck; misfortune
+magkapalad (palad) [verb] to have the good fortune; to be fortunate; to be blessed
 mapalad (palad) ma_ [adjective] blessed
 pakikipagsápalarán (palad) pakikipagsa_an [noun] adventure; venture
 palad (palad) rt_ [noun] palm (of the hand); fate; chance; destiny
 palarin (palad) _in [verb] to bless someone; to prosper; to get lucky
 sápalarán (palad) sa_an [noun] venturing; gambling
+sawimpalad (palad) [noun] experiencing misfortune or bad luck; person of misfortune
 makapalág (palag) maka_ [verb] to be able to squirm; to react (to being hurt)
 nakapalág (palag) naka_ [adjective] squirming
 pagpalág (palag) [noun] squirming
@@ -6372,7 +6412,7 @@ puná (puna) rt_ [noun] observation; comment; criticism; remark; pointed opinion
 ipamunas (punas) ipang_ [verb] to use something for wiping
 ipunas (punas) i_ [verb] to use for wiping
 magpunas (punas) mag_ [verb] to wipe
-pamunas (punas) [noun] rag; wiping instrument
+pamunas (punas) pang_ [noun] rag; wiping instrument
 punas (punas) rt_ [noun] wipe; wiping
 punasan (punas) _in [verb] to wipe something
 magpunít (punit) mag_ [verb] to tear
@@ -6755,6 +6795,12 @@ pasalamat (salamat) pa_ [noun] thanks; thanking; acknowledgement
 pasalamatan (salamat) pa_an [verb] to thank someone; to acknowledge someone; to appreciate someone/something
 pasasalamat (salamat) paCV_ [noun] gratitude; thanksgiving; thanking
 salamat (salamat) rt_ [expression] thank you; thanks
+nakasalampák (salampak) naka_ [adjective] squatting on the ground; flopped down on
+salampák (salampak) rt_ [noun] flopping down; falling to the ground on one's butt;
+isalang (salang) i_ [verb] to roast something over a fire; to bake something
+nakasalang (salang) naka_ [adjective] baking; steaming; roasting
+salangin (salang) _in [verb] to touch on something; to disturb something
+sumalang (salang) _um_ [verb] to touch lightly or briefly; to give a glancing touch
 salapî (salapi) rt_ [noun] money; currency
 pananalapî (salapi) pangCV_ [noun] finance
 salatín (salat) _in [verb] to palpate; to examine by touch
@@ -7478,59 +7524,61 @@ sumbongero (sumbong) sp_ [noun] tattletale
 magsumbóng (sumbong) mag_ [verb] to tell on; to tattle on; to complain about; to inform on
 isumpâ (sumpa) i_ [verb] to curse someone/something; to condemn something/someone
 manumpâ (sumpa) mang_ [verb] to depose
-pagsumpâ (sumpa) [noun] cursing
-panumpâ (sumpa) [noun] swearing; swearing in; making an oath
-panunumpâ (sumpa) [noun] taking an oath; swearing in
+pagsumpâ (sumpa) pag_ [noun] cursing
+panumpâ (sumpa) pang_ [noun] swearing; swearing in; making an oath
+panunumpâ (sumpa) pangCV_ [noun] taking an oath; swearing in
 sumpaín (sumpa) _in [verb] to curse; to damn; to condemn
 sumpâ (sumpa) rt_ [noun] curse; promise; swearing
 sumumpâ (sumpa) _um_ [verb] to swear; to swear to something (promise); to promise; to curse
-kásunduan (sundo) [noun] agreement; deal; compromise; covenant; bargain; treaty; concord; contract; compact; pact
+may-sumpóng (sumpong) phr_ [adjective] moody; cranky; capricious
+sumpungín (sumpong) _in [verb] to suffer an attack of something (a sickness, heart attack, etc.)
+kásunduan (sundo) ka_an [noun] agreement; deal; compromise; covenant; bargain; treaty; concord; contract; compact; pact
 mapagkasundô (sundo) mapagka_ [verb] to reconcile; to get along
-mapagkasunduan (sundo) mapagka_an [verb] to agree on something (together/reciprocally)
+mapagkásunduán (sundo) mapagka_an [verb] to agree on something (together/reciprocally)
 masundô (sundo) ma_ [verb] to be able to pick up someone/something
-pagkakasundo (sundo) [noun] reconciliation; harmony; unification
+pagkakasundo (sundo) pagkaka_ [noun] reconciliation; harmony; unification
 pagsundô (sundo) pag_ [noun] picking up
 sumundô (sundo) _um_ [verb] to pick up (opposite of drop off); to fetch
 sunduín (sundo) _in [verb] to pick up someone/something; to pick someone up; to fetch someone
 sundô (sundo) rt_ [noun] fetcher; someone who will pick someone else up
 masungit (sungit) ma_ [adjective] unpleasant; grouchy; strict; irritable; unfriendly; crabby; snobby; ill tempered;
 sungit (sungit) rt_ [noun] unpleasantness; unfriendliness; harshness; strictness; sternness
-alinsunod sa (sunod) [preposition] in accordance with; pursuant to
+alinsunod sa (sunod) phr_ [preposition] in accordance with; pursuant to
 kasunód (sunod) ka_ [adjective] after; later; following; next; subsequent
 magkakasunod (sunod) magkaka_ [adjective] consecutive
 magkasunód (sunod) magka_ [adjective] consecutive
 makasunód (sunod) maka_ [verb] to be able to follow; to be able to tail
 mapasunód (sunod) mapa_ [verb] to get someone to obey;
 masundán (sunod) ma_an [verb] to follow something/somewhere
-masunurin (sunod) [adjective] obedient; docile
+masunurin (sunod) ma_in [adjective] obedient; docile
 masunód (sunod) ma_ [verb] to follow something (OF); to be followed (AF); to be listened to (AF)
 nakasunód (sunod) naka_ [adjective] following
-pagsunód (sunod) [noun] obedience; compliance
+pagsunód (sunod) pag_ [noun] obedience; compliance
 sa súsunod (sunod) phr_ [adverb] next time; next
 sumunód (sunod) _um_ [verb] to obey; to follow; to comply; to conform
 sundán (sunod) _an [verb] to follow something/someone; to obey something/someone; to track something/someone; to monitor something/someone
 sundín (sunod) _in [verb] to obey something/someone; to follow something/someone; to abide by something; to adhere to something
-sunud-sunuran (sunod) [adjective] subservient
+sunud-sunuran (sunod) rt_rt_an [adjective] subservient
 sunód (sunod) rt_ [noun] next; follower; [adjective] fulfilled
 sunúd-sunód (sunod) rt_rt [adjective] chronological; successive; consecutive
 súsunód (sunod) CV_ [adjective] next; coming; [adverb] then
-tagasunód (sunod) [noun] follower
+tagasunód (sunod) taga_ [noun] follower
 magsunóg (sunog) mag_ [verb] to burn; to set on fire
 magsunóg ng kilay (sunog) phr_ [verb] to study very hard
 manunog (sunog) mang_ [verb] to set on fire; to burn
 masunog (sunog) ma_ [verb] to get burned; to become burned
-nasunugan (sunog) [noun] burn victim
-pagkasunóg (sunog) [noun] explosion in flames; burning; combustion
-pamatáy sunog (sunog) [noun] fire extinguisher
-panunog (sunog) [noun/ adjective] incendiary
+nasunugan (sunog) na_an [noun] burn victim
+pagkasunóg (sunog) pagka_ [noun] explosion in flames; burning; combustion
+pamatáy sunog (sunog) cmp_ [noun] fire extinguisher
+panunog (sunog) pang_ [noun/ adjective] incendiary
 sumunog (sunog) _um_ [verb] to burn
 sunog (sunog) rt_ [noun] fire
 sunugin (sunog) _in [verb] to burn something down; to set something on fire
-sunóg (sunog) rt_ burnt, burned
+sunóg (sunog) rt_ [adjective] burnt, burned
 manuntók (suntok) mang_ [verb] to punch; to hit
-pagsuntók (suntok) [noun] punching
+pagsuntók (suntok) pag_ [noun] punching
 sumuntók (suntok) _um_ [verb] to punch; to box
-suntukan (suntok) [noun] fistfight; fight
+suntukan (suntok) _an [noun] fistfight; fight
 suntukín (suntok) _in [verb] to punch someone/something; to box with someone/something
 suntók (suntok) rt_ [noun] punch; a hit with the fist
 suongín (suong) _in [verb] to brave something (e.g., difficulties, travails, etc.)
@@ -7540,28 +7588,28 @@ kasuotan (suot) ka_an [noun] clothing; clothes; apparel; attire; costume
 magsuót (suot) mag_ [verb] to wear; to get into; to enter into
 manuót (suot) mang_ [verb] to penetrate; to imbue
 nakasuót ng (suot) phr_ [adjective] dressed with something
-pagsusuót (suot) [noun] wearing; wearing clothes
+pagsusuót (suot) pagCV_ [noun] wearing; wearing clothes
 sumuót (suot) _um_ [verb] to get into; to enter into; to squeeze through something narrow
 suot (suot) rt_ [noun] clothing; clothes; apparel
 suotán (suot) _an [verb] to dress someone; to put clothes on someone
 suutín (suot) _in [verb] to wear something; to put on something; to get into something; to enter into something
 masupil (supil) ma_ [verb] to be controlled; to be disciplined
-pagsupil (supil) [noun] suppression; oppression; domination;
-panunupil (supil) [noun] domination; subduing
+pagsupil (supil) pag_ [noun] suppression; oppression; domination;
+panunupil (supil) pangCV_ [noun] domination; subduing
 sumupil (supil) _um_ [verb] to subdue
 supilin (supil) _in [verb] to terrorize
 supíl (supil) rt_ [adjective] subdued
-pagsuporta (suporta) [noun] support
+pagsuporta (suporta) pag_ [noun] support
 sumuporta (suporta) _um_ [verb] to support
 suporta (suporta) rt_ [noun] support
-suportado (suporta) [adjective] supported
+suportado (suporta) sp_ [adjective] supported
 supórtahán (suporta) _an [verb] to support someone/something
-tagasuporta (suporta) [noun] supporter
+tagasuporta (suporta) taga_ [noun] supporter
 magsurì (suri) mag_ [verb] to analyze; to review; to examine
-mapanurì (suri) [adjective] analytical; critical
-pagsusurì (suri) [noun] analysis; examination; diagnosis; study; test; criticism
-palásurián Gra Lgw (suri) [noun] semantics
-panunurì (suri) [noun] criticism
+mapanurì (suri) mapang_ [adjective] analytical; critical
+pagsusurì (suri) pagCV_ [noun] analysis; examination; diagnosis; study; test; criticism
+palásurián Gra Lgw (suri) phr_ [noun] semantics
+panunurì (suri) pangCV_ [noun] criticism
 sumurì (suri) _um_ [verb] to examine; to audit
 suriin (suri) _in [verb] to analyze something; to examine something; to study something; to investigate something; to inspect something; to test something; to dissect something; to diagnose something; to criticize something
 isusì (susi) i_ [verb] to lock something
@@ -7801,10 +7849,13 @@ tumakíp (takip) _um_ [verb] to cover; to block
 ikatakot (takot) ika_ [verb] to cause fear
 katakut-takót (takot) ka_rt_rt [adjective/adverb] fearful; tremendous
 katakutan (takot) ka_an [verb] to fear something; to be afraid of something
+katákot-takot (takot) ka_rt_rt [adjective] frightening; fear inducing; fearful; atrocious
 makapanakot (takot) makapang_ [verb] to frighten
 manakot (takot) mang_ [verb] to frighten; to intimidate
 matakot (takot) ma_ [verb] to be afraid; to be scared; to dread; to be anxious; to be nervous
+matatakutin (takot) maCV_in [adjective] fearful; timid
 nakákatakot (takot) nakaka_ [adjective] frightening; fearsome; freakish; causing fear; scary
+pagkatakot (takot) pagka_ [noun] having fear
 panakot (takot) pang_ [noun] threat; anything used to cause fear; scarecrow
 pananakot (takot) pangCV_ [noun] intimidation; scaring; scare
 takot (takot) rt_ [noun] fear
@@ -8443,11 +8494,6 @@ nakatingalâ (tingala) naka_ [adjective] tilted upward; looking upward
 tingalaín (tingala) _in [verb] to look up to something/someone; to respect something/someone
 tingalâ (tingala) rt_ [adjective] looking upward; tilted upward
 tumingalâ (tingala) _um_ [verb] to look upward; to look up
-itingalâ (tingala) i_ [verb] to tilt upwards
-nakatingalâ (tingala) naka_ [adjective] tilted upward; looking upward
-tingalaín (tingala) _in [verb] to look up to something/someone; to respect something/someone
-tingalâ (tingala) rt_ [adjective] looking upward; tilted upward
-tumingalâ (tingala) _um_ [verb] to look upward; to look up
 kung makátingín (tingin) phr_ [phrase] the way one stares at something
 magkátinginan (tingin) magka_an [verb] to look at one another
 magpatingín (tingin) magpa_ [verb] to be examined; to consult; to seek the advice of someone
@@ -8652,7 +8698,7 @@ pagtutulak (tulak) pagCV_ [noun] pushing
 panulak (tulak) pang_ [noun] drinks; beverage; (root(tulak) tulak, literally "for pushing" snacks down)
 tulak (tulak) rt_ [noun] push; shove; drug pusher; drug dealer
 tumulak (tulak) _um_ [verb] to push; to propel
-túlal-tulak (tulak) cmp_ pushing
+túlak-tulak (tulak) cmp_ pushing
 matuldukan (tuldok) ma_an [verb] to be able to put an end to something
 tuldukán (tuldok) _an [verb] to mark with a dot/point; end (figurative)
 tuldók (tuldok) rt_ [noun] period (punctuation); dot; point
@@ -8785,6 +8831,10 @@ tunóg (tunog) rt_ [noun] sound; click; ringing
 matuntón (tunton) ma_ [verb] to track down something; to be able to track down something; to trace something; to be tracked down (AF)
 panuntunan (tunton) pang_an [noun] rule; guideline
 tuntón (tunton) rt_ [noun] retracing; tracking down
+makatuntóng (tuntong) maka_ [verb] to be able to get into; to be able to step on/into
+tumuntóng (tuntong) _um_ [verb] to step up; to step on; to get up to
+tuntungan (tuntong) _an [noun] footing
+tuntóng (tuntong) rt_ [noun] stepping on; getting in to
 ituón (tuon) i_ [verb] to focus something
 makatuón (tuon) maka_ [verb] to be able to focus
 matuón (tuon) ma_ [verb] to focus

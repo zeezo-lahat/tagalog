@@ -228,6 +228,7 @@ maCV-in	adj. of quality in high degree (akin to ma-in)
 mag-	deliberate, intentional action
 	Takót akóng magdaán sa lagusan.  |  I'm afraid to pass through the tunnel.
 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)
+	mag-usap, magkita
 magCum-	to exert great effort in doing
 	magpumilit - to persist; to insist on
 mag-an	reciprocal or group action
@@ -293,20 +294,22 @@ maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
+maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cause/bring about something
+	-> compare this with makapag- (assoc with mag verbs)
+	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
+	Pwede makahingi ng listahan nito?	Can I have a list of this?
+	Nakatulong ang gamót.	The medicine was helpful.
+	May nakákakita kayâ sa atin?	Could someone see/be watching us?
+	Nakaratíng na ba si Tony?  |  Has Tony arrived yet?
+	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
+	Gagawin ko ang aking makakaya.  |  I will do my best.
 maka-	verb: (actor) accidental/incidental/unintentional of ma-
 	makatulog  |  to fall asleep
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something
 maka-	verb: (actor) abilitative/causative (ika-)
 maka-	verb: (obj) abilitative (ka-in)
-maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cause/bring about something
-	-> compare this with makapag- (assoc with mag verbs)
-	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
-	Nakatulong ang gamót  |  The medicine was helpful.
-	Nakaratíng na ba si Tony?  |  Has Tony arrived yet?
-	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
-	May nakákakita kayâ sa atin?  |  Could someone see/be watching us?
-	Gagawin ko ang aking makakaya.  |  I will do my best.
+	Dapat makausap kita.	I need to talk to you.
 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		makapagsalita siya ng English  |  she is able to speak English
@@ -350,31 +353,42 @@ mapa-	ability/possibility to (ng) CAUSE something to happen / be done (ang).  (a
 	Walâ kang magagawâ para mapatigil itó.  |  There's nothing you can do to stop it.
 	Kailangan nating mapatigil ang kónstruksiyón ng gusalì.  |  We need to stop the construction of the building.
 	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo.  |  We can only stop the passage of the bill if we unite.
-mapa-	ability/possibility to (ng) CAUSE someone (ang) to do something.
+mapa- (object) ability/possibility to (ng) CAUSE someone (ang) to do something.
 	Napaligaya mo ako.  |  You made me happy.
-mapa- to be able to get or cause someone to do something (object)
 	Sinikap ni Gary na mapangitî si Patrick.  |  Gary strived to make Patrick smile.
-mapa-	CAUSED to do/become something (actor/doer/becomer) (eg, mapahiya - become humiliated, mapaiyak - caused to cry)
-mapa- to suddenly do something in an involuntary or unplanned way (actor)
+mapa- (actor) to be CAUSED to do/become something (actor/doer/becomer)
+	mapahiya - become humiliated
+	mapaiyak - caused to cry
 	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.  |  Marga stopped what she was doing when Kristoff arrived.
 	Napápailíng akó sa pinagsasabí mo.  |  I am shaking my head in disbelief at what you're saying.
 mapa- to be compelled or to need or to be triggered to do something (actor)
-mapag-	PERSONAL CHARACTERISTIC (ex. mapagbigay - generous)
+mapag-	(adj) PERSONAL CHARACTERISTIC (ex. mapagbigay - generous, mapag-isip - thoughtful)
 mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)
+mapag-an (obj) abilitive of pag-an
+	Napagbásketbulán namin and 'covered court' sa poblasyón.  We got to play basketball in the covered court in the town proper.
+	May mapagkukunan ba ng prutas doon?	Is there a place we can get fruit there? *note use as noun here*
+mapag-an ()
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
-naka-	to be in current STATE (ex. nakaupo - sitting, nakaitim - wearing black)
-nakaka-	CAUSING/creating/producing state (ex. nakakainis - annoying)
+mapag- (adj) having a personal characteristic (mapagpunyagI - persistent, mapagmahál - loving)
+	Mapagbigáy and mamang iyán.	The man is generous.
+mapagma- (adj) inclined or prone to something (mapagmaliít - prone to belittle others, mapagmataás - conceited)
+	Mapagmarunong siya.	He's prone to showing off how much he knows.
+naka-	(adj) to be in current STATE (ex. nakaupo - sitting, nakaitim - wearing black)
+nakaka-	(adj) CAUSING/creating/producing state (ex. nakakainis - annoying)
 nakaCV-	alt. form of nakaka
 nakakapang-	adj. similar to nakaka- (ex. nakakapanghina - CAUSING temporary weakness/sadness)
-napaka-	intensive (very..). takes adj roots and stems.  napaka-bait (very kind), napaka-mapagbigay (very giving of oneself)
-pa-	MANNER (ex. pabulong - in a whisper)
-pa-	ABOUT TO, BECOMING (ex. pagandá, parating/paalis - about to arrive/leave)
-pa-	"CAN I", "MAY I" have/see/borrow, etc
-pa-	REQUESTED/ORDERED THINGS OR ACTIONS (padala)
-pa-	something that brings about / causes / creates something (pabango, palamig)
+nápaka-	intensive (very..). takes adj roots and stems.  napaka-bait (very kind), napaka-mapagbigay (very giving of oneself)
+pa-	(adverb) MANNER (ex. pabulong - in a whisper)
+pa-	(adverb) ABOUT TO, BECOMING (ex. parating/paalis - about to arrive/leave)
+pa-	(request) "CAN I", "MAY I" have/see/borrow, etc
+	paraan
+pa-	(noun)REQUESTED/ORDERED THINGS OR ACTIONS (padala)
+pa-	(noun) something that brings about / causes / creates something (pabango, palamig)
 paREP-REP	adj. of OCCASIONAL or "here and there" (ex. pasama-sama - tagging along here and there)
 pa-an	(ng) HAS SOMEONE (sa) do something (ang) - pa-an, pina-an, pinapa-an, papa-an (similar to ipa-)
-pa-an	non-focus form of certain ma-root verbs (eg. pakinggan siya. - hear him.)
+pa-an	(object)
+	Pagágalitan si Anna ng tatay niyá kapág ginabí siyá nang uwî.  |  Anna will be reprimanded by her dad if she gets home late.
+pa-an	non-focus form of certain ma-root verbs (eg. Pakinggan siya. - Listen to him.)
 pa-an	nouns of location or contests
 pa-in	ng HAS OR ALLOWS SOMEONE (ang) to do something - pa-in, pina, pinapa, papa-in
 pa-in	to INCREASE something (beauty, shortness..) - pa-in, pina, pinapa, papa-in
@@ -383,18 +397,12 @@ pag-	gerund former for -um-, -in verbs, the act or manner of doing an action
 pag-	upon doing the action of the root
 pagCV-	gerund former for mag-, -an verbs
 pagCV-	the act or manner of doing an action repeatedly
-pag-an	(ng) does something WITH/REGARDING ang (obj)
+pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
 	Pag-isipan mong mabuti bago ka sumagót.  |  Think about it carefully before you answer.
 	Dapat pinag-íisipan nang mabuti ang pag-aasawa.  |  Getting married should be thought about a lot.
 	Teka, pinag-íisipan ko pa.  |  Wait, I'm still thinking about it.
 	Hindî mo na kailangang pag-isipan pa iyán.  |   You don't need to spend time to still think about that.
 	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
-	pagtaasán   |   to raise something
-	pagbakasyunán  |  to vacation somewhere
-	pagtakpán  |  to cover-up/whitewash something
-	pagtaguan  |  to hide from someone
-	Huwág mo siláng pagalitan.  |  Don't scold them.
-	Pagágalitan si Anna ng tatay niyá kapág ginabí siyá nang uwî.  |  Anna will be reprimanded by her dad if she gets home late.
 	Pag-aralan mo ang mga pangungusap.  |  Study the sentences.
 	Ipagpatuloy natin ang pinag-áaralan natin kahapon.  |  Let's continue with what we were studying yesterday.
 	Pagbigyán mo namán akó.  |  Give me some slack.
@@ -420,6 +428,11 @@ pag-an	(ng) does something WITH/REGARDING ang (obj)
 	Dapat makinabang ka sa pinaghirapan mo.  |  You should benefit from what you worked hard for.
 	Kung gustó mong makamít ang iyóng pangarap, paghirapan mo itó.  |  If you want to achieve your dreams, you have to work hard for it.
 	Pinagbibidahan ni Julia ang palabás sa telebisyón.  |  Julia stars in the television show.
+	pagtaasán   |   to raise something
+	pagbakasyunán  |  to vacation somewhere
+	pagtakpán  |  to cover-up/whitewash something
+	pagtaguan  |  to hide from someone
+	Huwág mo siláng pagalitan.  |  Don't scold them.
 pagCV-an	noun former of mag-an verbs.
 	pagsusuntukan - fight between two or more people
 	pag-aawayan - quarelling/fighting with each other
