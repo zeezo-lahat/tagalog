@@ -370,6 +370,7 @@ mapag-an (obj) abilitive of pag-an
 mapag-an ()
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
 mapag- (adj) having a personal characteristic (mapagpunyagI - persistent, mapagmahál - loving)
+	mapagbalatkayo - deceiptful, artful
 	Mapagbigáy and mamang iyán.	The man is generous.
 mapagma- (adj) inclined or prone to something (mapagmaliít - prone to belittle others, mapagmataás - conceited)
 	Mapagmarunong siya.	He's prone to showing off how much he knows.

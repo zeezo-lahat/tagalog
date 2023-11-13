@@ -109,6 +109,7 @@ alikabok	dust
 alilà	servant
 alimango	crab
 alimasag	small crab, a type of small crab
+alimpuyó	whirlpool; whirl of wind, dust, smoke or water
 alín	which?
 alingasngás	a scandal
 alin-alin	which? (plural)
@@ -360,6 +361,7 @@ banatan	to go hard at someone/something
 banatin	to stretch by pulling
 banáyad	moderate, soft, gentle; slowly
 bandá	towards or about a certain place or time, in the direction of (bandang alas tres -> around 3 o'clock)
+bangâ	jar, native earthen jar
 bangág	to be high (on drugs, etc)
 bangayán	squabble
 banggâ	collision, bang into
@@ -727,6 +729,7 @@ dekada	decade
 delikado	dangerous, risky; fastidious, delicate; crucial, critical; arduous
 despachadora	a saleslady
 detálye	detail
+dí-gaya	unlike
 dí-kailangan	not needed, unnecessary
 dí-kapaní-paniwalà	unbelievable; fishy, doubtful
 dí-mapakalí	not at peace, restless, fidgety, anxious, not able to stay still
@@ -2312,6 +2315,7 @@ maharlikâ	noble, aristocratic
 mahawa	to become infected
 mahigit	more than (sa)
 mahigpit	tight, tightly; strict, severe
+mahíhingán	as noun, "those who will be asked to help" (hingî)
 mahilig	fond of
 mahimasmasán	to regain consciousness or regain one's senses
 mahina ang tuhod	“weak-kneed” = having a frail body
@@ -2684,6 +2688,7 @@ matapát	loyal, faithful, sincere
 matapos	after
 mataranta	to be confused
 matáray	snobby, sassy, bitchy (referring to women)
+matastás	to come unravelled/unstitched
 matauhan	to recover consciousness
 matengga	to be put on hold, suspended (actor); to put something on hold, suspend something (object)
 matigás	hard, tough, stiff
@@ -4226,6 +4231,7 @@ tarantá	disconcerted, perturbed, upset; confusion, bewilderment; di-malaman ang
 tarantádo	foolish, shameless, disrespectful; moron, asshole
 tarantahín	to confuse, baffle, bewilder
 tása	a cup; estimate, assessment
+tastás	unravelled, unravelling, unstitched, falling apart (clothing or cloth)
 tatág	establishment, stability; solidarity, security; established, organized
 tátawanan	will laugh at
 tatay	father
@@ -4369,6 +4375,7 @@ tumapat	to stand in front of
 tumapos	to finish
 tumataas	mounting; increasing
 tumatagal	time passed by
+tumastás	to disassemble, to dismantle, to unstitch
 tumawíd	to cross
 tumayo	to stand up
 tumbás	equal, enough, sufficient; [math] equals

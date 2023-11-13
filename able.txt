@@ -1,0 +1,196 @@
+$ grep -h '[a-z]able' *.txt | sort | uniq | grep -v ' table' | grep -v syllable
+'di-maiwasan	unavoidable
+Ako ang nagpauso nito.	I’m the one who made this fashionable.
+Ang mga sapatos na ito ay hindi angkop para gamitin sa pagtatakbo.	These shoes are not suitable for running.
+Ang mga taong may kapansanan ay hindî dapat pinagtátawanán.	People who are disabled should not be laughed at.
+Kahánga-hangà ang opensa ni Billy sa nakaraáng larô.	Billy's offense during his recent game was admirable.
+Kailangan mong gapiín ang mga hindî kanáis-nais na kaisipán.	You need to beat all undesirable thoughts.
+Maasahan mo ako.	You can rely on me. I am dependable
+Mas masarap bang matulog o kumain?	Is it more enjoyable to sleep or to eat?
+Masarap matulog.	Sleeping is so enjoyable.
+Natátanggál ba itóng hawakán?	Is this handle detachable?
+Pinál ang hatol at dapat na itóng ipatupád.	The decision is final and enforceable.
+Puwedeng lakarin pero may kalayuan.	It's walkable but it's quite a distance.
+Saan po mura? – Where can I buy affordable items?
+Tanga! Dakilà naman.	Idiot! But principled/honorable.
+abang-aba	wretched, miserable
+abot-kAya	affordable
+abót (abot) rt_ [adjective] overtaken; abreast with; within reach; reachable; reaching for; handing over; [noun] arrival
+advisable: adj. maipápáyo, mabuti, marapat.
+affable: adj. magalang, mapitagan.
+amenable: adj. palasunód.
+amicable: adj. mabaít.
+ang iyong desisiyon ay makatwiran	you decision is reasonable
+angkóp (angkop) rt_ [adjective] suitable; appropriate; apropos; proper; fitting
+antipatiko	displeasing, disagreeable, unfriendly
+aya (aya) rt_ [noun] being agreeable
+ayon (ayon) rt_ [adjective] in agreement; according to; parallel to; agreeable; in conformity with; there
+babasagin	breakable, fragile
+bagay (bagay) rt_ [noun] thing; item; matter; object; article; [adjective] suitable; suitable for; compatible; apropos; appropriate; typical; applicable; fitting;
+bagay, angkop, wasto, akma, karapat-dapat	suitable, fit
+bayarín	bills, bill; payable
+bugnUtin	irritable, peevish
+bukás-palad (palad) cmp_ [adjective] generous; charitable; with open palms
+buwisit, peste, piste, salot	a thing or person that torments, vexes, offends or is disagreeable
+dakilà	great, distinguished, notable, illustrious, noble
+dakilà	notable, illustrious
+damá (dama) rt_ [adjective] perceived; felt; palpable; perceptible
+dapat, nararapat, karapat-dapat, tama, wasto, angkop, naaangkop, tumpak, bagay, nababagay	fitting, suitable, proper
+di bagay, di angkop	not suitable
+di-magagalaw	immovable
+di-mapigil	unstoppable
+di-mapigil, di mapipigil, hindi mapipigilan	unstoppable
+di-tiyák (tiyak) phr_ [adjective] uncertain; indefinite; undetermined; questionable; unverified
+dámang-dama (dama) rt_na_rt [adjective] very palpable
+dí-kapaní-paniwalà	unbelievable; fishy, doubtful
+dí-kapaní-paniwalà (tiwala) cmp_ [adjective] incredible; inconceivable; unbelievable; [colloquial] fishy; doubtful;
+dí-matinag (tinag) phr_ [adjective] immovable
+gamit, kagamitan	a suitableness or adaptability to an end
+giliw (giliw) rt_ [noun] being hospitable; fondness; affection
+halatáng-halatâ (halata) rt_na_rt [adjective] extremely noticeable; plainly obvious; very visible
+halatâ (halata) rt_ [adjective] obvious; noticeable
+hindi ito/iyan katanggap-tanggap	this/that is unacceptable
+hindi kapani-paniwala	unbelievable
+hindi maAasAhan	unreliable
+hindi matanto	inconceivable
+hindí kanáis-nais (nais) [adjective] undesirable
+kaaya-ayà (aya) ka_rt_rt [adjective] pleasant; pleasing; agreeable; delightful; pleasurable
+kagálang-gálang	honorable, respectable/respected
+kahanga-hanga	amazing, admirable
+kahanga-hanga	remarkable
+kahilihili / kahili-hili	enviable
+kahina-hinala	of questionable character, probably bad
+kaibig-ibig	lovable
+kanáis-nais (nais) ka_rt_rt [adjective] desirable; wholesome
+kapanahunan, panahon	suitable or fit time
+kapansín-pansín (pansin) ka_rt_rt [adjective] very noticeable; noteworthy
+kapaní-paniwalà	credible; believable; authentic; convincing
+kasuklám-suklám	disgusting, loathsome, execrable
+katamtáman	comfortable, moderate; just enough; average
+katanggáp-tanggáp (tanggap) ka_rt_rt [adjective] acceptable
+katawá-tawá	ridiculous, laughable
+kaya (kaya) rt_ [pseudo-verb] feasible; [adjective] can; capable; able; able to afford; afford to; [noun] ability
+kítang-kita (kita) rt_na_rt [adjective] prominent; easy to see; obvious; noticeable
+litáw (litaw) rt_ [adjective] striking (noticeable/arresting); visible
+lumitaw, lumabas, umusli, umungos (b) to be noticeable or prominent	to stand out means (a) to project
+maáasáhan	dependable, reliable
+maaari, puwede (Sp)	to satisfy, be favorable or suitable
+maaasahan, sigurado, tapat, mapagtitiwalaan	safe, reliable
+maalam (alam) ma_ [adjective] knowledgeable; wise; well-versed
+maalam : [adjective] knowledgeable; wise; well-versed
+maangkóp (angkop) ma_ [verb] to be fitting; to be suitable
+maaya (aya) ma_ [adjective] agreeable
+mabagay, maangkop, maakma	to be suitable, to be agreeable
+mabenta (benta) ma_ [adjective] marketable; salable; popular (to customers or audience)
+mabuti (buti) [adjective] fine; good; ok; well; advisable; doing good physically; good in character or conduct
+madaanan	passable, drivable
+madurog (durog) ma_ [verb] to be crushed; to be breakable
+magagalitín (galit) maCV_in [adjective] irritable; cranky; easily angered
+magagawa o magagamit	accessible, available
+magalang (galang) ma_ [adjective] respectful; polite; courteous; affable; genteel
+magamit (gamit) ma_ [verb] be able to use; to use; to apply; to be available
+magamót (gamot) ma_ [verb] to be able to treat something (sickness/disease) (OF); to treat something (OF); to be treatable (AF)
+magiliw (giliw) ma_ [adjective] hospitable; beloved; blessed; gentle; affectionate; genial
+mahirap pero pwede	difficult but possible/doable
+mahusay	skillful, capable, methodical
+mainam	respectable, temperate, modest
+maipagpapatawad	excusable
+makatwiran	rational, reasonable
+makatwiran	reasonable
+makukuha	attainable, that can be achieved
+malamang mabago, di maaasahan, hindi pirmihan, hindi palagian, pabagu-bago	likely to change, not reliable
+maliwanag (liwanag) ma_ [adjective] bright; light outside; clear (understandable); eloquent; evident; obvious; definite; apparent
+mandaraya madaya, mapandaya, manlilinlang, mapanlinlang	deceiving, not reliable, having a false appearance of strength, security, etc.
+mangailangan, kailanganin	to be in want of, ought to have, be unable to do without
+mapa-	ability/possibility to (ng) CAUSE something to happen / be done (ang).  (able/unable, can/can't)
+mapagpapalit	interchangeable
+marami, malaki	much, to a considerable degree
+marangAl	honorable
+marangAl	honorable, noble
+marangál	noble, honest, reputable, imperial, knightly, honorable, dignified
+marangál (dangal) ma_ [adjective] noble; honest; reputable; imperial; knightly; honorable; dignified
+marapat (dapat) ma_ [adjective] proper; deserving; commensurate; appropriate; advisable
+marunong (dunong) ma_ [adjective] knowing how to do something; intelligent; knowledgeable; erudite; good at
+marálitâ	indigent, poor, miserable (less common than mahirap)
+marúnong	to know how to do something; learned, smart, knowledgeable (dunong)
+masaka (saka) ma_ [verb] to farm; to be able to farm; to be arable
+masakláp	acrid, disagreeable, offensive, bitter, wretched
+masakláp (saklap) ma_ [adjective] brutal; disagreeable; bitter; harsh
+masarap	feels good, enjoyable
+masaráp (sarap) ma_ [adjective] delicious; tasty; enjoyable
+masungit (sungit) ma_ [adjective] unpleasant; grouchy; strict; irritable; unfriendly; crabby; snobby; ill tempered;
+masusukat (sukat) [adjective] measurable
+matIbay	durable
+matatahanan	livable
+matatág	immovable
+matatág (tatag) ma_ [adjective] stable; steady; solid; firm; established; unyielding; adamant
+matibay (tibay) ma_ [adjective] strong; sturdy; durable; stable; firm; solid; adamant; hardy; resilient
+matubò (tubo) ma_ [adjective] profitable
+maunawaan 	to be able to understand; to make sense, to be understandable, to be reasonable
+maunawaan ------ to make sense, to be understandable, to be reasonable
+maunawaan, makatwiran	to make sense, to be understandable, to be reasonable
+maupahan (upa) ma_an [verb] to be available for rent
+mawala, malipol, di-makita	to become unable to find
+may kapansanan (pansan) phr_ [adjective] disabled
+maáasahan (asa) maCV_an [adjective] dependable; reliable
+mga galamáy	helpers, enablers, cronies
+mura	cheap/affordable
+mutya	something precious or admirable
+máginoó	gentlemanly; honorable, a gentleman
+máiinom (inom) mai_ [adjective] drinking; drinkable; drink
+nababagay (bagay) naCV_ [adjective] suitable; fitting
+nababali	breakable
+nababaluktot	flexible, pliable
+nabubulok	perishable, decaying
+nakakahinAyang	regretable
+nakakainggIt	enviable
+nakaukol (ukol) naka_ [adjective] intended for; destined; proper; suitable
+nakayayamot, nakaiinis, nakasusuklam, nakasusuya	disagreeable, unpleasant
+nakákatawá (tawa) nakaka_ [adjective] funny; causing laughter; laughable; jocose; witty; comical
+nakákatawá : [adjective] funny; causing laughter; laughable; jocose; witty; comical
+napakahusay	very skilled, very capable
+napakahusay (husay) napaka_ [adjective] very skilled; very capable
+napakatibay (tibay) napaka_ [adjective] very sturdy; very strong; very durable; very stable; very firm
+napapahilig, nagkakaibig, naiibigan, nagkakagusto, mahilig, magustuhin, nahihiligan	willing, tending, favorable
+note that, the negative (eg, hindi nakAka-) means *physically* unable, not just temporary inability
+pabagu-bago, sunud-sunuran	changeable, changing easily, flexible
+pabágo-bago (bago) pa_ [noun] variable amount; variable (as in a math equation); changing; constantly changing
+pagdaralitâ (dalita) pagCV_ [noun] misery; miserable circumstances
+pagkakataon, magandang pagkakataon	a favorable chance or opportunity
+pakiramdamAn (ang?) maging komportable ang palIgid mo	feel more comfortable around you
+palitawín (litaw) pa_in [verb] to make something noticeable; to strike something
+pangit (pangit) rt_ [adjective] ugly; unattractive; objectionable
+pansinin (pansin) _in [adjective] noticeable
+panátag	calm, tranquil; undisturbed, grounded, sturdy, steady, reliable, secure
+pasaway	uncontrollable, contrarian, hardheaded, stubborn
+pinakamatibay (tibay) pinakama_ [adjective] strongest; sturdiest; most durable; most stable; firmest; most solid; most hardy
+pinakatumaták (tatak) pinaka_um_ [adjective] most noteworthy; most noticeable; giving the biggest impression
+probable/probably	marahil/malamang
+pusturyoso/a, sunod (ayon) sa moda, makabago	having style, fashionable
+pábulá (bula) sp_ [noun] fable
+pínakamahalagá (halaga) pinakama_ [adjective] most important; most valuable
+pípi	mute, unable to speak; utal, umid, apaw; hindi makapagsalita
+sa hiráp at ginhawa (hirap) phr_ [phrase] through thick and thin (literally(hirap) through difficult and easy/comfortable times)
+sakít na nagagamót (gamot) phr_ [noun] benign; sickness/illness that can be treated; [adjective] treatable (illness/sickness)
+sang-ayon (ayon) sang_ [adjective] agreeable; willing
+sumalanta, masalanta, salantain	to disable
+takáw-apóy	flammable [idiomatic]
+takáw-apóy (apoy) cmp_ [idiomatic] flammable
+talaorasan	timetable
+tama, tumpak, makatarungan	right, correct, reasonable, reliable
+tamà (tama) rt_ [adjective] right; correct; enough; all right; exact; reliable; just right; [noun] right; correct; correct answer; [interjection] I agree.
+taong salanta ang katawan	disabled person
+tapát	honest, upright, honorable
+tumpak, wasto, tama, nararapat adv. 1. only	proper, suitable, deserved
+tumukoy (tukoy) _um_ [verb] to refer to; to be applicable to; to allude to
+támang-tamà (tama) rt_na_rt [adjective] just right; 100% correct; absolutely correct; ideal; suitable; accurate; exact; exactly
+ukol (ukol) rt_ [adjective] intended for; about; destined; proper; suitable
+unpredictable	hindi mahuhulaan
+wala sa matwíd	unreasonable, irrational
+walang kapantay	incomparable
+walang kasya	no suitable size
+walang katulad	incomparable, without equal
+walang kuwenta, walang saysay, nakababagot	not interesting, absurd, unreasonable
+walang tatag, mabuway	not reliable
+walang-katulad	incomparable, without equal
+walang-tatag	not reliable, shaky
