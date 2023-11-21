@@ -1,24 +1,16 @@
-nagpapátay	to have had someone killed (nagpa)
-nagpapatáy	to be killing someone (nagCV)
+ROOTS
 
-if a root has both noun and adj versions, stress will normally be on final syllable for adj version.  in this case,
-most conjugations will have stress on penultimate syllable (following the form of the noun root).  "dala" is a notable
-exception to adj/noun stress following for conjugations
+if a root has both noun and adj versions, stress will normally be on the penultimate syllable for the noun root and
+the final syllable for adj version.
+in this case, most conjugations will have stress *shift* to the (new) penultimate syllable (following the form of
+the noun root).
 
-adj roots mostly have stress on final syllable.
+"dala" is a notable exception to adj/noun stress following for conjugations
 
-when there is no root with penultimate stress, stress will mainly shift when made into _in, pa_in *verb*. 
-stress shifts to final "in" (perhaps not if there is i_ verb?  see ayos).  exceptions: bali
+VERBS
 
-when made into *_an NOUN (_an, ka_an, pang_an), stress will often shift to final "an".
-may also shift with _an, ma_an, pag_an verb (likuAn, lampasAn, paghandaAn, pantayAn, maramdamAn)
-
-when there is a noun version of the same (ie, same meaning, not just spelling) root, stress tends to be on the penultimate
-syllable and stay on that syllable when conjugated
-
-compare labag to lapad.
-
-_in, *a_in, _an, ma_an, pag_an VERBS: stress will almost always shift:
+_in, *a_in, _an, ma_an, pag_an VERBS: stress will almost always *shift*.  if there are noun and adj roots, the
+noun root is generally the one to use:
 hilíng -> hilingán, hilingín 
 lampás -> lampasán 
 alagà -> alagaan, maalagaan
@@ -31,14 +23,29 @@ laban -> paglabanan
 
 daan is an exception
 
-ka_an conceptual nouns: often there is stress shift to the following syllable
+when there is no root with penultimate stress, stress will mainly shift to the final "in" when made into _in, pa_in
+*verb*.  (perhaps not if there is i_ verb?  see ayos).  exceptions: bali
 
+for examples, compare labag to lapad.
+
+NOUNS
+
+*_an nouns (_an, ka_an, pang_an), stress will often *shift* to final "an".
+
+ka_an conceptual nouns: usually there is stress *shift* to the following syllable
 bulók - kabulukán
 buô - kabuuán
 ibá - kaibahán
+
+pag*_ nouns don't shift syllable
+
+ADJECTIVES
 
 ma_ adjectives from noun roots: usually stress stays on same syllable:
 babaw (shallowness) - mababaw
 asó (smoke) - maasó
 dalás (frequency) - madalás
 igtíng (tension) - maigtíng
+
+nagpapátay	to have had someone killed (nagpa)
+nagpapatáy	to be killing someone (nagCV)

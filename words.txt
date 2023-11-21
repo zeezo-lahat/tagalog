@@ -1426,7 +1426,7 @@ kailán	when (kelan)
 kailan man	whenever
 kailángan	to need; needed (root) If you need tense/aspect, use the verb "kailanganin."
 kailángan pa	still need
-kailanganin	to need/require something
+kailanganin	to need/require or to be required to do something (Kinákailangan mo na magpaalam. You need to ask permission.)
 kailanmán	enduring; forever; until when; whenever
 kaingayan	noisiness
 káisa-isá	lone, only, sole, one and only
@@ -1723,6 +1723,7 @@ kinagabihan	on that night
 kinaiinisan	to be annoyed at someone
 kinakaba-kabahan	is being nervous
 kinakabahan	to be nervous
+kinákailangan	to be required, necessary, obliged (to); OR to need something (Kinákailangan kitang makausap. I need to talk to you.)
 kinakapatid	step-sibling, godsib, god-sibling
 kinaladkad	dragged
 kinalaman	connection, connection to something, regarding, a share (of something), knowledge about something
@@ -2490,6 +2491,7 @@ mamighatî	to be in anguish or distress, to suffer affliction (namimighati, nami
 mamilipit	to writhe, squirm, convulse
 maminsan-minsan	occasionally
 mamuhunan	to invest
+mamugad	to infest
 mamulot	to pick up things, glean
 man	X ever; although, even if, with, too; whether, "contrast to what precedes"
 man lamang	the minimum/least (magluto ka man lamang sana -> the least you could do is cook)
@@ -3594,6 +3596,7 @@ pintuan	doorway
 pintúra	paint
 pípi	mute, unable to speak; utal, umid, apaw; hindi makapagsalita
 pira-piraso	pieces, bits, fragments
+piranggót	a small piece or small amount
 piraso	piece, bit, fragment, portion
 pisì	twine
 pisngí	cheek
@@ -3776,6 +3779,7 @@ sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
 sakla	gambling game with Spanish cards
 sakláw	amount, extent, limits; precincts; range; sphere; comprehension
+sakláy	crutch
 saklób	concave lid; face-to-face
 saklolo	succor, aid, help
 saknong	stanza; section of a ricefield assigned to one for harvesting

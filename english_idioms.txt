@@ -1,18 +1,19 @@
 # common english idioms, expressions (mga kasabihán/sawikaín)
 hometown	bayang sinilangan
 unfit for use	hindi angkop para gamitin
-who am I to you?	ano mo ba ako?
+who/what am I to you?	ano mo ba ako?
 in common	magka-, magkaka-, magkakapareho
 thanks for letting me know	salamat at pinaalam mo sa akin
 83% finished	83% nang tapos
 less than half	kulang pa sa kalahati(?)
 on-time	sa takdang panahon
+step by step	bai-baitáng
+by chance, "perchance/perhaps"	bakasakalì
+to take chances	magbakasakali
 whatever happened to ??
 that's not fair
 you are relentless	waláng-lubáy ka talaga
-I bet
-you are relentless
-I bet	sigurado ako(?)
+I bet	sigurado ako
 that's exactly what I was thinking / had in mind.	Iyan mismo and nasa isip ko.
 ok with you?	ayos lang ba sayo?
 you've been quiet today.	kanina ka pa tahimik.
@@ -67,11 +68,12 @@ I don't do things like that	Hindi ako gumagawa Ng mga ganyan.
 who needs it	Kung sino ang nangangailangan nito. 
 I'm rooting for you	I'm rooting para sa iyo 
 I'll get more later	kukunin ko mas (marami) mamaya 
+a while ago	nakaraan pa(?)
 I don't spend much time there	hindi na ako gumugugol Ng maraming oras doon. 
 two out of three	Dalawa sa tatlo 
 getting to know someone	ang nakakakilala sa Isang tao. 
 I have fallen behind in my work	Nahulí ako sa aking trabaho. 
-I am feeling stressed out	Nakakaramdam ako Ng stress, 
+I am feeling stressed out	Nakakaramdam ako ng stress, 
 I'm a little off (my game) today	medyo nalilito ako 
 meet in person	makipagkita sa personal.
 in person	ng mAlapitAn, sArilinAn, sa personal
@@ -81,7 +83,7 @@ I'm happy for you	masaya ako para sa iyo
 I want another.	Gusto ko ng iba.
 forgotten	isulat sa tubig
 I have a lot to do	marami akong ginagawá
-I can't help you	hindi kita matutulângan
+I can't help you	hindi kita matutulungan
 I got there at eight	alas otso na ako dumating
 I'm sick	may sakit ako
 are you alright?	ayos ka ba?

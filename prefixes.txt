@@ -117,16 +117,7 @@ ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verb
 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
 -in	to do something to something (rip paper, burn garbage, finish what I'm doing)
 -in	do something in direction of (pasukin, dalawin, suntukin) (object/direction)
-	Kinailangan kong magpápalít ng salapî.  |  I had to exchange currency.
-	Maglaán kayó ng kinakailangang paliwanag.  |  Provide the needed explanation.
 	Kunin mo itóng pera at baka kailanganin mo.  |  Take this money as you might need it.
-	Kinailangan ni Liz na magkonsulta sa doctor.  |  Liz had to consult a doctor.
-	Hindî kinákailangan na magsapatos ka.  |  It is not required of you to wear shoes.
-	Kákailanganin mo ba ang tulong ko?  |  Would you be needing my help?
-	Kákailanganin mo pa ba itó?  |  Would you still be needing / have any use for this?
-	Kinákailangan kong makausap si David.  |  I need to talk to David.
-	Kinailangan ni Richard na magpahingá nang isáng buwán pagkatapos niyáng magkasakít.  |  Richard needed to rest for a month after he got sick.
-	Kákailanganin mo ang malakíng halagá para makabilí ng bahay ngayón.  |  You will need a large amount of money to be able to buy a house nowadays.
 	Hindî mo kinákailangan na magpaalam pa kung kailangan mong kumain.  |  You don't need to ask permission anymore if you need to eat.
 	Huwág kang umalís kasí bakâ kailanganin ng tatay mo ang tulong mo mamayâ.  |  Don't go out because your father might need your help later.
 	Kinatók niyá ang pintô ng silíd.  |  He knocked on the door of the room.
@@ -193,17 +184,25 @@ ka-	adj. of commonness (ex. kapareho, katulad)
 ka-	adverb assoc with root
 	kaagád | right away
 	kadalás | often, frequent
-	kahapon | yesterday, past
 	kapiling | near to, side by side with (piling)
-	kawawa | poor, pitiful, wretched (awa)
 	kaugnay | related, associated
-ka-REPREP	adj. having or causing in extreme (katawa-tawa - hilarious)
-	kaákit-akit having attractiveness, being alluring, enchanting, beautiful
-	kaawa-awà causing pity, pitiful
+ka-REPREP	adj. having or causing in extreme (katawa-tawa - hilarious).
+	kaákit-akit attractive/alluring/enchanting
+	kaawa-awà pitiful
+ka-REPREP	(adj) When preceeded by "waláng", means "absolutely none"
+	waláng katao-tao	absolutely no one
+	waláng kakuwenta-kuwenta	absolutely worthless
+	waláng kagana-gana	absolutely no appetite/enthusiasm
+ka-REPREP-an	adj. highest degree, similar to pinaka(ma)-
+	Kamí ang kauná-unáhan.	We were the very first.
+	Akó ang káhulí-hulíhan sa mgá tumakbó sa páligsahan.	I was the very last of the runners in the race.
+kaCV/kaka-	express something that just happened; present only, no focus (ie, "ng" only)
 kaCV/kaka-	nouns of excessiveness or repeated behavior
-kaCV/kaka-	express something that just happened; present only, no focus
 kaka-	denotes action stated in the verb is tediously performed repeatedly or for a long duration of time
 	kaka-aral
+kaka-	(adj) very small in quantity
+	kakatitíng - a very small amount
+	kakapiranggót - a very small piece, quantity
 ka-an	nouns of exchanging; of abstract qualities; of groups of things
 ka-an	verb - someone (ng) has/expresses feeling or thought regarding someone/something (ang)
 	kapootán | to detest something/someone
@@ -213,7 +212,7 @@ ka-an	verb - to do something or have occur in/on/at a location or to someone
 	kagalitan | to scold someone
 	kalimutan | to forget or overlook something
 	kasangkután - to be involved with something; to get caught up in something
-ka-in	combo of ka- noun and -in verb
+ka-in	(obj) combo of ka- noun and -in verb
 ma-	adj. of quality or large amount of something
 ma-	abilitative (obj.)
 ma-	accidental or involuntary action (obj.) (eg, makita)

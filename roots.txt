@@ -249,7 +249,7 @@ malaman (alam) ma_an [verb] to know something (OF); to find out something (OF); 
 mapag-alamán (alam) mapag_an [verb] to come to realize something; to come to learn something; to come to find out something
 nakaaalám (alam) naka_ [adjective] knows; knowing
 pagkakáalám (alam) pagkaka_ [noun] understanding
-pakialamero (alam) paki_ [noun] meddler
+pakialamero (alam) sp_ [noun] meddler
 pakialamán (alam) paki_an [verb] to meddle with; to disturb someone
 pakialám (alam) paki_ [noun] give a care; care; meddler; interferer
 paké (alam) phr_ [noun] care (contraction of "pakialam"); concern
@@ -1466,6 +1466,10 @@ bihisan (bihis) _an [verb] to dress someone; to help someone get dressed
 bihís (bihis) rt_ [adjective] dressed
 ibihis (bihis) i_ [verb] to put on something; to dress with something
 magbihis (bihis) mag_ [verb] to dress; to change clothes
+bilád (bilad) rt_ [adjective] sun-dried; sun drying
+ibilád (bilad) i_ [verb] to place something in the sun; to dry something out in the sun; to sun dry something
+mabilád (bilad) ma_ [verb] to be in the sun (AF)
+magbilád (bilad) mag_ [verb] to dry in the sun; to bask in the sun
 bilang (bilang) rt_ as a (in the role of); serving as; [noun] count; number;
 bilangan (bilang) _an [verb] to count a person out (in a boxing match, game, etc.); to count to someone
 bilangin (bilang) _in [verb] to count something
@@ -3855,7 +3859,7 @@ nakakairitá (irita) nakaka_ [adjective] irritating
 iritá (irita) rt_ [noun] irritation
 pagkairitá (irita) pagka_ [noun] irritation; feeling irritated
 magsing-irog (irog) magsing_ [noun] lovers
-iniirog (irog) _in [adjective] dear; beloved
+iniirog (irog) _inCV_ [adjective] dear; beloved
 irog (irog) rt_ [noun] dear one; beloved; darling; love
 bawa't isá (isa) phr_ [adjective] each; everyone; each one's
 ikalabing-isá (isa) num_ [adjective] eleventh
@@ -4885,6 +4889,10 @@ langhapín (langhap) _in [verb] to inhale something; to breathe something in; to
 langháp (langhap) rt_ [noun] inhalation; smelling; breathing in; savoring
 makalangháp (langhap) maka_ [verb] to happen to inhale; to be able to inhale
 lumangháp (langhap) _um_ [verb] to inhale; to breathe in; to savor
+languín (lango) _in [verb] to get someone drunk
+langó (lango) rt_ [adjective] drunk
+malangó (lango) ma_ [adjective] inebriated
+nakakalangó (lango) nakaka_ [adjective] intoxicating
 languyan (langoy) _an [noun] swimming pool
 languyín (langoy) _in [verb] to swim somewhere
 langóy (langoy) rt_ [noun] swimming
@@ -6390,9 +6398,9 @@ pagpuksâ (puksa) pag_ [noun] extermination; annihilation
 mapuksâ (puksa) ma_ [verb] to be destroyed; to be annihilated;
 puksâ (puksa) rt_ [adjective] exterminated; annihilated
 mamulá (pula) mang_ [verb] to become red/reddish; to redden; to blush; to redden temporarily; to flush (redden)
-mapulá (pula) [adjective] red; red-colored; bloodshot
-pamumulà (pula) [noun] habitual criticism or fault finding
-pamumulá (pula) [noun] reddening; blushing
+mapulá (pula) ma_ [adjective] red; red-colored; bloodshot
+pamumulà (pula) pangCV_ [noun] habitual criticism or fault finding
+pamumulá (pula) pangCV_ [noun] reddening; blushing
 pulà (pula) rt_ [noun] criticism
 pulá (pula) rt_ [adjective] red
 puláng-pulá (pula) rt_na_rt [adjective] crimson
@@ -6402,8 +6410,8 @@ sankapuluán (pulo) sangka_an [noun] archipelago; the whole archipelago
 kapulungán (pulong) ka_an [noun] assembly; chamber; congregation; congress; conference; convention
 magpulong (pulong) mag_ [verb] to meet; to have a meeting
 makipagpulong (pulong) makipag_ [verb] to have a meeting with
-pagpupulong (pulong) [noun] holding a meeting
-pakikipagpulong (pulong) [noun] meeting together
+pagpupulong (pulong) pagCV_ [noun] holding a meeting
+pakikipagpulong (pulong) pakikipag_ [noun] meeting together
 pulong (pulong) rt_ [noun] meeting
 bátang-pulot (pulot) cmp_ [noun] foundling
 ipapulot (pulot) ipa_ [verb] to get someone to pick up something
@@ -6428,6 +6436,10 @@ magpunas (punas) mag_ [verb] to wipe
 pamunas (punas) pang_ [noun] rag; wiping instrument
 punas (punas) rt_ [noun] wipe; wiping
 punasan (punas) _in [verb] to wipe something
+ipundár (pundar) i_ [verb] to establish something; to found something
+maipundár (pundar) mai_ [verb] to be able to establish something; to be able to found something
+makapundár (pundar) maka_ [verb] to be able to fund
+pundár (pundar) rt_ [noun] fund
 magpunít (punit) mag_ [verb] to tear
 mapunit (punit) ma_ [verb] to become torn
 pagpúnit-punit (punit) pag_rt_rt [verb] to tear something to pieces; to rip something into pieces; to shred something
@@ -7430,6 +7442,9 @@ subukan (subok) _an [verb] to try something; to test something; to detect someth
 subukin (subok) _in [verb] to attempt something; to test something; to try out something
 subók (subok) rt_ [adjective] tested; proven;
 sumubok (subok) _um_ [verb] to try; to test; to try out
+masubsób (subsob) ma_ [verb] to fall on one's face
+subsób (subsob) rt_ [adjective] bowed; falling on one's face; head bowed; having one's head bent downward; dunking one's head;
+sumubsób (subsob) _um_ [verb] to fall on one's face
 isugál (sugal) i_ [verb] to gamble; to risk
 magsugál (sugal) mag_ [verb] to gamble
 pasugál (sugal) [noun] sponsored gambling session
@@ -8913,6 +8928,7 @@ pagtutók (tutok) pag_ [noun] focusing; focusing on
 tumutok (tutok) _um_ [verb] to concentrate; to focus
 tutukan (tutok) _an [verb] to point a weapon at something; to focus on something; to aim at something
 tutók (tutok) rt_ [adjective] focused on something
+pagtutol (tutol) pag_ [noun] resisting; objecting
 tumutol (tutol) _um_ [verb] to object; to argue against; to protest
 tutol (tutol) rt_ [noun] objection; complaint; [adjective] opposed; objecting; against
 tutulan (tutol) _an [verb] to dispute; to object to; to protest
