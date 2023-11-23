@@ -4,6 +4,14 @@
  strings in roots.txt, return all the roots and their corresponding matches for
  roots that match each pattern
 
+BUG: this doesn't show up as a root:
+haráp   (harap) [noun] rt_ front; [adjective] in front of; face-to-face; facing
+
+TODO:
+be able to specify the word-type independent of the root
+be able to specify the root-type independent of other affixes
+sorting options
+
 naaakmâ (akma) naCV_ [adjective] fitted; suited
 Akó na namán?! (ako) phr_ [interjection] Why me?; Why does it always have to be me?
 akin (ako) conj_ [pronoun] my; mine; me; I
@@ -18,16 +26,20 @@ import re
 import argparse
 from collections import defaultdict
 
-rootsfile = 'roots.txt'
-
 parser = argparse.ArgumentParser(
         description='extract matches from roots.txt based on affixes and word types')
+parser.add_argument('--rootsfile', dest='rootsfile', help='use a different roots file')
 parser.add_argument('--affixes', dest='affixes', nargs='+',
-                    help='the affixes to match against, eg "mag_ pa_ _an')
+                    help='the affixes to match against, eg "mag_ pa_ _an", "*" (wildcard for ALL)')
 parser.add_argument('--wordtype', dest='wordtype', help='specify the word type (eg: verb, adjective)')
 parser.add_argument('--listonly', dest='listonly', action='store_true', help='just output the matching roots')
 
 args = parser.parse_args()
+
+if args.rootsfile:
+    rootsfile = args.rootsfile
+else:
+    rootsfile = 'roots.txt'
 
 if args.affixes:
     patternz = args.affixes

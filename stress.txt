@@ -1,47 +1,139 @@
 ROOTS
 
-if a root has both noun and adj versions, stress will normally be on the penultimate syllable for the noun root and
-the final syllable for adj version.
-in this case, most conjugations will have stress *shift* to the (new) penultimate syllable (following the form of
-the noun root).
+if a root has both noun and adj versions:
+ - stress will normally be on the penultimate syllable for the noun root and the final syllable for adj version
+ - the noun root is generally the one to use in order to determine the new shift
 
-"dala" is a notable exception to adj/noun stress following for conjugations
+in the case of roots with penult stress:
+ - SHIFT means to the (new) penultimate syllable
+ - NO SHIFT means stress shifts to the new, final "ín" or "án"
+
+in the case of roots with final stress:
+ - SHIFT means stress shifts to the new, final "ín" or "án"
+ - NO SHIFT means to the (new) penultimate syllable
 
 VERBS
 
-_in, *a_in, _an, ma_an, pag_an VERBS: stress will almost always *shift*.  if there are noun and adj roots, the
-noun root is generally the one to use:
+_in, _an, ma_an, ka_in, pa_in, pa_an, pag_an, pagka_an verbs: stress will almost always SHIFT.
+(daán seems to always be an exception)
+mag_ verbs will MOSTLY NOT SHIFT
+
 hilíng -> hilingán, hilingín 
 lampás -> lampasán 
 alagà -> alagaan, maalagaan
 hirap -> hirapan, mahirapan
 linis -> linisan, linisin 
+
+pasawain - to make someone fed up
+sawà - feeling of disgust; feeling fed up
+papaitín - to make bitter
+paít - bitterness; bitter; bitter taste
+papasukin - to allow someone to enter
+pasok - entry; entrance; admission; trespass; school day; work day
+papiliin - to have someone choose or select
+pilì - choice; selection
+pilî - choice; select; elite; chosen; exclusive
+papuntahín - to have someone go; to send something/someone to
+puntá - destination; direction; coming; going; [verb] come (command)
+paputiín - to whiten; to bleach
+putî - white
+
+exceptions
+daán/paraanin
+layás/palayasin
+
+pag_an verbs almost always SHIFT:
 bilí -> pagbilhán
 bukás -> pagbuksán
 handâ -> paghandaán
 laban -> paglabanan
 
-daan is an exception
+exceptions:
+daán/pagdaanan
+pasensya/pagpasensyahán
+pilì/pagpilián
+saló/pagsaluhan
+samantala/pagsamantalahán 
 
-when there is no root with penultimate stress, stress will mainly shift to the final "in" when made into _in, pa_in
-*verb*.  (perhaps not if there is i_ verb?  see ayos).  exceptions: bali
+?? for examples, compare labag to lapad.
 
-for examples, compare labag to lapad.
+VERB CONJUGATIONS
+noód: panoorín, pinanoód, pinápanoód, panónoorín
+kabá: kabahán, kinabahán, kinákabahán, kákabahán
+usap: pag-usapan, pínag-usapan, pinag-úusapan, pag-úusapan
+pagmasdán: pinagmasdán, pinagmámasdán, pagmámasdán
+pagkáisahán: pinagkáisahán, pinagkakáisahán, pagkakáisahán
+buhat: pagbuhatín, pinagbuhát, pinagbubuhât, pagbúbuhatín
+buti: pagbutihin, pinagbuti, pinagbubuti, pagbubutihin
+
+tútuusín
+mahíhirapan
+nahíhirapan
+paáalisín
+sásayá
+tátawanan
+malalaman
+ginágastá
+kákabahán
+lumalayô
+
 
 NOUNS
 
-*_an nouns (_an, ka_an, pang_an), stress will often *shift* to final "an".
+_an nouns - stress will mostly NOT SHIFT.  this means that for a standard (usually noun) root, the stress will be on
+the final syllable (án).  and vice versa for roots with stress on final syllable, stress will now be on penultimate
+syllable.
+baboy - pig; pork; unsanitary
+babuyán - piggery; hog pen, pig sty
+banggâ - collision; impact; crash
+banggaan - collision; crash
+nakaw - stolen
+nakawán - theft; robbery
+oras - time; hour
+orasán - clock
+pasa - pass; passing; handing over
+pasahán - submission
+batay - based on
+batayán - basis
 
-ka_an conceptual nouns: usually there is stress *shift* to the following syllable
+exceptions:
+palít - change; exchange; substitute
+palitan - substitute; exchange
+
+ka_an nouns: will mostly SHIFT
+asim:  asim - sourness; acidity; acid
+asim:  kaasiman - sourness; acidity
+bagal:  bagal - slowness; sloth
+bagal:  kabagalan - slowness; tardiness; delay
 bulók - kabulukán
 buô - kabuuán
 ibá - kaibahán
 
-pag*_ nouns don't shift syllable
+pang_an nouns: will usually NOT SHIFT.
+titik - letter (of the alphabet)
+pánitikán - literature
+bahalà - the person responsible for something; in charge of; person-in-charge; taking care of something
+pámahalaán - government; management
+punò - tree; chief; boss; executive
+pámunuán - management; leadership; directors; board of officers
+bilí - buying; price
+pámilihan - market; exchange
+pantáy - equal; flat; level; aligned; even
+pamantayan - standard; norm
+tuntón - retracing; tracking down
+panuntunan - rule; guideline
+bayan - country; town; citizens; nation; home town; homeland
+pámayanán - community SS
+isdâ - fish
+pángisdaan - fishery; fish pond
+tulâ - poem; poetry
+pánulaan - poetry
+
+pag*_ nouns: do NOT SHIFT
 
 ADJECTIVES
 
-ma_ adjectives from noun roots: usually stress stays on same syllable:
+ma_ adjectives: do NOT SHIFT
 babaw (shallowness) - mababaw
 asó (smoke) - maasó
 dalás (frequency) - madalás

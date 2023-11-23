@@ -85,6 +85,11 @@ tgb ()
   cat *.txt | grep ^[A-Z] | tgrep.py "$*" | sort | uniq
 }
 
+caps ()
+{
+  grep ^[A-Z] | sort | uniq
+}
+
 try ()
 {
  echo def:

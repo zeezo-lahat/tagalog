@@ -1925,6 +1925,7 @@ lapastangan	irreverent, disrespectful, discourteous (walang pitagan, walang gala
 lapat	fine stripes of bamboo
 lápat	close fitting; well adjusted, exact
 lapida	gravestone
+lapis	pencil
 lapit	nearness
 lapitan	to come near something
 lapnos	peeled off (skin that has been burnt, etc.)
@@ -2992,6 +2993,9 @@ ngipin	teeth
 ngiti	a smile
 ngunit	yet/but, on the other hand
 ni	of, by; neither, not even, nor; name marker
+ni hindi	not even (Ni lapis, hindi siya nagdala.  He didn't even bring a pencil.)
+ni isá	not even one
+ni walá	not even (Ni lapis, walá ako./Ni walá akong lapis.  I don't even have a pencil.)
 nilalamán	content(s) (noun, laman)
 nilito	was confused by something
 ninang	godmother; sponsor
