@@ -203,6 +203,11 @@ kaka-	denotes action stated in the verb is tediously performed repeatedly or for
 kaka-	(adj) very small in quantity
 	kakatitíng - a very small amount
 	kakapiranggót - a very small piece, quantity
+kaka-REPREP/kaCV-REPREP - intensified of kaCV/kaka- verbs: "just this minute"
+	see Essential Tagalog Grammar (book or online)
+	kaluluto-luto
+	kapapagluto-luto
+	kapapaglu-pagluto
 ka-an	nouns of exchanging; of abstract qualities; of groups of things
 ka-an	verb - someone (ng) has/expresses feeling or thought regarding someone/something (ang)
 	kapootán | to detest something/someone
@@ -213,10 +218,12 @@ ka-an	verb - to do something or have occur in/on/at a location or to someone
 	kalimutan | to forget or overlook something
 	kasangkután - to be involved with something; to get caught up in something
 ka-in	(obj) combo of ka- noun and -in verb
-ma-	adj. of quality or large amount of something
-ma-	abilitative (obj.)
-ma-	accidental or involuntary action (obj.) (eg, makita)
-ma-	mental/emotional (actor), this is more like an adjective (eg, to be angry, annoyed)
+ma-	(adjective) of quality or large amount of something
+ma-	(obj.) abilitative
+	Matutupád niyá ang kanyáng tungkulin.	He will be able to fulfill his calling.
+ma-	(obj.) accidental or involuntary action (eg, makita)
+ma-	(actor) mental/emotional, this is more like an adjective (eg, to be angry, annoyed)
+	Nagagalit ako.	I'm mad.
 ma-an	abilitative (locative)
 	Sana maintindihan mo.  |  I hope you will understand.
 	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
@@ -284,10 +291,10 @@ magsi-an	pluralized -um- with several people doing act simultaneously or to each
 	Nagsisitáwanán ang mgá kalaro dahil napadulás si Bobo.	The players are all laughing together because Bobo slipped.
 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
 magsipag-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsi-an (actor)
-mai-	abilitative of i- (?) <ang> from <ng> to <sa> (object)
+mai-	(object) abilitative of i- <ang> from <ng> to <sa>
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	MalakI ang naitulong mo sa akin.  |  You have helped me a lot.
-maipa-	abilitative of ipa- (causative)
+maipa-	(object) abilitative of ipa- (causative)
 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
@@ -302,10 +309,11 @@ maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cau
 	Nakaratíng na ba si Tony?  |  Has Tony arrived yet?
 	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
 	Gagawin ko ang aking makakaya.  |  I will do my best.
-maka-	verb: (actor) accidental/incidental/unintentional of ma-
-	makatulog  |  to fall asleep
+maka-	(actor) accidental/incidental/unintentional of -um-
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something
+maka-	(actor) accidental/incidental/unintentional. actor focus of similar ma-
+	makatulog  |  to fall asleep
 maka-	verb: (actor) abilitative/causative (ika-)
 maka-	verb: (obj) abilitative (ka-in)
 	Dapat makausap kita.	I need to talk to you.
@@ -437,6 +445,7 @@ pagCV-an	noun former of mag-an verbs.
 	pagsusuntukan - fight between two or more people
 	pag-aawayan - quarelling/fighting with each other
 pag-in	(ng) does something to/with MULTIPLE THINGS/PEOPLE (ang) JOINTLY - pag-in, pinag, pinapag, papag-in
+	Hindi namin kayo pagtatabihin sa pagtulog.	We can't let you (multiple) sleep side by side.
 	Kunin ninyó siláng lahát at pagbabarilín!  |  Take them all out and shoot them!
 	Pinagbabaríl ni Erwan ang kandado para makapasok sa gusalì.  |  Erwan shot the door lock to enter the building.
 	Dumatíng ang mga sundalo para pagbabarilín ang mga rebelde.  |  The soldiers arrived to shoot the rebels.

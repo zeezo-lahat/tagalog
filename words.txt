@@ -245,7 +245,8 @@ ayún	"there you go", "there it is", "so there", etc.
 ayúno	fasting (not eating)
 ba	yes/no question former; used to emphasise question/ask for detail; also affirmation as "sige ba", "oo ba"
 ba't	bakit
-babà	lowness; to descend; chin
+babà	chin
+babà	lowness
 babâ	below; "get down"
 bababa	will come down, descend, get off (as vehicle)
 babalâ	caution, warning, notice, alarm
@@ -921,7 +922,7 @@ gumagana	functioning properly
 gumalà	to roam around
 gumalaw	to move
 gumaling	to get better from a sickness
-gumanap	to perform, act
+gumanáp	to perform, act
 gumanda	beautify
 gumasta	to spend money
 gumawa	to make, create, produce, commit, undertake
@@ -1576,6 +1577,7 @@ karagatán	ocean (dagat)
 karahasán	violence
 karalitaan	misery, poverty
 karamihan	most (of), majority, nearly all
+karampatan	equitable, appropriate, adequate, proper, suitable;  appropriateness, propriety (dampat)
 karampót	(dampót) pinch (of salt), a very small quantity; a little bit, a crumb; napakaliit na bílang o piraso
 karanasán	experience
 karaníwan	usually, generally, customarily; common, typical, ordinary, habitual (this is a root)
@@ -2074,6 +2076,7 @@ lunti	green
 luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
 lupít	cruelty, mercilessness, savageness, harshness
+lupon	committee, board, body, group
 lusaw	to melt, dissolve
 lusóg	healthiness
 lusong	descent, sinking

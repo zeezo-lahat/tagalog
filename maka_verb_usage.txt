@@ -1,3 +1,8 @@
+# there is the maka- that is actor/abilative for um verbs.  makapag- is equiv for mag verbs.
+# there is the maka- that is actor/unintentional/incidental for um verbs.
+# there is the nakaka- that is actor/causative similar to ika-, but is ang -> sa rather than ang -> ng.
+# there is the maka- that is object focus and social of ma-
+# there is the maka- that is object focus and abilitive/incidental of ka-in
 # Sentence examples for verbs that do not have "to be able" in their defs in roots.txt:
 # a lot of these have a meaning of something like "come to meet/pass/be with/etc"
 Ayaw mo ba akóng makaharáp?	You don't want to face me?
@@ -15,7 +20,7 @@ Madalas ko siyang makasalubong sa mall.	I often bump into him at the mall.
 Kung makasalubong mo si Lucy, huwág mong batiin.	If you meet Lucy on the way, do not greet her.
 Kung makasalubong mo silá, huwág kang matakot.	If you meet them on the way, do not be frightened.
 
-# makapag- in nakakapag- aspect *not* meaning can/able to:
+# makapag- in nakakapag- aspect *not* meaning can/able to: these are causative like nakaka-:
 Nakakapagbigáy kayó ng malíng ideya sa kanilá.	You're giving them the wrong idea.
 Nakakapagtalâ ang klíniká ng limáng kaso ng dengue kada araw.	The clinic records five dengue cases every day.
 nakakapagtaka lang	it's just strange

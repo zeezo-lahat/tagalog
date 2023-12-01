@@ -16,6 +16,7 @@ VERBS
 
 _in, _an, ma_an, ka_in, pa_in, pa_an, pag_an, pagka_an verbs: stress will almost always SHIFT.
 (daán seems to always be an exception)
+(alám -> malaman is an important exception)
 mag_ verbs will MOSTLY NOT SHIFT
 
 hilíng -> hilingán, hilingín 
@@ -61,12 +62,18 @@ VERB CONJUGATIONS
 noód: panoorín, pinanoód, pinápanoód, panónoorín
 kabá: kabahán, kinabahán, kinákabahán, kákabahán
 usap: pag-usapan, pínag-usapan, pinag-úusapan, pag-úusapan
-pagmasdán: pinagmasdán, pinagmámasdán, pagmámasdán
+masíd masdán, pagmasdán, pinagmasdán, pinagmámasdán, pagmámasdán
 pagkáisahán: pinagkáisahán, pinagkakáisahán, pagkakáisahán
 buhat: pagbuhatín, pinagbuhát, pinagbubuhât, pagbúbuhatín
 buti: pagbutihin, pinagbuti, pinagbubuti, pagbubutihin
+alám: ipaalám, ipinaalám, ipinápaalám, ipápaalám
+hirám: hiramín, hinirám, hiníhirám, híhiramín
+hirám: ihirám, inihirám, inihíhirám, ihíhirám
+magtapon (to throw away): nagtapon, nagtatapon, magtatapon
+magtapón (to waste): nagtapón, nagtátapón, magtátapón
+bayad: bayaran, binayaran, binábayaran, bábayaran
 
-tútuusín
+tuós: tuusín tútuusín
 mahíhirapan
 nahíhirapan
 paáalisín
@@ -95,8 +102,6 @@ pasa - pass; passing; handing over
 pasahán - submission
 batay - based on
 batayán - basis
-
-exceptions:
 palít - change; exchange; substitute
 palitan - substitute; exchange
 
@@ -108,6 +113,11 @@ bagal:  kabagalan - slowness; tardiness; delay
 bulók - kabulukán
 buô - kabuuán
 ibá - kaibahán
+
+magCV_, mangCV_ will SOMETIMES SHIFT
+aral -> mag-aarál
+bote -> magbobotE
+larô -> manlalarò
 
 pang_an nouns: will usually NOT SHIFT.
 titik - letter (of the alphabet)

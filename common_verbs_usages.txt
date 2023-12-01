@@ -2,20 +2,135 @@ kain
 ipakain - to feed ANG (food) to SA (person/animal)
 pakainin - to feed ANG (person)
 
-baba
-alam
-bayad
-dala
-bili
-usap
-salita
-abot
-sagot
-daan
-dinig
-pasa
-takbo
-
 galit
 magalit - to get mad
 pagalitan - to scold someone
+
+palít
+palít (palit) rt_ [noun] change; exchange; substitute
+
+ipalít (palit) i_ [verb] to exchange something with something else; to substitute; to replace; to convert
+palitán (palit) _an [verb] to replace something; to change something
+
+pumalít (palit) _um_ [verb] to exchange; to replace; to swap; to change places
+magpalít (palit) mag_ [verb] to change; to replace; to exchange
+makapagpalít (palit) makapag_ [verb] to be able to change
+magpalitan (palit) mag_an [verb] to exchange; to trade; to swap; to barter
+
+magpapalít (palit) magpa_ [verb] to have something exchanged or replaced
+
+mapalitan (palit) ma_an [verb] to be able to exchange something; to be able to substitute something; to be able to swap out something
+
+alam
+alám (alam) rt_ [noun] knowledge; something known
+alám (alam) rt_ [adjective] know; known; familiar; revealed; aware; conscious
+
+there is no "alaman", only "malaman" and "alamín"
+
+umalám (alam) _um_ [verb] to know
+
+malaman (alam) ma_an [verb] to know something (OF); to find out something (OF); to learn about something (OF); to be conscious of something (OF); to be informed (AF); to find out (AF)
+
+alamín (alam) _in [verb] to find out something; to figure out something; to know something; * focus on the thing known/to be known
+
+ipaalám (alam) ipa_ [verb] to disclose something; to inform of something; to let someone know something
+
+mapag-alamán (alam) mapag_an [verb] to come to realize something; to come to learn something; to come to find out something
+
+bayad
+bayad (bayad) rt_ [noun] payment; fee; charge
+
+bayaran (bayad) _an [verb] to pay for something; to pay someone
+ibayad (bayad) i_ [verb] to pay; to compensate
+
+mabayaran (bayad) ma_an [verb] to be able to pay; to have happened to have paid
+
+magbayad (bayad) mag_ [verb] to pay; to compensate
+magpabayad (bayad) magpa_ [verb] to let pay; to have pay
+
+makabayad (bayad) maka_ [verb] to be able to pay
+makapagbayad (bayad) makapag_ [verb] to be able to pay
+
+pagbayaran (bayad) pag_an [verb] to make up for something; to atone for something
+
+kita (seeing)
+makita (kita) ma_ [verb] OBJ to be able to see something; to see something; to catch sight of something
+kitain (kita) _in [verb] to meet up with someone
+magkita (kita) mag_ [verb] MUTUAL to meet or see someone; to meet each other accidentally; to see each other (reciprocal)
+makipagkita (kita) makipag_ [verb] ACTOR to meet up with
+mag-kíta-kita (kita) mag_ [verb] to see one another
+
+ipakita (kita) ipa_ [verb] to show someone something; to display something; to indicate; to demonstrate; * focus on the thing being shown
+mapakita (kita) mapa_ [verb] to be able to show something
+magpakita (kita) magpa_ [verb] to show; to appear; to demonstrate; to indicate; to display; to show up
+maipakita (kita) maipa_ [verb] to be able to show something; to be able to display something; to be able to indicate something; to be able to demonstrate something
+
+makakita (kita) maka_ [verb] to happen to see; to see; to see one or some or many; to be able to see; to catch sight of; to be able to find
+
+makitaan (kita) ma_an [verb] to demonstrate; to show
+
+wala
+dinig
+tapon
+bili
+usap
+punta
+salita
+sagot
+daan
+pasa
+takbo
+
+dala
+dalaín (dala) _in [verb] to make someone experience something unpleasant
+dalhán (dala) _an [verb] to bring something to someone; * focus on the person being brought something
+dalhín (dala) _in [verb] to bring something; to carry something; to deliver something
+dalá (dala) rt_ [noun] load; something carried along; cargo; something brought along; burden; [adjective] carried; brought
+dalâ (dala) rt_ [adjective] carried; brought
+ipadalá (dala) ipa_ [verb] to send something; to deliver something; to pass something on
+madalá (dala) ma_ [verb] to be able to bring something; to happen to bring something; to be able to tag along
+magdalá (dala) mag_ [verb] to bring; to carry; to deliver; to convey; to take to
+magpadalá (dala) magpa_ [verb] to send; to transmit; to carry away; to be swayed
+maipadalá (dala) maipa_ [verb] to be able to send something; to be able to deliver something; to be able to pass something on
+makapagdalá (dala) makapag_ [verb] to be able to bring
+padalhán (dala) pa_an [verb] to send something (to someone)
+
+
+baba
+babaín (baba) _in [verb] to go down for something; to put something down
+babà (baba) rt_ [noun] lowness; low
+babâ (baba) rt_ [noun] descent; down; [adjective] below (sa baba)
+bumabâ (baba) _um_ [verb] to go down; to descend; to get off; to alight; to depreciate; to decrease; to become low; to become lower
+ibabâ (baba) i_ [verb] to put something down; to bring something down; to lower something; to take something down; to degrade something; to demote something; to lower the position of something; to bring something downstairs
+ipababâ (baba) ipa_ [verb] to have something brought downstairs or taken down
+magbabâ (baba) mag_ [verb] to bring down; to demote
+magpakumbabâ (baba) magpakum_ [verb] to humble oneself
+makababâ (baba) maka_ [verb] to be able to go down; to be able to descend
+pababain (baba) pa_in [verb] to reduce; to lower; to depreciate
+pababaín (baba) pa_in [verb] to get someone to descend
+
+abot
+abot (abot) rt_ [noun] power; capacity; reach
+abót (abot) rt_ [adjective] overtaken; abreast with; within reach; reachable; reaching for; handing over
+abót (abot) rt_ [noun] arrival
+
+iabót (abot) i_ [verb] to hand something over; to hand something to; to pass something; * focus on the thing being handed/passed; to reach for something
+ipaabot (abot) ipa_ [verb] to have something reach
+maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
+maabót (abot) ma_ [verb] to be able to reach for something; to be able to reach something
+mag-abót (abot) mag_ [verb] to hand to; to hand over
+magpaabót (abot) magpa_ [verb] to offer; to extend (a hand, an offer, help, etc.)
+magpang-abot (abot) magpang_ [verb] to encounter; to be abreast of someone; to come together
+maiabót (abot) mai_ [verb] to be able to hand something over
+
+abutan (abot) _an [verb] to catch something; to be caught in something; to be caught by something;
+abután (abot) _an [verb] to hand something to; to pass something to; * focus on the person/thing receiving the item
+
+abutin (abot) _in [verb] to reach something; to overtake someone; to catch something before it's gone
+abutín (abot) _in [verb] to reach for something; to hand over something
+
+makaabot (abot) maka_ [verb] to be able to reach; to make it in time
+makaabót (abot) maka_ [verb] to be able to reach for
+
+umabot (abot) _um_ [verb] to reach; to get up to; to overtake; to attain; to gain on; to make it (in time)
+umabót (abot) _um_ [verb] to reach for; to reach out for; to be in time for
