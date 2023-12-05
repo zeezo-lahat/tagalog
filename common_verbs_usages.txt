@@ -111,26 +111,27 @@ pababaín (baba) pa_in [verb] to get someone to descend
 
 abot
 abot (abot) rt_ [noun] power; capacity; reach
-abót (abot) rt_ [adjective] overtaken; abreast with; within reach; reachable; reaching for; handing over
+abót (abot) rt_ [adjective] within reach; reachable; reaching for; handing over
+abót (abot) rt_ [adjective] overtaken; abreast with
 abót (abot) rt_ [noun] arrival
+ábut-abot (abot) rt_rt [adjective] continuous; a chain of
 
-iabót (abot) i_ [verb] to hand something over; to hand something to; to pass something; * focus on the thing being handed/passed; to reach for something
-ipaabot (abot) ipa_ [verb] to have something reach
-maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
-maabót (abot) ma_ [verb] to be able to reach for something; to be able to reach something
-mag-abót (abot) mag_ [verb] to hand to; to hand over
-magpaabót (abot) magpa_ [verb] to offer; to extend (a hand, an offer, help, etc.)
-magpang-abot (abot) magpang_ [verb] to encounter; to be abreast of someone; to come together
-maiabót (abot) mai_ [verb] to be able to hand something over
+paki-abot       "please pass.."
 
 abutan (abot) _an [verb] to catch something; to be caught in something; to be caught by something;
-abután (abot) _an [verb] to hand something to; to pass something to; * focus on the person/thing receiving the item
-
 abutin (abot) _in [verb] to reach something; to overtake someone; to catch something before it's gone
-abutín (abot) _in [verb] to reach for something; to hand over something
-
 makaabot (abot) maka_ [verb] to be able to reach; to make it in time
-makaabót (abot) maka_ [verb] to be able to reach for
-
 umabot (abot) _um_ [verb] to reach; to get up to; to overtake; to attain; to gain on; to make it (in time)
+maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
+ipaabot (abot) ipa_ [verb] to have something reach
+magpang-abot (abot) magpang_ [verb] to encounter; to be abreast of someone; to come together
+
+abután (abot) _an [verb] to hand something to; to pass something to; * focus on the person/thing receiving the item
+abutín (abot) _in [verb] to reach for something; to hand over something
+iabót (abot) i_ [verb] to hand something over; to hand something to; to pass something; * focus on the thing being handed/passed; to reach for something
+makaabót (abot) maka_ [verb] to be able to reach for
 umabót (abot) _um_ [verb] to reach for; to reach out for; to be in time for
+mag-abót (abot) mag_ [verb] to hand to; to hand over
+maabót (abot) ma_ [verb] to be able to reach for something; to be able to reach something
+maiabót (abot) mai_ [verb] to be able to hand something over
+magpaabót (abot) magpa_ [verb] to offer; to extend (a hand, an offer, help, etc.)

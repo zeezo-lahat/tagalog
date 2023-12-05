@@ -1990,7 +1990,8 @@ limos	alms; stipend
 limot	oblivion (root of forget)
 linaw	clearness (liquids); clarity (explanation); legibility; legible condition
 língap	protective care; care, protect
-lingid	hidden, not known, secret
+lingíd	unbeknownst, covert, clandestine, hidden, not known, secret
+lingíd sa kaalamán	unknown to, unaware of, literally: hidden from the knowledge of
 lingkod	servant
 linis	cleanliness, neatness, pureness
 linisin	to clean
@@ -2351,6 +2352,7 @@ maintindihan	understand(ing)
 máisalarawan	to be able to visualize something; to be able to picture something (object) <náisalarawan, naisásalarawan, maisásalarawan>
 maitalâ	to measure up to (actor); to be able to measure or record (object)
 maiwan	to leave something behind
+makaabot	to "measure up", "make it" somewhere/on-time, make/achieve some objective or standard (ang -> sa) [mn]akákaabot
 makaakó	conceited, egotistical
 makabayan	patriotic
 makabuluhán	meaningful; relevant; significant (bulo)
@@ -3944,7 +3946,7 @@ sinamahan	accompanied
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
 singa	act of blowing one's nose
-singaw	steam, fog
+singáw	steam, fog
 singganda	as beautiful as
 singhap	loss of breath, gasping for breath
 singíl	price quoted, charge, collection of payment of debt (-um-:-in)

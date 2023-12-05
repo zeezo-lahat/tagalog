@@ -30,13 +30,13 @@ abutin (abot) _in [verb] to reach something; to overtake someone; to catch somet
 abutín (abot) _in [verb] to reach for something; to hand over something
 iabót (abot) i_ [verb] to hand something over; to hand something to; to pass something; * focus on the thing being handed/passed; to reach for something
 ipaabot (abot) ipa_ [verb] to have something reach
-maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone
+maabutan (abot) ma_an [verb] to happen to encounter something; to catch up with / to something or someone (ng -> ang)
 maabót (abot) ma_ [verb] to be able to reach for something; to be able to reach something
 mag-abót (abot) mag_ [verb] to hand to; to hand over
 magpaabót (abot) magpa_ [verb] to offer; to extend (a hand, an offer, help, etc.)
 magpang-abot (abot) magpang_ [verb] to encounter; to be abreast of someone; to come together
 maiabót (abot) mai_ [verb] to be able to hand something over
-makaabot (abot) maka_ [verb] to be able to reach; to make it in time
+makaabot (abot) maka_ [verb] to be able to reach; to make it in time (ang -> sa)
 makaabót (abot) maka_ [verb] to be able to reach for
 paabót (abot) pa_ [request] please pass / please hand over
 pag-abót (abot) pag_ [noun] handing over
@@ -199,6 +199,9 @@ alas-trés (ala) time_ [time] three o'clock
 alaala (alaala) rt_ [noun] remembrance; memory; souvenir
 maalaala (alaala) ma_ [verb] to remember something (OF)
 mag-álaala (alaala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
+alab (alab) rt_ [noun] passion; blaze; ardor; flame; fire; steady fire
+maalab (alab) ma_ [adjective] passionate; fervent; ardent; earnest
+umalab (alab) _um_ [verb] to blaze; to catch on fire
 alagaan (alaga) _an [verb] to take care of something/someone; to care for; to baby sit; to raise; to conserve; * focus on the person/thing being taken care of
 alagang-alagà (alaga) rt_na_rt [adjective] very well cared for
 alagaín (alaga) _in [noun] something/someone requiring care
@@ -2939,9 +2942,11 @@ habol (habol) rt_ [noun] hurrying in order to overtake; pursuing; chasing; objec
 habulin (habol) _in [verb] to run after something/someone; to follow behind someone; to chase after something/someone; to hound; to hunt; to pursue
 habulán (habol) _an [noun] chasing incident
 humabol (habol) _um_ [verb] to run after; to chase after; to pursue; to catch something before it is done or gone; to catch up to
-maghabol (habol) mag_ [verb] to make an appeal (eg, in court)
+maghaból (habol) mag_ [verb] to make an appeal (eg, in court); to catch up on; to chase
+mahabol (habol) ma_ [verb] to chase after someone/something
 makahabol (habol) maka_ [verb] to be able to catch up
 paghabol (habol) pag_ [noun] chase; chasing; pursuit; hurrying in order to overtake
+paghahaból (habol) pagCV_ [noun] chasing; claiming; demanding
 pahabol (habol) pa_ [noun] postscript
 hagis (hagis) rt_ [noun] throw
 hagisan (hagis) _an [verb] to throw something at
@@ -3635,6 +3640,9 @@ pagkakáibá (iba) pagkaka_ [noun] difference; differences
 pagkakáibá-ibá (iba) pagkaka_ [noun] diversity
 paibá-ibá (iba) pa_ [adjective] changing; always changing; capricious; coming and going
 taga-ibáng (iba) taga_ [adjective] from another (usually followed by a descriptor, Ex(iba) taga-ibang bansa = from another country)
+mangibabaw (ibabaw) mang_ [verb] to dominate; to prevail; to be on top; to override
+pangingibabaw (ibabaw) pangCV_ [noun] domination; predominance
+pumaibabaw (ibabaw) _um_ [verb] to be above; to soar; to be on top; to straddle
 ibig (ibig) rt_ [pseudo-verb] want; like; [noun] love; wish; purpose; desire;
 ibig sabihin (ibig) phr_ [noun] meaning; [phrase] mean; want to say
 ibigin (ibig) _in [verb] to love someone/something romantically
@@ -4699,6 +4707,11 @@ malagô (lago) ma_ [adjective] luxurious
 mapalagô (lago) mapa_ [verb] to be able to grow something; to suddenly grow something
 paglagô (lago) pag_ [noun] growing
 palaguín (lago) pa_in [verb] to grow
+lagukín (lagok) _in [verb] to gulp something (usually liquid); to swallow something
+lagók (lagok) rt_ [noun] gulp (usually, of liquid); swallow
+lalagukan (lagok) CV_an [noun] adam's apple
+lumagók (lagok) _um_ [verb] to gulp (usually liquid); to swallow
+paglagók (lagok) pag_ [noun] gulping
 lagós (lagos) rt_ [adjective] penetrating
 lumagós (lagos) _um_ [verb] to go through; to cut through; to penetrate
 lagutín (lagot) _in [verb] to cut off
@@ -6493,7 +6506,7 @@ pumunô (puno) _um_ [verb] to fill; to fill up
 punong-punô (puno) rt_na_rt [adjective] very full; to the brim; crammed; extremely angry; fed up
 punuan (puno) _an [verb] to fill something in
 punuín (puno) _in [verb] to fill something; to fill a container
-punán (puno) _an [verb] to complement; to supplement; to amplify
+punán (puno) _an [verb] to fill something; to fill something out; to complement something; to supplement something; to amplify something
 punò (puno) rt_ [noun] tree; chief; boss; executive
 punô (puno) rt_ [adjective] full; filled
 pámunuán (puno) pang_an [noun] management; leadership; directors; board of officers

@@ -1,3 +1,12 @@
+I think this might be a very special case where a root that starts with "pa" and also has a
+"mag" and "magpa" needs a stress shift to differentiate them
+Akó ang nagpapátay sa kaniyá.
+"I am the one who ordered him killed."
+
+Last example is different from [note the stress]:
+Akó ang nagpapatáy sa kaniyá.
+"I am the one who is killing him." (conjugate nagCV-, not conjugate nagpa-)
+
 ROOTS
 
 if a root has both noun and adj versions:
