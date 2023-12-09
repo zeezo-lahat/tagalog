@@ -867,7 +867,7 @@ bagay (bagay) rt_ [noun] thing; item; matter; object; article; [adjective] suita
 bagay na bagay (bagay) rt_na_rt [adjective] very well suited for; well fitted for; fitting
 bagayan (bagay) _an [verb] to conform; to suit
 bumagay (bagay) _um_ [verb] to suit; to adapt; to fit
-bágay-bagay (bagay) rt_rt [noun] circumstances; things; various little things
+bágay-bagay (bagay) rt_rt [noun] this and that; circumstances; things; various little things
 ibagay (bagay) i_ [verb] to adapt
 magkakabagay (bagay) magkaka_ [adjective] fitting; homogenous; in sync
 makibagay (bagay) maki_ [verb] to adjust oneself to; to conform to
@@ -2097,12 +2097,13 @@ makadamá (dama) maka_ [verb] to feel; to be able to feel
 padamdám (dama) pa_ [grammar] interjection; [noun] exclamation point
 pandamá (dama) pang_ [noun] senses (sensory faculty)
 damay (damay) rt_ [noun] sympathy; involvement
-damayan (damay) _an [verb] to give sympathetic aid to someone; to express sympathy to someone
+damayan (damay) _an [verb] to sympathize with someone; to give sympathetic aid to someone; to console someone; to express sympathy to someone
 damayán (damay) _an [noun] mutual aid
 dumamay (damay) _um_ [verb] to sympathize
-idamay (damay) i_ [verb] to implicate someone; to incriminate someone
+idamay (damay) i_ [verb] to implicate someone; to incriminate someone; to involve someone
 karamay (damay) ka_ [noun] person who sympathizes | [adjective] sympathetic
-madamay (damay) ma_ [verb] to be implicated; to be part of something; to be affected
+madamay (damay) ma_ [verb] to be part of; to be affected; to be implicated; to drag someone into (something)
+makiramay (damay) maki_ [verb] to empathize; to sympathize
 pakikiramay (damay) pakiki_ [noun] condolence; compassion; going out of one's way to help without being asked
 damdamin (damdam) _in [noun] feelings; sentiment; emotions
 damdám (damdam) rt_ [noun] feeling
@@ -5994,13 +5995,15 @@ magpalitan (palit) mag_an [verb] to exchange; to trade; to swap; to barter
 magpalít (palit) mag_ [verb] to change; to replace; to exchange
 magpapalít (palit) magpa_ [verb] to have something exchanged or replaced
 makapagpalít (palit) makapag_ [verb] to be able to change
-mapalitan (palit) ma_an [verb] to be able to exchange something; to be able to substitute something; to be able to swap out something
+mapalitán (palit) ma_an [verb] to be able to exchange something; to be able to substitute something; to be able to swap out something; to have something changed
+pagpalít (palit) pag_ [noun] changing; exchanging
 pagpapalitan (palit) pagCV_an [noun] exchanging
 pagpapalít (palit) pagCV_ [noun] exchange; substitution; switching
 pagpapalít-palít (palit) pagCV_rt_rt [noun] changing; swapping
 palitan (palit) _an [noun] substitute; exchange
-palitán (palit) _an [verb] to replace something; to change something
+palitán (palit) _an [verb] to replace something; to change something; to switch something
 palít (palit) rt_ [noun] change; exchange; substitute
+pálit-palit (palit) rt_rt [adverb] back and forth (between two things/actions); exchanging between
 pamalít (palit) pang_ [noun] replacement; spare
 pumalít (palit) _um_ [verb] to exchange; to replace; to swap; to change places
 paluin (palo) _in [verb] to spank someone; to beat someone/something; to hit someone/something; to whip someone/something; to strike someone/something
@@ -8841,20 +8844,24 @@ túlong-tulong (tulong) rt_rt [noun] helping; helping together; helping one anot
 pahintulot (tulot) pahin_ [noun] permission; assent; consent; permit (document)
 itulot (tulot) rt_ [verb] to permit; to enable
 tulot (tulot) rt_ [noun] permission; approval
-ipagpatuloy (tuloy) ipagpa_ [verb] to go ahead with something; to keep on with something; to continue with something; to pursue something
+ipagpatuloy (tuloy) ipagpa_ [verb] to go ahead with something; to keep on with something; to continue with something; to pursue something; to keep something up (keep doing something)
 ituluyan (tuloy) i_an [verb] to complete or finalize something (colloquial); to harm or kill someone (slang)
 itulóy (tuloy) i_ [verb] to continue something; to keep on doing something
 itutulóy (tuloy) iCV_ [expression] To be continued...
+magkatuluyan (tuloy) magka_an [adjective] being together
 magpatuloy (tuloy) magpa_ [verb] to continue; to proceed; to accommodate
 maipagpatuloy (tuloy) maipagpa_ [verb] to be able to continue; to be able to carry on
 makapagpatuloy (tuloy) makapagpa_ [verb] to be able to continue; to be able to proceed
 makituloy (tuloy) maki_ [verb] to stay somewhere temporarily
-matulóy (tuloy) ma_ [verb] to follow through; to go on; to continue; to push through
+matuluyan (tuloy) [verb] to be able to stay/live somewhere
+matulóy (tuloy) ma_ [verb] to follow through with something; to continue on with something; to be able to continue something; to push something through
 pagpapatuloy (tuloy) pagpapa_ [noun] continuation; extension
-patuloy (tuloy) pa_ [adjective] continuous; constant; perpetual; [adverb] continue; continues; continuously; keeping on; keep on
-tuluyan (tuloy) _an [noun] temporary home or shelter; [adverb] eventually; in the end; consequently
-tuluyán (tuloy) _an [verb] to goad someone on; to continue on to somewhere
-tulóy (tuloy) rt_ [interjection] come in! [adverb] as a result; as a consequence; might as well; push through; proceed; continue; next; eventually; accordingly
+patuloy (tuloy) pa_ [adjective] continuous; constant; perpetual; [adverb] continuing; continues; continuously; keeping on; keep on; ceaseless
+patuluyin (tuloy) pa_in [verb] to provide lodging/shelter for someone; to house someone
+tagapagpatuloy (tuloy) tagapagpa_ [noun] propagator; forwarder
+tuluyan (tuloy) _an [adverb] eventually; effectively; in the end; consequently; fully; [noun] temporary home or shelter;
+tuluyán (tuloy) _an [verb] to stay/live somewhere; to goad someone on; to continue on to somewhere;
+tulóy (tuloy) rt_ [interjection] come in! [adverb] continue; proceed; pushing through; as a result; as a consequence; might as well; continues; next; eventually; accordingly;
 tulúy-tulóy (tuloy) rt_rt [adjective/adverb] is endless; non-stop; continuously.; continuous; never stops; keeps on; keeps on happening
 tumulóy (tuloy) _um_ [verb] to continue; to go ahead; to come in; to go on; to proceed; to board; to reside temporarily
 matumal (tumal) ma_ [verb] to be slow (in business/customers); to have few customers

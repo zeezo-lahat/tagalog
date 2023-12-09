@@ -79,7 +79,7 @@ while count < dothismany and linecount <= availablelines:
         else:
             print(t2e[1].strip(), end='')
             input() # this will not work if reading input text from stdin!!!
-            print('\t\t\t\t', t2e[0].strip())
+            print('\t', t2e[0].strip())
         time.sleep(2) 
         print()
     else:
@@ -91,7 +91,7 @@ while count < dothismany and linecount <= availablelines:
         else:
             print(t2e[0].strip(), end='')
             input() # this will not work if reading input text from stdin!!!
-            print('\t\t\t\t', t2e[1].strip())
+            print('\t', t2e[1].strip())
         time.sleep(2) 
         print()
     
