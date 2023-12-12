@@ -1,11 +1,17 @@
-abala (abala) rt_ [noun] delay; nuisance; disturbance; inconvenience; bother; hassle; detention
-abalahin (abala) _in [verb] to bother someone; to worry someone; to distract someone
-abalá (abala) rt_ [adjective] busy; occupied; focused on
+abala (abala) rt_ [noun] delay; nuisance; disturbance; interruption; inconvenience; bother; hassle; detention
+abalahin (abala) _in [verb] to bother someone; to interrupt someone; to worry someone; to distract someone
+abalá (abala) rt_ [adjective] busy; occupied; preoccupied; focused on
 abaláng-abalá (abala) rt_na_rt [adjective] very busy; super busy
-maabala (abala) ma_ [verb] to inconvenience; to be inconvenienced; to be delayed; to be bothered
+kaabalahan (abala) ka_an [noun] busyness; preoccupation
+maabala (abala) ma_ [verb] to inconvenience someone (OF); to be inconvenienced (AF); to be delayed (AF); to be bothered (AF)
 mag-abalá (abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)
-pagkáabalahán (abala) pagka_an [verb] to be very busy with something; to be engrossed in something
+makaabala (abala) maka_ [verb] to cause a nuisance; to cause a disturbance; to bother; to cause an interruption
+mapang-abala (abala) mapang_ [adjective] troublesome; bothersome
+nakaaabala (abala) nakaCV_ [adjective] troublesome; bothersome
+pag-abala (abala) pag_ [noun] interrupting; interfering; bothering; delaying
+pagkáabalahán (abala) pagka_an [verb] to be very busy with something; to be engrossed in something; to keep busy with something
 púnong-abalá (abala) phr_ [noun] host
+umabala (abala) _um_ [verb] to be hindered or delayed
 abanger (abang) slang_ [noun] waiter; someone who is waiting; * slang
 abangers (abang) slang_ [noun] watchers (slang)
 abangán (abang) _an [verb] to watch out for; to keep an eye out for
@@ -2492,6 +2498,9 @@ menór-de-edád (edad) cmp_ [noun/adjective] minor; below the age of an adult; m
 maengganyo (engganyo) ma_ [verb] to be enticed (AF)
 engganyo (engganyo) rt_ [noun] enticement
 makaengganyo (engganyo) maka_ [verb] to be able to entice; to entice
+iere (ere) i_ [verb] to air something (as in a TV show or broadcast).
+pag-ere (ere) pag_ [noun] airing (as in a TV show or radio broadcast)
+umere (ere) _um_ [verb] to air (as in a TV show or broadcast)
 gaanán (gaan) _an [verb] to lighten; to reduce the load of; to simplify
 gaán (gaan) rt_ [noun] lightness (of weight); easiness
 gumaán (gaan) _um_ [verb] to become light
@@ -3100,6 +3109,8 @@ tagahangà (hanga) taga_ [noun] admirer
 hangarín (hangad) _in [verb] to desire something; to aspire to something; to seek something; to intend something; to have the goal of doing something; to aim to accomplish for something
 hangád (hangad) rt_ [noun] desire; purpose; ambition; intention; aspiration; seeking
 maghangád (hangad) mag_ [verb] to desire; to seek; to intend; to aspire
+hangos (hangos) rt_ [noun] gasp; [adjective] out of breath (due to hurry or excitement); breathlessly
+humangos (hangos) _um_ [verb] to gasp from breath; to breathlessly arrive in a hurry; to rush
 humantóng (hantong) _um_ [verb] to stop; to end up; to result in; to culminate in
 kahahantungan (hantong) kaCV_an [noun] the end result; stopping point; final resting place; the final result
 hantungan (hantong) _an [noun] stopping point; final resting place
@@ -3240,6 +3251,9 @@ mahigâ (higa) ma_ [verb] to lie down; to lie down on
 makahigâ (higa) maka_ [verb] to be able to lie down
 mapahigâ (higa) mapa_ [verb] to lie down involuntarily
 nakahigâ (higa) naka_ [adjective] lying down; in a lying position; recumbent
+maghigantí (higanti) mag_ [verb] to get revenge; to seek revenge; to retaliate; to avenge
+makapaghigantí (higanti) makapag_ [verb] to be able to get revenge
+paghihigantí (higanti) pagCV_ [noun] revenge; getting revenge
 higitán (higit) _an [verb] to exceed; to surpass
 higitín (higit) _in [verb] to pull tight; to squeeze tight
 higít (higit) rt_ [adverb] more than; exceeding
@@ -7512,8 +7526,8 @@ sugat (sugat) rt_ [noun] wound; cut; sore
 sugatan (sugat) _an [verb] to wound; to injure
 sugatán (sugat) _an [noun] wounded person; [adjective] wounded
 isugod sa ospitál (sugod) phr_ [verb] to rush to the hospital
-isugód (sugod) i_ [verb] to rush someone/something; to quickly bring someone/something
-maisugód (sugod) mai_ [verb] to be able to rush something; to be able to charge at something
+isugod (sugod) i_ [verb] to rush someone/something; to quickly bring someone/something
+maisugod (sugod) mai_ [verb] to be able to rush something; to be able to charge at something
 sugod (sugod) rt_ [noun] rush; charge (forward motion); blitz; dash
 sugurin (sugod) _in [verb] to rush something; to charge; to attack
 sumugod (sugod) _um_ [verb] to rush forward; to plunge forward; to charge forward
@@ -7551,6 +7565,9 @@ sukdulan (sukdol) _an [adjective] limit; supreme; radical; rank; extreme; full o
 sukdól (sukdol) rt_ [adjective] huge; enormous; monstrous; vast; voluminous; immense
 suklám (suklam) rt_ [noun] loathing; disgust; aversion
 masuklám (suklam) ma_ [verb] to abhor; to detest
+isuklî (sukli) i_ [verb] to exchange something; to give something in return; to return something; to give back change;
+suklián (sukli) _an [verb] to give change (money) back to someone; to exchange something with someone; to return a favor or action to someone
+suklî (sukli) rt_ [noun] change (as in money)
 isukò (suko) i_ [verb] to surrender something; to relinquish something; to give up something; to bow to something/someone
 masukuín (suko) ma_in [adjective] easy to quit
 pagsukò (suko) pag_ [noun] surrendering; submitting
@@ -9454,3 +9471,6 @@ nakayukô (yuko) naka_ [adjective] having one's head or body bent forward; havin
 yukód (yuko) rt_ [noun] bowing one head in respect/greeting; reverence
 yukô (yuko) rt_ [noun] bending down of the head or body; obeisance
 yumukô (yuko) _um_ [verb] to bow one's head; to bend; to bend down; to bend forward; to bend over; to droop
+maghigantí (higanti) [verb] to get revenge; to seek revenge; to retaliate; to avenge
+makapaghigantí (higanti) [verb] to be able to get revenge
+paghihigantí (higanti) [noun] revenge; getting revenge

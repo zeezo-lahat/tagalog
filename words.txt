@@ -835,7 +835,7 @@ galít	angry; to hate/dislike
 gálos	slight scratch
 gambalà	disturbance, nuisance, interruption
 gamit	use
-gamít	used, second-hand; usage
+gamít	used, second-hand; usage; "using" as "gamít ang"
 gamót	medicine
 gampan	fulfilling some duty, task, etc. (ginagampan, ginampan, gagampan)
 gana	appetite, enthusiasm, interest
@@ -847,6 +847,7 @@ ganito	like this, in this manner (gaya nito)
 gantí	revenge, retribution, return
 ganyán	like that (gaya + niyan)
 gapok	rotten inside (wood); fragile (wood, clothes, etc. due to age)
+garapál	openly shameless, brazen, shamelessly greedy.  often used regarding polititions
 garbo	elegance; boast
 gasgás	scratch, abrasion
 gasgasín	to scratch
@@ -927,6 +928,7 @@ gumanda	beautify
 gumasta	to spend money
 gumawa	to make, create, produce, commit, undertake
 gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
+gumugol	to spend (money, time)
 gunaw	end of the world, destruction of all things, deluge
 guni-guní	hallucination; imagination; illusion; figment; mirage
 gunitâ	memory, recollection
@@ -1742,6 +1744,7 @@ kirot	pain
 kisame	ceiling
 kisáp	wink, blink
 kislap	sparkle, scintillation, to glitter, twinkle
+kislót	jerk, twitch
 kita	income
 kita	seeing
 kitá	I to you
@@ -1791,6 +1794,7 @@ kumawáy	to wave
 kumbaba	humility, meekness, submission
 kumbagá	(expression) like, that is to say, in a sense, as if, it seems (kung baga)
 kumíkinang	sparkling
+kumislót	to jerk or twitch
 kumot	sheet, bedsheet
 kumpirma	to confirm
 kumpisál	confession, religious confession
@@ -2244,6 +2248,7 @@ magmurá	to swear/curse
 magnánákaw	will steal
 mágnanákaw	thief
 magnasa	wish, want, desire
+magniniyog	coconut farmer
 magpaalam	to bid goodbye; to ask permission
 magpagaling	to heal, cure, recuperate
 magpahangin	to get some fresh air
@@ -2278,6 +2283,7 @@ magpayo	to advise
 magpulong	a lot of people to meet
 magpuntá	to be assigned to go somewhere
 magpuri	to praise, compliment
+magranggo	to "rank", eg rank second
 magsaliksík	to research
 magsalin	to translate (as in language)
 magsalita	to talk, to speak
@@ -2381,6 +2387,7 @@ makapangyarihan	strong, powerful, authoritative, almighty; power, strength
 makapál	thick, dense, abounding
 makapili	traitorous
 makápúlot	to happen to pick up, find
+makaraán	to pass; after (like pagkatapos: "makaraang bumagsak ang pader sa kanya")
 makaramdám	to feel
 makasanlibutan	something like humanity or worldly people.  used in biblical translations for "one who is in the world" (John 4:4), isang katauhan
 makasarili	selfish
@@ -2672,7 +2679,7 @@ matabâ	fat
 matabáng	insipid, bland, lacking taste, tasteless, walang lasa
 matabunan	to take in, to absorb
 matagal	long in duration
-matagpuán	to happen to find, discover
+matagpuán	to happen to find, discover, or just to occur
 matagumpay	successful
 matahimik	quiet
 matakot	to be afraid
@@ -3710,6 +3717,7 @@ puyó	cowlick; tuft
 pwersa	force, strength, pressure (also 'puwersa')
 rámbol	fight involving multiple participants
 rambolan	a rumble, to rumble (rámbol)
+ranggo	rank
 rebulto	statue
 reklámo	complain
 repaso	review, going over
@@ -3732,7 +3740,7 @@ sa kasalukuyan	currently
 sa kasamaang palad…	unfortunately…
 sa katunayan	in fact, actually
 sa lalong madaling panahon	the earlier the better (as soon as possible)
-sa may	near, somewhat/somewhere near
+sa may	near, somewhat/somewhere near, in (as in sa may Tagum City "in Tagum City")
 sa pagitan ng	between
 sa pamamagitan	with the use of, by means of, via
 sa pangkalahátan	in general
@@ -4154,6 +4162,7 @@ takíp	cover, lid, cap (takíp)
 takíp-matá	eyelid
 takip-silim	twilight, dusk (takipsilim)
 takipan	(n) covering up faults (takíp)
+taklesa	tactless, shameless (slang)
 takot	fear
 takót	scared, fearful
 takpán	to cover something (takíp)
@@ -4345,7 +4354,7 @@ tsekwa	derogatory term for chinese
 tsupér	chauffeur, driver
 tubo	growing; tube, pipe; gain, profit
 tubò	native
-tugis	pursuit, chase
+tugis	pursuit, chase; investigate
 tugtog	playing of a musical instrument
 tuhod	knee
 tuhog	strings of beads, jewels, etc.; stringing things together

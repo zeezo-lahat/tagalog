@@ -1,10 +1,6 @@
 * 'sa' refers to state - location, condition
-
-
 * 'ka' associations with people, places, concepts: katiwala, kapatid, kaklase, kabilang, kaaway, kausapin, kautusan,
                    kágawarán, kagiliran, kagubAtan
-
-
 _______________________________________________________________________________________________________
 * to employ an agent to do something: "pa"
 
@@ -37,6 +33,8 @@ grepping for "to be able to" in roots.txt:
       1 magka_
 
 note: "can" is typically stated as "will be able to" (future aspect) rather than "am/is able to"
+      "should" can be also.
+
 note: often vague differentiation between "is" and "can", esp wrt "ma"
 
 Nakakain ka na ba?	Have you eaten yet? / Have you been able to eat yet?

@@ -23,7 +23,6 @@ matandaán (tanda) ma_an [verb] to be able to remember
 matapakan (tapak) ma_an [verb] to be able to or happen to step on
 matapunan (tapon) ma_an [verb] to get something thrown or spilled on something/someone
 matuklasán (tuklas) ma_an [verb] to find out about something; to discover something
-matulungan (tulong) ma_an [verb] to be able to help
 maturuan (turo) ma_an [verb] to teach something; to teach someone; to educate someone; to train someone; to enlighten someone
 matutunan (tuto) ma_an [verb] to learn something; to find something out; to experience something
 maubusan (ubos) ma_an [verb] to run out of; to have used up something
@@ -192,3 +191,12 @@ Lagì siyáng natátagalán sa pagpilì ng damít.	She always takes the time to 
 Natátagalán silá sa pagboto ng bagong pinuno.	It takes them a long time to vote for the new leader.
 Matátagalán pa bago ko siyá maunawaan.	It would be a long time before I could understand her.
 Palagi siyang natatagalan sa pagpili ng kanyang damit.	She always takes her time in choosing her dress.
+
+matulungan (tulong) ma_an [verb] to be able to help
+hindi kita matutulungan	I can't help you
+
+maunahan (una) ma_an [verb] to be ahead of the rest (AF); to be first (AF); to be able to be first (AF); to beat someone (going somewhere/doing something) (OF)
+Dalián mo para hindî nilá tayo maunahan.        Hurry up so that they won't be able to beat us to it.
+Gusto ko sana siyang yayain, kaya lang naunahan ako ng kaibigan niya.	I wanted to invite him, but his friend beat me to it.
+
+May apatnapu nang dating nag-top din sa board ang na-asistihan ng 4Ps program ng pamahalaan.	About 40 previous board top achievers used to be assisted by the government’s 4Ps program.

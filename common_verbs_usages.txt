@@ -39,8 +39,14 @@ mapag-alamán (alam) mapag_an [verb] to come to realize something; to come to le
 
 bayad
 bayad (bayad) rt_ [noun] payment; fee; charge
+bayarán (bayad) _an [noun] hired man; payment due
 
 bayaran (bayad) _an [verb] to pay for something; to pay someone
+Basta bayaran mo ako, gagawin ko, kahit ano.    As long as you pay me, I’ll do anything.
+Binabayaran ni Loida ang lahat ng binili niya.  Loida pays for everything she bought.
+Customer: Saan ko po babayaran? - Where do I pay?
+Magkano ang babayaran ako?      How much is the amount I am to pay?
+
 ibayad (bayad) i_ [verb] to pay; to compensate
 
 mabayaran (bayad) ma_an [verb] to be able to pay; to have happened to have paid
@@ -52,6 +58,8 @@ makabayad (bayad) maka_ [verb] to be able to pay
 makapagbayad (bayad) makapag_ [verb] to be able to pay
 
 pagbayaran (bayad) pag_an [verb] to make up for something; to atone for something
+Pagbabayaran mo ang ginawa mo.  You will pay for what you did.
+Pagbabayaran ng kinabukasan ang kasakiman ng nakaraan.  The future will pay for the selfishness of the past.
 
 kita (seeing)
 makita (kita) ma_ [verb] OBJ to be able to see something; to see something; to catch sight of something
@@ -72,6 +80,7 @@ makitaan (kita) ma_an [verb] to demonstrate; to show
 wala
 dinig
 tapon
+habol
 bili
 usap
 punta
@@ -83,27 +92,33 @@ takbo
 
 dala
 dalaín (dala) _in [verb] to make someone experience something unpleasant
+
 dalhán (dala) _an [verb] to bring something to someone; * focus on the person being brought something
 dalhín (dala) _in [verb] to bring something; to carry something; to deliver something
-dalá (dala) rt_ [noun] load; something carried along; cargo; something brought along; burden; [adjective] carried; brought
-dalâ (dala) rt_ [adjective] carried; brought
-ipadalá (dala) ipa_ [verb] to send something; to deliver something; to pass something on
-madalá (dala) ma_ [verb] to be able to bring something; to happen to bring something; to be able to tag along
+
 magdalá (dala) mag_ [verb] to bring; to carry; to deliver; to convey; to take to
-magpadalá (dala) magpa_ [verb] to send; to transmit; to carry away; to be swayed
-maipadalá (dala) maipa_ [verb] to be able to send something; to be able to deliver something; to be able to pass something on
+madalá (dala) ma_ [verb] to be able to bring something; to happen to bring something; to be able to tag along
+
 makapagdalá (dala) makapag_ [verb] to be able to bring
+
+ipadalá (dala) ipa_ [verb] to send something; to deliver something; to pass something on
+magpadalá (dala) magpa_ [verb] to send; to transmit; to carry away; to be swayed
+
+maipadalá (dala) maipa_ [verb] to be able to send something; to be able to deliver something; to be able to pass something on
 padalhán (dala) pa_an [verb] to send something (to someone)
 
 
 baba
-babaín (baba) _in [verb] to go down for something; to put something down
 babà (baba) rt_ [noun] lowness; low
 babâ (baba) rt_ [noun] descent; down; [adjective] below (sa baba)
 bumabâ (baba) _um_ [verb] to go down; to descend; to get off; to alight; to depreciate; to decrease; to become low; to become lower
+
+babaín (baba) _in [verb] to go down for something; to put something down
 ibabâ (baba) i_ [verb] to put something down; to bring something down; to lower something; to take something down; to degrade something; to demote something; to lower the position of something; to bring something downstairs
 ipababâ (baba) ipa_ [verb] to have something brought downstairs or taken down
+
 magbabâ (baba) mag_ [verb] to bring down; to demote
+
 magpakumbabâ (baba) magpakum_ [verb] to humble oneself
 makababâ (baba) maka_ [verb] to be able to go down; to be able to descend
 pababain (baba) pa_in [verb] to reduce; to lower; to depreciate
@@ -111,7 +126,7 @@ pababaín (baba) pa_in [verb] to get someone to descend
 
 abot
 abot (abot) rt_ [noun] power; capacity; reach
-abót (abot) rt_ [adjective] within reach; reachable; reaching for; handing over
+abót (abot) rt_ [adjective] physically reaching for something; within reach; reachable; reaching for; handing over
 abót (abot) rt_ [adjective] overtaken; abreast with
 abót (abot) rt_ [noun] arrival
 ábut-abot (abot) rt_rt [adjective] continuous; a chain of
@@ -135,3 +150,4 @@ mag-abót (abot) mag_ [verb] to hand to; to hand over
 maabót (abot) ma_ [verb] to be able to reach for something; to be able to reach something
 maiabót (abot) mai_ [verb] to be able to hand something over
 magpaabót (abot) magpa_ [verb] to offer; to extend (a hand, an offer, help, etc.)
+
