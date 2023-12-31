@@ -334,6 +334,9 @@ makipag-	to DO SOMETHING (ang) WITH SOMEONE (sa). social form of mag-
 makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
 mala-	for adj. equivalent to semi-, half, somewhat or similar to
 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
+	note, "ng" will often become either "m" or "n" when occuring before certain consonants:
+		b,p and sometimes m: "ng" -> "m"
+		d,l,r,s,t and sometimes n: "ng" -> "n"
 	Ikinulóng ko ang nangángagát na aso.  |  I confined the biting dog. (mang- -kagat)
 	Kailán nangailangan ng pera si Wena?  |  When did Wena need money?
 	Paano kung siyá ang mangailangan ngayón?  |  What if he's the one in need this time?

@@ -713,6 +713,9 @@ mapaatrás (atras) mapa_ [verb] to recoil; to back off; to fall back (suddenly)
 paatrás (atras) pa_ [adverb] backward; going backward
 pag-atrás (atras) pag_ [noun] recoil
 umatrás (atras) _um_ [verb] to back off; to back out (e.g., of a deal); to move back; to move backwards; to back up; to retreat
+atubilí (atubili) rt_ [noun] reluctance; unwillingness; [adjective] doubtful; hesitant
+mag-atubilí (atubili) mag_ [verb] to do hesitantly; to hesitate; to do reluctantly
+pag-áatubilí (atubili) pagCV_ [noun] indecision; hesitating; hesitancy; wavering
 awang-awâ (awa) rt_na_rt [adjective] feeling pity; pitying
 awà (awa) rt_ [noun] mercy; pity; compassion; grace; clemency; sympathy
 awá (awa) rt_ [noun] slight opening
@@ -1939,6 +1942,9 @@ dagán (dagan) rt_ [noun] putting weight on something
 dumagán (dagan) _um_ [verb] to put a weight on something; to lean on something
 madaganán (dagan) ma_an [verb] to be weighed down; to be pinned down; to be covered by something heavy
 pandagán (dagan) pang_ [noun] paperweight
+dagasâ (dagasa) rt_ [noun] surge; rush; sudden quickening of movement;
+pagragasâ (dagasa) pagCV_ [noun] rushing
+rumagasa (dagasa) _um_ [verb] to rush; to surge
 Dumagat (dagat) _ [noun] sea people; people who live on the coast; a subgroup of the Aeta people in Luzon
 baybáy-dagat (dagat) cmp_ [noun] seashore; coast
 dagat (dagat) rt_ [noun] ocean; sea
@@ -3170,6 +3176,10 @@ ihasík (hasik) i_ [verb] to sow something; to scatter something
 hasík (hasik) rt_ [noun] sowing; spreading abroad
 maghasík (hasik) mag_ [verb] to sow; to sow seeds
 paghahasík (hasik) pagCV_ [noun] spreading; sowing; scattering
+hatak (hatak) rt_ [noun] pull
+hatakin (hatak) _in [verb] to pull something; to tow something
+humatak (hatak) _um_ [verb] to pull
+paghatak (hatak) pag_ [noun] pulling
 hataw (hataw) rt_ [noun] hit; hitting; beating; thrashing
 hatawin (hataw) _in [verb] to strike something; to hit something
 humataw (hataw) _um_ [verb] to thrash; to hit; to make waves
@@ -3841,10 +3851,17 @@ init (init) rt_ [noun] heat; warmth; ardor; fervor; steam
 initin (init) _in [verb] to heat something up; to make something hot
 kainitan (init) ka_an [noun] heat
 mag-init (init) mag_ [verb] to heat up; to heat
+magpainit (init) magpa_ [verb] to make hot; to heat up; to bask in the sun
 mainit (init) ma_ [adjective] hot; warm; fiery; exciting
 mainit-init (init) ma_rt_rt [adjective] a little hot; somewhat hot; kind of hot
+mainitan (init) ma_an [verb] to feel hot; to be overheated
+mainitín (init) ma_in [adjective] heated; prone to heat up
 napakainit (init) napaka_ [adjective] very hot
+pag-initan (init) pag_an [verb] to heat something up
+pagpapainit (init) pagpapa_ [noun] basking in the sun; sun bathing; heating
+painitan (init) pa_an [verb] to put something in the sun; to have something bask in the sun; to heat something
 painitin (init) pa_in [verb] to heat something up
+pinakamainit (init) pinakama_ [adjective] hottest
 tag-inít (init) tag_ [noun] summer; hot season
 uminit (init) _um_ [verb] to become hot; to become warm
 inom-inóm (inom) rt_rt drinking
@@ -4880,7 +4897,7 @@ lamanán (laman) _an [verb] to fill something; * focus on the thing being filled
 lamán (laman) rt_ [noun] contents; substance; meat; flesh; body; root
 maglamán (laman) mag_ [verb] to contain; to hold; to accommodate
 malamán (laman) ma_ [adjective] fleshy; solid and nourishing; expressive
-nilálamán (laman) nila_ [noun] contents (e.g., of a manuscript); context
+nilálamán (laman) niCV_ [noun] contents (e.g., of a manuscript); context
 palamán (laman) pa_ [noun] stuffing; filling
 waláng lamán (laman) phr_ [adjective] empty; having no contents
 lumamáng (lamang) _um_ [verb] to outdo
@@ -4905,10 +4922,13 @@ napakalambót (lambot) napaka_ [adjective] very soft
 lamíg (lamig) rt_ [noun] coldness; cold
 lamíg-lamíg (lamig) rt_rt [adjective] very cold
 lumamíg (lamig) _um_ [verb] to cool; to become cold
-malamíg (lamig) ma_ [adjective] cold; chilly; cool
+malamíg (lamig) ma_ [adjective] cold; chilly; cool; nippy
+magpalamíg (lamig) magpa_ [verb] to cool off; to cool down
 manlamíg (lamig) mang_ [verb] to feel cold (in temperature); to be cold or indifferent to someone
 napakalamíg (lamig) napaka_ [adjective] very cold; too cold
-nilálamíg (lamig) nila_ [adjective] cold; chilly; freezing; [verb] to feel cold
+nilálamíg (lamig) niCV_ [adjective] cold; chilly; freezing; [verb] to feel cold
+palamigín (lamig) pa_in [verb] to cool something down; to freeze something; to make something cold;
+pampalamíg (lamig) pampa_ [noun] something to cool down; something for cooling
 pinakamalamíg (lamig) pinakama_ [adjective] coldest; coolest
 taglamíg (lamig) tag_ [noun] winter
 lamon (lamon) rt_ [noun] devouring; gorging; stuffing oneself with food
@@ -5491,6 +5511,9 @@ lubusan (lubos) _an [adverb] fully; completely
 lubusín (lubos) _in [verb] to do completely; to do something fully
 lubós (lubos) rt_ [adjective] complete; completely; absolute; fully; real
 lubós na kaligayahan (lubos) phr_ [phrase] bliss; great happiness
+lugár (lugar) rt_ [noun] place; site; point; spot; region; location; seat; space
+lumugár (lugar) _um_ [verb] to take one's place
+walâ sa lugár (lugar) phr_ out of place
 ikalugód (lugod) ika_ [verb] to cause pleasure; to cause enjoyment
 kalugdán (lugod) ka_an [verb] to enjoy; to take pleasure in
 kalugúd-lugód (lugod) ka_rt_rt [adjective] delightful
@@ -5605,6 +5628,9 @@ makalusót (lusot) maka_ [verb] to be able to get away with; to get through; to 
 malusután (lusot) ma_an [verb] be able to get through a tough situation
 palusutín (lusot) pa_in [verb] to allow to get through something
 palusót (lusot) pa_ [noun] excuse; excuse oneself (from the table, from a meeting, etc.)
+lumustáy (lustay) _um_ [verb] to embezzle; to waste money
+lustayín (lustay) _in [verb] to embezzle something; to waste something; to squander something
+lustáy (lustay) rt_ [noun] embezzlement
 kalutasan (lutas) ka_an [noun] solution; solving
 lumutás (lutas) _um_ [verb] to solve
 lutasín (lutas) _in [verb] to cope with something; to solve something
@@ -6452,6 +6478,8 @@ mamroblema (problema) mang_ [verb] to have difficulty; to have a problem
 problema (problema) rt_ [noun] problem
 problemado (problema) [adjective] having problems; experiencing problems
 problemahin (problema) _in [verb] to worry about something; to be anxious about something
+pinamumugaran (pugad) pinaCV_an [noun] nest; nesting place
+pugad (pugad) rt_ [noun] nest
 bigyáng-pugay (pugay) cmp_ [verb] to salute someone/something
 magbigáy-pugay (pugay) mag_ [verb] to salute
 pagbibigay-pugay (pugay) [noun] saluting; giving a salute
@@ -8735,6 +8763,11 @@ tubuhan (tubo) _an [noun] sugarcane farm; sugarcane plantation
 tubò (tubo) rt_ [noun] gain, profit; interest; growth; dividend; native
 tubó (tubo) rt_ [noun] sugar cane
 tumubò (tubo) _um_ [verb] to profit; to develop; to sprout
+ipatubós (tubos) ipa_ [verb] to have someone/something ransomed; to ransom someone
+manunubos (tubos) mangCV_ [noun] savior; redeemer
+matubós (tubos) ma_ [verb] to be able to redeem something
+pantubós (tubos) pang_ [noun] ransom
+tubusín (tubos) _in [verb] to redeem someone; to save someone from their sins
 tugis (tugis) rt_ [noun] pursuit; pursuing; going after; running after; chase
 tugisin (tugis) _in [verb] to pursue; to chase
 tumugis (tugis) _um_ [verb] to chase; to run after
@@ -9471,6 +9504,3 @@ nakayukô (yuko) naka_ [adjective] having one's head or body bent forward; havin
 yukód (yuko) rt_ [noun] bowing one head in respect/greeting; reverence
 yukô (yuko) rt_ [noun] bending down of the head or body; obeisance
 yumukô (yuko) _um_ [verb] to bow one's head; to bend; to bend down; to bend forward; to bend over; to droop
-maghigantí (higanti) [verb] to get revenge; to seek revenge; to retaliate; to avenge
-makapaghigantí (higanti) [verb] to be able to get revenge
-paghihigantí (higanti) [noun] revenge; getting revenge

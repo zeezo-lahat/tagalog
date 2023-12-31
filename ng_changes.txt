@@ -1,0 +1,4 @@
+in conjugated words with "ng" prefixes (ie, mang and pang), "ng" will often become either "m" or "n" when
+occuring before certain consonants:
+	b,p and sometimes m: "ng" -> "m"
+	d,l,r,s,t and sometimes n: "ng" -> "n"

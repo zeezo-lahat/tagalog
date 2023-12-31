@@ -334,6 +334,7 @@ bálat	birthmark, patch on the skin
 balát	skin, pelt, rind, paring, crust, shell,  surface, pod, cover
 balbál	vulgarity; vulgarness 
 baldado	crippled, disabled, worn out
+baldé	pail, bucket
 bale	value; as if; equal in value to; cash advance; so
 bále-walâ	not worth ones salt, not worthy
 bále-walaín	to ignore something/someone; to disregard something
@@ -678,6 +679,7 @@ dalâ	to be wary
 dalaga	a young/single woman; teenage girl; unmarried woman
 dalagita	teenage female, preteen girl
 dalamhatì	anguish, affliction, grief, extreme sorrow
+dalanghita	tangerine
 dalampasígan	seashore
 dalás	frequency
 dálaw	visit; guest
@@ -930,6 +932,7 @@ gumawa	to make, create, produce, commit, undertake
 gumitgit	(gitgit) to advance by repeated slight movements, to go forward by force
 gumugol	to spend (money, time)
 gunaw	end of the world, destruction of all things, deluge
+gunggóng	moron, idiot
 guni-guní	hallucination; imagination; illusion; figment; mirage
 gunitâ	memory, recollection
 gunting	scissors
@@ -1180,7 +1183,7 @@ igláp	brief moment (syn. saglit)
 iha	daughter, name for a younger girl (Spanish origin)
 ihain	to offer something; to put food on a table; to serve food; to sacrifice something. <inihain, inihahain, ihahain>
 ihayag	disclose, reveal, divulte
-ihingî	to ask (ng) for something (ng) for some particular reason (the focus) Ihingî mo ng patawad ang mali mo.
+ihingî	to ask (ng) for something (ng) for some reason (the focus) Ihingî mo ng patawad ang mali mo.
 ihinto	to cause to stop
 iilan	very few
 iisa	only one, single, one and the same
@@ -1455,6 +1458,7 @@ kalabóg	thud of a heavy falling body
 kalabóso	prison
 kaladkád	drag/dragging
 kalagayan	state, condition
+kalaguyò	lover
 kalahati	half
 kalahok	contestant
 kalakal	merchandise, commodity
@@ -1514,6 +1518,7 @@ kamiseta	shirt
 kamít	acquisition; obtaining, getting, achieving
 kamote	sweet potato; blockhead / dimwit (slang)
 kampante	complacent, content
+kampón	disciple, follower
 kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kamungawan	comprehension
@@ -1821,6 +1826,7 @@ kuró-kuró	personal opinion (palagay, opinyon) point of view; notion; belief; c
 kusà	deliberately, voluntarily
 kusang-loób	free will
 kusang palo	self-starter
+kusíng	half centavo
 kutà	fort, bulwark, hideout; makapal na pader o moog
 kutaan	to fortify a place
 kutíng	kitten
@@ -1866,6 +1872,7 @@ lagpák	fall, crash, thud, failure
 lagpás	past, beyond (syn: lábis, tagós lampás)
 lagsák	pagkadurog ng bagay na lumabis ang pagkaluto
 lagusan	exit tunnel, passageway
+laguyò	camaraderie
 lahad	opening of the hand palm up; unrolling, unfolding
 lahat	all, everything, everyone
 lahì	(also láhi) race, people, breed, lineage
@@ -2377,6 +2384,7 @@ makalilimutan	to be able to forget something
 makalimutin	forgetful
 makalipas	after (having passed, the passage of time) (makalipas ang isang araw -> a day later)
 makaluma	olden, old-fashioned
+makamandág	venomous
 makamít	to achieve, to gain
 makamkám	rapacious, greedy, want to have all
 makamtan	to get, to obtain
@@ -2653,6 +2661,7 @@ masarap	feels good, enjoyable
 masasayang	will waste
 masayá	happy, fun
 maselan	fastidious, meticulous, particular
+masibà	gluttonous
 masigásig	enthusiastic
 masiglá	ardent, enthusiastic, animated, playful, sprightly, keen; quickly, briskly, smartly
 masikap	diligent, industrious
@@ -2754,6 +2763,7 @@ mayá't-mayá	time and again; always; every now and then
 mayaman	rich, wealthy
 mayari	to be finished, to be made, slang: to be killed
 maykapál	Creator; God
+mayumi	demure; tender
 mensáhe	message
 meryenda	afternoon snack
 mga	pluralizer; about, approximately
@@ -3783,7 +3793,7 @@ saglitan	briefly
 sagót	answer
 sagrado	sacred, belonging to God, holy
 sagutin	to answer something
-sagwâ	vulgarity, obsenity, in bad taste
+sagwâ	vulgarity, obscenity, in bad taste
 sagwán	paddle (as for a raft)
 sagwíl	barrier, obstacle
 sahig	floor
@@ -3909,7 +3919,6 @@ sényas	sign, signal
 serye	series
 si	name marker, marks name of anything with a personality
 sibà	glutton
-masibà	gluttonous
 sibák	chopping wood with an axe. slang for firing someone.
 sibásib	ravaging, viscious animal attack
 sibuyas	onion

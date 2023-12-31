@@ -1,0 +1,68 @@
+# trimmed output from: grep someone roots.txt | grep verb | egrep '( have| for) some'
+paalalahanan (alala) pa_anan [verb] to remind someone; to have someone be reminded; to warn someone
+ipaamóy (amoy) ipa_ [verb] to have someone smell something
+ipaaresto (aresto) ipa_ [verb] to have someone arrested
+mabagsakan (bagsak) ma_an [verb] to have something fall on something/someone; to collapse
+ibasa (basa) i_ [verb] to read something for someone
+bayaran (bayad) _an [verb] to pay for something; to pay someone
+bilhán (bili) _an [verb] to buy something for someone (BF) - focus on the person being bought for; to buy something somewhere (LF) - focus on where something was bought
+ibilí (bili) i_ [verb] to buy something for someone (BF); to purchase something for someone(BF); to buy with something (e.g., money) (IF)
+mabilhán (bili) ma_an [verb] to be able to buy something for someone
+iboto (boto) i_ [verb] to vote for someone/something
+ipagbuhát (buhat) ipag_ [verb] to lift/carry something for someone else
+pagbuhatín (buhat) pag_in [verb] to lift/carry for someone else
+ipagdasál (dasal) ipag_ [verb] to pray for someone
+ipariníg (dinig) ipa_ [verb] to have someone hear or listen to something
+ipagamit (gamit) ipa_ [verb] to lend; to have someone's property used by someone else
+gawán (gawa) _an [verb] to make something for someone; to do something for someone; to do something on/toward something else
+igawâ (gawa) i_ [verb] to make something for someone
+pagawaín (gawa) pa_in [verb] to make someone do something; to have someone do something
+ipaghandâ (handa) ipag_ [verb] to prepare something for someone
+ipahilot (hilot) ipa_ [verb] to have someone massage something
+pagpahingahín (hinga) pagpa_in [verb] to have someone take a rest; to have someone rest somewhere
+hingán (hingi) _an [verb] to ask for something from someone; to request something from someone
+ipahipò (hipo) ipa_ [verb] to have someone touch something
+ihiwà (hiwa) i_ [verb] to slice or cut something for someone
+ipaghiwà (hiwa) ipag_ [verb] to have something sliced or cut for someone
+ipaghugas (hugas) ipag_ [verb] to wash something for someone; to do the dishes for someone; to wash dishes for someone
+ipahuli (huli) ipa_ [verb] to have someone arrested
+ipaihaw (ihaw) ipa_ [verb] to have someone grill something
+magpakabít (kabit) magpa_ [verb] to have someone install something; to have someone attach something; to have someone connect something
+ikopya (kopya) i_ [verb] to copy something for someone
+ikuha (kuha) i_ [verb] to get something for someone; to fetch for someone
+ipakuhà (kuha) ipa_ [verb] to have someone get something
+ipaglabá (laba) ipag_ [verb] to wash clothes for someone; to do laundry for someone
+lagaan (laga) _an [verb] to boil something for someone
+ipalakad (lakad) ipa_ [verb] to have someone run errands for someone else
+palibutan (libot) pa_an [verb] to have something/someone surrounded
+magpalinis (linis) magpa_ [verb] to have someone clean
+ipalunók (lunok) ipa_ [verb] to have someone swallow something
+ipaglutò (luto) ipag_ [verb] to cook for someone
+ipalutò (luto) ipa_ [verb] to have someone cook something; * focus on thing being cooked
+lutuan (luto) _an [verb] to cook something for someone
+ipapatáy (patay) ipa_ [verb] to have someone killed
+papiliin (pili) pa_in [verb] to have someone choose or select
+papuntahín (punta) pa_in [verb] to have someone go; to send something/someone to
+ipasabi (sabi) ipa_ [verb] to have someone relay a message; to make someone say something; * focus on the thing said / the message given
+pasakayín (sakay) pa_in [verb] to have someone ride; to let someone ride (e.g., a car, bus, etc.)
+ipasaló (salo) ipa_ [verb] to have someone catch something; to have someone continue paying for something
+isulat (sulat) i_ [verb] to write something (OF); to write something for someone (BF)
+ipatagò (tago) ipa_ [verb] to have someone keep something
+tagurián (taguri) _an [verb] to give a name to someone (esp. a nickname) or something; to be known as or for something
+itahî (tahi) i_ [verb] to sew something for someone
+ipatapos (tapos) ipa_ [verb] to have someone finish something; to let someone finish something
+ipatawag (tawag) ipa_ [verb] to have someone be called; to call for someone; to summon someone; * focus on the person/people being called for
+itawag (tawag) i_ [verb] to call someone something; to name something; to call about something; to call someone for someone else
+mapatawag (tawag) mapa_ [verb] to send for someone; to have someone sent for; to summon someone; to call (AF)
+patikmán (tikim) pa_an [verb] to have someone taste something; to have someone try something
+patikmín (tikim) pa_in [verb] to have someone taste or experience
+timplahán (timpla) _an [verb] to mix something for someone; to prepare something for someone; to prepare a drink for someone
+ipagtirá (tira) ipag_ [verb] to leave something for someone
+itirá (tira) i_ [verb] to house; to shelter; to set aside for someone else; to leave a job unfinished
+pagtrabahuhan (trabaho) pag_an [verb] to work somewhere; to work for someone; to work on something
+patulaín (tula) pa_in [verb] to have someone recite a poem / poetry
+patuluyin (tuloy) pa_in [verb] to provide lodging/shelter for someone; to house someone
+ipaturò (turo) ipa_ [verb] to have something taught; to ask someone to point at something
+ipaubos (ubos) ipa_ [verb] to have someone use something all is used up
+iupô (upo) i_ [verb] to make someone sit; to have someone sit
+uwián (uwi) _an [verb] to bring home something for someone
