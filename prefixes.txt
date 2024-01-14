@@ -229,8 +229,20 @@ ma-an	abilitative (locative)
 	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
 ma-an	opinion (actor)
 ma-an	to affect an object (obj.)
-ma-in	adj. of quality in high degree (ex. matulungin - helpful)
+ma-in	adj. of quality in high degree or personal characteristics (ex. matulungin - helpful)
+	timpî - temperance; moderation; self-control
+	matimpiin - reserved; self-controlled; restrained
+	tulâ - poem; poetry
+	mátulain - poetic
+	tulong - help; benefit; aid; backing
+	matulungín - helpful
 maCV-in	adj. of quality in high degree (akin to ma-in)
+	galit - anger; displeasure
+	magagalitín - irritable; cranky; easily angered
+	limót - forgotten
+	malilimutín - forgetful
+	takot - fear
+	matatakutin - fearful; timid
 mag-	deliberate, intentional action
 	Takót akóng magdaán sa lagusan.  |  I'm afraid to pass through the tunnel.
 mag-	nouns of two people or things having having reciprocal relationship (used also with ka-)

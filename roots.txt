@@ -4367,6 +4367,8 @@ pagkakakilala (kilala) pagkaka_ having known
 pagkilala (kilala) pag_ [noun] honor; acknowledgement; identification; recognition
 pagkákakilanlán (kilala) pagkaka_an [noun] identity; individuality
 pagpapakilala (kilala) pagpapa_ [noun] making known; introduction; introducing
+kilatisin (kilatis) _in [verb] to evaluate something; to appraise something
+makilatis (kilatis) ma_ [verb] to be able to evaluate something
 kiligín (kilig) _in [verb] to thrill; to shudder; to tremble; to shiver; to tingle; to be thrilled; to get butterflies (in one's stomach)
 kilíg (kilig) rt_ [noun] giddiness; thrilled; shiver; romantic excitement; shuddering; butterflies (in one's stomach); exhilaration (from an exciting or romantic experience)
 nakakakilíg (kilig) nakaka_ [adjective] causing a thrill or shiver or butterflies (in one's stomach)
@@ -5762,7 +5764,9 @@ pilíkmatá (mata) cmp_ [noun] eyelash; eyelashes; lash; lashes
 ikamatáy (matay) ika_ [verb] to cause death
 kamatayan (matay) ka_an [noun] death; doom
 katayán (matay) ka_an [noun] slaughterhouse
+magkámatayan (matay) magka_an [verb] to fight to the death
 magpakamatáy (matay) magpaka_ [verb] to commit suicide
+mamatáy ka na! (matay) phr_ [interjection] I hope you die!; I hope you drop dead!
 mamatayán (matay) ma_an [verb] to suffer the loss of someone (due to death)
 mamatáy (matay) ma_ [verb] to die
 mámamátay-tao (matay) cmp_ [noun] killer; murderer; assassin
@@ -5827,6 +5831,8 @@ mapamulát (mulat) mapa_ [verb] to open one's eyes; to have one's eyes open invo
 mulatin (mulat) _in [verb] to open one's eyes; to open
 mulát (mulat) rt_ [adjective] with open eyes; educated; trained
 nakamulát (mulat) naka_ [adjective] with opened eyes; open-eyed
+mamumuná (muna) mangCV_ [noun] critic
+mamuná (muna) ma_ [verb] to criticize something (OF)
 mungkahi (mungkahi) rt_ [noun] suggestion
 imungkahi (mungkahi) i_ [verb] to suggest something
 magmungkahi (mungkahi) mag_ [verb] to suggest
@@ -5888,6 +5894,11 @@ ngayóng araw (ngayon) [noun] today
 manginíg (nginig) ma_ [verb] to shake; to tremble; to shiver; to shudder; to shake with chills
 nginíg (nginig) rt_ [noun] shaking; trembling
 panginginíg (nginig) pangCV_ [noun] shaking; shivering; trembling
+mapangisi (ngisi) mapa_ [verb] to grin; to smirk; to snicker
+nakangisi (ngisi) naka_ [adjective] grinning
+ngisi (ngisi) rt_ [noun] grin; snicker; giggle; snigger; smirk
+ngisian (ngisi) _an [verb] to grin at someone; to smirk at someone
+ngumisi (ngisi) _um_ [verb] to grin; to smirk
 abot tenga ang ngitî (ngiti) [idiom] said of a person who is grinning
 mapangitî (ngiti) mapa_ [verb] to make someone smile; to smile involuntarily; to smile suddenly
 nakangitî (ngiti) naka_ [adjective] smiling; [adverb] smilingly
@@ -6284,23 +6295,22 @@ magpataw (pataw) mag_ [verb] to impose
 pagpapataw (pataw) pagpa_ [noun] imposing; punishing
 pataw (pataw) rt_ [noun] surcharge; punishment
 patawan (pataw) _an [verb] to impose; to put a burden, tax or punishment on
-mamatáy ka na! (patay) phr_ [interjection] I hope you die!; I hope you drop dead!
 ipapatáy (patay) ipa_ [verb] to have someone killed
-magkámatayan (patay) magka_an [verb] to fight to the death
-magpatáy (patay) mag_ [verb] to slaughter (animals); to kill
+magpatáy (patay) mag_ [verb] to slaughter (animals); to kill; to turn off (e.g., lights, the faucet, etc.)
 makapatáy (patay) maka_ [verb] to be able to kill
 mapatáy (patay) ma_ [verb] to be able to kill something (OF); to be able to turn off / extinguish (OF); to be killed (AF)
 nakapatáy (patay) naka_ [adjective] dead; turned off
-pagkakapatáy (patay) pagkaka_ [noun] killing; death
+pagkakapatáy (patay) pagkaka_ [noun] killing; death; the way someone was killed
+pagpapatáy (patay) pagCV_ [noun] turning off (e.g., a light); killing
 pagpatáy (patay) pag_ [noun] murder; killing
 pamatáy (patay) pang_ [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
 patayan (patay) _an [noun] slaughter; killing
 patayan ng hayop (patay) phr_ [noun] slaughterhouse
 patayín (patay) _in [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
-patáy (patay) rt_ [adjective] dead; deceased; [expressions] crap / oh my gosh / dang (slang)
+patáy (patay) rt_ [adjective] dead; deceased; [noun] dead (person); [expressions] crap / oh my gosh / dang (slang)
 patáy-dampót (patay) cmp_ [adjective] unconscious; dead weight
 patáy-patayan (patay) rt_rt_an [noun] playing dead; pretending to be dead
-pumatáy (patay) _um_ [verb] to kill; to extinguish
+pumatáy (patay) _um_ [verb] to kill; to murder; to extinguish
 patulan (patol) _an [verb] to stoop down to someone's level (figurative); to pay attention to someone of lower status; * generally used in antagonistic social scenarios
 pumatol (patol) _um_ [verb] to stoop down to someone (figurative); to pay attention to someone of lower status; to confront; to defy; to oppose; (generally used in antagonistic social scenarios)
 ipatong (patong) i_ [verb] to put something on top; to apply something on top

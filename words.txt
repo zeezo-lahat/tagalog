@@ -105,6 +105,7 @@ alay	offering
 alboroto	uproar, outcry, tantrum, childish tantrum, simmering moodiness (also "alburoto")
 albularyo	traditional healer, medicine man; quack doctor, charlatan
 ale	aunt, step mother, expression addressed to a woman, reference to a woman
+aligagâ	frantic; frantic with activity; in a rush; hurrying; in a tizzy (slang)
 alikabok	dust
 alilà	servant
 alimango	crab
@@ -445,6 +446,7 @@ bawat	(bawa't) each, all, every, often followed by "lahat" or "isa"
 bawì	retraction, recovery
 bawiin	to take something back
 bayáan	let, allow
+bayabas	guava
 bayad	pay, payment
 bayád	paid
 bayan	town, country, "home"
@@ -847,6 +849,7 @@ ganid	carnivore; tightwad; brute
 ganirí	like this, in this way/manner (gáya + nirî) (also gayarí)
 ganito	like this, in this manner (gaya nito)
 gantí	revenge, retribution, return
+ganundin	likewise (ganoon din)
 ganyán	like that (gaya + niyan)
 gapok	rotten inside (wood); fragile (wood, clothes, etc. due to age)
 garapál	openly shameless, brazen, shamelessly greedy.  often used regarding polititions
@@ -1703,6 +1706,7 @@ kawag	wave, wag
 kawalán	loss, a lack of X, void, nothingness
 kawalang-kahulugan	“absence of meaning”, meaninglessness
 kawali	frying-pan
+káwang-gawâ	charity (káwanggawâ)
 kawaní	employee, assistant, helper
 káwanihán	bureau
 kawat	stealing, theft (Visaya)
@@ -1785,6 +1789,8 @@ kulob	something that is covered up
 kulog	thunder
 kulóng	jailed, caged
 kulot	curl
+kulubót	wrinkles; wrinkled   
+kulu-kulubót	all wrinkly
 kulungan	a cage, a prison
 kumag	lazy idiot; worthless person; small insect   
 kumahig	to scrabble; to scratch
@@ -1801,6 +1807,7 @@ kumbagá	(expression) like, that is to say, in a sense, as if, it seems (kung ba
 kumíkinang	sparkling
 kumislót	to jerk or twitch
 kumot	sheet, bedsheet
+kumpare	"pare"
 kumpirma	to confirm
 kumpisál	confession, religious confession
 kumpiyansa	confidence
@@ -2421,6 +2428,7 @@ makinilya	type; typewriter
 makinílyahín	to type
 makintáb	shiny, glossy
 makipag-úsap	to converse with, communicate with (actor/talker focus, typically initiator of discussion)
+makipagbati	to reconcile, make peace
 makipaggitgitan	(gitgit) to advance by repeated slight movements, to go forward by force
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
@@ -2925,6 +2933,7 @@ nandidito	is/are here
 nandito	here (same as narito)
 nandiyán	am/is/are there
 nang	when (for past event), since/upon/on/at/to/so, so as, so that, in order that; verb+adverb linker; na+ng
+nang tuluyan	eventually
 nanghipo	touched
 nangulila	yearned
 nangyari	incident; happened
@@ -3361,6 +3370,7 @@ paliwanag	explanation
 palpak	failure, badly done - cannot be redeemed or justified
 palso	false; deceitful; spurious
 paltik	homemade gun; a blow from a whip or lash; a slingshot
+palugit	extension, reprieve; handicap (in a game)
 pamagát	title
 pámahalaán	government (pang-bahala-an)
 pamahiin	superstition
@@ -3490,7 +3500,7 @@ paradahan	a place to park
 paraiso	paradise, heaven
 paratang	accusation, allegation
 parati	always, all the time, again and again, perennial, often (dati)
-pare	a term for one's male buddy / friend; male best friend; used to refer to an unknown person of the same age
+pare	a male buddy/friend; used to refer to an unknown person of the same age (also "kumpare")
 parehas	the same (pareho)
 pareho	both; similar, identical, equal, the same (literally, as in "the same place")
 pares	even, paired, similar, equal to, like
@@ -3684,6 +3694,7 @@ punò	tree; chief, leader; origin, source, base
 punô	full, filled
 puntahan	to go to a person or place
 puntód	mound; tomb
+puntong	point
 puntos	"points" a numerical score or record, such as points in a game, etc.
 pupulsuhán	wrist
 puri	praise
@@ -3875,6 +3886,7 @@ sanglinikha	universe, all creatures
 sangsang	strong but not unpleasant odor
 sanhî	cause, motive, reason
 sanhi ng	caused by, due to
+santól	a type of fruit with a yellow/orange exterior and white interior, also known as cotton fruit
 sánlibután	universal (katoliko)
 sapa	small stream, brook
 sapagkát	because, since
@@ -4356,6 +4368,7 @@ torótot	party horn, toy trumpet
 totoó	true, real, genuine
 traidór	traitor
 traidurín	to betray someone
+trapál	tarp, tarpaulin
 tripulante	a crew (as in a ship, etc.)
 tsaka	(atsaka) slangy way of saying “and” or “as well as” (at + saka)
 tsansa	chance

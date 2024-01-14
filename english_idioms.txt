@@ -1,4 +1,6 @@
 # common english idioms, expressions (mga kasabihán/sawikaín)
+it's a pain	abalá ito
+briefly	nang saglitan
 as I expected	gaya ng inaasahan ko
 my guess is..	ang hula ko..
 see/consider yourself to be...	tingín sa sarili ay...
@@ -220,3 +222,4 @@ a little tea please	kaunting tsa, nga
 absent-minded	walá sa sarili
 (in order) to be closer to..	para mas maging malapit sa..
 from beginning to end	nang pasimula hanggang katapusan
+sitting in the front	nauupô sa bandáng harapán
