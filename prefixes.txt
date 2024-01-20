@@ -3,10 +3,18 @@
 -ki-	requestive
 -ki-	joint/mutual action
 -ag-	"bound deliberative".  joins with pa to become 'pag', ma to become 'mag'
+	"mag" implies deliberateness, whereas "um" is more "casual"
 -ma-	having, existence
 -ka-	being and manner, state
 -si-	plural (magsi- deliberate action by plural actors) *A Restatement of Tagalog Grammar, p. 3
 hing-	'a simulated state or action' (hinanakit - grudge : hing + sakit) *A Restatement of Tagalog Grammar, p. 3
+	(no longer productive) prefix indicating removal or cleaning:
+	hing- + kuto (“louse”) → hinguto (“to remove lice (from hair or fur)”)
+	(no longer productive) prefix indicating state or condition:
+	hi- + ganti (“return, reward”) → higanti (“revenge”)
+	him- + pasok (“to enter, go in”) → himasok (“to meddle, interfere”)
+	him- + patay (“dead, to kill”) → himatay (“to lose consciousness, faint”)
+	hin- + sakit (“sickness, pain”) (with CV- reduplication) → hinanakit (“grudge, ill will”)
 -al-	similar to what the stem denotes
         mala- "state of being similar" (malahininga - breathlike, malapapaya - papaya-like)
         pala- "characterized by" (palaasa - hopeful, optimistic, palabiro - given to joking)

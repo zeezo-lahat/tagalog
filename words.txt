@@ -155,6 +155,7 @@ amok	amuck, in a frenzy state
 amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
 ampalaya	balsam apple; bitter gourd
+ampát	the act of stopping or controlling the flow or drip of blood, water, and similar substances
 ampón	adoptee
 amuyin	to smell something
 anák	child (offspring)
@@ -298,7 +299,7 @@ baít	kindness; the mind
 bai-baitáng	step by step
 baitáng	a step of stairs, rung of a ladder; a grade or level in school
 baka	beef; cow
-bakâ	perhaps, maybe, might, "faint possibility of being a factual statement"
+bakâ	perhaps, maybe, might; lest, if, in case
 bakal	iron
 bakás	print, mark, track, imprint, trace
 bakasakalì	by chance
@@ -621,7 +622,7 @@ bunong-braso	arm wrestling
 bunsô	youngest child in the family, younger sibling (mga bunso -> younger siblings)
 bunsód	launch (like a boat), launch an activity; a "boom" in something
 buntís	pregnant
-bunton	a pile, collection
+buntón	a pile, heap, batch, collection
 bunyág	disclosure, revelation
 bunyî	fame, renown, exaltation
 buô	complete, entire, whole; perfect, all
@@ -880,6 +881,7 @@ gibay	balancing, oscillating
 gibík	saklólo
 giit	insistence; assertion; persistent asking
 gila	demolished
+gilagid	gums (anatomy / in one's mouth)
 gilalás	amazement, takáng-taká, namanghâ
 gilálas	damdaming bunga ng malakíng tákot
 gilálas	malakíng gúlat o anumang pagdudulot ng gúlat o taká
@@ -901,6 +903,7 @@ gíting	heroism
 gitlíng	hyphen
 gitna	middle, center, midst
 gíwang	vacillation, swaying, wobbling
+golgól	bow or the act of bowing down, stoop
 goma	rubber
 grabe	wow!, intense, extreme, wild/crazy, etc..
 granada	pomegranate; hand grenade
@@ -1076,12 +1079,14 @@ himpapawíd	atmospheric space, the space above the ground, or esp. above rooftop
 hinaan	to lower the volume
 hinaíng	complaint, grievance, frustration, supplication, earnest request (daíng)
 hinalà	suspicion
+hinanakít	resentment, grudge
 hindí kailanmán	never
 hindî na	not any more, no more, no longer; not now, no further; never; never mind
 hindí	no/not (as in do not, cannot, is not, am not, will not, would not; so as not to..)
 hindík	labored breathing; gasp in fright; sudden feeling of fright
 hinding-hindi	never
 hingá	breath, breathing (humingá)
+hingalô	death pangs; moribund state; kondisyong malapit nang mamatay, ágaw-búhay (paghihingalo, pag-aagaw-buhay, pagdidiliryo)
 hinggíl	about, regarding
 hingi	to ask for something; a request
 hingin	to ask for something
@@ -1234,6 +1239,7 @@ inaruga	is nurturing, nurtured
 inasál	barbecued; a type of roast chicken originating from Bacolod
 inayos	to fix something
 indahín	to feel something; to sense something
+inéng	girl; young girl; nickname for a young girl; lass
 ingatan	to pay heed to something, pay attention to something
 ingay	noise, fuss
 inihahandog	is presenting/offering/dedicating
@@ -2007,6 +2013,7 @@ limitahán	to limit something
 limlim	body warmth; impending darkness
 limos	alms; stipend
 limot	oblivion (root of forget)
+limpák	lump (of things), pile, large amount
 linaw	clearness (liquids); clarity (explanation); legibility; legible condition
 língap	protective care; care, protect
 lingíd	unbeknownst, covert, clandestine, hidden, not known, secret
@@ -2385,7 +2392,7 @@ makakalimutin	forgetful
 makakarating	will be able to come
 makakasama	able to go with
 makakáya	to be able to do, to afford, to be able to afford, to be able to cope
-makakita	to happen/be able to see (one or some of many); catch sight of; be able to find (actor)
+makakita	to happen/be able to see (one or some of many, or non-specific thing); catch sight of; be able to find (actor)
 makalawá	second
 makalilimutan	to be able to forget something
 makalimutin	forgetful
@@ -2799,6 +2806,7 @@ múlta	fine, penalty
 multó	ghost
 muna	first, beforehand; for now
 mungkáhi	recommendation, suggestion, proposition, proposal
+munì	(n) thinking logically and with reason
 muntî	little
 muntik	nearly
 musmós	innocent, naive, child
@@ -3111,6 +3119,7 @@ pag-abuso	(n) abuse; abusing.
 pag-agos	(n) flowing; pouring out.
 pag-akay	(n) guidance.
 pag-akyát	(n) ascension; climbing; climb.
+pag-alanganan	to hesitate about something
 pag-alís	(n) leaving; departure.
 pag-alóg	(n) shaking.
 pag-amin	(n) admission of guilt; confession.
@@ -3598,7 +3607,7 @@ piitan	prison
 pikón	quick to anger
 pila	line, queue; ones place in line
 pilak	silver (the metal)
-pilapil	a dike
+pilapil	a dike, embankment
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
@@ -3836,6 +3845,7 @@ salakót	native hat made of nipa palm
 salamángka	magic
 salamin	mirror, glass, crystal; eyeglasses ("salamin sa mata")
 salamuha	act of mingling with people, hobnobbing, talking intimately with
+salangsáng	to oppose, contravene, resist, defy, counteract, oppose
 salanta	badly injured or damaged, weakened
 salapi	money, currency
 salawal	underwear
@@ -4432,6 +4442,7 @@ tumilà	to cease (usually referring to rain)
 tumilî	shrieked, screeched
 tumínag	to budge
 tumingkad	to become brighter/clearer (as colors)
+tumitingin-tingin	browsing
 tumok	kakitkitan; kalaguan ng mga damong tumutubo
 tumpák	Exactly!; proper, accurate, correct (tama?)
 tumuklás	to discover; to detect
@@ -4613,6 +4624,7 @@ walang-sira	flawless
 walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
+warì	assumptionw opinion, estimation; seemingly, looks like, as, as if, apparently
 wasak	ruin, destroy
 wastô	proper, correct, in order
 watáwat	flag, ensign, banner

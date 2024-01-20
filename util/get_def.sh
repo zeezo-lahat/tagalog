@@ -11,4 +11,5 @@ fi
 
 #lynx -dump "https://www.tagalog.com/words/$f.php"
 #phantomjs util/get.js "https://www.tagalog.com/words/$f.php" | parse_defs.py > $f.txt
-phantomjs util/scrolly.js "https://www.tagalog.com/words/$f.php" | parse_defs.py > $f.txt
+#phantomjs util/scrolly.js "https://www.tagalog.com/words/$f.php" | parse_defs.py > $f.txt
+phantomjs util/scrolly.js "https://www.tagalog.com/words/$f" | parse_defs.py > $f.txt

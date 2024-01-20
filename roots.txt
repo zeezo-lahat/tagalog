@@ -4268,6 +4268,9 @@ kargá (karga) rt_ [noun] cargo; freight; load; electric charge of batteries; ac
 kargá-kargá (karga) rt_rt carrying; loading
 pagkargá (karga) pag_ [noun] carrying; loading
 pangkargamento pang_ (karga) [adjective] for cargo; for cargo purposes
+karipas (karipas) rt_ [noun] scurrying; a fast run due to fear
+kumaripas (karipas) _um_ [verb] to scurry; to run away in fear; to hurry out of fear
+pagkaripas (karipas) pag_ [noun] scurrying
 ikasá (kasa) i_ [verb] to cock a gun; to prepare something (an attack, a case against someone, etc.)
 kasa (kasa) rt_ [noun] house; casa
 kasado (kasa) sp_ [adjective] cocked (as in a firearm); tilted
@@ -5442,6 +5445,9 @@ litáw (litaw) rt_ [adjective] striking (noticeable/arresting); visible
 lumitáw (litaw) _um_ [verb] to appear; to emerge; to arise; to reveal
 paglitáw (litaw) pag_ [noun] emergence; appearance
 palitawín (litaw) pa_in [verb] to make something noticeable; to strike something
+litis (litis) rt_ [noun] trial
+litisin (litis) _in [verb] to arraign someone; to try someone (as in court)
+paglilitis (litis) pagCV_ [noun] trial
 lituhín (lito) _in [verb] to confuse; to confound
 litó (lito) rt_ [adjective] confused; confounded; puzzled
 lumitó (lito) _um_ [verb] to confuse
@@ -5609,6 +5615,10 @@ lupà (lupa) rt_ [noun] soil; earth; country; nation; ground; land
 makalupà (lupa) maka_ [adjective] worldly
 pagguhò ng lupà (lupa) phr_ [noun] landslide
 tinubúang-lupà (lupa) cmp_ [noun] native land; homeland
+lumupig (lupig) _um_ [verb] to conquer; to subdue
+lupig (lupig) rt_ [noun] conquering
+lupigin (lupig) _in [verb] to subdue something/someone; to conquer something/someone; to defeat something/someone
+manlulupig (lupig) mangCV_ [noun] conqueror; subduer; vanquisher
 kalupitán (lupit) ka_an [noun] cruelty; atrocity
 lupít (lupit) rt_ [noun] cruelty; devastation; brutality; harshness; awesomeness
 malupít (lupit) ma_ [adjective] cruel; brutal; fierce; unkind; awesome; amazing; (slang)
@@ -5836,6 +5846,11 @@ mamuná (muna) ma_ [verb] to criticize something (OF)
 mungkahi (mungkahi) rt_ [noun] suggestion
 imungkahi (mungkahi) i_ [verb] to suggest something
 magmungkahi (mungkahi) mag_ [verb] to suggest
+magmúni-muni (muni-muni) mag_ [verb] to ponder; to reflect; to self reflect; to contemplate
+mapagmúni-muni (muni-muni) mapag_ [adjective] contemplative; meditative
+pagmumúni-muni (muni-muni) pagCV_ [noun] reflection (as in thought); wisdom
+muní-munihin (muni-muni) _in [verb] to reflect; to muse; to ponder
+múni-muni (muni-muni) rt_ [noun] reflection; reflecting; pondering
 kamuntik (muntik) ka_ [adjective] nearly; almost; on the verge of; close.
 muntík na (muntik) phr_ [phrase] almost; close; on the verge of; nearly
 magmura (mura) mag_ [verb] to be sold cheaply
@@ -6685,6 +6700,9 @@ saan-saán (saan) rt_rt [pronoun] where (plural); various places
 saanmán (saan) cmp_ [adverb] wherever; anywhere; everywhere
 saán (saan) rt_ [adverb] where
 tagasaán (saan) taga_ [interrogative] from where; from what place
+sabád (sabad) rt_ [noun] interruption; interrupt
+sumabád (sabad) _um_ [verb] to interrupt or butt in (usually, in a conversation)
+sabarin (sabad) _in [verb] to butt into other's conversation
 sabát (sabat) rt_ [noun] butting into the talk of others; unexpected answer; interruption
 masabát (sabat) ma_ [verb] to intercept something (OF)
 pagsabak (sabak) pag_ [noun] rushing into something; plunging into something
@@ -7841,10 +7859,13 @@ tae (tae) rt_ [noun] poop; feces; stool; excrement; shit
 taihan (tae) _an [verb] to defecate on; to poop on
 tumae (tae) _um_ [verb] to poop; to defecate; to shit (vulgar)
 itagá mo sa bató (taga) phr_ [idiom] mark my word
-taga (taga) rt_ [prefix] from; from somewhere; a doer of an action. Often followed by a dash "taga-"
-tagaín (taga) _in [verb] to chop
+panagtagán (taga) _ a bamboo container for lime powder used in betel nut chewing.; lime container; bamboo lime holder;
+patagana (taga) _ a place where something is frequently cut; a chopping area or cutting board; chopping block; cutting board; butcher block;
+taga (taga) prefix_ [prefix] from; from somewhere; a doer of an action. Often followed by a dash "taga-"
+tagapág- (taga) prefix_ a prefix that denotes someone who does or is responsible for an action, similar to the english suffixes '-er', '-or', or 'agent'.; doer; maker; agent; performer; executor; operator;
+tagaín (taga) _in [verb] to chop something
 tagá- (taga) prefix_ [prefix] from (origin); doer (of a task)
-tagâ (taga) rt_ [noun] chop; cut
+tagâ (taga) rt_ [noun] chop; deep/big cut
 tumagâ (taga) _um_ [verb] to chop; to cut; to hack
 gaano katagál (tagal) phr_ how long; how much time
 katagalan (tagal) ka_an [noun] being a long time; lengthiness
