@@ -71,6 +71,7 @@ agaw	to snatch, grab
 agham	science
 agila	eagle
 agímat	amulet
+agiw	cobwebs, spiderwebs, dirty residue
 agos	flow (lit/fig)
 akalà	idea, belief/thought/assumption (often incorrect)
 ákay	led by the hand; pamamatnubay o pag-alalay sa paglalakad ng isang tao (akáyin, mag-ákay, umákay)
@@ -91,6 +92,8 @@ alagà	ward
 alagad	follower, disciple
 alahas	jewelry
 alak	alcohol
+alák-alakan	cheap alcohol
+alak-alakán	back of the knee
 alala	a memory
 alalá	worried, anxious, thinking about
 alalahanin	to recall, remember; think/worry about, consider; cause of worry
@@ -317,6 +320,7 @@ baku-bakô	rough, uneven, rugged, not level
 bakuna	vaccine
 bakuran	(front) yard; premises
 bakwit	evacuate
+bakyâ	clogs, wooden sandals
 bala	threat, warning
 bála	bullet, pellet, slug
 balagat	clavicle, collarbone (klabikula)
@@ -550,6 +554,7 @@ bubog	pieces of shattered glass
 bubong	roof
 bubúyog	bumblebee; kind of large bee
 budhî	conscience, sense of right and wrong (konsiyensiya)
+butol	a gullible person
 bugaw	go-between, pimp; pander
 bugbóg	beating up, pummeling
 bugháw	blue
@@ -966,6 +971,7 @@ hagikgíkan	snicker, giggle
 haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagkán	to kiss someone (variant of halikan)
 hagók	snore (also harók)
+hagpís	sorrow
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
@@ -1776,6 +1782,7 @@ kótong	bribe (chinese origin. syn. lagáy)
 kotongan	solicit a bribe from
 krimen	crime
 krus	cross
+kubà	hunchback(ed)
 kúbo	hut
 kugon	a type of tall grass
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
@@ -2047,6 +2054,7 @@ lubid	rope, chord
 lubóg	submerged, sunken, buried (lit. or fig.)
 lubos	complete, exhaustive, entire, unmitigated, quite, wholly, in full
 lugár	place, site, point, spot, region, location, seat, space
+lugás	grain, drops, specks, bead; falling off (as leaves from twigs or grain from stalk)
 lugí	financial loss
 lugmók	prostrate and helpless
 lúho	luxury
@@ -2637,6 +2645,7 @@ mapayapa	peaceful, at peace
 mapilay	to suffer a sprain; to be crippled (lit/fig)
 mapili	choosy
 mapraníng	to be paranoid (colloquial/slangy)
+mapudpód	to become blunt or dull
 maputík	muddy
 mapuyát	to lack sleep, to need sleep
 marahás	violent, ferocious, audacious, drastic
@@ -3632,6 +3641,7 @@ pinatakas	allowed to escape
 pinauso	brought into vogue
 pindot	squeezing
 pinggan	dish, plate
+pingkók	having a bent lower part of the arm
 pinigilan	stopped from doing something
 píno	fine, delicate, thin, light
 pinsala	damages, losses, harm
@@ -3672,6 +3682,7 @@ prito	fried
 proseso	a process
 pruweba	proof
 pucha	damn! (aka putsa)
+pudpód	blunt, not sharp
 pugad	nest
 pugante	fugitive
 pugot	decapitated
@@ -3719,6 +3730,7 @@ puslít	smuggling, low-key escape: squirt, spurt
 pusò	heart
 punô	a bundle of rice (or something like that)
 pusod	navel, bellybutton; hub; deepest part of a body of water
+pusód	hair bun, topknot
 pusón	abdomen
 puspusan	fully, completely, thoroughly
 puspusan	to complete, make complete
@@ -3880,7 +3892,7 @@ sana	I hope, I wish; was going to, but; should (not) have
 sanay	practice
 sanáy	skilled, proficient, used to
 sanayan	a place for practice
-sanaysay	an essay
+sanaysáy	an essay
 sandali	moment (dali)
 sandamakmak	lots of (idiomatic) sangkatutak
 sandata	weapon; arms; ammunition
@@ -3905,8 +3917,8 @@ sápit	arrival
 sapitin	to result in something; befall; to reach a place
 saplot	dirty or tattered clothes
 sapok	a hit, punch (buntal, bigawas, suntok, dagok, dunggol)
-sapól	at the very beginning; straight, direct
-sapúl	since; to hit a target (syn. tamaan)
+sapól	at the very beginning; straight, direct (also sapúl)
+sapúl	since; to hit a target (syn. tamaan) (also sapól)
 sará	closed; to close
 sarado	closed
 sarangola	kite
@@ -4592,6 +4604,9 @@ utáy-utáy	little by little, gradually
 utáyin	to do little by little
 utol	colloquial/informal term for one's brother or sister; buddy. (also tol)
 utong	nipple
+utô-utô	idiotic, foolish, easily fooled, gullible; cheating
+utô	simpleton, fool
+utuín	to make a fool of someone, to deceive or trick someone
 útos	command, order
 uwak	crow, raven
 úwang	void, nothingness, void (kawalán)
@@ -4624,7 +4639,7 @@ walang-sira	flawless
 walang-takda	limitless, absolute, indefinite
 walang-wala	absolutely none
 walay	separating, weaning away from
-warì	assumptionw opinion, estimation; seemingly, looks like, as, as if, apparently
+warì	assumption, opinion, estimation; seemingly, looks like, as, as if, apparently
 wasak	ruin, destroy
 wastô	proper, correct, in order
 watáwat	flag, ensign, banner

@@ -1748,6 +1748,12 @@ kabukiran (bukid) ka_an [noun] field (of farmland); fields
 magbukíd (bukid) mag_ [verb] to farm; to run a farm; to cultivate land
 mágbubukíd (bukid) magCV_ [noun] farmer
 pambukid (bukid) pang_ [adjective] rural
+buklát (buklat) rt_ [adjective] turned; open; opened
+buklatan (buklat) _an [noun] a type of game that involves pairs of children; matching game; pairing game;
+buklatín (buklat) _in [verb] to flip through the pages of something (a book, magazine, etc.); to look through something
+magbuklat (buklat) mag_ [verb] to open a book
+nakabuklát (buklat) naka_ [adjective] flipped open (as in, the pages of a book)
+pagbubuklát (buklat) pagCV_ [noun] flipping through (e.g., pages)
 buko (buko) rt_ [noun] young coconut; flower bud
 bukuhín (buko) _in [verb] to tell on someone
 bukíng (buko) slang_ [adjective] revealed; caught; found out (slang)
@@ -3384,6 +3390,9 @@ hindî na (hindi) phr_ [expression] not any more; no more; not now; no longer; n
 humindî (hindi) _um_ [verb] to say no; to deny
 kundî (hindi) prep_ [preposition] except; if not; but; but also; not only; otherwise; on the contrary; or else; * short for "kung hindi"
 ni hindî (hindi) conj_ [conjunction] nor
+hindirikí (hindot) _ playing with a baby while carrying and pretending to tickle them to make them laugh; coochie-coo; baby play; tickling;
+hindót (hindot) rt_ [noun] sex; copulation; "fuck" (curse, slang / vulgar); coitus; up-and-down movement of the hips during sex; ** Visayan word, not Tagalog
+maghindót (hindot) mag_ [verb] to have sex; to copulate; to have sex; * vulgar
 araw ng pahingá (hinga) phr_ [noun] day off; rest day; day of rest
 bumuntóng-hiningá (hinga) _um_ [verb] to sigh
 buntóng-hiningá (hinga) cmp_ [noun] sigh
@@ -6326,6 +6335,9 @@ patáy (patay) rt_ [adjective] dead; deceased; [noun] dead (person); [expression
 patáy-dampót (patay) cmp_ [adjective] unconscious; dead weight
 patáy-patayan (patay) rt_rt_an [noun] playing dead; pretending to be dead
 pumatáy (patay) _um_ [verb] to kill; to murder; to extinguish
+pamamatnugot (patnugot) pangCV_ the state or function of being an editor or overseeing the editing of a publication or office; editorship; managing; overseeing;
+patnugot (patnugot) rt_ [noun] editor
+patnugután (patnugot) _an [noun] editorial board
 patulan (patol) _an [verb] to stoop down to someone's level (figurative); to pay attention to someone of lower status; * generally used in antagonistic social scenarios
 pumatol (patol) _um_ [verb] to stoop down to someone (figurative); to pay attention to someone of lower status; to confront; to defy; to oppose; (generally used in antagonistic social scenarios)
 ipatong (patong) i_ [verb] to put something on top; to apply something on top
@@ -7179,6 +7191,7 @@ isapì (sapi) i_ [verb] to enlist; to enroll
 sapì (sapi) rt_ [noun] membership
 sumapit (sapit) _um_ [verb] to arrive; to have the time arrive; to reach; to reach a destination
 kinasapitan (sapit) kina_an [noun] end result; outcome
+magsapol (sapol) mag_ [verb] to start at the very beginning
 masapól (sapol) ma_ [verb] to be hit with something (AF); to hit something (OF)
 sapulín (sapol) _in [verb] to hit on target; to hit the right spot; to hit the bull's eye
 sumapól (sapol) _um_ [verb] to hit
@@ -7581,6 +7594,8 @@ pagkasugat (sugat) pagka_ [noun] injuring
 sugat (sugat) rt_ [noun] wound; cut; sore
 sugatan (sugat) _an [verb] to wound; to injure
 sugatán (sugat) _an [noun] wounded person; [adjective] wounded
+masugid (sugid) ma_ [adjective] diligent; persistent; active; industrious; zealous;
+sugid (sugid) rt_ [noun] diligence; industriousness; fidelity
 isugod sa ospitál (sugod) phr_ [verb] to rush to the hospital
 isugod (sugod) i_ [verb] to rush someone/something; to quickly bring someone/something
 maisugod (sugod) mai_ [verb] to be able to rush something; to be able to charge at something
@@ -7631,6 +7646,11 @@ pasukuin (suko) pa_in [verb] to subdue; to make someone surrender
 sukò (suko) rt_ [noun] surrender; submission; giving up
 sumukò (suko) _um_ [verb] to give up; to surrender
 masukól (sukol) ma_ [verb] to be surrounded; to be cornered
+isuksók (suksok) i_ [verb] to insert something; to put something into; to stuff something in; to stash something away
+nakasuksók (suksok) naka_ [adjective] inserted
+pagsusuksok (suksok) pagCV_ [noun] shuffling of playing cards
+saluksók (suksok) _ [noun] the act of cleaning up to the very corners or nooks; scrubbing; sweeping; tidying up; cleaning deeply;
+suksók (suksok) rt_ [noun] the act of placing something in between, inside, or on the side of something, such as a wall, pocket, etc.; insert; tuck; stuff; wedge;
 isulat (sulat) i_ [verb] to write something (OF); to write something for someone (BF)
 isulat sa tubig (sulat) [idiom] forget about it; * literally(sulat) it's written on water
 kasulatán (sulat) ka_an [noun] document; writings
@@ -9242,6 +9262,10 @@ unahin (una) _in [verb] to do something first; to prioritize something
 unahán (una) _an [noun] front
 unang pagkakataón (una) [noun] first time
 únang-una (una) rt_na_rt [adjective] the very first; first and foremost
+iunat (unat) i_ [verb] to stretch out something (e.g., one's hand)
+mag-unát (unat) mag_ [verb] to stretch out
+nakaunát (unat) naka_ [adjective] oustretched
+unát (unat) [adjective] rt_ straight; stretched; stretching
 di-pagkakaunawaan (unawa) phr_ [noun] misunderstanding; miscommunication
 hindí pagkakaunawaan (unawa) phr_ [noun] misunderstanding; miscommunication
 ipaunawà (unawa) ipa_ [verb] to make someone understand
