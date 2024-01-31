@@ -61,6 +61,7 @@ alinsunod, batay	under the terms of, in accordance
 alisto, listo/a	mentally sharp
 alitan, pagtatalo	quarrel
 aliwalas, maganda, mabuti	fair, not stormy
+almires	a bowl made of stone in which substances may be pounded
 alpiler, brotse	an ornamental pin
 ama	father
 ama	male parent
@@ -253,6 +254,8 @@ bapor na pangkargamento (pangangalakal)	a freight ship
 bar	the legal profession
 bar, barikan	a counter or place for drinking
 baraha	a complete set of playing cards
+baraha	one of a set of cards to play games with
+baraha	playing card
 barak, namamarak	pallid
 baras na bakal, kabilya	an iron bar
 barya	small loose money
@@ -346,8 +349,10 @@ binawasan, kinulangan, kulang	with something taken away, without
 bingit	brink
 bingit, gilid	the brink
 bingit, gilid	the edge of a deep place, top of a slope
+bingwit, pamingwit, pamansing	line, hook, sinker
 binhi, buto, simiya	thing from which anything grows
 binlid	the broken grains of the husked rice
+binusang mais, papkorn	toasted corn, popcorn
 biro, tukso	a joke
 bisa	a moral impression
 bisa	efficacy, binding force
@@ -362,6 +367,7 @@ boy, utusang lalaki, mensahero	a boy servant, an errand boy
 bubog	broken glass
 bubong, bubungan	the top covering of a building
 bubuli, himbubuli	a grass lizard
+budhi, konsiyensiya	sense of right and wrong
 bugnot, nabubugnot, yamot, nayayamot	showing irritability
 bugtong, solo, nag-iisa, kaisa-isa, tangi	by itself, e.g. son or daughter
 buhaghag	not pressed together
@@ -410,6 +416,7 @@ bumimbin, bimbinin, pumigil, pigilin	to hold back, delay
 bumisita, bisitahin, dumalaw, dalawin	to make a call, to stay with, to make a stay, to be a guest
 bumubuti na, pabuti na, pagaling na	on the mend, getting better
 bumugaw, bugawin	to drive away insects, birds, fowls, etc.
+bumugbog, bugbugin	to beat with a club
 bumuhat, buhatin, bumuhat, buhatin, umangat, angatin	to lift from the ground
 bumuka	to come apart or burst open
 bumuka, bumukad, bumukadkad	to blossom
@@ -424,6 +431,7 @@ bumuntut-buntot, buntut-buntutan, sumunud-sunod, sundan-sundan	to follow like a 
 bumuo	to make
 bumuo, buuin	to make whole or perfect
 bumura, burahin, mag-alis, alisin (b) to fail to hit three times in baseball	to strike out means (a) to cross out, to rub out
+bumutas, butasin, butasan, tumagos, tagusan	to pierce
 bungkos	a number of things loosely wrapped in cloth, etc.
 bunot	coconut husk
 bunton, tambak, barkada, kawan, pangkat, katerba	lot, a number together
@@ -556,6 +564,7 @@ digma, digmaan, gera, giyera	a fight carried on by force between nations or part
 digmaan, gera, giyera	a war
 diin, pagdiin, pagdidiin	act of pressing
 diin, tuon, pindot	a push
+dike	a bank of earth as a defense against flooding
 dila	anything shaped or used like a tongue
 dila	the movable piece of flesh in the mouth
 dila ng kampana	a movable piece inside a bell
@@ -659,6 +668,7 @@ ganyan, paganyan, ganito, paganito, gayon, pagayon	in that way, in the same way 
 gara, kagaraan, kisig, kakisigan, dikit, kariktan	elegance
 gasgas	worn thin
 gata	coconut milk
+gatong, panggatong	anything that can be burned to make a useful fire
 gawa	a deed, act
 gawa	an action
 gawa, kagagawan	an action
@@ -684,6 +694,7 @@ ginintuan	color of gold, golden
 ginto	precious metal
 ginto, yari sa ginto,	made of gold
 gipit (mahirap) na kalagayan, kagipitan	difficult situation
+gipit, mahirap, napakahirap	severe, causing pain, trouble, care, etc.
 gising	not asleep
 gisok, hilatsa	any streak or marking of a different shade or color in wood, marble, etc.
 gitling	a mark connecting words or syllables
@@ -697,6 +708,7 @@ grasya, biyaya, pagpapala	a gift from God
 gripo	a faucet
 grupo, angkan	in biology, a group in the classifying of plants and animals
 grupo, pangkat, pulutong	a number of persons or things together
+guhitan, linyahan	to mark / draw with lines
 guho	a building, wall, etc., that has fallen to pieces
 guho ng lupa	a sliding down of a mass of soil or rock on a steep slope
 guho, pagguho	a mass of earth, snow, etc., sliding down
@@ -712,6 +724,7 @@ gulong	a round, usually rubber covering for a wheel
 gulong, paggulong	moving along by turning over and over
 gulong, ruweda	round frame that turns on its center
 gumaan (sa timbang)	to become light (less in weight)
+gumagalaw, kumikilos	that moves
 gumala, magpagala-gala, gumala-gala, maggala, lumibot, maglibot, magpalibut-libot, lumibut-libot, magpalakad-lakad, lumakad-lakad	to move about without any special purpose
 gumala, magpagala-gala, lumaboy, magpalabuy-laboy	to wander, to roam
 gumalaw, igalaw, galawin, tuminag, tinagin, kumibo, ikibo, kibuin, kumilos, ikilos, kilusin	to change position
@@ -743,6 +756,7 @@ gumuhit ng larawan, iguhit ang larawan	to draw
 gumuhit, iguhit, magdrowing, idrowing	to sketch with a pencil or ink
 gumuho, bumagsak, matibag	to cave in or fall, as a building
 gumulantang, magulantang, gulantangin	to arouse or awaken suddenly
+gumulpi, gulpihin	to beat to helplessness
 gumunita, gunitain, maglarawan (ilarawan) sa diwa o isip	to form a picture of, to imagine
 gumusto, gustuhin, loobin, nasain, naisin, ibigin	to decide by using this power, to use the will
 gumusto, gustuhin, umibig, ibigin	to like, to want
@@ -824,6 +838,7 @@ hanggang sa, abot (sagad) sa	as far as
 hanginin	to be blown by the wind (as a small boat)
 hantik	a big type of ant
 hapdi, kirot	a stinging or smarting pain
+hapin, bingwit	a fishing line
 hapis, dalamhati, sakit, panggigipuspos	very great pain or grief
 hapis, lungkot, kalungkutan, dalamhati, hinagpis, lumbay, pighati	sorrow, sadness
 hapis, pighati, sakit, dusa, pagdurusa	great pain or sorrow
@@ -854,6 +869,7 @@ higit sa lahat, lalo na	in particular, especially
 higit sa, labis sa	upward of, more than
 hikahos, dahop, salat, napakadukha, dukhang-dukha, hirap na hirap	very poor, lacking necessary food and clothing
 hilakbot, sindak, pagkasindak, takot, pagkatakot	fear
+hilamusan, hugasan	a place for washing hands and face
 hilaw	not ripe
 hilaw, hindi pa hinog, hindi pa magulang	not ripe
 hilig, gusto, pagkagusto, pagkakagusto	a desire, inclination
@@ -955,6 +971,7 @@ humakbang, ihakbang, humagpang, ihagpang	to move the legs as in walking, running
 humalakhak	to laugh loudly
 humalina, makahalina, mahalina, halinahin	to fascinate
 humampas, hampasin, bumuntal, buntalin	to give a blow to
+humanay, ihanay, humilera, ihilera, pumila, ipila	to line up, to form in line
 humangin, hanginin, humihip, umihip	to blow as the wind
 humantong, mahantong, ihantong, bumagsak, ibagsak	to arrive
 humarap	to face
@@ -1058,6 +1075,7 @@ industriya	any branch of business, trade or manufacture
 ingay	a noise
 ingay, kaingayan, kaingayan, pagkakaingay	noise, uproar
 ingit	a squeaking sound as of a new shoe
+inodoro, palikuran, kasilyas	toilet
 interes, hilig, malasakit, pagkagusto, pagkawili	a feeling of wanting to know, do or own, or share in
 interes, pakinabang, tubo, patubo	money paid for the use of money
 inutil, walang lakas, mahina	helpless, weak
@@ -1068,6 +1086,7 @@ ipalayaw, palayawan	to give a nickname to
 ipasak, ipamasak, itapon, ipanapon	to put in as a plug
 ipasaka sa iba, magpaarenda, ipaarenda	to farm out
 ipayo	to give as advice
+ipinagkakapuri, maipagkakapuri, ipinagmamapuri, maipagmamalaki, ipinagmamalaki	proud of, thinking well of or being well satisfied with
 ipuipo	air whirling around and around violently
 irap, pag-irap	a fierce or scornful look
 isa pa	another, other
@@ -1201,8 +1220,10 @@ kalugudlugod, mapitagan, matatas, mahusay	easy, polished, pleasant, polite
 kaluluwa	the soul
 kaluluwa	the spiritual part of a man
 kaluluwa, lakas ng isip	energy of mind or feeling, spirit
+kalunus-lunos, makabagbag-puso, makabagbag-damdamin, makapukaw ng damdamin	touching, pathetic
 kaluskos	a rustling sound, e.g., of leaves, paper, cloth, etc.
 kalye, daan, lansangan	a road in a city or town, usually with buildings on both sides
+kalyo	a hard growth on the skin
 kamada	the young animals produced at one time
 kamakailan lamang	the other day, night, etc., recently
 kamakailan lamang, kailan lamang	a short time ago
@@ -1350,6 +1371,7 @@ kaunti, kakaunti, maliit, bahagya, babahagya	small, not much
 kaunti, kakaunti, munti, bahagya, babahagya, maliit, mahina	slight, scanty
 kaunti, kakaunti, munti, maliit, mahina, bahagya	small, slight, weak
 kaunting karamdaman, pamimigat ng katawan, masamang pakiramdam, pananamlay (katamlayan) ng katawan	slight illness
+kawad, alambre	a piece of wire
 kawal na ultimo (ordinaryo), praybet	a common soldier, not an officer
 kawal, sundalo	a man who serves in the army
 kawalan	value of a thing lost, person or thing lost
@@ -1455,6 +1477,7 @@ kumita, pagkakitaan, kitain,	to earn, gain
 kumitil, kitilin, kitlin	to snip off (esp. with fingers)
 kumopya, kopyahin, ikopya, sumipi, sipiin	to make a copy of
 kumpas (pagkumpas) ng kamay	motion of the hands
+kumpas, tiyempo	the beat in music
 kumpol	of grapes, etc.
 kumpol, tungkos	of flowers
 kumpol, tungkos, tangkas	of leaves
@@ -1483,6 +1506,7 @@ kuwako [kwako]	pipe for smoking
 kuwenta [kwenta], utang	an account
 kuwenta ng pagkakautang	summary of an account showing amount owed
 kuwitis [kwitis]	a firework that shoots up high in the air and bursts into a shower of sparks or stars
+lababo, hugasan	washbasin
 labada, nilabhang mga damit	the clothes already washed
 labag sa batas, bawal	against the law, prohibited
 labag sa batas, ilegal	against the law
@@ -1639,6 +1663,8 @@ lilim	a partly dark place, not in the sunshine
 linamnam, sarap, kasarapan	a good flavor, pleasant taste
 linang	land cleared for tilling
 linggu-linggo	every week
+linya ng telepono	a telephone line
+linya, guhit	a long narrow mark
 lipas na sa moda, wala na sa uso, wala (lipas) na sa panahon	out-of-date, oldfashioned
 lipas na, laos	obsolete
 lipas na, laos na, hindi na ginagamit	no longer in use, out of date
@@ -1671,6 +1697,7 @@ lubha, kalubhaan, bigat, kabigatan, lala, selan, kaselanan	seriousness
 lubha, labis, maraming-marami	very much
 lubha, labis, ubod, sakdal, also rendered by "napaka" prefixed to the root of the adjective or by "pagka" prefixed to the reduplication of the root of the adjective	much, greatly, extremely
 lubhang marami, masyadong marami, napakarami, sobra, labis	too much
+lubid	a piece of rope
 lubos, ganap	thoroughly, perfectly
 lubos, lahat, ganap, mabuti	thoroughly, in detail
 lubos, lubusan, ganap	complete
@@ -1758,6 +1785,7 @@ lupa	ground, soil
 lupa	loose earth or soil
 lupang-tinubuan, bayang-tinubuan, inang-bayan	native land
 lupon, komite	a group formed for a certain purpose (e.g. a committee)
+lusong	a device for pounding rice or corn
 luwalhati	glory
 maaari	expressing possibility, chance, permission, etc.
 maaari, baka, baka sakali, siguro, marahil	possibly, perhaps, it may be
@@ -1789,6 +1817,7 @@ mabagay, maangkop, maakma	to be suitable, to be agreeable
 mabahala, mag-alaala, mag-alala, alalahanin, mag-agamagam, mabalisa	to be anxious, to be worried
 mabahala, magalaala, mag-alala, mabalisa	to worry
 mabait	kind, friendly
+mabait, malambot ang puso	kind, tender
 mabakli, bakliin	to snap (off) as a stick, branch or stalk
 mabali, baliin	to break apart, to snap
 mabangis, mailap, di maamo	living in the forests, not tamed
@@ -1801,6 +1830,7 @@ mabigla, mabiglaanan	to move suddenly
 mabigo	to fail, to be frustrated
 mabilis, bigla	fast
 mabilis, dalas-dalas interj. quickly	rapidly
+mabini, mahinhin, mayumi	gentle
 mabiyak	to break in two
 mabulag	to lose ones sight
 mabuo, bumuo, buuin	to develop, take shape
@@ -1947,11 +1977,13 @@ magbanat, mabanat, banatin	to draw tight, to strain
 magbanli, banlian	to pour boiling liquid over
 magbantay, bantayan (sa gabi), magpuyat, pagpuyatan, maglamay, paglamayan	to stay awake for some purpose
 magbantay, bumantay, bantayan, magtanod, tumanod, tanuran, gumuwardiya, magguwardiya, guwardiyahan	to keep guard
+magbanto, bantuan	to weaken by adding water
 magbaon, bumaon, pabaunin, ibaon	to thrust (downward)
 magbara, barahan, magpasak, pasakan, magtako, takuhan, magsupalpal, supalpalan	to stop up, to block, to choke up
 magbara, bumara, makabara, mabarahan, barahan, humarang, makaharang, maharangan, harangan	to fill or block up the way by crowding
 magbasa, basain	to make wet
 magbata , magsuot ng bata, isuot ang bata	to put a robe on
+magbati, bumati, batihin	to mix by beating
 magbato, ibato, maghagis, ihagis, magpukol, ipukol	to send to a distance by hurling
 magbawal, pagbawalan, ipagbawal	to forbid
 magbawas, bumawas, bawasan	to reduce
@@ -2035,8 +2067,10 @@ magdikit, idikit, magpaskil, ipaskil, maglagay o magkabit (ng babala)	to fasten 
 magdikta, diktahan, idikta	to cue one of the words or action to be said or done
 magdikta, idikta, diktahan	to say or read aloud to another person who is to write what is said or read
 magdikta, idikta, diktahan, mag-utos, iutos, utusan, magmando	to speak with authority, to make others do what one says
+magdilig, diligin	to sprinkle or wet with water
 magdilig, diligin, magwilig, wiligan, magwisik, wisikan	to spray or cover with small drops
 magdugtong, idugtong, dugtungan, magdagdag, dagdagan, idagdag	to join or add (a small thing) to a large thing
+magduldol, duldulan, iduldol	to shove, to put into with some force
 magdumi, dumihan, dumhan, magputik, putikan	to make dirty
 magduro, dumuro, duruin, iduro, magturok, tumurok, turukin, turukan, iturok, magtusok, tumusok, tusukan, tusukin, itusok, sumundot, sundutin	to make a little hole in or mark on with a sharp point
 maggantimpala, gantimpalaan, magpabuya, pabuyaan	to reward
@@ -2179,6 +2213,7 @@ maglapat, lumapat, ilapat, paglapatin, magtikom, tumikom, itikom, isara, sarhan,
 maglarawan (ilarawan) sa pangungusap	to show by words, to describe vividly
 maglaro, laruin	to have fun, to do something in sport
 maglaro, paglaruan	to play, amuse oneself, triffle
+maglaway, papaglawayin water closet toilet flushed with water	to discharge water, e.g. from the mouth
 maglibot, lumibot	to go round, to go to different places
 maglibot, magbisita	to make rounds
 magligtas, iligtas, makalabas, malabasan, labasan adv. without charge	to clear
@@ -2262,6 +2297,7 @@ magpaikot, paikutin, magpainog, painugin, pumihit, pihitin	to cause to move roun
 magpaikut-ikot, umikut-ikot, paikut-ikutin	to move about in a circle in a confused way
 magpainit (painitin, iinit) lamang na mabuti	to heat almost to boiling, but not quite
 magpainit ng ulo, painitin (papag-initin ) ang ulo	to excite (esp to anger)
+magpainom, painumin	to give a drink to
 magpaitim, itimin, paitimin, itiman	to make black, to blacken
 magpakababa, magpakumbaba	to humble or degrade oneself
 magpakabyaw, ipakabyaw	to get sugar cane mill
@@ -2318,6 +2354,7 @@ magpalit, ipagpalit, palitan	to change one thing for another
 magpalit, palitan, magbago, baguhin, maglipat, lumipat, ilipat	to change, to turn, to shift
 magpaliwanag, ipaliwanag	to make clear, explain
 magpalugod, makalugod, ikalugod	to please greatly, delight
+magpaluha, magluha, lumuha, mapaluha, paluhain, magtubig, magkatubig	to fill with water, to discharge water, e.g., the eyes
 magpalukso, paluksuhin, magpalundag, palundagin	to cause to jump
 magpalungkot, palungkutin, ikalungkot	to cause grief or sadness
 magpalusut-lusot, lumusut-lusot, magpasikut-sikot, sumikut-sikot	to make ones way through, make ones way carefully, go in a winding course
@@ -2563,6 +2600,7 @@ magtubo, tumubo, pagtubuan	to profit
 magtubo, tumubo, pagtubuan, tubuin, makinabang, pakinabangan, pakinabangin, kumita, pagkakitaan, kitain	to make a profit in business
 magtuhog, tuhugin	to pass a thread through
 magtukod, tukuran, mag-alalay, umalalay, alalayan	to hold up,to keep from falling
+magtulak (itulak) nang malakas, magsalya, isalya	to push with force
 magtulak, itulak	to move something away by pressing against it
 magtulak, itulak, magsalya, isalya	to push
 magtulakan, magsiksikan, magsalyahan	to push each other
@@ -2611,16 +2649,19 @@ mahigit sa, higit sa	more than
 mahigpit	firm
 mahigpit kumapit (kumagat)	holding fast (in a physical or material sense)
 mahigpit na hawak	a tight grasp
+mahigpit, istrikto, mabagsik	not yielding to influence, stern
 mahilam ang mata	to have a smart, stinging pain in the eyes caused by soap, etc., getting into them
 mahilo	to be dizzy
 mahilo	to take a turn, to become dizzy
 mahimatay, himatayin	to pass out, to faint or lose consciousness
 mahimbing, malalim	deep (as a sleep)
 mahina	feeble
+mahina	weak
 mahina, mababa, mahinang uri, di-mahusay, di-magaling	of low quality or grade
 mahinog, gumulang	to ripen, to mature
 mahirap	hard, difficult
 mahirap	not easily managed
+mahirap, mabigat	not easy, needing much ability, effort or time
 mahirap, salat	scarce, hard to get
 mahistrado, hukom, huwes	a judge
 mahiyang, maging hiyang syn bumagay, bagayan, maging bagay 1. to be good for one	to suit one especially climate, food, etc.
@@ -2638,8 +2679,10 @@ maikling pangungusap	a brief expression
 maikling sulat (liham, kalatas)	a very short letter
 maingat	careful
 mainggit, kainggitan	to envy
+maipagkakapuri, kapuri-puri, maipagmamalaki	very pleasing to the feelings or self-esteem
 maipalagay, ipalagay	to be taken, be thought to be
 maipit, mapasingit	to press or squeeze tightly between surfaces (commonly used in the passive)
+mais	Indian corn, maize
 maitim	dark, as the skin
 makabagbag-puso, makabagbagdamdamin prep. concerning, about	arousing tender feeling
 makabago	later, modern, recent
@@ -2675,9 +2718,12 @@ makialam, pakialaman	to poke ones nose into other peoples business (coll.), to i
 makibagay, pakibagayan, magbigaykasiyahan, bigyang-kasiyahan	to please, to be convenient for, to satisfy
 makinabang, mapakinabang, pakinabangan	to be of an advantage to
 makinabang, pakinabangan	to get advantage, to gain, to benefit
+makinig na mabuti	to be all ears, to listen eagerly
 makinig ng misa	to hear Mass
+makinig, pakinggan	to give ear, to listen to
 makinis	even, like glass, silk, etc.
 makinis	smooth
+makinis, pino	not rough or coarse
 makipagkasira, magkasira, makipaghiwalay, maghiwalay	to break with
 makipagsapalaran, magbakasakali	to take a chance
 makipit	narrow, with little space
@@ -2697,9 +2743,11 @@ malagay, lumagay	to be in a certain place, rank, scale, etc.
 malagkit	a sticky variety of rice
 malagot, lagutin	to snap, to break as string or wire
 malakas ang katawan	healthy, strong
+malakas na tulak (pagtutulak)	a push with force
 malakas, maliwanag	aloud, plainly
 malakas, marahas, malupit	violent
 malakas, matatag, matibay	strong, hardy
+malakas, matindi	strong
 malaki ang mata, madidilat ang mata	big-eyed, wide-eyed
 malaki, napakalaki	big, very large
 malaking kaibhan, napakalayo	a far cry from, long way, a big difference
@@ -2709,7 +2757,9 @@ malaman, mabatid, mamulat	to be awake to, to be aware of, to know
 malamang	to be very likely
 malamang mabago, di maaasahan, hindi pirmihan, hindi palagian, pabagu-bago	likely to change, not reliable
 malamang, maaari, posible	likely
+malambot	not hard
 malamig, presko, masarap, sariwa	cool, pure
+malamlam,	soft (as light), not glaring
 malantad (ilantad) sa init, araw, lamig, ulan o hangin	to expose to the weather
 malapit sa, nasa	close to, located
 malapit, magkalapit (for two), magkakalapit	near
@@ -2763,6 +2813,7 @@ malumpo, makalumpo, lumpuhin, maparalisa, pumaralisa, paralisahin, mamatay ang k
 malungkot n/adj. the opposite of white	unhappy, gloomy
 malungkot, ikalungkot, mamighati, ipamighati, magdalamhati, ipagdalamhati, magsisi, pagsisihan	to be sad, feel sorry, feel or show grief, sadness, or regret
 malungkot, nalulungkot, malumbay, nalulumbay	sad, sorrowful
+malupit	cruel
 malusog, mabuti	healthy, free from disease
 malusog, mabuti ang katawan	having good health
 maluwag	not tight
@@ -2872,6 +2923,7 @@ mapag-ayos, masinop, maimis	able to and willing to keep things in order
 mapagbigay, bukas ang palad	generous
 mapagitna	to be centered
 mapagkaloob, mapagbigay, bukas-palad, mabuting loob	unselfish
+mapagmataas, mapagmalaki	thinking too well of oneself, haughty
 mapagod, mahapo, manghina	to become weary
 mapagsarili	influenced by or resentful of advice or assistance
 mapahamak	to come to grief, to end in disaster
@@ -2902,6 +2954,7 @@ mapusok	fearless but reckless, bold
 mapusyaw	not bright, dim (for color)
 maputik, putikan	having much mud
 maputla, namumutla	without much color, whitish
+marahan, mahina, malamig	soft (as a sound)
 marahil, malamang	maybe, possibly
 maramdamin	that feels, sensitive
 marami	a large amount
@@ -2915,6 +2968,8 @@ maraming ginagawa (gawain), matrabaho, bising-bisi	having plenty to do
 maraming tao, karamihan ng tao, kakapal ng tao	many people
 maramot, kuripot adv. firmly	stingy (coll)
 marangal, dakila	high or great in character, showing greatness of mind
+marangal, marangya, marilag, dakila	grand, magnificent
+marangya, mapagparangya, nagpaparangya, banidoso/a	vain, showing off oneself or something
 mardyin, mardyin, marhin, marhin, puwang sa paligid, palugit	the space around a page
 marikit	pretty
 marikit, marilag	pretty
@@ -2933,6 +2988,7 @@ masa	mash
 masagi, mapasagi, masaling, sumaling	to touch accidentally
 masakim, makamkam	selfish
 masakit, nakasasakit	severe, biting
+masaksak, matarakan	to be wounded with a pointed weapon
 masalalay, isalalay	depend
 masalin, mapasalin, malipat, mapalipat	to go from one person to another person
 masama	not good
@@ -2947,6 +3003,7 @@ masaya, natutuwa	showing that one is glad
 masayad, mapasayad, sumayad, masanggi, mapasanggi, sumanggi, madiit, mapadiit, dumiit	to be against, come against
 masayang-masaya, tuwang-tuwa, galak na galak, maligayang-maligaya	very happy
 masculine/ feminine)	fiance, sweetheart, betrothed (nobyo/nobya
+masculine/feminine)	vain (banidoso/banidosa
 maselan, maselang, delikado	careful in choosing, particular as to friends, company, etc.
 maselan, maselang, delikado, pihikan	hard to please, wanting everything to be just right, very careful
 masigla	lively
@@ -2956,6 +3013,7 @@ masindak, mangilabot	to be shocked
 masindak, mangilabot stun	to be shocked
 masira	to wear out, to become damaged through use
 masiraan ng isip (bait)	to lose ones mind
+masugatan (sugatan) nang labis ang puso (damdamin), papagdamdamin nang labis	to wound sharply or deeply the feelings of another
 masusi, eksakto, maliwanag	detailed, exact
 masyado, matindi, labis, sobra	much more than usual
 mata	the organ of vision
@@ -2974,6 +3032,7 @@ matalino	bright, intelligent, talented
 matalino, listo/a, matalas	quick in mind, shrewd, clever
 matalino, madaling matuto	quick to learn
 matalisod, matisod, madupilas, madulas, mapatid, matapilok	to stumble
+matalo	to be defeated
 matalo, talunin	not to win, be defeated
 matambak, mabunton, magkapatung-patong	to gather or rise in piles
 matamis	having a taste like sugar or honey
@@ -2998,6 +3057,9 @@ matatandain, mahusay (magaling) ang memorya	retentive, as applied to memory, abl
 matawa (matuwa) nang lihim	to laugh up ones sleeve, to be amused but not show it, laugh secretly
 materyales, gamit, kagamitan, sangkap, panangkap	material, what a thing is made of
 matibay na paniniwala, tapat na pananalig	firm belief
+matigas	not pleasant, harsh
+matigas	not soft, not yielding to touch
+matigas ang puso, walang awa	not too much moved by feelings
 matigas ang ulo, sutil	obstinate
 matigas ang ulo, sutil, mahirap akitin	hard to influence, stubborn
 matigas, mahigpit	stubborn, persistent, holding fast (in a moral sense)
@@ -3052,6 +3114,7 @@ may tubig, matubig	covered with water
 may, maroon, magkaroon	to possess, to own
 may, mayroon	"there" is also used in sentences in which the verb comes before its subjects
 may, mayroon	having
+mayabang, hambog	boastful
 mayamaya, sa madaling panahon (b) soon enough	in time means (a) after a while
 mayamutin, mayayamutin, palaaway, basag-ulero, basag-ulera, mainit ang ulo, matapang	ill-natured, bad-tempered, quarrelsome
 mayari, yariin, mabuo, buuin	to complete
@@ -3104,6 +3167,7 @@ moda, uso, kalakaran	a manner, style
 modelo	a person who poses for artists
 molde	a thing molded
 mongha	a contemplative nun
+mortar, maikling kanyon	a kind of weapon
 mukha	look, expression
 mukha	the dial
 mukha	the front part of the head
@@ -3144,6 +3208,7 @@ nag-akala, inakala	past tense and past participle of "think"
 nagdaraan, dumaraan	going by
 nagkakaisa-isa, magkakadikit	holding fast together
 nagkataon, hindi sinasadya	accidental, unintentional
+nagpapagalaw, nagpapakilos, nagpapasigla	causing action
 nagpapakilala	representing
 nagpapalimos, nabubuhay sa pagpapalimos	begging
 nagsasarili, malaya, may kasarinlan	guiding, ruling, or governing ones self, not under anothers rule
@@ -3285,6 +3350,7 @@ nuwes	dry fruit or seed with a kernel in a hard shell
 nuwes de nogal	walnut
 o	a word suggesting a choice
 o kayay, o dili kayay	or otherwise
+oido	play by ear
 okupado, abala, abalang-abala but conj. on the other hand	occupied
 oo	yes
 opisina, tanggapan	the place in which the work of a position is done
@@ -3567,6 +3633,7 @@ palaka	a kind of frog
 palaka	a small leaping animal that lives in or near water
 palakontra, palatutol	stubborn, opposing
 palakpak	a sound such as caused by the clapping of the hands, etc.
+palalo, suplada/o	arrogant
 palampasin, ipagwalang-bahala, di pansinin	to pass over or pass by, to fail to notice, disregard, overlook
 palasak, laganap, popular	popular
 palawit, pabitin	thing that hangs from a wall, bed, window, etc.
@@ -3822,6 +3889,8 @@ pighati, dalamhati, lumbay, hapis, lungkot, kalungkutan, sakit	grief
 pighati, dalamhati, matinding lungkot	deep pain
 pigilin ang pagsulong	to hold off, to keep at a distance
 piko	a heavy tool with sharp point for breaking up earth or rock
+pila, hanay, hilera	a row of persons or things, single file or abreast
+pilapil	a small dike as in ricefield
 pilay	a lame person
 pilay, bali	an injury caused by twisting
 pili	a kind of nut similar to cashew nut
@@ -3880,6 +3949,7 @@ popular, bantog, sikat, kilalang-kilala, tanyag	liked by most people
 popular, kilala, matunog, tanyag, litaw	liked by acquaintances or associates
 pormularyo	a paper to be filled in
 posas	a handcuff, a fetter for the hands (usually in the plural)
+poskard, tarheta postal	a postcard
 poste, haligi	a piece of timber, iron, etc., firmly set up, usually to support something else
 poste, haliging nakatayo, tukod	something standing erect, a vertical piece of wood
 preso, bilanggo, kalaboso	a person who is kept shut up against his will or who is not free to move
@@ -3908,6 +3978,7 @@ pulutong, pangkat, magkakasama, huwego	group, things or people belonging togethe
 pumadyak, padyakan	to stamp on the floor
 pumagod, mapagod, makapagod, pagurin	to wear one out, to tire or be tired
 pumailanglang, sumibad paitaas	to go like a rocket
+pumalo, mamalo, paluin, manghampas, hampasin	to strike with hand, stick, slippers, etc
 pumalo, paluin	to strike with something, as a whip, stick, etc.
 pumalo, paluin, humampas, hampasin, bumugbog, bugbugin	to strike or give a blow with a whip, stick, etc.
 pumanaw, yumao, mamatay, sumakabilang-buhay	to die, depart to another world
@@ -3947,6 +4018,7 @@ pumito, pituhan, sumilbato, silbatuhan	to blow a whistle
 pumpon ng mga bulaklak, bukey	bouquet of flowers
 pumugot, pugutan, pugutin	to cut off the head
 pumukaw, makapukaw, pukawin	to stir up, excite
+pumukpok, pukpukin	to beat by pounding with a stone, hammer, or heavy piece of wood
 pumuksa, puksain, sumugpo, sugpuin	to stop, to suppress, e.g. disease, pests, etc.
 pumuna, punahin, pumintas, mamintas, pintasan	to find fault with, to object to, to criticize
 pumunta	to go to see
@@ -3975,6 +4047,8 @@ purok	district
 purol, pool, distrito	district or area
 pusit	sea animal like a cuttlefish
 puso	the part of the body that pumps the blood
+puso ng mais	an ear of corn
+puso ng mais	ear of corn
 pusod	the hollow in front of the abdomen
 pusok, kapusukan, lupit, kalupitan	moral violence
 pusta, pustahan, taya	a wager
@@ -4116,10 +4190,15 @@ sakit, sakit, pagpapakasakit, dusa, pagdurusa, hirap, paghihirap, kahirapan, tii
 saklaw	boundary
 saklaw	the distance between limits, range
 sakmal, pagsakmal, daklot, pagdaklot, saklot, pagsaklot	a quick, sudden bite or snatch
+saksak, pagsaksak, iwa, pag-iwa, ulos, pag-ulos	a thrust or blow made with a pointed weapon
+saksak, tarak, iwa, ulos	a wound made by stabbing
+saksak, ulos, tarak	a stab, a pierce
 saktan	to hurt (physically)
 sala, kasalanan	fault
 sala, kasalanan, pagkakasala	sin, misdeed or violation
 sala, mali, hindi wasto	not correct, not what it should be
+salaginto	a greenish beetle with golden back
+salagubang	a beetle often found in mango trees
 salakay, pagsalakay, lusob, paglusob, daluhong, pagdaluhong	an attack
 salamangka, bilis ng kamay	slight of hand feat
 salamin	mirror
@@ -4151,6 +4230,7 @@ salubsob, subyang, tinik	a thin, sharp, piece of wood
 salungat, laban, kontra, lihis, sinsay	contrary
 samakatwid, kaya (nga), anupat	consequently
 samantala, habang, sa sandali	meanwhile
+sampayan	a clothesline
 sana, disin, disin sana	used in speaking of something which might have happened but did not
 sana, sanay	"if only," meaning "I wish"
 sanay, bihasa	taught by experience
@@ -4305,6 +4385,8 @@ sumaklaw, saklawin, sumakop, sakupin including adv. part or member	to consist of
 sumaklot, saklutin, sumunggab, sunggaban, dumaklot, daklutin, dumakma, dakmain, agawing bigla	to snatch
 sumakmal, sakmalin	to snatch with the mouth
 sumakmal, sakmalin, sumaklot, saklutin, dumaklot, dakluti	to make a sudden, quick bite or snatch, to seize suddenly
+sumaksak, manaksak, saksakin, umiwa, mang-iwa, iwaan, tumarak, itarak, tarakan	to pierce or wound with a pointed weapon
+sumaksak, saksakin, isaksak, umulos, ulusin, iulos, magtarak, tarakan, itarak	to stab, pierce
 sumalakay, salakayin, lumusob, lusubin, umatake, atakihin, dumaluhong, daluhungin	to attack
 sumalang, salangin	to touch lightly
 sumalanta, masalanta, salantain	to disable
@@ -4436,6 +4518,7 @@ tahas, tahasan, deretso	not afraid to say what one thinks
 tahimik, kalma, payapa, kalma	quiet
 tahimik, payapa, walang ingay, walang kibo, di kumikilos	without motion, without noise, quiet
 tahol, kahol	sound made by a dog, etc
+tainga	the organ of hearing
 takbo, lakad	a course, direction, trend
 takbo, pagtakbo	act of running
 takda, tasa, limitasyon	restriction
@@ -4461,11 +4544,13 @@ talaksan, tungkos	a small pile (heap) tied together
 talampakan	the bottom or under surface of the foot
 talbos	the top part of a plant, the young leaves
 tali (sintas) ng sapatos	a shoelace
+tali, pisi	a piece of cord
 talim	the thin, sharp side that cuts
 talino, katalinuhan, isip, bait	judgment, intelligence
 talko, talkom	talcum powder
 talon	the fall of water from a high place
 talon, pagtalon	a jump downward
+talong	a kind of vegetable
 talukap (balat) ng alimango	a crab shell
 talumpati, diskurso	a speech
 tama sa, alinsunod sa, sang-ayon sa, batay sa	in accordance with
@@ -4552,6 +4637,7 @@ tapos na, natapos na, yari na	finished, ended
 tapos, katapusan, pagkatapos, wakas	conclusion
 tapos, tapos na	ended
 tapunan, itsahan, hagisan	to give by throwing
+tarheta	a visiting card
 taro, saro	a heavy china or metal drinking cup with a handle
 tasa	dish to drink from
 tastas, kalas	a place where stitches have slipped out or become undone
@@ -4570,6 +4656,7 @@ tentasyon, tukso, panukso, pantukso, pang-udyok	the thing that temps
 terno	a set of clothes
 testamento, huling habilin	a legal statement of a persons wishes about what shall be done with his properties after his death
 tibay, katibayan, serbisyo	a lasting quality, service
+tibok ng puso	the heart beat
 tig-isa, tigisa, tig-iisa, tigi-tig-isa	one each
 tigang	lacking moisture, as land
 tigil, pagkatigil, patlang, pahinga, pagkapahinga	an interruption
@@ -4682,6 +4769,7 @@ tumalbos, talbusan	to remove or cut the top of a plant
 tumalikwas, talikwasin, patalikwasin, sumikwat, sikwatin	to raise or move by force
 tumalilis nang panakaw, panakaw na tumalilis, umalis nang panakaw, dumaan na parang walang anoman	to move secretly or quietly
 tumalo sa pinakamahusay, sumira sa dating rekord	to break a record, to make a better record
+tumalo, talunin	to defeat
 tumalon, talunin	to jump downward
 tumalon, talunin	to leap downward
 tumanda	to become old
@@ -4715,6 +4803,7 @@ tumayo, tumindig	to be on ones feet
 tumayo, tumindig	to rise to ones feet
 tumelepono, teleponohan	to call up, to telephone
 tumiba, tibain	to cut down a banana plant or to cut off a bunch of the fruit
+tumibok	to pulsate as the heart does
 tumigas, manigas, maging matigas, mabuo, mamuo	to become fixed, become firm or hard
 tumigil na sandali, humintong sandali, sandaling tumigil (huminto, magpahinga)	to stop for a time, to wait, to rest
 tumigil, humimpil, huminto	to stay
@@ -4813,6 +4902,7 @@ ulap	fog
 ulap, ulop	a fog, mist
 ulat, kasulatan, rekord	an official account
 ulat, pahayag	something stated, account, report
+uling	a black porous material made by burning wood in an airless kiln
 uliran, huwaran	just right or perfect, especially in conduct
 ulit, beses	a repetition
 ulo	the top part of anything
@@ -4937,6 +5027,7 @@ utos, pag-uutos, atas	a command, order
 utos, salita, atas	command, order
 utus-utusan, sugu-suguin	to order about or around, to send here and there, to tell to do this and that
 utusan	servant
+uwang	a coconut beetle (large and black)
 vpag-anihan	to produce
 wakas, katapusan	end
 wakas, katapusan	the end
@@ -4992,6 +5083,7 @@ walang pasensiya, mainipin, walang tiyaga	not patient, not willing to bear delay
 walang patlang, walang patid, walang lagot	without a gap or break
 walang peligro, hindi delikado, walang panganib, matibay	not causing harm or danger
 walang puno, walang lider, walang pinuno	without a leader
+walang puso, walang awa	unfeeling
 walang sala, walang kasalanan	doing no wrong or evil, not guilty
 walang saysay, walang kuwenta, walang kabuluhan	useless
 walang sigla, walang kasigla-sigla, tuyot, matamlay, patay na patay, hindi masaya	lacking interest, lifeless

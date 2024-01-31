@@ -2006,6 +2006,10 @@ madakíp (dakip) ma_ [verb] to be able to catch; to be captured, caught or arres
 pagkakadakíp (dakip) pagkaka_ [noun] arrest; capture
 dako (dako) rt_ [noun] direction; part; region; spot; around; around (+time)
 dumako (dako) _um_ [verb] to move on; to arrive at
+dakutín (dakot) _in [verb] to grab something
+dakól (dakot) _ a large handful of food; heaping handful; large grasp; generous portion;
+dakót (dakot) rt_ [noun] handful
+karakót (dakot) ka_ [noun] handful
 dala-dalá (dala) rt_rt [adjective/noun] bringing; being brought with one; something carried around
 dalahin (dala) _in [noun] load
 dalaín (dala) _in [verb] to make someone experience something unpleasant
@@ -5144,7 +5148,7 @@ malayò (layo) ma_ [adjective] far; far away; distant; afar;
 maláyong-malayò (layo) ma_rt_na_rt [adjective] very far; very far away; very distant
 napakalayò (layo) napaka_ [adjective] very far away
 palayô (layo) pa_ [adverb] away; further away
-pinakamalayò (layo) pinakama_[adjective] furthest (in distance); farthest (in distance);
+pinakamalayò (layo) pinakama_ [adjective] furthest (in distance); farthest (in distance);
 layon (layon) rt_ [noun] intention; purpose; objective; object; aim
 layunin (layon) _in [noun] objective; aim; cause; goal; mission; intention; purpose
 palayon (layon) pa_ [grammar] objective; referring to ng words / phrases
@@ -8998,6 +9002,7 @@ matunghayán (tunghay) ma_an [verb] to be able to oversee something; to be able 
 tunghayán (tunghay) _an [verb] to look over; to look at or read something carefully
 nakatungháy (tunghay) naka_ [adjective] looking up; looking upward; with a raised head
 tungháy (tunghay) rt_ [adjective] looking up
+ipatungkol (tungkol) ipa_ [verb] to dedicate something to a person (song, etc.)
 katungkulan (tungkol) ka_an [noun] task; job; duty; obligation; business; position; function; employment
 panunungkulan (tungkol) pangCV_an [noun] time in office; term (ex(tungkol) presidential term)
 patungkól (tungkol) pa_ [noun] about; dedication
@@ -9559,3 +9564,81 @@ nakayukô (yuko) naka_ [adjective] having one's head or body bent forward; havin
 yukód (yuko) rt_ [noun] bowing one head in respect/greeting; reverence
 yukô (yuko) rt_ [noun] bending down of the head or body; obeisance
 yumukô (yuko) _um_ [verb] to bow one's head; to bend; to bend down; to bend forward; to bend over; to droop
+dambungan (dambong) [verb] to loot, plunder or pillage
+dambungín (dambong) [verb] to plunder something; to pillage something
+dambóng (dambong) [noun] plunder
+depredasyón (dambong) looting or plundering; looting; plunder; pillage; raid;
+mandarambóng (dambong) [noun] plunderer; pirate
+bari-barí (bari) feigning the completion of a commanded task by claiming certain things for the purpose of being believed; pretending; feigning; dissembling;
+barihán (bari) a colorful and loosely woven blanket; blanket; coverlet; throw;
+barí (bari) to imitate the speaker; mimic; imitate; copy; echo; parrot;
+pagtutuyaan (tuya) [noun] exchange of sarcastic remarks
+panunuyâ (tuya) [noun] mockery; ridicule; sarcasm
+tuyâ (tuya) [noun] mockery; ridicule
+mangutyâ (ngutya) [verb] to scoff
+pangungutyâ (ngutya) [noun] scoffing; mocking
+nakasagasà (sagasa) [adjective] having been hit; hit by a car/vehicle
+sagasaan (sagasa) [verb] to run over someone/something
+sagasà (sagasa) [noun] hit by a vehicle (car/truck/bus/etc.); crashing into something
+kaligaligan (ligalig) [noun] being troubled; mental distress
+ligalig (ligalig) [noun] mental distress; chaos
+ligaligin (ligalig) [verb] to harass someone
+maligalig (ligalig) [adjective] troubled; mentally distressed
+manligalig (ligalig) [verb] to cause perturbation all around
+mapanligalig (ligalig) [adjective] prone to cause trouble all around
+mukhang ligalig (ligalig) [noun] careworn
+panliligalig (ligalig) [noun/adjective] making trouble all around
+magwarì (wari) [verb]to ponder; to meditate; to consider
+mawarì (wari) [verb] to discern something; to perceive something
+pagwawari-wari (wari) [noun] act of reflecting/deliberating
+pakiwarì (wari) [noun] a view or opinion or judgment formed about something, not necessarily based on fact or knowledge
+pangawarhî (wari) a person who has the habit of speaking ill and criticizing others.; slanderer; criticizer; defamer; muckraker; naysayer;
+ruwina (wari) ruin; destruction; devastation; wreckage;
+wari-wari (wari) [noun] vague opinion, idea or notion
+warì (wari) [noun] assumption; opinion; estimation; [adjective] seemingly; looks like; as; as if; apparent
+lingap (lingap) [noun] mindfulness of something; compassionate care
+lingapin (lingap) [verb] to care for
+lumingap (lingap) [verb] to care for; to look after
+Makíkiraán pô (daan) Please let me pass.
+bigyáng-daán (daan) [noun] giving way
+daan-daán (daan) [adjective] hundreds
+daanan (daan) [noun] path; passageway; aisle
+daanan (daan) [verb] to pass through somewhere; to stop by somewhere; to have access somewhere
+daanin (daan) [verb] to act indirectly
+dadaanin (daan) [noun] one hundred peso bill
+dalan (daan) path; way; road; route;
+daán (daan) [noun] hundred; one hundred (100); road; street; way; means; path; entry; course
+di-maraanan (daan) [adjective] impassable
+dumaán (daan) [verb] to pass; to pass by; to stop by; to drop in for a visit; to elapse; to go by
+idaán (daan) [verb] to take something to; to pass through or over something; to deliver something; to convey something; to express something; to deal with or get or something
+idaán sa (daan) [verb] to do something in a certain way
+ikasandaán (daan) [adjective] one hundredth; 100th
+isandaán (daan) [number] one hundred; * short for "isang daan".
+kakaraán (daan) [adjective] just passed by
+karalan-kalanan (daan) the thing that everyone passes through or that is used by everyone; commons; public domain; public space;
+limándaán (daan) five hundred; consisting of five hundreds;
+madaanan (daan) [verb] to happen to pass through or by somewhere; to be able to pass through or by somewhere
+madaán (daan) [verb] to happen to pass through
+magdaán (daan) [verb] to pass by; to pass; to drop by; to undergo; to go through;
+makaraán (daan) [conjunction] after; as; while
+makaraán (daan) [verb] to be able to pass; to be able to get over/across
+makidaán (daan) [verb] to pass through with someone's permission
+manaán (daan) per one hundred, like a hundred pesos each; per hundred; each hundred;
+mapadaán (daan) [verb] to happen to pass by
+maparaán (daan) [adjective] resourceful
+nagdaán (daan) [adjective] passed; past
+nakaraán (daan) [adjective] past; previously; previous; former; bygone; recent;
+padaanín (daan) [verb] to let someone/something pass
+padaán (daan) passing through; passing by
+pagdaanan (daan) [verb] to go through something; to pass through something; to endure something (go through difficulties); to bring something by to someone
+pagdaán (daan) [noun] passing; going by; transit
+pagdáraanan (daan) [noun] path
+pagkaraán (daan) [adverb] having passed; after something has passed; afterwards
+pakiraán (daan) [expression] excuse me, can i pass by
+pamámaraán (daan) [noun] method; way; approach; process
+paraanan (daan) [verb] to run through something
+paraanin (daan) [verb] to make way for something
+paraán (daan) [noun] way; method; course of action; manner; manners
+sandaanin (daan) [noun] hundred-peso bill
+sandaán (daan) [number] one hundred; * short for "isang daan"
+tabíng-daán (daan) [noun] roadside; wayside

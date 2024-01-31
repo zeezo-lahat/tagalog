@@ -828,6 +828,7 @@ gabí	night
 gabíng-gabi	late (at night)
 gabunán	aswang na kumakain ng lamán ng tao minsan sa isang taon
 gagambá	spider
+gagáp	very well known; profound knowledge; comprehend; grasp; understand deeply
 gahak	a rip, tear, chink
 gahák	ripped
 gahasa	rape
@@ -1022,6 +1023,7 @@ hango	relief from difficulties; literary adaptation or reproduction from origina
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
 hantik	large, red, poisonous ant
 habág	compassion; disconsolate feeling; self-pity
+hapág	table; low table made of bamboo
 hapít	tight fitting, tense, taut
 haplos	caressing, stroking, petting
 harana	serenade
@@ -1311,6 +1313,7 @@ isinuko	surrendered someone or something
 isip	mind, intellect, thought, judgment
 isipan	the mind
 isipin	to think about
+isisi	to blame SOMETHING (ang/focus) on someone (sa)
 istilo	a style, manner, technique (of doing something)
 isugod	to rush someone/thing, as to the hospital
 isuko	to surrender something
@@ -1548,7 +1551,7 @@ kanila	their, theirs
 kanin	boiled or steamed rice
 kanina	a while ago, sometime ago today
 kanina pa	since earlier (as if it's been a long time..)
-kanino	whose?
+kanino	(to) whom; whose?
 kaniya-kaniyang	each on his own, individually
 kanlungan	sanctuary; shelter against weather
 kanlungan	to provide with shelter against weather
@@ -2544,6 +2547,7 @@ mana	inheritence (can be traits or wealth, etc.)
 managinip	to dream, have a dream
 manaig	prevail, override, overrule, conquer, predominate, surpass (daig)
 manakot	to scare (mang-)
+manalángin	to pray (Actor Focus), to pray for something (Object Focus)
 mánang	elder sister; a familiar term for a woman in her 40’s or thereabouts even if not related to her
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
@@ -4185,6 +4189,8 @@ tagusán	to pierce
 tahak	to take a shortcut; explored, travelled over
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
+tahás	assigned task; specific duty; direct, specific ("ang tahas na pagsasalita ni Boris")
+táhasan	active; directly
 tahól	bark, as of a dog (also kahol)
 tahô	a sweet snack made with soft tofu, sago/tapioca pearls, and a caramelized sugar syrup
 taimtím	sincere, fervent, solemn
