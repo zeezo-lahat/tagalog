@@ -69,7 +69,7 @@ The money you gave me is too much.	Sobra ang binigáy mo sa aking pera.
 To whom did you give it?	Kanino mo ibinigáy?
 Did April balk at the task you assigned her?	Umurong ba si April sa gawaing iniatas mo sa kaniyá?
 I bought her clothes.	Ibinilí ko siyá ng damít.
-Buy shoes for Mom.	Ibilí mo nanay ng sapatos.
+Buy shoes for Mom.	Ibilí mo ang nanay ng sapatos.
 I bought you bread.	Ibinilí kitá ng tinapay.
 He bought rice for the family from the grocery store.	Ibinilí niyá ng bigás sa gróserí ang pamilya.
 way of making a living	ikinabubuhay
@@ -81,6 +81,7 @@ second) 7 ika-	first, second, third, etc. (ikalawá
 He knocked on the door of the room.	Kinatók niyá ang pintô ng silíd.
 It's difficult to represent people who don't cooperate.	Mahirap katawanín ang mga taong waláng kooperasyón.
 Why did the dog bite you?	Bakit ka kinagát ng aso?
+Why did you bite the dog?	Bakit mo kinagát ang aso?
 Don't kick the dog as it might bite you.	Huwág mong sisipain ang aso at bakâ kagatín ka.
 rained on	inulán
 to have someone killed	ipapatáy
@@ -104,7 +105,6 @@ I promised Berna that I would come home early.	Ipinangakò ko kay Berna na uuwî
 I have not yet given Bill the gift you sent me to give him.	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.
 What should we name our dog?	Anó ang ipápangalan natin sa aso natin?
 Remind me.	Ipaalala mo sa akin.
-like i- but with mag- verbs	-
 to fight for someone/thing	ipaglaban
 Cook pansit for Mom.	Ipaglutò mo ang nanay ng pansít.
 Do the dishes for him.	Ipaghugas mo siyá ng mga plato.
@@ -123,31 +123,25 @@ I'm proud of you Roy.	Ipinagmámalakí kitá, Roy.
 Continue with what you're doing.	Ipagpatuloy ninyó ang inyóng ginagawâ.
 Let's continue.	Ipagpatuloy tayo.
 Elmer is continuing his schooling.	Ipinagpápatuloy ni Elmer ang pag-aaral niyá.
-sa using ang); instrumental focus 9 ipapang-	causative (ng
-I confined the biting dog. (ma- -kagat)	Ikinulóng ko ang nangángagát na aso.
+I confined the biting dog.	Ikinulóng ko ang nangángagát na aso.
 I hope you will understand.	Sana maintindihan mo.
 I'm afraid to pass through the tunnel.	Takót akóng magdaán sa lagusan.
 to love each other	magmahalan
 to shout at each other	magsigawan
 The friends laughed when one of them tripped.	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá.
 They all ran when the one they thought was dead moved.	Nagtakbuhan silá nang kumilos ang inakalà niláng patáy.
-sa)   7 magpa-	to cause an action (ang
-sa)   7 magpa-	to increase the intensity/amount of something (ang
-ng) 7 magpa-	to control/operate something???? (ang
-run a school, magpatakbó ng trak -	magpatakbó ng páaralán
+run a school	magpatakbó ng páaralán
 I want to end my life.	Gustó ko nang magpakamatáy.
 He stabbed his wife and committed suicide.	Sinaksák niyá ang kaniyáng asawa at saká nagpakamatáy.
 The town will be flooded once the dam releases water.	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.
 You will be given blessings (blessed) if you become nice.	Mabíbigyán ka ng biyayà kung magpápakabaít ka.
 I have not yet given Bill the gift you sent me to give him.	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.
 You have helped me a lot.	MalakI and naitulong mo sa akin.
-compare this with makapag- (assoc with mag verbs)	-
 The medicine was helpful.	Nakatulong ang gamót
 Has Tony arrived yet?	Nakaratíng na ba si Tony?
 Lani got an idea from Paco.	Nakakuha ng ideya si Lani mulâ kay Paco.
 Could someone see/be watching us?	May nakákakita kayâ sa atin?
 I will do my best.	Gagawin ko ang aking makakaya.
-compare this with maka- (assoc with um verbs)		-
 so he can focus on..		para makapag-focus siya sa..
 have you travelled (been able to travel)?		nakapagbiyahe ka na ba?
 to (be able to) frighten		makapanAkot

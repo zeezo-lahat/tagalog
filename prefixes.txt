@@ -105,14 +105,16 @@ i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clot
 	Ibigáy mo sa akin.  |  Give it to me.
 	Sobra ang binigáy mo sa aking pera.  |  The money you gave me is too much.
 	Kanino mo ibinigáy?  |  To whom did you give it?
-i-	(ng) does something (bring, read, ask, ...) FOR someone else (ang) (benefactor)
-	i- benefactive form is for roots which don't have i- object focus, which also normally don't have "mag" forms
 	Umurong ba si April sa gawaing iniatas mo sa kaniyá?  |  Did April balk at the task you assigned her?
-	Ibinilí ko siyá ng damít.  |  I bought her clothes.
-	Ibilí mo nanay ng sapatos.  |  Buy shoes for Mom.
+i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang).  DO is usually "ng" (generally
+	no "sa".)
+	i- benefactive form tends to go with roots which don't have i- object focus, and/or which also normally don't
+	have "mag" forms
 	Ibinilí kitá ng tinapay.  |  I bought you bread.
+	Ibinilí ko siyá ng damít.  |  I bought her clothes.
+	Ibilí mo ang nanay ng sapatos.  |  Buy shoes for Mom.
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
-ika-	to CAUSE OF / REASON state/condition/circumstance
+ika-	to CAUSE or be REASON for state/condition/circumstance
 	ika-, ikina-, ikinaCV-, ikaCV-
 	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
 	ikinabubuhay  |  way of making a living
@@ -136,7 +138,11 @@ ikapang-	causative + instrumental focus, makes nouns causers of action (mang- ve
 	inulán  |  rained on
 -in	nouns nominalizing actions
 -in	adj of being prone or susceptible to something (ex. sakitin)
-ipa-	(ng) has/causes (sa) to do something re. (ang) (similar to pa-an)
+ipa-	OBJECT "causative" with the focus on the thing acted on rather than the causer or doer of something
+	"to have something done by someone else" - tagalog.com.  It's sometimes that, but just a layer of indirection,
+        eg, compare makita (see) to ipakita (show)
+	In the full causer, causee/agent, action-done:  (ng) has/causes (sa) to do something re. (ang) (similar to pa-an)
+	Ipatapon mo ang basura.	Have someone throw out the trash.
 	Ipapaluto ni Mario kay Aling Tess ang pansit para sa handaan. | Mario will have Aling Tess cook the pansit for the celebration.
 	Nasunód mo ba ang ipinápagawâ ko sa iyó?  |  Were you able to follow through what I asked you to do?
 	Ipakita mo sa akin ang passport mo.  |  Show me your passport.
@@ -158,11 +164,11 @@ ipa-	(ng) has/causes (sa) to do something re. (ang) (similar to pa-an)
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	Anó ang ipápangalan natin sa aso natin?  |  What should we name our dog?
 	Ipaalala mo sa akin.  |  Remind me.
-ipag-	(ng) does something FOR (ang) (benefactor) -> like i- but with mag- verbs, and not with i- object focus verbs
-	ipaglaban  |  to fight for someone/thing
-	Ipaglutò mo ang nanay ng pansít.  |  Cook pansit for Mom.
+ipag-	(ng) does something FOR (ang).  generally no "sa".  (benefactor) -> like i- but with mag- verbs where there is generally an i- non-benefactive form.
+	Ipaglutò mo ang nanay ng pansít.  |  Cook pansit for Mom. (Iluto mo ang pansit.  Cook the pansit.)
 	Ipaghugas mo siyá ng mga plato.  |  Do the dishes for him.
-	Ipaghandâ mo si Mary ng damít.  |  Prepare clothes for Mary.
+	Ipaghandâ mo si Mary ng damít.  |  Prepare clothes for Mary. (Ihanda mo ang damit.  Prepare the clothes.)
+	Ipaglaban ang katotohanan.	Fight for the truth.
 ipag-	(ng) does something to/with/etc. (ang)
 	ipagbawal  |  to prohibit/ban/forbid/outlaw something
 	Ipinagbabawal ang paninigarilyo dito.  |  Smoking cigarettes is prohibited here.
@@ -182,9 +188,9 @@ ipagpa-	causative/benefactive - person 1 (ang) - person 2 (ng) for the benefit o
 	Ipagpatuloy tayo.  |  Let's continue.
 	Ipinagpápatuloy ni Elmer ang pag-aaral niyá.  |  Elmer is continuing his schooling.
 ipaki-	request a third party to do something; request/please (like paki- but benefactor focus)
-ipang-	(ng) does something using an INSTRUMENT (ang)
-ipang-	(ng) does something to a person or thing (ang)
-ipang-	an object undergoes action*; benefactor* (*like i- but with mag- verbs)  WHAT IS THIS???
+ipang-	INSTRUMENT FOCUS
+ipang-	DISTRIBUTIVE BENEFACTIVE FOCUS (*like ipag- but with mang- verbs instead of mag-)
+	Ipanghiram mo siya ng pera.	Borrow money for him.
 ipapang-	causative (ng -> sa using ang); instrumental focus
 isa-	to put something into the root condition or state (obj.) <isina-, isinasa-, isasa->
 ka-	nouns of sharing or togetherness
@@ -314,12 +320,19 @@ magsipag-an	pluralized -um- with several people doing act simultaneously or to e
 mai-	(object) abilitative of i- <ang> from <ng> to <sa>
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	MalakI ang naitulong mo sa akin.  |  You have helped me a lot.
+mai-	(object) abilitative of benefactive i- form
+	Naibili ko siya ng baro.	I was able to buy her a dress.
 maipa-	(object) abilitative of ipa- (causative)
 maipag-	abilitative of ipag- (object undergoes action; benefactor)
 maipang-	abilitative of ipang- (object undergoes action; benefactor)
 maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
+maka-	verb: (obj) abilitative (ka-in) (eg, Kakausapin ko siya. "I'm going to talk to him.")
+	Dapat makausap kita.	I need to talk to you.
+maka-	verb: (obj) social ma- incidental
+	Nákasalubong ko ang kaibigan ko.	I ran into my friend.
+	Dapat makausap kita.	I need to talk to you.
 maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cause/bring about something
 	-> compare this with makapag- (assoc with mag verbs)
 	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
@@ -329,14 +342,11 @@ maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cau
 	Nakaratíng na ba si Tony?  |  Has Tony arrived yet?
 	Nakakuha ng ideya si Lani mulâ kay Paco.  |  Lani got an idea from Paco.
 	Gagawin ko ang aking makakaya.  |  I will do my best.
-maka-	(actor) accidental/incidental/unintentional of -um-
+maka-	(actor) accidental/incidental/unintentional of -um-, actor focus of similar ma-
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something
-maka-	(actor) accidental/incidental/unintentional. actor focus of similar ma-
 	makatulog  |  to fall asleep
 maka-	verb: (actor) abilitative/causative (ika-)
-maka-	verb: (obj) abilitative (ka-in)
-	Dapat makausap kita.	I need to talk to you.
 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		makapagsalita siya ng English  |  she is able to speak English

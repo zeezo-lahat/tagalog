@@ -1,0 +1,34 @@
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/hagip:2756 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/hagip:2860 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/hagip:3000 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/hagip:3178 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/js/menus.js:7 in global code
+hagip
+Filipino / Tagalog language translation for the meaning of the word hagip in the Tagalog Dictionary.
+Definition for the Tagalog word hagip:
+hagíp
+[noun] grabbing; sideswiping
+Root: hagip
+Not Frequent
+The Tagalog.com Dictionary is now an App!
+Join us! We are a free online community for Filipino / Tagalog language learners
+Join »
+How to pronounce hagip:
+HAGIP AUDIO CLIP:
+Markup Code:
+[rec:15924]
+Related Filipino Words:
+mahagíp
+Related English Words:
+grabbingsideswiping
+Feedback / Suggestions:
+Did you find an error or do you know of an improvement for this entry? Please let us know, your feedback is very helpful!
+Submit Suggestion »
+Become a patron
+We love our supporters! :)
+© copyright 2024. Do not copy or reproduce content or audio without prior written authorization. Scraping and republishing our data is a copyright violation. We put a lot of hard work and TLC into this website -- please don't copy or publish our content without permission. Terms & Community Agreement

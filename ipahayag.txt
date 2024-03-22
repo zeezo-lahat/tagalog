@@ -1,3 +1,37 @@
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/ipahayag:2756 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/ipahayag:2860 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/ipahayag:2995 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/ipahayag:3027 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/dictionary/ipahayag:3205 in global code
+ReferenceError: Can't find variable: afterJQ
+  https://www.tagalog.com/js/menus.js:7 in global code
+ipahayag
+Filipino / Tagalog language translation for the meaning of the word ipahayag in the Tagalog Dictionary.
+Definition for the Tagalog word ipahayag:
+ipahayág
+[verb] to announce something; to express something; to declare something
+View monolingual Tagalog definition of ipahayag »
+Verb conjugations of ipahayag:
+Focus:  Object  Root: hayagConjugation Type: Ipa-
+Infinitive:
+ipahayág
+Completed (Past):
+ipinahayág
+Uncompleted (Present):
+ipinaháhayág
+Contemplated (Future):
+ipaháhayág
+Verb family:
+ihayág  | ipahayág  | magpahayág
+The Tagalog.com Dictionary is now an App!
+ Ipahayag Example Sentences in Tagalog: (22)
+Example sentences hand-crafted by professional Filipino teachers and writers.
+Click or tap any underlined word to see a literal translation.
 Gustó kong ipahayág ang aking damdamin.	I want to express my feelings.
 Kailangan mong ipahayág ang nanalo.	You need to declare the winner.
 Ipahayág mo ang iyóng sarili.	Express yourself.
@@ -8,15 +42,3 @@ Ipinahayág ng pangulo ang pagpápatupád ng batás militár.	The president decl
 Ipinahayág ni Butch ang súsunód na CEO ng kompanyá.	Butch announced the next CEO of the company.
 Ipinahayág nilá na akó ang magsasanay sa kanilá.	They announced that I would train them.
 Ipinahayág ni Daniel ang pagkadismayá niyá.	Daniel expressed his dismay.
-Ipinahayág na ba nilá ang nanalo sa patímpalák?	Have they announced the winner of the contest?
-Ipinápahayág niyá ngayón ang súsunód na hakbáng.	She's announcing the next step right now.
-Ipinápahayág ng magsasaká ang kaniláng mga hinaíng.	The farmers are expressing their frustrations.
-Ipinápahayág ng pámahalaán ang posisyón nilá sa isyu.	The government is announcing their position on the issue.
-Ipinápahayág sa radyo na suspendido ang mga klase.	The radio announces the suspension of classes.
-Ipinápahayág kong hindî akó kailanmán mag-áasawa.	I declare that I will never marry.
-Kailán ipápahayág ng gurò ang resulta ng pagsusulit?	When will the teacher announce the result?
-Ipápahayág ko ang mga plano sa pulong.	I will announce the plans in the meeting.
-Ipápahayág ni Sierra ang mga paborito niyáng kandidato.	Sierra will announce her favorite candidates.
-Ipápahayág ko ang pasasalamat ko kay Debra.	I will express my gratitude to Debra.
-Ipápahayág ng bagong lider ang programa niyá.	The new leader will announce her programs.
-Ipinahayág ng gurò ang misyón at bisyón ng páaralán.	The teacher stated the school's mission and vision.

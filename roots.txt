@@ -75,7 +75,7 @@ umaga (aga) _ [noun] morning
 agaran (agad) _an [adjective] immediate
 agarín (agad) _in [verb] to do without delay; to do promptly
 agád (agad) rt_ [adverb] right (away/after/etc); immediately; right away; quickly; soon; soon; so soon; readily; suddenly; without delay; at once; promptly; [adjective] urgent
-agád-agád (agad) rt_rt_ [adverb] immediately; right away; at once
+agád-agád (agad) rt_rt [adverb] immediately; right away; at once
 kaagád (agad) ka_ [adverb] right away; immediately; instantly
 maagapan (agap) ma_an [verb] to be able to be prepared for something; to be able to prevent something; to be able to anticipate something
 maagap (agap) ma_ [adjective] prompt; alert; punctual; quick; [adverb] promptly; quickly
@@ -1250,7 +1250,7 @@ bata (bata) rt_ [noun] bathrobe; robe
 batang lansangan (bata) phr_ [noun] street kid
 batang-batà (bata) cmp_ [adjective] very young
 batà (bata) rt_ [noun] child; children; kid; youth; [adjective] young
-binatà (bata) sp_ [noun] young man; teenage boy; bachelor; single man; unmarried man
+binatà (bata) _in_ [noun] young man; teenage boy; bachelor; single man; unmarried man
 bumatà (bata) _um_ [verb] to become young again; to be rejuvenated
 báhay-batà (bata) cmp_ [noun] uterus (literally(bata) "baby house")
 kababatà (bata) kacv_ [noun] childhood friend
@@ -1565,6 +1565,11 @@ pabilóg (bilog) pa_ [adjective/adverb] in a circle; in circles
 binat (binat) rt_ [noun] relapse
 binatin (binat) _in [verb] to cause to have a relapse
 mabinat (binat) ma_ [verb] to relapse
+nakabinbín (binbin) naka_ [adjective] postponed
+bimbín (binbin) _ [noun] variant of binbin; carry; hold; bear;
+binbín (binbin) rt_ [noun] a state of delay or postponement of something that is supposed to happen or be performed; delay; postponement; deferment; holdup;
+binbinin (binbin) _in [verb] to forcibly detain or delay
+mabinbín (binbin) ma_ [verb] to be postponed
 bingihín (bingi) _in [verb] to deafen
 bingí (bingi) rt_ [adjective] deaf
 bingí't pipi (bingi) phr_ [noun] deaf-mute
@@ -2218,7 +2223,7 @@ dapaán (dapa) _an [verb] to lie prostrate or flat on something
 dapâ (dapa) rt_ [adjective] lying face down
 dumapâ (dapa) _um_ [verb] to lie on one's stomach; to drop flat on the ground; to lie face down
 madapâ (dapa) ma_ [verb] to stumble; to fall flat
-magkandarapà (dapa) magkang_ [verb] to fall; to stumble
+magkandarapà (dapa) magkangCV_ [verb] to fall; to stumble
 nakadapâ (dapa) naka_ [adjective] lying face down; prone; prostrate
 padapâ (dapa) pa_ [adjective/adverb] lying on one's stomach
 dapat (dapat) rt_ [pseudo-verb] should; should do; ought to; must; need; [adjective] deserving; worthy; fitting; right; fit; qualified; supposedly
@@ -6988,7 +6993,7 @@ saluhan (sali) _an [verb] to join in eating; to eat with someone
 sumali (sali) _um_ [verb] to take part in; to participate in; to join in; to take part in; to compete in
 kapanalig (salig) kapang_ [noun] fellow person one has trust or faith in; trusted person
 manalig (salig) mang_ [verb] to have faith
-panalig (salig) pa_ [noun] dependence; trust; faith; reliance; creed
+panalig (salig) pa_ [noun] dependence; trust; faith; reliance; creed (also 'pananalig')
 panaligan (salig) pang_an [verb] to put trust in someone/something; to depend on someone/something
 salig (salig) rt_ based; based on
 magsaliksík (saliksik) mag_ [verb] to research
@@ -8685,7 +8690,7 @@ tumingalâ (tingala) _um_ [verb] to look upward; to look up
 kung makátingín (tingin) phr_ [phrase] the way one stares at something
 magkátinginan (tingin) magka_an [verb] to look at one another
 magpatingín (tingin) magpa_ [verb] to be examined; to consult; to seek the advice of someone
-magpatingín sa doktór (tingin) phr_ [verb] to see a doctor; to consult a doctor; to get a check up
+magpatingín sa doktór (tingin) phr_ [phrase] to see a doctor; to consult a doctor; to get a check up
 magtinginan (tingin) mag_an [verb] to look at one another
 makatingín (tingin) maka_ [verb] to be able to look
 mapatingín (tingin) mapa_ [verb] to happen to look at; to happen to see; to suddenly look at
@@ -9564,11 +9569,11 @@ nakayukô (yuko) naka_ [adjective] having one's head or body bent forward; havin
 yukód (yuko) rt_ [noun] bowing one head in respect/greeting; reverence
 yukô (yuko) rt_ [noun] bending down of the head or body; obeisance
 yumukô (yuko) _um_ [verb] to bow one's head; to bend; to bend down; to bend forward; to bend over; to droop
-dambungan (dambong) [verb] to loot, plunder or pillage
-dambungín (dambong) [verb] to plunder something; to pillage something
-dambóng (dambong) [noun] plunder
-depredasyón (dambong) looting or plundering; looting; plunder; pillage; raid;
-mandarambóng (dambong) [noun] plunderer; pirate
+dambungan (dambong) _an [verb] to loot, plunder or pillage
+dambungín (dambong) _in [verb] to plunder something; to pillage something
+dambóng (dambong) rt_ [noun] plunder
+depredasyón (dambong) _ looting or plundering; looting; plunder; pillage; raid;
+mandarambóng (dambong) mangCV_ [noun] plunderer; pirate
 bari-barí (bari) feigning the completion of a commanded task by claiming certain things for the purpose of being believed; pretending; feigning; dissembling;
 barihán (bari) a colorful and loosely woven blanket; blanket; coverlet; throw;
 barí (bari) to imitate the speaker; mimic; imitate; copy; echo; parrot;
@@ -9642,3 +9647,151 @@ paraán (daan) [noun] way; method; course of action; manner; manners
 sandaanin (daan) [noun] hundred-peso bill
 sandaán (daan) [number] one hundred; * short for "isang daan"
 tabíng-daán (daan) [noun] roadside; wayside
+balingangà (linga) having a twisted neck, more severe than just being bent or crooked; wry neck; torticollis;
+kalawingi (linga) careful attention or watchfulness over animals or any pets; tending; caring; nurturing; watchfulness; guardianship;
+lingá (linga) [noun] looking around; sesame
+lingálingaban (linga) a shrub (family euphorbiaceae) with a bitter sap; bitter shrub; spurge;
+lingán (linga) to spill the liquid contents of a container; spill; pour out; tip over;
+lingánsiná (linga) a type of grass called devil's horsewhip or hell's weed; devil's horsewhip; hell's weed;
+lumingá (linga) [verb] to look around; to turn one's head around to look
+magpalingá-lingá (linga) [verb] to look all around
+palinga (linga) [adjective/adverb] with the head turned sideways (temporarily)
+palinga-lingá (linga) [adjective/adverb] looking here and there
+karipas (karipas) [noun] scurrying; a fast run due to fear
+kumaripas (karipas) [verb] to scurry; to run away in fear; to hurry out of fear
+pagkaripas (karipas) [noun] scurrying
+dumupok (dupok) [verb] to become weak or fragile
+dupók (dupok) [noun] fragility
+marupukan (dupok) [verb] to consider something to be weak in structure
+marupók (dupok) [adjective] weak; materially weak; weak willed; fragile; flimsy
+dalos (dalos) [noun] hastiness
+dalós-dalos (dalos) having the characteristics of being spontaneous or impromptu; spontaneous; impromptu; unplanned;
+magpadalus-dalos (dalos) [verb] to do things hastily or rashly
+padalus-dalós (dalos) [adverb] hastily; rashly
+dakmaín (dakma) [verb] to clutch something; to grab something
+dakmâ (dakma) [noun] snatching; grabbing; grabbing with one's hands
+dumakmâ (dakma) [verb] to grab with one's hands
+hakom (lagom) the act of encompassing all things; the consolidation of everything into one; consolidation; amalgamation; unification; convergence;
+lagumin (lagom) [verb] to summarize; to assimilate; to abstract
+manlalagom (lagom) [noun] monopolist
+paglagum-lagumin (lagom) [verb] to combine a number of ventures (business affairs) into one
+paglalagom (lagom) [noun] summarizing; summing up
+kaluniyà (lunya) variant of kalunya; infidelity; adultery; unfaithfulness; cheating;
+ngalunyâ (lunya) a variant of 'kalunya', as in 'kalunyain', 'kinalunya', 'mangalunya'; adultery; infidelity; cheating; unfaithfulness;
+apíd (apid) [noun] adultery
+kaapíd (apid) [noun] paramour
+ibisin (ibis) [verb] to unload
+ibís (ibis) [noun] getting out of a vehicle
+mag-ibis (ibis) [verb] to unload
+magpaibis (ibis) [verb] to get others to do the unloading
+nakaibís (ibis) [adjective] getting out of a vehicle
+pag-ibis (ibis) [noun] alighting from a vehicle
+pagkaibis (ibis) [noun] relief from pain, affliction, sorrow, etc.
+umibís (ibis) [verb] to get off of a vehicle; to get down from a vehicle
+limasan (limas) [verb] to bail/scoop out water from a small boat, pond or pool
+limasin (limas) [verb] to bail/scoop out water from a small boat, pond or pool
+lumimás (limas) [verb] to remove water; to bail water; to bail out water; to use up money; to clear up
+paglilimas (limas) [noun] act of bailing out water from a small boat, pond or pool
+panlimas (limas) [noun] scoop or the like for bailing out water
+halughóg (halughog) [noun] inspection
+pahalughog (halughog) [verb] to allow oneself to be searched closely
+alisagság (sagsag) lazy and negligent; indolent; slothful; neglectful; remiss;
+kamasahan (sagsag) [adjective] at the height of (something)
+kasagsagán (sagsag) [adjective] in the thick of (something); at the height of (something); to be raging (going full blast)
+sagság (sagsag) to sag or sink down due to abnormal weight, softness, or emptiness; sag; sink; slump; droop; decline;
+sumagsag (sagsag) [verb] to go to some place in a hurry
+matulalâ (tulala) [verb] to be dumbfounded; to be dazed; to stare into space
+nakatulalâ (tulala) [adjective] dumbfounded; dazed
+tulalâ (tulala) [noun] idiot; [adjective] dazed; stupid; dumfounded
+kapanglawan (panglaw) [noun] loneliness; emptiness; desolation; melancholy
+mapangláw (panglaw) [adjective] nostalgic; melancholic
+pangláw (panglaw) [noun] nostalgia; loneliness; melancholy; sadness; desolation
+alkilahan (alkila) [noun] rental service
+ipaalkila (alkila) [verb] to let out for rent or hire
+hinguto (kuto) the act of removing lice from the hair; delousing; lice removal;
+kolokutón (kuto) having many lice; infested; lousy;
+kuto (kuto) [noun] lice; louse
+kuto sa pagtatalik (kuto) [noun] pubic lice; crabs (lice)
+kutuhin (kuto) [verb] to be infested with lice; to get head lice
+kutó-kutó (kuto) zoology(kuto) an insect (family gerridae) that lives on water, with long and hairy limbs; water strider; pond skater; water skipper;
+kútong-tubig (kuto) water strider; zoological insect belonging to the family gerridae that lives on water, characterized by long, hairy limbs; also known as pond skater or water skimmer.; pond skater; water skimmer;
+kútuhin (kuto) [adjective] infested with lice
+habagín (habag) [verb] to pity on someone; to be merciful to someone
+habág (habag) [noun] a deep feeling of sympathy; compassion
+kahabagan (habag) [verb] to have pity on
+kahabág-habág (habag) [adjective] pitiful
+kahábag-palay (habag) a type of rice; rice variety; rice strain;
+mahabagín (habag) [adjective] compassionate; merciful
+itumpok (tumpok) [verb] to make a small heap (of grains, beans, etc.)
+magtumpok (tumpok) [verb] to make a small heap of e.g. grains, beans, etc.
+tumpók (tumpok) [noun] pile; clump; bundle
+hagíp (hagip) [noun] grabbing; sideswiping
+mahagíp (hagip) [verb] to be sideswiped (AF); to be hit by a vehicle (AF); to catch sight of something (OF); to swipe (grab) something (OF)
+sangáy (sangay) [noun] branch; branch of an organization; agency
+isangay (sangay) [verb] to name (someone) after another
+masangay (sangay) [adjective] with many branches or subsidiaries (company)
+sangayár (sangay) the act of dragging an object; dragging;
+datig (datig) an adjacent or nearby area; a place that is next to or close to another; adjacent; neighboring; adjoining; contiguous; proximate;
+pandatig (datig) [noun] material for lining
+magkaratig (datig) [adjective] contiguous
+alanganin (alangan) [adjective] doubtful; dubious; uncertain; insufficient; homosexual
+alangán (alangan) [adjective] uncertain; unfit; improper; doubtful; abnormal; irregular; unworthy; insufficient;
+mag-alangán (alangan) [verb] to be uncertain; to hesitate
+alinangan (alangan) hot climate; warmth; heat; hotness;
+pag-alanganan (alangan) [verb] to hesitate about something
+pag-alang-alanganan (alangan) [verb] to show respect or consideration for
+dilág (dilag) [noun] gorgeousness; splendor; magnificence; brilliancy; brilliance; beautiful woman
+marilág (dilag) [adjective] magnificent; exquisite; gorgeous; splendid;
+karilagán (dilag) [noun] gorgeousness; splendor; magnificence; brilliancy; brilliance
+madlâ (madla) [noun] the general public; common people; an audience; community at large
+madláng pipol (madla) [noun] the general public; people in general
+pangmadlâ (madla) [adjective] for the public; generic
+hinaw (hinaw) [noun] washing one's hands
+maghinaw (hinaw) [verb] to wash the hands or feet with water
+paghihinaw (hinaw) [noun] washing of hands or feet
+panghihinawan (hinaw) a dish or container used for washing hands; rinse bowl; wash basin; handwashing bowl;
+tuliró (tuliro) [adjective] dizzy
+matuliró (tuliro) [verb] to get dizzy; to feel dizzy
+garalgál (garalgal) [noun] gargling; gargle; hoarseness
+gumaralgál (garalgal) [verb] to gargle; to become harsh
+magpagaralgal (garalgal) [verb] to cause a harsh or grating noise
+magpaunlák (unlak) [verb] to oblige; to give in to what someone wants
+pagpapaunlák (unlak) consent; the act of giving in to the wishes of others; acquiescence; compliance; assent;
+paunlak (unlak) [noun] deference
+lurayín (luray) [verb] to mangle something; to mash something; to crush something; to tear something into pieces; to devastate something
+luráy (luray) [adjective] mangled; crushed to pieces;
+langan (langan) [noun] caution
+paglalangán (langan) to commit or become a victim of fraud or deception; cheating; deception; fraud; swindling;
+mapaglalangan (langan) [verb] to play a trick on
+kaluwalhatian (luwalhati) [noun] splendor; glory
+luwalhatì (luwalhati) [noun] glory
+maluwalhatí (luwalhati) [adjective] glorious
+luwalhatiin (luwalhati) [verb] to glorify something
+gloryoso (luwalhati) full of glory or majestic; splendid; magnificent; glorious; majestic;
+gloripiká (luwalhati) to glorify or to give glory; to praise; glorify; praise; exalt; honor; celebrate;
+glóripikadór (luwalhati) one who glorifies or a person who gives glory; praiser; extoller; glorifier;
+glóripikasyón (luwalhati) the act of glorification or the expression of glory; glorification; exaltation; praise;
+laktán (laktaw) a trail left on thin grass; a mark or a trace left on a surface; trail; trace; track;
+lakbáw (laktaw) an act of skipping or omitting a part or step in a process or sequence; skip; omission; leapfrog; bypass;
+laktánsiyá (laktaw) the period of having milk; breastfeeding; lactation; nursing; breastfeeding period;
+hirman (hiram) _an [verb] to borrow (from someone)
+ipanghiram (hiram) ipang_ [verb] to borrow for someone else
+kahiraman (hiram) ka_an [noun] person from whom one mutually borrows
+mahirám (hiram) ma_ [verb] to be able to borrow something
+maihiram (hiram) mai_ [verb] to be able to borrow on behalf of someone
+maipahiram (hiram) maipa_ [verb] to happen to lend
+manghiram (hiram) mang_ [verb] to borrow from
+pagpapahiram (hiram) pagpapa_ [noun] act of lending
+pahirmin (hiram) pa_in [verb] to lend something to someone
+nakauslî (usli) [adjective] protruding; sticking out
+uslî (usli) [noun] bulge; protrusion
+pausliin (usli) [verb] to cause to protrude
+pagkausli (usli) [noun] prominence
+dako (dako) [noun] direction; part; region; spot; around; around (+time)
+dumako (dako) [verb] to move on; to arrive at; to land (arrive/be placed)
+idako (dako) [verb] to turn something (usually, one's eyes)
+magdako (dako) [verb] to turn or direct, e.g., one's eyes, attention, etc., to something
+lumusong (lusong) [verb] to descend; to sink
+palusong (lusong) cooperative endeavor, especially in working in the fields; community spirit; cooperative work; bayanihan; mutual aid;
+lusong (lusong) [noun] descent; sinking
+talusong (lusong) the act of jumping or plunging from a high and steep area; plunge; dive; jump;

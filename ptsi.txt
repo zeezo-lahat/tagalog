@@ -1,9 +1,11 @@
 grammar section 5
 
 5.4 The direct object with active verbs is (1) a dative of the pronoun or (2) the dative particle
-before a name or title (kay or kina) or (3) ng plus a noun or phrase.  Note the direct object
-marker ng is written separate from what precedes it.  The direct object of an active verb must 
-follow the verb.
+before a name or title (kay or kina) or (3) ng plus a noun or phrase.
+
+(Note the direct object marker ng is written separate from what precedes it.)
+
+The direct object of an active verb must follow the verb.
 
 51. Kayo bang dalawa ang naghAhanap ng kwArto?  "Are both of you looking for a room?"
 53. Lagi silang naghAhandA ng isda.  "They always serve fish."
