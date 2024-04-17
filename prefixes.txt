@@ -91,6 +91,8 @@ p-	'abstract of action or a hypostatic state'
 	Nilagdaán mo ba ang kásunduan?  |  Did you sign the agreement?
 	Nilálagdaán na nilá ang iyóng hilíng na pondo.  |  They are signing your request for funds.
 	Lálagdaán bukas ang mga paanyaya para sa kumperénsiyá.  |  The invitations for the conference will be signed tomorrow.
+i-	can be goal, benefactive, or instrument focus
+	Ano pala ang itAtAlI ko rito?	What should I tie around this?
 i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clothes, throw - trash, give - wallet
 	Iniakyát ko ang kahón sa kuwarto.  |  I brought the box upstairs to the room.
 	Ibinábalík ko ang pera niyá.  |  I am giving back his money.
@@ -114,6 +116,8 @@ i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang
 	Ibinilí ko siyá ng damít.  |  I bought her clothes.
 	Ibilí mo ang nanay ng sapatos.  |  Buy shoes for Mom.
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
+i-	INSTRUMENT
+	Ano pala ang itátálí ko rito?	What should I tie around this?
 ika-	to CAUSE or be REASON for state/condition/circumstance
 	ika-, ikina-, ikinaCV-, ikaCV-
 	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
@@ -188,7 +192,9 @@ ipagpa-	causative/benefactive - person 1 (ang) - person 2 (ng) for the benefit o
 	Ipagpatuloy tayo.  |  Let's continue.
 	Ipinagpápatuloy ni Elmer ang pag-aaral niyá.  |  Elmer is continuing his schooling.
 ipaki-	request a third party to do something; request/please (like paki- but benefactor focus)
-ipang-	INSTRUMENT FOCUS
+ipang-	INSTRUMENT FOCUS, normally just shortened to i- (p.66 TS) itali, ibili
+	PTSI2 p.367 says "some roots" have the pang included:
+	IpangpUpUtol/IpApangpUtol ko na lang itong kutsilyo.	I'll just use this knife to cut it.
 ipang-	DISTRIBUTIVE BENEFACTIVE FOCUS (*like ipag- but with mang- verbs instead of mag-)
 	Ipanghiram mo siya ng pera.	Borrow money for him.
 ipapang-	causative (ng -> sa using ang); instrumental focus
@@ -200,9 +206,17 @@ ka-	adverb assoc with root
 	kadalás | often, frequent
 	kapiling | near to, side by side with (piling)
 	kaugnay | related, associated
-ka-REPREP	adj. having or causing in extreme (katawa-tawa - hilarious).
+ka-REPREP	adj.  -able style adjectives and other
 	kaákit-akit attractive/alluring/enchanting
 	kaawa-awà pitiful
+	kaaya-ayà pleasant; pleasing; agreeable; delightful; pleasurable
+	kagálang-galang venerable; honorable; respected
+	hindí kanáis-nais undesirable
+	kanáis-nais  desirable; wholesome
+	kapansín-pansín very noticeable; noteworthy
+	katanggáp-tanggáp acceptable
+	katawa-tawá comic; laughable; ridiculous; ludicrous;
+	dí-kapaní-paniwalà incredible; inconceivable; unbelievable; [colloquial] fishy; doubtful;
 ka-REPREP	(adj) When preceeded by "waláng", means "absolutely none"
 	waláng katao-tao	absolutely no one
 	waláng kakuwenta-kuwenta	absolutely worthless
@@ -444,6 +458,7 @@ pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
 	Teka, pinag-íisipan ko pa.  |  Wait, I'm still thinking about it.
 	Hindî mo na kailangang pag-isipan pa iyán.  |   You don't need to spend time to still think about that.
 	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
+pag-an	(locative) locative focus for mag- verbs
 	Pag-aralan mo ang mga pangungusap.  |  Study the sentences.
 	Ipagpatuloy natin ang pinag-áaralan natin kahapon.  |  Let's continue with what we were studying yesterday.
 	Pagbigyán mo namán akó.  |  Give me some slack.
@@ -477,6 +492,7 @@ pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
 pagCV-an	noun former of mag-an verbs.
 	pagsusuntukan - fight between two or more people
 	pag-aawayan - quarelling/fighting with each other
+pag-in	papag-in in real life.  pa-in for mag- verbs (TS p.150)
 pag-in	(ng) does something to/with MULTIPLE THINGS/PEOPLE (ang) JOINTLY - pag-in, pinag, pinapag, papag-in
 	Hindi namin kayo pagtatabihin sa pagtulog.	We can't let you (multiple) sleep side by side.
 	Kunin ninyó siláng lahát at pagbabarilín!  |  Take them all out and shoot them!
@@ -507,6 +523,7 @@ paki-	??, eg "pakiramdam": feeling (n)
 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
+	for roots with penult stress, stress will shift to final syllable.
 pang-	something FOR performing action described by root (ie, something FOR cooking, pamahalaan - government)
 pang-	adj. referring to intended use (FOR) (ex. pambata - for kids)
 pang-in	to cause or have something done or something to be

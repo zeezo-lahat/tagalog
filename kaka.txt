@@ -1,0 +1,24 @@
+TRG p.423
+lamang or lang is obligatory after a recent-perfective verb
+
+Kakakain ko lamang.	I just ate.
+
+TRG p.372
+these correspond to actor focus verbs, and not all such verbs have this form.
+
+um, ma, maka -> kaCV
+mag -> kapapag or kapagCV
+magbasa (read intensively) -> kapapagbasa or kapagbabasa (has just read intensively)
+magbili (sell) -> kapapagbili or kapagbibili (has just sold)
+magpagupit -> ka pa gu gupit, ka pa pa gupit or ka pag pa pa gupit (just had someone cut)
+magpasulat -> ka pa su sulat, ka pa pa sulat or ka pag pa pa sulat (just had someone write)
+manganak (give birth) -> ka pa pang anak or ka pangang anak
+
+Kakain ko (pa) lang ng karne.	I just ate the/some meat.
+Kakain ko (pa) lang sa karne.	I just ate the meat. (use "sa" to make the object definite.*)
+Kapapasulat (pa) lang ng tatay kay Jose ng liham sa diyaryo	Dad just had Jose writ the/a letter to the newspaper.
+Kapapanguha (pa) lang ng bata ng mga mangga.	The child has just gathered the/some mangoes.
+
+for intensively recent perfective verbs, take the above forms and redup the root basically
+
+* note: in other cases, "sa" object complements may occur only after nominalized verb forms.

@@ -1,3 +1,13 @@
+# note that future aspect is not used with sana, but rather infinitive is used for 
+# general "I hope" future events
+# future is used for unrealized intention:
+Pupunta sana ako sa pulong kahapon pero nagbago ang isip ko.	I had wanted to go to the meeting yesterday, but I changed my mind.
+# with unfulfilled conditional, "could have"/"would":
+Nag-aaral na sana ako ngayon, kung hindi ako nagkasakit.	I would be studying now if I hadn't gotten sick.
+Kung pumunta siya sa pulong, nakausap sana niya ang alkalde.	If he had gone to the meeting, he could have talked to the mayor.
+Nanalo sana ang kandidato ko.	I hope my candidate won.
+Manalo sana ang kandidato ko.	I hope my candidate wins. (note infinitive verb form!)
+
 Sana manalo ka.	I hope you win.
 Sana magustuhán mo itó.	I hope you'd like this.
 Sana maramdamán mo rin ang naráramdamán ko.	I hope you'd get to feel how I am feeling right now.
