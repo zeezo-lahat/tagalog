@@ -1,3 +1,71 @@
+"dahil sa"
+
+CAUSATIVE-FOCUS (CF) verbs form predicates that select as topics nominals expressing the cause 
+of the action. They are derived from transitive and intransitive -um-, ma-, mag- and mang- verbs. Chart 12 
+gives the affix correspondences: 
+
+AF Affix CF Affix 
+-um-     i-, ika-
+ma-      ika-
+mag-     i(ka)pag-
+mang-    i(ka)pang-
+
+(The notations i(kajpag- and i(ka) pang-indicate free alternation between the forms with and without ka. 
+Thus: ipag- ~ikapag-, ipang- ~ikapang-.) 
+
+Of the two CF counterparts of -um-, ika- is the more common. Generally, intransitive -um- verbs of 
+'becoming' (cf. §5.6, class J) have corresponding causative—focus verbs formed with either i- or ika-, the two 
+occurring as free alternants. Examples are:
+
+AF Verb                       CF Verb 
+gumanda 'become beautiful'    iganda/ikaganda 'cause to become beautiful' 
+yumaman 'become rich'         iyaman/ikayaman 'cause to become rich' 
+pumayat 'become thin'         ipayat/ikapayat 'cause to become thin' 
+
+Although there are some exceptions, the majority of -um- verbs outside this group correspond to CF ika- verbs 
+only. In the case of the exceptions, both CF i- and CF ika- verbs occur. In general, the i- verbs imply that the 
+cause of the action is of some importance, as in:
+
+Iniluha ni Nena ang pagkawala ng alahas niya.  'The loss of her jewelry made Nena shed tears.'
+
+The i- verbs are avoided, and the ika- verbs used instead, where the cause of the action is regarded as trivial. 
+Thus: 
+
+Ikinaluha ni Nena ang usok.  'The smoke made Nena shed tears.'
+
+At least one AF mag- verb magbili 'sell,' has a corresponding CF verb formed with ikapag-
+(ikapagbili 'cause to sell') but none formed with ipag-. (Ipagbili does, however, occur as the OF 
+counterpart of magbili.)
+
+Other examples of the derivation of CF verbs are: 
+
+AF Verb                 CF Verb 
+pumunta 'go'         ikapunta 'cause to go' 
+tumakbo 'run'        ikatakbo 'cause to run' 
+magalit 'get angry'  ikagalit 'cause to get angry' 
+mag-away 'fight'     i(ka)pag-away 'cause to fight' 
+magturo 'teach'      i(ka)pagturo 'cause to teach' 
+maniwala 'believe'   i(ka)paniwala 'cause to believe' 
+manginig 'tremble'   i(ka)panginig 'cause to tremble'
+
+The topic of a CF verb corresponds to a nominal within a dahil sa phrase occurring as a causative 
+adverb (cf. §6.11, subsection (l.b)) with the corresponding AF verb. The predicate formed by a CF verb 
+includes an actor complement and, additionally, any other complement(s) taken by the related AF verb. 
+Examples are:
+
+AF: Nag-away sina Ben at Eddie dahil sa laruan. 
+'Ben and Eddie fought because of the toy.' 
+
+CF: Ipinag-away/Ikinapag-away nina Ben at Eddie ang laruan. 
+'The toy caused Ben and Eddie to fight.' 
+
+AF: Nagbili sila ng kanilang kasangkapan dahil sa kahirapan nila. 
+'They sold some of their furniture because of their poverty.' 
+
+CF: Ikinapagbili nila ng kanilang kasangkapan ang kahirapan nila. 
+'Their poverty caused them to sell some of their furniture.' 
+
+----------------------------------------------------------------------------------------
 magpa, i, ipa, pa-an, pa-in mainly causative of actions or things happening
 -an, ika, isa, nakaka causative of a state or condition
 

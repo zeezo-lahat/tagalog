@@ -1197,6 +1197,7 @@ ibulgár	to expose, divulge, reveal something
 ibunyág	to reveal, expose, divulge, disclose
 idaan	to drop something by
 idadaos	will hold an event
+idalo	'attend (e.g., a social function) for' 
 idamay	to involve someone in something
 idiin	to stress, emphasize
 idlíp	dozing off for a bit, snoozing, napping
@@ -1207,6 +1208,7 @@ igisa	to sauté/stir-fry something
 igláp	brief moment (syn. saglit)
 iha	daughter, name for a younger girl (Spanish origin)
 ihain	to offer something; to put food on a table; to serve food; to sacrifice something. <inihain, inihahain, ihahain>
+ihalik	'kiss (someone) for' 
 ihayag	disclose, reveal, divulte
 ihingî	to ask (ng) for something (ng) for some reason (the focus) Ihingî mo ng patawad ang mali mo.
 ihinto	to cause to stop
@@ -1228,6 +1230,7 @@ ikasawî	to cause severe misfortune or death
 ikáw ay	you are
 ikinalulungkot	apologize (formal, "I am sad to say..")
 ikulóng	to cage, shut in
+ikumusta	'say hello for' 
 ilaán	to devote something; to dedicate something
 iladlád	to unfold something; to unroll something; to roll out something
 ilagay	to put, to place something into some condition
@@ -1281,9 +1284,11 @@ ipagdasal	to pray for someone
 ipaggiitan	to assert, insist on
 ipagkaibá	to differentiate, contrast
 ipagkapuri	be proud of or well satisfied with
+ipagkatiwala	to entrust something/someone to the care of SA
 ipaglaban	to fight for something/someone
 ipaglutò	to cook for someone
 ipagmalakí	to take pride in something
+ipagpaalam	'say goodbye for' 
 ipagpaliban	to put something aside
 ipagpatawad	to pardon, excuse
 ipagpatuloy	to go ahead / keep on / continue with / pursue something
@@ -1324,6 +1329,7 @@ isip	mind, intellect, thought, judgment
 isipan	the mind
 isipin	to think about
 isisi	to blame SOMETHING (ang/focus) on someone (sa)
+isnabin	to snub someone
 istilo	a style, manner, technique (of doing something)
 isugod	to rush someone/thing, as to the hospital
 isuko	to surrender something
@@ -1957,6 +1963,7 @@ lamig	coldness
 lamók	mosquito
 lamon	voracious eating, gorging, gormandizing
 lampara	a source of light, as a lamp
+lampá	feeble, weak, awkward
 lampás	overdone, excessive; beyond (syn lagpás, lábis, tagós)
 lampasan	to overtake, pass over, go beyond (lit/fig)
 lampaso	a mop
@@ -2032,6 +2039,7 @@ likha	a creation; thing produced by intelligence and skill
 likhain	to create
 likô	turn ("likô hô")
 liku-likong	zigzag
+lila	lilac, violet, purple
 lilim	a partly dark place, not in the sunshine
 limitahán	to limit something
 limlim	body warmth; impending darkness
@@ -2319,6 +2327,7 @@ magpanggáp	to pretend, to profess
 magpanggáp	to pretend/profess to be
 magpapalimos	beggar (pulubi)
 magpasikat	to show off
+magpasunod	set; arrange; fix for others to follow
 magpatakbó	to make run; to operate
 magpatawa	cause to laugh, make someone laugh
 magpatunay	to prove, testify
@@ -2367,9 +2376,9 @@ magwala	to go amuck
 magwalang-bahala	to not pay atention to
 magwalís	to sweep (as a floor)
 magyabáng	to boast, to brag, to show off
-mahabà	long (in length)
+mahabà	long (in physical length or time duration)
 mahába-habà	fairly long
-mahál	love, expensive
+mahál	love; expensive
 mahalaga	important, integral
 maharlikâ	noble, aristocratic
 mahawa	to become infected
@@ -2412,6 +2421,7 @@ makabayan	patriotic
 makabuluhán	meaningful; relevant; significant (bulo)
 makagantí	to get revenge, payback
 makagitgit	(gitgit) to advance by repeated slight movements
+makailán	several times, several
 makaipon	to be able to save (money, etc)
 makaisip	to be able to think
 makakalimutin	forgetful
@@ -2419,7 +2429,7 @@ makakarating	will be able to come
 makakasama	able to go with
 makakáya	ones full capabilities; future of "makaya" (to be able to do)
 makakita	to happen/be able to see (one or some of many, or non-specific thing); catch sight of; be able to find (actor)
-makalawá	second
+makálawá	two days (after / from now); twice
 makalilimutan	to be able to forget something
 makalimutin	forgetful
 makalipas	after (having passed, the passage of time) (makalipas ang isang araw -> a day later)
@@ -2778,7 +2788,7 @@ matiyagâ	diligent, persevering
 matiyak	to ensure, be certain
 matiyempuhán	to be caught in the act
 matumal	slow (business)
-matuto	to learn
+matuto	to learn (actor focus)
 matutunan	to learn something; to find something out; to experience something
 matuwa	to enjoy, have fun, be happy
 matwíd	first, just, legitimate
@@ -2952,6 +2962,7 @@ nakilala	met
 naku	oh!, oh my!, omg! (from "ina ko!") (also nku, naks, haynako, aynako, aynaku)
 naku po	oh, dear (nakupo, nakupu)
 nakuha	got, managed, "got it" (kúha)
+nalalabî	remaining (eg, remaining parts - nalalabîng bahagi)
 nalaláman	being conscious/aware of, knows
 nalalapit	approaching (lit or fig)
 naláman	found out
@@ -2990,7 +3001,7 @@ napakadalî	very easy, so easy
 napakadilím	very dark (lacking light)
 napakagalíng	excellent
 nápakagandá	very beautiful, very attractive, good-looking, magnificent
-napakahabà	very long (in length)
+napakahabà	very long (in physical length or time duration)
 napakahinà	very weak
 napakahirap	very difficult
 napakahusay	very skilled, very capable
@@ -3080,10 +3091,10 @@ nito	ng + ito - (of) this/these
 nitso	tomb
 niyebe	snow
 niyog	coconut
-niyón	(of) that ("ng" form of "iyon")
+niyón	(of) that ("ng" form of "iyon"); "that one", some of that/those", etc., also written as "noón"
 noó	forehead, brow
 nood	root word related to watching (manoód, panoorín, etc.)
-noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly
+noón	indicator of the past; then, back when/in, during, at that time, last, prior, previously, formerly; alternate of niyón, "that one", "some of that/those", etc.
 noóng isáng araw	"the other day"
 noóng nakaraang taon	"last year"
 normál	normal
@@ -3526,6 +3537,7 @@ pantog	bladder
 pánukála	a proposal, proposition, arrangement
 pánukálang-batás	draft legislation; draft bill; proposed legislation
 panunukso	the act of tempting (someone); teasing
+panunuyò	act of ingratiating or currying favor, courtship (suyo)
 panutó	instruction, order; indicator
 panyo	handkerchief
 papag	bamboo bed
@@ -3627,6 +3639,7 @@ payagan	agree, acquiesce,  accept; allow
 payák	simple, mere, basic, with nothing added
 payapá	peaceful, tranquil, placid
 payapain	to pacify, to make peaceful
+payaso	clown; buffoon
 payat	thin, slender
 payo	guidance, advice
 payong	umbrella
@@ -3940,6 +3953,7 @@ sanglinikha	universe, all creatures
 sangsang	strong but not unpleasant odor
 sanhî	cause, motive, reason
 sanhi ng	caused by, due to
+sansinukob	the universe
 santól	a type of fruit with a yellow/orange exterior and white interior, also known as cotton fruit
 sánlibután	universal (katoliko)
 sapa	small stream, brook

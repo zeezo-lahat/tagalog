@@ -1148,6 +1148,13 @@ ibangon (bangon) i_ [verb] to raise up; to help get someone up
 kakabangon (bangon) kaka_ just got up
 maibangon (bangon) mai_ [verb] to raise (something) up
 makabangon (bangon) maka_ [verb] to be able to get up
+banlawan (banlaw) _an [verb] to give clothes a final rinsing
+banlawán (banlaw) _an [verb] to rinse something; to rinse clothes
+banláw (banlaw) rt_ [noun] rinsing; rinsing of clothing
+mabanlawan (banlaw) ma_an [verb] to be rinsed
+magbanláw (banlaw) mag_ [verb] to rinse
+pagbabanlaw (banlaw) pagCV_ [noun] first rinsing (of clothes)
+pambanlaw (banlaw) pang_ [noun] liquid used in rinsing
 banság (bansag) rt_ [noun] motto; slogan; nickname; alias; surname; boasting
 bansagán (bansag) _an [verb] to be called a name; to ridicule by name-calling; to be labeled; to have a reputation of being known as
 bantaán (banta) _an [verb] to threaten someone/something
@@ -1636,6 +1643,11 @@ ibiyahe (biyahe) i_ [verb] to take someone/something on a trip
 magbiyahe (biyahe) mag_ [verb] to go on a trip
 makabiyahe (biyahe) maka_ [verb] to be able to travel; to be able to take a trip or vacation
 pagbiyahe (biyahe) pag_ [noun] trip; traveling
+biyakín (biyak) _in [verb] to divide something; to split something; to break something in two; to bisect something
+biyák (biyak) rt_ [noun] split; cleavage; division [adjective] split; divided
+bumiyák (biyak) _um_ [verb] to split; to split into
+kabiyák (biyak) ka_ [noun] mate; spouse; husband or wife; a part of two pieces
+magbiyák (biyak) mag_ [verb] to split (something)
 bobo (bobo) rt_ [noun] fool; idiot
 bobo (bobo) rt_ [adjective] stupid; dumb; foolish
 kabobohan (bobo) ka_an [noun] foolishness; stupidity
@@ -1665,6 +1677,11 @@ bugá (buga) rt_ [noun] belch; spurt
 bumugá (buga) _um_ [verb] to blow; to blow up; to spew; to billow; to erupt; to eject
 ibugá (buga) i_ [verb] to expel something; to spurt something; to squirt something
 magbugá (buga) mag_ [verb] to belch; to emit; to blow
+bugaw (bugaw) rt_ [noun] pimp; shooing away
+bugawan (bugaw) _an [verb] to shoo something away from something (focus on the thing being protected, not the thing being shooed away)
+bugawin (bugaw) _in [verb] to drive something away; to shoo something away; to pimp
+bumugaw (bugaw) _um_ [verb] to pimp
+pagbugaw (bugaw) pag_ [noun] shooing away (of fowls, insects, people, etc.)
 bugbugan (bugbog) _an [noun] punches; exchange of punching
 bugbugín (bugbog) _in [verb] to beat someone/something; to beat up someone/something; to hit something
 bugbóg (bugbog) rt_ [noun] hit; beating; pounding
@@ -1701,8 +1718,8 @@ kabiláng-buhay (buhay) cmp_ [noun] afterlife
 kabuhayan (buhay) ka_an [noun] belongings; assets; livelihood; a living (income)
 mabuhay (buhay) ma_ [verb] to live; to survive; to exist; to have life
 magbuwís ng buhay (buhay) phr_ [verb] to risk one's life
-magbágong-buhay (buhay) mag_ [verb] to turn over a new leaf; to rehabilitate
-maghanáp-buhay (buhay) mag_ [verb] to earn a living; to work
+magbágong-buhay (buhay) cmp_ [verb] to turn over a new leaf; to rehabilitate
+maghanáp-buhay (buhay) cmp_ [verb] to earn a living; to work
 makabubuhay (buhay) makaCV_ [adjective] enough to live on
 mamuhay (buhay) mang_ [verb] to live; to reside in a certain place
 pagbuhay (buhay) pag_ [noun] revival
@@ -1785,6 +1802,10 @@ Bulagâ! (bulaga) expr_ [interjection] Boo!
 bumulagâ (bulaga) _um_ [verb] to take by surprise
 mabulagá (bulaga) ma_ [verb] to be caught unaware; to be caught by surprise; to be startled
 bulagaín (bulaga) _in [verb] to surprise; to catch unaware
+bulíd (bulid) rt_ [noun] to collapse from a platform or stable position, such as a pile of cans that has fallen over; topple; tumble; fall down; collapse;
+ibulid (bulid) i_ [verb] to hurl from a height
+nabulid (bulid) na_ [adjective] fallen down from a height
+pagkabulid (bulid) pagka_ [noun] precipitate
 bulô (bulo) rt_ [noun] calf; young cow or carabao
 kabuluhán (bulo) ka_an [noun] worth; meaning
 makabuluhán (bulo) maka_an [adjective] meaningful; relevant; significant
@@ -1916,36 +1937,49 @@ buwan-buwán (buwan) rt_rt [adjective] every month; each month; monthly
 buwanan (buwan) _an [adjective/adverb] on a monthly basis; monthly
 buwán (buwan) rt_ [noun] month; moon
 kabuwanan (buwan) ka_an [noun] month when things become mature; maturity of pregnancy; maturation
-makíkiraán pô (daan) phr_ please let me pass.
+Makíkiraán pô (daan) phr_ [phrase] Please let me pass.
 bigyáng-daán (daan) cmp_ [noun] giving way
 daan-daán (daan) rt_rt [adjective] hundreds
-daanan (daan) _an [noun] passageway; aisle
-daanan (daan) _an [verb] to pass through somewhere; to have access somewhere
+daanan (daan) _an [noun] path; passageway; aisle
+daanan (daan) _an [verb] to pass through somewhere; to stop by somewhere; to have access somewhere
 daanin (daan) _in [verb] to act indirectly
+dadaanin (daan) CV_in [noun] one hundred peso bill
+dalan (daan) _ path; way; road; route;
 daán (daan) rt_ [noun] hundred; one hundred (100); road; street; way; means; path; entry; course
+di-maraanan (daan) di_ma_an [adjective] impassable
 dumaán (daan) _um_ [verb] to pass; to pass by; to stop by; to drop in for a visit; to elapse; to go by
-idaán (daan) i_ [verb] to take something to; to deliver something; to convey something; to express something
+idaán (daan) i_ [verb] to take something to; to pass through or over something; to deliver something; to convey something; to express something; to deal with or get or something
 idaán sa (daan) phr_ [verb] to do something in a certain way
 ikasandaán (daan) num_ [adjective] one hundredth; 100th
 isandaán (daan) num_ [number] one hundred; * short for "isang daan".
 kakaraán (daan) kaka_ [adjective] just passed by
-madaanan (daan) ma_an [verb] to happen to pass through somewhere
+karalan-kalanan (daan) _ the thing that everyone passes through or that is used by everyone; commons; public domain; public space;
+limándaán (daan) num_ five hundred; consisting of five hundreds;
+madaanan (daan) ma_an [verb] to happen to pass through or by somewhere; to be able to pass through or by somewhere; passable
 madaán (daan) ma_ [verb] to happen to pass through
 magdaán (daan) mag_ [verb] to pass; to pass by; to drop by; to undergo; to go through
+makaraán (daan) maka_ [conjunction] after; as; while
 makaraán (daan) maka_ [verb] to be able to pass; to be able to get over/across
 makidaán (daan) maki_ [verb] to ask permission to pass through
+makidaán (daan) maki_ [verb] to pass through with someone's permission
+makíkiraán pô (daan) phr_ please let me pass.
+manaán (daan) num_ per one hundred, like a hundred pesos each; per hundred; each hundred;
 mapadaán (daan) mapa_ [verb] to happen to pass by
+maparaán (daan) mapa_ [adjective] resourceful
 nagdaán (daan) nag_ [adjective] passed; past
 nakaraán (daan) naka_ [adjective] past; previous; previously; former; bygone; recent
+padaanín (daan) pa_in [verb] to let someone/something pass
 padaán (daan) pa_ passing through; passing by
 pagdaanan (daan) pag_an [verb] to go through something; to pass through something; to endure something (go through difficulties); to bring something by to someone
 pagdaán (daan) pag_ [noun] passing; going by; transit
 pagdáraanan (daan) pagCV_an [noun] path
 pagkaraán (daan) pagka_ [adverb] having passed; after something has passed; afterwards
+pakiraán (daan) paki_ [expression] excuse me, can i pass by
 pamámaraán (daan) pangCV_ [noun] method; way; approach; process
 paraanan (daan) pa_an [verb] to run through something
 paraanin (daan) pa_in [verb] to make way for something
 paraán (daan) pa_ [noun] way; method; course of action; manner; manners
+sandaanin (daan) num_ [noun] hundred-peso bill
 sandaán (daan) num_ [number] one hundred; * short for "isang daan"
 tabíng-daán (daan) cmp_ [noun] roadside; wayside
 daganán (dagan) _an [verb] to add weight
@@ -2747,7 +2781,7 @@ pagawaín (gawa) pa_in [verb] to make someone do something; to have someone do s
 paggawâ (gawa) pag_ [noun] manufacturing; making; doing; accomplishing; employment; labor
 pagpapagawâ (gawa) pagpapa_ [noun] construction; building; creating
 panggawâ (gawa) pang_ [noun] anything used for making something
-págawaan (gawa) pa_a [noun] factory
+págawaan (gawa) pa_an [noun] factory
 gawad (gawad) rt_ [noun] award; gift; grant; prize
 gawaran (gawad) _an [verb] to award
 igawad (gawad) i_ [verb] to award something; to bestow something
@@ -4066,11 +4100,10 @@ magpakabít (kabit) magpa_ [verb] to have someone install something; to have som
 maikabít (kabit) mai_ [verb] to be able to attach something; to be abe to fasten something
 nakakabít (kabit) naka_ [adjective] attached; adhered to
 pagkakabít (kabit) pagCV_ [noun] sticking; fastening
-biyakín (biyak) _in [verb] to divide something; to split something; to break something in two; to bisect something
-biyák (biyak) rt_ [noun] split; cleavage; division [adjective] split; divided
-bumiyák (biyak) _um_ [verb] to split; to split into
-kabiyák (biyak) ka_ [noun] mate; spouse; husband or wife; a part of two pieces
-magbiyák (biyak) mag_ [verb] to split (something)
+kabóg (kabog) rt_ [noun] beat; thump; pounding;
+kumabóg (kabog) _um_ [verb] to beat (thump); to thump
+kabogera (kabog) sp_ [adjective] show-off (slang)
+pagkabóg (kabog) pag_ [noun] beating
 kagat-kagát (kagat) rt_rt biting
 kagatan (kagat) _an [noun] biting one another; biting each other
 kagatán (kagat) _an [verb] to bite something
@@ -6123,6 +6156,10 @@ manalo (panalo) ma_ [verb] to win
 mapanalunan (panalo) ma_an [verb] to win
 pagkapanalo (panalo) pagka_ [noun] winning
 panalo (panalo) rt_ [noun] winner; winnings; win
+ipanatà (panata) i_ [verb] to vow to do something; to commit to do something
+magpanata (panata) mag_ [verb] to make a vow
+mamanatà (panata) mang_ [verb] to vow something
+panatà (panata) rt_ [noun] resolve; vow; devotion (religious)
 kapanatagan (panatag) ka_an [noun] tranquility; contentment
 kapanatagan ng loob (panatag) phr_ [noun] peace of mind; inner peace
 mapanatag (panatag) ma_ [verb] to be tranquil; to be at peace; to be assured; to be content; to feel at ease
@@ -6328,15 +6365,36 @@ magpataw (pataw) mag_ [verb] to impose
 pagpapataw (pataw) pagpa_ [noun] imposing; punishing
 pataw (pataw) rt_ [noun] surcharge; punishment
 patawan (pataw) _an [verb] to impose; to put a burden, tax or punishment on
+Mamatáy ka na! (patay) phr_ [interjection] I hope you die!; I hope you drop dead!
+ikamatáy (patay) ika_ [verb] to cause death
+ipagpatay (patay) ipag_ [verb] to use some specific thing in killing
 ipapatáy (patay) ipa_ [verb] to have someone killed
+kamatayan (patay) ka_an [noun] death; doom
+kamámatáy (patay) kaka_ [verb] just died; recently died
+katayán (patay) _an [noun] slaughterhouse
+kinamatayán (patay) _in_an [noun] place where someone died
+magkámatayan (patay) magka_an [verb] to fight to the death
+magpakamatáy (patay) magpaka_ [verb] to commit suicide
 magpatáy (patay) mag_ [verb] to slaughter (animals); to kill; to turn off (e.g., lights, the faucet, etc.)
 makapatáy (patay) maka_ [verb] to be able to kill
+mamatayán (patay) mang_an [verb] to suffer the loss of someone (due to death)
+mamatáy (patay) mang_ [verb] to die; to be dead
+mangamatáy (patay) manga_ [verb] to be wiped out (die/be killed)
 mapatáy (patay) ma_ [verb] to be able to kill something (OF); to be able to turn off / extinguish (OF); to be killed (AF)
+mámamátay-tao (patay) cmp_ [noun] killer; murderer; assassin
+nakamámatáy (patay) nakamang_ [adjective] deadly; fatal
 nakapatáy (patay) naka_ [adjective] dead; turned off
+natay (patay) slang_ a contracted form of pumatay; killer; slayer; assassin; murderer;
 pagkakapatáy (patay) pagkaka_ [noun] killing; death; the way someone was killed
+pagkamatáy (patay) pagka_ [noun] death
 pagpapatáy (patay) pagCV_ [noun] turning off (e.g., a light); killing
 pagpatáy (patay) pag_ [noun] murder; killing
+pagpápakamatáy (patay) pagpapaka_ [noun] suicide
 pamatáy (patay) pang_ [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
+pamatáy-kulisap (patay) cmp_ [noun] chemical formula and equipment for killing pest insects; insecticide; pesticide; bug killer; insect repellent;
+pamatáy-lamók (patay) cmp_ [noun] a chemical formula and tool for killing pest mosquitoes; mosquito killer; insecticide; bug zapper; mosquito repellent;
+pampatay (patay) pang_ [noun] tool used for killing or slaughtering
+parusang kamatayan (patay) cmp_ [noun] death penalty
 patayan (patay) _an [noun] slaughter; killing
 patayan ng hayop (patay) phr_ [noun] slaughterhouse
 patayín (patay) _in [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
@@ -6344,6 +6402,8 @@ patáy (patay) rt_ [adjective] dead; deceased; [noun] dead (person); [expression
 patáy-dampót (patay) cmp_ [adjective] unconscious; dead weight
 patáy-patayan (patay) rt_rt_an [noun] playing dead; pretending to be dead
 pumatáy (patay) _um_ [verb] to kill; to murder; to extinguish
+pátay-patay (patay) rt_rt [adjective] lazy; idle; inactive; sluggish; indolent;
+mamatnugot (patnugot) mang_ [verb] to edit (e.g., a newspaper); to oversee
 pamamatnugot (patnugot) pangCV_ the state or function of being an editor or overseeing the editing of a publication or office; editorship; managing; overseeing;
 patnugot (patnugot) rt_ [noun] editor
 patnugután (patnugot) _an [noun] editorial board
@@ -6482,6 +6542,16 @@ pirmado (pirma) [adjective] signed
 pirmahán (pirma) _an [verb] to sign (by adding one's name or signature) something
 pirmá (pirma) rt_ [noun] signature; autograph
 pumirmá (pirma) _um_ [verb] to sign; to write one's signature
+kapisanan (pisan) ka_an [noun] association; group
+magkapisan (pisan) magka_ [verb] to live together in the same place, etc., or as husband and wife
+magkapisan-pisan (pisan) magka_rt_rt [verb] to happen to be living together under one roof (more than two)
+mapisan (pisan) ma_ [verb] to converge; to consolidate
+misan (pisan) _ refers to the act of declining to come together or join; refuse; decline; opt out; abstain;
+nakapisan (pisan) naka_ [adjective] living with
+pagpisanin (pisan) pag_in [verb] to gather or collect various things into one place or container; assemble; collect; gather; consolidate; aggregate;
+papisan (pisan) pa_ [noun] a cockfight involving roosters that are all equipped with gaffs or blades; cockfight; cockfighting;
+pisán (pisan) rt_ [noun] large flood; massive flooding; deluge; inundation; flood;
+pumisan (pisan) _um_ [verb] to live together under one roof, or without marriage
 mapisíl (pisil) ma_ [verb] to be squeezed
 pagpisíl (pisil) pag_ [noun] squeezing with one's hand
 pisilín (pisil) _in [verb] to squeeze something (with one's hand); to clasp something
@@ -6613,6 +6683,9 @@ papuntá (punta) pa_ [adjective] bound for; headed to; on the way to; going in t
 pumuntá (punta) _um_ [verb] to go; to come
 puntahán (punta) _an [verb] to go somewhere; to visit somewhere; to go to see someone
 puntá (punta) rt_ [noun] destination; direction; coming; going; [verb] come (command)
+pagpunyagian (punyagi) [verb] to struggle about something specific
+punyagiin (punyagi) _in [verb] to desire vehemently
+punyagî (punyagi) rt_ [noun] determination; insistent effort; struggle
 magpurì (puri) mag_ [verb] to praise
 paniniráng-purì (puri) cmp_ [noun] slander; libel; defamation
 pumurì (puri) _um_ [verb] to praise; to applaud; to commend
@@ -7261,6 +7334,10 @@ pasawain (sawa) pa_in [verb] to make someone fed up
 sawà (sawa) rt_ [noun] feeling of disgust; feeling fed up
 sawá (sawa) rt_ [noun] python; boa constrictor
 sawâ (sawa) rt_ [adjective] fed up with
+masawatà (sawata) ma_ [verb] to be able to prevent something (OF); to be prevented (AF); to be stopped (AF)
+pansawata (sawata) pang_ [noun/adjective] ref. to something said or done to stop someone from continuing
+sawatà (sawata) rt_ [noun] an action or prohibition to stop or prevent something
+sumawata (sawata) _um_ [verb] to stop or restrain someone from doing something
 magpasawáy (saway) magpa_ [verb] to heed an admonishment for unacceptable behavior
 panawáy (saway) pang_ [noun] [adjective] anything said or done to stop or prevent someone from doing something
 pasawáy (saway) pa_ [adjective] stubborn; pesky; naughty
@@ -7363,11 +7440,13 @@ sigurista (siguro) sp_ [noun] a perfectionist; person who is careful to make sur
 siguro (siguro) rt_ [adverb] maybe; sure; perhaps; probably
 siguruhin (siguro) _in [verb] to make sure of something; to ensure something; to be certain about something
 sumiguro (siguro) _um_ [verb] to make sure; to assure
+gawang-sikap (sikap) cmp_ [noun] efforts
 magsikap (sikap) mag_ [verb] to be diligent; to strive; to endeavor; to work hard; to exert
 masikap (sikap) ma_ [adjective/adverb] diligent; diligently
 pagsikapan (sikap) pag_an [verb] to strive for something
 pagsisikap (sikap) pagCV_ [noun] hard work; effort; zeal; endeavor
 pagsusumikap (sikap) pagCVum_ [noun] hard work
+sikap (sikap) rt_ [noun] effort; diligence; the act of striving or exerting oneself to do something.; [adjective] self-reliant; industrious; characterized by initiative and hard work towards achieving a goal
 sikapin (sikap) _in [verb] to try for something; to strive for something
 napakasikát (sikat) napaka_ [adjective] very famous; very well-known
 pasikat (sikat) pa_ [noun] showy
@@ -7453,6 +7532,8 @@ pasimulán (simula) pa_an [verb] to start something; to get something started
 pinakasimulâ (simula) pinaka_ [adjective] the very beginning
 simulán (simula) _an [verb] to begin something; to embark on something; to enter upon something
 simulâ (simula) rt_ [noun] beginning; start; origin; opening; [preposition] starting from; beginning at; (often the abbreviated form "mula" is used as the preposition instead)
+simunò (simuno) rt_ [grammar] subject
+pasimunò (simuno) pa_ [noun] perpetrator; instigator
 sindák (sindak) rt_ [noun] shock; terror
 nakasísindák (sindak) nakaCV_ [adjective] shocking; terrifying; dreaded
 masindák (sindak) ma_ [verb] to feel shock; to feel terror
@@ -8491,12 +8572,16 @@ tumawa (tawa) _um_ [verb] to laugh; to smile
 táwanan (tawa) _an [noun] laughter; sound of laughing
 Patawad! (tawad) pa_ [interjection] Forgive me!; I'm sorry!
 ipagpatawad (tawad) ipagpa_ [verb] to forgive; to excuse; to pardon
+ipatawad (tawad) ipa_ [verb] to condone or pardon something
 itawad (tawad) i_ [verb] to offer a discounted price
 kapatawarán (tawad) kapa_an [noun] forgiveness; pardon
 mapagpatawad (tawad) mapagpa_ [adjective] forgiving
 magpatawad (tawad) magpa_ [verb] to forgive; to give a discount
 magtawarán (tawad) mag_an [verb] to haggle
+mananawad (tawad) mangCV_ [noun] bidder (at an auction)
+manawaran (tawad) mang_an [verb] to bargain
 mapatawad (tawad) mapa_ [verb] to be able to forgive someone; to be able to give a discount to someone
+matawad (tawad) ma_ [verb] to be able to get a discount in buying something
 pagpapatawad (tawad) pagpapa_ [noun] forgiving; forgiveness
 patawad (tawad) pa_ [interjection] Forgive me!; I'm sorry!; I apologize
 patawarin (tawad) pa_in please forgive
@@ -8504,7 +8589,9 @@ patawarin (tawad) pa_in [verb] to forgive someone; to spare someone
 tawad (tawad) rt_ [noun] discount; forgiveness; excuse
 tawaran (tawad) _an [verb] to haggle
 tawarán (tawad) _an [noun] haggling
+tawarin (tawad) _in [verb] to request a discount or the like from the seller
 tumawad (tawad) _um_ [verb] to ask for a discount; to bargain
+walang-tawad (tawad) cmp_ [adjective] without discount
 ipatawag (tawag) ipa_ [verb] to have someone be called; to call for someone; to summon someone; * focus on the person/people being called for
 itawag (tawag) i_ [verb] to call someone something; to name something; to call about something; to call someone for someone else
 magtawagan (tawag) mag_an [verb] to call each other
@@ -9069,6 +9156,7 @@ tupád (tupad) rt_ [noun] fulfilment of a duty, promise, etc.; compliance; obser
 ituran (turan) i_ [verb] to give the correct answer to something
 tinuran (turan) _in_ [adjective] said; stated; mentioned; aforementioned
 turan (turan) rt_ [noun] answer; the correct answer; to the right answer
+paturan (turan) pa_ [verb] to cause/allow something to be mentioned
 ituring (turing) i_ [verb] to treat someone/something; to consider someone/something (in some way)
 maituring (turing) mai_ [verb] to be able to treat something as; to be able to consider something as
 panuring (turing) pang_ [grammar] modifier
@@ -9325,9 +9413,16 @@ upuán (upo) _an [verb] to sit on something; to sit somewhere
 upô (upo) rt_ [noun] sitting; sit
 kaurián (uri) ka_an [noun] category
 kaurì (uri) ka_ [noun] one of the same kind; equal; akin
-mag-úri-urì (uri) mag_ [verb] to sort; to classify
+mag-úri-urì (uri) mag_rt_rt [verb] to sort; to classify
+makauri (uri) maka_ [verb] to be of the same kind
+nauuri (uri) naCV_ [adjective] graded
 pang-urì (uri) pang_ [grammar] adjective
-urì (uri) rt_ [noun] kind; type; category; social rank; brand; quality; species; sort (type)
+uri-uri (uri) rt_rt [adjective] of all kinds
+uri`ng-buô (uri) _ gold that contains sixteen to eighteen karats; high-grade gold; fine gold; quality gold;
+uriin (uri) _in [verb] to classify something; to categorize something
+urirà (uri) _ inquiry or act of inquiring; scrutiny; inquiry; investigation; examination;
+uriya (uri) _ the edge of cloth purposely made to prevent fraying.; hem; selvage; edging; border;
+urì (uri) rt_ [noun] kind; type; kind (type); category; social rank; class; social class; brand; quality; species; sort (type)
 iurong (urong) i_ [verb] to retreat; to retract; to cancel
 mapaurong (urong) mapa_ [verb] to be repulsed; to be repelled; to retreat; to step back unconsciously
 maurong (urong) ma_ [verb] to be postponed (AF); to be revoked (AF)
@@ -9604,49 +9699,6 @@ warì (wari) rt_ [noun] assumption; opinion; estimation; [adjective] seemingly; 
 lingap (lingap) rt_ [noun] mindfulness of something; compassionate care
 lingapin (lingap) _in [verb] to care for
 lumingap (lingap) _um_ [verb] to care for; to look after
-Makíkiraán pô (daan) phr_ [phrase] Please let me pass.
-bigyáng-daán (daan) cmp_ [noun] giving way
-daan-daán (daan) rt_rt [adjective] hundreds
-daanan (daan) _an [noun] path; passageway; aisle
-daanan (daan) _an [verb] to pass through somewhere; to stop by somewhere; to have access somewhere
-daanin (daan) _in [verb] to act indirectly
-dadaanin (daan) CV_in [noun] one hundred peso bill
-dalan (daan) _ path; way; road; route;
-daán (daan) rt_ [noun] hundred; one hundred (100); road; street; way; means; path; entry; course
-di-maraanan (daan) di_ma_an [adjective] impassable
-dumaán (daan) _um_ [verb] to pass; to pass by; to stop by; to drop in for a visit; to elapse; to go by
-idaán (daan) i_ [verb] to take something to; to pass through or over something; to deliver something; to convey something; to express something; to deal with or get or something
-idaán sa (daan) phr_ [verb] to do something in a certain way
-ikasandaán (daan) num_ [adjective] one hundredth; 100th
-isandaán (daan) num_ [number] one hundred; * short for "isang daan".
-kakaraán (daan) kaka_ [adjective] just passed by
-karalan-kalanan (daan) _ the thing that everyone passes through or that is used by everyone; commons; public domain; public space;
-limándaán (daan) num_ five hundred; consisting of five hundreds;
-madaanan (daan) ma_an [verb] to happen to pass through or by somewhere; to be able to pass through or by somewhere; passable
-madaán (daan) ma_ [verb] to happen to pass through
-magdaán (daan) mag_ [verb] to pass by; to pass; to drop by; to undergo; to go through;
-makaraán (daan) [conjunction] after; as; while
-makaraán (daan) [verb] to be able to pass; to be able to get over/across
-makidaán (daan) [verb] to pass through with someone's permission
-manaán (daan) per one hundred, like a hundred pesos each; per hundred; each hundred;
-mapadaán (daan) [verb] to happen to pass by
-maparaán (daan) [adjective] resourceful
-nagdaán (daan) [adjective] passed; past
-nakaraán (daan) [adjective] past; previously; previous; former; bygone; recent;
-padaanín (daan) pa_in [verb] to let someone/something pass
-padaán (daan) pa_ passing through; passing by
-pagdaanan (daan) pag_an [verb] to go through something; to pass through something; to endure something (go through difficulties); to bring something by to someone
-pagdaán (daan) pag_ [noun] passing; going by; transit
-pagdáraanan (daan) pagCV_an [noun] path
-pagkaraán (daan) pagka_ [adverb] having passed; after something has passed; afterwards
-pakiraán (daan) paki_ [expression] excuse me, can i pass by
-pamámaraán (daan) pangma_ [noun] method; way; approach; process
-paraanan (daan) pa_an [verb] to run through something
-paraanin (daan) pa_in [verb] to make way for something
-paraán (daan) pa_ [noun] way; method; course of action; manner; manners
-sandaanin (daan) num_ [noun] hundred-peso bill
-sandaán (daan) [number] one hundred; * short for "isang daan"
-tabíng-daán (daan) cmp_ [noun] roadside; wayside
 balingangà (linga) _ having a twisted neck, more severe than just being bent or crooked; wry neck; torticollis;
 kalawingi (linga) _ careful attention or watchfulness over animals or any pets; tending; caring; nurturing; watchfulness; guardianship;
 lingá (linga) rt_ [noun] looking around; sesame
@@ -9806,22 +9858,22 @@ duruin (duro) _in [verb] to skewer something; to put something on a skewer; to p
 durò (duro) rt_ [noun] prick; puncture; poke
 duruán (duro) _an [noun] skewer
 pagduro (duro) pag_ [noun] the act of pricking or puncturing
-hikbî (hikbi) [noun] sob; sobbing; cry
+hikbî (hikbi) rt_ [noun] sob; sobbing; cry
 himbík (hikbi) the sob of a child who has just stopped crying; sob; whimper;
 pahikbi (hikbi) [adverb] sobbingly
 humikbî (hikbi) [verb] to sob
 paghikbî (hikbi) [noun] sobbing; crying
 iluwál (luwal) [verb] to give birth to; to expel
 magluwál (luwal) [verb] to give birth
-luwál (luwal) [noun] exterior
+luwál (luwal) rt_ [noun] exterior
 paluwál (luwal) [noun] disbursement; release of payment
 pagluwál (luwal) [noun] birth; childbirth
 páluwalan (luwal) a system of rotational lending from a fund to which all borrowers contribute; a rotating savings and credit association.; lending circle; rotating savings and credit association; money pool;
 pagluluwál (luwal) [noun] giving birth
 tabigín (tabig) [verb] to swat something down
-tabig (tabig) [noun] bump; knocking over
+tabig (tabig) rt_ [noun] bump; knocking over
 mabundól (bundol) [verb] to get hit (AF); to hit something (OF)
-bundól (bundol) [noun] collision
+bundól (bundol) rt_ [noun] collision
 bumundól (bundol) [verb] to bump into; to collide with
 bundulín (bundol) [verb] to bump; to meet head-on
 pagbundol (bundol) [noun] ramming with something large and long
@@ -9829,9 +9881,9 @@ mamantsahan (mantsa) [verb] to become stained
 mansahin (mantsa) [adjective] easily stained or soiled
 mantsahin (mantsa) [adjective] easily stained or soiled
 mantsahán (mantsa) [verb] to stain something
-mantsá (mantsa) [noun] stain; stigma; blot; blemish
-masakote (sakote) [verb] to be caught in the act (AF); to catch someone in the act (OF)
-sagád (sagad) [adjective] to the max; to the limit; to the bottom; all used up;
+mantsá (mantsa) rt_ [noun] stain; stigma; blot; blemish
+masakote (sakote) ma_ [verb] to be caught in the act (AF); to catch someone in the act (OF)
+sagád (sagad) rt_ [adjective] to the max; to the limit; to the bottom; all used up;
 sagarín (sagad) [verb] to finish something; to use something up
 isagád (sagad) [verb] to reach the limit
 sagár (sagad) a variant of 'sagad'; full; maximum; thorough; complete; utter;
@@ -9839,11 +9891,11 @@ pagsagad (sagad) [noun] act of reaching the highest peak (of one's fame, success
 pasagadsarin (sagad) [verb] to allow something to skid or gain momentum
 kapkapán (kapkap) [verb] to frisk someone
 kapkapín (kapkap) [verb] to frisk for something; to search (someone) for something
-kapkáp (kapkap) [noun] to frisk; feeling in search of something
+kapkáp (kapkap) rt_ [noun] to frisk; feeling in search of something
 kumapkáp (kapkap) [verb] to frisk
 mangapkap (kapkap) [verb] to frisk (someone)
 kapkáp-bató (kapkap) a large saltwater fish, belonging to a single species (family lobotidae), characterized by a small and pointed snout, a sloping head, and a flat body with a dark brownish yellow color; slipmouth fish; ponyfish;
-tangá (tanga) [noun/adjective] idiot; stupid; dumb ass; idiotic; asinine;
+tangá (tanga) rt_ [noun/adjective] idiot; stupid; dumb ass; idiotic; asinine;
 katangahán (tanga) [noun] stupidity; idiocy
 tumangá (tanga) [verb] to gawk; to gape; to stare idiotically
 shungâ (tanga) [adjective] stupid; idiotic; foolish (slang)
@@ -9856,31 +9908,31 @@ pakaunti-kaunti (kaunti) [adverb] a little; a little at a time
 pakauntî (kaunti) [adverb] getting to be smaller; getting fewer; shrinking
 pinakakaunti (kaunti) [adjective] minimum
 kakalos (kalos) a type of cricket that sings at night; cricket;
-kalós (kalos) [adjective] unsteady; wobbly legs
+kalós (kalos) rt_ [adjective] unsteady; wobbly legs
 magkalos (kalos) [verb] to level grains with a strickle
-busisì (busisi) [noun] fastidiousness; foreskin
+busisì (busisi) rt_ [noun] fastidiousness; foreskin
 kabusisian (busisi) [noun] fastidiousness, etc.
 mabusisì (busisi) [adjective] fastidious
 pagbubusisi (busisi) [noun] masturbation
-ipalagáy (palagay) [verb] to consider something; to suppose something; to assume something; to attribute something; to conclude something; to deem something
-kapalagayán (palagay) complete tranquility and not easily disturbed by anyone who possesses it; serenity; peacefulness; calmness; tranquility;
-kapalagáy (palagay) pile or heap of unhusked rice; pile; heap; stack;
-kapálagáyang-loób (palagay) a person who is trusted with even the secrets of life; confidant; trusted friend; intimate; close friend;
-palá-palagáy (palagay) various opinions or impressions; assumptions; beliefs; views; impressions; notions;
-himpilan (himpil) [noun] station; base
+ipalagáy (palagay) i_ [verb] to consider something; to suppose something; to assume something; to attribute something; to conclude something; to deem something
+kapalagayán (palagay) ka_an noun] complete tranquility and not easily disturbed by anyone who possesses it; serenity; peacefulness; calmness; tranquility;
+kapalagáy (palagay) ka_ [noun] pile or heap of unhusked rice; pile; heap; stack;
+kapálagáyang-loób (palagay) cmp_ [noun] a person who is trusted with even the secrets of life; confidant; trusted friend; intimate; close friend;
+palá-palagáy (palagay) rt_rt [noun] various opinions or impressions; assumptions; beliefs; views; impressions; notions;
+himpilan (himpil) _an [noun] station; base
 himpilan ng eruplano (himpil) [noun] airport
-himpíl (himpil) [noun] stop; base
+himpíl (himpil) rt_ [noun] stop; base
 humimpíl (himpil) [verb] to stay temporarily; to stop temporarily; to rest; to park
 nakahimpíl (himpil) [adjective] stopped; paused
 rehimyento (himpil) a military unit consisting of two or more battalions; regiment;
 mangimbulo (ngimbulo) [verb] to envy
-ngimbuló (ngimbulo) [noun] envy; jealousy; [adjective] envious; jealous
+ngimbuló (ngimbulo) rt_ [noun] envy; jealousy; [adjective] envious; jealous
 nakatanghod (tanghod) [adjective] eagerly waiting
-tanghód (tanghod) [noun] eagerly waiting
+tanghód (tanghod) rt_ [noun] eagerly waiting
 tumanghod (tanghod) [verb] to wait around hoping for something (expected) to happen
 Maytinis (tinis) a temporary stay at someone else's house; with a capital letter, a play performed on the eve of christmas concerning the search for lodging by the virgin mary and saint joseph in jerusalem; a form of traditional christmas caroling in the philippines.; christmas play; nativity play; caroling;
 matinis (tinis) [adjective] high pitched, harsh sound; shrill;
-tinis (tinis) [noun] shrillness; high pitch;
+tinis (tinis) rt_ [noun] shrillness; high pitch;
 tuminis (tinis) [verb] to become high-pitched or shrill (voice)
 itunghay (tunghay) [verb] to raise one's eyes or head upward
 mapatunghay (tunghay) [verb] to happen to look up or raise one's head
@@ -9889,11 +9941,11 @@ matunghayán (tunghay) [verb] to be able to oversee something; to be able to loo
 nakatungháy (tunghay) [adjective] looking up; looking upward; with a raised head
 patunghayan (tunghay) [verb] to have a newspaper, etc., read by someone
 tunghayán (tunghay) [verb] to look over; to look at or read something carefully
-tungháy (tunghay) [adjective] looking up
+tungháy (tunghay) rt_ [adjective] looking up
 magpasubali (subali) [verb] to make reservations or objections
 pagpasubalian (subali) [verb] to take exception to something (e.g. during a discussion, etc.)
 pasubalì (subali) [noun] dissent; objection; dissenting opinion or thought
-subalì (subali) [conjunction] but; only
+subalì (subali) rt_ [conjunction] but; only
 isangguni (sangguni) [verb] to consult (about a certain matter)
 kasanggunian (sangguni) [noun] advisory board
 kasanggunì (sangguni) [noun] consultant
@@ -9902,99 +9954,100 @@ masangguni (sangguni) [verb] to be able to seek advice of someone
 pasangguni (sangguni) [verb] to ask help of someone in order to consult third party (e.g. an expert)
 sangguniin (sangguni) [verb] to consult with someone/something
 sanggunián (sangguni) [noun] reference; citation; council
-sanggunì (sangguni) [noun] consulted; consulting
+sanggunì (sangguni) rt_ [noun] consulted; consulting
 sumanggunì (sangguni) [verb] to consult; to refer to
 tagapagsangguni (sangguni) [noun/adjective] person who seeks advice from someone on behalf of another
 tagasangguni (sangguni) [noun/adjective] person who seeks advice from someone on behalf of another
 matangáy (tangay) [verb] to carry away; to get carried/taken away; to be swindled
 tangayín (tangay) [verb] to sweep something away; to carry something along; to snatch something away
-tangáy (tangay) [adjective] carried away
+tangáy (tangay) rt_ [adjective] carried away
 tumangáy (tangay) [verb] to sweep away; to carry along; to carry away
-halinhán (halinhan) [noun] displacement
+halinhán (halinhan) rt_ [noun] displacement
 mahalinhán (halinhan) [verb] to be displace; to be replaced (with something else)
-hamig (hamig) [noun] collecting
+hamig (hamig) rt_ [noun] collecting
 paghamig (hamig) [noun] collecting winnings on the gambling table
-mamilit (pilit) [verb] to force
-pagpilit (pilit) [noun] insisting
-pagpumilitan (pilit) [verb] to exert great effort to do something
-pagpupumilit (pilit) [noun] insistence
-pamimilit (pilit) [noun] pressure; compulsion; insisting; pressing; forcing
-kapanayamín (panayam) [verb] to interview someone
-makapanayám (panayam) [verb] to be able to interview
-makipagpanayam (panayam) [verb] to join others in a conference
-nakapanayám (panayam) [adjective] on an interview; giving an interview
-pagpapanayám (panayam) the act of giving a lecture or an interview; interviewing; lecturing; conducting an interview;
-pakikipagpanayam (panayam) [noun] joining with others in a conference
-panayám (panayam) [noun] interview; conference
-tagapanayám (panayam) a person who discusses a specific subject, especially if the subject is academic.; interviewer; discussant; interlocutor; speaker;
-pátalastasan (talastas) exchange of information; communication; information exchange; notification;
-talastasan (talastas) [noun] communication
-talastás (talastas) [adjective] known; aware of; realize; conscious of; cognizant
+mamilit (pilit) mang_ [verb] to force
+pagpilit (pilit) pag_ [noun] insisting
+pagpumilitan (pilit) pag_um_an [verb] to exert great effort to do something
+pagpupumilit (pilit) pagCV_um_ [noun] insistence
+pamimilit (pilit) pangCV_ [noun] pressure; compulsion; insisting; pressing; forcing
+kapanayamín (panayam) ka_in [verb] to interview someone
+makapanayám (panayam) maka_ [verb] to be able to interview
+makipagpanayam (panayam) makipag_ [verb] to join others in a conference
+nakapanayám (panayam) naka_ [adjective] on an interview; giving an interview
+pagpapanayám (panayam) pagCV_ [noun] the act of giving a lecture or an interview; interviewing; lecturing; conducting an interview;
+pakikipagpanayam (panayam) pakikipag_ [noun] joining with others in a conference
+panayám (panayam) rt_ [noun] interview; conference
+tagapanayám (panayam) taga_ [noun] a person who discusses a specific subject, especially if the subject is academic.; interviewer; discussant; interlocutor; speaker;
+pátalastasan (talastas) pa_an [noun] exchange of information; communication; information exchange; notification;
+talastasan (talastas) _an [noun] communication
+talastás (talastas) rt_ [adjective] known; aware of; realize; conscious of; cognizant
 bayanihan (bayani) [noun] mutual help; helping each other out; helping one's fellow countryman; community support; community spirit; "being a hero"; giving assistance without compensation
 bayanihin (bayani) [verb] to regard someone as a hero
 bayaning babae (bayani) [noun] heroine
 kabayanihan (bayani) [noun] heroism
-mamayani (bayani) [verb] to prevail
+mamayani (bayani) mang_ [verb] to prevail
 matáng-bayani (bayani) the bravery of a drunkard, characterized by bloodshot eyes; false courage; liquid courage; dutch courage;
 pabayani (bayani) [noun] cooperative endeavor by volunteers
 pagkabayani (bayani) [noun] heroism
-pagpunyagian (punyagi) [verb] to struggle about something specific
-punyagiin (punyagi) [verb] to desire vehemently
-punyagî (punyagi) [noun] determination; insistent effort; struggle
-anlawan (banlaw) [verb] to give clothes a final rinsing
-banlawán (banlaw) [verb] to rinse something; to rinse clothes
-banláw (banlaw) [noun] rinsing; rinsing of clothing
-mabanlawan (banlaw) [verb] to be rinsed
-magbanláw (banlaw) [verb] to rinse
-pagbabanlaw (banlaw) [noun] first rinsing (of clothes)
-pambanlaw (banlaw) [noun] liquid used in rinsing
-gawang-sikap (sikap) [noun] efforts
-sikap (sikap) [noun] effort; diligence; the act of striving or exerting oneself to do something.; [adjective] self-reliant; industrious; characterized by initiative and hard work towards achieving a goal
-Mamatáy ka na! (patay) [interjection] I hope you die!; I hope you drop dead!
-ikamatáy (patay) [verb] to cause death
-ipagpatay (patay) [verb] to use some specific thing in killing
-ipapatáy (patay) [verb] to have someone killed
-kamatayan (patay) [noun] death; doom
-kamámatáy (patay) just died; recently died
-katayán (patay) [noun] slaughterhouse
-kinamatayán (patay) [noun] place where someone died
-magkámatayan (patay) [verb] to fight to the death
-magpakamatáy (patay) [verb] to commit suicide
-magpatáy (patay) [verb] to slaughter (animals); to kill; to turn off (e.g., lights, the faucet, etc.)
-makapatáy (patay) [verb] to be able to kill
-mamatayán (patay) [verb] to suffer the loss of someone (due to death)
-mamatáy (patay) [verb] to die; to be dead
-mangamatáy (patay) [verb] to be wiped out (die/be killed)
-mapatáy (patay) [verb] to be able to kill something (OF); to be able to turn off / extinguish (OF); to be killed (AF)
-mámamátay-tao (patay) [noun] killer; murderer; assassin
-nakamámatáy (patay) [adjective] deadly; fatal
-nakapatáy (patay) [adjective] dead; turned off
-natay (patay) a contracted form of pumatay; killer; slayer; assassin; murderer;
-pagkakapatáy (patay) [noun] killing; death; the way someone was killed
-pagkamatáy (patay) [noun] death
-pagpapatáy (patay) [noun] turning off (e.g., a light); killing
-pagpatáy (patay) [noun] murder; killing
-pagpápakamatáy (patay) [noun] suicide
-pamatáy (patay) [noun] anything used for killing or turning off or extinguishing; [adjective] stunning clothes (colloquial); killer (smile)
-pamatáy-kulisap (patay) chemical formula and equipment for killing pest insects; insecticide; pesticide; bug killer; insect repellent;
-pamatáy-lamók (patay) a chemical formula and tool for killing pest mosquitoes; mosquito killer; insecticide; bug zapper; mosquito repellent;
-pampatay (patay) [noun] tool used for killing or slaughtering
-parusang kamatayan (patay) [noun] death penalty
-patayan (patay) [noun] killing; slaughter;
-patayan ng hayop (patay) [noun] slaughterhouse
-patayín (patay) [verb] to kill someone; to slaughter something (an animal); to turn off something; to shut off something; to extinguish something
-patrisidyo (patay) the act of killing one's own father.; patricide;
-patáy (patay) [adjective] dead; deceased; [noun] dead (person); [expressions] crap / oh my gosh / dang (slang)
-patáy-dampót (patay) [adjective] unconscious; dead weight
-patáy-patayan (patay) [noun] playing dead; pretending to be dead
-pumatáy (patay) [verb] to kill; to murder; to extinguish
-pátay-patay (patay) lazy; idle; inactive; sluggish; indolent;
-masawatà (sawata) [verb] to be able to prevent something (OF); to be prevented (AF); to be stopped (AF)
-pansawata (sawata) [noun/adjective] ref. to something said or done to stop someone from continuing
-sawatà (sawata) [noun] an action or prohibition to stop or prevent something
-sumawata (sawata) [verb] to stop or restrain someone from doing something
-bugaw (bugaw) [noun] pimp; shooing away
-bugawan (bugaw) [verb] to shoo something away from something (focus on the thing being protected, not the thing being shooed away)
-bugawin (bugaw) [verb] to drive something away; to shoo something away; to pimp
-bumugaw (bugaw) [verb] to pimp
-pagbugaw (bugaw) [noun] shooing away (of fowls, insects, people, etc.)
+mataimtím (taimtim) [adjective] sincerely
+taimtím (taimtim) [adjective] sincere; fervent; solemn
+manaká-naká (naka) [adverb/adjective] seldom; rarely; uncommon
+munakayá (naka) thus; in that manner; so; indeed; in that way;
+panaká-naká (naka) [adjective] from time to time; time to time
+sipì (sipi) [noun] quotation; citation; quote; copy
+dahóp (dahop) [adjective] poor; needy; indigent; destitute
+ikapagdahop (dahop) [verb] to be the reason for being in want
+kadahupan (dahop) [noun] state of being in want
+magdahop (dahop) [verb] to be in want
+pagdarahóp (dahop) variant of 'pagdadahop'; impoverishment; destitution; indigence;
+ipilì (pili) [verb] to choose for
+kapili (pili) candlenut; a tree (aleurites moluccana) native to the philippines, typically 80-150 cm in diameter, with ovoid fruit from which oil is extracted that is used in making paint, varnish, soap, and other products; candlenut tree; lumbang tree; indian walnut; varnish tree; nuez de la india;
+lipsáng (pili) the act of choosing and taking what one desires from many; selection; choice; picking;
+liputi (pili) selective; choosy; discriminating; picky;
+makapamili (pili) [verb] to have an alternative
+mamilì (pili) [verb] to choose; to select;
+mapagpilian (pili) [verb] to be selected from whatever is available
+mapamilian (pili) [verb] to be selected from what is available for selection
+mapilì (pili) [adjective] choosy; eligible
+mapilì (pili) [verb] to choose something (OF); to be chosen (AF)
+mákapilì (pili) [verb] to be able to choose
+pagpilián (pili) [verb] to make a choice among several options
+pagpilì (pili) [noun] choice; choosing; selection
+pagpipilian (pili) [noun] choice; choice among several things
+pamiliin (pili) [verb] to be given a choice; to be given an alternative
+pamimilì (pili) [noun] choice; choosing
+panilì (pili) chosen or selected stay; brief stay; selection; choice; preference; short stay; brief visit;
+papiliin (pili) [verb] to have someone choose or select
+pilian (pili) [adjective] choosy
+piliin (pili) [verb] to choose something; to select something; to single out something; to pick out something
+pilì (pili) [noun] choice; selection
+pilî (pili) [adjective] choice; select; elite; chosen; exclusive
+pumilì (pili) [verb] to choose; to select; to single out; to pick out
+alimura (alimura) [noun] insulting remarks; verbal abuse
+umalimura (alimura) [verb] to criticize; to defame; to abuse verbally
+ipamansag (mansag) [verb] to make known
+pamamanság (mansag) the act of boasting or bragging; boasting; bragging; showing off;
+pamanság (mansag) calling someone without naming them; alluding; referring; indicating;
+tagapamansag (mansag) [noun] news media
+hiwaga (hiwaga) [noun] mystery; magic; wonder
+kahiwagaan (hiwaga) [noun] mysteriousness
+mahiwaga (hiwaga) [adjective] magical; mysterious; magic; mystical; enchanting;
+mahiwagaan (hiwaga) [verb] to be mystified
+busilak (busilak) [adjective] immaculate
+busilig (busilak) white part of the eye; sclera;
+kabusilakan (busilak) [noun] immaculateness
+pagkabusilak (busilak) [noun] immaculateness
+buwisán (buwis) [verb] to tax something/someone
+buwís (buwis) [noun] tax; duty (tax)
+magbuwís (buwis) [verb] to tax
+pabuwisan (buwis) [verb] to offer land for crop sharing
+pagbubuwís (buwis) [noun] taxing (monetarily); taxation
+tagakolekta ng buwís (buwis) [noun] tax collector
+kasalantaan (salanta) [noun] deformity of body caused by beating
+makasalanta (salanta) [verb] to be the cause of physical disability
+masalantá (salanta) [verb] to be victimized; to be disabled or damaged; to be affected (in a negative way)
+pagkakasalanta (salanta) [noun] manner of having something badly damaged
+pagsalantâ (salanta) [noun] being victimized; being attacked
+salantahín (salanta) [verb] to be badly crippled or damaged; to cripple someone; to disable someone; to be weakened;
+salantâ (salanta) [adjective] disabled; victimized

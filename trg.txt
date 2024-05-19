@@ -1,0 +1,130 @@
+3.25 Nominalized basic forms.
+
+p155:
+nominalized basic forms occur in only a few special contexts. No nominalized basic forms occur after ng or sa, and only the basic forms of actor-focus verbs occur after ang. 
+
+The most common construction in which a nominalized basic form occurs is one in which it serves as 
+sentence topic. A nominalized actor-focus basic form serving as sentence topic may be preceded by either 
+the topic marker ang or the linker -ng. (note: not "na")
+
+The constructions with ang and -ng, alternate 
+freely with one another: 
+Maaksaya ang magtapon ng damit. 
+Maaksayang magtapon ng damit. 
+'To throw away clothing is wasteful.'
+
+A nominalized goal-focus basic form serving as sentence topic is always preceded by the linker -ng: 
+
+Maaksayang itapon ang damit. 
+'To throw away the clothing is wasteful.'
+
+(I think he means to say here that never is "ang" used and the -ng linker is still optional, as with 
+actor-focus basic form use.)
+
+A nominalized actor-focus basic form may be followed by any of the usual complements, and a
+nominalized goal-focus basic form may be followed by its topic, and by any complements other than
+actor complements: e.g., 
+
+Magugol magpadala sa kanila ng bigas sa Maynila. 
+'To have them take rice to Manila is expensive.' 
+
+Note: predicate is "magugol", topic is "magpadala sa kanila ng bigas sa Maynila."
+
+(cf. Nagpadala siya sa kanila ng bigas sa Maynila.) 
+'He had them take rice to Manila.' 
+
+Magugol ibili ng bigas sa groseri ang pamilya. 
+'To buy rice for the family from a grocery is expensive.' 
+
+(cf. Ibinili niya ng bigas sa groseri ang pamilya. 
+'He bought rice for the family from a grocery.' 
+
+The predicate of a sentence whose topic is a nominalized basic form must be one of a rather small 
+group of adjectivals or nominals, or of verbals that include goal-focus verbs. Examples of adjectivals and 
+nominals that may occur as predicates with basic form topics are:
+
+Adjectivals: 
+bagay ( + sa phrase) 'suitable' ( + 'for' phrase) 
+bawal 'prohibited' 
+laban sa batas 'against the law' 
+maaksaya 'wasteful' 
+mabuti 'good' 
+madali 'easy' 
+magastos 'expensive' 
+magugol 'expensive' 
+mahalay 'indecent' 
+mahirap 'difficult' 
+mainam 'good' 
+mapanganib 'dangerous' 
+masagwa 'disagreeable' 
+masama 'bad' 
+matrabaho 'involving a lot of work' 
+nakakabagot 'boring' 
+nakakainis 'annoying' 
+nakakapagod 'tiring' 
+nakakawili 'entertaining' 
+nakakatakot 'frightening' 
+
+Nominals: 
+abala '(a) bother' 
+basag-ulo 'trouble' 
+kabayanihan 'heroism' 
+kalokohan 'foolishness' 
+
+Some examples of sentences with adjectival or nominal predicates and nominalized-basic-form topics are:
+
+Mapanganib (ang) lumapit sa ahas. 
+'To go near a snake is dangerous.'
+
+Matrabaho ang magluto ng lumpia. 
+Matrabahong magluto ng lumpia. 
+'Cooking lumpia involves a lot of work.' 
+
+Kalokohan ang magsugal. 
+Kalokohang magsugal. 
+'Gambling is foolishness.' 
+
+Mabuting bigyan ng pera ang mga mahihirap. 
+'To give money to the poor is good.' 
+
+Mahirap basahin ang librong iyan. 
+'To read that book is difficult.'
+
+Goal-focus verbs of three types occur in predicates before basic-form topics. These are: 
+
+(1) object-focus verbs (cf. §5.3): e.g., 
+balakin 'plan' 
+ipagbawal 'forbid' 
+ipahintulot 'allow' 
+isipin 'plan' 
+tangkain 'attempt' 
+
+(2) directional-focus verbs (cf. §5.4): e.g., 
+ilagan 'avoid' 
+iwasan 'avoid' 
+katamaran 'be lazy about' 
+katuwaan 'be amused at' 
+katakutan 'be afraid o f 
+
+(3) causative-focus verbs (cf. §5.8): e.g.. 
+ikagalak 'be pleased about' 
+ikahiya 'be ashamed about' 
+ikalugod 'be happy about' 
+ikalungkot 'be unhappy about' 
+ikatuwa 'be happy about' 
+
+These verbs are normally followed by an actor complement, and then by the nominalized basic form topic, 
+Some examples are:
+
+Binalak ko ang mamalengke. 
+Binalak kong mamalengke. 
+'I planned to go marketing.' 
+
+Inilagan ni Juan ang mag-aral ng Kastila. 
+Inilagan ni Juang mag-aral ng Kastila. 
+'Juan avoided studying Spanish.' 
+
+lkinagalak ng titser (ang) pumunta sa bagong iskwela.  'The teacher was pleased about going to a new school.' 
+Ipinagbabawal ng batas lakaran ang daan.  'The law forbids walking in the street.' 
+Kinatatamaran niyang gawin ang trabaho.  'He is lazy about doing the work.' 
+Ikinalulungkot ni Manuel isulat siya ng liham.  'Manuel is unhappy about writing a letter for him.'
