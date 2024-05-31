@@ -128,3 +128,14 @@ lkinagalak ng titser (ang) pumunta sa bagong iskwela.  'The teacher was pleased 
 Ipinagbabawal ng batas lakaran ang daan.  'The law forbids walking in the street.' 
 Kinatatamaran niyang gawin ang trabaho.  'He is lazy about doing the work.' 
 Ikinalulungkot ni Manuel isulat siya ng liham.  'Manuel is unhappy about writing a letter for him.'
+
+referential focus 5.10 communication related "about", "tungkol sa"
+pag-an derived from intransitive joint action mag- verbs: away, kasundo, pulong, talo, usap..
+AF: Nag-away sila tungkol sa pera.
+RfF: Pinag-awayan nila ang pera.
+'They quarreled about the money.'
+there are also some i-, -in, ipag-: isipin, ipaglihim (be secretive about), ikwento OF verbs with same
+meaning:
+AF: Nag-isip siya ng paglalakbay niya 
+OF: Inisip niya ang paglalakbay niya 
+'He thought about his trip.'
