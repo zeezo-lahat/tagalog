@@ -1,0 +1,770 @@
+§5.3. Affix—correspondence classes: object verbs. 
+As is specified in §2.12, an AFFIX-CORRESPONDENCE CLASS is a class to which a verb base is 
+assigned by virtue of its co-occurrence with an affix set: a set of two or more major affixes which, together 
+with the base, form major transitive verbs of differing focus but otherwise identical meaning. Bases of verbs 
+belonging to the object—verb complement class (cf. §2.10) co-occur with an affix set that consists of an 
+actor—focus (AF) affix and an object—focus (OF) affix; bases of verbs belonging to the directional—verb 
+complement class co-occur with an affix set that consists of an AF affix and a directional—focus (DF) affix; 
+and bases of verbs belonging to the double—object—verb complement class co-occur with an affix set that 
+consists of an AF affix, an OF affix, and a DF affix. The various affix—correspondence classes of 
+object—verb bases are presented in this section, those of directional—verb bases and double-object-verb 
+bases in §§5.4, and 5.5 respectively. The presentation of the classes of object—verb bases is preceded, 
+immediately below, by some notes on the criteria by which a base is assigned to its particular 
+affix—correspondence class(es). These notes cover: (1) the treatment of bases that occur in two or more 
+verbs of identical focus formed with different major affixes; (2) the treatment of bases that co-occur with 
+the members of a single affix set to form major verbs that belong to two different complement classes. 
+(1) A focus is never represented more than once in a given affix set. Thus an affix set may include 
+only one AF affix and one OF and/or DF affix. There are, however, many bases that co-occur with two or 
+more major affixes to form verbs of identical focus. Cases of this kind are treated in one of four ways, as 
+follows: 
+(a) Where two major transitive verbs of identical focus and a common base have clearly different 
+meanings, the base is assigned to two different affix—correspondence classes. The base abot, for example, 
+forms an AF verb meaning 'reach for' with -um-, and an AF verb meaning 'hand to' with mag-. Since the 
+members of an affix set occur, by definition, only in verbs of identical meaning, umabot and mag-abot do 
+not belong to the same affix set, and the base abot must be assigned to two different classes. (The classes 
+are, in this case, the -um-l-in object—verb class (umabot/abutin 'reach for' — cf. class E.2a, below) and the 
+mag-/i-/-an double—object—verb class (mag-abot/iabot/abutan 'hand to' — cf. §5.5, class A.l).) 
+
+(b) Where two major transitive verbs of identical focus and a common base have similar but slightly 
+different meanings, and both meanings are expressed in a single verb of another focus formed with the same 
+base, the base is assigned to two affix—correspondence classes that have an affix in common. Thus the base 
+sulat forms, with i- and -in, OF verbs both of which have the meaning 'write.' The -in verb, however, 
+connotes creative writing while the i- verb connotes primarily writing of other kinds: e.g., the writing of 
+letters. The AF verb sumulat corresponds in meaning to both the -in verb and the i- verb, and may or may 
+not connote creative writing. Sulat is therefore assigned to two affix—correspondence classes, in both of 
+which -um- occurs: the -um-/-in object—verb class (sumulat/sulatin 'write (creatively)') and the -um-ji-/-an 
+double—object—verb class (sumulat/isulat/sulatan 'write, write to, write on' — cf. §5.5, class C.l).) 
+
+(c) Where two transitive verbs of identical focus and a common base have similar but slightly 
+different meanings, and only one of these meanings is found in a verb (or verbs) of different focus formed 
+with the same base, only the verb with the exact semantic counterpart(s) is considered a major verb, and 
+the other verb is interpreted as derived. Thus the base kuha forms, with -um- and mang-, AF verbs both of 
+which mean 'get.' The mang- verb, however, has the additional meaning of activity directed toward multiple 
+objects, and there is no goal—focus verb formed with kuha that has this additional meaning. Therefore the 
+-um- verb is considered primary for purposes of assignment of the base to an affix—correspondence 
+class - in this case, the -um-/-in/-an double-object-verb class (kumuha/kunin/kunan 'get') - and the 
+mang- verb (manguha 'get (a number of items), gather') is interpreted as a derived verb (cf. §5.16, 
+subsection (6)). 
+
+(d) Where two major transitive verbs of identical focus and a common base have identical meanings, 
+the base is always assigned to two affix—correspondence classes. For example, the base luto forms, with i
+and -in, freely alternating OF verbs meaning 'cook'; both OF verbs correspond to AF magluto, and luto is 
+thus assigned to both the mag-/i- object—verb class (magluto/iluto 'cook' — cf. class C.2, below) and the 
+mag-/-in object-verb class (magluto/lutuin 'cook' - cf. class C.3, below). 
+
+(2) There are a number of affix sets that may be associated with either object verbs or directional 
+verbs. Thus the members of the -um-/-an affix set occurs both in object verbs (e.g., lumunas/lunasan 
+'cure' — cf. class E.l, below) and in directional verbs (e.g., dumalo/daluhan 'attend' — cf. §5.4, class D.l). 
+In most cases, a given base occurs with the members of such an affix set in either object or directional verbs 
+but not in both. (Thus the base lunas occurs in the -um-/-an object—verb class but not the -um-/-an 
+directional—verb class, while the base dalo occurs in the directional—verb but not the object—verb class.) 
+There are, however, certain bases that co-occur with the members of a single affix set to form both object 
+and directional verbs. (That is, the AF verbs formed with the bases may take either an object complement 
+or a directional complement.) Such bases are always assigned to both the object—verb class and the 
+directional—verb class identified with the given affix set. 
+
+In some cases the object and directional verbs formed with a common base and a common affix set 
+differ from one another in meaning. For example, the base hawak occurs in both the -um-/-an object—verb 
+class and the -um-/-an directional—verb class, the object verbs having the meaning 'hold,' as in: 
+
+Humawak siya ng libro.  'He held a book.'
+Hinawakan niya ang libro.  'He held the book.'
+
+and the directional verbs having the meaning 'hold on to,' as in: 
+
+Humawak siya sa barandilya.  'He held on to the railing.' 
+Hinawakan niya ang barandilya.  'He held on to the railing.' 
+
+In other cases, the object and directional verbs formed with a common base and a common affix set are 
+identical in meaning. For example, the base kinig occurs in both the ma-/pa-... -an object—verb class and 
+the ma-/pa-. . .-an directional—verb class in verbs that mean 'listen to.' Examples of the AF verbs in 
+sentences are: 
+
+Nakinig kami ng talumpati.  'We listened to a speech.' 
+Nakinig kami sa talumpati.  'We listened to the speech.' 
+
+The first sentence involves the object verb makinig, the second the homophonous directional verb. The 
+goal—focus counterpart of both sentences is: 
+
+Pinakinggan namin ang talumpati.  'We listened to the speech.' 
+
+in which pinakinggan (the perfective form of pakinggan) is ambiguously either object—focus or 
+directional—focus. 
+
+Regardless, then, of whether the object verbs and the directional verbs formed with a common base 
+and a common affix set are the same or different in meaning, the base is always classified as both an 
+object—verb base and a directional—verb base. 
+
+In the following presentation, the affix—correspondence classes of object—verb bases are presented in 
+alphabetical order, according, first, to the AF affixes, then to the OF affixes, that occur in the affix sets. 
+(In the notation used to identify an affix set, the AF affix precedes the OF affix, and the two are separated 
+by a slash.) Examples of bases that occur in each class are followed by a parenthetic listing of the pertinent 
+basic forms and a translation of the latter. (Wherever possible, four bases are listed for each class. If fewer 
+than four bases are listed, the class is an unproductive one, and the listed examples may be the only ones 
+that occur. Bases that never occur word—initially are listed with a preceding hyphen.) The examples of 
+bases and basic forms are followed by a set of sentences illustrating the affix correspondences. Only one set 
+of verbs in each class is chosen for these illustrative sentences. The examples and illustrative sentences are in 
+some cases accompanied by remarks of various kinds.
+
+A. Ma- classes (very few bases in each class) 
+1. ma-/ipa- (-ligo)
+-ligo (maligo/ipaligo 'bathe with') 
+
+AF: Naligo siya ng mainit na tubig.  'He bathed with hot water.' 
+OF: Ipinaligo niya ang mainit na tubig.  'He bathed with the hot water.' 
+
+2. ma-/ma-an (-tuto)
+-tuto (matuto/matutuhan 'learn') 
+AF: Natututo siya noon.  'He is learning (some of) that.' 
+OF: Natututuhan niya iyon.  'He is learning that.' 
+
+3. ma- /pa-an (-kinig,  which is also ma-/pa- directional base)
+-kinig (makinig/pakinggan 'listen to') 
+AF: Nakinig kami ng talumpati.  'We listened to a speech.' 
+OF: Pinakinggan namin ang talumpati.  'We listened to the speech.' 
+
+The base -kinig also occurs in the directional—verb ma-/pa-... -an class (cf. §5.4, class A.3). 
+
+B. Maka- classes (very few bases in each class) 
+
+1. maka-/ma- (kita, dinig, halata, pansin)
+kita (makakita/makita 'see') 
+dinig (makarinig/marinig 'hear') 
+halata (makahalata/mahalata 'notice') 
+pansin (makapansin/mapansin 'notice') 
+AF: Nakakita ka ba ng aksidente?  'Did you see an accident?' 
+OF: Nakita mo ba ang aksidente?  'Did you see the accident?' 
+
+2. maka-/ma-an (damdam, ulinig)
+damdam (makaramdam/maramdaman 'feel') 
+ulinig (makaulinig/maulinigan 'hear faintly') 
+AF: Nakaramdam ako ng sakit.  'I felt some pain.' 
+OF: Naramdaman ko ang sakit.  'I felt the pain.' 
+
+2a. maka-(nom)/ma-an (limot, tanda)
+limot (makalimot/ma(ka)limutan 'forget') 
+tanda (makatand/matandaan 'remember') 
+AF: Siya ang nakalimot ng libro niya.  'He's the one who forgot his book.' 
+OF: Na(ka)limutan niya ang libro niya.  'He forgot his book.' 
+(Malimutan and makalimutan are free alternants.) 
+The maka- verbs in this class occur only in nominalized verbals: i.e., after one of the markers ang, ng, sa (cf. §3.24).
+
+C. Mag- classes 
+1. mag-/-an (anyaya, bukas, laba, walis)
+anyaya (mag-anyaya/anyayahan 'invite') 
+bukas (magbukas/buksan 'open') 
+laba (maglaba/labhan 'launder') 
+walis (magwalis/walisan 'sweep') 
+AF: Mag-anyaya ka ng mga istudyante.  'Invite some students.' 
+OF: Anyayahan mo ang mga istudyante.  'invite the students.' 
+
+2. mag-/i- (kula, handa, luto, pinid)
+kula (magkula/ikula 'bleach (in the sun)') 
+handa (maghanda/ihanda 'prepare') 
+luto (magluto/iluto 'cook') 
+pinid (magpinid/ipinid 'close') 
+AF: Magkukula sila ng mga damit.  'They're going to bleach some clothes.' 
+OF: Ikukula nila ang mga damit.  'They're going to bleach the clothes.' 
+
+Most mag- verbs denoting ways of preparing food have two object—focus counterparts, one 
+formed with i-, the other with -in. The i- and -in verbs are normally free alternants. Examples 
+are: iluto ~ lutuin 'cook'; ipaksiw ~ paksiwin 'make into paksiw, iprito ~ prituhin 'fry.' The 
+bases of such verbs are assigned to two object—verb classes: the mag-/i- class and the mag-/-in class 
+(class C.3, below). 
+
+3. mag-/-in (kudkod, hiwa, luto, plantsa)
+kudkod (magkudkod/kudkurin 'grate (coconut)') 
+hiwa (maghiwa/hiwain 'cut') 
+luto (magluto/lutuin 'cook') 
+plantsa (magplantsa/plantsahin 'iron') 
+AF: Magkudkod ka ng niyog.  'Grate some coconut.' 
+OF: Kudkurin mo ang niyog.  'Grate the coconut.' 
+
+Many mag-/-in object—verb bases — e.g., kudkod, hiwa, plantsa — also occur in the -um-/-in or 
+-um(nom)/-in object—verb class (respectively, class E.2a and class E.2b, below), the -um- and mag-
+verbs having similar or identical meanings. For further discussion, cf. E.2b, below. 
+For a note on the alternation between i- and -in with bases denoting ways of preparing food, cf. 
+C.2 above. 
+
+4. mag-/ipag- (-kanulo: betray)
+-kanulo (magkanulo/ipagkanulo 'betray') 
+AF: Nagkanulo siya ng mga kasamahan niya.  'He betrayed (some of) his companions.' 
+OF: Ipinagkanulo niya ang mga kasamahan niya.  'He betrayed his companions.' 
+
+5. mag-/pag-an (tiis, which is also a mag-/-in object class base)
+tiis (magtiis/pagtiisan 'endure') 
+AF: Nagtiis siya ng kahirapan.  'He endured some hardship.' 
+OF: Pinagtiisan niya ang kahirapan.  'He endured the hardship.' 
+
+Tiis also occurs in the mag-/-in object—verb class — class C.3, above; tiisin and pagtiisan are free 
+or dialectal alternants. 
+
+D. Mang- classes (very few bases in each class) 
+
+1. mang-/-an (kuwalta, sakit)
+kuwalta (mangwalta/kuwaltahan 'deprive of money by fraudulent means') 
+sakit (manakit/saktan 'injure') 
+AF: Nangungwalta siya ng mga kamag-anak niya.  'He is robbing (some of) his relatives of their money.' 
+OF: Kinukwaltahan niya ang mga kamag-anak niya.  'He is robbing his relatives of their money.' 
+
+2. mang-/-in (kailangan)
+kailangan (mangailangan/kailanganin 'need') 
+AF: Nangangailangan kami ng tulong ninyo.  'We need (some of) your help.' 
+OF: Kinakailangan namin ang tulong ninyo.  'We need your help.' 
+
+Some speakers use kumailangan instead of, or in alternation with, mangailangan, For these 
+speakers, kailangan belongs to the -um-/-in object—verb class (class E.2a, below) instead of, or in 
+addition to, the mang-/-in object—verb class. 
+
+3. mang-/ipang- (anak, bahagi)
+anak (manganak/ipanganak 'give birth to') 
+bahagi (mamahagi/ipamahagi 'apportion') 
+AF: Nanganak siya ng kambal noong isang buwan.  'She gave birth to twins last month.' 
+OF: Ipinanganak niya ang kambal noong isang buwan.  'She gave birth to the twins last month.' 
+
+4. mang-/pang-an (talo)
+talo (manalo/panalunan 'win as a prize') 
+AF: Nanalo ako ng kotse sa paligsahan.  'I won a car as a prize in the contest.' 
+OF: Pinanalunan ko ang kotse sa paligsahan.  'I won the car as a prize in the contest.' 
+
+5. mang-/pang-in (-nood)
+-nood (manood/panoorin 'watch') 
+AF: Nanood siya ng palabas.  'He watched a show.' 
+OF: Pinanood niya ang palabas.  'He watched the show.' 
+
+E. -um- classes 
+
+1. -um-/-an (hawak, lunas, tangan, tikim)
+hawak (humawak/hawakan 'hold') 
+lunas (lumunas/lunasan 'cure') 
+tangan (tumangan/tang(a)nan 'hold') 
+tikim (tumikim/tikman 'taste') 
+AF: Humawak siya ng libro.  'He held a book.' 
+OF: Hinawakan niya ang libro.  'He held the book.' 
+
+Hawak and tangan also occur in the directional—verb -um-/-an class (§5.4, class D.l). The 
+directional verbs have the meaning 'hold on to.' 
+
+2a. -um-/-in (abot, huli, tahi, tugtog) 
+abot (umabot/abutin 'reach for') 
+huli (humuli/hulihin 'catch') 
+tahi (tumahi/tahiin 'sew') 
+tugtog (tumugtog/tugtugin 'play (an instrument)') 
+AF: Umabot ka ng mangga.  'Reach for a mango.' 
+OF: Abutin mo ang mangga.  'Reach for the mango.' 
+
+Abot also occurs in the mag-/i-/-an double—object—verb class (§5.5, class A.l). The 
+double—object verbs have the meaning 'hand to.' 
+
+2b. um-(nom)/-in (basag, kudkod, durog, giling, sunog, gulat, takot, bigo, gutom, hiya, patay)
+basag (bumasag/basagin 'break') 
+kudkod (kumudkod/kudkurin 'grate (coconut)') 
+gulat (gumulat/gulatin 'surprise') 
+takot (tumakot/takutin 'frighten') 
+AF: Ako ang bumasag ng baso.  'I'm the one who broke a glass.' 
+OF: Binasag ko ang baso.  'I broke the glass.' 
+
+Bases in this class are divisible into two subclasses: (1) those that form -um-(nom)/-in verbs 
+that require animate objects: e.g., gulat, takot', and (2) those that form -um-(nom)/-in verbs that 
+denote ways of fragmenting or disintegrating an object: e.g., basag, kudkod. Most bases in subclass 
+(1) (gulat, takot, bigo, gutom, hiya) also occur in derived mang- verbs denoting actions directed
+toward multiple objects (cf. §5.16, subsection (6)). The mang- verbs, unlike the -um- verbs from
+which they are derived, need not be nominalized. Thus: 
+
+Nanggulat siya ng mga kaibigan niya.  'He surprised (some of) his friends.' 
+but not: 
+*Gumulat siya ng mga kaibigan niya. 
+(cf. Siya ang gumulat ng mga kaibigan niya.  'He's the one who surprised (some of) his friends.') 
+
+Some other bases in this subclass are: bigo (bumigo/biguin 'disappoint'), gutom 
+(gumutom/gutumin 'starve'), hiya (humiya/hiyain 'embarrass'). (At least one base in subclass (1), 
+patay (pumatay/patayin 'kill'), does not occur in a derived mang- verb.  Patay does, however, also 
+occur in the mag-/-in object—verb class (class C.3, above) in formations which differ somewhat in 
+use from those representing the -um-(nom)/-in class. The -um-(nom)-in formations are used with 
+human objects, the mag-/-in formations with non-human objects. Thus: 
+
+Siya ang pumatay ng sundalo.  'He's the one who killed a soldier.' 
+Nagpatay siya ng lamok 'He killed a mosquito.' 
+Pinatay niya ang sundalo/lamok.  'He killed the soldier/mosquito.' 
+
+Most -um-(nom)/-in bases in subclass (2) also occur in the mag-/-in object—verb class (class C.3, 
+above). The mag- verbs, unlike the -um- verbs, need not be nominalized. Thus: 
+
+Nagbasag ako ng baso.  'I broke a glass.' 
+
+Other bases in this subclass include: durog (dumurog/durugin 'pulverize'),giling (gumiling/gilingin 
+'grind'), sunog (sumunog/sunugin 'burn'). 
+
+Certain bases in subclass (2) also occur in -um-/-in verbs that do not require nominalization (as 
+well as in mag-/-in verbs). The -um-/-in verbs (which belong to class E.2a, above) differ somewhat 
+in meaning from the -um-(nom)/-in verbs (and mag-/-in verbs) formed with the same base, and 
+denote the obtaining of part of an object by means of fragmenting it. Thus, for example, the 
+-um-/-in verb formed with the base hiwa has the meaning 'slice off: 
+
+Humiwa ka niyon.  'Slice (some of) that off.' 
+Hiwain mo iyon.  'Slice that off.' 
+
+while the um-(nom)/-in verb (as well as the mag-/-in verb) formed with the same base has the 
+meaning 'slice': 
+
+Ikaw ang humiwa noon.  'You slice (some of) that.' 
+Hiwain mo iyon.  'Slice that.' 
+
+(In the case of the verbs under discussion, only a non-nominalized -um- verb unambiguously 
+expresses the meaning of obtaining by fragmenting. An -in verb, as the examples show, may have 
+either this meaning or simply the meaning of fragmenting, while a nominalized -um- verb is also 
+ambiguous, since it may represent either the -um-(nom)/-in class or a nominalization of the -um-
+verb in the -um-/-in class. Thus 'Ikaw ang humiwa noon.' may also mean 'You slice (some of) that 
+off.')
+
+Some other bases that behave like hiwa are: bali (bumali/baliin 'break (off)'), gupit 
+(gumupit/gupitin 'cut (off) (with scissors)'), putol (pumutol/putulin 'cut (off)'), taga 
+(tumaga/tagain 'cut (off) (with a knife)'). 
+
+§5.4. Affix—correspondence classes: directional verbs. 
+The following presentation of the affix—correspondence classes identified with directional verbs 
+parallels the presentation of the classes of object—verb bases in §5.3, except that the second affix listed in 
+each affix set is a DF, rather than an OF, affix. 
+A. Ma- classes 
+1. ma-/-an (higa, tulog, upo)
+higa (mahiga/higaan 'lie on') 
+tulog (matulog/tulugan 'sleep in/on') 
+upo (maupo/upuan 'sit on') 
+AF: Nahiga siya sa sahig.  'He lay on the floor.' 
+DF: Hinigaan niya ang sahig.  'He lay on the floor.' 
+
+Higa and upo occur in the -um-/-an directional-verb class (class D.l, below) as well as in the 
+ma-/-an directional—verb class. In some dialects — but not in educated Manila Tagalog — tulog also 
+occurs in the -um-/-an directional—verb class. (In derived formations, all three bases function as if 
+they formed major AF verbs exclusively with -um-. Thus the aspectless gerunds formed with the bases 
+(cf. §3.26) are paghiga, pagtulog, and pag-upo, forms that follow the pattern for -um- verb bases 
+(pag- + base) rather than that for ma- verb bases (pagka- + base).) 
+
+2. ma-/ka-an (hirati, muhi, suya, takot)
+hirati (mahirati/kahiratihan 'get used to') 
+muhi (mamuhi/kamuhian 'hate') 
+suya (masuya/kasuyaan 'be surfeited with') 
+takot (matakot/katakutan 'be afraid of ) 
+AF: Nahihirati ako sa klima.  'I'm getting used to the climate.' 
+DF: Kinahihiratian ko ang klima.  'I'm getting used to the climate.' 
+
+3. ma-/pa-an (-kialam, -kibigay, -kinig, -kisama)
+-kialam (makialam/pakialaman 'meddle with') 
+-kibagay (makibagay/pakibagayan 'adapt oneself to') 
+-kinig (makinig/pakinggan 'listen to') 
+-kisama (makisama/pakisamahan 'get along with,' 'live with') 
+AF: Nakikialam siyang palagi sa kanila.  'He is always meddling with them.' 
+DF: Pinakikialaman niya silang palagi.  'He is always meddling with them.' 
+
+It may be noted that the bases in this class all begin with ki-. This ki- is probably related 
+historically to the prefix component ki- that occurs in social verbs (cf. §5.14), but it is most 
+conveniently treated as part of the base in the case of the verbs under discussion. The elements 
+that follow the ki- of -kialam, -kibagay and -kisama also occur independently: alam 'something 
+known,' bagay 'suitable', sama 'company.' The element that follows the ki- of -kinig does not occur 
+independently, but is perhaps a contracted form of dinig, the base of the object verb 
+makarinig/marinig 'hear' (cf. §5.3, class B.l). (-kinig also occurs in the ma-/pa-. . . -an object—verb 
+class — cf. §5.3, class A.3.) 
+
+B. Mag- classes 
+1. mag-/-an (bayad, maktol, masid, matyag)
+bayad (magbayad/bayaran 'make a payment to') 
+maktol (magmaktol/maktulan 'behave sulkily towards') 
+masid (magmasid/masdan 'look at') 
+matyag (magmatyag/matyagan 'observe cautiously') 
+AF: Nagbayad siya sa bangko.  'He made a payment to the bank.'
+DF: Binayaran niya ang bangko.  'He made a payment to the bank.'
+
+It may be noted that most of the bases in this class begin with /m/, a phoneme that never 
+occurs as the initial consonant of the base of an -um- verb (cf. §5.2, subsection (17)). This fact is 
+probably relevant to the occurrence of these bases in the mag-/-an directional—verb class, rather 
+than in the much larger -um-/-an directional—verb class (class D.l, below). 
+
+The base bayad also occurs in the mag-/i-/-an double—object—verb class in the meaning 'pay in 
+the form of' and in the mag-/-an object—verb class in the meaning 'pay for'. 
+
+Maktol and masid also occur in the mag-/pag-an directional—verb class (class B.2, below). 
+
+2. mag-/pag-an (hati, higanti, mataas, sawa)
+hati (maghati/paghatian 'share') 
+higanti (maghiganti/paghigantihan 'have revenge on') 
+mataas (magmataas/pagmataasan 'be snobbish toward') 
+sawa (magsawa/pagsawaan 'be tired of') 
+AF: Naghati sila sa keyk.  'They shared the cake.' 
+DF: Pinaghatian nila ang keyk.  'They shared the cake.' 
+
+A number of ma- adjectives (cf. §4.3) occur as bases of mag-frag-... -an directional verbs that 
+express a meaning of assuming, or pretending to possess, the quality denoted by the adjective. 
+Compare: mataas 'high,' magmataas/pagmataasan 'be snobbish toward (i.e., pretend to be higher 
+than)'; mabait 'kind,' magmabait/pagmabaitan 'pretend to be kind to.' (There are also ma-
+adjectives that occur as bases of intransitive mag- verbs expressing similar meanings — cf. §5.6, 
+class G.) 
+
+C. Mang- classes (very few bases in each class) 
+1. mang-/-in (-pupo, panginoon)
+-pupo (mamupo/pupuin 'use po (respect particle) in addressing') 
+panginoon (mamanginoon/panginoonin 'serve') 
+AF: Namumupo siya sa akin.  'He uses po in addressing me.' 
+DF: Pinupupo niya ako.  'He uses po in addressing me.' 
+
+2. mang-/ma- (talo)
+talo (manalo/matalo 'win against') 
+AF: Nanalo ako kay Juan.  'I won against Juan.' 
+DF: Natalo ko si Juan.  'I won against Juan.' 
+
+3. mang-/pang-an (himasok, hinayang, pitagan)
+himasok (manghimasok/panghimasukan 'meddle in') 
+hinayang (manghinayang/panghinayangan 'regret the loss of') 
+pitagan (mamitagan/pamitaganan 'respect') 
+AF: Nanghimasok sila sa gawain namin.  'They meddled in our affairs.' 
+DF: Pinanghimasukan nila ang gawain namin.  'They meddled in our affairs.' 
+
+D. -um- classes 
+
+1. -um-/-an (dalo, hawak, punta, tulong)
+dalo (dumalo/daluhan 'attend') 
+hawak (humawak/hawakan 'hold on to') 
+punta (pumunta/puntahan 'go to') 
+tulong (tumulong/tulungan 'help') 
+AF: Dadalo ka ba sa pulong?  'Will you attend the meeting?' 
+DF: Dadaluhan mo ba ang pulong?  'Will you attend the meeting?' 
+
+Hawak also occurs in the -um-/-an object—verb class (cf. §5.3, class E.l). The object—verb 
+formations have the meaning 'hold.' 
+
+2. -um-/-in (akyat, pasok, salungat, sunod)
+akyat (umakyat/akyatin 'climb') 
+pasok (pumasok/pasukin 'enter') 
+salungat (sumalungat/salungatin 'oppose') 
+sunod (sumunod/sundin 'follow') 
+AF: Umakyat siya sa punong-mangga.  'He climbed the mango tree.' 
+OF: Inakyat niya ang punong-mangga.  'He climbed the mango tree.' 
+
+Akyat and pasok, like a number of other bases in the -um-/-in directional—verb class, also occur 
+as bases of mag-/i-/-an double—object verbs (cf. §5.5, class A.l). The directional verbs express 
+some movement of the actor from one place to another, while the double—object verbs express 
+some movement of an object external to the actor from one place to another. 
+Compare.umakyat/akyatin 'climb,' mag-akyat/iakyat/akyatan 'bring/take up to'.pumasok/pasukin 
+'enter,' magpasok/ipasok/pasukan 'bring/take into'; lumabas/labasin 'come/go outside,' 
+maglabas/ilabas/labasan 'bring/take outside.' 
+
+§5.5. Affix—correspondence classes: double—object verbs. 
+The following presentation of the affix—correspondence classes identified with double—object verb 
+classes parallels the presentation of object—verb and directional—verb classes in § §5.3 and 5.4, except that 
+each affix set includes three affixes: an AF affix, an OF affix, and a DF affix (which are listed in that 
+order). 
+
+A. Mag- classes 
+
+1. mag-/i-/-an (abot, akyat, bigay, pasok)
+abot (mag-abot/iabot/abutan 'hand to') 
+akyat (mag-akyat/iakyat/akyatan 'bring/take up to') 
+bigay (magbigay/ibigay/bigyan 'give to') 
+pasok (magpasol/ipasok/pasukan 'bring/take into') 
+AF: Nag-abot siya sa akin ng sulat.  'He handed me a letter.' 
+OF: Iniabot niya sa akin ang sulat.  'He handed me the letter.' 
+DF: Inabutan niya ako ng sulat.  'He handed me a letter.' 
+
+Abot also occurs in the -um/-in object—verb class (cf. §5.3, class E.2a), in formations meaning 
+'reach for.' 
+For remarks on the occurrence of akyat, pasok, etc., in the -um/-in directional—verb class, cf. 
+§5.4, class D.2. 
+
+2. mag-/i-/-in (alok, balibag, bato, pukol)
+alok (mag-alok/ialok/alukin 'offer') 
+balibag(magbalibag/ibalibag/balibagin 'throw at') 
+bato (magbato/ibato/batuhin 'stone with') 
+pukol (magpukol/ipukol/pukulin 'throw at') 
+AF: Nag-alok siya sa akin ng kendi.  'He offered me some candy.' 
+OF: Inialok niya sa akin ang kendi.  'He offered me the candy.' 
+DF: Inalok niya ako ng kendi.  'He offered me some candy.' 
+
+3. mag-/i-lpag-... -an (batay, bilin, bintang, sandal)
+batay (magbatay/ibatay/pagbatayan 'base (a decision) on') 
+bilin (magbilin/ibilin/pagbilinan 'entrust with') 
+bintang (magbintang/ibintang/pagbintangan 'accuse of') 
+sandal (magsandal/isandal/pagsandalan 'lean (something) against') 
+AF: Nagbatay siya ng kapasyahan niya sa balita.  'He based a decision of his on the news report.' 
+OF: Ibinatay niya ang kapasyahan niya sa balita.  'He based his decision on the news report.' 
+DF: Pinagbatayan niya ng kapasyahan niya ang balita.  'He based a decision of his on the news report.' 
+
+4. mag-/-in/-an (alis, dala, kuskos, tanggal)
+alis (mag-alis/alisin/alisan 'bring/take out of') 
+dala (magdala/dalhin/dalhan 'bring/take to') 
+kuskos (magkuskos/kuskusin/kuskusan 'scrape from') 
+tanggal (magtanggal/tanggalin/tanggalan 'detach from') 
+AF: Mag-alis ka ng bigas sa sako.  'Take some rice out of the sack.' 
+OF: Alisin mo ang bigas sa sako.  'Take the rice out of the sack.' 
+DF: Alisan mo ng bigas ang sako.  'Take some rice out of the sack.' 
+
+5. mag-/ipag-/pag-an (bili, kaila, kait, tapat)
+bili (magbili/ipagbili/pagbilhan 'sell to') 
+kaila (magkaila/ipagkaila/pagkailaan 'deny') 
+kait (magkait/ipagkait/pagkaitan 'refuse to give to') 
+tapat (magtapat/ipagtapat/pagtapatan 'confess to') 
+AF: Nagbili siya sa kanila ng kasangkapan.  'He sold them some furniture.' 
+OF: Ipinagbili niya sa kanila ang kasangkapan.  'He sold them the furniture.' 
+DF: Pinagbilhan niya sila ng kasangkapan.  'He sold them some furniture.' 
+
+Bili also occurs in the -um-/-in/-an double—ojbect—verb class (class B.2, below). The -um-/-in/-an 
+formations have the meaning 'buy from.' 
+
+Kaila also occurs in the mag-/i-/pag-an double—object—verb class (class A.3, above). The OF 
+verbs ikaila and ipagkaila have the same meaning. 
+
+B. Mang- class (very few bases) 
+
+1. mang-/ipang-/pang-an (ako)
+ako (mangako/ipangako/pangakuan 'promise') 
+AF: Nangakosiyasaakinngtulongniya.  'He promised me (some of) his help.' 
+OF: Ipinangako niya sa akin ang tulong niya.  'He promised me his help.' 
+DF: Pinangakuan niya ako ng tulong niya.  'He promised me (some of) his help.' 
+
+C. -um- classes 
+1. -um-/i-/-an (sulat)
+sulat (sumulat/isulat/sulatan 'write to') 
+AF: Sumulat ako sa kaniya ng liham.  'I wrote him a letter.' 
+OF: Isinulat ko sa kaniya ang liham.  'I wrote him the letter.' 
+DF: Sinulatan ko siya ng liham.  'I wrote him a letter.' 
+
+Sulat also occurs in the -um-/-in object—verb class (§5.3, class E.2a), in formations with the 
+meaning 'write (creatively).' The -um-/i-/-an verb has, in addition to the meaning 'write to,' the 
+meaning 'write on, make marks on,' as in: 
+
+Sumulat ako ng pangalan ko sa papel.  'I wrote my name on the paper.' 
+Isinulat ko ang pangalan ko sa papel.  'I wrote my name on the paper.' 
+Sinulatan ko ng pangalan ko ang papel.  'I wrote my name on the paper.' 
+
+As is the case with many other AF double-object verbs, sumulat need not be followed by both an
+object complement and a directional complement, but may occur with only one. Thus, also: 
+
+Sumulat ako ng liham.   'I wrote a letter.' 
+Sumulat ako sa kaniya.  'I wrote  to him.' 
+
+(The goal—focus counterparts of the above sentences are: 
+Isinulat ko ang liham.  'I wrote the letter.' 
+Sinulatan ko siya.  'I wrote to him.') 
+
+2. -um-/-in/-an (awit, bili, hingi, hiram)
+awit (umawit/awitin/awitan 'sing to') 
+bili (bumili/bilhin/bilhan 'buy from') 
+hingi (humingi/hingin/hingan 'ask for') 
+hiram (humiram/hiramin/hiraman 'borrow from') 
+AF: Aawit sila sa inyo ng kundiman.  'They will sing a kundiman to you.' 
+OF: Aawitin nila sa inyo ang kundiman.  'They will sing the kundiman to you.' 
+DF: Aawitan nila kayo ng kundiman.  'They will sing a kundiman to you.' 
+
+Bili also occurs in the mag-/ipag-/pag-an double—object—verb class (class A.5, above). The 
+mag-/ipag-/pag-an formations have the meaning 'sell to.' 
+
+§ 5.6. Affix classes of major intransitive verbs. 
+
+Major intransitive verbs are formed with one of ten affixes, each of which defines an affix class. 
+Certain subclasses can be established within the affix classes on the basis of the types of sentence structures 
+into which the verbs enter. In the presentation below, these classes are called: SIMPLE INTRANSITIVES, 
+PSEUDO-TRANSITIVES , ADJUNCTIVES , and ADJUNCTIVE PSEUDO-TRANSITIVES . A simple 
+intransitive (hereafter, SI) verb is one that accepts no adjuncts. (An ADJUNCT is one of certain structures 
+that occur in a non-focus relationship to the verb, and that do not correspond to the topic of a related verb 
+formed with the same base. Adjuncts are presented in detail in §5.26.) A pseudo—transitive (PT) verb is 
+one that accepts an actor adjunct (a structure that is similar in form and meaning to the actor complement 
+that occurs with a GF transitive verb). An adjunctive (A) verb does not accept an actor adjunct, but accepts 
+an adjunct of some other type. An adjunctive pseudo—transitive (APT) verb accepts both an actor adjunct 
+and an adjunct of some other type. 
+
+A. -an class (bagal, kilabot, gupit, pawis, sakit, tamis)
+bagal (bagalan 'make slow' PT) 
+kilabot (kilabutan 'feel terrified' SI) 
+gupit (gupitan 'cut' APT) 
+pawis (pawisan 'sweat' SI) 
+sakit (saktan 'have a pain in' A) 
+tamis (tamisan 'make sweet' PT) 
+Bagalan mo ang lakad mo.  'Walk slowly.' (Literally: 'Make your walking slow') 
+
+SI, PT, A and APT verbs all occur (cf. §5.26, classes 1.1, II.A.l, III.A.l, III.B.l, and III.C.l), with PT 
+and APT verbs in the majority. A subclass of PT verbs is formed with bases that also occur as the 
+bases of ma- adjectives (cf. §4.3); these verbs express the 'making' or 'producing' of the quality 
+expressed by the adjective. (The base pawis also occurs in pagpawisan ~ pagpusan 'sweat,' an 
+intransitive verb that alternates freely with pawisan, pagpawisan ~ pagpusan is apparently a unique 
+example of an intransitive pag-... -an verb, and pag-... -an is not included in the present inventory 
+of intransitive—verb affixes.) 
+
+B. i- class (kasal, kaway, galaw, halal) (relatively few bases) 
+kasal (ikasal 'get married to' A) 
+kaway (ikaway 'wave (the hand)' PT) 
+galaw (igalaw 'move (a part of the body)' PT) 
+halal (ihalal 'elect' APT) 
+Ikinasal siya kay Maria.  'He got married to Maria.' 
+
+The intransitive verbs formed with i- are all A, PT, or APT (cf. §5.26, classes (1.2, II.B.1, and 
+III.C.2). The majority of them are PT verbs expressing the movement of some part of the body. 
+
+C. -in class (agad, antok, kulang, hintay, langgam) (relatively few bases) 
+agad (agarin 'do without delay' PT) 
+antok (antukin 'feel sleepy' SI) 
+kulang (kulangin 'be short of A) 
+hintay (hintayin 'wait for.. . to' APT) 
+langgam (langgamin 'be infested with ants' SI) 
+Agarin mo ang kampanya.  'Campaign without delay' 
+
+SI, PT, A and APT verbs all occur (cf. §5.26, classes 1.3, II.A.2, II.C.l, and III.C.3). Most nouns 
+that designate insects may occur as bases of SI -in verbs that express the meaning of being infested 
+with the specified insect. Compare: langgam 'ant,' langgamin 'be infested with ants'; lamok 
+'mosquito,' lamukin 'be infested with mosquitoes,' etc. 
+
+D. Ma- class (bingi, basag, huli, mahal, -matay, tukso) (most are unaffixed adjectives)
+bingi (mabingi 'become deaf SI) 
+basag (mabasag 'get broken' SI) 
+huli (mahuli 'catch (someone doing something)' APT) 
+mahal (mamahal 'become expensive' SI) 
+-matay (mamatay 'die' SI) 
+tukso (matukso 'be tempted (to)' A) 
+Nabibingi ang Lolo.  'Grandfather is becoming deaf.' 
+
+Most of the bases that occur in this class also occur as unaffixed adjectives (cf. §4.2), and the SI 
+verbs they form, which may be called ma- VERBS OF 'BECOMING,' denote the acquisition of the 
+quality expressed by the adjective; their usual English equivalents involve 'become' or 'get' plus an 
+adjective. Compare: bingi 'deaf,' mabingi 'become deaf'; basag 'broken,' mabasag 'get broken,' etc. 
+As is noted in §4.2, some unaffixed adjectives that lack penultimate vowel length are related to 
+nouns that show such length: e.g., basag /basag/ 'broken,' basag /ba:sag/ '(a) break.'  When adjectives 
+such as these occur as bases of ma- verbs of becoming, they are identical in form with the related 
+nouns, and show penultimate vowel length: e.g., mabasag /maba:sag/ 'get broken.' (See also the 
+discussion of -um- verbs of 'becoming' under J, below.) 
+
+A few A and APT ma- verbs also occur (cf. §5.26, classes II.A.3 and III.C.2). 
+
+E. Ma-an class (anghang, alat, init, lamig)
+anghang (maanghangan 'find (something) biting in taste' A) 
+alat (maalatan 'find (something) salty' A) 
+init (mainitan 'feel hot,' 'find (something) hot' SI or A) 
+lamig (malamigan 'feel cold,' 'find (something) cold' SI or A) 
+Naanghangan siya sa sili.  'He found the pepper biting in taste.' 
+
+Most of the bases in this class also occur as the bases of ma- adjectives (cf. §4.3). The verbs have 
+the meaning of attributing to something the quality expressed by the adjective (in which case they are 
+A) and/or of experiencing the quality expressed by the adjective (in which case they are SI). 
+
+Compare: maanghang 'biting in taste,' maanghangan 'find (something) biting in taste'; mainit 'hot,' 
+mainitan 'feel hot,' 'find (something) hot.' (For a presentation of the adjuncts taken by ma-an 
+verbs, cf. §5.26, classes II.A.4, II.B.2, and II.C.3). 
+
+F. Maka- class (daan, daos, sulit) (relatively few bases) 
+daan (makaraan 'be over' SI) 
+daos (makaraos 'be over' SI) 
+sulit (makasulit 'pass (in an examination)' A) 
+Nakaraan na ang pista.  'The fiesta is over now.' 
+
+The few verbs in this class are SI or A (cf. §5.26, class II.B.3). 
+
+(Certain intransitive verbs formed with maka- may be analyzed as optional contractions of the 
+ability/involuntary—action forms of intransitive indirect—action verbs — cf. §§5.12 and 5.13. 
+
+Examples are: makaalat ~ makapagpaalat 'make salty' (literally, 'be able to cause to become 
+salty' — cf. umalat 'become salty'), makatamis ~ makapagpatamis 'make sweet' (cf. tumamis 'become 
+sweet'). Like other indirect—action verbs, the maka- verbs take a secondary—actor complement such 
+as the ng phrase in Nakatamis ng kape ang asukal 'The sugar made the coffee sweet.') 
+
+G. Mag- class (abogado, atubili, bus, kamayan, hiwalay, mabagal, madaling-araw, -sa-Kastila)
+abogado (mag-abogado 'become a lawyer' SI) 
+atubili (mag-atubili 'hesitate to' A) 
+bus (magbus 'ride a bus' SI) 
+kamayan (magkamayan 'exchange handshakes' SI) 
+hiwalay (maghiwalay 'separate from one another' SI) 
+mabagal (magmabagal 'be slow (in)' SI or A) 
+madaling-araw (magmadaling-araw 'be dawn' SI) 
+-sa-Kastila (magsa-Kastila 'be like a Spaniard' SI) 
+Nag-aabogado si Juan.  'Juan is becoming a lawyer.' 
+
+Most intransitive mag- verbs are SI; a few are A (cf. §5.26, class II.C.5). 
+
+Many of the bases that occur in this class also occur as unmarked nouns. In the case of nouns 
+designating a member of a profession, the verbs express the meaning of becoming a member of this 
+profession. Compare: abogado 'lawyer,' mag-abogado 'become a lawyer'; maestro 'teacher,' 
+magmaestro 'become a teacher'; nars 'nurse,' magnars 'become a nurse.' In other cases, the verb may 
+express the meaning of making use of the item designated by the noun in the normal or appropriate 
+way: e.g., riding, for vehicles (bus 'bus,' magbus 'ride a bus'); wearing, for articles of clothing 
+(kurbata 'tie,' magkurbata 'wear a tie'); speaking, for languages (toggles 'English,' mag-Inggles 'speak 
+English'); smoking, for tobacco (sigarilyo 'cigarette,' magsigarilyo 'smoke (cigarettes)'), etc. Or the 
+verb may express the meaning of producing the item designated by the noun: e.g., asin 'salt,' 
+mag-asin 'produce salt,' bunga 'fruit,' magbunga 'bear fruit,' etc. 
+
+There are two subclasses of intransitive mag- verbs that express reciprocal or joint actions involving 
+two or more actors: one formed with bases that also occur as derived nouns ending in the suffix -an 
+(cf. §3.7, subsection (2)), the other formed with bases that do not include the suffix -an. Some 
+examples of verbs in the first subclass are: magkamayan 'exchange handshakes' (cf. kamayan 
+'exchange of handshakes'), magsaksakan 'stab one another' (cf. saksakan 'stabbing one another'), 
+magtakbuhan 'run together' (cf. takbuhan 'running together'). Some examples of verbs in the second 
+subclass are: mag-away 'quarrel with one another' (cf. away '(a) quarrel'), magsalubong 'greet one 
+another' (cf. salubong 'greeting'), (cf. also §5.16, subsection (4), for a presentation of multiple 
+reciprocal verbs.) 
+
+There is also a subclass of intransitive mag- verbs formed with ma- adjectives (cf. §4.3 and §5.18, 
+subsection (2.b.l)) as bases. The verbs denote assuming, or pretending to possess, the quality 
+designated by the adjective. Compare: mabagal 'slow,' magmabagal 'be slow (in),' madali 'fast,' 
+magmadali 'hurry (in),' mayaman 'rich,' magmayaman 'pretend to be rich.' (Ma- adjectives also occur 
+as the bases of mag-/pag-... -an directional verbs of similar meaning - cf. §5.3, class B.2.) 
+Intransitive mag- verbs with bases expressing times of day (e.g., magmadaling-araw 'be dowwn' — cf. 
+madaling-araw 'down') and other natural phenomena occur in topicless phenomenal sentences (cf. 
+§7.21 for further examples and discussion). Intransitive mag- verbs with bases consisting of sa- plus a 
+noun designating a person denote the assumption of the behavior of the person or type of person 
+designated by the noun. Compare: Kastila 'Spaniard,' magsa-Kastila 'behave like a Spaniard.' (Cf. 
+§5.18, subsection (2.C.4) for further examples.) 
+
+H. Mang- class (bangka, kimi, kupas, -nginig, pula)
+bangka (mamangka 'go boating' SI) 
+kimi (mangimi 'be hesitant to' A) 
+kupas (mangupas 'fade' SI) 
+-nginig (manginig 'tremble' SI) 
+pula (mamula 'blush, redden' SI) 
+Mamangka tayo.  'Let's go boating.' 
+
+Most of the verbs in this class are SI; a few are A (cf. §5.26, class II.c.5). 
+
+A number of bases that occur in this class also occur as unmarked nouns. The mang- verbs often 
+denote activities — particularly recreational activities — involving the items designated by the nouns. 
+Compare: bangka 'boat'; mamangka 'go boating'; kabayo 'horse,' mangabayo 'go horseback riding'; 
+isda 'fish,' mangisda 'go fishing,' etc. 
+
+There is also a subclass of mang- verbs whose bases occur as unaffixed adjectives or as the bases of 
+ma- adjectives (cf. §4.2 and 4.3). The mang- verb designates the temporary or partial acquisition of 
+the quality expressed by the adjective. Compare: kupas 'colorless,' mangupas 'fade'; pula 'red,' 
+mamula 'blush, redden'; puti 'white,' mamuti 'blanch'; masakit 'painful,' manakit 'ache'; matigas 
+'hard,' manigas 'become stiff.' 
+
+I. pang-an class (hina, pula, -nginig, sakit) (relatively few bases) 
+hina (panghinaan 'feel a weakness in' A) 
+pula (pamulahan 'have a reddening o f A) 
+-nginig (panginigan 'have a tremor in' A) 
+sakit (panaktan 'have a pain in' A) 
+Pinanghinaan siya ng bisig.  'He felt a weakness in the arm.' 
+
+All verbs in this class are A, and express the undergoing of something in a part of the body. 
+
+J. -um- class (bagyo, buti, dami, dating, -pasa-Maynila, sainyo)
+bagyo (bumagyo 'storm' SI) 
+buti (bumuti 'become good, improve (in)' SI) 
+dami (dumami 'become much, be mor than' SI or A) 
+dating (dumating 'arrive' SI) 
+-pasa-Maynila (pumasa-Maynila 'go to Manila' SI) 
+sainyo (sumainyo 'be yours' SI) 
+Bumabagyo na.  'It's storming now.' 
+
+SI verbs like bumagyo, formed with bases that designate natural conditions (cf. bagyo 
+'storm'), occur in topicless sentences (cf. §7.21). Other examples are: kumidlat 'be lightning' 
+(cf. kidlat 'lightning'), gumabi 'get on toward nighttime' (cf. gabi 'night'), umulan 'rain' (cf. 
+ulan 'rain'). 
+
+Many of the bases that occur in intransitive (SI or A) -um- verbs also occur as the bases of ma-
+adjectives (cf. §4.3), and the verbs, which may be called -um- VERBS OF 'BECOMING,' denote the 
+acquisition of the quality expressed by the adjective. Their usual English equivalents are 'become' or 
+'get' plus an adjective. Compare: mabuti 'good,' bumuti 'become good, improve'; malaki 'big,' lumaki 
+'get big, grow'; matanda 'old,' tumanda 'get old, age.' The bases of a few -um- verbs of 'becoming' also 
+occur as unaffixed adjectives (cf. §4.2), rather than as ma- adjective bases. Compare: payat 'thin,' 
+pumayat 'become thin.' (most unaffixed adjectives occur as bases of ma- verbs of 'becoming' — cf. 
+class D, above — rather than -um- verbs of 'becoming.') 
+
+There is a subclass of SI -um- verb bases related to locative adjective phrases (cf. §4.19). In the 
+verb bases, the na- of the adjective phrase is replaced by pa- /pa/; compare: nasa Maynila 'in Manila,' 
+pumasa-Maynila 'go to Manila.' There is also a subclass related to possessive sa phrases (cf. §4.22); 
+compare: sa inyo 'yours,' sumainyo 'be yours.' (For further examples of verbs like pumasa-Maynila 
+and sumainyo, cf. §5.18, subsection (4.a). For a presentation of A -um- verbs, cf. §5.26, classes
+II.A.7, II.B.4, and II.C.6.)
+

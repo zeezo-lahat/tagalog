@@ -27,11 +27,12 @@ import argparse
 from collections import defaultdict
 
 parser = argparse.ArgumentParser(
-        description='extract matches from roots.txt based on affixes and word types')
+        description='extract matches from roots.txt based on affixes and word types'
+        )
 parser.add_argument('--rootsfile', dest='rootsfile', help='use a different roots file')
 parser.add_argument('--affixes', dest='affixes', nargs='+',
                     help='the affixes to match against, eg "mag_ pa_ _an", "*" (wildcard for ALL)')
-parser.add_argument('--wordtype', dest='wordtype', help='specify the word type (eg: verb, adjective)')
+parser.add_argument('--wordtypes', dest='wordtype', help='specify the word type (eg: verb, adjective)')
 parser.add_argument('--listonly', dest='listonly', action='store_true', help='just output the matching roots')
 
 args = parser.parse_args()
@@ -63,6 +64,7 @@ with open(rootsfile) as f:
                 continue
             else:
                 rootz[root].append({'word': word, 'type': wordtype, 'affix': affix, 'def': definition})
+            #rootz[root].append({'word': word, 'type': wordtype, 'affix': affix, 'def': definition})
         else:
             pass # these are the effed up lines in roots.txt
 

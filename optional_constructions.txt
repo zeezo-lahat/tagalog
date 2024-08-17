@@ -1,0 +1,11 @@
+search "or the linker", trg:
+
+p147,8:
+lahat + ng phrase construction serving as topic:
+"ang lahat ng" or "na lahat ang"
+In free alternation with a lahat-plus-ng- phrase construction serving as the topic of a sentence (after 
+ang) there occurs a construction in which the linker -ng or the linker na/-ng plus lahat occurs after the
+first word of the sentence + any enclytics:
+
+Natutulog ba ang lahat ng mga bata?	Are all of the children sleeping.
+Natutulog bang lahat ang mga bata?	Are all of the children sleeping.

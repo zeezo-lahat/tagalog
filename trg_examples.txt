@@ -1,0 +1,193 @@
+A duplicated moderative formation may occur together with medyo or ng kaunti without any change 
+of meaning: e.g., 
+Maganda-ganda si Maria.	'Maria is rather pretty.'
+Medyo maganda-ganda si Maria.	'Maria is rather pretty.'
+Maganda-ganda nang kaunti si Maria.	'Maria is rather pretty.'
+
+In the case of duplicated moderative formations involving unaffixed adjectives, the use of medyo or nang 
+kaunti together with the duplicated formation is always preferred, and in some cases may be considered 
+obligatory. Thus: 
+Medyo pagud-pagod ang nanay.	'Mother is a little tired.' 
+Pagud-pagod nang kaunti ang nanay.	'Mother is a little tired.' 
+but not normally: *Pagud-pagod ang nanay. 
+
+Also (p243):
+Maganda-ganda si Rosa kaysa sa kay Maria.	'Rosa is a little prettier than Maria.
+Note: "kaysa sa kay" can also be "kaysa kay" or just "kay".
+
+Tumakbo si Ed nang mabilis-bilis kaysa kay Bob.  'Ed ran a little faster than Bob.' 
+Mabigat-bigat ang maleta mo kaysa sa akin.  'Your suitcase is a little heavier than mine.' 
+Marami-raming tao doon kaysa dito.  'There are a few more people there than here.' 
+Mahusay-husay siyang kumanta kaysa sumayaw.  'She sings somewhat better than she dances.' 
+Malamig-lamig kahapon kaysa sa ngayon.  'It was a little cooler yesterday than it is today.'
+
+p216: pa- adjectives
+There are adjectives of three types formed with the prefix pa-: INTERMITTENT-ACTIVITY ADJECTIVES,
+INCIPIENT-ACTIVITY ADJECTIVES , and pa- MANNER ADJECTIVES. 
+
+Intermittent-activity adjectives consist of pa- plus two duplicating syllables (dup2), and a base.
+The duplicating syllables and the base in most cases also occur in a moderative directional -um- verb
+ (cf. §5.16, subsection (2.b)) that expresses the occasional or diffuse performance of an activity.
+The adjective has essentially the same meaning as the related verb, except that it expresses the
+performance of the activity as a characteristic, rather than as an occurrence.
+"now and then", "here and there" (as in 'pagala-gala')
+
+ex:
+padalu-dalo	'attend now and then' (dumalu-dalo)
+pasama-sama	'accompany occasionally' (sumama-sama)
+pagala-gala	'wander here and there (in)' (gumala-gala)
+
+The same directional complements (sa phrases) that follow the moderative verbs follow the 
+intermittent-activity adjectives: e.g., 
+Padalu-dalo sa sayawan sina Maria.	'Maria and her friends attend dances now and then.' 
+(Dumalu-dalo sa sayawan sina Maria.	'Maria and her friends attended dances now and then.') 
+Pagala-gala sila sa palengke araw-araw.	'They wander here and there in the market every day.' 
+(Gumala-gala sila sa palengke araw-araw.	'They wandered here and there in the market every day.') 
+
+There is at least one intermittent-activity adjective, paminsan-minsan 'occasional(ly),' that is not 
+related to an -um- verb. An example of its use is: 
+Paminsan-minsan ang baha dito.	'There are floods here occasionally.' (Literally: 'The floods here are occasional.') 
+
+Incipient-activity adjectives, like most intermittent-activity adjectives, include pa- and a base that also 
+occurs as the base of a directional -um- verb. The base is, however, not preceded by duplicating syllables. 
+Incipient-activity adjectives are often equivalent to English 'starting to' plus a verb. Some examples are: 
+paakyat 'starting to climb' (cf. umakyat 'climb') 
+paalis 'starting to leave' (cf. umalis 'leave') 
+palubog 'starting to set/sink' (cf. lumubog 'set/sink') 
+papunta 'starting to go' (cf. pumunta 'go') 
+pauwi 'starting to go home' (cf. umuwi 'go home')
+
+Paakyat na siya (sa bundok.)	'He is starting to climb (the mountain) now.' 
+Palubog na ang araw.	'The sun is starting to set now.' 
+
+Pa- manner adjectives consist of pa- plus a base that also occurs as the base of one of the following: a 
+directional -um- verb, an intransitive -um- verb (cf. §5.6, class E), or an intransitive mag- .verb (cf. §5.6, 
+class G). The adjective is often equivalent to an adverbial expression of manner in English: e.g., 
+pabulong 'in a whisper' (cf. bumulong 'whisper') 
+padabog 'with motions of anger' (cf. dumabog 'move angrily') 
+pahinanakit 'in an injured manner' (cf. maghinanakit 'have injured feelings') 
+paismid 'with a grimace' (cf. umismid 'grimace') 
+pangiti 'smilingly' (cf. ngumiti 'smile') 
+pasayaw 'as if dancing' (cf. sumayaw 'dance') 
+patagilid 'sideways' (cf. tumagilid 'move sideways') 
+
+Except when they initiate certain adjective-plus-complement constructions (cf. §4.17), manner 
+adjecties occur as predicates only with topics of the following types: gerunds (cf. §3.26) and nominalized 
+verb bases (cf. §3.27).
+
+Pabulong ang salita/pagsasalita ni Pedro.	Pedro speaks/spoke in a whisper.
+Padabog ang kilos/pagkilos nila.	They are/were moving angrily.
+
+p147,8:
+lahat + ng phrase construction serving as topic:
+"ang lahat ng" or "na lahat ang"
+In free alternation with a lahat-plus-ng- phrase construction serving as the topic of a sentence (after
+ang) there occurs a construction in which the linker -ng or the linker na/-ng plus lahat occurs after the
+first word of the sentence + any enclytics:
+
+Natutulog ba ang lahat ng mga bata?	Are all of the children sleeping.
+Natutulog bang lahat ang mga bata?	Are all of the children sleeping.
+
+p148: "lahat ang" The linker-plus-lahat construction always refers to the topic of the sentence: 
+Bumasang lahat ng mga libro ang mga bata.	'All of the children read books.' 
+Binasang lahat ng mga bata ang mga libro.	'The children read all of the books.' 
+
+Note: 'may' does not occur before a deictic pronoun.  Use mayroon.
+p134
+possessive sa phrases:
+sa phrase meaning "belongs" ("possessive sa phrase"):
+Sa bata ang lapis.	'The pencil belongs to the child.'
+p135
+Nasaan ang lapis na sa akin?, Nasaan ang aking lapis?	Where is my pencil?
+p274
+Sa mesa ang relos.	'The watch goes/belongs on the table.'
+Sa kahon ang relos.	'The watch goes/belongs in the box.'
+
+("person with <adj> <noun>": <noun/head> na <adj> ang <noun>):
+babaeng berde ang baro	'woman with the green dress' 
+batang bago ang lapis	'child with the new pencil'  (noun/head	na adj ang noun)
+cmp to (indefinite):
+batang may bagong lapis	'child with a new pencil'
+
+p274
+possessive may phrases: possession of specific but not yet identified object(s)
+May relos ang Nanay.	'Mother has a watch.'
+Mayroon niyan/niyon/noon si Juan.	Juan has some of that/those.
+
+With phrases introduced by mayroon or marami the object(s) possessed may be expressed either 
+by the ng form of a deictic pronoun or by an unmarked noun preceded by the linker -ng.
+Marami noon si Juan.	'Juan has a lot of that/those.' 
+Maraming pera si Juan.	'Juan has a lot of money.'
+
+p276
+indefinite may phrases:
+In indefinite phrases, may/mayroong/maraming is followed by an inflected form of a verb.
+
+If the verb in an indefinite may phrase predicate is an actor-focus verb, the sentence has no topic.
+
+Sentences in which may or mayroon is followed by an actor-focus verb are often equivalent to English sentences with an indefinite
+pronoun ('someone', 'something') as subject
+
+May darating bukas.	Someone is coming/arriving tomorrow.
+
+Sentences in which marami is followed by an actor-focus verb are often equivalent to English sentences with 'a lot (of people/things)'
+ (or 'lots (of people/things)') as subject
+
+Maraming darating bukas.	A lot (of people) are coming/arriving tomorrow.
+
+Mayroon bang nangyari?	Did something happen?
+
+If the verb in an indefinite may phrase predicate is a goal-focus verb, the sentence has a topic, which represents the performer of the
+ action of the verb.  (and, as topic, is an ang phrase..)
+
+May ginawa ang Amerikano.	The American did something. (existential)
+
+(May pera ang Amerikano.	The American has money. (possessive))
+
+(Ginawa ng Americano iyon.	The American did that.)
+
+May gagawin si Juan kahapon (pero hindi niya nagawa.)
+Juan had something to do yesterday. / Juan was going to do something yesterday.
+
+May ginagawa/ginawa si Juan doon.	Juan does/did something there.
+
+Mayroon siyang pinuntahan/pinupuntahan araw-araw.	'He went/goes somewhere every day.'
+Marami akong sinusulatan araw-araw.	I (have to) write to a lot of people every day.
+
+May ayaw/kailangang/dapat/gustong/ibig gawin si Juan.	Juan doesn't want/needs/ought/wants/wants to do something.
+
+Mayroon siyang (mga) tindahang pinupuntahan araw-araw.	'He goes to some stores every day.'
+Mayroon siyang pinupuntahang (mga) tindahan araw-araw.	'He goes to some stores every day.'
+
+May sinulat ako. (cf. Sinulat ko ang liham. 
+'I wrote something.' 'I wrote the letter.') 
+May sinulatan ako. (cf. Sinulatan ko si Pedro. 
+'I wrote to someone.' 'I wrote to Pedro.') 
+May isinulat ako (ng liham). (cf. Isinulat ko (ng liham) ang Nanay. 
+'I wrote (a letter) for someone.' 'I wrote (a letter) for Mother.') 
+May pinagsulatan ako. (cf. Pinagsulatan ko ang desk. 
+'I wrote (it) somewhere.' 'I wrote (it) on the desk.') 
+May ipinangsulat ako. (cf. Ipinangsulat ko ang lapis. 
+'I wrote with something.' 'I wrote with the pencil.') 
+
+p279
+existential may phrases:
+may/mayroong/maraming + noun
+
+may/mayroong -> 'there is/was..'
+May libro sa mesa.	'There's a book on the table.' 
+May parti kahapon.	'There was a party yesterday.' 
+Mayroon ding gatas.	'There's some milk too.
+
+maraming -> 'there's a lot of..'
+Maraming pagkain.	'There's a lot of food.' 
+Maraming trak sa daan.	'There are a lot of trucks on the street.
+
+As in the case of possessive phrases, mayroon or marami in existential phrases may be followed by the ng 
+form of a deictic pronoun, instead of by a linker plus a noun. (Once more, may does not occur before a 
+deictic.)
+
+Mayroon nito roon.	'There's some of this there.'
+Marami nito roon.	'There's a lot of this there.'
+
+FIN

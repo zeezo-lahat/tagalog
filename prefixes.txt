@@ -322,6 +322,11 @@ magpaka-	being/becoming X through/via great effort
 	Mabíbigyán ka ng biyayà kung magpápakabaít ka.  |  You will be given blessings (blessed) if you become nice.
 magpasa-	enter or exist in condition of X
 magpati-	do something violent to yourself; allow something to happen to yourself (both actor)
+	these are actor-focus reflexive (self/self) indirect-action (magpa-) verbs with 'ti-'
+	Nagpatihulog sa hagdanan ang bata.  'The child made himself fall down the steps.' 
+		(cf. Nahulog sa hagdanan ang bata.  'The child fell down the steps.') 
+	Nagpatirapa siya.  'He made himself fall face down.' 
+		(cf. Nadapa siya.  'He fell face down.'
 magsa-	act the role of, or imitate; to translate
 	magsagawâ - to perform; to carry out; to perpetrate
 	magsaulo - to memorize
@@ -501,6 +506,8 @@ pag-in	(ng) does something to/with MULTIPLE THINGS/PEOPLE (ang) JOINTLY - pag-in
 	Pinagbabaríl ni Christine ang mga ideya ni Harry.  |  Christine shot down Harry's ideas.
 pag-in	to INCREASE something DELIBERATELY or THOROUGHLY
 pagka-	the act of having done something, after/upon doing something
+pagkaRT-RT	equivalent to napaka-
+	Nakita mo ba iyong asong napakalaki/pagkalaki-laki/kay laki-laki?  "Did you see that huge dog?"
 pagka-	nouns of state, condition, typically temporary or specific
 		childhood, blindness, defeat, ownership, death, confusion
 pagka-an	pagkAtiwalAan - to trust someone/thing, to entrust to someone, to confide in someone
