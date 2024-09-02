@@ -123,7 +123,7 @@ alín man	whichever
 aling	a title of familial respect used before the first name of a woman; when the name is not appended, the noun form is ale
 alinman	any, anything
 alinsangan	heat and humidity of the weather, oppressiveness of weather
-alinsunod	pursuant, in accordance to
+alinsunod	pursuant, in accordance to, precedent
 alipin	slave
 alipustâ	belittlement, maltreatment
 alis	departure; leave!
@@ -553,6 +553,7 @@ biyenan	parent-in-law; in-law; in-laws
 biyernes	friday
 biyuda	widow
 bola	a ball or round object; flattery
+bolo	a cutlass-like weapon common in the Philippines: gulok, itak
 boláhin	to flatter someone; to draw something (by lottery); to kid someone
 bóngga	extravagently stylish
 bote-bote	many bottles
@@ -757,7 +758,7 @@ dí-mapakalí	not at peace, restless, fidgety, anxious, not able to stay still
 di-mapalagay	uneasy, worried
 di-mapigil	unstoppable
 di-sanáy	unskilled, unused to
-di-umanó	it is said, allegedly, they say
+di-umanó	it is said, allegedly, they say, alleged (adj) (di-umanó'y)
 dibdib	chest, bosom (do not use a hyphen!)
 dibdibin	to brood over something
 dighay	belch, burp
@@ -1076,6 +1077,7 @@ higít	more (than), over (higit na..)
 higpít	tightness; strictness, severity
 hikahós	needy, poor, bankrupt
 hikaw	earring
+hikayat	persuasion, encouragement toward a particular action
 hila	pull
 hilaga	north
 hilahin	to pull
@@ -1449,6 +1451,7 @@ kahig	scratch
 kahilíngan	a request, claim, application
 kahiman	even though; although
 kahina-hinala	suspicious; dubious (kahinahinala)
+kahina-hinalang pag-uugalì	suspicious behavior
 kahináan	weakness
 kahingían	requirement
 kahirapan	poverty, hardship, difficulty
@@ -2323,6 +2326,7 @@ magpaalam	to bid goodbye; to ask permission
 magpagaling	to heal, cure, recuperate
 magpahangin	to get some fresh air
 magpahinga	to take a break
+magpahintulot	to permit or authorize
 magpahirap	to make matters difficult
 magpaiwan	to remain
 magpakabaít	to be nice, to make nice
@@ -2355,6 +2359,7 @@ magpulong	a lot of people to meet
 magpuntá	to be assigned to go somewhere
 magpuri	to praise, compliment
 magranggo	to "rank", eg rank second
+magsabunutan	pulling each other's hair
 magsaliksík	to research
 magsalin	to translate (as in language)
 magsalita	to talk, to speak
@@ -2613,6 +2618,7 @@ mangako	to promise
 mangambâ	to feel threatened; to feel fear
 manganib	to be in danger; to be threatened
 mangarap	to dream
+mangatuwiran	to reason (tuwid)
 manggagawà	a worker
 manggalaw	to move
 manggaya	to imitate, mimic
@@ -3152,6 +3158,7 @@ pabrika	factory (pagawaan)
 pabuya	a reward
 padaliin	to make easy
 pader	wall made of stone; concrete or stone wall of a house, etc
+padulás	grease; payment, bribe
 padyák	pedicab; pedal as in biking; stamping of the feet; sound of heavy steps; marking time (military term)
 pag	(kapág) when, on, whenever, upon, in case that
 pag-aabuso	(n) abuse; abusing; abusive behavior.
@@ -3308,6 +3315,7 @@ pagpapalaya	liberation
 pagpapaliban	postponement
 pagpapalit-saklaw	(synecdoche)
 pagpapalit-tawag	(metonymy)
+pagpapasiyá	a decision or determination
 pagpapayaman	enrichment
 pagpasensyahán	to have patience with someone
 pagpasláng	(n) killing (also pasláng)
@@ -3373,6 +3381,7 @@ pakialám	caring/concern; busybody, meddler
 pakikiapíd	fornication
 pakikibagay	conforming, adaptation
 pakikipag-usap	conversation
+pakikipag-ugnayan	interaction
 pakilinis	please clean..
 pakinabang	earnings, gain, profit (root: kinabang)
 pakipasa	please pass along
@@ -3465,16 +3474,17 @@ paminsan-minsan	occasionally, from time to time
 pampang	river bank (origin of the name "Pampanga"), or shore of sea, etc.
 pampanitikan	literary
 pampapawis	something to make you sweat
+panaghóy	lamentation (taghóy)
 panaginip	a dream
+panagutin	to hold someone responsible (papanagutin)
 panahon	weather; time, season, age, era, epoch; all of time; grammatical tense
 panalunan	winnings
 panambita	mourning song for the dead
-pananagutan	duty, responsibility
+pananagutan	duty, responsibility, accountability
 pananakot	scaring, intimidation
 pananalitâ	speech
 pananamantala	exploitation
 pananantsing	an act of lasciviousness
-panaghóy	lamentation (taghóy)
 pananamlay	state of being languid, listless, having no energy
 pananghalian	lunch
 pananong	question mark
@@ -3639,6 +3649,7 @@ patiyempo	through proper timing
 patnúbay	guide, companion, escort; guidance
 patók	a sure winner, a big hit
 patos	displaced; metal wedge, metal reinforcement, horseshoe
+patotohanan	to prove something
 patuloy	constant, continuous, ongoing
 patúnay	proof, testimony
 patunayan	to prove, testify, verify
@@ -3914,7 +3925,7 @@ saknong	stanza; section of a ricefield assigned to one for harvesting
 sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
 sakote	catch, arrest
 saksí	witness
-saktan	injured/hurt (sakit)
+saktán	1. to be hurt by <actor>; 2. to have a pain in (adjunctive, no actor complement/adjunct)
 sakunâ	accident, mishap
 sala	fault, error, mistake, blame, sin; miss (failure to hit)
 salâ	broken, dislocated (bones)
@@ -4604,6 +4615,7 @@ uka-uka	full of holes
 ulap	clouds, fog
 ulat	report, account, statement
 uli	again (use muli at beginning of sentence)
+ulí-ulí	"next time"
 ulila	orphan
 uling	charcoal
 ulirat	consciousness, sense
@@ -4629,6 +4641,8 @@ umanó	alleged(ly), supposed(ly), purported(ly), "it is said" (di-umanó)
 umapaw	to overflow
 umawit	to sing
 umayos	to behave
+umbág	punch, hit
+umbágin	punch, hit someone
 umbók	a bulge, hump, lump
 umento	an increase in salary (dagdag na sahod)
 umiinom	drinking

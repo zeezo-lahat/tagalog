@@ -257,14 +257,21 @@ ma-an	abilitative (locative)
 	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
 ma-an	opinion (actor)
 ma-an	to affect an object (obj.)
-ma-in	adj. of quality in high degree or personal characteristics (ex. matulungin - helpful)
+ma-in	adj. of inclination or quality in high degree or personal characteristics (ex. matulungin - helpful)
+	consist of the prefix ma- /ma/, a base that also occurs as the base of ma- verb, and the suffix -in /in/.
+	 (The ma- verbs whose bases occur in ma-. . .-in adjectives all belong to the class of directional ma-
+	 verbs whose directional-focus counterparts are formed with ka-an
+	many are from ma- verbs of being: inip, ingit, galit, takot, tuwa, yamot
 	timpî - temperance; moderation; self-control
 	matimpiin - reserved; self-controlled; restrained
 	tulâ - poem; poetry
 	mátulain - poetic
 	tulong - help; benefit; aid; backing
 	matulungín - helpful
-maCV-in	adj. of quality in high degree (akin to ma-in)
+maCV-in	adj. of inclination or quality in high degree (akin to ma-in)
+	not used by all speakers, as alternate of ma-in adjectives of inclination
+	Mainggitin si Juan sa kapatid niya.	'Juan is inclined to be envious of his brother.'
+	makakalimutin - forgetful
 	galit - anger; displeasure
 	magagalitín - irritable; cranky; easily angered
 	limót - forgotten
@@ -422,8 +429,11 @@ mapa- (actor) to be CAUSED to do/become something (actor/doer/becomer)
 	Napápailíng akó sa pinagsasabí mo.  |  I am shaking my head in disbelief at what you're saying.
 mapa- to be compelled or to need or to be triggered to do something (actor)
 mapag-	(adj) PERSONAL CHARACTERISTIC (ex. mapagbigay - generous, mapag-isip - thoughtful)
+	The pronunciation of the base in the mapag- adjective is identical with its pronunciation in the mag- verb
+	Mapagdala ng mga regalo sa kanila si Juan.	'Juan is fond of bringing presents to them.'
 mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)
-mapag-an (obj) abilitive of pag-an
+mapag-an (obj) abilitative of pag-an
+	Nang makababa ng sasakyan ay napagmasdan niya ang eskuwaylahan.
 	Napagbásketbulán namin and 'covered court' sa poblasyón.  We got to play basketball in the covered court in the town proper.
 	May mapagkukunan ba ng prutas doon?	Is there a place we can get fruit there? *note use as noun here*
 mapag-an ()
@@ -431,6 +441,8 @@ mapag-an ()
 mapag- (adj) having a personal characteristic (mapagpunyagI - persistent, mapagmahál - loving)
 	mapagbalatkayo - deceiptful, artful
 	Mapagbigáy and mamang iyán.	The man is generous.
+mapang- (adj) fondness adjectives for mang- verbs (with same associated pronunciations and spelling adjustments)
+	Mapanghiya ng kanyang mga propesor si Juan.	'Juan is fond of embarrassing his professors.' 
 mapagma- (adj) inclined or prone to something (mapagmaliít - prone to belittle others, mapagmataás - conceited)
 	Mapagmarunong siya.	He's prone to showing off how much he knows.
 naka-	(adj) to be in current STATE (ex. nakaupo - sitting, nakaitim - wearing black)
@@ -463,9 +475,12 @@ pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
 	Teka, pinag-íisipan ko pa.  |  Wait, I'm still thinking about it.
 	Hindî mo na kailangang pag-isipan pa iyán.  |   You don't need to spend time to still think about that.
 	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
-pag-an	(locative) locative focus for mag- verbs
-	Pag-aralan mo ang mga pangungusap.  |  Study the sentences.
 	Ipagpatuloy natin ang pinag-áaralan natin kahapon.  |  Let's continue with what we were studying yesterday.
+	Pag-aralan mo ang mga pangungusap.  |  Study the sentences.
+pag-an	(locative) locative focus for mag- verbs
+	directional focus counterpart of mag- in directional and double-object verbs
+	there is a mag/ipag/pag-an correspondence group which includes roots bili (sell to), kaila (deny), kait (refuse
+	to give to), tapat (confess to)
 	Pagbigyán mo namán akó.  |  Give me some slack.
 	Pinagbigyán na kitá dati, tamà na iyón.  |  I obliged/indulged you before, that's enough.
 	Huwág mo iyáng paglaruán.  |  Don't play with that.
@@ -530,7 +545,11 @@ paki-	??, eg "pakiramdam": feeling (n)
 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
 pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
-	for roots with penult stress, stress will shift to final syllable.
+	Palabasa ng mga diyaryo si Juan.	'Juan is fond of reading newspapers.'
+	usually associated with -um- verbs.  similar to mapag- fondness adjectives.
+	if base has long penult, two freely alternating pronunciations: one in which the length of the penult vowel
+	 is retained, the other in which it is lost. so palabasa is either palabasá or palabása (cf. bása/bumása)
+	 palalakad can be either palalAkad or palalakAd.  palapunta (puntá: short penult base) is just palapuntá
 pang-	something FOR performing action described by root (ie, something FOR cooking, pamahalaan - government)
 pang-	adj. referring to intended use (FOR) (ex. pambata - for kids)
 pang-in	to cause or have something done or something to be

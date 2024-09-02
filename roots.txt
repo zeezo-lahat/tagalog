@@ -5037,6 +5037,7 @@ kalaunan (laon) ka_an [adjective] eventually; after a while; in time; as time we
 nang lumaon (laon) phr_ [phrase] eventually; in time
 laon (laon) rt_ [noun] long (in time)
 malaon (laon) ma_ [adjective] long time
+malaunan (laon) ma_an [verb] to take or last a long time
 lapad (lapad) rt_ [noun] width; breadth; wideness
 laparan (lapad) _an [verb] to widen
 lapád (lapad) rt_ [adjective] broad; wide
@@ -10227,3 +10228,55 @@ tuwád (tuwad) [adjective] bent over; upside down
 hidwâ (hidwa) against; in opposition to; contrary; opposite; adverse; antagonistic;
 tilapon (tilapon) [noun] wild throw; toss
 tumilapon (tilapon) [verb] to go flying (out); to be thrown wildly
+sugò (sugo) [noun] delegate; messenger; ambassador; emissary; envoy
+katunggaan (tungga) [noun] person engaged in a drinking bout with another
+tumunggâ (tungga) [verb] to gulp
+tunggaín (tungga) [verb] to gulp something down
+tunggâ (tungga) [noun] gulp; swig; the act or an instance of swallowing liquid in one continuous motion; quaff;
+kamángmangán (mangmang) [noun] ignorance; illiteracy
+magmangmang (mangmang) [verb] to become delirious bcause of high fever
+mangmáng (mangmang) [adjective] ignorant; uneducated; naive; [noun] moron
+taong mangmang (mangmang) [noun] ignoramus [n]
+daang sukol (sukol) [noun] dead-end street
+masukól (sukol) [verb] to be cornered; to be surrounded;
+sukol (sukol) [noun] being cornered (trapped or caught)
+abulado (bula) nullified or invalidated; voided; annulled; invalidated; revoked; cancelled;
+bula`-bulà (bula) said in drinking sessions when the drinker drains the alcohol; bottoms up; drained; chugged;
+bulà (bula) [noun] untruth
+bulá ng sabón (bula) [noun] soapsuds
+bulâ (bula) [noun] bubbles; soapsuds; suds; foam; froth; [adjective] fleeting
+bumulâ (bula) [verb] to bubble
+mabulâ (bula) [adjective] sudsy
+magbulâ (bula) [verb] to bubble much
+pabulain (bula) [verb] to cause to foam, bubble or froth
+pampabula (bula) [noun] something for making bubbles or foam
+pábulá (bula) [noun] fable
+hatag (hatag) give; to give; grant; bestow; provide; offer; present;
+matumbók (tumbok) [noun] to hit; to hit the center of something; to hit exactly; to be spot on
+tumbók (tumbok) a tube that serves as a buoy on a fishing line or a tube that is made to float to prevent sinking; float; buoy;
+tumumbok (tumbok) [verb] to hit / land
+bingwitin (bingwit) [verb] to fish with rod, line, hook and sinker
+bingwít (bingwit) [noun] fishing rod; fishing pole; fishing gear; fishing tackle
+makabingwit (bingwit) [verb] to be able to hook a fish
+mamimingwít (bingwit) [noun] fishing person; fisherman
+pamingwít (bingwit) [noun] fishing tackle; fishing gear
+katumpakán (tumpak) [noun] accuracy; correctness
+magtumpak (tumpak) [verb] to correct
+tumpák (tumpak) [interjection] Exactly!; [adjective] proper; accurate; correct;
+kalapastanganan (lapastangan) [noun] abomination; profanity; irreverence
+lapastangan (lapastangan) [adjective] profane; abomination; irreverent; sacrilegious
+lumapastangan (lapastangan) [verb] to act irreverently
+maglapastangan (lapastangan) [verb] to act irreverently
+manlapastangan (lapastangan) [verb] to act irreverently
+paimbabáw (imbabaw) [adjective] superficial
+imbót (imbot) [noun] greed
+mag-imbót (imbot) [verb] to covet
+mapag-imbót (imbot) [adjective] possessing the characteristic of greed; greedy; covetous; avaricious; grasping;
+buktót (buktot) [adjective] corrupt; very wicked; atrocious
+kabuktután (buktot) [noun] corruption; extreme wickedness
+kapalaluán (palalo) [noun] the state of being arrogant; arrogance; haughtiness; conceit; pride;
+napakapalalo (palalo) [adjective] very proud
+palalo (palalo) [adjective] proud; conceited; arrogant; haughty
+hangál (hangal) [adjective] foolish; stupid; asinine
+kabanghán (hangal) the state of being foolish; stupidity; foolishness; silliness; idiocy;
+kahangalán (hangal) [noun] stupidity; foolishness

@@ -108,18 +108,18 @@ some cases accompanied by remarks of various kinds.
 
 A. Ma- classes (very few bases in each class) 
 1. ma-/ipa- (-ligo)
--ligo (maligo/ipaligo 'bathe with') 
+* -ligo (maligo/ipaligo 'bathe with') 
 
 AF: Naligo siya ng mainit na tubig.  'He bathed with hot water.' 
 OF: Ipinaligo niya ang mainit na tubig.  'He bathed with the hot water.' 
 
 2. ma-/ma-an (-tuto)
--tuto (matuto/matutuhan 'learn') 
+* -tuto (matuto/matutuhan 'learn') 
 AF: Natututo siya noon.  'He is learning (some of) that.' 
 OF: Natututuhan niya iyon.  'He is learning that.' 
 
-3. ma- /pa-an (-kinig,  which is also ma-/pa- directional base)
--kinig (makinig/pakinggan 'listen to') 
+3. ma-/pa-an (-kinig,  which is also ma-/pa- directional base)
+* -kinig (makinig/pakinggan 'listen to') 
 AF: Nakinig kami ng talumpati.  'We listened to a speech.' 
 OF: Pinakinggan namin ang talumpati.  'We listened to the speech.' 
 
@@ -128,22 +128,22 @@ The base -kinig also occurs in the directional—verb ma-/pa-... -an class (cf. 
 B. Maka- classes (very few bases in each class) 
 
 1. maka-/ma- (kita, dinig, halata, pansin)
-kita (makakita/makita 'see') 
-dinig (makarinig/marinig 'hear') 
-halata (makahalata/mahalata 'notice') 
-pansin (makapansin/mapansin 'notice') 
+* kita (makakita/makita 'see') 
+* dinig (makarinig/marinig 'hear') 
+* halata (makahalata/mahalata 'notice') 
+* pansin (makapansin/mapansin 'notice') 
 AF: Nakakita ka ba ng aksidente?  'Did you see an accident?' 
 OF: Nakita mo ba ang aksidente?  'Did you see the accident?' 
 
 2. maka-/ma-an (damdam, ulinig)
-damdam (makaramdam/maramdaman 'feel') 
-ulinig (makaulinig/maulinigan 'hear faintly') 
+* damdam (makaramdam/maramdaman 'feel') 
+* ulinig (makaulinig/maulinigan 'hear faintly') 
 AF: Nakaramdam ako ng sakit.  'I felt some pain.' 
 OF: Naramdaman ko ang sakit.  'I felt the pain.' 
 
 2a. maka-(nom)/ma-an (limot, tanda)
 limot (makalimot/ma(ka)limutan 'forget') 
-tanda (makatand/matandaan 'remember') 
+* tanda (makatand/matandaan 'remember') 
 AF: Siya ang nakalimot ng libro niya.  'He's the one who forgot his book.' 
 OF: Na(ka)limutan niya ang libro niya.  'He forgot his book.' 
 (Malimutan and makalimutan are free alternants.) 
@@ -152,17 +152,17 @@ The maka- verbs in this class occur only in nominalized verbals: i.e., after one
 C. Mag- classes 
 1. mag-/-an (anyaya, bukas, laba, walis)
 anyaya (mag-anyaya/anyayahan 'invite') 
-bukas (magbukas/buksan 'open') 
-laba (maglaba/labhan 'launder') 
-walis (magwalis/walisan 'sweep') 
+* bukas (magbukas/buksan 'open') 
+* laba (maglaba/labhan 'launder') 
+* walis (magwalis/walisan 'sweep') 
 AF: Mag-anyaya ka ng mga istudyante.  'Invite some students.' 
 OF: Anyayahan mo ang mga istudyante.  'invite the students.' 
 
 2. mag-/i- (kula, handa, luto, pinid)
-kula (magkula/ikula 'bleach (in the sun)') 
-handa (maghanda/ihanda 'prepare') 
-luto (magluto/iluto 'cook') 
-pinid (magpinid/ipinid 'close') 
+* kula (magkula/ikula 'bleach (in the sun)') 
+* handa (maghanda/ihanda 'prepare') 
+* luto (magluto/iluto 'cook') 
+* pinid (magpinid/ipinid 'close') 
 AF: Magkukula sila ng mga damit.  'They're going to bleach some clothes.' 
 OF: Ikukula nila ang mga damit.  'They're going to bleach the clothes.' 
 
@@ -173,10 +173,10 @@ bases of such verbs are assigned to two object—verb classes: the mag-/i- class
 (class C.3, below). 
 
 3. mag-/-in (kudkod, hiwa, luto, plantsa)
-kudkod (magkudkod/kudkurin 'grate (coconut)') 
-hiwa (maghiwa/hiwain 'cut') 
-luto (magluto/lutuin 'cook') 
-plantsa (magplantsa/plantsahin 'iron') 
+* kudkod (magkudkod/kudkurin 'grate (coconut)') 
+* hiwa (maghiwa/hiwain 'cut') 
+* luto (magluto/lutuin 'cook') 
+* plantsa (magplantsa/plantsahin 'iron') 
 AF: Magkudkod ka ng niyog.  'Grate some coconut.' 
 OF: Kudkurin mo ang niyog.  'Grate the coconut.' 
 
@@ -187,12 +187,12 @@ For a note on the alternation between i- and -in with bases denoting ways of pre
 C.2 above. 
 
 4. mag-/ipag- (-kanulo: betray)
--kanulo (magkanulo/ipagkanulo 'betray') 
+* -kanulo (magkanulo/ipagkanulo 'betray') 
 AF: Nagkanulo siya ng mga kasamahan niya.  'He betrayed (some of) his companions.' 
 OF: Ipinagkanulo niya ang mga kasamahan niya.  'He betrayed his companions.' 
 
 5. mag-/pag-an (tiis, which is also a mag-/-in object class base)
-tiis (magtiis/pagtiisan 'endure') 
+* tiis (magtiis/pagtiisan 'endure') 
 AF: Nagtiis siya ng kahirapan.  'He endured some hardship.' 
 OF: Pinagtiisan niya ang kahirapan.  'He endured the hardship.' 
 
@@ -202,13 +202,13 @@ or dialectal alternants.
 D. Mang- classes (very few bases in each class) 
 
 1. mang-/-an (kuwalta, sakit)
-kuwalta (mangwalta/kuwaltahan 'deprive of money by fraudulent means') 
-sakit (manakit/saktan 'injure') 
+* kuwalta (mangwalta/kuwaltahan 'deprive of money by fraudulent means') 
+* sakit (manakit/saktan 'injure') 
 AF: Nangungwalta siya ng mga kamag-anak niya.  'He is robbing (some of) his relatives of their money.' 
 OF: Kinukwaltahan niya ang mga kamag-anak niya.  'He is robbing his relatives of their money.' 
 
 2. mang-/-in (kailangan)
-kailangan (mangailangan/kailanganin 'need') 
+* kailangan (mangailangan/kailanganin 'need') 
 AF: Nangangailangan kami ng tulong ninyo.  'We need (some of) your help.' 
 OF: Kinakailangan namin ang tulong ninyo.  'We need your help.' 
 
@@ -217,28 +217,28 @@ speakers, kailangan belongs to the -um-/-in object—verb class (class E.2a, bel
 addition to, the mang-/-in object—verb class. 
 
 3. mang-/ipang- (anak, bahagi)
-anak (manganak/ipanganak 'give birth to') 
-bahagi (mamahagi/ipamahagi 'apportion') 
+* anak (manganak/ipanganak 'give birth to') 
+* bahagi (mamahagi/ipamahagi 'apportion') 
 AF: Nanganak siya ng kambal noong isang buwan.  'She gave birth to twins last month.' 
 OF: Ipinanganak niya ang kambal noong isang buwan.  'She gave birth to the twins last month.' 
 
 4. mang-/pang-an (talo)
-talo (manalo/panalunan 'win as a prize') 
+* talo (manalo/panalunan 'win as a prize') 
 AF: Nanalo ako ng kotse sa paligsahan.  'I won a car as a prize in the contest.' 
 OF: Pinanalunan ko ang kotse sa paligsahan.  'I won the car as a prize in the contest.' 
 
 5. mang-/pang-in (-nood)
--nood (manood/panoorin 'watch') 
+* -nood (manood/panoorin 'watch') 
 AF: Nanood siya ng palabas.  'He watched a show.' 
 OF: Pinanood niya ang palabas.  'He watched the show.' 
 
 E. -um- classes 
 
 1. -um-/-an (hawak, lunas, tangan, tikim)
-hawak (humawak/hawakan 'hold') 
-lunas (lumunas/lunasan 'cure') 
+* hawak (humawak/hawakan 'hold') 
+* lunas (lumunas/lunasan 'cure') 
 tangan (tumangan/tang(a)nan 'hold') 
-tikim (tumikim/tikman 'taste') 
+* tikim (tumikim/tikman 'taste') 
 AF: Humawak siya ng libro.  'He held a book.' 
 OF: Hinawakan niya ang libro.  'He held the book.' 
 
@@ -246,10 +246,10 @@ Hawak and tangan also occur in the directional—verb -um-/-an class (§5.4, cla
 directional verbs have the meaning 'hold on to.' 
 
 2a. -um-/-in (abot, huli, tahi, tugtog) 
-abot (umabot/abutin 'reach for') 
-huli (humuli/hulihin 'catch') 
-tahi (tumahi/tahiin 'sew') 
-tugtog (tumugtog/tugtugin 'play (an instrument)') 
+* abot (umabot/abutin 'reach for') 
+* huli (humuli/hulihin 'catch') 
+* tahi (tumahi/tahiin 'sew') 
+* tugtog (tumugtog/tugtugin 'play (an instrument)') 
 AF: Umabot ka ng mangga.  'Reach for a mango.' 
 OF: Abutin mo ang mangga.  'Reach for the mango.' 
 
@@ -257,10 +257,10 @@ Abot also occurs in the mag-/i-/-an double—object—verb class (§5.5, class A
 double—object verbs have the meaning 'hand to.' 
 
 2b. um-(nom)/-in (basag, kudkod, durog, giling, sunog, gulat, takot, bigo, gutom, hiya, patay)
-basag (bumasag/basagin 'break') 
-kudkod (kumudkod/kudkurin 'grate (coconut)') 
-gulat (gumulat/gulatin 'surprise') 
-takot (tumakot/takutin 'frighten') 
+* basag (bumasag/basagin 'break') 
+* kudkod (kumudkod/kudkurin 'grate (coconut)') 
+* gulat (gumulat/gulatin 'surprise') 
+* takot (tumakot/takutin 'frighten') 
 AF: Ako ang bumasag ng baso.  'I'm the one who broke a glass.' 
 OF: Binasag ko ang baso.  'I broke the glass.' 
 
@@ -278,7 +278,7 @@ but not:
 
 Some other bases in this subclass are: bigo (bumigo/biguin 'disappoint'), gutom 
 (gumutom/gutumin 'starve'), hiya (humiya/hiyain 'embarrass'). (At least one base in subclass (1), 
-patay (pumatay/patayin 'kill'), does not occur in a derived mang- verb.  Patay does, however, also 
+ patay (pumatay/patayin 'kill'), does not occur in a derived mang- verb.  Patay does, however, also 
 occur in the mag-/-in object—verb class (class C.3, above) in formations which differ somewhat in 
 use from those representing the -um-(nom)/-in class. The -um-(nom)-in formations are used with 
 human objects, the mag-/-in formations with non-human objects. Thus: 
@@ -327,9 +327,9 @@ parallels the presentation of the classes of object—verb bases in §5.3, excep
 each affix set is a DF, rather than an OF, affix. 
 A. Ma- classes 
 1. ma-/-an (higa, tulog, upo)
-higa (mahiga/higaan 'lie on') 
-tulog (matulog/tulugan 'sleep in/on') 
-upo (maupo/upuan 'sit on') 
+* higa (mahiga/higaan 'lie on') 
+* tulog (matulog/tulugan 'sleep in/on') 
+* upo (maupo/upuan 'sit on') 
 AF: Nahiga siya sa sahig.  'He lay on the floor.' 
 DF: Hinigaan niya ang sahig.  'He lay on the floor.' 
 
@@ -341,18 +341,18 @@ they formed major AF verbs exclusively with -um-. Thus the aspectless gerunds fo
 (pag- + base) rather than that for ma- verb bases (pagka- + base).) 
 
 2. ma-/ka-an (hirati, muhi, suya, takot)
-hirati (mahirati/kahiratihan 'get used to') 
-muhi (mamuhi/kamuhian 'hate') 
-suya (masuya/kasuyaan 'be surfeited with') 
-takot (matakot/katakutan 'be afraid of ) 
+* hirati (mahirati/kahiratihan 'get used to') 
+* muhi (mamuhi/kamuhian 'hate') 
+* suya (masuya/kasuyaan 'be surfeited with') 
+* takot (matakot/katakutan 'be afraid of ) 
 AF: Nahihirati ako sa klima.  'I'm getting used to the climate.' 
 DF: Kinahihiratian ko ang klima.  'I'm getting used to the climate.' 
 
 3. ma-/pa-an (-kialam, -kibigay, -kinig, -kisama)
--kialam (makialam/pakialaman 'meddle with') 
--kibagay (makibagay/pakibagayan 'adapt oneself to') 
--kinig (makinig/pakinggan 'listen to') 
--kisama (makisama/pakisamahan 'get along with,' 'live with') 
+* -kialam (makialam/pakialaman 'meddle with') 
+* -kibagay (makibagay/pakibagayan 'adapt oneself to') 
+* -kinig (makinig/pakinggan 'listen to') 
+* -kisama (makisama/pakisamahan 'get along with,' 'live with') 
 AF: Nakikialam siyang palagi sa kanila.  'He is always meddling with them.' 
 DF: Pinakikialaman niya silang palagi.  'He is always meddling with them.' 
 
@@ -367,10 +367,10 @@ class — cf. §5.3, class A.3.)
 
 B. Mag- classes 
 1. mag-/-an (bayad, maktol, masid, matyag)
-bayad (magbayad/bayaran 'make a payment to') 
-maktol (magmaktol/maktulan 'behave sulkily towards') 
-masid (magmasid/masdan 'look at') 
-matyag (magmatyag/matyagan 'observe cautiously') 
+* bayad (magbayad/bayaran 'make a payment to') 
+* maktol (magmaktol/maktulan 'behave sulkily towards') 
+* masid (magmasid/masdan 'look at') 
+* matyag (magmatyag/matyagan 'observe cautiously') 
 AF: Nagbayad siya sa bangko.  'He made a payment to the bank.'
 DF: Binayaran niya ang bangko.  'He made a payment to the bank.'
 
@@ -385,10 +385,10 @@ the form of' and in the mag-/-an object—verb class in the meaning 'pay for'.
 Maktol and masid also occur in the mag-/pag-an directional—verb class (class B.2, below). 
 
 2. mag-/pag-an (hati, higanti, mataas, sawa)
-hati (maghati/paghatian 'share') 
-higanti (maghiganti/paghigantihan 'have revenge on') 
-mataas (magmataas/pagmataasan 'be snobbish toward') 
-sawa (magsawa/pagsawaan 'be tired of') 
+* hati (maghati/paghatian 'share') 
+* higanti (maghiganti/paghigantihan 'have revenge on') 
+* mataas (magmataas/pagmataasan 'be snobbish toward') 
+* sawa (magsawa/pagsawaan 'be tired of') 
 AF: Naghati sila sa keyk.  'They shared the cake.' 
 DF: Pinaghatian nila ang keyk.  'They shared the cake.' 
 
@@ -401,30 +401,30 @@ class G.)
 
 C. Mang- classes (very few bases in each class) 
 1. mang-/-in (-pupo, panginoon)
--pupo (mamupo/pupuin 'use po (respect particle) in addressing') 
-panginoon (mamanginoon/panginoonin 'serve') 
+* -pupo (mamupo/pupuin 'use po (respect particle) in addressing') 
+* panginoon (mamanginoon/panginoonin 'serve') 
 AF: Namumupo siya sa akin.  'He uses po in addressing me.' 
 DF: Pinupupo niya ako.  'He uses po in addressing me.' 
 
 2. mang-/ma- (talo)
-talo (manalo/matalo 'win against') 
+* talo (manalo/matalo 'win against') 
 AF: Nanalo ako kay Juan.  'I won against Juan.' 
 DF: Natalo ko si Juan.  'I won against Juan.' 
 
 3. mang-/pang-an (himasok, hinayang, pitagan)
-himasok (manghimasok/panghimasukan 'meddle in') 
-hinayang (manghinayang/panghinayangan 'regret the loss of') 
-pitagan (mamitagan/pamitaganan 'respect') 
+* himasok (manghimasok/panghimasukan 'meddle in') 
+* hinayang (manghinayang/panghinayangan 'regret the loss of') 
+* pitagan (mamitagan/pamitaganan 'respect') 
 AF: Nanghimasok sila sa gawain namin.  'They meddled in our affairs.' 
 DF: Pinanghimasukan nila ang gawain namin.  'They meddled in our affairs.' 
 
 D. -um- classes 
 
 1. -um-/-an (dalo, hawak, punta, tulong)
-dalo (dumalo/daluhan 'attend') 
-hawak (humawak/hawakan 'hold on to') 
-punta (pumunta/puntahan 'go to') 
-tulong (tumulong/tulungan 'help') 
+* dalo (dumalo/daluhan 'attend') 
+* hawak (humawak/hawakan 'hold on to') 
+* punta (pumunta/puntahan 'go to') 
+* tulong (tumulong/tulungan 'help') 
 AF: Dadalo ka ba sa pulong?  'Will you attend the meeting?' 
 DF: Dadaluhan mo ba ang pulong?  'Will you attend the meeting?' 
 
@@ -432,10 +432,10 @@ Hawak also occurs in the -um-/-an object—verb class (cf. §5.3, class E.l). Th
 formations have the meaning 'hold.' 
 
 2. -um-/-in (akyat, pasok, salungat, sunod)
-akyat (umakyat/akyatin 'climb') 
-pasok (pumasok/pasukin 'enter') 
-salungat (sumalungat/salungatin 'oppose') 
-sunod (sumunod/sundin 'follow') 
+* akyat (umakyat/akyatin 'climb') 
+* pasok (pumasok/pasukin 'enter') 
+* salungat (sumalungat/salungatin 'oppose') 
+* sunod (sumunod/sundin 'follow') 
 AF: Umakyat siya sa punong-mangga.  'He climbed the mango tree.' 
 OF: Inakyat niya ang punong-mangga.  'He climbed the mango tree.' 
 
@@ -456,51 +456,52 @@ order).
 A. Mag- classes 
 
 1. mag-/i-/-an (abot, akyat, bigay, pasok)
-abot (mag-abot/iabot/abutan 'hand to') 
-akyat (mag-akyat/iakyat/akyatan 'bring/take up to') 
-bigay (magbigay/ibigay/bigyan 'give to') 
-pasok (magpasol/ipasok/pasukan 'bring/take into') 
+* abot (mag-abot/iabot/abutan 'hand to') 
+* akyat (mag-akyat/iakyat/akyatan 'bring/take up to') 
+* bigay (magbigay/ibigay/bigyan 'give to') 
+* pasok (magpasol/ipasok/pasukan 'bring/take into') 
 AF: Nag-abot siya sa akin ng sulat.  'He handed me a letter.' 
 OF: Iniabot niya sa akin ang sulat.  'He handed me the letter.' 
 DF: Inabutan niya ako ng sulat.  'He handed me a letter.' 
 
 Abot also occurs in the -um/-in object—verb class (cf. §5.3, class E.2a), in formations meaning 
 'reach for.' 
+
 For remarks on the occurrence of akyat, pasok, etc., in the -um/-in directional—verb class, cf. 
 §5.4, class D.2. 
 
 2. mag-/i-/-in (alok, balibag, bato, pukol)
-alok (mag-alok/ialok/alukin 'offer') 
+* alok (mag-alok/ialok/alukin 'offer') 
 balibag(magbalibag/ibalibag/balibagin 'throw at') 
-bato (magbato/ibato/batuhin 'stone with') 
-pukol (magpukol/ipukol/pukulin 'throw at') 
+* bato (magbato/ibato/batuhin 'stone with') 
+* pukol (magpukol/ipukol/pukulin 'throw at') 
 AF: Nag-alok siya sa akin ng kendi.  'He offered me some candy.' 
 OF: Inialok niya sa akin ang kendi.  'He offered me the candy.' 
 DF: Inalok niya ako ng kendi.  'He offered me some candy.' 
 
-3. mag-/i-lpag-... -an (batay, bilin, bintang, sandal)
-batay (magbatay/ibatay/pagbatayan 'base (a decision) on') 
-bilin (magbilin/ibilin/pagbilinan 'entrust with') 
-bintang (magbintang/ibintang/pagbintangan 'accuse of') 
-sandal (magsandal/isandal/pagsandalan 'lean (something) against') 
+3. mag-/i-/pag-an (batay, bilin, bintang, sandal)
+* batay (magbatay/ibatay/pagbatayan 'base (a decision) on') 
+* bilin (magbilin/ibilin/pagbilinan 'entrust with') 
+* bintang (magbintang/ibintang/pagbintangan 'accuse of') 
+* sandal (magsandal/isandal/pagsandalan 'lean (something) against') 
 AF: Nagbatay siya ng kapasyahan niya sa balita.  'He based a decision of his on the news report.' 
 OF: Ibinatay niya ang kapasyahan niya sa balita.  'He based his decision on the news report.' 
 DF: Pinagbatayan niya ng kapasyahan niya ang balita.  'He based a decision of his on the news report.' 
 
 4. mag-/-in/-an (alis, dala, kuskos, tanggal)
-alis (mag-alis/alisin/alisan 'bring/take out of') 
-dala (magdala/dalhin/dalhan 'bring/take to') 
-kuskos (magkuskos/kuskusin/kuskusan 'scrape from') 
-tanggal (magtanggal/tanggalin/tanggalan 'detach from') 
+* alis (mag-alis/alisin/alisan 'bring/take out of') 
+* dala (magdala/dalhin/dalhan 'bring/take to') 
+* kuskos (magkuskos/kuskusin/kuskusan 'scrape from') 
+* tanggal (magtanggal/tanggalin/tanggalan 'detach from') 
 AF: Mag-alis ka ng bigas sa sako.  'Take some rice out of the sack.' 
 OF: Alisin mo ang bigas sa sako.  'Take the rice out of the sack.' 
 DF: Alisan mo ng bigas ang sako.  'Take some rice out of the sack.' 
 
 5. mag-/ipag-/pag-an (bili, kaila, kait, tapat)
-bili (magbili/ipagbili/pagbilhan 'sell to') 
-kaila (magkaila/ipagkaila/pagkailaan 'deny') 
-kait (magkait/ipagkait/pagkaitan 'refuse to give to') 
-tapat (magtapat/ipagtapat/pagtapatan 'confess to') 
+* bili (magbili/ipagbili/pagbilhan 'sell to') 
+* kaila (magkaila/ipagkaila/pagkailaan 'deny') 
+* kait (magkait/ipagkait/pagkaitan 'refuse to give to') 
+* tapat (magtapat/ipagtapat/pagtapatan 'confess to') 
 AF: Nagbili siya sa kanila ng kasangkapan.  'He sold them some furniture.' 
 OF: Ipinagbili niya sa kanila ang kasangkapan.  'He sold them the furniture.' 
 DF: Pinagbilhan niya sila ng kasangkapan.  'He sold them some furniture.' 
@@ -514,14 +515,14 @@ verbs ikaila and ipagkaila have the same meaning.
 B. Mang- class (very few bases) 
 
 1. mang-/ipang-/pang-an (ako)
-ako (mangako/ipangako/pangakuan 'promise') 
+* ako (mangako/ipangako/pangakuan 'promise') 
 AF: Nangakosiyasaakinngtulongniya.  'He promised me (some of) his help.' 
 OF: Ipinangako niya sa akin ang tulong niya.  'He promised me his help.' 
 DF: Pinangakuan niya ako ng tulong niya.  'He promised me (some of) his help.' 
 
 C. -um- classes 
 1. -um-/i-/-an (sulat)
-sulat (sumulat/isulat/sulatan 'write to') 
+* sulat (sumulat/isulat/sulatan 'write to') 
 AF: Sumulat ako sa kaniya ng liham.  'I wrote him a letter.' 
 OF: Isinulat ko sa kaniya ang liham.  'I wrote him the letter.' 
 DF: Sinulatan ko siya ng liham.  'I wrote him a letter.' 
@@ -545,10 +546,10 @@ Isinulat ko ang liham.  'I wrote the letter.'
 Sinulatan ko siya.  'I wrote to him.') 
 
 2. -um-/-in/-an (awit, bili, hingi, hiram)
-awit (umawit/awitin/awitan 'sing to') 
-bili (bumili/bilhin/bilhan 'buy from') 
-hingi (humingi/hingin/hingan 'ask for') 
-hiram (humiram/hiramin/hiraman 'borrow from') 
+* awit (umawit/awitin/awitan 'sing to') 
+* bili (bumili/bilhin/bilhan 'buy from') 
+* hingi (humingi/hingin/hingan 'ask for') 
+* hiram (humiram/hiramin/hiraman 'borrow from') 
 AF: Aawit sila sa inyo ng kundiman.  'They will sing a kundiman to you.' 
 OF: Aawitin nila sa inyo ang kundiman.  'They will sing the kundiman to you.' 
 DF: Aawitan nila kayo ng kundiman.  'They will sing a kundiman to you.' 
@@ -731,7 +732,7 @@ mamula 'blush, redden'; puti 'white,' mamuti 'blanch'; masakit 'painful,' manaki
 
 I. pang-an class (hina, pula, -nginig, sakit) (relatively few bases) 
 hina (panghinaan 'feel a weakness in' A) 
-pula (pamulahan 'have a reddening o f A) 
+pula (pamulahan 'have a reddening of A) 
 -nginig (panginigan 'have a tremor in' A) 
 sakit (panaktan 'have a pain in' A) 
 Pinanghinaan siya ng bisig.  'He felt a weakness in the arm.' 
