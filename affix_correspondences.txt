@@ -1,0 +1,45 @@
+Benefactive-focus (BF) verbs come from um, mag-, mang- actor focus verbs.
+
+"para sa"
+
+AF Affix BF Affix 
+um -> i
+mag -> ipag
+mang -> ipang
+
+CAUSATIVE-FOCUS (CF) verbs form predicates that select as topics nominals expressing the cause 
+of the action. They are derived from transitive and intransitive -um-, ma-, mag- and mang- verbs.
+
+The topic of a CF verb corresponds to a nominal within a "dahil sa" phrase occurring as a causative 
+adverb
+
+AF Affix CF Affix 
+um  ->  i, ika
+ma  ->  ika
+mag  ->  i(ka)pag
+mang  ->  i(ka)pang
+
+(The notations i(ka)pag- and i(ka)pang- indicate free alternation between the forms with and without ka. 
+Thus: ipag- ~ ikapag-, ipang- ~ ikapang-.) 
+
+Of the two CF counterparts of -um-, ika- is the more common. Generally, intransitive -um- verbs of 
+'becoming' (cf. §5.6, class J) have corresponding causative—focus verbs formed with either i- or ika-, the two 
+occurring as free alternants.
+
+A LOCATIVE-FOCUS (LF) verb forms a predicate that selects as topic a nominal expressing the 
+location of the action.
+
+AF Affix LF Affix 
+ma  ->  ka-an, pag-an 
+maka  ->  ka-an 
+um  ->  pag-an 
+mag  ->  pag-an 
+mang  ->  pang-an 
+
+A2F indirect-action verbs select as topics nominals denoting the person(s), etc. permitted or caused to 
+perform the action of the verb. They are derived from certain transitive or intransitive AF direct—action verbs
+
+AF Direct—Action Affix A2F Indirect-Action Affix 
+ma, um  ->  pa-in 
+mag  ->  papag-in 
+mang  ->  papang-in

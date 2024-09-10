@@ -1,0 +1,115 @@
+Optional Non-pre-enclitics 
+(A) The following words: 
+(1) The resemblance-phrase markers gaya, mukha, and para (cf. §4.18): e.g., 
+
+* Gaya ni Pedro siya. / Gaya siya ni Pedro.	'He is like Pedro.' 
+* Parang si Pedro siya. / Para siyang si Pedro.	'He is like Pedro.' 
+* Mukhang Amerikano siya. / Mukha siyang Amerikano.	'He looks like an American.'
+
+(2) The partisanship-phrase marker para (cf. §4.20): e.g., 
+* Para kay Makapagal siya. / Para siya kay Makapagal.	'He is for Makapagal.'
+
+(3) The source-phrase markers buhat and gating (cf. §4.20): e.g., 
+* Buhat/Galing sa Maynila siya. / Buhat/Galing siya sa Maynila.	'He is from Manila.'
+
+(When a phrase introduced by buhat appears in an inverted *adverbial* phrase, however, buhat is always N with
+ respect to enclitic pronouns. Thus: 
+
+* Buhat sa Maynila siya maglalakad.	'He will walk from Manila.' 
+never: *Buhat siya sa Maynila maglalakad. 
+
+This is because, as was noted under I.B.6, non-final components of inverted *adverbial* phrases not linked to
+ what follows them by the linker na/-ng are always N with respect to enclitic pronouns. This same reservation
+ applies in the case of non-final components of modification constructions, dealt with under II.B.l, below.)
+
+(4) The relative-location phrase markers paharap and patalikod (cf. §4.20): e.g., 
+
+* Paharap sa akin siya. / Paharap siya sa akin.	'He is facing me.' 
+* Patalikod sa ilog sila. / Patalikod sila sa ilog.	'They have their backs to the river.'
+
+(Pararap and patalikod are never N with respect to the monosyllabic pronoun ka. Thus: 
+* Paharap ka sa akin.	'You are facing me.' 
+never: *Paharap sa akin ka
+
+(The treatment of paharap and patalikod as P is preferred in other cases, but the treatment 
+of them as N is also possible.) 
+
+(5) The interrogative word bakit 'why' (cf. §7.10): e.g., 
+* Bakit tinanong mo siya? / Bakit mo siya tinanong?	'Why did you ask him?' 
+
+(Other interrogative words are never N. Thus: 
+* Kailan mo siya tinanong?	'When did you ask him?' 
+never: *Kailan tinanong mo siya?) 
+
+(6) The adverbs baka 'maybe' and tila 'it seems': e.g., 
+* Baka aalis siya ngayon. / Bakit siya aalis ngayon.	'Maybe he'll leave today.' 
+* Tila nagustuhan niya ang bahay. / Tila niya nagustuhan ang bahay.	'It seems he liked the house.'
+
+(7) Certain subordinating and coordinating conjunctions (cf. § §6.] 4 through 6.18 and 7.19). 
+About half of these are conjunctions of Spanish origin: e.g., imbis (Spanish en vez) 
+'instead,' (sa) lugar 'instead,' miyentras 'while,' para 'so that,' porke 'because.' 
+Non-Spanish conjunctions belonging to this class are: (at)saka 'and then,' (ka)pag(ka) 
+'if/when,' haba 'while,' matapos 'after,' pagkatapos 'after,' (sa) halip 'instead,' samantala 
+'while,' and tuwi 'every time (that)' Some examples are: 
+* (Ka)pag(ka) naaalaala ko iyon, napapatawa ako. / (Ka)pag(ka) ko naaalaala iyon, napapatawa ako.	'When I remember that, I feel like laughing.'
+* Sa halip na tulungan niya ako lumabas siya. / Sa halip niya akong tulungan lumabas siya.	'Instead of helping me, he went outside.'
+
+(Most conjunctions other than those listed here are obligatorily N — see class I.A.8, above.
+There are, however, at least two conjunctions, bago 'before' and kundi (a contraction of kung hindi) 'if not,'
+that are never N. Thus: 
+* Bago kayo umalis, hugasan mo ang mga pinggan.	'Before you leave, wash the dishes.'
+* Kundi ko siya nakita, nakaalis sana siya.	'If I handn't seen him, he would have left.' 
+never: *Bago umalis kayo...  *Kundi nakita ko siya...
+
+(8) Distributive numerals in the recipient-topic construction (cf. §4.5, subsection (a)), when 
+followed by the linker na/-ng plus a noun representing a unit of measurement: e.g., 
+
+* Tigi-tigisang piraso(ng kendi) sila. / Tigi-tigisa silang piraso(ng kendi).	'They are each to get one piece (of candy).'
+
+(When a distributive numeral in a recipient topic construction is immediately followed by 
+the linker na/-ng plus a noun representing what is to be distributed, it is obligatorily 
+N -cf.I.B.8 , above.) 
+
+(B) Non-final components of structures of the following types: 
+(1) Modification constructions (cf. § §3.11-3.17): e.g., 
+* Bagong baro ko iyon. / Bago kong baro iyon	'That's my new dress.' 
+* Barong binili ko iyon. / Baro kong binili iyon.	
+
+* Bagong barong binili ko iyon.	/ Bagong baro kong binili iyon.	/ Bago kong barong binili iyon.	'That's a new dress that I bought.' 
+
+(The second sentence of the second pair is ambiguous, and may also mean 'That's my new dress that someone
+ bought.' This is because ko may be interpreted in the sentence either as an actor complement or as a possessive
+ modifier. For the same reason, both the second and third sentences of the third set are ambiguous: they may
+ also mean 'That's my new dress that someone bought.') 
+
+* Mahusay na titser siya. / Mahusay siyang titser.	'He's a good teacher.' 
+* Duktor na bantog siya. / Duktor siyang bantog.  "He's a famous doctor.' 
+* Pareng Amerikano siya o Philipino? / Pare siyang Amerikano o Philipino?	'Is he an American priest, or a Filipino (priest)?'
+
+(When, as in the last two pairs of sentences, the initial-component of the modification construction is a noun,
+ there is a preference for treating it as N with respect to enclitic ang pronouns. This is particularly so when,
+ as in the last pair of sentences, the final component of the construction is also a noun.) 
+
+(2) Certain adjective-plus-complement constructions (cf. §4.17): specifically, adjective-plus-{para-sa}-phrase and
+ adjective-plus-sa-phrase constructions: e.g., 
+
+* Bagay (para) sa iyo siya. / Bagay siya (para) sa iyo.	'He is suitable for you.' 
+* Takot sa kulog siya. / Takot siya sa kulog.	 'He is afraid of thunder.' 
+
+(The adjective in such constructions is never N with respect to ka. Thus: 
+
+* Bagay ka (para) sa kaniya.	'You are suitable for him.'
+
+Never: *Bagay (para) sa kaniya ka. 
+The treatment of the adjective as P is preferred in other cases, but the treatment of them as N is also possible.)
+
+(C) One-word adverbs, and both final and non-final components of adverbial phrases, that begin the 
+construction of which the enclitic pronoun is an immediate part, and that are linked to this 
+construction by the linker naj-ng. Thus: 
+* Madalas na naririnig ko îyon. / Madalas kong naririnig îyon. 	'I've often heard that.'
+
+* Lalong hindi siya nakagawa ng trabaho. / Lalo siyang hindi nakagawa ng trabaho.	'He was all the more unable to do any work.' 
+
+* Ganito(ng) kabilis na naglalakad siya sa iskwela. / Ganito(ng) kabilis siyang naglalakad sa iskwela. / Ganito siya(ng) kabilis na naglalakad sa iskwela. 	'He walks to school as fast as this.' 
+
+* Parang batang umiiyak siya. / Parang bata siyang umiiyak. / Para siyang batang umiiyak.	'He is crying like a child.'
