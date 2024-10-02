@@ -228,7 +228,7 @@ asungot	annoying person; irritating person; someone who likes to tag along or fo
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
 at saka	furthermore, and also, as well as
-ata	our, ours
+ata	our, ours; abbrev. of 'yata'
 ataud	coffin, casket
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
@@ -268,6 +268,7 @@ badyahin	to signal, to indicate
 baga	glowing coal, ember
 bagà	lung
 bagá	an emphatic marker
+baga	variant of "ba", "occurs in some regional dialects, but is not found in educated Manila Tagalog"
 bagahe	baggage, luggage
 bagal	slowness
 bagamá't	even though; although; while; though, "bagamán at"
@@ -361,6 +362,7 @@ balimbíng	traitor, turncoat; two faced; a kind of fruit, starfruit; doble kara,
 balintunà	paradox
 balisóng	fan knife, butterfly knife
 balitaan	notify
+balitaktakan	altercation
 bali-balita	scuttlebut
 balo	widow, widower
 balón	a well (water well)
@@ -1549,7 +1551,7 @@ kaluskós	rustling sound; krackle; (sound of) scratching
 kalusúgan	health
 kalutáng	two bamboo sticks used in the tinikling dance; bamboo poles; clapping bamboos
 kamag-anak	relative(s)
-kamakailán	recently
+kamakailán	recently; recent
 kamakalawá	the day before yesterday (dalawa)
 kamalayán	awareness
 kamalian	mistake
@@ -2274,7 +2276,9 @@ magkabait	one's senses
 magkadugo	having the same blood
 magkahalagá	to be valued at (Nagkakahalaga ng sandaang piso ito.)
 magkaiba	different (ref. to two things/people)
+magkáduróg-duróg	to become thoroughly crushed/smashed
 magkáisá	to unite
+magkásirá-sirá	to become thoroughly damaged
 magkaisip	something like "got a clue", grew up mentally/emotionally
 magkakabisa	will take effect, will become effective/valid
 magkakamali	to make a mistake
@@ -2489,6 +2493,7 @@ makíkipag-úsap	will converse with, communicate with (actor/talker focus, typic
 makikipagsapalaran	hazard; risk; take a chance (jointly)
 makíkiraán	please let me pass by
 makilala	to meet
+makina	engine/operating components, eg as of a vehicle
 makinabang	gain, earn, realize, profit, get advantage from (root: kinabang)
 makiníg	to hear, to listen (dinig)
 makinilya	type; typewriter
@@ -3137,7 +3142,7 @@ pa	still, yet, else, more
 pa lang	indicates that something is just about to be done
 pa pala	implies mild surprise that a condition still exists
 paalala	reminder (alala) ("cause memory")
-paalalahánan	to remind
+paalalahánan	to remind (focus on those being reminded)
 paalam	goodbye, farewell
 paalisin	to make someone go, to evict someone
 paamoy	"let me smell.."
@@ -3204,6 +3209,7 @@ pag-asa	(n) hope; trust; dependence; chance; anticipation; romantic hope.
 pag-asa	hope
 pag-asenso	(n) growth; ascension.
 pag-atake	(n) attack.
+pag-awayan	to quarrel about something
 pag-ibig	love
 pag-ingatan	to take care of something
 pag-unawà	(n) understanding, comprehension
@@ -3320,6 +3326,7 @@ pagpapasiyá	a decision or determination
 pagpapayaman	enrichment
 pagpasensyahán	to have patience with someone
 pagpasláng	(n) killing (also pasláng)
+pagpulungan	to have a meeting about something
 pagpupumilit	the act of coercing
 pagsabihan	to say something to someone; to reprimand someone, to scold someone, to correct someone
 pagsama	joining, combining
@@ -3338,6 +3345,7 @@ pagsusuri	research, study, analysis
 pagtákas	escaping (pag-alis nang walang permiso)
 pagtakpán	to cover up; to whitewash (takíp)
 pagtaksilán	to betray or cheat on someone
+pagtaluhan	to argue about something
 pagtanggal	removal
 pagtanggap	a welcoming; reception; acceptance
 pagtantiya	calculation; the act of estimating
@@ -3584,7 +3592,7 @@ papél	paper; role, part (in a play, etc.)
 papuri	praise
 papurihan	to praise, to applaud
 paputók	firecrackers, fireworks ("cause explosion")
-para	for, so that, in order to (syn: upang); like, seems like, appears; to stop
+para	for, so that, in order to (syn: upang); like, seems like, appears; used as a request to stop a vehicle
 paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
 paradahan	a place to park
@@ -3811,7 +3819,7 @@ pusod	navel, bellybutton; hub; deepest part of a body of water
 pusód	hair bun, topknot
 pusón	abdomen
 puspusan	fully, completely, thoroughly
-puspusan	to complete, make complete
+puspusín	to complete, make complete
 puta	used as general curse (fuck, etc.), literally: whore
 putahe	viand; dish; course (part of a meal)
 putang iná	"fuck you", your mother is a whore
@@ -3891,6 +3899,7 @@ sabog	explosion, scattering
 sabón	soap
 sabong	cockfight; cock-fight
 sabungan	cockpit (cockfighting gallery)
+sábunatán	hair-pulling quarrel
 sadlák	falling into shame
 sadyâ	purpose, aim; intended; purposefully, intentionally
 sagabal	hindrance, obstacle
