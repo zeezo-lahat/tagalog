@@ -1,6 +1,12 @@
+(nom)
+(para)
+ (i)
+(ka)
+may be
+may or may not
+normally
 omit
 affix correspondences
- (i)
 plus the linker
 or the linker
 derived from
@@ -58,8 +64,6 @@ deletable
 not exist
 there is no
 is no
-(nom)
-(para)
 ([a-z]*)
 *
 ~

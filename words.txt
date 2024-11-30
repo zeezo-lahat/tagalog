@@ -227,7 +227,9 @@ asúkal	sugar
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
+at nang	so that, in order that
 at saka	furthermore, and also, as well as
+at saka pa	complaining: "kung kailan na X, at saka pa Y!", "oh, now when X happens, Y (inappropriate) happens / will/is to happen" (see trg p.542)
 ata	our, ours; abbrev. of 'yata'
 ataud	coffin, casket
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
@@ -280,7 +282,7 @@ bagbág	broken up (soil or rock); shipwrecked; sympathetic
 bagin	vine
 bagkus	on the contrary, instead, rather, but rather, but instead
 bagoong	a small shrimp
-bágo	new, fresh; before, prior to, previous 
+bágo	new, fresh; before, prior to (cannot be followed by enclytic)
 bágo pa	before, prior to
 bágong-panganák	newborn
 bágong silang	newly born
@@ -424,6 +426,7 @@ baság	cracked, broken, shattered
 basag-ulo	quarrel (“broken head”)
 basagulero	troublemaker
 basahan	rag
+basál	fundamental, abstract
 basehán	basis
 báso	drinking glass
 basta	enough, sufficient, "it is enough"; as a declaration: "just because", "what matters is.."
@@ -642,7 +645,7 @@ bunsód	launch (like a boat), launch an activity; a "boom" in something
 buntís	pregnant
 buntón	a pile, heap, batch, collection
 bunyág	disclosure, revelation
-bunyî	fame, renown, exaltation
+bunyî	fame, renown, exaltation, exulting (syn. dakilà)
 buô	complete, entire, whole; perfect, all
 buong-buo	completely intact
 buong-galang	respectfully
@@ -728,7 +731,7 @@ dampâ	cabin or shabby home; bahay ng mahirap, karaniwang maliit at gawâ sa mar
 dampot	act of picking up with the hand
 dának	spilling (of blood, etc.)
 dánas	experience
-dányos	damages
+dányos	damages (ie, payment for damages done)
 dapâ	to trip, fall over; get down!
 dapat	should, ought to, must
 dapatwa	but, however (an "old word", dapatwa't)
@@ -889,6 +892,7 @@ gastusan	to spend money (ginagastusan, ginastusan, gagastusan)
 gatang	unit of measure for rice/grain
 gatong	firewood, fuel; to feed with fuel, to put into the fire as fuel
 gawâ	to do, to make
+gawa ng	because../due to../given that../as..
 gawâ-gawâ	something that is made up (not real)
 gawad	award, bestowal, grant, prize [syn. gantimpala', premyo]
 gawan	to do for, make for
@@ -1052,6 +1056,7 @@ harana	serenade
 hárang	obstacle
 harangin	to block
 haráp	front
+harina	flour, starch
 harinawá	God willing, hopefully
 harók	snore (also hagók)
 harót	unladylike, coarse, unrefined, boisterous
@@ -1194,7 +1199,7 @@ iakyát	to bring up
 ialay	to offer, to give
 iatas	to assign, to order (ie, have someone do something.)
 iba	other, different, another
-ibaba	to set/put down
+ibabâ	below, beneath; to set/put down
 ibabadya	will be indicated (by)
 ibadya	to declare
 ibahin	to switch or change
@@ -1345,7 +1350,7 @@ isinuko	surrendered someone or something
 isip	mind, intellect, thought, judgment
 isipan	the mind
 isipin	to think about
-isisi	to blame SOMETHING (ang/focus) on someone (sa)
+isisi	to blame <something> (ang/focus) on someone (sa)
 isnabin	to snub someone
 istilo	a style, manner, technique (of doing something)
 isugod	to rush someone/thing, as to the hospital
@@ -1356,7 +1361,7 @@ isumite	to submit
 isuót	to wear; to insert
 itabi	to put or set aside
 itak	machete, bolo knife
-itakda	to assign, settle, restrict
+itakdâ	to set/assign/settle/restrict <something>
 itakíp	to use something to cover; to use something as a cover (takíp)
 itakwíl	to renounce, disown, repudiate, deny something or someone
 itala	list, register, note, record, keep accounts
@@ -1523,7 +1528,7 @@ kalansáy	skeleton
 kalapit	person or place nearby; neighboring, nearby
 kalaro	playmate, play partner
 kalesa	horse drawn carriage; calesa; chariot; cart
-kalas	detached; unstitched; freed from (e.g. betrothal)
+kalás	detached; unstitched; freed from (e.g. betrothal)
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
 kalaw	hornbill (bird)
 kalawakan	space, especially referring to outer space
@@ -1630,6 +1635,7 @@ kapit-tukô	“gripping like a gecko” clinging or holding on very tight
 kapitan	to hold, to grasp
 kapkáp	frisking e.g. of pockets; feeling or groping something not seen
 kapós	insufficient, lacking, inadequate; short in length
+kapote	raincoat
 kapre	savage, inhuman; folklore giant, tree demon
 kapulungan	assembly
 kapusò	a close friend, of one heart; a gma TV fan
@@ -1873,7 +1879,7 @@ kumportable	comfortable
 kundangan	because of; due to the fact that
 kundangan	respect, consideration, veneration, reverence
 kundiman	native song, love song; muslin (textile) with blood-red color
-kundî	except, if not, but, if not for, but also, not only; otherwise, but rather, on the contrary, or else
+kundî	(non-pre-enclytic!) but/except (for), but rather
 kung	if, whether (hypothetical, non-actual/possible condition, though used same as kapág)
 kung ano	whatever, anything that, any that (however?)
 kung bagá	it’s as though…
@@ -2779,7 +2785,7 @@ masuwa	to be butted (as a head-butt, etc.)
 masyado	"too", more, exceedingly, very (labis)
 matá	eye
 mataás	tall, high
-matabâ	fat
+matabâ	fat; enriched (as in soil)
 matabáng	insipid, bland, lacking taste, tasteless, walang lasa
 matabunan	to take in, to absorb
 matagal	long in duration
@@ -3604,7 +3610,7 @@ papél	paper; role, part (in a play, etc.)
 papuri	praise
 papurihan	to praise, to applaud
 paputók	firecrackers, fireworks ("cause explosion")
-para	for, so that, in order to (syn: upang); like, seems like, appears; used as a request to stop a vehicle
+para	for, so that, in order to (syn: upang) (followed by *infinitive* verb form); like, seems like, appears; used as a request to stop a vehicle
 para bang	as if, seemingly
 paraan	method, system; way/manner; please excuse me/let me pass (paraan po)
 parada	parking/stopping of a vehicle; a parade
@@ -3733,6 +3739,7 @@ pinakamagaling	the best, unequalled
 pinakamarami	the most/highest number
 pinakamatanda	oldest
 pinakapiligroso	most dangerous
+pinangyarihan	place where incident occurred
 pinapasok	to allow to enter
 pinapuntá	(ng) sent (ang) somewhere
 pinatakas	allowed to escape
@@ -3914,7 +3921,7 @@ sabog	explosion, scattering
 sabón	soap
 sabong	cockfight; cock-fight
 sabungan	cockpit (cockfighting gallery)
-sábunatán	hair-pulling quarrel
+sábunután	hair-pulling quarrel
 sadlák	falling into shame
 sadyâ	purpose, aim; intended; purposefully, intentionally
 sagabal	hindrance, obstacle
@@ -4357,6 +4364,7 @@ tambál	pair
 tambalan	a pairing
 tambalang-salita	paired words, compound words
 tambáng	ambush
+tambángan	ambush
 tambay	instantly, immediately; consumed, finished; killed instantaneously
 tamis	sweetness; pleasure
 tampó	sulking
@@ -4773,7 +4781,7 @@ yabong	thriving, abundant growth, foliage, plentiful foliage
 yakap	hug, embrace
 yakapin	to hug someone/something; to embrace someone/something; to cuddle something/someone
 yaman	wealth, treasure, riches
-yamang	in as much as, provided.., as long as..; since, whereas
+yaman	in as much as, provided.., as long as..; since, whereas (followed by linker na/-ng).  also "yayaman"
 yamot	stubble
 yamót	irritated, annoyed; boredom, annoyance, irritation, displeasure, impatience, disgust
 yaníg	tremor, shock, shaking
