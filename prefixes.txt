@@ -224,7 +224,7 @@ ka-REPREP	(adj) When preceeded by "waláng", means "absolutely none"
 ka-REPREP-an	adj. highest degree, similar to pinaka(ma)-
 	Kamí ang kauná-unáhan.	We were the very first.
 	Akó ang káhulí-hulíhan sa mgá tumakbó sa páligsahan.	I was the very last of the runners in the race.
-kaCV/kaka-	express something that just happened; present only, no focus (ie, "ng" only)
+kaCV/kaka-	express something that just happened; present only, NO FOCUS (ie, no "ang", eg "katatapos namin")
 kaCV/kaka-	nouns of excessiveness or repeated behavior
 kaka-	denotes action stated in the verb is tediously performed repeatedly or for a long duration of time
 	kaka-aral

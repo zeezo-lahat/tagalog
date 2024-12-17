@@ -9,6 +9,7 @@ import random
 import sys
 import time
 import argparse
+import re
 
 parser = argparse.ArgumentParser(description='Flashcard generator.')
 
@@ -71,13 +72,18 @@ while count < dothismany and linecount <= availablelines:
     print(count, '', end='')
 
     if args.reverse:
+        _clue = t2e[1].strip()
+        _match = re.match(r'(.*]) (.*)', _clue)
+        if _match:
+            _clue = _match[2]
         if args.autosleep:
-            print(t2e[1].strip())
+            print(_clue)
             time.sleep(int(args.autosleep))
             print('\t', t2e[0].strip())
             time.sleep(int(args.autosleep))
         else:
-            print(t2e[1].strip(), end='')
+            #print(t2e[1].strip(), end='')
+            print(_clue, end='')
             input() # this will not work if reading input text from stdin!!!
             print('\t', t2e[0].strip())
         time.sleep(2) 

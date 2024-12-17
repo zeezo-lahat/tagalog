@@ -52,7 +52,6 @@ kublí	(kubli) rt_ [adjective] hidden; covert
 awat	pacification of quarreling people (mang-awat, umawat, awatin)
 bayó	(bayo) rt_ [noun] pounding; [adjective] pounded
 puná	criticism, remark, observation
-hinay	(hinay) rt_ [noun] slowness
 pamamagitan	(gitan) pangpaCV_ [noun] intercession; intervention; in between; by way of; use of; using; by means of; through
 ata	our, ours; abbrev. of 'yata'
 sugod	to dash at, to rush forward
@@ -84,8 +83,8 @@ salungát	(salungat) rt_ [adjective] opposite; contrary; adverse; anti; counter;
 silayan	(silay) _an [verb] to glimpse
 pangá	jaw, mandible, jawbone, jawline
 tambáng	ambush
-suwáy	(suway) opposition to what is commanded; violation of orders or laws; disobedience; defiance; insubordination; noncompliance; contravention;
-dustâ	(dusta) insult; to insult; scorn; disdain; contempt; disrespect;
+suwáy	opposition to what is commanded; violation of orders or laws; disobedience; defiance; insubordination; noncompliance; contravention;
+dustâ	(dusta) [noun/verb] insult; to insult; scorn; disdain; contempt; disrespect;
 bingit	edge, brink
 kanulô	(kanulo) [noun] betrayal
 kalong	held in the lap
@@ -134,7 +133,7 @@ lukót	(lukot) [adjective] wrinkled; crumpled; creased
 sakál	(sakal) rt_ [adjective] strangled; choked
 pigâ	(piga) [noun] squeeze; wring
 balibág	(balibag) [noun] tossing; hurling
-sunggáb	(sunggab) a sudden act of seizing something one desires to take by force; snatch; grab; seize;
+sunggáb	a sudden act of seizing something one desires to take by force; snatch; grab; seize;
 alâ	walâ
 areglo	(areglo) [noun] agreement; arrangement
 itak	machete, bolo knife
@@ -185,7 +184,7 @@ agnás	(agnas) rt_ [noun] erosion; decomposition; melting
 troso	log
 anod	(anod) rt_ [noun] streaming
 anurin	(anod) _in [verb] to be carried away by a current of water
-dampát	(dampat) rt_ the state of being sufficient or adequate; adequacy; sufficiency; enoughness;
+dampát	(dampat) rt_ [noun] the state of being sufficient or adequate; adequacy; sufficiency; enoughness;
 karampatan	(dampat) ka_an [adjective] equitable; appropriate; adequate; proper; suitable; [noun] appropriateness; propriety;
 ungkatín	(ungkat) [verb] to bring something up (mention)
 ungkát	(ungkat) [noun] mentioning or bringing up something that happened
@@ -243,7 +242,6 @@ sakláw	(saklaw) [noun] containment; coverage; scope; extent
 sungay	horn, antler
 lingíd	unbeknownst, covert, clandestine, hidden, not known, secret
 matuón	(tuon) ma_ [verb] to focus
-lagdâ	(lagda) rt_ (noun) signature; court decision
 damputín	(dampot) [verb] to pick up something; to seize something/someone (ex(dampot) by the police)
 mangalap	(kalap) mang_ [verb] to gather
 piling	"select" as in "piling na sasakyan lamang" "select vehicles only"
@@ -256,7 +254,6 @@ ipundár	(pundar) i_ [verb] to establish something; to found something
 paglilimas	(limas) pagCV_ [noun] act of bailing out water from a small boat, pond or pool
 dangkal	span from tip of thumb to tip of middle finger
 lababo	sink, washbasin (hugasan)
-igtíng	(igting) rt_ [noun] tightness; tension
 ágap	quickness, alertness, anticipation; punctual
 agap	(agap) rt_ [noun] quickness; promptness; anticipation; prevention
 kaakibat        associate, associated with
@@ -272,7 +269,6 @@ bungad	front, threshold
 bungad	(bungad) rt_ [noun] began; front; beginning
 tuntóng	(tuntong) rt_ [noun] stepping on; getting in to
 nakabinbín (binbin) naka_ [adjective] postponed
-lisan	(lisan) rt_ [noun] departure; abandonment
 hilera	(hilera) rt_ [noun] row; file; alignment
 munì	(n) thinking logically and with reason
 mistula	(mistula) rt_ [adjective] seemingly
@@ -321,7 +317,7 @@ lunggâ	burrow, hole, mouse hole, cave
 gilas	(gilas) rt_ [noun] elegance; mettle; gallantry; mettle
 sulyáp	(sulyap) rt_ [noun] glance; glimpse; eye glance
 himas	(himas) rt_ [noun] caress; gentle touch; stroke
-bagtas	trail through rough country; intersection
+bagtás	trail through rough country; intersection
 bagtás	(bagtas) [noun] rough trail
 mamukhaán	(mukha) ma_an [verb] to recognize someone; to recognize someone's face
 tapilók	(tapilok) [noun] stumble; falter; lose one's step; rolling one's ankle
@@ -335,10 +331,159 @@ tumpák	Exactly!; proper, accurate, correct (tama?)
 tumpák	(tumpak) [interjection] Exactly!; [adjective] proper; accurate; correct;
 luwáng	(luwang) rt_ [noun] width; breadth
 maliputô	short-bodied person; jackfish; pike
-masikip	tight, congested (as in traffic)
+masikíp	tight, congested (as in traffic)
 masikíp	(sikip) ma_ [adjective] tight; crowded
 luwát	tardiness, delay; a long time
 maligalig	troublesome, tumultuous
 maligalig	(ligalig) ma_ [adjective] troubled; mentally distressed
 malikót	(likot) ma_ [adjective] restless; mischievous
 saklób	concave lid; face-to-face
+bantayog	monument
+iparatíng	(dating) ipa_ [verb] to convey something; to transmit something; to communicate something
+sáloobín	(loob) sa_in [noun] inner thoughts; attitude; disposition; thoughts
+itiklóp	(tiklop) i_ [verb] to fold; to close (a book)
+buklát	(buklat) rt_ [adjective] turned; open; opened
+pakyáw	(pakyaw) rt_ [noun] wholesale; wholesale buying; buying up everything
+lawig	a length of time; a long duration (less commonly used than tagal)
+hinay	(hinay) rt_ [noun] slowness
+punit	(punit) rt_ [noun] tear; rip
+punít	(punit) rt_ [adjective] torn
+sanib	(sanib) rt_ [noun] overlapping; joining
+sibol	(sibol) [noun] sprout; growth; spring
+katarúngan	justice
+kapintasán	(pintas) ka_an [noun] flaw; defect
+lagô	(lago) rt_ [noun] growth
+alab	(alab) rt_ [noun] passion; blaze; ardor; flame; fire; steady fire
+harapán	(harap) _an [noun] front; presence;
+lugód	(lugod) rt_ [noun] enjoyment; pleasure
+kalugúd-lugód (lugod) ka_rt_rt [adjective] delightful
+sakunâ	accident, mishap, calamity
+gumon	(gumon) inclination or addiction to a vice; addiction; dependence; fixation;
+kawal	soldier, follower, troops, pawn (chess)
+pawa	nothing else than, entirely, purely; all
+kathâ	(katha) rt_ [noun] literary composition; creation; fiction
+magwala	to go amuck
+magwalâ	(wala) mag_ [verb] to fly into a rage; to lose it (get angry, go crazy)
+gigil	(gigil) rt_ [noun] gritting of the teeth because of suppressed anger; thrill from inexpressible emotion; overcome with cuteness; cuteness aggression
+gigíl	(gigil) rt_ [adjective] trembling; thrill; thrilling; barely contained emotion; gritting of teeth from emotion; overwhelming emotion; Usually caused by anger, frustration or cuteness.
+tularan	imitate
+tularan	(tulad) _an [verb] to emulate something; to copy something; to imitate something; to do like something
+bumawi	to make up for something
+bumawì	(bawi) _um_ [verb] to recover; to retrieve; to recoup; to recompense; to repay
+patibóng	trap, booby trap
+angkín	(angkin) rt_ [noun] inborn; natural; demand for one's own right; claim
+gulantáng	startled (gulat)
+gulantáng	(gulat) _ [adjective] startled
+lusob	(lusob) rt_ [noun] attack; assault; invasion
+bintáng	(bintang) rt_ [noun] suspicion; charges; imputation; accusation; blame
+kawad	wire, cable
+humaling	(humaling) rt_ [noun] extreme fondness; great liking; obsession; fascination
+sundót	poke, jab
+sundót	(sundot) [noun] jab; prod; poke; [adjective] picked; jabbed; poked
+kagipitan	(gipit) ka_an [noun] dire straits; adversity; emergency
+lustáy	embezzle, also used to refer to general wasteful, excessive spending
+lustáy	(lustay) rt_ [noun] embezzlement
+samo	supplication, appeal, entreaty, earnest request
+samo	(samo) rt_ [noun] supplication; appeal; entreaty; earnest request
+pugnáw	(pugnaw) the act of destroying until something disappears or vanishes, usually by means of fire.; extinguish; annihilate; obliterate; erase;
+tupók	burnt to ashes; nasunog at naging abó; sunóg na sunóg
+lasapín	(lasap) [verb] to savor something; to experience something nice/pleasurable; to enjoy something
+sadyâ	purpose, aim; intended; purposefully, intentionally
+sadyâ	(sadya) rt_ [noun] aim; purpose; errand; mission; act of getting something made-to-order; [adjective] purposely; intentional; special; specially; especially
+adhikâ	aspiration, noble ambition, purpose, vision, ambition, wish, desire
+puksâ	(puksa) rt_ [adjective] exterminated; annihilated
+tupî	(tupi) [noun] hem; fold; pleat; plait
+katigan	(katig) _an [verb] to support something; to vote for something; to endorse something; to approve of something
+magpatalo	(talo) magpa_ [verb] to give in; to admit defeat
+makatao	humanitarian, humane
+makatao	(tao) maka_ [adjective] humane; for humanity
+dagán	(dagan) rt_ [noun] putting weight on something
+ibalabal	(balabal) [verb] to wrap a towel or cloth around something
+putong	crown, head covering, turban
+tanyág	(tanyag) [adjective] celebrated; distinguished; famous; well-known; eminent; illustrious;
+habág	compassion; disconsolate feeling; self-pity
+habág	(habag) rt_ [noun] a deep feeling of sympathy; compassion
+iláng	(ilang) rt_ [noun] desert; wasteland; wilderness; uneasiness [adjective] desolate; uneasy
+lambák	valley
+baku-bakô	rough, uneven, rugged, not level
+habas	prudence, discretion
+pabalagbag	(balagbag) [adverb] cross; crossing
+timbóg	caught, arrested
+kalálabasán	(labas) kaCV_an [noun] outcome; end result
+banatan	to go hard at someone/something
+banatan	(banat) _an [verb] to attack someone; to beat up someone
+imbák	(imbak) rt_ [noun] conservation; storage
+kápakanán	welfare, sake, interests, well-being, affairs
+hambalang	(hambalang) [adjective] fallen across; strewn around
+angas	a show-off, boastful person
+balagtás	direct statement without circumlocution; shortcut; crossing a street/road
+harót	(harot) [adjective] mischievous; flirty; flippant; light-hearted
+dausdós	(dausdos) [noun] slide; sliding down; getting by
+mapatalsík	(talsik) mapa_ [verb] to be ousted; to be dethroned
+perwísyo	damage
+tunggalî	(tunggali) rt_ [noun] conflict; argument
+aninag	(aninag) rt_ [adjective] visible; translucent; transparent;
+gusót	(gusot) rt_ [adjective] wrinkled; wrinkly; tangled; crumpled; [noun] trouble; entanglement; problem;
+maaninag	(aninag) ma_ [verb] to be able to see something; to be able to make out something; to see something hazily
+ngatál	(ngatal) rt_ [noun] shivering; shivers from fear or being cold
+atupag	chore, thing to do, task, occupation
+mapalâ	(pala) ma_ [verb] to be gained; to profit
+nakakahawa	(hawa) nakaka_ [adjective] contagious; infectious
+pumalág	(palag) _um_ [verb] to squirm; to react or fight back after being hurt or attacked
+sabát	(sabat) rt_ [noun] butting into the talk of others; unexpected answer; interruption
+pakipot	(kipot) pa_ [adverb] pretending to be uninterested or not caring
+hagilap	(hagilap) [noun] trying to get hold of; trying to grasp at
+gipít	(gipit) rt_ [adjective] desperate; scarce; pressed; pressured
+galugad	(galugad) [noun] scouring for something
+kapítbahayan	(bahay) cmp_an [noun] neighborhood; subdivision (of houses);
+ngisi	(ngisi) rt_ [noun] grin; snicker; giggle; snigger; smirk
+humimig	(himig) _um_ [verb] to sing a tune; to croon
+libot	(libot) rt_ [noun] environment; surroundings
+tapík	(tapik) [noun] pat; tap
+magoyò	(goyo) ma_ [verb] to be swindled; to be scammed
+taguyod	(taguyod) rt_ [noun] support (tangkilik)
+tangkilik	(tangkilik) rt_ [noun] patronage; support; backing; help; auspices (tagúyod)
+sugpô	(sugpo) rt_ [noun] suppression; prawn
+naglipanà	(lipana) nag_ [adjective] widespread
+makailán	several times, several
+makailán	(ilan) maka_ [adverb] several times; several; [interjection] How many times?
+pagnanasà	yearning, desire
+pamantásan	university
+pakyáw	(pakyaw) rt_ [noun] wholesale; wholesale buying; buying up everything
+buhong	(buhong) [noun] villain; wicked person
+banás	(banas) 1.) rt_ [noun] humidity; 2.) [adjective] annoyed
+puwera	not included, except, excepted
+kudâ	chatter; blabber
+kamkám	(kamkam) rt_ [noun] the forceful act of treating something as one's own possession or property.; seize; grab; usurp; appropriate; confiscate;
+pitágan	deference
+kundángan	because of; due to the fact that; respect, consideration, veneration, reverence (kung + dangan)
+pitágan	deference
+makalap	(kalap) ma_ [verb] to be able to recruit; to be able to gather information or data
+mailáng	(ilang) ma_ [verb] to feel weird; to feel awkward; to feel uncomfortable; to feel out of place
+lirip	(lirip) rt_ [noun] meditation (to know the truth or worth of a thing or event)
+di-malirip	cannot be understood
+kamalig	storehouse, warehouse; barn, granary
+tayútay	figure of speech
+salik	component, part, constituent, ingredient; cause, motive, factor
+matamó	(tamo) ma_ [verb] to attain something (OF); to reap something (OF); to receive something (OF)
+talastasan	(talastas) _an [noun] communication
+ipot	droppings of fowls and small animals
+balangkas	framework, plan
+lagom	(lagom) rt_ [noun] the act of encompassing all things; the consolidation of everything into one; consolidation; amalgamation; unification; convergence;
+peryahan	(perya) _an [noun] fair; exhibition; carnival
+lubák	pothole, hollow in the ground
+mauntóg	(untog) ma_ [verb] to accidentally bump one's head
+lagabláb	flame
+nakapaloób	(loob) nakapa_ [adjective] contained
+batíd	(batid) rt_ [adjective] known; aware of; realize; conscious of; cognizant
+tadhanà	(tadhana) rt_ [noun] destiny; fate
+piglás	(piglas) rt_ [noun] struggle to get free
+itakwíl	to renounce, disown, repudiate, deny something or someone
+hikayat	persuasion, encouragement toward a particular action
+hikayat	(hikayat) rt_ [noun] persuasion
+pasubalì	(subali) pa_ [noun] dissent; objection; dissenting opinion or thought
+pangkát	(pangkat) rt_ [noun] group; section; division; band; chapter; article; faction; gang; segment; clique; cohort; team
+kalong	held in the lap
+kalong	(kalong) [adjective] held in the lap
+balisóng	fan knife, butterfly knife
+magâ	(maga) rt_ [adjective] swollen; inflamed; bloated; infected; abscessed

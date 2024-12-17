@@ -1,7 +1,7 @@
 (nom)
 (para)
  (i)
-(ka)
+i(ka)
 may be
 may or may not
 normally

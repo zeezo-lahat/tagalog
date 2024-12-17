@@ -149,13 +149,13 @@ Profession of Faith / Creed
 
 Priest: Let us stand and profess our faith ...
 
-Sumasampalataya ako sa iisang Diyos, Amang makapangyayari sa lahat,
+Sumasampalataya ako sa iisang Diyos, Amang makapangyayari/makapangyarihan sa lahat,
 We believe in one God, the Father, the Almighty, 
 
 na may gawa ng langit at lupa, ng lahat ng nakikita at di nakikita.
 maker of heaven and earth, of all that is seen and unseen.
 
-At sa iisang Panginoong Hesukristo Bugtóng na Anak ng Diyos. 
+At sa iisang Panginoong Hesukristo Bugtóng na Anak ng Diyos.
 We believe in one Lord, Jesus Christ, the only Son of God,
 
 Nagmumula sa Ama bago pa nagsimula ang panahon.
@@ -170,17 +170,25 @@ begotten, not made, one in Being with the Father.  Through Him all things were m
 Na dahil sa ating mga tao at sa ating kaligtasan ay nanaog buhat sa langit.
 For us men and for our salvation He came down from heaven:
 
-Nagkatawang-tao Siya laláng ng Espiritu Santo kay Mariang Birhen at naging tao.
-by the power of the Holy Spirit He was born of the Virgin Mary and became man.
+Nagkatawang-tao Siya laláng ng Espiritu Santo
+By the power of the Holy Spirit 
 
+kay Mariang Birhen at naging tao. / ipinanganak ni Santa Mariang Birhen.
+he was born of the Virgin Mary and became man.
+
+Pinagpakasakit ni Poncio Pilato, ipinako sa krus, namatay, inilibIng. /
 Ipinako sa krus dahil sa atin, nagpakasakit sa ilalim ng kapangyarihan ni Poncio Pilato, namatay at inilibíng.
 For our sake He was crucified under Pontius Pilate; He suffered, died, and was buried.
+
+Nanaog sa kinaroroonan ng mga yumao.  Nang may ikatlang araw, nabuhay na mag-uli.
 
 At muling nabuhay sa ikatlong araw, ayon sa Kasulatan.
 On the third day He rose again in fulfillment of the Scriptures;
 
 Umakyat sa langit: naluluklók sa kanan ng Ama.
 He ascended into heaven and is seated at the right hand of the Father.
+
+Doon magmumulang paririto't maghuhukom sa mga nangabubuhay at nangamatay na tao.
 
 At pariritong muli puspos ng kaluwalhatian upang hukuman ang mga buhay at mga patay: 
 He will come again in glory to judge the living and the dead, 
@@ -205,6 +213,8 @@ We look for the resurrection of the dead, and the life of the world to come. Ame
 
 Panalangin ng Bayan
 Prayers of the Faithful
+
+Panginoon, dinggin mo kami.
 
 Liturhiya ng Eukaristiy
 Liturgy of the Eucharist 
@@ -301,24 +311,34 @@ Communion Rite
 Our Father / Pater Noster 
 Sa tagubílin ng mgá nakagagalíng na utos at turò ng mabathálang aral, buong pag-ibig nating dasalín:
 Priest: Let us pray ... words our Savior gave us. 
+
 Amá namin, sumásalangit ka,
 Our Father, who art in heaven,
+
 sambahin ang ngalan mo,
 hallowed be Thy name;
+
 mápasá amin ang kaharian mo.
 Thy kingdom come;
+
 Sundín ang loob mo dito
 Thy will be done
+
 sa lupà para nang sa langit.
 on earth as it is in heaven.
+
 Bigyan mo kami ngayon ng aming kakanin sa araw-araw.
 Give us this day our daily bread;
+
 At patawarin mo kami sa aming mga sala.
 and forgive us our trespasses,
+
 Para nang pagpapatáwad namin sa nagkakasala sa amin.
 as we forgive those who trespass against us;
+
 At huwag mo kamíng ipahintúlot sa tuksó.
 and lead us not into temptation,
+
 At iadyâ mo kami sa lahat ng masamâ.
 but deliver us from evil. 
 
@@ -358,6 +378,10 @@ The priest or deacon may say,
 
 
 Priest or Deacon: Let us offer each other the sign of peace.
+Magbigayan po tayo ng kapayapaan sa bawat isa.
+
+Kapayapaan po sa inyong lahat.
+
 Kordéro ng Diyos
 Lamb of God / Agnus Dei
 
@@ -375,16 +399,27 @@ Naritó ang Kordéro ng Diyos, naritó siyang nag-áalís ng mga kasalánan ng s
 Priest: This is the Lamb of God ... are called to his supper. 
 
 Panginoón, hindî akó karapát-dapat na mágpatulóy sa iyó, nguni't sa isáng salitâ mo lamang ay gágalíng na akó.
-All: Lord, I am not worthy ... I shall be healed. 
+Lord, I am not worthy to enter under your roof, but only say the word and my soul shall be healed.
 
 Katawán ni Kristo.
 Priest: The body of Christ.
+
+Panalangin sa Espiritual na Komunyon:
+Panginoong Hesus, ako ay naniniwala na ikaw ay nasa Kabanal-banalang Sakramento.
+Iniibig kita nang higit sa lahat, at ninanasa kong tanggapin ka sa aking kaluluwa,
+sapagkat sa mga sandaling ito hindi kita matatangap sa sakramento, tumuloy ka sa
+espiritu sa aking puso.
+Niyayakap kita na para bagang naririto ka na at iniaalay ko nang buong-buo ang
+aking sarili sa Iyo.
+Huwag mong hayaang mawalay ako sa Iyo.
+Amen.
 
 Amén.
 Communicant: Amen.
 Panalangin pagkatapos ng Komunyon
 Prayer After Communion 
 
+Manalangin tayo
 Priest: Let us pray. Lord, ....
 
 Amén.
@@ -398,15 +433,16 @@ Priest: The Lord be with you.
 At sumaiyó rin.
 People: And also with you.
 
+At kayo ay basbasán ng Diyos, makapangyarihan sa lahat sa ngalan ng Ama, ng Anak, ng
+ Espirito Santo. /
 Pagpaláin kayó ng makapángyaríhan Diyos, + Amá, Anák at Espíritu Santo.
-Priest: May almighty God bless you,
-the Father,
-and the Son,
-and the Holy Spirit.
+Priest: May almighty God bless you, the Father, and the Son, and the Holy Spirit.
+
 Amén.
 People: Amen. 
 
-Tapós na ang Misa, humáyo kayóng mapayápà.
+Tapós na ang Misa, humáyo kayóng mapayápà. / 
+Ang ating Misa ay natapos na.  Humáyo kayó sa kapayapáan ni Kristo.
 Priest: The Mass is ended. Go in peace.
 
 Salámat sa Diyos.

@@ -343,7 +343,7 @@ Aling batang lalaki ang nasa loob?	Which boy is inside?
 Aling batang lalaki ang tumatakbo nang pinakamabilis?	Which boy is running the fastest?
 Aling bulaklak ang hindi tunay?	Which flower is not real?
 Aling bulaklak ang tunay?	Which flower is real?
-Aling bus ang papunta sa Davao?	Which bus goes to Davao?
+Aling bus ang papuntá sa Davao?	Which bus goes to Davao?
 Aling cake ang gusto mo?	Which cake do you like?
 Aling flight ang sasakyan mo?	Which flight will you ride?
 Aling flight?	Which flight?
@@ -1092,7 +1092,7 @@ Ano ang pangalan nila?	What are their names?
 Ano ang pangalan nito?	What is the name of this?
 Ano ang pangalan niya?	What is his/her name?
 Ano ang petsa ngayon?	What is date today?
-Ano ang sasakyan ko papuntang Pasig?	What will I take going to Pasig?
+Ano ang sasakyán ko papuntáng Pasig?	What will I take going to Pasig?
 Ano ang sinabi mo?	What did you say.
 Ano ang sinabi niya?	What did he/she say?
 Ano ang suot ng mga babae?	What are the women wearing?
@@ -1285,7 +1285,7 @@ Anong oras na ngayon?	What time is it now?
 Anong oras na po?	What time is it? (formal)
 Anong oras na?	What time is it?
 Anong oras po ako dapat mag-check in sa airport?	What time must I check-in at the airport?
-Anong oras po ang alis ng eroplano papuntang Maynila?	What time does the plane leave for Manila?
+Anong oras po ang alis ng eroplano papuntáng Maynila?	What time does the plane leave for Manila?
 Anong oras po dumarating ang mga sulat?	What time does the mail arrive?
 Anong oras po kayo darating?	What time are you arriving?
 Anong oras po mag-uumpisa?	What time is it going to start?
@@ -1472,8 +1472,8 @@ at may maraming gasolina ang kotse.	And there's a lot of gasoline in the car.
 at mayroon akong apat na dolyar.	and I have four dollars.
 At mayroon akong pera sa iyo.	And I have money for you.
 At paano kung hindi payong iyan?	And what if it isn't an umbrella?
-At papuntahan ko si Rodney.	And I'm going to visit Rodney.
-At papuntahan ko siya.	I'm going to visit him.
+At papuntahán ko si Rodney.	And I'm going to visit Rodney.
+At papuntahán ko siya.	I'm going to visit him.
 At pumunta rin kami sa Tagaytay.	And we also went to Tagaytay.
 at sa dolyar, magkano?	and in dollars, how much?
 at sa dolyar?	and in dollars?
@@ -2141,7 +2141,7 @@ Buhay pa.	Still alive.
 buhay Pilipino	the Filipino life
 buhay sa Amerika	life in America
 buhay sa Pilipinas	life in the Philippines
-BÃºkas	Tomorrow
+Bukas	Tomorrow
 Bukas ang bibig ng batang babae.	The girl's mouth is open.
 Bukas ang bibig ng lalaki at mulat ang kaniyang mga mata.	The man's mouth is open and his eyes are open.
 Bukas ang bintana.	The window is open.
@@ -2162,7 +2162,7 @@ Bukas ay pasko.	Tomorrow is christmas.
 Bukas ba ang groseri?	Is the grocery store open?
 Bukas ba ang restawran?	Is the restaurant open?
 Bukas ba ng gabi?	Isn't it tomorrow night?
-BÃºkas makalawa	Day after tomorrow
+Bukas makalawa	Day after tomorrow
 Bukas na ba ang mga tindahan?	Are the stores already open.
 Bukas na lang ng gabi.	Let it be tomorrow night.
 Bukas na sila.	They are already open.
@@ -2178,29 +2178,29 @@ Bukas, sarado ang mga bar.	Tomorrow, the bars are close.
 Bukas.	Tomorrow.
 Bukas?	Tomorrow?
 Buksan mo ang regalo ko.	Open my gift.
-Bulok ang mga iyan.	Those are rotten.
-Bulok ang mga kamatis.	The tomatoes are rotten.
-Bulok ang orange.	The orange is rotten.
-Bulok ang saging.	The banana is rotten.
-Bulok iyan.	That is rotten.
-Bulok na ang mansanas.	The apple is already rotten.
-Bulok na ito.	This is rotten already.
-Bumaba ka ng bus at maglakad ka papunta sa ikatlo kalye.	Get off the bus, and walk to the second street.
-Bumaba na ba ang araw diyan?	Has the sun gone down yet there?
-Bumaba na ng hagdan ang mga tao.	The people have come down the steps.
-Bumaba na ng hagdan si Grace.	Grace came down the steps.
-Bumababa ang iilang mga tao, pero umaakyat ang marami.	Only a few people are coming down, but many are going up.
-Bumababa ang karamihan ng mga tao, ngunit umaakyat ang iilan.	Many people are coming down, but only a few are going up.
-Bumababa ang karamihan ng mga tao.	Most of the people are coming down.
-Bumababa ang mga tao sa eroplano.	The people are getting off the airplane.
-Bumababa ng hagdan ang mga tao.	The people are coming down the steps.
-Bumababa ng hagdan si Grace.	Grace is coming down the steps.
-Bumababa ng hagdanan ang babae.	The woman is coming down the stairs.
-Bumababa sila ng bus sa paradahan ng bus.	They are getting off the bus at the bus stop.
-Bumababa sila ng train.	They're getting off the train.
-Bumababa siya ng bus sa istasyon ng bus.	He's getting off the bus at the bus station.
-Bumababa siya ng bus.	He's getting off the bus.
-Bumababa siya ng subway.	She's getting off the bus.
+Bulók ang mga iyan.	Those are rotten.
+Bulók ang mga kamatis.	The tomatoes are rotten.
+Bulók ang orange.	The orange is rotten.
+Bulók ang saging.	The banana is rotten.
+Bulók iyan.	That is rotten.
+Bulók na ang mansanas.	The apple is already rotten.
+Bulók na ito.	This is rotten already.
+Bumabâ ka ng bus at maglakád ka papuntá sa ikatlo kalye.	Get off the bus, and walk to the third street.
+Bumabâ na ba ang araw diyan?	Has the sun gone down yet there?
+Bumabâ na ng hagdan ang mga tao.	The people have come down the steps.
+Bumabâ na ng hagdan si Grace.	Grace came down the steps.
+Bumababâ ang iilang mga tao, pero umaakyat ang marami.	Only a few people are coming down, but many are going up.
+Bumababâ ang karamihan ng mga tao, ngunit umaakyat ang iilan.	Many people are coming down, but only a few are going up.
+Bumababâ ang karamihan ng mga tao.	Most of the people are coming down.
+Bumababâ ang mga tao sa eroplano.	The people are getting off the airplane.
+Bumababâ ng hagdan ang mga tao.	The people are coming down the steps.
+Bumababâ ng hagdan si Grace.	Grace is coming down the steps.
+Bumababâ ng hagdanan ang babae.	The woman is coming down the stairs.
+Bumababâ sila ng bus sa paradahan ng bus.	They are getting off the bus at the bus stop.
+Bumababâ sila ng train.	They're getting off the train.
+Bumababâ siya ng bus sa istasyon ng bus.	He's getting off the bus at the bus station.
+Bumababâ siya ng bus.	He's getting off the bus.
+Bumababâ siya ng subway.	She's getting off the bus.
 Bumabahing ang batang babae.	The girl is sneezing.
 Bumabahing ang lalaki.	The man is sneezing.
 Bumabalik ang babae sa bahay para kunin ang kaniyang bag.	She is returning to the house to get her purse.
@@ -2429,7 +2429,7 @@ dalawampu't tatlong kabayo	twenty-three horses
 Dalawampu't tatlong taon na silang kasal.	They have been married for twenty-three years.
 Dalawampung araw na ang asong ito.	This dog is twenty days old.
 dalawampung daliri	twenty fingers
-Dalawampung kilometro ang papuntang airport.	It's twenty kilometers to the airport.
+Dalawampung kilometro ang papuntáng airport.	It's twenty kilometers to the airport.
 dalawampung libro	twenty books
 dalawampung mangkok	twenty cups
 Dalawampung metro ang lapad nito.	It's twenty meters wide.
@@ -2628,7 +2628,7 @@ Dito ako sa Manila nakatira.	I live here in Manila.
 Dito ang Katipunan Avenue.	Here is Katipunan Avenue.
 Dito ang Liwayway Avenue.	Liwayway Avenue is here.
 Dito ang restawran.	The restaurant is here.
-Dito ba ang daan papuntang simbahan?	Is this the way to the church?
+Dito ba ang daan papuntáng simbahan?	Is this the way to the church?
 Dito ba ang opisina ni Mr. Jose?	Is this the office of Mr. Jose?
 Dito ba ito?	Is it here?
 Dito ba kayo nakatira?	Do you live here? (formal)
@@ -3030,7 +3030,7 @@ Gusto kong maglaro ng golf.	I want to play golf.
 Gusto kong magluto.	I like to cook.
 Gusto kong magreserba ng kuwarto mula Mayo 18 hanggang Mayo 28.	I want to reserve a room from May 18 until May 28.
 Gusto kong magreserba ng kuwarto.	I want to reserve a room.
-Gusto kong magreserba ng upuan papuntang Cebu.	I'd like to reserve a seat going to Cebu.
+Gusto kong magreserba ng upuan papuntáng Cebu.	I'd like to reserve a seat going to Cebu.
 Gusto kong mag-shopping.	I want to go shopping.
 Gusto kong mag-tagal dito.	I want to stay here.
 Gusto kong mag-tagal.	I want to stay.
@@ -3859,7 +3859,7 @@ Ito ang mga kaibigan ko.	These are my friends.
 Ito ang mga kapatid kong babae.	These are my sisters.
 Ito ang nanay ko.	This is my mother.
 Ito ang tatay ko.	This is my father.
-Ito ba ang papunta ng Manila?	Is this the way to Manila?
+Ito ba ang papuntá ng Manila?	Is this the way to Manila?
 Ito po ang mga kaibigan ko.	These are my friendsÂ (formal)
 Ito po si Alan, asawa ko.	This is Alan, my husband/spouse.
 Ito po si Carla.	This is Carla.Â (formal)
@@ -3880,7 +3880,7 @@ Kaibigan kita.	You are my friend.
 Kaibigan lang.	Just friends
 Kaibigan po ninyo ang tatay ko.	My father is a friend of yours. (formal)
 Kailan (po) ba siya babalik?	When will he/she return?
-Kailan aalis ang bus papuntang Manila?	When does the bus leave going to Manila?
+Kailan aalis ang bus papuntáng Manila?	When does the bus leave going to Manila?
 Kailan aalis ang bus para sa Maynila?	When will the bus leave for Manila?
 Kailan aalis ang tren para sa Baguio?	When will the train leave for Baguio?
 Kailan aalis ang van para sa Bulacan?	When will the van leave for Bulacan?
@@ -4176,13 +4176,13 @@ Magkano ang isang kilong manok?	How much is a kilo of chicken?
 Magkano ang isang tiket na deretso sa Baguio?	How much is a tiket direct to Baguio?
 Magkano ang pamasahe sa Manila?	How much is the fare to Manila?
 Magkano ang pera mo?	How much money do you have?
-Magkano ang taksi papuntang hotel?	How much is the taxi fare going to the hotel?
+Magkano ang taksi papuntáng hotel?	How much is the taxi fare going to the hotel?
 Magkano ba ang gasolina?	How much is the gasoline?
 Magkano dito? Magkano ito?	How much here?/How much is this?
 Magkano ho ang bir?	How much is a beer?
 Magkano ho ang isda?	How much is the fish?
 Magkano ho ang pamasahe?	How much is the fare?
-Magkano ho papuntang sa US Embasi?	How much does it cost to go to the US Embassy?
+Magkano ho papuntáng sa US Embasi?	How much does it cost to go to the US Embassy?
 Magkano ito?	How much is this?
 Magkano iyan?	How much is it?
 Magkano lahat ang aming kinain?	How much is everything (that we ate)?
@@ -4383,7 +4383,7 @@ Matatakot ako.	I would be afraid.
 Matatakot siya.	He/she will be afraid.
 Matigas ang ulo.	Hard-headed (stubborn)
 Matindi ito.	This is intense.
-Ma-traffic ba papunta sa Manila Hotel?	Is the traffic heavy going to the Manila Hotel?
+Ma-traffic ba papuntá sa Manila Hotel?	Is the traffic heavy going to the Manila Hotel?
 Matulog ka na!	Go to sleep!
 Matulog ka na.	Go to sleep already
 matuwa	excited
@@ -4633,7 +4633,7 @@ Nasaan ang aso namin?	Where is our dog?
 Nasaan ang bahay nila?	Where is their house?
 Nasaan ang botika?	Where is a pharmacy?
 Nasaan ang comfort room dito?	Where is the toilet here?
-Nasaan ang daan papuntang Manila?	Where is the road Manila?
+Nasaan ang daan papuntáng Manila?	Where is the road Manila?
 Nasaan ang damit ko?	Where are my clothes?
 Nasaan ang damit mo?	Where are your clothes?
 Nasaan ang damit ng anak ko?	Where are the clothes of my child?
@@ -4858,7 +4858,7 @@ Rodney, ito si Cory.	Rodyney, this is Cory.
 Rodney, parito po kayo at pakitingnan ito.	Rodney, come and look at this, please.
 Sa akala ko, ikaw ay matalino.	To my thinking, you are intelligent.
 Sa Araw ng Pasko.	On Christmas Day
-Sa EDSA na tayo dumaan papuntang Quezon City.	Let's take EDSA route going to Quezon City
+Sa EDSA na tayo dumaan papuntáng Quezon City.	Let's take EDSA route going to Quezon City
 sa ilang tindahan.	In several stores.
 Sa inyo na po ang sukli.	Keep the change.
 Sa kaliwa mo, makikita mo ang istasyon ng bus.	On your left, you'll see the bus station.
@@ -4878,12 +4878,12 @@ Sa puso mo.	In your heart
 Sa tingin ko ikaw ay nagsisinungaling.	I think you are a liar.
 Sa wakas.	At last.
 SaÂ restawran.	At the restaurant.
-Saan ako kukuha ng bus papuntang sa Maynila?	Where do I get the bus going to Manila?
+Saan ako kukuha ng bus papuntáng sa Maynila?	Where do I get the bus going to Manila?
 Saan ako makakakuha ng bir?	Where can I get beer?
 Saan ang banyo?	Where is the bathroom?
 Saan ang CR?	Where is the bathroom? (comfort room)
 Saan ang lakad mo?	Where are you going? (walking to)
-Saan ang papuntang Manila?	Where is the way to Manila?
+Saan ang papuntáng Manila?	Where is the way to Manila?
 Saan ang pinaka-malapit na tindahan?	Where is the nearest store located?
 Saan ang tamang daan?	Where is the correct road?
 Saan ba ang pinakamagandang mall dito?	Where is the best mall here?
