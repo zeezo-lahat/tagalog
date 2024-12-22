@@ -225,6 +225,7 @@ asim	sourness
 asín	salt
 asúkal	sugar
 asungot	annoying person; irritating person; someone who likes to tag along or follow around someone else
+asunto	a court case
 asupre	sulfur, sulphur, brimstone
 aswáng	a mythical ghostly spirit (alt. asuáng, asuwáng), aka tik-tik or wak-wak in some parts of the Philippines
 at	and; and what's more...; as/because (as an explanation of something, eg. "as it might rain")
@@ -531,6 +532,7 @@ binibini	polite title for unmarried women (outdated)
 binigkas	pronounced
 binilang	to count
 binti	leg, especially the calf part
+binubong	a hook-shaped coconut fruit picker attached to the end of joined bamboo poles
 binubuo	composing/comprising (buuin)
 binyág	baptism
 birador	hitman(?)
@@ -765,6 +767,7 @@ dédmahín	to ignore someone, to brush someone off
 dekada	decade
 dekano	dean
 delikado	dangerous, risky; fastidious, delicate; crucial, critical; arduous
+desintunado	out of tune; off key (also "sintonado")
 despachadora	a saleslady
 detálye	detail
 dí-gaya	unlike
@@ -1445,6 +1448,7 @@ kabutíhan	goodness
 kabuuán	composition, entirety
 kadalásan	frequently, usually
 kadangya	a person who is well off or has more than others
+kadaupang-palad	"one with whom another presses palms".  being together
 kadena	a chain
 kadiwa	fellow of the same spirit or thinking
 kadugo	a blood relative
@@ -2317,7 +2321,7 @@ magíting	heroic (gíting)
 magkabait	one's senses
 magkadugo	having the same blood
 magkahalagá	to be valued at (Nagkakahalaga ng sandaang piso ito.)
-magkaiba	different (ref. to two things/people)
+magkaibá	to differ or be different from each other (ref. to two things/people "Paano sila nagkakaibá?)
 magkáduróg-duróg	to become thoroughly crushed/smashed
 magkáisá	to unite
 magkásirá-sirá	to become thoroughly damaged
@@ -2436,6 +2440,7 @@ magtawíd	to carry across
 magtipon	to collect, to gather together, to store away.
 magtuksuhan	to tease one another
 magtulóy	to proceed, go ahead
+magtulong-tulong	to "pitch in"
 magtulungán	to help each other, to join forces
 magtungo	to head toward, to head somewhere
 magturing	to consider, regard, think of
@@ -3770,6 +3775,7 @@ pilapil	a dike, embankment
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
 piliin	to choose
+piliin sa	"choose from"
 pilipit	wring, squeeze, twist; twisty, awry, contorted
 pílit	forcing, coercing
 pinag-aralan	have been educated; education (walang pinag-aralan -> without education)
@@ -4181,6 +4187,7 @@ sino man	whoever
 sinsín	density of growth; closeness of weaving
 sinta	an old-fashioned word for 'love/dear' as in 'my love/dear'
 sintabì	"Excuse me, passing through"; salitâng-ugat ng pasintabi at nagsasaad ng paggálang, lalo na kung humihingi ng pahintulot
+sintunado	out of tune, off key
 sinturón	a belt
 sínu-sino	who (plural) also "sinu-sino"
 sinulid	thread
@@ -4406,11 +4413,12 @@ talipapang gala	a traveling wet market
 taliwás	deviating from a rule or pattern, contrary to, opposite
 talo	defeated, losing
 talón	jump
-talong	eggplant
+talóng	eggplant
 talukap	eyelid
 talumpati	speech, oration, address
 talunan	underdog; beaten, defeated (talo)
 talunin	beat, defeat (talo)
+talyér	repair shop
 tamà	right, correct; exact, accurate, precise; fitting, proper
 tamaan	to hit a target
 tamád	lazy, indolent
@@ -4776,7 +4784,7 @@ uod	maggot, caterpillar (also uhod)
 upa	rent (a house)
 upang	so that, for, in order to (formal. "para" is used in informal conversation.)
 upós	cigarette stub or butt; consumed, down to the butt (as candles, cigarettes, cigars); submerged
-uri	kind, class, sort, species, type
+urì	kind, class, sort, species, type (or *example* thereof!, eg "ang parrot ay isang uri ng ibon")
 uri-uri	of all kinds
 urong	retreat, backward movement
 urong-sulong	“going backward, going forward” = indecisive, hesitation

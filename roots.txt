@@ -2055,7 +2055,9 @@ dumakíp (dakip) _um_ [verb] to catch; to apprehend; to capture; to arrest
 madakíp (dakip) ma_ [verb] to be able to catch; to be captured, caught or arrested
 pagkakadakíp (dakip) pagkaka_ [noun] arrest; capture
 dako (dako) rt_ [noun] direction; part; region; spot; around; around (+time)
-dumako (dako) _um_ [verb] to move on; to arrive at
+dumako (dako) _um_ [verb] to move on; to arrive at; to land (arrive/be placed)
+idako (dako) i_ [verb] to turn something (usually, one's eyes)
+magdako (dako) mag_ [verb] to turn or direct, e.g., one's eyes, attention, etc., to something
 dakutín (dakot) _in [verb] to grab something
 dakól (dakot) _ a large handful of food; heaping handful; large grasp; generous portion;
 dakót (dakot) rt_ [noun] handful
@@ -9308,7 +9310,7 @@ makipag-ugnayan (ugnay) makipag_an [verb] to associate with; to coordinate
 pag-ugnayín (ugnay) pag_in [verb] to relate; to attach
 pagkakaugnáy (ugnay) pagkaka_ [noun] association; relationship
 pakíkipag-ugnayan (ugnay) pakikipag_an [noun] communication; coordination
-pang-ugnáy (ugnay) grammar_ [grammar] conjunction
+pang-ugnáy (ugnay) pang_ [grammar] conjunction
 ugnayan (ugnay) _an [noun] contact; correlation; relationship
 ugnáy (ugnay) rt_ [noun] relation; association; relevance
 kauhawán (uhaw) ka_an [noun] thirst
@@ -9323,12 +9325,12 @@ ukit (ukit) rt_ [noun] carving; etching
 ukitín (ukit) _in [verb] to carve something; to engrave something
 umukit (ukit) _um_ [verb] to carve; to etch; to engrave
 iukol (ukol) i_ [verb] to allot; to attribute; to dedicate; to devote
-kaukulán (ukol) grammar_ [grammar] case; [noun] relation; [adjective] related; associated
+kaukulán (ukol) ka_an [grammar] case; [noun] relation; [adjective] related; associated
 kinaúukulan (ukol) kinaCV_an [noun] authorities
 mag-ukol (ukol) mag_ [verb] to set aside
 nakaukol (ukol) naka_ [adjective] intended for; destined; proper; suitable
 pag-uukol (ukol) pagCV_ [noun] use; application
-pang-ukol (ukol) grammar_ [grammar] preposition
+pang-ukol (ukol) pang_ [grammar] preposition
 ukol (ukol) rt_ [adjective] intended for; about; destined; proper; suitable
 inulán (ulan) _in rained
 magpaulán (ulan) magpa_ [verb] to get oneself wet in the rain
@@ -9891,10 +9893,6 @@ nakauslî (usli) naka_ [adjective] protruding; sticking out
 uslî (usli) rt_ [noun] bulge; protrusion
 pausliin (usli) pa_in [verb] to cause to protrude
 pagkausli (usli) pagka_ [noun] prominence
-dako (dako) rt_ [noun] direction; part; region; spot; around; around (+time)
-dumako (dako) _u_ [verb] to move on; to arrive at; to land (arrive/be placed)
-idako (dako) i_ [verb] to turn something (usually, one's eyes)
-magdako (dako) mag_ [verb] to turn or direct, e.g., one's eyes, attention, etc., to something
 lumusong (lusong) _um_ [verb] to descend; to sink
 palusong (lusong) pa_ [noun] cooperative endeavor, especially in working in the fields; community spirit; cooperative work; bayanihan; mutual aid;
 lusong (lusong) rt_ [noun] descent; sinking
@@ -11341,3 +11339,39 @@ mapag-iwanan (iwan) [verb] to leave someone behind
 pag-iwan (iwan) [noun] leaving; abandoning
 paig (iwan) the act of leaving clothes wet; dampening; moistening;
 paiwan (iwan) [verb] to let oneself be left behind
+rendido (rindi) _ [adjective] exhausted; confused; messed up; [noun] confusion
+bungangaan (bunganga) _an [noun] prattling or babbling (by two or more people)
+bungangera (bunganga) sp_ [adjective] talkative; loquacious
+bungangà (bunganga) rt_ [noun] opened mouth; mouth; piehole; muzzle
+bungangâ (bunganga) rt_ [adjective] talkative, boastful, or vulgar; loquacious; boastful; vulgar; mouthy;
+bulyawán (bulyaw) _an [verb] to shout at angrily
+bulyáw (bulyaw) rt_ [noun] angry shout; strong rebuke; strong reproach
+bumulyáw (bulyaw) _um_ [verb] to shout at
+pabulyaw (bulyaw) pa_ [adjective] snappish
+balay (balay) rt_ [noun] amicable settlement of a case out of court
+ibalay (balay) i_ [verb] to put in the rear
+tibaláy (balay) _ a game using a round piece of chalk; chalk circle game;
+isalpók (salpok) i_ [verb] to cause something to hit something else
+salpukín (salpok) _in [verb] to strike against something; to bump against something
+salpók (salpok) rt_ [noun] collision; crash; striking; impact
+sumalpók (salpok) _um_ [verb] to bang; to clash
+panghalip na panaklaw (halip) phr_ [noun] indefinite pronoun [gram.]
+panghalíp (halip) pang_ [grammar] pronoun
+sa halíp (halip) phr_ [adverb] instead
+hinuha (hinuha) rt_ [noun] conjecture; hypothesis; inference; deduction; implication; conclusion
+hinuhain (hinuha) _in [verb] to infer; to deduce
+patlangán (patlang) _an [verb] to put a space between two things
+patláng (patlang) rt_ [noun] blank; interval; space between; gap; pause
+mamitás (pitas) mang_ [verb] to pick something; to pick fruits, flowers, etc.
+pitasín (pitas) _in [verb] to pick something
+pitás (pitas) rt_ [adjective] picked (flowers/fruits)
+pumitás (pitas) _um_ [verb] to pluck; to pick
+panghimagas (himagas) pang_ [noun] dessert
+isapín (sapin) i_ [verb] to use as an underlayer
+pasapinan (sapin) pa_an [verb] to arrange for something to be provided with a protective underlayer or support
+pasapnan (sapin) pa_an [verb] to arrange for somethng to be provided with a protective underlayer or support
+sapinán (sapin) _an [verb] to underlay
+sapinín (sapin) _in [verb] to use something as a protective underlayer
+sapín (sapin) rt_ [noun] cushion; cushioning; under layer
+sapín sa paá (sapin) phr_ [noun] general term for all kinds of footwear
+sapín-sapín (sapin) rt_rt [noun/adjectives] layers; layer upon layer; layered
