@@ -2,7 +2,7 @@ Aling bus ang papuntá sa Davao?	Which bus goes to Davao?
 Ito ba ang papuntá ng Manila?	Is this the way to Manila?
 May mamang nagtanong sa akin ang papunta sa paaralan.	A stranger asked me the way to the school.
 Lumakad lamang ako papunta.	I was going on foot.
-Kasali tayong lahát sa laban kontra Covid-19.	We are all involved in the fight against Covid-19.
+Kasali táyong lahát sa laban kontra Covid-19.	We are all involved in the fight against Covid-19.
 Mahirap labanan ang kaaway na hindî nakikita.	It's difficult to fight against an unseen enemy.
 Lumakad lamang ako papunta.	I was going on foot.
 Muntik na akóng maligáw papuntá dito.	I almost got lost coming here.
@@ -18,7 +18,7 @@ waláng kaalám-alám ako	I don't have the faintest idea
 Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be happy about her test score?
 Inabangán namin ang pagsali ni Carrie sa patímpalák.	We kept an eye out for Carrie's participation in the contest.
 Mahirap masiguro na pápasá akó sa pagsusulit.	It's difficult to tell if I would pass the test.
-May aangal ba kung hindî tayo magkákaroón ng Christmas party?	Would anybody protest if we will not be holding a Christmas party?
+May aangal ba kung hindî táyo magkákaroón ng Christmas party?	Would anybody protest if we will not be holding a Christmas party?
 Pinanalunan ko ang kotse sa paligsahan.	'I won the car as a prize in the contest.'
 Pinagbalaan kami ng titser na ang test ay magiging mahirap.	The teacher warned us that the test would be hard.
 Mahirap tukuyin kung sino ang may sala.	It's difficult to to name the perpetrator.
@@ -33,3 +33,36 @@ Kinailangan ni Richard na magpahingá nang isáng buwán pagkatapos niyáng magk
 Kinailangan kong magpápalít ng salapî.	I had to exchange currency.
 Paano kung siyá ang mangailangan ngayón?	What if he's the one in need this time?
 Nangailangan ng panahón ang rehabilitasyón niyá.	His rehabilitation took time.
+Makíkiníg ka kapág tinúturuan kitá.	You should pay attention when I'm teaching you.
+Hindî mo na ba akó nakíkilala?	Don't you recognize me anymore?
+Makíkipag-ugnayan ba ang nanay mo sa mga kamag-anak ninyó?	Will your mother get in touch with your relatives?
+Maraming makikita sa palengke.	There is a lot to see at the market.
+Makíkipagkita kamí kay Tony.	We will meet up with Tony.
+Makíkiusap akó kay Vincent na pahiramín niyá akó ng pera.	I will request Vincent to lend me money.
+Nakikita ko ang ilaw.	I can see the light.
+Walang nakikinig.	Nobody listens.
+Walang nakikipag-usap sa akin.	No one speaks with me.
+Pakíkinggán ka naming kumantá.	We will listen to you sing.
+Natátanggál ang pagod ko kapág nakíkiníg akó ng music.	My fatigue dissipates when I listen to music.
+Sundan mo ako at ipakikita ko sa iyo ang daan.	Follow me and I will show you the way.
+Di masyadong marunong magpranses si Tomas.	Tom couldn't speak French well.
+Hindi ako marunong mag-maneho.	I don’t know how to drive.
+Ilang wika ang marunong ka?	How many languages do you speak?
+Marunong ako ng kaunting Tagalog.	I know a little Tagalog.
+Marunong akóng magparamdám ng pagmamahál sa mga tao.	I have a real talent for making people feel loved.
+Ano ang sasakyán ko papuntáng Pasig?	What will I take going to Pasig?
+Unang beses kong papuntang dalampasigan.	This is the first time I've gone to the beach.
+Dalawampung kilometro ang papuntáng airport.	It's twenty kilometers to the airport.
+Gustó mo bang papuntahín natin si Rose dito?	Would you like us to invite Rose over?
+Paano ko maitatalâ ang mga natutuhan ko?	How do I record what I learn?
+Dinamay mo pati ang mga pinsan mo na walang kinalaman diyan.	You even involved your cousins who have nothing to do with that.
+Nagkulang ako sa iyo.	I didn’t do enough for you.
+Papasukin mo ang aso sa bahay.	Let the dog into the house.
+Kailangang magbayad muna táyo bago nilá táyo papasukin.	We need to pay first before they'd allow us to go in.
+Panáy ang tulak nilá sa akin na umarte sa entablado.	They always push me to act on stage.
+Huwág kang mawawalâ sa paningín ko.	Don't disappear from my sight.
+Hindî mo kamí bíbiguín. You won't disappoint us.
+Ayaw kong aminin itó, pero nabigô akó.	I don't want to admit this, but I failed.
+Dinamdám ko ang masamáng sinabi ni Farrah.	I took offense to Farrah's mean words.
+Ang lakíng pagkakáibá nitó sa kalayaan sa karagatán!	What a contrast to the freedom of the sea!
+	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.

@@ -1544,7 +1544,7 @@ kalangitan	the sky (langit)
 kalansáy	skeleton
 kalapati	dove, pigeon
 kalapit	person or place nearby; neighboring, nearby
-kalaro	playmate, play partner
+kalarô	playmate, play partner
 kalesa	horse drawn carriage; calesa; chariot; cart
 kalás	detached; unstitched; freed from (e.g. betrothal)
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
@@ -2311,6 +2311,7 @@ maghambóg	to brag, boast
 maghanáp	to seek, to find, to search
 maghapunan	to have dinner
 maghawak	to hold each other by the hand
+maghinanakIt	to have hurt feelings (naghinanakIt ako sa kanya)
 maghinuhà	to deduce, infer
 maghunos-dilì	to control oneself, to 'think before you act' (also 'hunusdili')
 magigisnan	to awaken to
@@ -2325,6 +2326,8 @@ magkahalagá	to be valued at (Nagkakahalaga ng sandaang piso ito.)
 magkaibá	to differ or be different from each other (ref. to two things/people "Paano sila nagkakaibá?)
 magkáduróg-duróg	to become thoroughly crushed/smashed
 magkáisá	to unite
+magkálarô	to play together (mutual focus) (nagkákálarô, magkákálarô)
+magkalarô	playmates
 magkásirá-sirá	to become thoroughly damaged
 magkaisip	something like "got a clue", grew up mentally/emotionally
 magkakabisa	will take effect, will become effective/valid
@@ -2337,7 +2340,7 @@ magkalapit	to be close together (two things/people)
 magkamali	to make a mistake
 magkano	how much?
 magkano man	whatever the cost (price)
-magkantót	to fuck ( have sex )
+magkantót	to have sex (crude term?)
 magkapareho	the same (ref. to two things/people)
 magkapatid	siblings
 magkapit	to hold onto each other, to join hands
@@ -2359,7 +2362,7 @@ maglaho	to dissolve, fade away, vanish
 maglako	to peddle, to hawk
 maglapat	to administer; apply
 maglarawan	to depict; to illustrate; to describe
-maglaro	to play
+maglarô	to play
 maglayág	to sail, to cruise (by sea)
 maglinis	to clean
 maglipat	transfer, hand over
@@ -3434,6 +3437,7 @@ pahayag	proclamation, public announcement, declaration
 pahayagan	newspaper
 pahilig	slantwise (hilig)
 pahina	a page of paper
+pahinanakIt	'in an injured manner' (cf. maghinanakit 'have injured feelings')
 pahinante	could refer to a porter, stevedore (unloading cargo from ships at dock), member of a ship’s crew, personal driver, personal aide or assistant
 pahingá	rest, relaxation, day off; resperation (hinga)
 pahingahan	a comfortable and informal room in which one can lounge and be at ease (silid-pahingahan)
@@ -3619,7 +3623,7 @@ pangyayari	happening, an incident
 panibugho	jealousy
 paniki	large bat which feeds on plants/fruits
 panindigan	(digan) to argue for or uphold something; maintain an argument; take the side of (pinapanindigan, pinanindigan, papanindigan)
-paningin	sense of sight, eyesight
+paningín	sense of sight, eyesight, view (ie, region that's visibile to a person), figurative view/viewpoint
 paninibugho	jealousy
 paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
@@ -4798,6 +4802,7 @@ usápan	conversation
 usapín	a topic of conversation/discussion/contention, etc.
 usbóng	sprout, bud, growth of plants; offspring [fig.]
 úsig	prosecute, persecute, investigation (also tugis)
+usigin	to condemn
 uso	stylish, in vogue, in fashion; style, trend, fashion
 usok	smoke (n)
 utak	brain
