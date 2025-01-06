@@ -252,7 +252,7 @@ ayain	to invite someone
 ayán	there! (interjection)
 ayaw	don't/doesn't want
 ayuda	aid; something supplementary
-ayún	"there you go", "there it is", "so there", etc.
+ayún	"as you can see", "there you go", "there it is", "so there", etc.
 ayúno	fasting (not eating)
 ba	yes/no question former; used to emphasise question/ask for detail; affirmation as "sige ba", "oo ba" ("indeed")
 ba't	bakit
@@ -1021,7 +1021,7 @@ halál	vote, elective
 halalan	election
 halalhál	a loud, hearty laugh, guffaw, boisterous laughing
 halaman	a plant
-haligi	post, column, pole
+haligi	post, column, pole, beam
 halika	come here
 halikhík	a high-pitched, somewhat suppressed laugh, as if held back in the throat; giggle; chuckle; snicker
 halímaw	beast, monster
@@ -1090,7 +1090,7 @@ hawíg	similar, alike, akin
 hayà	tolerance of an act; threatening gesture
 hayaàn	to let, allow, let be (hayà, see also bayáan, pabayáan)
 hayaàn mo na lang	just let it be
-hayág	easily seen, public, exposed view
+hayág	out in the open, easily seen, public, exposed view
 háyo	forward!, move ahead
 hayop	animal
 heto	"here"
@@ -1584,6 +1584,7 @@ kamakalawá	the day before yesterday (dalawa)
 kamalayán	awareness
 kamalian	mistake
 kamalig	storehouse, warehouse; barn, granary
+kamanyang	frankincense
 kamara	legislative chamber; hall, chamber
 kamay	hand
 kamayin	use your hands
@@ -1823,16 +1824,15 @@ kinagabihan	on that night
 kinagisnán	idiomatic meaning "raised/grew up with" ie, ang kinagisnan kong ama, "the man who raised me"
 kinaiinisan	to be annoyed at someone
 kinakaba-kabahan	is being nervous
-kinakabahan	to be nervous
+kinakabahán	to be nervous ("kinakabahán ako")
 kinákailangan	to be required, necessary, obliged (to); OR to need something (Kinákailangan kitang makausap. I need to talk to you.)
 kinakapatid	step-sibling, godsib, god-sibling
 kinaladkad	dragged
-kinalaman	connection, connection to something, regarding, a share (of something), knowledge about something
+kinalaman	connection to something, knowledge about something (focus on the something: "Anong kinalaman nito sa akin.")
 kinamay	used hands on something
 kinamayan	to shake hands with
 kinastigo	chastised, reprimanded severely
-kiníg	something heard
-kiníg	vibration
+kiníg	something heard; vibration
 kinikilig	feeling giddy
 kinilála	known as; recognized/understood (completed form of kilanlín)
 kinita	income earned
@@ -2706,7 +2706,8 @@ mangulo	to head, preside
 mangyari	to happen, take place
 manhid	numbness; torpor, torpid condition
 manî	peanut
-manibugho	to be jealous
+manibughô	to be jealous
+manigo	prosperous; fortuitous (used primarily only as "Manigong Bagong Taon")
 maniobra	maneuver
 manirahan	to live for a while, dwell
 maniwala	to believe, trust (tiwala)
@@ -2725,7 +2726,7 @@ manuluyan	to stay in someone's house
 manumpâ	to pledge/swear/attest to; to swear in (to a position) (sumpâ)
 manyakis	pervert (from "sex maniac")
 maông	jeans
-mapa-oo	to convince (?)
+mapa-oo	to convince, get someone to say "yes" 
 mápa	map
 mapag-usápan	to discuss, to settle matters, to be talked about
 mapagbalátkayo	artful, deceiptful
@@ -2954,6 +2955,7 @@ naaawa	to pity
 naaayon	associated with
 naabutan	happened to encounter
 nabábagabag	distraught
+nabubulól	stammering, stuttering
 nabuhayan	to re-live something
 nadalâ	has become wary
 nadulás	slipped; inadvertently blurted something out (nadulás ang dilà)
@@ -3471,6 +3473,7 @@ pakO	a fern
 pakpák	wing
 paksa	fact, topic, subject, the main idea, point of contention
 pakumbabâ	modest, humble (also mapagpakumbabâ)
+pakundanganan	respect
 pakyu	fuck you
 palá	expression of realization; indicates change in topic, as "by the way"
 pála	a shovel
@@ -3620,11 +3623,11 @@ pangungumpisál	confessing, confession
 pangungurakot	corruption(?)
 pangungusap	sentence (grammar); remarks; expression
 pangyayari	happening, an incident
-panibugho	jealousy
+panibughô	jealousy
 paniki	large bat which feeds on plants/fruits
 panindigan	(digan) to argue for or uphold something; maintain an argument; take the side of (pinapanindigan, pinanindigan, papanindigan)
 paningín	sense of sight, eyesight, view (ie, region that's visibile to a person), figurative view/viewpoint
-paninibugho	jealousy
+paninibughô	jealousy
 paninigarilyo	smoking (of cigarette)
 paniniktík	espionage
 panínindigan	way of thinking, rationale(?)
@@ -4738,6 +4741,7 @@ ulit-ulit	again and again, repeatedly (also paulit-ulit)
 ulít-ulitin	to keep repeating, to reiterate
 ulitin	to do again, repeat
 úlo	head
+ulól	rabid, crazy
 ulupong	zoo; species of cobra; viper; treacherous person
 umaambag	is contributing
 umaapaw	overflowing

@@ -58,7 +58,7 @@ while count < dothismany and linecount <= availablelines:
         myout = mylist.pop(0)
         linecount = linecount + 1
     except:
-        print('ubos na..')
+        print('ubós na..')
         exit()
     
     if myout.find(_mysep) < 0:

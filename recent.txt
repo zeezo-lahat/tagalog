@@ -448,7 +448,6 @@ makailán	several times, several
 makailán	(ilan) maka_ [adverb] several times; several; [interjection] How many times?
 pagnanasà	yearning, desire
 pamantásan	university
-pakyáw	(pakyaw) rt_ [noun] wholesale; wholesale buying; buying up everything
 buhong	(buhong) [noun] villain; wicked person
 banás	(banas) 1.) rt_ [noun] humidity; 2.) [adjective] annoyed
 puwera	not included, except, excepted
@@ -498,15 +497,12 @@ talyér	repair shop
 matauhan	(tao) ma_an [verb] to regain consciousness; to revive; to come to one's senses
 nakatuón	(tuon) naka_ [adjective] focused
 sapín	(sapin) rt_ [noun] cushion; cushioning; under layer
-tapakan	(tapak) _an [verb] to step on something
-apakan	(apak) _an [verb] to step on something; to trample something; to tread on something
-lunggâ	burrow, hole, mouse hole, cave
-lamon	(lamon) rt_ [noun] devouring; gorging; stuffing oneself with food
+tapakan	(tapak) _an [verb] to step on something (also "apakan")
+apakan	(apak) _an [verb] to step on something; to trample something; to tread on something (also "tapakan")
 bungô	skull, cranium
 dumurâ	(dura) _um_ [verb] to spit
 mapanurì	(suri) mapang_ [adjective] analytical; critical
 kalugurán	pleasure, enjoyment, delight, a pleasurable way to spend time
-angal	prolonged crying; complaint, problem
 angal	(angal) rt_ [noun] howling cry; bellow; severe crying
 tubós	(tubos) the act of retrieving or buying back something that has been pawned; redemption; repurchase; reclaiming; recovery;
 iutos	(utos) i_ [verb] to command something; to assign something; to order something (be done)
@@ -524,9 +520,50 @@ budhî	conscience, sense of right and wrong (konsiyensiya)
 ilapág	(lapag) i_ [verb] to put something on the floor; to lay something down; to lay something out; to put something down; to deposit something
 lipon	(lipon) rt_ [noun] crowd; gathering
 lubayán	(lubay) _an [verb] to ease up on; to stop joking/insulting someone; to give some slack; to give someone a break
-kumpisál	confession, religious confession
 kumpisál	(kumpisal) rt_ [noun] confession; religious confession; Sacrament of Confession
 kapalín	(kapal) _in [verb] to create
 mangisáy	(kisay) mang_ [verb] to convulse
 nangángatóg	(katog) nangang_ [adjective] shaking
-bulabog	(bulabog) rt_ [noun] disturbance
+tinag	(tinag) rt_ [noun] move; budge
+alintanahin	(alintana) _in [verb] to pay any attention to something; to pay any notice to something; to mind something
+himok	persuasion, urging, pleading, attempting to convince
+huthót	(huthot) rt_ [noun] extortion; suck-up
+hungháng	brainless, stupid
+ipamukhâ	(mukha) ipa_ [verb] to rub something in someone's face in (to be the unpleasant facts or evidence to confront someone with for them to suffer); to throw something in someone's face (to lord over someone by exerting dominance);
+isog	(isog) rt_ [noun] courage
+pulpol	(pulpol) rt_ [adjective] incompetent; foolish; inept; dull; blunt
+hanay	(hanay) rt_ [noun] row; file; line
+gutáy	(gutay) rt_ [adjective] torn
+masahol	(sahol) ma_ [adjective] worse; inferior
+tahól	(tahol) rt_ [noun] barking; bark of a dog
+indahín	(inda) _in 1.) [verb] to feel something; to sense something; 2.) [verb] to bear something; to be burdened with something;
+masapól	(sapol) ma_ [verb] to be hit with something (AF); to hit something (OF)
+kargado	(karga) sp_ [adjective] loaded; burdened
+maglibót	(libot) mag_ [verb] to go around; to wander
+kumayod	(kayod) _um_ [verb] to work hard; to toil
+bitin	(bitin) rt_ [noun] a hanging item / object
+bitín	(bitin) rt_ [adjective] not enough; short; lacking; running out of
+kinatátayuán	(tayo) kinaCV_an [noun] position; location; standpoint; something stood upon
+asamín	(asam) _in [verb] to look forward to something; to desire something; to anxiously long for something;
+dí-mapakalí	not at peace, restless, fidgety, anxious, not able to stay still
+ayún	"as you can see", "there you go", "there it is", "so there", etc.
+dalos	(dalos) rt_ [noun] hastiness
+haligi	(haligi) rt_ [noun] column; post; pillar
+igi	(igi) rt_ [noun] goodness; fineness; excellence; orderliness
+mapagkákatiwalaan	(tiwala) mapagkaka_an [adjective] trustworthy; can be trusted
+magmaktól	(maktol) mag_ [verb] to grumble
+bulól	(bulol) rt_ [adjective] stammering; stuttering; having defective speech
+uslî	(usli) rt_ [noun] bulge; protrusion
+hayág	(hayag) rt_ [adjective] conspicuous; easily seen; public
+kipot	(kipot) rt_ [noun] narrowness; narrow
+sikíp	(sikip) rt_ [noun] tightness (of clothing); congestion
+makipot	(kipot) ma_ [adjective] narrow; crowded
+sumulpót	(sulpot) _um_ [verb] to suddenly appear; to emerge; to appear
+magpadalus-dalos (dalos) magpa_rt_rt [verb] to do things hastily or rashly
+pantás	(pantas) rt_ [noun] specialist; academic; learned person; erudite
+hidwâ	(hidwa) against; in opposition to; contrary; opposite; adverse; antagonistic;
+pasimunò	(simuno) pa_ [noun] perpetrator; instigator
+himod	(himod) rt_ [noun] licking
+itaón	(taon) i_ [verb] to make events coincide with each other
+patiwarík	(tiwarik) pa_ [adverb] upside down
+itiwalág	(tiwalag) [verb] to excommunicate; to expel; to depose

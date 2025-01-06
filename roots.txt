@@ -5886,13 +5886,19 @@ kamuhian (muhi) ka_an [verb] to detest someone; to be repulsed by someone
 mamuhì (muhi) ma_ [verb] to loathe; to despise; to scorn
 muhì (muhi) rt_ [noun] detestation
 hindí maipintá ang mukhâ (mukha) idiom_ [idiom] a phrase that describes someone who is frowning
+ipamukhâ (mukha) ipa_ [verb] to rub something in someone's face in (to be the unpleasant facts or evidence to confront someone with for them to suffer); to throw something in someone's face (to lord over someone by exerting dominance);
+kamukháng-kamukhâ (mukha) ka_rt_rt [adjective] look just like; like; similar
+kamukhâ (mukha) ka_ [adjective] looks like; looking like; just like; similar to
+magkamukhâ (mukha) magka_ [adjective] identical; alike; look alike
+magmukhâ (mukha) mag_ [verb] to seem; to appear; to look (appear); to look like
 mamukhaán (mukha) ma_an [verb] to recognize someone; to recognize someone's face
-kamukháng-kamukhâ (mukha) ka_rt_na_rt [adjective] like; similar
-kamukhâ (mukha) ka_ [adjective] looks like; looking like; similar to
-magkamukhâ (mukha) magka_ [adjective] identical; alike
-magmukhâ (mukha) mag_ [verb] to seem; to appear; to look (appear)
+maraming mukha (mukha) cmp_ [noun] many-sided
+mukhaan (mukha) _an [verb] to recognize someone by face
+mukhain (mukha) _in [verb] to try to recognize someone or something by appearance
 mukhâ (mukha) rt_ [noun] face; expression; front; impudence; apparent
 mukhâ (mukha) rt_ [adverb] like; seems; apparently; seemingly; appears to be; looks to be; as if; as though
+pamukhaan (mukha) pa_an [adverb] face to face
+pamukhaan (mukha) pa_an [verb] to say something derogatory to someone face to face
 magmulá nang (mula) phr_ [phrase] ever since
 magmulâ (mula) mag_ [verb] to come from; to be coming from; to arrive from; to descend from; to emanate from
 mulá noón (mula) phr_ [phrase] since then; since
@@ -6234,7 +6240,7 @@ panís (panis) rt_ [adjective] stale food; spoiled food; bad
 mapanis (panis) ma_ [verb] to get spoiled; to become rotten
 panisín (panis) _in [adjective] prone to spoilage
 kapansanan (pansan) ka_an [noun] disability
-may kapansanan (pansan) phr_ [adjective] disabled
+may kapansanan (pansan) may_ka_an [adjective] disabled
 pansán (pansan) rt_ [noun] accident; injury; inconvenience
 KSP (pansin) phr_ [adjective/noun] attention seeker (short for "kulang sa pansin")
 kapansín-pansín (pansin) ka_rt_rt [adjective] very noticeable; noteworthy
@@ -6439,7 +6445,7 @@ pagpapatong (patong) pagCV_ [noun] putting on top; coating; superimposed.
 patong (patong) rt_ [noun] putting on top; layer; layering; coating; interest on a loan; superimposed
 patungán (patong) _an [noun] base; mounting
 pumatong (patong) _um_ [verb] to be on top of something
-pátongpatong (patong) pa_rt_rt [adjective] one on top of another
+pátong-patong (patong) rt_rt [adjective] one on top of another
 magpaubayà (paubaya) mag_ [verb] to waive; to release; to relinquish
 paubayà (paubaya) rt_ [noun] waiver
 mapawì (pawi) ma_ [verb] to come to an end; to be able to exterminate or extinguish something; to be able to obliterate something; to be able to erase something
@@ -7477,7 +7483,6 @@ waláng kasiguraduhán (sigurado) [noun] uncertainty
 magsiguro (siguro) mag_ [verb] to make sure
 makasiguro (siguro) maka_ [verb] to ensure; to make sure
 masiguro (siguro) ma_ [verb] to be sure about something (OF); to ensure something (OF)
-masiguro (siguro) ma_ [verb] to ensure something
 paniniguro (siguro) pangCV_ [noun] confirming; assuring; assurance
 sigurista (siguro) sp_ [noun] a perfectionist; person who is careful to make sure things go well/right
 siguro (siguro) rt_ [adverb] maybe; sure; perhaps; probably
@@ -8865,9 +8870,9 @@ titik (titik) rt_ [noun] letter (of the alphabet)
 palatitikán (titik) pala_an [noun] orthography
 magpatiwakál (tiwakal) magpa_ [verb] to commit suicide
 pagpápatiwakál (tiwakal) pagpapa_ [noun] committing suicide
-dí makapaniwalà (tiwala) phr_ [phrase] cannot believe; find hard to believe (ex(tiwala) di ako makapaniwala; di makapaniwala si Juan)
+dí makapaniwalà (tiwala) di_makapang_ [phrase] cannot believe; find hard to believe (ex(tiwala) di ako makapaniwala; di makapaniwala si Juan)
 dí-kapaní-paniwalà (tiwala) di_ka_rt_rt_ [adjective] incredible; inconceivable; unbelievable; [colloquial] fishy; doubtful;
-kapaní-paniwalà (tiwala) cmp_ [adjective] credible; authentic; convincing
+kapaní-paniwalà (tiwala) ka_pang_pang_ [adjective] credible; authentic; convincing
 kátiwalà (tiwala) ka_ [noun] caretaker
 magtiwalà (tiwala) mag_ [verb] to believe; to be convinced; to have confidence in; to trust in
 makapaniwalà (tiwala) makapang_ [verb] to be able to believe
@@ -9552,7 +9557,7 @@ sa wakás (wakas) phr_ [phrase] finally; at last; eventually
 wakasán (wakas) _an [verb] to end something
 wakás (wakas) rt_ [noun] end; ending; conclusion; final point; finish
 alâ (wala) _ [noun] zero; [preposition] without; [pronoun] none (slang)
-bále-walaín (wala) cmp [verb] to ignore something/someone; to disregard something
+bále-walaín (wala) cmp_ [verb] to ignore something/someone; to disregard something
 iwalâ (wala) i_ [verb] to set something aside; to lose something;
 kawalán (wala) ka_an [noun] absence; lack of something; loss; want; deficiency; dearth
 kumawalâ (wala) ka_um_ [verb] to break free; to escape
@@ -10666,8 +10671,8 @@ matupok (tupok) ma_ [verb] to be consumed by fire; to be incinerated
 pagtupok (tupok) pag_ [noun] a burning to ashes
 tupók (tupok) rt_ [adjective] burned and turned into ash; completely burned; incinerated; charred; burnt to ashes; consumed by fire;
 humuthót (huthot) _um_ [verb] to extort; to suck up
-huthután (huthot) _an [verb] to extort
-huthutín (huthot) _in [verb] to extort
+huthután (huthot) _an [verb] to extort (someone?)
+huthutín (huthot) _in [verb] to extort (something?)
 huthót (huthot) rt_ [noun] extortion; suck-up
 kasya (kasya) [adjective] fit; enough; just enough; sufficient
 kumasya (kasya) [verb] to fit
@@ -11407,3 +11412,52 @@ talák (talak) rt_ [noun] talking quickly
 tumalák (talak) _um_ [verb] to shout angrily
 bilá (bila) rt_ [root] to become chipped or to chip; chip; flake; splinter;
 magkabilá (bila) magka_ [adjective] either; each; each end; (comparing two or more things); either side
+alintana (alintana) rt_ [adjective] considered in passing; noticed; noticed in passing; pay attention to
+alintanahin (alintana) _in [verb] to pay any attention to something; to pay any notice to something; to mind something
+intana (alintana) _ variant of alintana; heed; notice; mind; regard; pay attention to;
+babalâ (bala) CV_ [noun] warning; alert; notice; caution; sign; announcement;
+bala (bala) rt_ [noun] bullet; ammunition
+balaan (bala) _an [verb] to warn someone; to caution someone; to threaten someone
+balahan (bala) _an [verb] to load something with bullets
+sibaláng (bala) _ failure of a plan; waste or miss of an opportunity; failure; fiasco; mishap; waste; missed opportunity;
+isog (isog) rt_ [noun] courage
+pulpol (pulpol) rt_ [adjective] incompetent; foolish; inept; dull; blunt
+pulpulín (pulpol) _in [verb] to make less sharp
+pumulpol (pulpol) _um_ [verb] to make less sharp
+manibughô (bugho) mani_ [verb] to feel jealous
+panibughuan (bugho) pani_an [verb] to be jealous (of someone)
+papanibughuin (bugho) papani_in [verb] to make someone jealous
+gutayín (gutay) _in [verb] to tear
+gutáy (gutay) rt_ [adjective] torn
+gutáy-gutáy (gutay) rt_rt [adjective] torn to pieces; torn apart
+magkagutay-gutay (gutay) magka_rt_rt [verb] to wear (clothing) to shreds
+indahín (inda) _in 1.) [verb] to feel something; to sense something; 2.) [verb] to bear something; to be burdened with something;
+indá (inda) rt_ 1.) [noun] caprice; whim 2.) [noun] a noticed or felt difficulty, fatigue, or insult
+magtagilid (tagilid) mag_ [verb] to careen or lurch frequently
+nakatagilid (tagilid) naka_ [adjective] slanted; askew
+pagtagilid (tagilid) pag_ [noun] act of inclining to one side
+asinán (asin) [verb] to put salt on something; to sprinkle with salt
+asín (asin) rt_ [noun] salt
+asínbató (asin) cmp_ [noun] rock salt
+maasín (asin) ma_ [adjective] very salty
+dí-mapakalí (kali) di_mapa_ [adjective] not at peace; restless; fidgety; anxious; not able to stay still
+kalí (kali) rt_ [noun] peace; quiet
+kinalì (kali) _in a post or pillar that has been uprooted in order to be replaced; uprooted post; removed pillar;
+haligi (haligi) rt_ [noun] column; post; pillar
+arirá (gambala) _ to disturb; to trouble; disturb; trouble; disrupt; bother;
+gambalain (gambala) _in [verb] to disturb something
+gambalà (gambala) rt_ [noun] disturbance; nuisance
+gumambala (gambala) _um_ [verb] to distrurb
+magambalà (gambala) ma_ [verb] to be disturbed; to feel disturbed
+makagambala (gambala) maka_  [verb] to be the cause of delay by disturbing
+pagkagambala (gambala) pagka_ [noun] fact of having been delayed by some disturbance
+pagkakagambala (gambala) pagkaka_ [noun] fact of having delayed someone by disturbance
+magmaktól (maktol) mag_ [verb] to grumble
+maktól (maktol) rt_ [noun] grumbling
+bulól (bulol) rt_ [adjective] stammering; stuttering; having defective speech
+sumulpót (sulpot) _um_ [verb] to suddenly appear; to emerge; to appear
+lubák (lubak) rt_ [noun] pothole
+lubák-lubák (lubak) rt_rt [adjective] full of potholes
+malubák (lubak) ma_ [adjective] having potholes; bumpy
+mapaklá (pakla) [adjective] bitter-sour; sharp (taste); tart; acrid; bitter
+paklá (pakla) [noun] acridness; tartness
