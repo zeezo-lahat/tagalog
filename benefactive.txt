@@ -23,7 +23,7 @@ ipagsaing 'cook rice for'
 ipanahi 'sew for' 
 ipanguha 'gather for'
 
-The topic of a BF verb corresponds to a nominal within a para sa phrase serving as a benefactive adverb 
+The topic of a BF verb corresponds to a nominal within a *para sa* phrase serving as a benefactive adverb 
 (cf. §6.11, subsection (l.a)) with the corresponding AF verb. Compare, for example:
 
 AF: Bumili ako ng damit para sa bata.  'I bought some clothes for the child.' 

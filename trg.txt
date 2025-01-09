@@ -1,56 +1,54 @@
 p188 ch3: from "Obligitory non pre-enclytics":
-Adverbial phrases and directional complements that begin the construction of which the 
+
+*Adverbial phrases* and *directional complements* that begin the construction of which the 
 enclitic pronoun is an immediate part, and that are not linked to this construction by the 
 linker na/-ng. Thus the italicized portions of the following sentences are N with respect to 
 enclitic pronouns: 
+
 Bukas ng gabi nang alas otso siya aalis.	'It's tomorrow night at eight that he's leaving.' 
+----------------------------
+
 Sa maliit na bahay sa probinsya siya pupunta.	'It's the little house in the provinces that he's going to.' 
+-------------------------------
 
-
-3.25 Nominalized basic forms.
-
-p155:
-nominalized basic forms occur in only a few special contexts. No nominalized basic forms occur after ng or sa, and only the basic forms of actor-focus verbs occur after ang. 
+3.25 NOMINALIZED BASIC FORMS p155:
+Nominalized basic forms occur in only a few special contexts.
+> No nominalized basic forms occur after ng or sa
+> Only the basic forms of *actor-focus* verbs occur after ang 
 
 The most common construction in which a nominalized basic form occurs is one in which it serves as 
 sentence topic. A nominalized actor-focus basic form serving as sentence topic may be preceded by either 
 the topic marker ang or the linker -ng. (note: not "na")
 
-The constructions with ang and -ng, alternate 
-freely with one another: 
-Maaksaya ang magtapon ng damit. 
-Maaksayang magtapon ng damit. 
-'To throw away clothing is wasteful.'
+The constructions with ang and -ng, alternate freely with one another: 
 
-A nominalized goal-focus basic form serving as sentence topic is always preceded by the linker -ng: 
+Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit.	'To throw away clothing is wasteful.'
 
-Maaksayang itapon ang damit. 
-'To throw away the clothing is wasteful.'
+A nominalized *goal-focus* basic form serving as sentence topic is always preceded by the linker -ng (note: not "na"):
 
-(I think he means to say here that never is "ang" used and the -ng linker is still optional, as with 
-actor-focus basic form use.)
+Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
+
+(ie, with goal-focus verbs "ang" is never used. With actor or goal focus verbs, "na" is not used.)
 
 A nominalized actor-focus basic form may be followed by any of the usual complements, and a
 nominalized goal-focus basic form may be followed by its topic, and by any complements other than
 actor complements: e.g., 
 
-Magugol magpadala sa kanila ng bigas sa Maynila. 
-'To have them take rice to Manila is expensive.' 
+Magugol magpadala sa kanila ng bigas sa Maynila.	'To have them take rice to Manila is expensive.' 
 
 Note: predicate is "magugol", topic is "magpadala sa kanila ng bigas sa Maynila."
 
-(cf. Nagpadala siya sa kanila ng bigas sa Maynila.) 
-'He had them take rice to Manila.' 
+(cf. Nagpadala siya sa kanila ng bigas sa Maynila.	'He had them take rice to Manila.') 
 
-Magugol ibili ng bigas sa groseri ang pamilya. 
-'To buy rice for the family from a grocery is expensive.' 
+Note no actor complement (ie, doer) of "ibili" ("ibili" here is benefactive "buy for", but can also be instrument focus)
+Magugol ibili ng bigas sa groseri ang pamilya.	'To buy rice for the family from a grocery is expensive.' 
 
-(cf. Ibinili niya ng bigas sa groseri ang pamilya. 
-'He bought rice for the family from a grocery.' 
+(cf. Ibinili niya ng bigas sa groseri ang pamilya.	'He bought rice for the family from a grocery.') 
 
-The predicate of a sentence whose topic is a nominalized basic form must be one of a rather small 
-group of adjectivals or nominals, or of verbals that include goal-focus verbs. Examples of adjectivals and 
-nominals that may occur as predicates with basic form topics are:
+*The predicate of a sentence whose topic is a nominalized basic form*
+> must be one of a rather small group of adjectivals or nominals, or of verbals that include goal-focus verbs.
+
+Examples of adjectivals and nominals that may occur as predicates with basic form topics are:
 
 Adjectivals: 
 bagay ( + sa phrase) 'suitable' ( + 'for' phrase) 
@@ -82,22 +80,17 @@ kalokohan 'foolishness'
 
 Some examples of sentences with adjectival or nominal predicates and nominalized-basic-form topics are:
 
-Mapanganib (ang) lumapit sa ahas. 
-'To go near a snake is dangerous.'
+Mapanganib (ang) lumapit sa ahas.	'To go near a snake is dangerous.'
 
-Matrabaho ang magluto ng lumpia. 
-Matrabahong magluto ng lumpia. 
-'Cooking lumpia involves a lot of work.' 
+Matrabaho ang magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
+Matrabahong magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
 
-Kalokohan ang magsugal. 
-Kalokohang magsugal. 
-'Gambling is foolishness.' 
+Kalokohan ang magsugal.	'Gambling is foolishness.' 
+Kalokohang magsugal.	'Gambling is foolishness.' 
 
-Mabuting bigyan ng pera ang mga mahihirap. 
-'To give money to the poor is good.' 
+Mabuting bigyan ng pera ang mga mahihirap.	'To give money to the poor is good.' 
 
-Mahirap basahin ang librong iyan. 
-'To read that book is difficult.'
+Mahirap basahin ang librong iyan.	'To read that book is difficult.'
 
 Goal-focus verbs of three types occur in predicates before basic-form topics. These are: 
 
@@ -113,38 +106,34 @@ ilagan 'avoid'
 iwasan 'avoid' 
 katamaran 'be lazy about' 
 katuwaan 'be amused at' 
-katakutan 'be afraid o f 
+katakutan 'be afraid of'
 
-(3) causative-focus verbs (cf. §5.8): e.g.. 
+(3) causative-focus verbs (cf. §5.8): e.g.. NOTE that these are all actor focus as the actor is the cause
 ikagalak 'be pleased about' 
 ikahiya 'be ashamed about' 
 ikalugod 'be happy about' 
 ikalungkot 'be unhappy about' 
 ikatuwa 'be happy about' 
 
-These verbs are normally followed by an actor complement, and then by the nominalized basic form topic, 
+These verbs are normally followed by a ('ng') actor complement, and then by the nominalized basic form topic, 
 Some examples are:
 
-Binalak ko ang mamalengke. 
-Binalak kong mamalengke. 
-'I planned to go marketing.' 
+Binalak ko ang mamalengke. / Binalak kong mamalengke.	'I planned to go shopping at the palengke.' 
 
-Inilagan ni Juan ang mag-aral ng Kastila. 
-Inilagan ni Juang mag-aral ng Kastila. 
-'Juan avoided studying Spanish.' 
+Inilagan ni Juan ang mag-aral ng Kastila. / Inilagan ni Juang mag-aral ng Kastila.	'Juan avoided studying Spanish.' 
 
-lkinagalak ng titser (ang) pumunta sa bagong iskwela.  'The teacher was pleased about going to a new school.' 
-Ipinagbabawal ng batas lakaran ang daan.  'The law forbids walking in the street.' 
-Kinatatamaran niyang gawin ang trabaho.  'He is lazy about doing the work.' 
-Ikinalulungkot ni Manuel isulat siya ng liham.  'Manuel is unhappy about writing a letter for him.'
+lkinagalak ng titser (ang) pumunta sa bagong iskwela.	'The teacher was pleased about going to a new school.' 
+Ipinagbabawal ng batas lakaran ang daan.	'The law forbids walking in the street.' 
+Kinatatamaran niyang gawin ang trabaho.	'He is lazy about doing the work.' 
+Ikinalulungkot ni Manuel isulat siya ng liham.	'Manuel is unhappy about writing a letter for him.'
 
-referential focus 5.10 communication related "about", "tungkol sa"
+REFERENTIAL FOCUS: "about", "tungkol sa"
+
+5.10
 pag-an derived from intransitive joint action mag- verbs: away, kasundo, pulong, talo, usap..
-AF: Nag-away sila tungkol sa pera.
-RfF: Pinag-awayan nila ang pera.
-'They quarreled about the money.'
-there are also some i-, -in, ipag-: isipin, ipaglihim (be secretive about), ikwento OF verbs with same
-meaning:
-AF: Nag-isip siya ng paglalakbay niya 
-OF: Inisip niya ang paglalakbay niya 
-'He thought about his trip.'
+
+Nag-away sila tungkol sa pera. / Pinag-awayan nila ang pera.	'They quarreled about the money.'
+
+there are also some i-, -in, ipag-: isipin, ipaglihim (be secretive about), ikwento OF verbs with same meaning:
+
+Nag-isip siya ng paglalakbay niya. / Inisip niya ang paglalakbay niya.	'He thought about his trip.'

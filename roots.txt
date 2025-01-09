@@ -2064,7 +2064,7 @@ dalâ (dala) rt_ [adjective] carried; brought
 ipadalá (dala) ipa_ [verb] to send something; to deliver something; to pass something on
 madalá (dala) ma_ [verb] to be able to bring something; to happen to bring something; to be able to tag along
 magdalá (dala) mag_ [verb] to bring; to carry; to deliver; to convey; to take to
-magpadalá (dala) magpa_ [verb] to send; to transmit; to carry away; to be swayed
+magpadalá (dala) magpa_ [verb] to send; to transmit; to carry away; to be swayed (doer, destination both "sa", thing sent is "ng")
 maipadalá (dala) maipa_ [verb] to be able to send something; to be able to deliver something; to be able to pass something on
 makapagdalá (dala) makapag_ [verb] to be able to bring
 padalhán (dala) pa_an [verb] to send something (to someone)
@@ -5395,7 +5395,7 @@ lumimlím (limlim) _um_ [verb] to incubate; to brood
 limusán (limos) _an [verb] to give alms; to give charitably; to give food or money to the poor SS
 limós (limos) rt_ [noun] alms
 maglimós (limos) mag_ [verb] to give alms; to give support to the poor
-mamalimos (limos) mangCV_ [verb] to ask for alms; to beg SS
+mamalimós (limos) mangCV_ [verb] to ask for alms; to beg SS
 panlimós (limos) pang_ [noun] money set aside for alms
 kalimutan (limot) ka_an [verb] to forget something; to overlook something
 limutin (limot) _in [verb] to willfully forget something
@@ -11461,3 +11461,29 @@ lubák-lubák (lubak) rt_rt [adjective] full of potholes
 malubák (lubak) ma_ [adjective] having potholes; bumpy
 mapaklá (pakla) [adjective] bitter-sour; sharp (taste); tart; acrid; bitter
 paklá (pakla) [noun] acridness; tartness
+mapagmasdán (masdan) [verb] to be able to observe something; to have the chance to observe something
+pagmasdán (masdan) [verb] to carefully observe something; to look at something attentively;
+magkapera (pera) [verb] to obtain money; to earn money
+mamera (pera) mang_ [adjective] valued or priced at one centavo each
+mapera (pera) ma_ [adjective] has money
+mukháng pera (pera) phr_ [adjective] money-grubbing; money-hungry; overeager to make money;
+pera (pera) rt_ [noun] money; cash; currency; wealth; funds
+perahan (pera) _an [verb] to take advantage of someone financially
+perang hawak (pera) cmp_ [noun] cash in hand; cash
+pinakamapera (pera) pinakama_ [adjective] having the most money; richest
+péra-pera (pera) rt_rt relating to cents or small amounts of money; money-oriented; financial; monetary; pecuniary;
+pérang-hapón (pera) cmp_ money that has almost no value; worthless money; devalued currency; insignificant money;
+kabanán (kaban) _an [noun] a large container that can accommodate one 'kaban'; bin; chest; large container;
+kabán (kaban) rt_ [noun] chest; trunk; treasury
+magtabas (tabas) mag_ [verb] to cut out cloth according to a pattern
+pinágtabasan (tabas) pinag_an [noun] cut pieces of cloth
+tabas (tabas) rt_ [noun] form; cut; style
+tabasin (tabas) _in [verb] to trim something; to style something
+tumabas (tabas) _um_ [verb] to cut out cloth according to a pattern
+tábas-tabas (tabas) rt_rt [noun] a type of herb used as a purgative.; laxative herb; purgative plant;
+nakasarado (sarado) [adjective] closed
+sarado (sarado) [adjective] closed; shut
+magsilab (silab) mag_ [verb] to build and start a bonfire
+maninilab (silab) mangCV_ [noun] arsonist
+silabán (silab) _an [verb] to set something on fire
+siláb (silab) rt_ [noun] flame; start of a flame; spark

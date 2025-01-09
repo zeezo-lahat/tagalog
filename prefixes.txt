@@ -118,7 +118,22 @@ i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
 i-	INSTRUMENT
 	Ano pala ang itátálí ko rito?	What should I tie around this?
-ika-	to CAUSE or be REASON for state/condition/circumstance
+ika-	ACTOR: to CAUSE or be REASON for state/condition/circumstance (or OBJCECT: to BE caused to..)
+| NOTE: Generally, intransitive -um- verbs of 'becoming' (cf. §5.6, class J) have corresponding causative—focus
+| verbs formed with either i- or ika-, the two occurring as free alternants.
+| Examples: i(ka)ganda, i(ka)yaman, i(ka)payat
+|
+| Although there are some exceptions, the majority of -um- verbs outside this group (eg, not verbs of becoming)
+| correspond to CF ika- verbs only.
+| In the case of the exceptions, both CF i- and CF ika- verbs occur. In general, the i- verbs imply that the
+| cause of the action is of some importance, as in:
+|
+| Iniluha ni Nena ang pagkawala ng alahas niya.	'The loss of her jewelry made Nena shed tears.'
+|
+| The i- verbs are avoided, and the ika- verbs used instead, where the cause of the action is regarded as trivial.
+| Thus:
+|
+| Ikinaluha ni Nena ang usok.	'The smoke made Nena shed tears.'
 	ika-, ikina-, ikinaCV-, ikaCV-
 	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
 	ikinabubuhay  |  way of making a living
