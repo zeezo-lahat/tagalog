@@ -1,9 +1,22 @@
+basic forms:  153, 155, 248, 250, 283, 466-479
+contained here, notes on:
+ - adverbial phrases and directional complements wrt enclytic pronouns
+      these phrases work like pre-enclytics
+ - uses of nominalized basic form verbs as sentence topics.  these all regard "the doing of" some activity
+    - these can be ACTOR OR GOAL FOCUS basic verb forms
+    - these are all broad adjectival statements about some activity:
+            "Mahirap *taluhin* si Ariella."
+            "Mahirap ang *kumita* ng pera sa panahong ngayon."
+            "Mahirap *matutong* mag-Tagalog."
+    - or topics of goal focus verbs where the topic is about the doing of an activity
+            "Ipinagbabawal kong *manigarilyo* dito."
+ - referential verbs ("about" / "tungkol sa")
+
 p188 ch3: from "Obligitory non pre-enclytics":
 
 *Adverbial phrases* and *directional complements* that begin the construction of which the 
 enclitic pronoun is an immediate part, and that are not linked to this construction by the 
-linker na/-ng. Thus the italicized portions of the following sentences are N with respect to 
-enclitic pronouns: 
+linker na/-ng.
 
 Bukas ng gabi nang alas otso siya aalis.	'It's tomorrow night at eight that he's leaving.' 
 ----------------------------
@@ -16,23 +29,22 @@ Nominalized basic forms occur in only a few special contexts.
 > No nominalized basic forms occur after ng or sa
 > Only the basic forms of *actor-focus* verbs occur after ang 
 
-The most common construction in which a nominalized basic form occurs is one in which it serves as 
-sentence topic. A nominalized actor-focus basic form serving as sentence topic may be preceded by either 
-the topic marker ang or the linker -ng. (note: not "na")
+The most common construction in which a nominalized basic form occurs is one in which it serves as sentence topic.
 
-The constructions with ang and -ng, alternate freely with one another: 
+> A nominalized *actor-focus* basic form serving as sentence topic may be preceded by either the topic marker ang OR
+  the linker -ng. (note: not "na").  The constructions with ang and -ng, alternate freely with one another. 
 
-Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit.	'To throw away clothing is wasteful.'
+> A nominalized *goal-focus* basic form serving as sentence topic is always preceded by the linker -ng (note: not "na")
+  With goal-focus verbs "ang" is never used.
 
-A nominalized *goal-focus* basic form serving as sentence topic is always preceded by the linker -ng (note: not "na"):
+>  "na" is not used with either actor or goal focus verbs with basic-form verb topics.
 
-Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
+These are the three forms:
 
-(ie, with goal-focus verbs "ang" is never used. With actor or goal focus verbs, "na" is not used.)
+Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit. / Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
 
-A nominalized actor-focus basic form may be followed by any of the usual complements, and a
-nominalized goal-focus basic form may be followed by its topic, and by any complements other than
-actor complements: e.g., 
+> A nominalized actor-focus basic form may be followed by any of the usual complements (no actor)
+> A nominalized goal-focus basic form may be followed by its topic, and by any complements other than actor complements.
 
 Magugol magpadala sa kanila ng bigas sa Maynila.	'To have them take rice to Manila is expensive.' 
 
@@ -40,18 +52,20 @@ Note: predicate is "magugol", topic is "magpadala sa kanila ng bigas sa Maynila.
 
 (cf. Nagpadala siya sa kanila ng bigas sa Maynila.	'He had them take rice to Manila.') 
 
-Note no actor complement (ie, doer) of "ibili" ("ibili" here is benefactive "buy for", but can also be instrument focus)
+Note no actor complement (ie, doer) of "ibili" ("ibili" here is benefactive "buy for", but can also be instrument focus):
+
 Magugol ibili ng bigas sa groseri ang pamilya.	'To buy rice for the family from a grocery is expensive.' 
 
 (cf. Ibinili niya ng bigas sa groseri ang pamilya.	'He bought rice for the family from a grocery.') 
 
-*The predicate of a sentence whose topic is a nominalized basic form*
-> must be one of a rather small group of adjectivals or nominals, or of verbals that include goal-focus verbs.
+* The predicate of a sentence whose topic is a nominalized basic form may be:
+ - one of a rather small group of adjectivals or nominals or
+ - *goal-focus* verbs of certain types. (no actor-focus verbs in predicate!)
 
 Examples of adjectivals and nominals that may occur as predicates with basic form topics are:
 
 Adjectivals: 
-bagay ( + sa phrase) 'suitable' ( + 'for' phrase) 
+bagay (+ sa phrase) 'suitable' (+ 'for' phrase) 
 bawal 'prohibited' 
 laban sa batas 'against the law' 
 maaksaya 'wasteful' 
@@ -82,11 +96,9 @@ Some examples of sentences with adjectival or nominal predicates and nominalized
 
 Mapanganib (ang) lumapit sa ahas.	'To go near a snake is dangerous.'
 
-Matrabaho ang magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
-Matrabahong magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
+Matrabaho ang magluto ng lumpia. / Matrabahong magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
 
-Kalokohan ang magsugal.	'Gambling is foolishness.' 
-Kalokohang magsugal.	'Gambling is foolishness.' 
+Kalokohan ang magsugal. / Kalokohang magsugal.	'Gambling is foolishness.' 
 
 Mabuting bigyan ng pera ang mga mahihirap.	'To give money to the poor is good.' 
 
@@ -101,14 +113,14 @@ ipahintulot 'allow'
 isipin 'plan' 
 tangkain 'attempt' 
 
-(2) directional-focus verbs (cf. §5.4): e.g., 
+(2) directional-focus (-an, ka-an) verbs (cf. §5.4): e.g., 
 ilagan 'avoid' 
 iwasan 'avoid' 
 katamaran 'be lazy about' 
 katuwaan 'be amused at' 
 katakutan 'be afraid of'
 
-(3) causative-focus verbs (cf. §5.8): e.g.. NOTE that these are all actor focus as the actor is the cause
+(3) causative-focus (ika-) verbs (cf. §5.8): e.g.. NOTE that these are all actor focus as the actor is the cause
 ikagalak 'be pleased about' 
 ikahiya 'be ashamed about' 
 ikalugod 'be happy about' 
@@ -119,21 +131,39 @@ These verbs are normally followed by a ('ng') actor complement, and then by the 
 Some examples are:
 
 Binalak ko ang mamalengke. / Binalak kong mamalengke.	'I planned to go shopping at the palengke.' 
-
 Inilagan ni Juan ang mag-aral ng Kastila. / Inilagan ni Juang mag-aral ng Kastila.	'Juan avoided studying Spanish.' 
-
-lkinagalak ng titser (ang) pumunta sa bagong iskwela.	'The teacher was pleased about going to a new school.' 
 Ipinagbabawal ng batas lakaran ang daan.	'The law forbids walking in the street.' 
+Ikinagalak ng titser (ang) pumunta sa bagong iskwela.	'The teacher was pleased about going to a new school.' 
 Kinatatamaran niyang gawin ang trabaho.	'He is lazy about doing the work.' 
 Ikinalulungkot ni Manuel isulat siya ng liham.	'Manuel is unhappy about writing a letter for him.'
 
-REFERENTIAL FOCUS: "about", "tungkol sa"
+REFERENTIAL FOCUS: "about", "tungkol sa" (5.10)
 
-5.10
-pag-an derived from intransitive joint action mag- verbs: away, kasundo, pulong, talo, usap..
+> pag-an derived from intransitive joint action mag- verbs: away, kasundo, pulong, talo, usap..
 
-Nag-away sila tungkol sa pera. / Pinag-awayan nila ang pera.	'They quarreled about the money.'
+Intransitive mag-Verb         RfF pag-... . -an Verb 
+mag-away 'quarrel'            pag-awayan 'quarrel about' 
+magkasundo 'be in agreement'  pagkasunduan 'be in agreement about' 
+magpulong 'have a meeting'    pagpulungan 'have a meeting about' 
+magtalo 'argue'               pagtaluhan 'argue about' 
+mag-usap 'converse, talk'     pag-usapan 'talk about' 
 
-there are also some i-, -in, ipag-: isipin, ipaglihim (be secretive about), ikwento OF verbs with same meaning:
+> there are also some misc i-, -in, ipag-:
+ ikwento (tell about something)
+ isipin (think about something)
+ ipaglihim (be secretive about something)
 
-Nag-isip siya ng paglalakbay niya. / Inisip niya ang paglalakbay niya.	'He thought about his trip.'
+These are best interpreted as OF verbs whose topics correspond to object complements occurring with 
+related AF verbs.
+
+NOTE: the mag and pag-an verbs given here are all joint action (by humans) verbs.  The other verbs are not.
+
+Nag-usap sina Rudy tungkol sa giyera. / Pinag-usapan nina Rudy ang (tungkol sa) giyera.	'Rudy and the others talked about matters concerning the war.'
+
+Nag-away sila tungkol sa pera. / Pinag-awayan nila ang (tungkol sa) pera.	'They quarreled about the money.'
+
+Nag-isip siya tungkol sa paglalakbay niya. / Nag-isip siya ng paglalakbay niya. / Inisip niya ang paglalakbay niya.	'He thought about his trip.'
+
+Magkwento ka tungkol doon. / Magkwento ka noon. / Ikwento mo iyon.	'Tell a story about that.' 
+
+Naglihim sila tungkol sa gawain nila. / Naglihim sila ng gawain nila. / Ipinaglihim nila ang gawain nila.	'They were secretive about their activities.' 

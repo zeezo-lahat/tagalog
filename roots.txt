@@ -9822,7 +9822,6 @@ datig (datig) rt_ [noun] an adjacent or nearby area; a place that is next to or 
 pandatig (datig) pang_ [noun] material for lining
 magkaratig (datig) magka_ [adjective] contiguous
 alanganin (alangan) _in [adjective] doubtful; dubious; uncertain; insufficient; homosexual
-alangán (alangan) rt_ [adjective] uncertain; unfit; improper; doubtful; abnormal; irregular; unworthy; insufficient;
 mag-alangán (alangan) mag_ [verb] to be uncertain; to hesitate
 alinangan (alangan) _ hot climate; warmth; heat; hotness;
 pag-alanganan (alangan) pag_an [verb] to hesitate about something
@@ -11487,3 +11486,144 @@ magsilab (silab) mag_ [verb] to build and start a bonfire
 maninilab (silab) mangCV_ [noun] arsonist
 silabán (silab) _an [verb] to set something on fire
 siláb (silab) rt_ [noun] flame; start of a flame; spark
+dabugan (dabog) _an [verb] to stamp one's feet or otherwise make a noise to show anger or annoyance
+dabóg (dabog) rt_ [noun] slamming something in anger; stamping one's feet in anger or annoyance; huffing or otherwise making a noise to indicate annoyance
+dumabog (dabog) _um_ [verb] to stamp one's feet in anger or annoyance; to make a noise in anger or annoyance
+magdabóg (dabog) mag_ [verb] to stamp one's feet in anger
+mapagdabog (dabog) mapag_ [adjective] prone to stamp one's feet angrily (at someone)
+padabóg (dabog) pa_ [adverb] done with anger; poutingly
+pagdadabugan (dabog) pagCV_an [verb] to keep on stamping one's feet angrily at someone
+ipirmí (pirmi) i_ [verb] to fix something (in place)
+magpirmí (pirmi) mag_ [verb] to keep something in a fixed position
+nakapirmí (pirmi) naka_ [adjective] fixed; stuck; trained on; anchored; stable; staying
+pirmí (pirmi) rt_ [adverb] always; remain; [adjective] firm; fixed; stable; staying;
+lintík (lintik) 1.) [noun] damn; awesome (slang); 2.) [noun] lightning
+Makikita mo! (kita) [interjection] You'll see!
+hindi maaaring makita (kita) [adjective] invisible
+ipakita (kita) [verb] to show something; to display something; to indicate; to demonstrate; * focus on the thing being shown
+kiní-kinitá (kita) a series of phantom images, illusions, or deceptive appearances, such as in dreams or as creations of the imagination; visions; illusions; phantasms; apparitions;
+kita (kita) 1.) [noun] earnings; profits; wages; income; 2.) [noun] seeing; see; 3.) [adjective] showing; visible
+kitain (kita) [verb] to earn something
+kitams? (kita) [slang] slang for "kita mo?" meaning "see? (I told you so.)"
+kitá (kita) [pronoun] you are to me; I verb you; I to you;
+kumita (kita) [verb] to earn or make (money); to gain
+kíta-kíts (kita) [expression] See you!; See you later! (slang)
+kítang-kita (kita) [adjective] prominent; easy to see; obvious; noticeable
+magkita (kita) [verb] to meet together; to meet each other accidentally; to see each other (reciprocal)
+magkíta-kita (kita) [verb] to see one another; to meet up; to see each other now and then
+magpakita (kita) [verb] to show; to appear; to demonstrate; to indicate; to display; to show up
+magpakítang-tao (kita) [verb] to act on pretense or for show
+maipakita (kita) [verb] to be able to show something; to be able to display something; to be able to indicate something; to be able to demonstrate something
+makakita (kita) [verb] to happen to see; to see; to see one or some or many; to be able to see; to catch sight of; to be able to find
+makapagpakita (kita) [verb] to be able to show
+makipagkita (kita) [verb] to meet up with
+makita (kita) [verb] to see something; to catch sight of something; to be seen
+makitaan (kita) [verb] to see in someone; to demonstrate; to show
+ngita (kita) face-to-face meeting; encounter; rendezvous; meeting;
+pagkakakitaan (kita) [noun] earning a living; way to make a living; way to make money
+pagkakita (kita) [noun] having seen; upon seeing; observation; seeing
+pagkakitaan (kita) [verb] to earn money from something
+pagkikita (kita) [noun] meeting; encounter; seeing
+pagpapakita (kita) [noun] showing; demonstrating; revealing
+pakitaan (kita) pa_an [verb] to show someone (focus on the person being shown)
+pakitán (kita) pa_an [verb] to show to someone
+pangita (kita) face-to-face meeting; encounter; meeting; rendezvous;
+pinagkakákitaan (kita) pinagkaka_an [noun] job; way of making money; earning a living
+pángitaín (kita) pang_in [noun] omens; vision; sight; premonition; apparition
+tamó (kita) [expression] see?; do you see?; * contraction from "nakita mo"
+aginaldo (aginaldo) rt_ [noun] Christmas present
+aginalduhan (aginaldo) _an [noun] christmas present
+pang-aginaldo (aginaldo) pang_ [noun] christmas gift
+kurakot (kurakot) rt_ [noun] plunderer; stealing; corruption; poacher
+ipagkamalî (mali) [verb] to confuse two things; to mistake one thing for another
+kamalian (mali) [noun] flaw; defect; error; shortcoming; wrongdoing; fault
+kamalán (mali) a collection or accumulation of mistakes; a series of errors; errors; miscues; mistakes; blunders;
+maaaring magkamalî (mali) [adjective] fallible
+magkamalî (mali) [verb] to make a mistake; to be mistaken; to blunder
+malî (mali) [adjective] wrong; incorrect; bad; false; erroneous; mistake
+mamalî (mali) [verb] to be mistaken; to be wrong
+máli-malì (mali) [adjective] confused; erratic;
+pagkakamalî (mali) [noun] mistake; sin; human error; error; blunder; defect; shortcoming; wrongdoing; fault
+pamali`-malì (mali) repeatedly doing something wrong; erroneous; mistaken; faulty; flawed;
+waláng-kamali-malî (mali) [adjective] faultless
+waláng-pagkakamalî (mali) [adjective] infallible
+kalupon (lupon) ka_ [noun] commissioner
+kalupunán (lupon) ka_an [noun] a board of directors managing a business or administrators of an activity; board; committee; panel; assembly; council;
+lupon (lupon) rt_ [noun] committee; board; body; group
+kapilayan (pilay) ka_an [noun] lameness
+makapiláy (pilay) _ a type of rice that grows in wetlands, is heavy, and has color.; rice variety; paddy rice; colored rice;
+mapilay (pilay) ma_ [verb] to become crippled; to become lame
+mapilayan (pilay) ma_an [verb] to sprain; to have a sprain
+pagkapilay (pilay) pagka_ [noun] lameness
+pamimilay (pilay) pangCV_ [noun] limping or awkward walk
+pilantód (pilay) _ [adjective] lame; having a limp; limping; crippled;
+pilay (pilay) rt_ [noun] sprain; dislocation; injury; lameness
+piláy (pilay) rt_ [adjective] crippled; lame
+banlilís (lilis) bang_ to fold or arrange a sleeping mat; fold; arrange; tidy up;
+ililís (lilis) i_ [verb] to unstrap or detach or lift something (usually in reference to clothing, e.g., detach cufflinks); to roll up something (often clothes, e.g., shirt sleeves pr pants)
+inalilis (lilis) _ [noun] sugarcane juice
+lilís (lilis) rt_ [root] the act of folding up the sleeves of a garment or raising the hem of a dress; roll up; lift up; hoist;
+bulón (bulon) rt_ [noun] choking; asphyxiating
+mabulunan (bulon) ma_an [verb] to choke something
+makabulon (bulon) maka_ [verb] to be temporarily choked by food in the throat
+dalaban (laban) the exchange of gifts, help, or favors between parents-in-law; reciprocity; exchange of gifts; mutual support;
+halabhaban (laban) grilled meat of an animal won in a game; prize meat; game-winning grilled meat;
+ilaban (laban) [verb] to fight for something; to insist on something; to pit
+ipaglaban (laban) [verb] to fight for something
+kalaban (laban) [noun] opponent; enemy; adversary; opposition; antagonist; competitor; fellow competitor; foe; rival
+kalabanin (laban) [verb] to fight something/someone
+laban (laban) [noun] fight; match; contest; charge; against; long live (expression)
+laban kay (laban) [preposition] against (used with names of a living being);
+laban sa (laban) [preposition] against (not used with names of a living being);
+labanan (laban) [verb] to fight against something; to fight someone; to oppose something; to defy something
+labanán (laban) [noun] fight; conflict; duel; battle; bout; race; fight with words; confrontation; encounter; contest; combat; firefight
+lumaban (laban) [verb] to fight against; to oppose; to fight back
+lában-laban (laban) [noun] a fight or competition of different groups or sides; contest; competition; battle; match;
+magkakalaban (laban) [noun] competitors
+magkalaban (laban) [verb] to fight each other
+maglaban (laban) [verb] to fight; to fight with one another; to fight back; to compete
+maglabanán (laban) [verb] to fight each other; to compete with each other; (reciprocal verb)
+maipaglaban (laban) [verb] to be able to fight a battle for something
+makalaban (laban) [verb] to fight; to be able to fight (AF) & (OF)
+makilaban (laban) [verb] to join in a fight, contest or conflict
+makipaglaban (laban) [verb] to join a fight; to contend with;
+makipaglabanan (laban) [verb] to fight with
+malabanan (laban) [verb] to be able to fight against something; to be able to oppose something; to be able to defy something.
+manlabán (laban) [verb] to fight back; to resist; to defend oneself;
+mapaglabanan (laban) [verb] to be able to fight something off
+paglaban (laban) [noun] fighting; fight; defiance
+paglabanan (laban) [verb] to fight something; to fight against something
+paglalaban (laban) [noun] fight; combat; match; competition
+pakikipaglaban (laban) [noun] fighting together; struggle; contention
+palabán (laban) [noun] fighter
+panlaban (laban) [noun] contestant; fighter; resisting; for fighting; weapon
+panlalabán (laban) [noun] fighting
+waláng laban (laban) [adjective] helpless
+derota (talo) _ defeat or being defeated; defeat; loss; rout; overthrow;
+di-katalo (talo) di_ka_ [noun] the condition where two players do not bet against each other
+ikatalo (talo) ika_ [verb] to be the reason for being defeated
+katalunán (talo) ka_an [noun] defeat
+kataló (talo) ka_ [noun] rival; loser
+maaaring pagtalunan (talo) phr_ [adjective] debatable
+magpatalo (talo) magpa_ [verb] to allow to be defeated; to back down; to accept defeat; to give in; to admit defeat; to lose (cause a loss)
+magtalo (talo) mag_ [verb] to argue; to debate; to contend; to disagree; (reciprocal verb)
+makipagtalo (talo) makipag_ [verb] to argue (together)
+manalo (talo) mang_ [verb] to win
+matalo (talo) ma_ [verb] to beat someone / to defeat someone (OF); to be beaten / to be losing / to be defeated (AF);
+olats (talo) _ [noun] loser; [adjective] defeated; loser; * slang for the word "talo"
+pagkatalo (talo) [noun] defeat; loss
+pagtalo (talo) pag_ [noun] act of defeating, conquering, beating, etc.
+pagtalunan (talo) [verb] to argue about; to haggle
+pagtatalo (talo) [noun] argument; controversy; dispute
+pagtatalo (talo) [noun] dispute; argument; arguing; controversy; debate
+pakikipagtalo (talo) pakikipag_ [noun] arguing with someone
+patalo (talo) pa_ to give in; to lose
+patatalo (talo) [noun] loss; losing
+talo (talo) [noun] defeat; amount lost; loser; loss; [adjective] defeated
+taluhin (talo) [verb] to defeat someone/something; to beat someone/something
+talunin (talo) [verb] to defeat someone/something; to beat something/someone
+talunán (talo) _an [noun] loser; loser in a game; [adjective] defeated
+tumalo (talo) [verb] to defeat; to beat
+alingangá (alingasngas) _ to provoke or infuriate anyone; annoy; irritate; provoke; anger; infuriate;
+alingasngás (alingasngas) rt_ [noun] scandal; rumors; buzz; hype
+maalingasngás (alingasngas) ma_ [adjective] scandalous

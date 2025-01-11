@@ -1852,6 +1852,7 @@ kolong-kolong	a tricycle cart vehicle for hauling things
 komadre	ninang; matalik na kaibigan (also kumádre, kumáre)
 komplikado	complicated
 konsého	council
+konsentidór	a person who has the power to allow activities that are not appropriate; enabler; indulger; permitter
 konsiyénsiyá	conscience
 koponán	a team
 kortina	curtain
@@ -2378,6 +2379,7 @@ mágnanákaw	thief
 magnasa	wish, want, desire
 magniniyog	coconut farmer
 magpaalam	to bid goodbye; to ask permission
+magpagabi	to stay out late
 magpagaling	to heal, cure, recuperate
 magpahangin	to get some fresh air
 magpahinga	to take a break
@@ -2883,6 +2885,7 @@ matuto	to learn (actor focus)
 matutunan	to learn something; to find something out; to experience something
 matuwa	to enjoy, have fun, be happy
 matwíd	first, just, legitimate
+maubusan	to run out of something (actor focus!)
 maugà	wobbly, loose, rocky, shaky
 mauná	"go first", to go/be first, to lead
 mauná	"go first", to go/be first, to lead
