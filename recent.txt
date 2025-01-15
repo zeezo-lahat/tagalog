@@ -281,7 +281,7 @@ hinayang	(hinayang) rt_ [noun] regret for not having made use of some opportunit
 kalám	hunger pangs
 bunyî	fame, renown, exaltation, exulting (syn. dakilà)
 bunyî	(bunyi) [noun] celebrating; commemorating
-mithî	ideal; earnest wish
+mithî	great ambition, ideal, earnest wish
 ibayo	opposite, opposing; over; extra; doubly; opposite side of something
 ibá	some (of)
 sahol	(sahol) rt_ [adjective] inadequate
@@ -411,7 +411,7 @@ kalálabasán	(labas) kaCV_an [noun] outcome; end result
 banatan	to go hard at someone/something
 banatan	(banat) _an [verb] to attack someone; to beat up someone
 imbák	(imbak) rt_ [noun] conservation; storage
-kápakanán	welfare, sake, interests, well-being, affairs
+kápakanán	welfare, sake, interests, well-being, affairs (pakán)
 hambalang	(hambalang) [adjective] fallen across; strewn around
 angas	a show-off, boastful person
 balagtás	direct statement without circumlocution; shortcut; crossing a street/road
@@ -618,3 +618,31 @@ kalabanin	(laban) [verb] to fight something/someone
 pangmatagalan	(tagal) pangma_an long-term; for the long term; lasting; for a long time
 talunán	(talo) _an [noun] loser; loser in a game; [adjective] defeated
 maalingasngás	(alingasngas) ma_ [adjective] scandalous
+magpasama	(sama) magpa_ [verb] to let come along
+mapágmalakí	proud, snob
+mapilitan	(pilit) ma_an [verb] to be forced; to have no choice; to be obliged
+mangaral	(aral) mang_ [verb] to preach; to give earnest advice
+andáp	flicker
+tutál	anyway
+umpóg	(umpog) [noun] bumping one's head
+bagók	(bagok) rt_ [noun] bump; bump one's head on something
+salpukan	collision
+tahak	taking a shortcut; cutting through; exploring
+malawakan	(lawak) ma_an [adjective] widespread
+iturò	(turo) i_ [verb] to teach something (OF); to point at something (LF); to point out something (LF); to show something (LF); * focus on the thing being taught or pointed to/at
+kahóg	(kahog) rt_ [noun] haste
+alalahanin	(alala) _anin [verb] to remember something; to keep something in mind; to worry about something; * focus on the thing being thought about
+alalahanín	(alala) _anin [noun] worry; concern
+nakapanlulumo	(lumo) nakapangCV_ [adjective] appalling; depressing
+tuntunan	basis, rule, principle
+minimithî	(mithi) _in_ [adjective] cherished; desired
+asám	(asam) rt_ [noun] anticipation; expectation; longing; anticipation; prospects
+dumito	(dito) _um_ [verb] to stay here; to be here
+pamamahay	(bahay) pangCV_ [noun] household; home
+nakapangalan	(pangalan) naka_ [adjective] named; in person's name
+mambola	(bola) mang_ [verb] to flatter; to tell white lies
+utô	simpleton, fool
+manuhol	(suhol) mang_ [verb] to bribe
+alindóg	(alindog) rt_ [noun] great charm or beauty
+gahaman	(gahaman) rt_ [noun] greedy person; [adjective] greedy
+lathalà	(lathala) rt_ [noun] announcement

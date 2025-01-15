@@ -2,7 +2,9 @@ basic forms:  153, 155, 248, 250, 283, 466-479
 contained here, notes on:
  - adverbial phrases and directional complements wrt enclytic pronouns
       these phrases work like pre-enclytics
- - uses of nominalized basic form verbs as sentence topics.  these all regard "the doing of" some activity
+ - uses of *nominalized basic form verbs* as *sentence topics*.
+    - these are all statements saying "to do X" or "doing X" ("Doing X is hard.", "He didn't feel like doing X")
+      not statements saying anyone is/was or will be actually doing anything
     - these can be ACTOR OR GOAL FOCUS basic verb forms
     - these are all broad adjectival statements about some activity:
             "Mahirap *taluhin* si Ariella."
@@ -26,6 +28,7 @@ Sa maliit na bahay sa probinsya siya pupunta.	'It's the little house in the prov
 
 3.25 NOMINALIZED BASIC FORMS p155:
 Nominalized basic forms occur in only a few special contexts.
+
 > No nominalized basic forms occur after ng or sa
 > Only the basic forms of *actor-focus* verbs occur after ang 
 

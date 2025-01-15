@@ -454,6 +454,7 @@ labing-anim (anim) num_ [adjective] sixteen (16)
 pang-anim (anim) pang_ [adjective] sixth
 tig-anim (anim) num_ [adjective] six each
 ánimnapû (anim) num_ [number] sixty (60)
+áanhín (ano) CV_in [verb] what is it worth to someone/something (OF); what will be the use or value of something (OF)
 Ano'ng (ano) phr_ [question] what; * a combination of "ano" and "ang," often written "anong" without the apostrophe
 Ano?! (ano) rt_ [interjection] Say what?!
 Anó ba 'yan! (ano) phr_ [interjection] What the heck! My goodness! (expressing irritation) What is that?!
@@ -475,7 +476,6 @@ mag-anó (ano) mag_ [verb] to do something; to do; to do something (when you can
 paano (ano) pa_ [adverb] how; in what way; what then
 umanó (ano) _um_ [verb] to do something that is impolite to say what it is directly; to do something that cannot/should not be mentioned;
 waláng anu-anó (ano) phr_ [adjective] sudden
-áanhín (ano) _in [verb] what is it worth to someone/something (OF); what will be the use or value of something (OF)
 anod (anod) rt_ [noun] streaming
 anudin (anod) _in [verb] to carry something away by a current; to wash something away
 anurin (anod) _in [verb] to be carried away by a current of water
@@ -10876,10 +10876,10 @@ malas-malasin (malas) [verb] to keep looking at or observing
 malasin (malas) [verb] to have bad luck; to suffer harm; to be unlucky
 napakamalas (malas) [adjective] very bad luck
 pagpapamalas (malas) [noun] showing; showing off; exhibiting
-lumò (lumo) [noun] weariness
-manlumò (lumo) [verb] to feel weary; to feel depressed
-nakapanlulumo (lumo) [adjective] appalling; depressing
-papanlumuhin (lumo) [verb] to cause to feel depressed because of some misfortune
+lumò (lumo) rt_ [noun] weariness
+manlumò (lumo) mang_ [verb] to feel weary; to feel depressed
+nakapanlulumo (lumo) nakapangCV_ [adjective] appalling; depressing
+papanlumuhin (lumo) papang_in [verb] to cause to feel depressed because of some misfortune
 masakláw (saklaw) [verb] to have a particular scope or extent; extensive; broad; inclusive; encompassing;
 panakláw (saklaw) [grammar] indefinite
 pasaklaw (saklaw) pa_ [verb] to allow oneself to be included under another's jurisdiction
@@ -11613,17 +11613,61 @@ matalo (talo) ma_ [verb] to beat someone / to defeat someone (OF); to be beaten 
 olats (talo) _ [noun] loser; [adjective] defeated; loser; * slang for the word "talo"
 pagkatalo (talo) [noun] defeat; loss
 pagtalo (talo) pag_ [noun] act of defeating, conquering, beating, etc.
-pagtalunan (talo) [verb] to argue about; to haggle
-pagtatalo (talo) [noun] argument; controversy; dispute
-pagtatalo (talo) [noun] dispute; argument; arguing; controversy; debate
+pagtalunan (talo) pag_an [verb] to argue about; to haggle
+pagtatalo (talo) pagCV_ [noun] argument; controversy; dispute
+pagtatalo (talo) pagCV_ [noun] dispute; argument; arguing; controversy; debate
 pakikipagtalo (talo) pakikipag_ [noun] arguing with someone
 patalo (talo) pa_ to give in; to lose
-patatalo (talo) [noun] loss; losing
-talo (talo) [noun] defeat; amount lost; loser; loss; [adjective] defeated
-taluhin (talo) [verb] to defeat someone/something; to beat someone/something
-talunin (talo) [verb] to defeat someone/something; to beat something/someone
+patatalo (talo) paCV_ [noun] loss; losing
+talo (talo) rt_ [noun] defeat; amount lost; loser; loss; [adjective] defeated
+taluhin (talo) _in [verb] to defeat someone/something; to beat someone/something
 talunán (talo) _an [noun] loser; loser in a game; [adjective] defeated
-tumalo (talo) [verb] to defeat; to beat
+tumalo (talo) _um_ [verb] to defeat; to beat
 alingangá (alingasngas) _ to provoke or infuriate anyone; annoy; irritate; provoke; anger; infuriate;
 alingasngás (alingasngas) rt_ [noun] scandal; rumors; buzz; hype
 maalingasngás (alingasngas) ma_ [adjective] scandalous
+Panáy (panay) name_ [noun] the 6th largest island in the Philippines, located south of Manila and slightly northwest of Cebu and Negros
+magpanay (panay) mag_ [verb] to make all of a group the same or equal
+panayan (panay) _an [adjective] continuous; nonstop; unceasing | [adverb] continuously; unceasingly
+panayin (panay) _in [verb] to make all of a group the same or equal; to do something equally
+panáy (panay) rt_ [adjective] full of; regularly; always composed of; all; all about; always; the same; of one kind; uniform; everyone / all; pure; continuous; steady
+katimpalák (timpalak) ka_ [noun] competitor in a literary or beauty contest, etc.
+makipagtimpalak (timpalak) makipag_ [verb] to compete in a contest
+patimpalák (timpalak) pa_ [noun] contest.; competition
+timpalák (timpalak) rt_ [noun] competition; contest; rivalry
+Bagong Tipán (tipan) _ [noun] New Testament (in the Bible)
+Lumang Tipán (tipan) _ [noun] Old Testament
+Matandang Tipan (tipan) _ [noun] old testament
+katipán (tipan) ka_ [noun] fiance; engaged person; betrothed
+may-katipán (tipan) may_ka_ [adjective] betrothed
+pakikipagtipán (tipan) pakikipag_ [noun] rendezvous
+simpanan (tipan) _ a place or container for things kept or stored; repository; storage; depository; holding area; container;
+simpán (tipan) _ the act of keeping something as a way of preserving or protecting it; preservation; safekeeping; conservation
+tipán (tipan) rt_ [noun] testament; covenant; appointment
+asintada (sinta) _ the alignment or arrangement in a straight line; alignment; array; lineup;
+kásintahan (sinta) ka_an [noun] sweetheart
+magkásintahan (sinta) magka_an [noun] lovers; sweethearts; pair of lovers; couple
+maninta (sinta) mang_ [verb] to love
+masintahin (sinta) ma_in [adjective/adverb] lovingly; affectionately
+sintahan (sinta) _an [noun] love affair
+sintahín (sinta) _in [verb] to love (be in love)
+sintá (sinta) rt_ [noun] love; love between man and woman
+sinísintá (sinta) _ [noun] beloved; loved one
+umpóg (umpog) [noun] bumping one's head
+kahóg (kahog) rt_ [noun] haste
+magkumahóg (kahog) mag_um_ [verb] to rush; to hasten
+magmithî (mithi) mag_ [verb] to crave for; to yearn for; to aspire to
+minimithî (mithi) _in_ [adjective] cherished; desired
+mithiin (mithi) _in [noun] desire; ideal; aspirations; goal; wish; yearning;
+mithî (mithi) rt_ [noun] ideal
+pinakamimithî (mithi) pinakaCV_ [adjective] fondest; most desired
+pakán (pakan) rt_ [root] benefit; advantage; gain; profit;
+alindóg (alindog) rt_ [noun] great charm or beauty
+maalindóg (alindog) ma_ [adjective] charming
+kagahaman (gaham) _ [noun] use of threats or intimidation
+gahaman (gahaman) rt_ [noun] greedy person; [adjective] greedy
+kalaguyò (laguyo) ka_ [noun] lover
+laguyò (laguyo) rt_ [noun] camaraderie
+latak (latak) rt_ [noun] residue; debris; scum
+paglalatak (latak) pagCV_ [noun] sedimentation (geology)
+balatinaw (tinaw) _ pupil of the eye; a moderate-height tree (diospyros pilosanthera) whose bark is used as a cough medicine; pupil of the eye.; pupil; medicinal tree;

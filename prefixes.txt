@@ -383,11 +383,16 @@ maisa-	abilitative of isa- (cause condition to be)
 maka-	adjectives of fondness, association, orientation, inclination
 	makasarili, makaako, makabago (modern, progressive), makabayan, makakalimutan, makaluma, makatao
 maka-	verb: (obj) abilitative (ka-in) (eg, Kakausapin ko siya. "I'm going to talk to him.")
-	Dapat makausap kita.	I need to talk to you.
 maka-	verb: (obj) social ma- incidental
 	Nákasalubong ko ang kaibigan ko.	I ran into my friend.
 	Dapat makausap kita.	I need to talk to you.
+maka-	verb: (actor) abilitative/causative (ika-)
 maka-	verb: (actor) assoc with _um_ verbs. to be able/have opportunity to do/cause/bring about something
+| The second vowel of maka- is commonly long in the case of some major verbs, short in the case of 
+| others: thus, usually /maka halata'/, /makasu lit/. In the usage of most younger speakers, however, the 
+| length of the second vowel of maka- is non-distinctive, and pronunciations like /makahalata'/ or 
+| /maka'sulit/ may also occur, with the use of the less usual pronunciation not affecting the meaning of the 
+| verb.
 	-> compare this with makapag- (assoc with mag verbs)
 	makatulong, makaratíng, makakuha, makaraán, makakita, makaramdám
 	Pwede makahingi ng listahan nito?	Can I have a list of this?
@@ -400,7 +405,6 @@ maka-	(actor) accidental/incidental/unintentional of -um-, actor focus of simila
 	maka-iwan  |  to accidentally leave something behind
 	maka-basag  |  to accidentally break something
 	makatulog  |  to fall asleep
-maka-	verb: (actor) abilitative/causative (ika-)
 makapag-	to be able to do something, assoc with mag- verbs usually (actor focus)
 		-> compare this with maka- (assoc with um verbs)
 		makapagsalita siya ng English  |  she is able to speak English

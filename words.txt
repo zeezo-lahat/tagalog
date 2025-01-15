@@ -117,7 +117,7 @@ alimango	crab
 alimasag	small crab, a type of small crab
 alimpuyó	whirlpool; whirl of wind, dust, smoke or water
 alín	which?
-alingasngás	a scandal
+alingasngás	a scandal, generally associated with malanding babae
 alin-alin	which? (plural)
 alín man	whichever
 aling	a title of familial respect used before the first name of a woman; when the name is not appended, the noun form is ale
@@ -864,6 +864,7 @@ gagambá	spider
 gagáp	very well known; profound knowledge; comprehend; grasp; understand deeply
 gahak	a rip, tear, chink
 gahák	ripped
+gaháman	slang(?) greedy
 gahasa	rape
 galà	rove, wander
 galák	joy, delight
@@ -1532,7 +1533,7 @@ kalabóg	thud of a heavy falling body
 kalabóso	prison
 kaladkád	drag/dragging
 kalagayan	state, condition
-kalaguyò	lover
+kalaguyò	lover; mistress
 kalahati	half
 kalahok	contestant
 kalakal	merchandise, commodity
@@ -1607,6 +1608,7 @@ kamusmusan	innocence (as a child)
 kanais-nais	desirable
 kanan	right (vs. left)
 kanayunan	center of a village/barrio; a remote rural area (also nayon)
+kandúngan	lap
 kangina	just awhile ago today
 kaní-kanina	(usually said as "kaní-kanina lang") just now, just a while ago, just a moment ago
 kani-kanino	whose? (plural)
@@ -1631,7 +1633,7 @@ kapabayaán	negligence (baya)
 kapág	when, whenever, upon (implies certainty, though commonly used same as kung)
 kapahamakán	catastrophe, injury
 kapaín	to grope, search for
-kápakanán	welfare, sake, interests, well-being, affairs
+kápakanán	welfare, sake, interests, well-being, affairs (pakán)
 kapaláran	fate
 kapaligiran	surroundings (ligid)
 kapalit	what is received in return
@@ -1792,6 +1794,7 @@ kawal	soldier, follower, troops, pawn (chess)
 kawalán	loss, a lack of X, void, nothingness
 kawalang-kahulugan	“absence of meaning”, meaninglessness
 kawali	frying-pan
+káwan	herd, flock, swarm
 káwang-gawâ	charity (káwanggawâ)
 kawaní	employee, assistant, helper
 káwanihán	bureau
@@ -1814,6 +1817,7 @@ kilanlín	to recognize someone, to admit something (-in)
 kilay	eyebrow
 kilíg	tremble, shudder; giddiness
 kiligin	to be tickled pink
+kílik	pagdalá ng bigat sa baywang sa tulong ng bisig, karaniwang sa pagbuhat ng batà
 kilikili	armpit
 kilos	action, movement, motion; demeanor, behavior, conduct, manner, attitude (ásal)
 kimona	a kind of loose native blouse; maluwag na blu-sang pang-itaas, maikli ang mang-gas, at karaniwang ipinapatong sa sáya.
@@ -1941,6 +1945,9 @@ kuwago	owl
 kuwán	whatchamacallit/thingie/so-and-so
 kuwarto	room, bedroom
 kuweba	cave
+kuwéla	kung sa palabas, masayá, at madalîng unawain
+kuwéla	magaang pakisamahan
+kuwéla	nakasusunod sa uso o panlasa ng iba
 kuwelyo	collar
 kuwenta	(also kwenta) accounting/calculating; value
 kuwento	story, tale, narration
@@ -2927,7 +2934,7 @@ minsanan	a one-time thing
 miron	spectator, curious onlooker
 mismis	in the midst/middle/thick of something(???)
 mismo	self, myself, himself, herself "siya mismo -> he, himself"; exactly, precisely; very, actual
-mithî	ideal; earnest wish
+mithî	great ambition, ideal, earnest wish
 mithiin	crave for, long for keenly, desire vehemently
 mitsa	wick (part of an oil lamp or candle)
 módo	manners, civility (asal, ugalì)
@@ -4049,6 +4056,7 @@ salitain	to put into words
 salóp	a quantity or container of rice (also: ganta (dry measure of 3 liters))
 salot	epidemic, pest, plague
 salpók	collision, impact (syn of banggâ)
+salpukan	collision
 saltík	crazy
 salubong	welcome, reception
 salubungin	to welcome
@@ -4373,7 +4381,7 @@ tagpuín	to go and meet
 tagumpáy	victory, success, triumph, overcoming
 tagurian	to give a name/nickname to (tinagurian, tinatagurian, tatagurian)
 tagusán	to pierce
-tahak	to take a shortcut; explored, travelled over
+tahak	taking a shortcut; cutting through; exploring
 tahakin	to go on a challenging path
 tahanan	residence; reside in, live in (emphasis on the place)
 tahás	assigned task; specific duty; direct, specific ("ang tahas na pagsasalita ni Boris")
@@ -4444,6 +4452,7 @@ tambalang-salita	paired words, compound words
 tambáng	ambush
 tambángan	ambush
 tambay	instantly, immediately; consumed, finished; killed instantaneously
+tamból	drum
 tamis	sweetness; pleasure
 tampisáw	splashing/playing in water
 tampó	sulking
@@ -4550,6 +4559,8 @@ timog	south
 timplada	mixture, compound
 timtím	the ability to endure hardship and to restrain the outburst of emotions; restraint; self-control; endurance; forbearance; patience
 timyás	genuineness or purity of love, loyalty, etc.
+tínaw	paglalagay ng tubâ sa mga tapayan
+tináw	luminaw ang likido pagbabâ ng mga latak o dumi; hinugasan nang maraming ulit ang isang bagay; nakaupô sa sahig, damo, at katulad
 tinda	selling, merchandise
 tindahan	a store
 tindero	a male seller

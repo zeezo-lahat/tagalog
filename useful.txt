@@ -17,11 +17,11 @@ Hindî mo nasaksihán kung paano ko naipanalo ang patimpalák.	You were not able
 waláng kaalám-alám ako	I don't have the faintest idea
 Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be happy about her test score?
 Inabangán namin ang pagsali ni Carrie sa patímpalák.	We kept an eye out for Carrie's participation in the contest.
-Mahirap masiguro na pápasá akó sa pagsusulit.	It's difficult to tell if I would pass the test.
+Mahirap masiguro na pápasá akó sa pagsusulit.	It's difficult to be sure that I will pass the test.
 May aangal ba kung hindî táyo magkákaroón ng Christmas party?	Would anybody protest if we will not be holding a Christmas party?
 Pinanalunan ko ang kotse sa paligsahan.	'I won the car as a prize in the contest.'
 Pinagbalaan kami ng titser na ang test ay magiging mahirap.	The teacher warned us that the test would be hard.
-Mahirap tukuyin kung sino ang may sala.	It's difficult to to name the perpetrator.
+Mahirap tukuyin kung sino ang may sala.	It's difficult to say who is at fault.
 Tutukuyin ko siyá bilang Sharlene.	I will refer to her as Sharlene.
 Tukuyin ang manwál bago magpasyá.	Refer to the manual before making a decision.
 Tukuyin ang mga alituntunin sa pagsasalin.	Identify the principles of translation.
@@ -108,3 +108,17 @@ Huwág kayóng mag-away kasí pwede namáng mapag-usapan iyán nang maayos.	Don'
 May nalalakaran na.	There's someone walking on it now.
 Buti sana kung hindi ko kayo pinagsabihan.	It would be better if I didn't have to scold you about it.
 Bakit mo siyá pinahintulutang maglakwatsa?	Why did you allow him to wander around?
+Napipilitan ka lang sa mga ginagawa mo para sa pamilya mo.	You are obligated to do certain things for your family.
+Pagbibigyan kita.	I'll let you have what it is you want.
+Pinatalsík sa páaralán ang barumbadong binatà.	The delinquent young man was expelled from school.
+Ayaw niyáng magaya ang gawâ niyá.	He doesn't want his work to be imitated.
+Gawang bubog ang kastilyo niya.	His castle was made of broken glass.
+Ikinamatáy niyá ang rabies mulâ sa kagát ng aso.	Rabies from a dog bite caused his death.
+Nagdaán akó sa palengke patungo sa opisina.	I passed the market on my way to the office.
+Malay ko ba kung anong pakay mo.	How would I know what you plan to do?
+Maligo ka nga din para hindi ka nangangamoy.	You should bathe so you don't stink.
+Bilisan ma baka mahuli ka sa trabaho mo.	Hurry up or you'll be late for work.
+sa pamamagitan ng pagtatanóng mako-kontrol mo ang pag-uusap	by asking questions, you control the conversation
+Kanino puwedeng magtanóng dito kung anóng oras daratíng ang trén?	Who here can I ask what time the train will arrive?
+May bakuna laban sa trangkaso.	There’s a vaccine against the flu.
+Nagkaroón ng trangkaso ang anák ko kahapon.	My child got/had the flu yesterday.
