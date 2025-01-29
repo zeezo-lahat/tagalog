@@ -566,11 +566,9 @@ tákad	base, foundation, system (batayán)
 lusob (lusob) rt_ [noun] attack; assault; invasion
 salakay (salakay) rt_ [noun] raid; attack; invasion
 sapák	(sapak) rt_ [noun] punch; beating
-nangángatóg	(katog) nangang_ [adjective] shaking
 utô-utô	idiotic, foolish, easily fooled, gullible; cheating
 utô-utô	(uto) rt_rt [adjective] idiotic; foolish; cheating; easily fooled; gullible
 wagás	pure, perfect
-tutál	anyway
 masinop	(sinop) ma_ [adjective] careful; fastidious; frugal; meticulous
 paasahin	(asa) pa_in [verb] to lead someone to expect
 pinakahíhintáy (hintay) pinakaCV_ [adjective] long-awaited
@@ -592,11 +590,9 @@ lakwatsa	(lakwatsa) rt_ [noun] goofing off; truancy; wandering; absenteeism; pro
 tirhan	to spare, set aside for someone
 tirhán	(tira) _an [verb] to set aside; to populate; to reside somewhere; to live somewhere
 konsentidór	a person who has the power to allow activities that are not appropriate; enabler; indulger; permitter
-pálamunín	(lamon) pa_in [noun] a jobless person who depends on others to live; a "mooch"
 intindihín	(intindi) _in [verb] to understand something; to care about something; to pay attention to something; to attend to something; to take charge of something
 astá	(asta) rt_ [noun] posture; demeanor; action; act; acting; aspect; how a person carries oneself
 pakitaan	(kita) pa_an [verb] to show someone (focus on the person being shown)
-alangán	(alangan) rt_ [adjective] uncertain; unfit; improper; doubtful; abnormal; irregular; unworthy; insufficient;
 kurakot	(kurakot) rt_ [noun] plunderer; stealing; corruption; poacher
 pumuná	(puna) _um_ [verb] to notice; to criticize
 pagkámalán	to mistake someone/something (for something else); to misconstrue something
@@ -652,7 +648,6 @@ lagalág	wanderer, rover; well travelled, nomadic, wandering
 hablutín	(hablot) _in [verb] to grab something
 yurakan	(yurak) _an [verb] to trample on something
 ikilos	(kilos) i_ [verb] to behave; to act
-paalalahánan	to remind (focus on those being reminded)
 mag-alangán	(alangan) mag_ [verb] to be uncertain; to hesitate
 buntón	(bunton) rt_ [noun] pile; collection; batch
 maálalahanín	(alala) ma_anin [adjective] devoted; considerate; thoughtful; compassionate
@@ -660,7 +655,6 @@ bunggô	(bunggo) rt_ [noun] collision; impact
 manmanán	(manman) _an [verb] to observe carefully
 mudmód	(mudmod) rt_ [noun] distribution
 sadsád	(sadsad) rt_ [adjective] aground; stranded; marooned
-perwísyo	damage
 nakasimangot	(simangot) naka_ [adjective] frowning; scowling; pouting
 tunggalian	(tunggali) _an [noun] rivalry; conflict
 rangyâ	(dangya) rt_ [noun] extravagance, ostentatiousness
