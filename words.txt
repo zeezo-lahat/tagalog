@@ -375,6 +375,7 @@ balsa	a float, raft, ferry
 balugà	Aeta people, dark skinned indigenous people. Usually used in an impolite / slang manner.  
 baluktót	curved, bent, crooked; wicked, bad; curl in thread, rope, string; curve; coiled; distorted; mixed up; in a wrong order; askew
 balutì	armor, breastplate
+banáag	glimmer of light, ray of light; liwaywáy
 banál	holy, virtuous, blessed
 banát	stretched, tension, tense, smooth
 bánat	stretching; a pull to stretch something; a hit, strike, insult
@@ -996,7 +997,7 @@ gutóm	hungry
 habà	length
 habaan	extend, lengthen
 habágat	southwest, often ref. to storm winds
-hábang	while, throughout, during ("as long as"?)
+hábang	(haba + na) while, throughout, during
 hábang-buhay	lifelong, "while alive" (var: habambuhay)
 habang-panahon	"while time", forever
 habas	prudence, discretion
@@ -1057,7 +1058,7 @@ hangga	result, end, outcome
 hanggán	end, boundary, limit
 hanggánan	end, boundary, limit (stylized variant of "hanggán")
 hanggang	until, up to
-hanggát	while; unless; as long as (hanggá't - "hanggang at")
+hanggát	("hanggang at") while/during; unless; as long as (like 'basta')
 hangin	air, wind
 hango	relief from difficulties; literary adaptation or reproduction from original; derived, extracted, adapted
 hángos	pagmamadalî maging sa pagsalita, sa pagkilos, o sa paggawâ
@@ -1103,6 +1104,7 @@ higpít	tightness; strictness, severity
 hikahós	needy, poor, bankrupt
 hikaw	earring
 hikayat	persuasion, encouragement toward a particular action
+hikayatin	to endorse
 hila	pull
 hilaga	north
 hilahin	to pull
@@ -1332,6 +1334,7 @@ ipagpatuloy	to go ahead / keep on / continue with / pursue something
 ipagpaumanhin	to excuse
 ipagsaya	to celebrate
 ipagtapát	to confide, confess, be truthful
+ipahanap	to have something (ang) searched for (by sa)
 ipakahulugan	to give as an intrepretation
 ipakilála	(ng) to make known, introduce, bring into acquaintance (ang) to (sa)
 ipakíta	to show / cause (sa) to see something (ang), to let be seen
@@ -1389,6 +1392,7 @@ itapát	to put directly in front, opposite, above or beneath
 itapon	to throw something
 itarak	plunged in as of a dagger
 itatanong	will ask it
+itik	duck
 itim	black
 itira	set aside
 itlóg	egg
@@ -2245,6 +2249,7 @@ mabahala	to be concerned or apprehensive
 mabaít	nice, kind
 mabalaghán	to be astonished
 mabalot	wrap around, envelop, enshroud, encase, encrust
+mabanaagan	enlightened
 mabanatan	to be beat up
 mabangís	savage, vicious, fierce, ferocious
 mabasag	to be broken
@@ -3010,6 +3015,7 @@ nakabubuo	constructive (helpful)
 nakabukas	is open
 nakagagayak	decorative
 nakakaantók	yawnful/boring
+nakakadaos	surviving
 nakakahawa	contagious, infectious
 nakakainis	irritating, annoying
 nakakakilabot	fearsome
@@ -3053,7 +3059,7 @@ nakatakíp	something acting as a lid; (takíp) [adjective] covered; covered by a
 nakatalagá	prepared
 nakatanod	is on guard; is watching over…
 nakatarak	knife or dagger sticking out with a sharp end embedded
-nakatengga	the state of lying idle or on hold, usually only applied to inanimate objects (i.e., not to people).
+nakatengga	lying idle or on hold
 nakatikim	to have tasted/tried something
 nakatungo	with head bent down
 nakatutulong	helpful
@@ -3191,10 +3197,12 @@ ningas-kugon	quickly going up in flames after starting something
 nino	whose, post positive form of kanino. (Kaninong bahay, bahay nino? Whose house?)
 ninong	godfather
 ninunò	ancestor; grandparent
+ninyó	you/your (plural)
 nito	ng + ito - (of) this/these
 nitso	tomb
 niyebe	snow
 niyog	coconut
+niyó	ninyó
 niyón	(of) that ("ng" form of "iyon"); "that one", some of that/those", etc., also written as "noón"
 noó	forehead, brow
 nood	root word related to watching (manoód, panoorín, etc.)
@@ -3487,10 +3495,12 @@ pakundanganan	respect
 pakyu	fuck you
 palá	expression of realization; indicates change in topic, as "by the way"
 pála	a shovel
+palaasá	hopeful
 palaaway	belligerent
 palabán	feisty
 palabás	a movie, show, program 
 palabaybayan	spelling
+palabirô	fond of joking
 paláboy	vagabond, bum, loafer, waif; free to graze anywhere
 palad	palm of the hand; destiny, luck, fortune, fate
 palagáy	opinion, estimation, estimate, assumption (lagay)
@@ -3847,6 +3857,7 @@ polusyon	pollution
 poók	place, site
 pook-pamilíhan	literally “marketplace”
 Poón	Lord; God; Master; (shortened form of "Panginoon")
+porké	just because (from Spanish porque 'because')
 porsiyénto	percent (syn: bahagdán)
 pósas	handcuffs
 poso	a well
@@ -3998,7 +4009,7 @@ sabong	cockfight; cock-fight
 sabungan	cockpit (cockfighting gallery)
 sábunután	hair-pulling quarrel
 sadlák	falling into shame
-sadyâ	purpose, aim; intended; purposefully, intentionally
+sadyâ	intent, purpose, aim; intended; purposefully, intentionally
 sagabal	hindrance, obstacle
 saganà	labis-labis ang dami
 sagasà	to run over
@@ -4135,6 +4146,7 @@ saya-saya	very happy
 sayáng	waste; sayang! What a loss/waste/pity!
 sayaw	dance
 saysáy	statement; value
+sebo	grease, fat; tallow; suet; shoe polish
 sekyu	security guard (also "sikyo")
 seldâ	cell, small room as in a jail, convent, etc. [coll.]
 selos	jealousy
@@ -4543,6 +4555,7 @@ tigang	very dry (soil); barren
 tigás	hardness, toughness, stiffness
 tigdás	measles
 tigil	stop, pause
+tigmák	babád, lubhang basâ dahil sa malakas na buhos ng anumang likido, gaya ng tao na tigmak sa ulan, o pader na tigmak sa pintura
 tigok	sound produced in the throat by swallowing
 tiisin	to endure something (free alt/dialectical of pagtiisan)
 tikbalang	mythical demon horse

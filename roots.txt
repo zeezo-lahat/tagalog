@@ -228,7 +228,7 @@ alalá (alala) rt_ [adjective] worried; concerned
 alaláng-alalá (alala) rt_na_rt [adjective] very worried; worried sick
 ipaalala (alala) ipa_ [verb] to give a reminder about something
 maalala (alala) ma_ [verb] to remember something; to be reminded of something; to be able to remember something; to recall something; to remember something by accident; to reminisce about something
-maalalahanín (alala) ma_anin [adjective] devoted; considerate; thoughtful; compassionate
+maálalahanín (alala) ma_anin [adjective] devoted; considerate; thoughtful; compassionate
 mag-alalá (alala) mag_ [verb] to worry; to be concerned; to be anxious; to be apprehensive
 magpaalala (alala) magpa_ [verb] to give a reminder;
 makaalala (alala) maka_ [verb] to be able to remember
@@ -7138,7 +7138,7 @@ ipasaló (salo) ipa_ [verb] to have someone catch something; to have someone con
 kasalo (salo) ka_ [noun] partaker
 magsalo (salo) mag_ [verb] to share; to share in eating
 pagsaluhan (salo) pag_an [verb] to share
-panaló (salo) pa_ [noun] support (from falling); container for falling objects, etc.; something used for catching
+panaló (salo) pang_ [noun] support (from falling); container for falling objects, etc.; something used for catching
 saluhín (salo) _in [verb] to catch; to support; to pay for someone else
 saló (salo) rt_ [noun] a catch of something thrown
 sumalo (salo) _um_ [verb] to join another; to join another in eating
@@ -8811,7 +8811,7 @@ magtinginan (tingin) mag_an [verb] to look at one another
 makatingín (tingin) maka_ [verb] to be able to look
 mapatingín (tingin) mapa_ [verb] to happen to look at; to happen to see; to suddenly look at
 nakatingín (tingin) naka_ [adjective] looking
-pagtingín (tingin) pa_ [noun] looking; favor; attention; attitude
+pagtingín (tingin) pag_ [noun] looking; favor; attention; attitude
 pakitingnán (tingin) paki_an please look at (something)
 paningín (tingin) pang_ [noun] vision; sight; view; sense of sight
 patingín (tingin) pa_ [adjective] looking; [interjection] look!
@@ -8845,7 +8845,7 @@ nakatirá (tira) naka_ [adjective] reside; resident; live
 pagtirá (tira) pag_ [noun] residence
 tira (tira) rt_ [noun] turn or move (in a game)
 tirahan (tira) _an [noun] shelter; residence; address; domicile
-tirahin (tira) _in [verb] to strike or hit; to fuck (slang/vulgar)
+tirahin (tira) _in [verb] to strike or hit; to have sex with (slang/vulgar)
 tirahán (tira) _an [verb] to reside in; to live in
 tirhán (tira) _an [verb] to set aside; to populate; to reside somewhere; to live somewhere
 tirá (tira) rt_ [noun] leftover; residual
@@ -9822,7 +9822,6 @@ datig (datig) rt_ [noun] an adjacent or nearby area; a place that is next to or 
 pandatig (datig) pang_ [noun] material for lining
 magkaratig (datig) magka_ [adjective] contiguous
 alanganin (alangan) _in [adjective] doubtful; dubious; uncertain; insufficient; homosexual
-mag-alangán (alangan) mag_ [verb] to be uncertain; to hesitate
 alinangan (alangan) _ hot climate; warmth; heat; hotness;
 pag-alanganan (alangan) pag_an [verb] to hesitate about something
 pag-alang-alanganan (alangan) pag_rt_rt_an [verb] to show respect or consideration for
@@ -11044,17 +11043,17 @@ matamó (tamo) [verb] to attain something (OF); to reap something (OF); to recei
 pagkatamo (tamo) [noun] acquisition
 pagtatamo (tamo) [noun] acquiring; attaining
 tamuhín (tamo) [verb] to obtain something; to acquire something to evoke something; to elicit something
-katarungan (katarungan) [noun] justice; rightness; fairness
-makatarungan (katarungan) [adjective] just; fair; righteous
-kasampalataya (sampalataya) [noun] fellow believer (in religion)
-sumampalataya (sampalataya) [verb] to believe in God
-itupî (tupi) [verb] to fold something
-katupi (tupi) a feather or plumage of birds and other animals, usually colored and used as an ornament on hats, caps, or helmets; a board used as a paddle; an instrument shaped like a hanger, made of wood, and struck with a piece of wood to produce sound, commonly used in rituals; wing; feather or plumage; feather; plumage; paddle; ritual instrument;
-magtupî (tupi) [verb] to fold
-matupi (tupi) [verb] to be folded
-nakatupî (tupi) [adjective] folded
-patupián (tupi) [verb] to get something folded
-patupiín (tupi) [verb] to get someone to fold (something)
+katarungan (katarungan) rt_ [noun] justice; rightness; fairness
+makatarungan (katarungan) maka_ [adjective] just; fair; righteous
+kasampalataya (sampalataya) ka_ [noun] fellow believer (in religion)
+sumampalataya (sampalataya) _um_ [verb] to believe in God
+itupî (tupi) i_ [verb] to fold something
+katupi (tupi) _ a feather or plumage of birds and other animals, usually colored and used as an ornament on hats, caps, or helmets; a board used as a paddle; an instrument shaped like a hanger, made of wood, and struck with a piece of wood to produce sound, commonly used in rituals; wing; feather or plumage; feather; plumage; paddle; ritual instrument;
+magtupî (tupi) mag_ [verb] to fold
+matupi (tupi) ma_ [verb] to be folded
+nakatupî (tupi) naka_ [adjective] folded
+patupián (tupi) pa_an [verb] to get something folded
+patupiín (tupi) pa_in [verb] to get someone to fold (something)
 tupî (tupi) rt_ [noun] hem; fold; pleat; plait
 magpatanyág (tanyag) magpa_ [verb] to make famous or popular
 magtanyag (tanyag) mag_ [verb] to make famous or popular
@@ -11671,3 +11670,80 @@ laguyò (laguyo) rt_ [noun] camaraderie
 latak (latak) rt_ [noun] residue; debris; scum
 paglalatak (latak) pagCV_ [noun] sedimentation (geology)
 balatinaw (tinaw) _ pupil of the eye; a moderate-height tree (diospyros pilosanthera) whose bark is used as a cough medicine; pupil of the eye.; pupil; medicinal tree;
+Pahiyá ka no? (hiya) [expression] Wasn't that embarrassing?
+buhiyá (hiya) the strength of light that uses electricity; electric brightness; brightness; illumination; luminosity;
+dalanghiyâ (hiya) cmp_ [adjective] to feel shame or to experience a sense of embarrassment; embarrassment; shame; humiliation;
+dyahe (hiya) slang_ [adjective] embarrassing; shameful; awkward; (slang)
+hiyang-hiyâ (hiya) rt_na_rt [adjective] humiliated; embarrassed
+hiyayà (hiya) _ the topmost layer or surface of anything; surface; top layer; exterior; covering;
+hiyaín (hiya) _in [verb] to shame someone; to embarrass someone;
+hiyâ (hiya) [noun] shame; embarrassment; feeling embarrassed; shyness
+ikahiyâ (hiya) ika_ [verb] to cause shame or embarrassment
+ipagmakahiya (hiya) ipagmaka_ [verb] to avoid doing something so as not to lose face or be embarrassed
+ipahiyâ (hiya) ipa_ [verb] to shame someone
+kahihiyán (hiya) kaCV_an [noun] shame; embarrassment; shyness; humiliation; dishonor;
+kahiya-hiyâ (hiya) ka_rt_rt [adjective] shameful
+kahiyaan (hiya) ka_an [noun] something done in order to save face or not to lose favor
+kawalanghiyaan (hiya) ka_walang_an [noun] shamelessness
+langyâ (hiya) cmp_ [expression] short for 'walang hiya', meaning unashamed, without shame; an exclamation for a shocking or aggravating wrongdoing; used for an inconsiderate or rude person
+magbigay-hiyâ (hiya) cmp_ [verb] to show respect for persons, traditions, etc.
+magdulot ng kahihiyán (hiya) [verb] to bring shame upon
+magkáhiyaan (hiya) [verb] to feel shy around each other; to feel ashamed around each other
+mahiyain (hiya) [adjective] shy; bashful; timid; coy
+mahiyâ (hiya) 1.) [verb] to feel ashamed; to be embarrassed; 2.) [verb] to feel shy; to feel bashful;
+makapanghiyâ (hiya) ma_ [verb] to cause shame; to cause embarrassment
+mapahiyâ (hiya) mapa_ [verb] to be shamed; to be humiliated; to be embarrassed
+nakákahiyâ (hiya) nakaka_ [adjective] embarrassing; awkward; disgraceful; shameful; unworthy; scandalous; humiliating
+napakawalang-hiya (hiya) napaka_walang_ [adjective] cruel and coarse
+ohiya (hiya) _ envy; jealousy;
+pagbigyang-hiya (hiya) [verb] to show respect for persons, traditions, etc.
+pagkapahiyâ (hiya) [noun] having gotten embarrassed or ashamed
+panghihiyâ (hiya) [noun] causing shame to another person; shaming; humiliation; embarrassment;
+walanghiyâ (hiya) [adjective] shameless; without shame; without honor; brazen
+waláng-kahiya-hiyâ (hiya) [adjective] completely without shame
+émbarasoso (hiya) embarrassing; causing shame or embarrassment; shameful; awkward; mortifying; humiliating;
+masigabo (sigabo) ma_ [adjective] loud and prolonged[noun]
+pagyurak (yurak) pag_ [noun] trampling
+yumurak (yurak) _um_ [verb] to trample
+yurak (yurak) rt_ [noun] trample; crush
+yurakan (yurak) _an [verb] to trample on something
+indakuna (indak) _ a kind of dance; dance; folk dance; traditional dance;
+indák (indak) rt_ [noun] tapping one's feet; dancing
+umindák (indak) _um_ [verb] to dance gracefully
+ipamudmód (mudmod) ipa_ [verb] to distribute to a number of individuals
+mudmód (mudmod) rt_ [noun] distribution
+iparatang (paratang) i_ [verb] to impute a certain offence or crime to someone
+magparatang (paratang) mag_ [verb] to accuse
+paratang (paratang) rt_ [noun] accusation; complaint; imputation
+alit (alit) rt_ [noun] quarrel
+inalitan (alit) in_an something that has been shouldered or what is left after the rice has been reaped; burden; remnant; residue; leftover;
+kaalit (alit) ka_ [noun] adversary; opponent; foe; enemy;
+mansigit (sigit) place of prayer; sanctuary; chapel; shrine; oratory;
+sigít (sigit) brightness or beam that passes through a gap or hole; beam; ray; gleam; shaft of light;
+badyahin (badya) _in [verb] to signal or indicate something; to mimic someone
+badyá (badya) rt_ [noun] declaration; expression
+magbadyâ (badya) mag_ [verb] to signal; to express; to declare; to assert; to threaten
+palabadya (badya) pala_ [adjective] having the habit of mimicking
+himlayan (himlay) _an [noun] bed; cemetery
+himláy (himlay) rt_ [noun] slumber
+humimláy (himlay) _um_ [verb] to lie down to rest or sleep; to be in a deep sleep
+mahimláy (himlay) ma_ [verb] to slumber; to be laid to rest
+paghimláy (himlay) pag_ [noun] act of lying down to rest or sleep; death
+balan-ulam (ulam) cmp_ [noun] a large plate used for serving dishes; main dish platter; serving platter; serving dish;
+iulam (ulam) i_ [verb] to have something as a viand / main dish
+kaulam (ulam) ka_ [adjective] suitable for (ref. to certain viands)
+mag-ulam (ulam) mag_ [verb] to make a dish; to eat a dish
+ulam (ulam) rt_ [noun] the item(s) in a meal or snack that are eaten together with rice or noodles; viand
+ulamin (ulam) _in [verb] to make a dish (viand)
+bulalas (bulalas) rt_ [noun] something said in a loud voice; exclamation; blurting
+bulalár (bulalas) _ waste or squandering; wastage; dissipation; profligacy;
+ibulalas (bulalas) i_ [verb] to exclaim; to blurt out
+maibulalas (bulalas) mai_ [verb] to be able to exclaim something; to be able to blurt out something; to happen to blurt out something
+pagkabulalas (bulalas) pagka_ [noun] venting of emotion
+masidhî (sidhi) ma_ [adjective] intense; fervent; vehement
+sidhî (sidhi) rt_ [noun] intensity; severity
+sumidhî (sidhi) _um_ [verb] to intensify
+kukutín (kukot) _in [verb] to nibble
+kukót (kukot) rt_ [root] to peel or scrape off something using the fingernails; scratch; scrape; peel;
+dí-makaugagà (ugaga) [adjective] unable to do a lot of things at once, or finish all tasks required
+magkandá-ugaga (ugaga) [adjective] tense; nervous
