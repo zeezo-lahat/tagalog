@@ -15,7 +15,7 @@ Gináganáp ngayón sa Mendiola ang mga protesta.	The protests are happening rig
 Higít diyán ang nadáramá kong kalugurán.	My delight goes beyond that.
 Hindî mo nasaksihán kung paano ko naipanalo ang patimpalák.	You were not able to witness how I was able to win the contest.
 waláng kaalám-alám ako	I don't have the faintest idea
-Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be happy about her test score?
+Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be pleased by her test score?
 Inabangán namin ang pagsali ni Carrie sa patímpalák.	We kept an eye out for Carrie's participation in the contest.
 Mahirap masiguro na pápasá akó sa pagsusulit.	It's difficult to be sure that I will pass the test.
 May aangal ba kung hindî táyo magkákaroón ng Christmas party?	Would anybody protest if we will not be holding a Christmas party?
@@ -33,7 +33,7 @@ Kinailangan ni Richard na magpahingá nang isáng buwán pagkatapos niyáng magk
 Kinailangan kong magpápalít ng salapî.	I had to exchange currency.
 Paano kung siyá ang mangailangan ngayón?	What if he's the one in need this time?
 Nangailangan ng panahón ang rehabilitasyón niyá.	His rehabilitation took time.
-Makíkiníg ka kapág tinúturuan kitá.	You should pay attention when I'm teaching you.
+Makíkiníg ka kapág tinúturuan kitá.	Pay attention/listen when I'm teaching you.
 Hindî mo na ba akó nakíkilala?	Don't you recognize me anymore?
 Makíkipag-ugnayan ba ang nanay mo sa mga kamag-anak ninyó?	Will your mother get in touch with your relatives?
 Maraming makikita sa palengke.	There is a lot to see at the market.
@@ -50,10 +50,10 @@ Hindi ako marunong mag-maneho.	I don’t know how to drive.
 Ilang wika ang marunong ka?	How many languages do you speak?
 Marunong ako ng kaunting Tagalog.	I know a little Tagalog.
 Marunong akóng magparamdám ng pagmamahál sa mga tao.	I have a real talent for making people feel loved.
-Ano ang sasakyán ko papuntáng Pasig?	What will I take going to Pasig?
+Ano ang sasakyán ko papuntáng Pasig?	What will I take to get to Pasig?
 Unang beses kong papuntang dalampasigan.	This is the first time I've gone to the beach.
 Dalawampung kilometro ang papuntáng airport.	It's twenty kilometers to the airport.
-Gustó mo bang papuntahín natin si Rose dito?	Would you like us to invite Rose over?
+Gustó mo bang papuntahín natin si Rose dito?	Would you like us to have Rose come over?
 Paano ko maitatalâ ang mga natutuhan ko?	How do I record what I learn?
 Dinamay mo pati ang mga pinsan mo na walang kinalaman diyan.	You even involved your cousins who have nothing to do with that.
 Nagkulang ako sa iyo.	I didn’t do enough for you.
@@ -116,7 +116,7 @@ Gawang bubog ang kastilyo niya.	His castle was made of broken glass.
 Ikinamatáy niyá ang rabies mulâ sa kagát ng aso.	Rabies from a dog bite caused his death.
 Nagdaán akó sa palengke patungo sa opisina.	I passed the market on my way to the office.
 Malay ko ba kung anong pakay mo.	How would I know what you plan to do?
-Maligo ka nga din para hindi ka nangangamoy.	You should bathe so you don't stink.
+Maligo ka nga din para hindi ka nangangamoy.	Bathe please so you don't smell.
 Bilisan ma baka mahuli ka sa trabaho mo.	Hurry up or you'll be late for work.
 sa pamamagitan ng pagtatanóng mako-kontrol mo ang pag-uusap	by asking questions, you control the conversation
 Kanino puwedeng magtanóng dito kung anóng oras daratíng ang trén?	Who here can I ask what time the train will arrive?
@@ -143,3 +143,13 @@ Huwág mo akóng awayin.	Don't fight/quarrel with me.
 Saan pa nga ba??	Where else??
 Ilang taong lang, may anak na tayong nars.	In just a few years, we'll have our own child who is a nurse.
 Nagawa kong magsinungaling dahil sa galit ko sayo.	I told you a lie because of my anger towards you.
+Wala nang isang minuto ang natitira.	Less (?) than a minute left.
+Utangin mo na lang yung pampagawa mo.	Just utang your repair cost.
+Gawán mo ako ng pagkain.	Make me some food.
+Gawán mo ng paraán.	Make a way (to solve it).
+Gawán mo silá ng bahay.	Make them a house.
+Ginagawán mo ng problema.	You’re making a problem out of it.
+Nagawán mo ba ng paraán?	Were you able to make a way (to solve it)?
+Ikinataka at ikinagulat ko ito.	It puzzled and surprised me.
+Noong akmang lalapit na ako ay bigla itong umalis sa lugar.	When I was about to approach, it suddenly left.
+Alam na alam mong huli lamang ako ng apat na minuto.	You know very well I'm only four minutes late.

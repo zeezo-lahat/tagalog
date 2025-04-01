@@ -250,7 +250,7 @@ Ang rosas ay bulaklak.	A rose is a flower.
 Ang sabong ay paglalaban ng dalawang tandang na may tari. Ito ay galing	umano sa Mehiko. Ito’y dala rito ng mga Kastila.
 Ang sagot sana sa mga tanong na ito ang magdudulot sa atin ng higit	pang panggigilalas sa naturang bukirin ng Banaue.
 Ang sakit nitong mga sinabi nila.	Very hurtful these things they said.
-Ang sanggol ay walang kamungawan sa kanyang paligid.	The infant has no grasp of his surroundings.
+Ang sanggol ay walang kamuwangan sa kanyang paligid.	The infant has no grasp of his surroundings.
 Ang sarap nong pansit.	The noodles were delicious.
 Ang sarap!	Very delicious!
 Ang sawa ay isang malaking ahas.	A python is a large snake.
@@ -4843,7 +4843,7 @@ kambal-patinig	diphthong
 kambál: anumang uri ng kahoy, punò, at bungang nakapaloob sa iisang	balát, at sa ganito nang ayos lumaki
 kambál: magkapatid na ipinanganak nang halos magkasabay o ilang sandali	lámang ang pagitan
 kami	we
-kamungawan	comprehension
+kamuwangan	comprehension
 kamí: tumutukoy sa panauhang pangmaramihan at nagsasalita, ngunit hindi	kasáma ang kinakausap
 kanais-nais	desirable
 kanang binti	right leg
