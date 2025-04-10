@@ -32,12 +32,17 @@ p-	'abstract of action or a hypostatic state'
         magkang- involuntary comprehensive action (magkakangdarapa - will stumble accidentally)
 -an	nouns of place, period, tools, joint performance
 	kilusán | a movement, campaign, activity, crusade
--an	to do something in direction of LOCATIVE FOCUS (ex. dalhan - bring to, sing to, go to, write to)
+-an	adverb/adjective
+	tuwiran direct, straight forward, blunt
+	pilian choosy
+	puspusan thoroughly; completely; seriously
+	panayan continuous(ly), unceasing(ly), nonstop
+-an	verb: to do something in direction of LOCATIVE FOCUS (ex. dalhan - bring to, sing to, go to, write to)
 	Lagyan ng tubig ang ref.  |  Put the water in the ref.
 	Abangán ang súsunód na kabanatà.  |  Stay tuned for the next episode.
 	Inabangán kitá sa kanto kagabí.  |  I kept an eye out for you at the street corner last night.
 	Dito kitá áabangán bukas.  |  I will keep an eye out for you here tomorrow.
--an	to do something for a beneficiary, though this is not strictly grammatical (ex. tirhan - leave something for someone)
+-an	verb: to do something for a beneficiary, though this is not strictly grammatical (ex. tirhan - leave something for someone)
 	Binilhán ni John ng bulaklák ang nanay niyá.  |  John bought flowers/a flower for his Mom.
 	Bilhán mo akó ng prutas sa supermarket.  |  Buy me some fruits at the supermarket.
 	Bigyán mo akó ng halimbawà.  |  Give me an example.
@@ -47,14 +52,14 @@ p-	'abstract of action or a hypostatic state'
 	Ayaw mo ba akóng bigyán?  |  Don't you want to give me one/some?
 	Pag biníbigyán ka, tanggapín mo lang.  |  If they're giving you something, just take it.
 	Nag-alók si Sonia na bigyán siyá ng kopya ng libró.  |  Sonia offered to get her a copy of the book.
--an	to cause something to become X (ex, gandahan, habaan, hinaan, lakasán) (object)
+-an	verb: to cause something to become X (ex, gandahan, habaan, hinaan, lakasán) (object)
 	Tátangkaín niyáng taasán ang iskór sa pagsusulit.  |  She will try to get a higher test score in the exam.
 	Bíbilisán ni Amado ang pagmamaneho.  |  Amado will drive faster.
 	Bilisán natin at bakâ maabutan pa natin ang bus.  |  Let's move faster as we might still be able to catch the bus.
 	Bagalan mo ang paglakad mo.  |  Walk slowly.
 	Galingán mo.  |  Do your best.
 	Gágalingán ko sa súsunód.  |  I will try to do better next time.
--an	to do something to someone/something (buksan, walisan, hugasan, hayaan)
+-an	verb: to do something to someone/something (buksan, walisan, hugasan, hayaan)
 	Sabihan mo akó.  |  Let me know.
 	Pakisabihan mo si Jack na pumuntá dito.  |   Please tell Jack to come here.
 	Mamayâ mo na lang siyá sabihan.  |  Just tell him later.
@@ -272,7 +277,8 @@ ma-an	abilitative (locative)
 	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
 ma-an	opinion (actor)
 ma-an	to affect an object (obj.)
-ma-in	adj. of inclination or quality in high degree or personal characteristics (ex. matulungin - helpful)
+ma-in	adj. of inclination or quality in high degree or personal characteristics.  associated with 'ma' verbs 
+	which are 'ka-an' directional-focus. 
 	consist of the prefix ma- /ma/, a base that also occurs as the base of ma- verb, and the suffix -in /in/.
 	 (The ma- verbs whose bases occur in ma-. . .-in adjectives all belong to the class of directional ma-
 	 verbs whose directional-focus counterparts are formed with ka-an
@@ -299,7 +305,7 @@ mag-	nouns of two people or things having having reciprocal relationship (used a
 	mag-usap, magkita
 magCum-	to exert great effort in doing
 	magpumilit - to persist; to insist on
-mag-an	reciprocal or group action
+mag-an	reciprocal/mutual group action
 	magmahalan  |  to love each other
 	magsigawan  |  to shout at each other
 	Nagtawanan ang magkakaibigan nang mádulas ang isá sa kanilá.  |  The friends laughed when one of them tripped.
@@ -309,7 +315,8 @@ magCV-	mag- with great intensity or deliberateness
 magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolola) (also with ka-)
 magCV-	nouns referring to a person associated with something (ex. magbobote)
 mag-REP-REP-an	act like or pretend
-magka-	to acquire/become something or to occur involuntarily/accidentally (magkasakit)
+	Nagbulung-bulungan ang mga Pariseo at ang mga eskriba.	The Pharisees and scribes whispered to each other.
+magka-	to non-deliberately acquire/become something or to have occur (actor)
 	magka-aberyá (aberya) magka_ [verb] to encounter an unexpected problem; to hit a snag
 	magkaanák (anak) magka_ [verb] to have a child; to have a baby
 	magkaganoón (ganoon) magka_ [verb] to get like that; to come to be like that
@@ -471,6 +478,7 @@ mapag-an (obj) abilitative of pag-an
 mapag-an ()
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
 mapag- (adj) having a personal characteristic (mapagpunyagI - persistent, mapagmahál - loving)
+	associated with mag verbs.  no changes in stress.
 	mapagbalatkayo - deceiptful, artful
 	Mapagbigáy and mamang iyán.	The man is generous.
 mapang- (adj) fondness adjectives for mang- verbs (with same associated pronunciations and spelling adjustments)
@@ -577,9 +585,12 @@ paki-	favor/request/please (obj.)
 paki-	??, eg "pakiramdam": feeling (n)
 pakiki-	nouns of MUTUAL/JOINT activity (noun form of maki- verbs)
 pakikipag-	nouns of MUTUAL/JOINT activity (makipag- verbs. ex. pakikipag-usap - conversing)
-pala-	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
-	Palabasa ng mga diyaryo si Juan.	'Juan is fond of reading newspapers.'
-	usually associated with -um- verbs.  similar to mapag- fondness adjectives.
+pala-   adjectives of inclination which have a base that also occurs as the base of a verb.  In most cases, the
+	verb in which the base occurs is an -um- verb, though maligo -> palaligo, matulog -> palatulog as 'ma'
+	verbs, and, for some people only, mag-aral -> palaaral, magbintang -> palabintang, magluto -> palaluto,
+	magsigarilyo -> palasigarilyo as mag- verbs.  most people though use mapag- for these.
+	describes personal characteristics - FONDNESS or FREQUENTNESS (ex. palabiro - funny/fond of making jokes)
+	Palabasa ng mga diyaryo si Juan.	'Juan is fond of reading newspapers.' (bumasa)
 	if base has long penult, two freely alternating pronunciations: one in which the length of the penult vowel
 	 is retained, the other in which it is lost. so palabasa is either palabasá or palabása (cf. bása/bumása)
 	 palalakad can be either palalAkad or palalakAd.  palapunta (puntá: short penult base) is just palapuntá

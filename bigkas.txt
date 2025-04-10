@@ -1,0 +1,115 @@
+na ito -> nEto
+
+Tagalog phonemes:
+/a b d e f g h i k l m n ng o p r s t ts u w y '/
+
+VOICELESS STOPS:
+/p/, /t/, and /k/ differ from their English counterparts — the initial phonemes of 'pill', 'till', and
+'kill', for example — in several ways
+
+Tagalog /t/ is dental, while English /t/ is alveolar.
+
+Glottal stops: /'/ -> [']
+
+There are cases where /'/ is omissible, and other cases in which it is obligatorily omitted. 
+
+A word—initial /'/ is optionally omitted when the word occurs in the middle of a phrase. Thus the 
+initial /'/ of a word like ano /'anoh/ 'what' is omissible when the word occurs in a phrase like "sa ano"
+'on what', which may be pronounced either /sa 'anoh/ or /sa-noh/. 
+
+"sa ano" -> /sa 'anoh/ or /sa*noh/. 
+
+A glottal stop within a word, particularly between vowels, is also omissible. Thus saan 'where' may be
+pronounced either /sa'an/ or /sa*n/.
+
+"saan" -> /sa'an/ or /sa*n/
+
+Word-final /'/ is obligatorily omitted and is replaced by vowel length when the word occurs in the 
+middle of a phrase. Thus "mahaba" 'it's long' is phonemically /maha'ba'/ while "mahaba ba" is it long?' is 
+/maha-ba-bah/. 
+
+"mahaba ba" -> /maha*ba*bah/
+
+Vowels:
+
+Phonemes: /i/, /e/, /a/, /o/, and /u/, and historically /i/, /a/, /u/.
+
+The present five-phoneme Tagalog vowel system has developed historically from a three-phoneme system, in
+which there was one front-vowel phoneme, /i/, one central-vowel phoneme, /a/, and one back-vowel phoneme,
+/u/. The addition of the phonemes /e/ and /o/ likely came from Spanish and English loan words entering the
+language.
+
+/i/: allophones [i] ('beat') and [/] ('bit'). 
+                  This ^ is an italic/slanted 'I'.
+
+The allophone [i], an upper-high-front spread vowel, is similar to the English vowel that occurs as the first
+element of a diphthong in 'be' /biy/ or 'beat' /biyt/.
+
+The allophone [/], a lower-high-front spread vowel, is similar to the vowel of English 'bit' /b/t/.
+
+While the sounds [i] and [/] occur both in English and in Tagalog, the sounds play quite different 
+roles in the vowel systems of the two languages. In English the difference between the two sounds may be 
+used in distinguishing two words from one another (e.g., 'beat' and 'bit'). In Tagalog the difference between 
+the sounds is never used in this way, and any word in which one of the sounds occurs may be pronounced 
+with the other as well, with no change of meaning. 
+
+Although [i] and [/] are interchangeable in Tagalog without any resultant change of meaning, one or 
+the other of the sounds is the more usual under certain specifiable conditions. A long /i/ is usually 
+represented by the [i] allophone.  As in 'biro' or 'kilos', 'marami', 'labi ko' (labì) (/lAbI-koh/ - 'my lips').
+
+A short /i/ is usually represented by the [/] allophone.  As in 'kidlat', 'labis', 'gabi na' (gabí) (/gabi nah/ -
+'it's night now').
+
+A short /i/ in a phrase-final syllable — i.e., a syllable followed by pause — is, however, often represented by 
+the [i] allophone when the phrase-final word is being emphasized. 
+
+Many words that have the phoneme /i/ in a word-final syllable allow the replacement of /i/ by /e/ if the word is
+phrase-final. Most of the words that allow alternation between /i/ and /e/ in a phrase-final syllable are words
+of native Tagalog origin.
+
+
+e
+
+The two principal allophones of the Tagalog phoneme /e/ are [e] and [3]: respectively, an 
+upper-mid-front spread vowel and a lower-mid-front spread vowel. The allophone [e] is similar to the 
+English vowel that occurs as the first element of a diphthong in 'bay' /bey/ or 'bait' /beyt/; the allophone 
+[3] is similar to the English vowel that occurs in 'bet' /b3t/. 
+
+In the Tagalog of some speakers, the two principal allophones of /e/ are in completely free alternation 
+with one another.  Other speakers prefer one or the other of the allophones in some or all contexts, but, since
+there is no context in which a majority of speakers reject either allophone, either [e] or [3] may be used to
+represent the phoneme in all cases. 
+
+As was mentioned in § 1.6, many words that have /i/ in a word-final syllable allow the replacement of 
+/i/ by /e/ if the word is *phrase-final*.
+
+Such alternation between /i/ and /e/ is extremely common in the case of words of native Tagalog origin with
+*short penultimate vowels*; and in fact, the great majority of such words allow the alternation.
+
+For some speakers the alternation in these words is entirely free, the two phonemes being used
+interchangeably; for other speakers, either /i/ or /e/ is normal, the other occurring under certain
+conditions of style or in special contexts. At any rate, both /i/ and /e/ are very common in 
+the final syllable of words like the following, when the words are followed by a pause:
+
+gabi /gabih/ or /gabeh/
+itim /'itim/ or /'item/
+mabait /maba'it/ or /maba'et/
+
+There is also a good deal of alternation between /i/ and /e/ in phrase-final syllables in words of native 
+Tagalog origin with long penultimate vowels. The alternation is particularly common in the case of syllables 
+ending in /h/. 
+
+lalaki /lalAkih/ or /lalAkeh/ 'man' 
+sili /sIlih / or /sIleh/ 'pepper' 
+gabi /gAbih/ or /gAbeh/ 'yam' 
+
+It may be noted that the phoneme /e/, except when it occurs as a replacement for /i/ in a phrase-final 
+syllable, is usually found in words borrowed into Tagalog from other languages. In native Tagalog words, 
+the sound most often occurs as a variant of the diphthong /ay/.
+
+In the Tagalog of certain younger speakers, long /e/ also occurs as a free alternant of the sequence 
+/i'a/.  for example, pronounce 'hindi ako' ('not I') (normally, /hindi' akoh/) as /hindEkoh/. 
+
+a
+
+The two principal allophones of Tagalog /a/ are [a] and [a]. 

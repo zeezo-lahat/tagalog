@@ -1,4 +1,4 @@
-ka ko mo (two-letter personal pronouns)
+ka ko mo (two-letter / one-syllable personal pronouns)
                                          syllables
 na/pa                                        1
 man - even (if, though), although (as kahit) 1
@@ -17,14 +17,15 @@ kasí - because, cause                        2
 yata`- it seems, apparently                  2
 sana - hope, unrealized condition            2
 
-(remaining personal pronouns)
+two-syllable personal pronouns:
 niya namin natin ninyo nila  ako siya kami tayo kayo sila
 ------------NG-------------  ------------ANG-------------
 SING -------PLURAL---------  --SING-- -----PLURAL--------
 3333 11111 11111 22222 3333  111 3333 1111 1111 2222 3333
 
-Note: all the ng personal pronouns start with n, except ko and mo
-      these are all the 2 syllable ones.
+Note: all the two-syllable 'ng' personal pronouns start with 'n'
 
-fyi: sa personal pronouns: akin, amin/atin; iyo, inyo; kaniya, kanila
-   1st person start with "a", 2nd person with "i", 3rd person with "k"
+fyi: sa personal pronouns: (These are not enclytics)
+      1st person start with 'a': akin, amin, atin
+      2nd person start with 'i': iyo, inyo
+      3rd person start with 'k': kaniya, kanila

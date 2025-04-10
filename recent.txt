@@ -457,7 +457,6 @@ salik	component, part, constituent, ingredient; cause, motive, factor
 matamó	(tamo) ma_ [verb] to attain something (OF); to reap something (OF); to receive something (OF)
 talastasan	(talastas) _an [noun] communication
 ipot	droppings of fowls and small animals
-balangkas	framework, plan
 lagom	(lagom) rt_ [noun] the act of encompassing all things; the consolidation of everything into one; consolidation; amalgamation; unification; convergence;
 peryahan	(perya) _an [noun] fair; exhibition; carnival
 lubák	pothole, hollow in the ground
@@ -726,3 +725,10 @@ tingalâ	(tingala) rt_ [adjective] looking upward; tilted upward
 hayagan	(hayag) _an [adverb] in public; openly; without restraint
 makabuluhán	(bulo) maka_an [adjective] meaningful; relevant; significant
 kapara	(para) ka_ [adjective / adverb] like; as
+halimuyak	fragrance, scent; whiff; spreading of scent, etc.
+matumbók	(tumbok) [noun] to hit; to hit the center of something; to hit exactly; to be spot on
+masagì	(sagi) ma_ [verb] to touch something lightly in passing (OF); to brush up against something (OF); to be sideswiped (AF)
+gatong	firewood, fuel; to feed with fuel, to put into the fire as fuel
+kaukulán	(ukol) ka_an [grammar] case; [noun] relation; [adjective] related; associated
+pagkámalán	to mistake someone/something (for something else); to misconstrue something
+balangkás	(balangkas) rt_ [noun] framework; plot; outline; mentality

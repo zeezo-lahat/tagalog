@@ -2,14 +2,19 @@ abala (abala) rt_ [noun] delay; nuisance; disturbance; interruption; inconvenien
 abalahin (abala) _in [verb] to bother someone; to interrupt someone; to worry someone; to distract someone
 abalá (abala) rt_ [adjective] busy; occupied; preoccupied; focused on
 abaláng-abalá (abala) rt_na_rt [adjective] very busy; super busy
+interúpsiyón (abala) _ interruption or the act of interrupting; interruption; disturbance; disruption;
 kaabalahan (abala) ka_an [noun] busyness; preoccupation
 maabala (abala) ma_ [verb] to inconvenience someone (OF); to be inconvenienced (AF); to be delayed (AF); to be bothered (AF)
 mag-abalá (abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)
+magpakaabala (abala) magpaka_ [verb] to go to much trouble
 makaabala (abala) maka_ [verb] to cause a nuisance; to cause a disturbance; to bother; to cause an interruption
+mang-abala (abala) mang_ [verb] to bother or trouble somebody
 mapang-abala (abala) mapang_ [adjective] troublesome; bothersome
 nakaaabala (abala) nakaCV_ [adjective] troublesome; bothersome
 pag-abala (abala) pag_ [noun] interrupting; interfering; bothering; delaying
 pagkáabalahán (abala) pagka_an [verb] to be very busy with something; to be engrossed in something; to keep busy with something
+pang-aabala (abala) pangCV_ [noun] creating inconvenience or disturbance; disturbance; inconvenience; interruption; hindrance; bother;
+pang-abala (abala) pang_ [noun] pertaining to a person or thing that causes inconvenience or disturbance; disturbing; troublesome; inconveniencing; disruptive;
 púnong-abalá (abala) phr_ [noun] host
 umabala (abala) _um_ [verb] to be hindered or delayed
 abanger (abang) slang_ [noun] waiter; someone who is waiting; * slang
@@ -291,7 +296,7 @@ alimpungát (alimpungat) rt_ [noun] half awake; half asleep; grogginess
 alinlangan (alinlangan) rt_ [noun] doubt; doubting; uncertainty; [adverb] uncertainly
 mag-alinlangan (alinlangan) mag_ [verb] to doubt
 pag-aalinlangan (alinlangan) pagCV_ [noun] hesitation; doubts; doubting
-Alís! (alis) rt_ [interjection] Leave!; Get outta here!
+Alís! (alis) _ [interjection] Leave!; Get outta here!
 alisán (alis) _an [verb] to remove something from something/someone; to take something away from someone; * focus on the thing/person that is having something taken away /removed
 alisín (alis) _in [verb] to remove something; to take something off; to take something away; to get rid of something; to eliminate something; to delete something; to cancel something
 alís (alis) rt_ [noun] departure; leaving; [expression] Leave!; Get out of here!; [adjective] departed
@@ -456,7 +461,7 @@ tig-anim (anim) num_ [adjective] six each
 ánimnapû (anim) num_ [number] sixty (60)
 áanhín (ano) CV_in [verb] what is it worth to someone/something (OF); what will be the use or value of something (OF)
 Ano'ng (ano) phr_ [question] what; * a combination of "ano" and "ang," often written "anong" without the apostrophe
-Ano?! (ano) rt_ [interjection] Say what?!
+Ano?! (ano) _ [interjection] Say what?!
 Anó ba 'yan! (ano) phr_ [interjection] What the heck! My goodness! (expressing irritation) What is that?!
 Anó ba?! (ano) phr_ [interjection] What do you want?! Don't bother me!
 Anó daw? (ano) phr_ [phrase] When you failed to hear/understand something; What was said?; What was that?; Say it again?
@@ -547,7 +552,7 @@ apóy (apoy) rt_ [noun] fire
 maapóy (apoy) ma_ [adjective] fiery; flaming
 mag-apóy (apoy) mag_ [verb] to burst into flames; to burn; to be on fire; to burn hot
 takáw-apóy (apoy) cmp_ [idiomatic] flammable
-Aprúb! (aprub) rt_ [interjection] Approved!
+Aprúb! (aprub) _ [interjection] Approved!
 aprubado (aprub) sp_ [adjective] approved
 aprubahán (aprub) _an [verb] to approve something
 maaprubahán (aprub) ma_an [verb] to be able to approve something
@@ -3486,13 +3491,18 @@ makahingî (hingi) maka_ [verb] to be able to ask
 manghingî (hingi) mang_ [verb] to solicit; to ask earnestly; to ask around for something
 paghingî (hingi) pag_ [noun] request; petition; asking
 pahingî (hingi) pa_ [expression] May I have; Please give me; Please let me have; Please give me one!; May I have one/some, please?;
-hintayan (hintay) _an [noun] waiting room
+hintayan (hintay) _an [noun] bus stop; waiting room; waiting area;
 hintayín (hintay) _in [verb] to wait for something/someone
 hintáy (hintay) rt_ [noun] waiting
-káhihintáy (hintay) kaCV_ [gerund/noun] waiting
+káhihintáy (hintay) kaCV_ [gerund/noun] just waiting; waiting
+maghintayan (hintay) mag_an [verb] to wait for each other
 maghintáy (hintay) mag_ [verb] to wait; to await
+magpahintay (hintay) magpa_ [verb] to make someone wait
+mahintáy (hintay) ma_ [verb] to be able to wait for something
+makapaghihintay (hintay) makapagCV_ [verb] to be able to be put off or wait until another time
 makapaghintáy (hintay) makapag_ [verb] to be able to wait
 paghintayán (hintay) pag_an [verb] to wait somewhere
+paghintayín (hintay) pag_in [verb] to have someone wait; to make someone wait
 paghíhintáy (hintay) pagCV_ [noun] waiting; wait
 pakí hintáy (hintay) paki_ [phrase] please wait
 pinakahíhintáy (hintay) pinakaCV_ [adjective] long-awaited
@@ -6185,7 +6195,7 @@ sa panahón ng (panahon) phr_ [preposition] during; [adverb] under; in the seaso
 ipanalo (panalo) i_ [verb] to win something; to win a game/competition
 maipanalo (panalo) mai_ [verb] to be able to win something
 manalo (panalo) ma_ [verb] to win
-mapanalunan (panalo) ma_an [verb] to win
+mapanalunan (panalo) ma_an [verb] to win something, something won used as nominal ("ang napanalunang premyo")
 pagkapanalo (panalo) pagka_ [noun] winning
 panalo (panalo) rt_ [noun] winner; winnings; win
 ipanatà (panata) i_ [verb] to vow to do something; to commit to do something
@@ -9064,13 +9074,13 @@ makapagpatuloy (tuloy) makapagpa_ [verb] to be able to continue; to be able to p
 makituloy (tuloy) maki_ [verb] to stay somewhere temporarily
 matuluyan (tuloy) [verb] to be able to stay/live somewhere
 matulóy (tuloy) ma_ [verb] to follow through with something; to continue on with something; to be able to continue something; to push something through
-pagpapatuloy (tuloy) pagpapa_ [noun] continuation; extension
+pagpapatuloy (tuloy) pagCVpa_ [noun] continuation; extension
 patuloy (tuloy) pa_ [adjective] continuous; constant; perpetual; [adverb] continuing; continues; continuously; keeping on; keep on; ceaseless
 patuluyin (tuloy) pa_in [verb] to provide lodging/shelter for someone; to house someone
 tagapagpatuloy (tuloy) tagapagpa_ [noun] propagator; forwarder
 tuluyan (tuloy) _an [adverb] eventually; effectively; in the end; consequently; fully; [noun] temporary home or shelter;
 tuluyán (tuloy) _an [verb] to stay/live somewhere; to goad someone on; to continue on to somewhere;
-tulóy (tuloy) rt_ [interjection] come in! [adverb] continue; proceed; pushing through; as a result; as a consequence; might as well; continues; next; eventually; accordingly;
+tulóy (tuloy) rt_ [adverb] continue; proceed; pushing through; as a result; as a consequence; might as well; continues; next; eventually; accordingly; [interjection] come in! 
 tulúy-tulóy (tuloy) rt_rt [adjective/adverb] is endless; non-stop; continuously.; continuous; never stops; keeps on; keeps on happening
 tumulóy (tuloy) _um_ [verb] to continue; to go ahead; to come in; to go on; to proceed; to board; to reside temporarily
 matumal (tumal) ma_ [verb] to be slow (in business/customers); to have few customers
@@ -11963,3 +11973,17 @@ kirót (kirot) rt_ [noun] twinge; pinching pain; sting (pain); stabbing pain; sh
 kumirót (kirot) _um_ [verb] to twinge; to be in pain; to ache; to sting (in pain)
 makirót (kirot) ma_ [adjective] painful; aching; stinging
 pagkirót (kirot) pag_ [noun] twinging; aching
+iwasiwas (wasiwas) i_ [verb] to wave something in the air
+waliwas (wasiwas) rt_ [root] movement of the arms similar to the waving of a flag; flailing; waving; swinging; fluttering;
+magkasiping (siping) magka_ [adjective] seated or lying down next to each other
+siping (siping) rt_ [noun] lying down together (usually with an intimate partner)
+sipingan (siping) _an [verb] to lie down with someone (intimately); to put beside
+magtalukbóng (talukbong) mag_ [verb] to cover one's head and face with (a veil or covering or similar)
+nakatalukbóng (talukbong) naka_ [adjective] veiled; shrouded; wrapped
+talukbungán (talukbong) _an [verb] to cover one's head and face with a veil, etc.
+talukbóng (talukbong) rt_ [noun] veil; wrap; hood
+emyenda (susog) _ amendment or act of amending; amendment; revision; modification; alteration;
+eméndasyón (susog) _ amendment or act of amending; amendment; modification; alteration; revision;
+susog (susog) rt_ [noun] seconding; echoeing; amendment; addition;
+susugan (susog) _an [verb] to amend something; to back something up; to second something
+pálong-manók (palong) cock's comb; a plant (celosia cristata) that has red or yellow flowers resembling a rooster's comb and can grow up to 100 cm in height; celosia cristata;

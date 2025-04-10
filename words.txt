@@ -60,7 +60,7 @@ agad-agad	at once, instantly, without hesitation
 agahan	to make happen early; breakfast
 ágam	alaala ng mga bagay na lumipas at tao na namatay (memory of things and people past)
 ágam-ágam	feeling of foreboding, anxiety, suspicion; reflection
-ágap	quickness, alertness, anticipation; punctual
+ágap	anticipation
 agapan	to anticipate
 agapay	side by side; alongside
 agaran	made or used immediately
@@ -523,6 +523,7 @@ bilihan	a place where men trade
 bilíng	turn; turning; restless
 bilis	speed
 bilisan	hurry
+bimpo	washcloth, small towel
 binabae	pc term for gay man (bakla)
 binalaki	pc term for lesbian (bakla)
 binatà	bachelor, young man
@@ -1280,6 +1281,7 @@ ikalimá	fifth
 ikalimampú't isá	fifty-first
 ikapit	to hold on to or grasp something
 ikasawî	to cause severe misfortune or death
+ikataká	to cause surprise (active focus)
 ikáw ay	you are
 ikinalulungkot	apologize (formal, "I am sad to say..")
 ikulóng	to cage, shut in
@@ -1650,7 +1652,7 @@ kapâ	groping
 kapa	cape, cloak
 kapabayaán	negligence (baya)
 kapág	when, whenever, upon (implies certainty, though commonly used same as kung)
-kapahamakán	catastrophe, injury
+kapahamakán	calamity, misfortune
 kapaín	to grope, search for
 kápakanán	welfare, sake, interests, well-being, affairs (pakán)
 kapaláran	fate
@@ -2593,6 +2595,7 @@ makipagbati	to reconcile, make peace
 makipaggitgitan	(gitgit) to advance by repeated slight movements, to go forward by force
 makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
+makipagkasundo	to make a contract with someone, to reconcile or come to terms with someone
 makipagkita	to meet up with (actor) -> sa
 makipagpalitan	to exchange, to barter
 makipagtagísan	to compete (in brains or speech)
@@ -2940,6 +2943,7 @@ mawalang-galang	apologies for being disrespectful
 mawari	discern, perceive, distinguish, comprehend
 mawawala	will be lost, vanish, disappear
 may-arì	owner
+may-gulang	adult
 may gustó ka ba sa	do you like X?
 may-itsúra	has an attractive appearance
 maya-maya	a bit later (today)
@@ -3177,6 +3181,7 @@ narating	arrived
 naririto	is/are here
 narito	here (same as nandito)
 nariyán	nandiyán alternative
+nasa edad	of age
 nasa	is/are there in, be found, situated, included
 nasa	wish, want, desire
 nasaan	asking of location. more specific than saan. often shortened to 'nasan' or 'asan'
@@ -3426,6 +3431,7 @@ pagóng	turtle
 pagpag	shake off, as in clothes etc.; dumpster food; ghost (multo)
 pagpanaw	sudden disappearance, departure, death
 pagpapahalaga	importance, regard, appreciation, regard
+pagpapahamak	endangering or causing misfortune
 pagpapakundángan	kilos na nagpapakíta ng paggálang o pagsasaalang-alang lalo na sa nakatatanda at maykapangyarihan
 pagpapalagô	growth
 pagpapalaya	liberation
@@ -3608,7 +3614,7 @@ panaghóy	lamentation (taghóy)
 panaginip	a dream
 panagutin	to hold someone responsible (papanagutin)
 panahon	weather; time, season, age, era, epoch; all of time; grammatical tense
-panalunan	winnings
+panalunan	winnings (noun), to win something (obj)
 panambita	mourning song for the dead
 pananagutan	duty, responsibility, accountability
 pananakot	scaring, intimidation
@@ -3901,6 +3907,7 @@ preso	prisoner
 prito	fried
 proseso	a process
 pruweba	proof
+publikano	tax collector (biblical term)
 pucha	damn! (aka putsa)
 pudpód	blunt, not sharp
 pugad	nest
@@ -3935,6 +3942,7 @@ puná	criticism, remark, observation
 púnong-kahoy	tree; tree trunk; wooden tree (in contrast to, for example, a palm tree)
 punò	tree; chief, leader; origin, source, base
 punô	full, filled
+puno't dulo	start and end, start to finish
 puntahán	to go to a person or place
 puntód	mound; tomb
 puntó	(speaking) accent, intonation
@@ -4183,6 +4191,7 @@ sekyu	security guard (also "sikyo")
 seldâ	cell, small room as in a jail, convent, etc. [coll.]
 selos	jealousy
 sentido komun	common sense
+sentro	the center; central (to)
 senyales	sign (senya)
 sényas	sign, signal
 serye	series
@@ -4766,6 +4775,7 @@ túto	learning, gaining knowledge or skill (mostly used as root, eg matúto)
 tutok	point (a gun at), aim, focus attention on
 tutol	objection, disapproval, opposition, protest
 tutóp	covering (e.g., one's mouth); being caught in the act; act red handed
+tutubí	dragonfly
 tuwâ	joy, happiness, fun
 tuwalyá	towel
 tuwáng	coordinate (grammar)
