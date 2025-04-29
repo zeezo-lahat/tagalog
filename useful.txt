@@ -62,12 +62,12 @@ Kailangang magbayad muna táyo bago nilá táyo papasukin.	We need to pay first 
 Panáy ang tulak nilá sa akin na umarte sa entablado.	They always push me to act on stage.
 Huwág kang mawawalâ sa paningín ko.	Don't disappear from my sight.
 Hindî mo kamí bíbiguín. You won't disappoint us.
-Ayaw kong aminin itó, pero nabigô akó.	I don't want to admit this, but I failed.
+Ayaw kong amínin itó, pero nabigô akó.	I don't want to admit this, but I failed.
 Dinamdám ko ang masamáng sinabi ni Farrah.	I took offense to Farrah's mean words.
 Ang lakíng pagkakáibá nitó sa kalayaan sa karagatán!	What a contrast to the freedom of the sea!
 Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.
 Maraming mámamayán ang magpápahayág ng katulad na damdamin.	Many citizens will express similar sentiments.
-Katulad ng akin ang sulat-kamay mo.	Your handwriting is similar to mine.
+Katulad ng akin ang sulat-kamáy mo.	Your handwriting is similar to mine.
 Kamayán mo akó.	Shake my hand.
 Anó ang magagawâ mo para mabawasan ang panganib na masugatan?	What can you do to reduce the risk of injury?
 Multó lang ang magpápatakbó sa akin.	Only a ghost will make me run.
@@ -107,11 +107,11 @@ Bábasaín ko siyá kapág napadaán siyá.	I will splash him when he happens to
 Huwág kayóng mag-away kasí pwede namáng mapag-usapan iyán nang maayos.	Don't quarrel because that is something that may be settled amicably by talking
 May nalalakaran na.	There's someone walking on it now.
 Buti sana kung hindi ko kayo pinagsabihan.	It would be better if I didn't have to scold you about it.
-Bakit mo siyá pinahintulutang maglakwatsa?	Why did you allow him to wander around?
+Bakit mo siyá pinahintulutang maglakwatsa?	Why did you allow him* to wander around?
 Napipilitan ka lang sa mga ginagawa mo para sa pamilya mo.	You are obligated to do certain things for your family.
 Pagbibigyan kita.	I'll let you have what it is you want.
 Pinatalsík sa páaralán ang barumbadong binatà.	The delinquent young man was expelled from school.
-Ayaw niyáng magaya ang gawâ niyá.	He doesn't want his work to be imitated.
+Ayaw niyáng magaya ang gawâ niyá.	He doesn't want his work* to be imitated.
 Gawang bubog ang kastilyo niya.	His castle was made of broken glass.
 Ikinamatáy niyá ang rabies mulâ sa kagát ng aso.	Rabies from a dog bite caused his death.
 Nagdaán akó sa palengke patungo sa opisina.	I passed the market on my way to the office.
@@ -128,7 +128,7 @@ Hapon na kami pumunta doon.	It was afternoon when we went there.
 Nápapáyag ko sila na ihatid nila ko.	I convinced them to take me.
 Padilim na.	It was getting dark.
 Lahat kami naririto.	We're all here.
-Túturuan kitáng bumasa.	I will teach you how to read.
+Túturuan kitáng bumasa.	I will teach you* how to read.
 Itinuturò na ba ang Calculus sa high school?	Is Calculus already being taught in high school?
 Tinuruan ba kayó ng Spanish sa high school?	Were you taught Spanish in high school?
 Huwág mong kákalimutan ang mga itinurò ko sa iyó.	Don't forget the things that I taught you.
@@ -172,3 +172,12 @@ Umiyák siyá nang mapuntá sa kampo ng sápilitáng pagtátrabaho.	She cried wh
 Ni hindi mabigyan ng mga itong kahit kaunting rekognisyon ang isang baguhang pintor na tulad niya.	These (people) couldn't even give the smallest amount of recognition to a newby paintor like him.
 Bagay na labis na ipinagdamdam niya.	It's something took great offense to.
 Dapat ay kinampihan mo ako, bagkus tumawa ka pa.	You should’ve supported me; instead, you laughed.
+Bagay na welcome naman daw sa mga driver.	It's something the drivers are said to welcome.
+Sana ganun din si nanay sa inyo tay.	I wish mom was that way also, like you dad.
+Labas mo dito.	Bring it out here.
+Baka magtanggál tayo sa trabaho kay Mrs. Alba.	We might get fired by Mrs. Alba.
+Lagyan ako ng singsing sa aking diliri.	Put a ring on my finger.
+Pagbilhán mo ako ng lima.	Sell me five. / I'll take five.
+May tinakbuhán sila sa Maynila.	They're running away from something in Manila. / They had to skip town in Manila.
+Hindi naman sigura nalalayo yung edad natin sa isa't isa e.	We're probably close to the same age.
+May nakakatawa ba sa sinabi ko.	Did I say something funny?

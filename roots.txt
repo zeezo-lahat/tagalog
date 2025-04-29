@@ -436,7 +436,7 @@ mag-angkát (angkat) mag_ [verb] to import
 pag-aangkát (angkat) pagCV_ [noun] importation; importing
 umangkát (angkat) _um_ [verb] to import
 angkinín (angkin) _in [verb] to claim something (property, credit, etc.)
-angkín (angkin) rt_ [noun] inborn; natural; demand for one's own right; claim
+angkín (angkin) rt_ [adjective] inborn; natural; [noun] demand for one's own right; claim
 maangkín (angkin) ma_ [verb] to be able to claim something
 pag-angkín (angkin) pag_ [noun] appropriating; appropriation
 umangkín (angkin) _um_ [verb] to appropriate; to claim
@@ -2178,6 +2178,7 @@ makiramay (damay) maki_ [verb] to empathize; to sympathize
 pakikiramay (damay) pakiki_ [noun] condolence; compassion; going out of one's way to help without being asked
 damdamin (damdam) _in [noun] feelings; sentiment; emotions
 damdám (damdam) rt_ [noun] feeling
+ipagdamdám (damdam) ipag_ [verb] to feel hurt by something; to take offense to something; to resen something (object)
 iparamdám (damdam) ipa_ [verb] to cause someone to feel something
 karamdaman (damdam) ka_an [noun] sickness; disorder; illness; ailment;
 madamdamin (damdam) ma_in [adjective] expressive; emotional; passionate
@@ -3494,7 +3495,7 @@ pahingî (hingi) pa_ [expression] May I have; Please give me; Please let me have
 hintayan (hintay) _an [noun] bus stop; waiting room; waiting area;
 hintayín (hintay) _in [verb] to wait for something/someone
 hintáy (hintay) rt_ [noun] waiting
-káhihintáy (hintay) kaCV_ [gerund/noun] just waiting; waiting
+káhihintáy (hintay) kaCV_ [noun] waiting
 maghintayan (hintay) mag_an [verb] to wait for each other
 maghintáy (hintay) mag_ [verb] to wait; to await
 magpahintay (hintay) magpa_ [verb] to make someone wait
@@ -4193,7 +4194,7 @@ pagpapakain (kain) pagpapa_ [noun] feeding
 pakain (kain) pa_ [noun] rations
 pakainin (kain) pa_in [verb] to feed someone; to allow others to eat; * focus on the one eating SS
 pinagkainan (kain) pinag_an [noun] dishes
-ipagkaít (kait) ipag_ [verb] to withhold
+ipagkaít (kait) ipag_ [verb] to withhold something
 kaít (kait) rt_ [noun] refusal; denial; concealment
 kaladkarín (kaladkad) _in [verb] to drag something
 kaladkád (kaladkad) rt_ [noun] something that is being dragged
@@ -6560,7 +6561,7 @@ maipilit (pilit) mai_ [verb] to be able to insist on something; to be able to fo
 mapilit (pilit) ma_ [adjective] insistent; persistent
 mapilitan (pilit) ma_an [verb] to be forced; to have no choice; to be obliged
 pilit (pilit) rt_ [noun] insistence; assertion; straining
-pilitin (pilit) _in [verb] to force something/someone; to coerce someone
+pilitin (pilit) _in [verb] to strive hard for something; to force something/someone; to coerce someone
 pilít (pilit) rt_ [adjective] forced; strained; not unnatural
 pumilit (pilit) _um_ [verb] to force; to coerce; to constrain
 sápilitán (pilit) sa_an [adjective] obligatory; mandatory; compulsory; forced
@@ -8302,11 +8303,11 @@ magtampó (tampo) mag_ [verb] to sulk; to give the silent treatment
 tampó (tampo) rt_ [noun] sulking; silent treatment
 tampuhan (tampo) _an [noun] sulking; silent treatment; resentment; lover's quarrel
 pagtatampó (tampo) pagCV_ [noun] sulking; silent treatment.
-itampók (tampok) i_ [verb] to feature
+itampók (tampok) i_ [verb] to feature, exalt
 magtampók (tampok) mag_ [verb] to feature; to show off
 pagtatampók (tampok) pagCV_ [noun] featuring
 tampukán (tampok) _an [verb] to feature something
-tampók (tampok) rt_ [noun] feature; gem; [adjective] featured
+tampók (tampok) rt_ [noun] feature, exalt; gem; [adjective] featured, exalted
 tanan (tanan) rt_ [noun] escapee; eloping
 magtanan (tanan) mag_ [verb] to elope
 itanan (tanan) i_ [verb] to escape; to elope
@@ -8337,7 +8338,7 @@ tandaán (tanda) _an [verb] to remember; to make an effort to remember; to keep 
 tandâ (tanda) rt_ [noun] sign; remembrance; symptom; clue; evidence; omen; amount older
 tumandâ (tanda) _um_ [verb] to age; to grow old; to get older
 magpatanggál (tanggal) magpa_ [verb] to have something removed
-magtanggál (tanggal) mag_ [verb] to remove; to detach
+magtanggál (tanggal) mag_ [verb] remove/detach ; to be removed or detached *AF*, doer is sa (magtanggal/tanggalin/tanggalan 'detach from')
 matanggál (tanggal) ma_ [verb] to detach something (OF); to become detached (AF); to be able to detach something (OF); to be removed (AF); to remove something (OF); to be unlaced (AF)
 mánananggál (tanggal) mangCV_ [noun] vampire like, frightening mythical creature of the Philippines that can detach from its midsection, usually has bat wings, and likes to suck the blood of people while they sleep
 pagtanggál (tanggal) pag_ [noun] unfastening; removing; detaching
@@ -8920,6 +8921,7 @@ magpatotoó (totoo) magpa_ [verb] to tell the truth; to certify; to confirm; to 
 patotoó (totoo) pa_ [noun] proof; evidence
 totoó (totoo) rt_ [adjective] true; real; really; actual; factual; [adverb] quite; very; absolutely; truly; genuine; [noun] truth
 totoó ba? (totoo) phr_ is it true?
+ipatrabaho (trabaho) ipa_ [verb] to have <work> done
 katrabaho (trabaho) ka_ [noun] colleague; co-worker; fellow worker; workmate
 magkatrabaho (trabaho) magka_ [verb] to be able to work
 magtrabaho (trabaho) mag_ [verb] to work; to labor; to be employed
@@ -11676,7 +11678,7 @@ indák (indak) rt_ [noun] tapping one's feet; dancing
 umindák (indak) _um_ [verb] to dance gracefully
 ipamudmód (mudmod) ipa_ [verb] to distribute to a number of individuals
 mudmód (mudmod) rt_ [noun] distribution
-iparatang (paratang) i_ [verb] to impute a certain offence or crime to someone
+iparatang (paratang) i_ [verb] to impute a certain offence or crime
 magparatang (paratang) mag_ [verb] to accuse
 paratang (paratang) rt_ [noun] accusation; complaint; imputation
 alit (alit) rt_ [noun] quarrel
@@ -11974,7 +11976,7 @@ kumirót (kirot) _um_ [verb] to twinge; to be in pain; to ache; to sting (in pai
 makirót (kirot) ma_ [adjective] painful; aching; stinging
 pagkirót (kirot) pag_ [noun] twinging; aching
 iwasiwas (wasiwas) i_ [verb] to wave something in the air
-waliwas (wasiwas) rt_ [root] movement of the arms similar to the waving of a flag; flailing; waving; swinging; fluttering;
+wasiwas (wasiwas) rt_ [root] movement of the arms similar to the waving of a flag; flailing; waving; swinging; fluttering;
 magkasiping (siping) magka_ [adjective] seated or lying down next to each other
 siping (siping) rt_ [noun] lying down together (usually with an intimate partner)
 sipingan (siping) _an [verb] to lie down with someone (intimately); to put beside
@@ -11984,6 +11986,141 @@ talukbungán (talukbong) _an [verb] to cover one's head and face with a veil, et
 talukbóng (talukbong) rt_ [noun] veil; wrap; hood
 emyenda (susog) _ amendment or act of amending; amendment; revision; modification; alteration;
 eméndasyón (susog) _ amendment or act of amending; amendment; modification; alteration; revision;
-susog (susog) rt_ [noun] seconding; echoeing; amendment; addition;
+susog (susog) rt_ [noun] seconding; echoing; amendment; addition;
 susugan (susog) _an [verb] to amend something; to back something up; to second something
 pálong-manók (palong) cock's comb; a plant (celosia cristata) that has red or yellow flowers resembling a rooster's comb and can grow up to 100 cm in height; celosia cristata;
+kalagín (kalag) _in [verb] to unfasten something; to loosen something; to untwist something; to untie something; to absolve something
+kalág (kalag) rt_ [noun] loosening
+kumalág (kalag) _um_ [verb] to disentangle; to let loose
+itapal (tapal) i_ [verb] to use something to patch a hole
+kataplasma (tapal) _ something used as a covering on a wound; poultice; compress; plaster;
+magtapal (tapal) mag_ [verb] to patch; to plaster holes
+panapal (tapal) pang_ [noun] roughcast; plaster; anything used for patching
+pangtapal (tapal) pang_ [noun] cloth/gauze to put over a wound
+tapal (tapal) rt_ [noun] cloth/gauze to put over a wound; plaster; block
+tapalan (tapal) _an [verb] to apply a plaster; to seal cracks, etc.; to patch a hole in cloth, etc.
+magnilay (nilay) mag_ [verb] to meditate
+nilay (nilay) rt_ [noun] meditation
+pagninilay-nilay (nilay) pagCVrt_rt_ [noun] meditating; pondering
+paninilayan (nilay) _ a type of trumpet made from horn; distillery; horn trumpet;
+binuyo (buyo) rolled-up cotton; spun into a ball; rolled cotton; cotton ball; spun cotton;
+buyó (buyo) rt_ [noun] goading; spurring; seducing
+búyo-buntó (buyo) cmp_ a gust of strong wind coming from various directions; gust; squall; blast; gale;
+ibuyó (buyo) i_ [verb] to induce (someone to do something)
+mabuyô (buyo) ma_ [verb] to be induced or seduced (to do something)
+simbuyó (buyo) _ sudden explosion of anger; eruption; outburst; flare-up;
+kalapáng (lapang) ka_ [noun] a part or branch of anything; part; branch; segment; division; section;
+lapangin (lapang) _in [verb] to cut something into big hunks or quarters
+magpasiíl (siil) magpa_ [verb] to be oppressed; to allow oppression
+maniniil (siil) mangCV_ [noun] oppressor (one who is cruel to people under him)
+mapaniíl (siil) mapang_ [adjective] oppressive; tyrannical
+paniniíl (siil) pangCV_ [noun] oppression
+siilín (siil) _in [verb] to oppress someone; to tyrannize someone
+siíl (siil) rt_ [adjective] oppressed
+bayubay (bayubay) rt_ [adjective] hanging; dangling
+magkapulikat (pulikat) magka_ [verb] to be seized with muscle cramps
+pulikat (pulikat) rt_ [noun] muscle cramp
+pulikatin (pulikat) _in [verb] to seize up; to cramp
+itagis (tagis) i_ [verb] to sharpen any blade by rubbing against metal, whetstone or leather
+magtagis (tagis) mag_ [verb] to sharpen any blade by rubbing against metal, whetstone or leather
+panagisi (tagis) when the scores or outcomes are very close in a contest, making it difficult to judge who the winner is; close call; neck and neck; tight race; dead heat;
+tagisan (tagis) _an [noun] whetstone
+tagís (tagis) rt_ [root] to sharpen or to be sharpened; sharpen; whet; hone;
+kintáb (kintab) rt_ [noun] glossiness; polish; shine
+kumintáb (kintab) _um_ [verb] to shine; to shimmer
+makintáb (kintab) ma_ [adjective] shiny; flashy; shimmery; polished; glossy
+katangan (tangan) ka_ [noun] support, stand or base supporting something
+katangan (tangan) ka_ [verb] to put a support under something to make it level (chair, table or the like)
+tangan (tangan) rt_ [adjective] held
+tangnán (tangan) _an [verb] to take; to lay hold of; to handle
+tangán-tangán (tangan) [noun] castor oil plant
+tumangan (tangan) [verb] to take; to lay hold of; to get a hold of
+giklá (gitla) variant of gitla; startle; surprise; shock;
+gitlaín (gitla) _in [verb] to startle someone
+gitlâ (gitla) rt_ [adjective] shocked; startled
+magitlâ (gitla) ma_ [verb] to be startled
+kultibadór (linang) anyone who cultivates; farmer; cultivator; tiller; planter;
+linangan (linang) _an [noun] a center/place for studies of a particular type; school; academy
+linangín (linang) _in [verb] to cultivate something
+lináng (linang) rt_ [noun] cultivation; field; [adjective] cultured
+lumináng (linang) _um_ [verb] to cultivate; to develop
+paglilinâng (linang) pagCV_ [noun] cultivation; cultivating
+kawangis (wangis) ka_ [adjective] similar; analogous
+maiwawangis (wangis) maiCV_ [adjective] comparable
+pagwawangis (wangis) pagCV_ [noun] metaphor
+wangis (wangis) rt_ [root] seems; like or similar to; resemblance; likeness; similarity; analogy;
+gahigante (higante) [adjective] gigantic
+higante (higante) rt_ [noun] giant
+higantes (higante) large paper-machete figures, usually in human form, that are included in parades during festivals; giant figures; giants; effigies;
+higantismo (higante) abnormal growth; gigantism;
+higantón (higante) sp_ [noun] a male giant; the term for a female is higantona; giant; titan; colossus;
+malahigante (higante) mala_ [adjective] giant-like
+kupad (kupad) rt_ [adjective] slow
+makupad (kupad) ma_ [adjective] sluggish; slow to movement
+ismirán (ismid) _an [verb] to sneer at someone
+ismíd (ismid) rt_ [noun] grimace; sneer
+mapang-ismid (ismid) mapang_ [adjective] prone to sneer or scoff at
+ingusò (nguso) i_ [verb] to point with one's nose or lips at something
+nakangusò (nguso) naka_ [adjective] with pouting lips
+ngumusò (nguso) _um_ [verb] to pout (with one's lips sticking out)
+ngusuan (nguso) _an [verb] to express dislike of someone by pursing the lips
+ngusò (nguso) rt_ [noun] muzzle; snout
+salingusô (nguso) sali_ [adjective] having the habit of protruding the lips when angry; pouter; sulker;
+barata (barat) bargain sale; the act of selling any item at a low or cheap price; bargain; sale; discount; clearance;
+baratero (barat) _ero [noun] a man who loves to haggle, or 'baratera' for a woman; haggler; bargainer;
+baratilyo (barat) _ilyo [noun] bargain; bargain sale; the selling of any item at a low or cheap price; sale; discount;
+baratín (barat) _in [verb] to haggle with someone; to bargain with someone
+barát (barat) rt_ [noun] haggling
+himutók (himutok) rt_ [noun] sigh; lament; a noise of disappointment, or despair; loud sigh; an act of expressing displeasure or distress about a situation
+itiim (tiim) i_ [verb] to clench the teeth or jaws
+magtiím (tiim) mag_ [verb] to clench; to clench one's teeth; to clench one's jaw
+daimpít (impit) nudging; the act of pushing or squeezing someone gently in a crowded or confined space.; jostling; squeezing;
+impít (impit) [adjective] short; compressed; pressed;
+kalembang (kalembang) [noun] clang; gong sound
+kumalembang (kalembang) [verb] to clang (e.g., bells)
+banit (bani) sharpness; keenness (as of a blade or knife); keenness; acuteness;
+baní (bani) rt_ [root] enticement of anyone towards evil; seduction into wrongdoing; temptation; seduction; enticement; corruption; luring;
+baníbaní (bani) rt_rt_ [noun] pretend or pretense; pretend; feign; simulate; affect; dissemble;
+hindík (hindik) rt_ [noun] labored breathing; gasp in fright; sudden feeling of fright
+kahindík-hindík (hindik) ka_rt_rt [adjective] full of suspense; suspenseful; repulsive; disgusting;
+datay (datay) rt_ [root] the act of remaining in bed for an extended period because of sickness; bedridden; convalescence; recumbence;
+maparatay (datay) mapa_ [verb] to become bedridden
+maratay (datay) ma_ [verb] to become bedridden
+nakaratay (datay) naka_ [adjective] bedridden
+ratay (datay) variant of 'datay';
+daka (daka) rt_ [adverb] right away; immediately; quickly; soon; so soon; readily; suddenly; without delay; at once; promptly; [adjective] urgent
+pagdaka (daka) variant of 'kapagdaka'; immediately; suddenly; right away; at once;
+panaká-naká (daka) [adjective] from time to time; time to time
+tsamba (tsamba) rt_ [noun] luck; chance, fluke
+tsumamba (tsamba) [verb] to get lucky
+isamo (samo) [verb] to implore; to plead
+pagsamo (samo) [noun] plea; appeal
+pakikisamo (samo) [noun] act of begging earnestly for pardon, etc.
+samo (samo) [noun] plea; supplication; appeal; entreaty; earnest request
+samu't sarì (samo) [adjective] diverse
+sumamò (samo) _um_ [verb] to plead; to entreat
+alon (alon) rt_ [noun] waves (ocean / sea waves); tide
+alón-alón (alon) blood flowing between the skin and flesh; interstitial fluid; extravascular fluid;
+maalon (alon) [adjective] wavy
+maalunan (alon) [verb] to be covered or swamped by waves
+magpaalon (alon) [verb] to cause waves to form
+paalunin (alon) [verb] to cause waves to form
+pag-alún-alunin (alon) [verb] to make little ripples on
+umalon (alon) _um_ [verb] to become wavy; to wave; to undulate
+umálun-alon (alon) [verb] to undulate
+pulutóng (pulutong) rt_ [noun] group; platoon; set; troop
+pulú-pulutóng (pulutong) [adjective] gathered in groups
+alinugnóg (nugnog) a rotation similar to that of a top or of the planet earth.; spin; rotation; whirl; twirl; revolve;
+kanugnóg (nugnog) [noun] suburb; neighboring location; adjacent area; niche;
+magkanugnog (nugnog) [adjective] adjacent
+kawalang-maliw (maliw) [noun] eternity
+walâng-maliw (maliw) unfading; everlasting; enduring; perpetual; timeless; undying;
+kasí (kasi) [enclitic/conjunction] because; because of
+magkasi (kasi) [noun] pair of lovers
+apinidád (pinid) relation or kinship due to matrimony; affinity; in-law relationship; kinship by marriage;
+ipinid (pinid) i_ [verb] to close something; to close
+magpinid (pinid) mag_ [verb] to close (e.g.(pinid) a door or window)
+nakapiníd (pinid) naka_ [adjective] closed; shut
+pinid (pinid) rt_ [noun] closing something; closing a door; closing something with a lid
+piníd (pinid) rt_ [adjective] closed; shut
+datang (datang) rt_ [root] to scold a person in order for them to understand; reprimand; scold; admonish; chastise; rebuke;
