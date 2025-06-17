@@ -1,4 +1,103 @@
+TRG p.69 under ch2 "Basic Sentence Structure" §2.8. Basic Forms:
+Of the many verbal affixes that occur in Tagalog, only a rather small subset occur in basic sentences. 
+
+Basic sentences are always: predicate followed by topic, eg "Gumising ang bata."
+
+the topic is an ang phrase and is always definite, never indefinite.
+
+the predicate is what is said about the topic.  a predicate can be nominal, adjectival or verbal.
+
+sentences having nominal or adjectival predicates can be called 'equational'.  those having verbal
+predicates may be called 'narrational'
+
+a verb in a basic sentence that accepts complements is called 'transitive'.
+
+complements are things in non-focus relations to the verb.
+
+The affixes that occur in verbs in basic sentences are called 'major' affixes.  the verbs formed
+with major affixes are 'major verbs'.
+
+verbs in 'basic form' are uninflected for aspect, ie 'magtrabaho' and not 'nagtrabaho'.
+
+verbs are not actor-focus are 'goal-focus' verbs, of which there are at least 8 types wrt semantic
+relation.  basic sentences include only two of these types: 'object-focus' and 'directional-focus'.
+
+in some cases when there are two objects in a sentence, object focus corresponds to english direct
+object while directional focus corresponds to english indirect objects:
+
+here the verb is object focus, corresponding to the DO in english, the prize:
+Ibinigay ng titser sa istudyante ang premyo.  'The teacher gave the student the prize.' 
+
+here the verb is directional focus, corresponding to the IO in english, the student:
+Binigyan ng titser ng premyo ang istudyante.  'The teacher gave the student a prize.' 
+
+However, when there is only a single object in a sentence, the tagalog verb may be either object or
+directional focus.
+
+As a general rule, a goal-focus verb is considered object-focus if:
+  the topic that it selects corresponds to a 'ng' complement in the actor-focus counterpart
+and is considered directional-focus if:
+  the topic that it selects corresponds to a 'sa' complement in the actor-focus counterpart. 
+(For exceptions to this general rule, cf. § §2.11 and 5.25.)
+
+'derived' verbs are verbs that only occur in derived sentences.
+
+'affix correspondence classes' are sets of major affixes which apply to the same set of bases (roots)
+
+some bases belong to more than one affix correspondence class.
+
+The affixes that occur in basic sentences may be called MAJOR AFFIXES; the other affixes, DERIVED 
+AFFIXES. (Verbs formed with major affixes are MAJOR VERBS; those formed with derived affixes, 
+DERIVED VERBS. For a detailed treatment of the major affixes, cf. §5.2. The derived affixes — which, in 
+general, may be predicted as occurring or not occurring with a given base once it is known what major 
+affix(es) the base accepts — are presented in § §5.8 through 5.16.
+and p.283, ch5 "Verbals and their Expansions", 5.1. Introduction:
+Affixes that may occur in the predicate verb of a basic sentence are called major affixes, and the verbs
+in which they occur, major verbs. All other verbal affixes are called derived affixes, and the verbs 
+in which they occur, derived verbs.
+
+Major verbs are either AF or GF.  GF verbs are either OF or DF.
+
+Some GF verbs only occur in derived sentences.
+
+Major affixes (17 total):
+ -an, ka-an, i-, -in, ipa-, ipag-, ipang-, ma-, ma-an, maka-, mag-, mang-, pa-an, pag-an, pang-an, pang-in, -um-
+
+Some verbal predicates include, in addition to the verb itself, one or more complements. A complement of a major
+verb is one of certain structures that stand in a *non-focus* relation to the verb, but that correspond to the
+topic of a related major verb formed with the same base.
+
+Major verbs are divisible into two classes on the basis of whether or not they accept complements. 
+
+Those major verbs that accept complements are transitive; those that do not, intransitive. 
+
+(Derived verbs may also be classified as transitive or intransitive. In the case of derived verbs, however, the
+basis of classification is the transitiveness or intransitiveness of the major verbs from which they are derived.
+Certain derived verbs — e.g., causative-focus verbs derived from major intransitive verbs (cf. §5.8) — are thus
+classified as intransitive even though they accept a complement.)
+
+Major verbs: 
+ object—verb classes (5.3),
+ directional—verb classes (5.4),
+ double—object—verb classes (5.5),
+ intransitive—verb classes (5.6)
+
+Derived verbs:
+ first, those verbs that differ in focus from major verbs:
+  benefactive—focus verbs (5.7),
+  causative—focus verbs (5.8),
+  locative—focus verbs (5.9), 
+  reservational—focus and instrumental—focus verbs (5.10),
+  referential—focus verbs (5.11);
+ then other types of derived verbs:
+  indirect—action verbs (5.12),
+  ability and involuntary—action verbs (5.13),
+  social verbs (5.14),
+  pluralized verbs (5.15),
+  other derived verbs (5.16). 
+
 ## Note: for all "i*-" verbs, the leading "i" is optional with started forms, ie those with "in"
+
 -pa-	causative
 -ki-	requestive
 -ki-	joint/mutual action
@@ -221,12 +320,12 @@ ipapang-	causative (ng -> sa using ang); instrumental focus
 isa-	to put something into the root condition or state (obj.) <isina-, isinasa-, isasa->
 ka-	nouns of sharing or togetherness
 ka-	adj. of commonness (ex. kapareho, katulad)
-ka-	adverb assoc with root
+ka-	(ADVERB) assoc with root
 	kaagád | right away
 	kadalás | often, frequent
 	kapiling | near to, side by side with (piling)
 	kaugnay | related, associated
-ka-REPREP	adj.  -able style adjectives and other
+ka-REPREP	(ADJECTIVE) -able style adjectives and other
 	kaákit-akit attractive/alluring/enchanting
 	kaawa-awà pitiful
 	kaaya-ayà pleasant; pleasing; agreeable; delightful; pleasurable
@@ -245,7 +344,10 @@ ka-REPREP-an	adj. highest degree, similar to pinaka(ma)-
 	Kamí ang kauná-unáhan.	We were the very first.
 	Akó ang káhulí-hulíhan sa mgá tumakbó sa páligsahan.	I was the very last of the runners in the race.
 kaCV/kaka-	express something that just happened; present only, NO FOCUS (ie, no "ang", eg "katatapos namin")
-kaCV/kaka-	nouns of excessiveness or repeated behavior
+kaCV-	nouns of excessiveness or repeated behavior.  these follow "dahil sa" as adverbials (TRG p455)
+	'dahil' is optional here.
+	Napagod siya (dahil) sa kálalakad.	'He got tired as a result of walking too much.' 
+	Nagkasakit siya (dahil) sa kábibilad sa araw.	'He became ill as a result of too much exposure to the sun.'
 kaka-	denotes action stated in the verb is tediously performed repeatedly or for a long duration of time
 	kaka-aral
 kaka-	(adj) very small in quantity
@@ -258,26 +360,86 @@ kaka-REPREP/kaCV-REPREP - intensified of kaCV/kaka- verbs: "just this minute"
 	kapapaglu-pagluto
 ka-an	nouns of exchanging; of abstract qualities; of groups of things
 ka-an	verb - someone (ng) has/expresses feeling or thought regarding someone/something (ang)
+	these are DF counterparts of AF directional ('sa' complement) ma- verbs
+	kaawaan | to have mercy on something/someone
 	kapootán | to detest something/someone
 	katakutan | to be afraid of something
 	kainggitán | to envy someone
-ka-an	verb - to do something or have occur in/on/at a location or to someone
 	kagalitan | to scold someone
+ka-an	verb - to do something or have occur in/on/at a location or to someone
 	kalimutan | to forget or overlook something
 	kasangkután - to be involved with something; to get caught up in something
 ka-in	(obj) combo of ka- noun and -in verb
 ma-	(adjective) of quality or large amount of something
-ma-	(obj.) abilitative
+ma-	verbs..
+  "ma-" forms transitive AF and OF major verbs, and intransitive verbs.
+  Most transitive AF ma- verbs are the AF counterparts of DF ka-an verbs (cf. (2), above).
+
+ma-	(AF major, DF counterpart) mental/emotional
+	noun roots of emotion/feeling
+	"to be/become X", like an adjective (eg, to be angry, annoyed)
+	Hindî akó nagagalit sa iyó.	I'm not mad at you.
+	Maawa ka sa amin.	Have mercy on us. (Kaawaan mo kami.)
+	magulat 'be surprised at' (AF counterpart of DF kagulatan) 
+	mainis 'be annoyed with' (AF counterpart of DF kainisan) 
+	matakot 'be afraid of' (AF counterpart of DF katakutan, Kinatátakutan ko ang aso.  Natatakot ako sa aso.)
+ma-	(AF major, OF counterpart) these are basically one-off AF counterparts of OF verbs.
+	NOTE: There are only 3 of them: matuto, makinig, maligo
+	matuto 'learn' (AF counterpart of OF matutuhan) 
+	makinig 'listen' (AF counterpart of OF/DF pakinggan)
+	maligo 'bathe with' (AF counterpart of OF ipaligo) 
+ma-	(OF major) ma- occurs as an OF affix in a very few major verbs.
+	OF ma- is the OF counterpart of AF maka-
+	makita 'see' (OF counterpart of AF makakita)
+	mahalata 'notice' (OF counterpart of AF makahalata)
+	In OF and pseudo-transitive verbs, and in the AF verb matuto, ma- is often/traditionally
+	pronounced with a long vowel: thus, /ma*ki*tah/, /ma*tu*toh/.
+
+(A few intransitive ma- verbs — e.g., mahuli - are pseudo—transitives. For further discussion of intransitive 
+  ma- verbs of 'becoming,' cf. §5.6 "Affix classes of major intransitive verbs.", subsection D.)
+ma-	AF, "intransitive" (so these will be SI or A and not PT or APT as those are GF)
+	Most of the bases that occur in this class also occur as unaffixed adjectives (cf. §4.2), and the SI 
+	verbs they form, which may be called ma- VERBS OF 'BECOMING,' denote the acquisition of the 
+	quality expressed by the adjective; their usual English equivalents involve 'become' or 'get' plus an 
+	adjective. Compare: bingí 'deaf,' mabingí 'become deaf'; baság 'broken,' mabaság 'get broken,' etc. 
+	Nabibingí ang Lolo.	'Grandfather is becoming deaf.'
+	sirâ (masirà 'become damaged')
+	bingí (mabingí 'become deaf SI) 
+	baság (mabaság 'get broken' SI) 
+	mahál (mamahál 'become expensive' SI)
+	-matáy (mamatáy 'die' SI) 
+	mamatáy 'die'  (note: can be 'namatáy sa..')
+	tuksó (matuksó 'be tempted (to)' A) 
+
+As is noted in §4.2, some unaffixed adjectives that lack penultimate vowel length are related to 
+nouns that show such length: e.g., basag /basag/ 'broken,' basag /ba:sag/ '(a) break.'  When adjectives 
+such as these occur as bases of ma- verbs of becoming, they are identical in form with the related 
+nouns, and show penultimate vowel length: e.g., mabasag /maba:sag/ 'get broken.' (See also the 
+discussion of -um- verbs of 'becoming' under J, below.) 
+
+ma-	GF, "intransitive" 
+	huli (mahuli 'catch (someone doing something)' APT) 
+ma-	"A few A and APT ma- verbs also occur (cf. §5.26, classes II.A.3 and III.C.2)." TRG p.307 under
+	section "5.6. Affix classes of major intransitive verbs."
+ma*-	OF and DF "abilitative/involuntary/incidental action" (cf. §5.13 "Ability and involuntary—action verbs.")
+	Derived from the various GF (so-called in TRG "-in") verbs, all of which have these counterparts. 
+	These are the drop-in abilitative/incidental replacements of -in, i-, -an, pa-in etc. GF verbs.
+	For strict -in verbs, 'ma-' replaces the '-in' inflections.  For the others, their affixes are retained
+	in the ma*-/abilitative forms.  Therefore this group includes "mai-", "mapa-", "ma-an", "mapaki-an", ..
+
+	-in form:        magamit - gamitin (gamit + -in) 'use' 
+	-an form:        mabigyan - bigyan (bigay + -an) 'give' 
+	i- form:         maibili - ibili (i- + bili) 'buy for' 
+	pa-in form:      mapatulog - patulugin (pa- + tulog + -in) 'have...sleep'
+	paki-an form:    mapakiusapan - pakiusapan (paki- + usap + -an) 'request' 
+
 	Matutupád niyá ang kanyáng tungkulin.	He will be able to fulfill his calling.
-ma-	(obj.) accidental or involuntary action (eg, makita)
-ma-	(actor) mental/emotional, this is more like an adjective (eg, to be angry, annoyed)
-	Nagagalit ako.	I'm mad.
-ma-an	abilitative (locative)
+
+ma-an	abilitative -an
 	Sana maintindihan mo.  |  I hope you will understand.
 	Baka matulungan ka ni Tom.  |  Perhaps Tom can help you.
 ma-an	opinion (actor)
-ma-an	to affect an object (obj.)
-ma-in	adj. of inclination or quality in high degree or personal characteristics.  associated with 'ma' verbs 
+ma-in	ADJECTIVE of inclination or quality in high degree or personal characteristics.  associated with 'ma' verbs 
 	which are 'ka-an' directional-focus. 
 	consist of the prefix ma- /ma/, a base that also occurs as the base of ma- verb, and the suffix -in /in/.
 	 (The ma- verbs whose bases occur in ma-. . .-in adjectives all belong to the class of directional ma-
@@ -289,7 +451,7 @@ ma-in	adj. of inclination or quality in high degree or personal characteristics.
 	mátulain - poetic
 	tulong - help; benefit; aid; backing
 	matulungín - helpful
-maCV-in	adj. of inclination or quality in high degree (akin to ma-in)
+maCV-in	ADJECTIVE of inclination or quality in high degree (akin to ma-in)
 	not used by all speakers, as alternate of ma-in adjectives of inclination
 	Mainggitin si Juan sa kapatid niya.	'Juan is inclined to be envious of his brother.'
 	makakalimutin - forgetful
@@ -316,12 +478,18 @@ magCV-	nouns of 3+ people or things having reciprocal relationship (ex. maglolol
 magCV-	nouns referring to a person associated with something (ex. magbobote)
 mag-REP-REP-an	act like or pretend
 	Nagbulung-bulungan ang mga Pariseo at ang mga eskriba.	The Pharisees and scribes whispered to each other.
-magka-	to non-deliberately acquire/become something or to have occur (actor)
+magka-	adj. of two persons or things having something in common, similar to ka-
+	magkaibá - different; diverse; dissimilar; [adverb] differently
+	magkahalò - mixed together
+	magkasama - together; the two
+	magkapareho - alike; the same
+	magkatabí - side by side; beside one another; beside each other; abreast
+magka-	to non-deliberately acquire/become, come to have (actor)
 	magka-aberyá (aberya) magka_ [verb] to encounter an unexpected problem; to hit a snag
 	magkaanák (anak) magka_ [verb] to have a child; to have a baby
 	magkaganoón (ganoon) magka_ [verb] to get like that; to come to be like that
 	magkágayón (gayon) magka_ [verb] to become that way
-	magkaguló (gulo) magka_ [verb] to get confused; to get disorderly; to get chaotic
+	magkaguló (gulo) magka_ [verb] to get confused; (also to get disorderly; to get chaotic)
 	magkagustó (gusto) magka_ [verb] to come to like; to acquire a taste for / liking of
 	magkaisip (isip) magka_ [verb] to get the/an idea or thought
 	magkamalay (malay) magka_ [verb] to regain consciousness; to revive
@@ -333,34 +501,27 @@ magka-	to non-deliberately acquire/become something or to have occur (actor)
 	magkatotoó (totoo) magka_ [verb] to become true
 	magkabaklas (baklas) magka_ [verb] to become disjoined, detached, etc.
 	magkabisá	to memorize
-magka-	adj. of two persons or things having something in common, similar to ka-
-	magkaibá - different; diverse; dissimilar; [adverb] differently
-	magkahalò - mixed together
-	magkasama - together; the two
-	magkapareho - alike; the same
-	magkatabí - side by side; beside one another; beside each other; abreast
-magkA-	    reciprocal action (denoted by "ka", from "ka" nouns, eg "kaklase") (mutual actor) (magkAkA-, nagkAkA-)
-magka-an    reciprocal action (denoted by "ka") ma- root verbs mainly (actor)
+magkA-	    MULTIPLE ACTOR group/multiple action (denoted by "ka", from "ka" nouns, eg "kaklase") (magkAkA-, nagkAkA-)
+	gulo, isa, iba, sama, sundo
+magka-an    MULITPLE ACTOR reciprocal action (denoted by "ka") ma- root verbs mainly
 magkA-RT-RT	intensive attainment of state
 	magkAsirA-sirA become thoroughly damaged
 	magkAdurOg-durOg become thoroughly smashed
 magkaka-	adj. of 3+ persons or things having something in common (extension of magka- adjectives)
 magkang-	do something hurriedly
 magma-	trying, pretending, showing off, sim. to mag-root-root-an, "ma" begins adj. (actor)
-magpa-	to cause an action (ang -> sa)  
-magpa-	to increase the intensity/amount of something (ang -> sa)  
-	Magpagaling ka agad.    Get well soon.
-magpa-	to control/operate something???? (ang -> ng)
-	magpatakbó ng páaralán  |  run a school, magpatakbó ng trak -> drive a truck
+magpa-	indirect cause an action (ang -> sa)  
+	magpatakbó ng páaralán	run a school
+	magpatakbó ng trak	drive a truck
+	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.	The town will be flooded once the dam releases water.
+	Magpagaling ka agad.	Get well soon.
 magpa-an	take part in a contest
 magpaka-	being/becoming X through/via great effort
 	magpakabaít - to be nice; to make nice
 	magpakamatáy - to commit suicide
 	magpakapagod - to work hard until tired
 	magpakatotoó - to be truthful/honest; to strive to be truthful/honest
-	Gustó ko nang magpakamatáy.  |  I want to end my life.
 	Sinaksák niyá ang kaniyáng asawa at saká nagpakamatáy.  |  He stabbed his wife and committed suicide.
-	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.  |  The town will be flooded once the dam releases water.
 	Mabíbigyán ka ng biyayà kung magpápakabaít ka.  |  You will be given blessings (blessed) if you become nice.
 magpasa-	enter or exist in condition of X
 magpati-	do something violent to yourself; allow something to happen to yourself (both actor)
@@ -374,6 +535,7 @@ magsa-	act the role of, or imitate; to translate
 	magsaulo - to memorize
 magsi-	pluralized -um- with several people doing act (actor)
 magsi-an	pluralized -um- with several people doing act simultaneously or to each other, same as magsipag-an (actor)
+	Nagsidatingan na yung mga police.	The police arrived.
 	Nagsiuwian na ang mga tao.	The people went home (simultaneously).
 	Nagsisitáwanán ang mgá kalaro dahil napadulás si Bobo.	The players are all laughing together because Bobo slipped.
 magsipag-	pluralized mag- with several people doing act simultaneously or to each other (actor)
@@ -423,13 +585,19 @@ makapang-	abilitative
 		makapanAkot  |  to (be able to) frighten
 maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um-
 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
-makipag-	to engage in something (ang) with someone (sa).  often same roots as magkA- mutual action verbs
-	makipag-usap  |  to initiate a chat with someone
+makipag-	(ACTOR, directional) to engage in something with someone (sa).  
+	* often same roots as magkA- mutual action verbs (usap, kilala, pulong)
+	makipag-usap	to initiate conversation with someone (sa)
 	makipag-away, makipag-laban - to fight, quarrel with someone
-makipag-an	to DO SOMETHING (ang) WITH SOMEONE (sa). like makipag-
-	makipag-barilan  |  to shoot at someone (sa)
-	makipag-ugnayan	to associate/coordinate with, to contact or reach out to someone for a particular purpose
-	makipag-siksikan	to squeeze in tightly
+makipag-an	(ACTOR, directional) to mutually do something with someone/others (sa).
+	* like makipag- but there's a back/forth element
+	makipag-barilan	to shoot exchange gunfire with someone (sa)
+	makipag-ugnayan	to coordinate with / reach out to someone (sa)
+	makipag-kwentuhan	to banter with someone (sa)
+	makipag-inuman	to drink with someone (sa)
+	makipag-siksikan	to squeeze in tightly with others / somewhere
+	makipag-kantutan	to have sex with someone (sa)
+	makipag-asaran	to aggravate/bicker with someone (sa)
 mala-	for adj. equivalent to semi-, half, somewhat or similar to
 mang-	to do DISTRIBUTIVE, plural, habitual, repeated or professional ACTION (ex. mangagat - bite habitually) (actor)
 	note, "ng" will often become either "m" or "n" when occuring before certain consonants:
@@ -460,14 +628,20 @@ manga-	to do COLLECTIVE ACTIONS involving/happening to many people (actor)
 	Walâ kang magagawâ para mapatigil itó.  |  There's nothing you can do to stop it.
 	Kailangan nating mapatigil ang kónstruksiyón ng gusalì.  |  We need to stop the construction of the building.
 	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo.  |  We can only stop the passage of the bill if we unite.
-mapa- "mápa" (object) ability/possibility to (ng) CAUSE someone (ang) to do something. (actor) to be CAUSED to do/become something involuntarily or inadvertently
-	Napaligaya mo ako.	You made me happy.
-	Sinikap ni Gary na mapangitî si Patrick.	Gary strived to make Patrick smile.
-	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.
+mapa- "mápa" (actor) incidentally or happening to do (verb root) or be (noun root) something.  
+	* flipside of the object focus version for when there is no real causer of the action.
+	happen to do: mapailing, mapaiyak, mapa-isip, mapasama, mapatingín, mapatilî
+	happen to be: mapabata, mapamatanda, mapasanggol
 	mapahiya - become humiliated
 	mapaiyak - caused to cry
-	Napápailíng akó sa pinagsasabí mo.  |  I am shaking my head in disbelief at what you're saying.
+	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.
+	Napápailíng akó sa pinagsasabí mo.	I am shaking my head in disbelief at what you're saying.
+mapa- "mápa" (object) ability/possibility to (ng) CAUSE someone (ang) to do something. (actor) to be CAUSED to do/become something involuntarily or inadvertently.
+	This is abilitative/incidental of pa-in.
+	Napaligaya mo ako.	You made me happy.
+	Sinikap ni Gary na mapangitî si Patrick.	Gary strived to make Patrick smile.
 mapag-	(adj) PERSONAL CHARACTERISTIC (ex. mapagbigay - generous, mapag-isip - thoughtful)
+	* these come from mag- verbs
 	The pronunciation of the base in the mapag- adjective is identical with its pronunciation in the mag- verb
 	Mapagdala ng mga regalo sa kanila si Juan.	'Juan is fond of bringing presents to them.'
 mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)

@@ -1,0 +1,78 @@
+§5.14. Social verbs. 
+
+> This is a very good section, covering all maki*- verbs.
+> All are ang -> sa (doer -> other person(s))
+> There are two types: simple and reciprocal
+> simple social verbs are formed from ma-, -um-, mag-, magpa- (non-reciprocal mag verbs only)
+>  - those derived from mag- verbs may be formed with either maki- or makipag-, usually maki- is preferred.
+> reciprocal social verbs are formed from reciprocal mag- and mag-an verbs
+>  - these are formed by replacing the mag- of the underlying reciprocal verb with makipag- 
+
+Derived verbs formed with the prefix maki- (plus; in some cases, other affixes — see below) express 
+actions that are performed together with another person or other people; these verbs may be called 
+SOCIAL VERBS. 
+
+All social verbs are actor—focus, selecting as topic the performer(s) of the action denoted 
+by the verb; a sa phrase is used to express the one(s) together with whom the action is performed. For 
+example, in the sentence: 
+
+Nakikikain ng hapunan si Ben sa Nanay.	'Ben is eating supper with Mother.' 
+
+the performer of the action is expressed by si Ben, the person together with whom the action is performed, 
+by sa Nanay. 
+
+Social verbs are derived from other AF verbs, major and derived. A sentence with a social verb in the 
+predicate may be said to be derived from a sentence with the underlying non-social verb in the predicate, 
+and with a coordinate nominal topic (cf. §3.10). The derivation involves the replacement of one of the 
+coordinate nominals with a sa phrase. Thus the sentence Nakikikain ng hapunan si Ben sa Nanay may be 
+said to be derived from: 
+
+Kumakain ng hapunan si Ben at ang Nanay.	'Ben and Mother are eating supper.' 
+
+Note that any complement(s) accepted by the underlying verb (such as ng hapunan in the example) are also 
+accepted by the social verb. 
+
+On the basis of both meaning and rules of formation, social verbs may be divided into two subclasses:
+ SIMPLE SOCIAL VERBS AND RECIPROCAL SOCIAL VERBS. 
+
+Simple social verbs may be derived from ma-, -um, mag-, magpa- (indirect action — cf. §5.12, subsection (1))
+or mang- verbs. 
+
+(The mag verbs from which simple social verbs are derived are those that do not express reciprocal action. 
+Of the -um and ma- verbs, only those expressing voluntary actions have social verb counterparts.) 
+
+The affix correspondences between the underlying and derived verbs are:
+
+Underlying Affix     Simple Social Affix
+    ma-                 maki-
+    -um-                maki-
+    mag-                maki(pag)-
+    magpa-              makipagpa-
+    mang-               makipang-
+
+Note that simple social verbs derived from mag- verbs may be formed with either maki- or makipag. The 
+maki- formation is preferred in most cases. 
+
+As the English translations with 'share (in)' indicate, simple social verbs often carry the implication 
+that the performer (expressed by the sentence topic is taking part in an activity in which another person 
+(expressed by the sa phrase) has, in some sense, a prior or more direct involvement. Some pertinent 
+illustrations are: 
+
+Uminom sila ng alak; nakiinom ako sa kanila.	'They drank wine; I drank along with them.' 
+
+Napag-alaman ko ang pagkamatay ng inyong ama; nakikidalamhati ako sa inyo.	'I heard about your father's death; I share in your grief.' 
+
+RECIPROCAL SOCIAL VERBS are derived from intransitive mag- verbs that express reciprocal actions (cf. 
+§5.6, class G). The reciprocal social verbs are formed by replacing the mag- of the underlying verb with 
+makipag-. 
+
+Underlying Reciprocal Verb       Reciprocal Social Verb 
+magbigayan 'exchange gifts'      makipagbigayan 'exchange gifts with' 
+magbuntalan 'exchange blows'     makipagbuntalan 'exchange blows with' 
+magkamay 'exchange handshakes'   makipagkamay 'shake hands with' 
+maghiwalay 'separate'            makipaghiwalay 'separate from' 
+magsagutan 'quarrel'             makipagsagutan 'quarrel with' 
+mag-usap 'converse'              makipag-usap 'converse with' 
+
+Note that, while simple social verbs derived from mag- verbs are formed with either maki- or makipag-
+reciprocal social verbs derived from mag- verbs are always formed with makipag-. 

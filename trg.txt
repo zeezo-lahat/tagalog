@@ -27,12 +27,17 @@ Sa maliit na bahay sa probinsya siya pupunta.	'It's the little house in the prov
 -------------------------------
 
 3.25 NOMINALIZED BASIC FORMS p155:
-Nominalized basic forms occur in only a few special contexts.
+Nominalized basic forms occur in only a few special contexts.  They may be actor or goal focus.
 
 > No nominalized basic forms occur after ng or sa
+
 > Only the basic forms of *actor-focus* verbs occur after ang 
 
 The most common construction in which a nominalized basic form occurs is one in which it serves as sentence topic.
+
+These are the three forms:
+
+Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit. / Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
 
 > A nominalized *actor-focus* basic form serving as sentence topic may be preceded by either the topic marker ang OR
   the linker -ng. (note: not "na").  The constructions with ang and -ng, alternate freely with one another. 
@@ -41,10 +46,6 @@ The most common construction in which a nominalized basic form occurs is one in 
   With goal-focus verbs "ang" is never used.
 
 >  "na" is not used with either actor or goal focus verbs with basic-form verb topics.
-
-These are the three forms:
-
-Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit. / Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
 
 > A nominalized actor-focus basic form may be followed by any of the usual complements (no actor)
 > A nominalized goal-focus basic form may be followed by its topic, and by any complements other than actor complements.

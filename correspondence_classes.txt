@@ -1,3 +1,9 @@
+OBJECT and DIRECTIONAL refer to the complements of actor focus verbs.
+OBJECT -> ng complement
+DIRECTIONAL -> sa complement
+
+OBJECT VERBS
+
 §5.3. Affix—correspondence classes: object verbs. 
 As is specified in §2.12, an AFFIX-CORRESPONDENCE CLASS is a class to which a verb base is 
 assigned by virtue of its co-occurrence with an affix set: a set of two or more major affixes which, together 
@@ -53,7 +59,7 @@ thus assigned to both the mag-/i- object—verb class (magluto/iluto 'cook' — 
 mag-/-in object-verb class (magluto/lutuin 'cook' - cf. class C.3, below). 
 
 (2) There are a number of affix sets that may be associated with either object verbs or directional 
-verbs. Thus the members of the -um-/-an affix set occurs both in object verbs (e.g., lumunas/lunasan 
+verbs. Thus the members of the -um-/-an affix set occur both in object verbs (e.g., lumunas/lunasan 
 'cure' — cf. class E.l, below) and in directional verbs (e.g., dumalo/daluhan 'attend' — cf. §5.4, class D.l). 
 In most cases, a given base occurs with the members of such an affix set in either object or directional verbs 
 but not in both. (Thus the base lunas occurs in the -um-/-an object—verb class but not the -um-/-an 
@@ -76,8 +82,8 @@ Humawak siya sa barandilya.  'He held on to the railing.'
 Hinawakan niya ang barandilya.  'He held on to the railing.' 
 
 In other cases, the object and directional verbs formed with a common base and a common affix set are 
-identical in meaning. For example, the base kinig occurs in both the ma-/pa-... -an object—verb class and 
-the ma-/pa-. . .-an directional—verb class in verbs that mean 'listen to.' Examples of the AF verbs in 
+identical in meaning. For example, the base kinig occurs in both the ma-/pa-an object—verb class and 
+the ma-/pa-an directional—verb class in verbs that mean 'listen to.' Examples of the AF verbs in 
 sentences are: 
 
 Nakinig kami ng talumpati.  'We listened to a speech.' 
@@ -108,7 +114,7 @@ some cases accompanied by remarks of various kinds.
 
 A. Ma- classes (very few bases in each class) 
 1. ma-/ipa- (-ligo)
-* -ligo (maligo/ipaligo 'bathe with') 
+* -ligo (maligo/ipaligo 'bathe with/using') 
 
 AF: Naligo siya ng mainit na tubig.  'He bathed with hot water.' 
 OF: Ipinaligo niya ang mainit na tubig.  'He bathed with the hot water.' 
@@ -142,7 +148,7 @@ AF: Nakaramdam ako ng sakit.  'I felt some pain.'
 OF: Naramdaman ko ang sakit.  'I felt the pain.' 
 
 2a. maka-(nom)/ma-an (limot, tanda)
-limot (makalimot/ma(ka)limutan 'forget') 
+* limot (makalimot/ma(ka)limutan 'forget') 
 * tanda (makatand/matandaan 'remember') 
 AF: Siya ang nakalimot ng libro niya.  'He's the one who forgot his book.' 
 OF: Na(ka)limutan niya ang libro niya.  'He forgot his book.' 
@@ -151,7 +157,7 @@ The maka- verbs in this class occur only in nominalized verbals: i.e., after one
 
 C. Mag- classes 
 1. mag-/-an (anyaya, bukas, laba, walis)
-anyaya (mag-anyaya/anyayahan 'invite') 
+* anyaya (mag-anyaya/anyayahan 'invite') 
 * bukas (magbukas/buksan 'open') 
 * laba (maglaba/labhan 'launder') 
 * walis (magwalis/walisan 'sweep') 
@@ -321,10 +327,13 @@ Some other bases that behave like hiwa are: bali (bumali/baliin 'break (off)'), 
 (gumupit/gupitin 'cut (off) (with scissors)'), putol (pumutol/putulin 'cut (off)'), taga 
 (tumaga/tagain 'cut (off) (with a knife)'). 
 
+DIRECTIONAL VERBS
+
 §5.4. Affix—correspondence classes: directional verbs. 
 The following presentation of the affix—correspondence classes identified with directional verbs 
 parallels the presentation of the classes of object—verb bases in §5.3, except that the second affix listed in 
 each affix set is a DF, rather than an OF, affix. 
+
 A. Ma- classes 
 1. ma-/-an (higa, tulog, upo)
 * higa (mahiga/higaan 'lie on') 
@@ -392,7 +401,7 @@ Maktol and masid also occur in the mag-/pag-an directional—verb class (class B
 AF: Naghati sila sa keyk.  'They shared the cake.' 
 DF: Pinaghatian nila ang keyk.  'They shared the cake.' 
 
-A number of ma- adjectives (cf. §4.3) occur as bases of mag-frag-... -an directional verbs that 
+A number of ma- adjectives (cf. §4.3) occur as bases of mag-/pag-an directional verbs that 
 express a meaning of assuming, or pretending to possess, the quality denoted by the adjective. 
 Compare: mataas 'high,' magmataas/pagmataasan 'be snobbish toward (i.e., pretend to be higher 
 than)'; mabait 'kind,' magmabait/pagmabaitan 'pretend to be kind to.' (There are also ma-

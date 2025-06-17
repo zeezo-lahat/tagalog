@@ -1,0 +1,35 @@
+may, mayroon, marami, wala are all considered may-phrases
+
+trg does not seem to cover cases like this one, which is neither existential, possessive, nor indefinite:
+
+May hallway akong pinasukan at maya-maya may narating akong isang pintuan.      I entered into a hallway and shortly afterward I arrived at a door.
+
+And:
+
+Pero minsan may ginagamit silang shortcut ang tramline ng barangay.
+
+These are goal focus verbs with topic actors as below for indefinite may phrases.
+
+trg p.279:
+Existential may phrases, like possessive may phrases (cf. §4.22), normally consist of may (or 
+mayroon plus the linker -ng, marami plus the linker -ng) followed by a noun.
+
+Sentences with existential-phrase predicates differ from those with possessive-phrase predicates in the absence 
+of a topic.  ("May libro" vs "May libro si Paul.")
+
+trg p.276:
+
+
+indefinite may phrases:
+
+If the verb in an indefinite may-phrase predicate is a *goal-focus* verb, the sentence has a topic, which 
+represents the performer of the action of the verb. 
+
+(Note that the performer of the action is *not* expressed by a ng-phrase actor complement, as it is in other 
+constructions that involve goal-focus verbs. 
+
+Compare, for example: 
+May ginawa ang Amerikano.	'The American did something.' 
+and: 
+Ginawa ng Amerikano iyon.	'The American did that.'
+)
