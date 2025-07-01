@@ -911,7 +911,7 @@ gálos	slight scratch
 galugad	exploring
 gambalà	disturbance, nuisance, interruption
 gamit	use
-gamít	used, second-hand; usage; "using" as "gamít ang"
+gamít	(adj) chosen (eg 'gamit na salita'), used, second-hand; usage; "using" as "gamít ang"
 gamót	medicine
 gampan	fulfilling some duty, task, etc. (ginagampan, ginampan, gagampan)
 gana	appetite, enthusiasm, interest
@@ -1062,6 +1062,7 @@ halina	Come along!, Let's go!, Come here!
 hálinhínan	taking turns
 halintulad	parallel, analogous
 halip	stead, alternative, substitute (sa halip: instead)
+haliparot	flirtatious, loose woman
 hálos	almost, nearly; approximately, about
 hámak	lowly, humble; mean, petty, shabby
 hamakin	to belittle, scorn
@@ -1970,6 +1971,7 @@ kung	if, whether (hypothetical, non-actual/possible condition, though used same 
 kung ano	whatever, anything that, any that (however?)
 kung bagá	it’s as though…
 kung hindi	if not
+kung kaya't	consequently
 kung nasaan	wherever
 kungsabágay	"as a matter of fact"
 kunin	get, take
@@ -2394,9 +2396,10 @@ magíting	heroic (gíting)
 magkabait	one's senses
 magkabalikan	to get back together (mutual: 'nagkabalikan na silang dalawa')
 magkadugo	having the same blood
+magkáduróg-duróg	to become thoroughly crushed/smashed
+magkágayunmán	nevertheless, however, "be that as it may"(?)
 magkahalagá	to be valued at (Nagkakahalaga ng sandaang piso ito.)
 magkaibá	to differ or be different from each other (ref. to two things/people "Paano sila nagkakaibá?)
-magkáduróg-duróg	to become thoroughly crushed/smashed
 magkáisá	to unite
 magkálarô	to play together (mutual focus) (nagkákálarô, magkákálarô)
 magkalarô	playmates
@@ -2650,7 +2653,7 @@ makiusap	to request, ask for, plead
 makukuha	attainable, that can be achieved
 makulít	importunate, pesky; a person who is a pest (also "mangulit")
 makulong	be confined, be interned; be shut in (in a crowd)
-malabò	blurry, hazy, obscure, cloudy, misty, indistinct, dull; slang: unlikely
+malabò	blurry, hazy, obscure, dull; unlikely, not possible
 malagím	gloomy, glum
 malakas-lakas	somewhat strong
 malalâ	serious, acute
@@ -3986,6 +3989,7 @@ pulupot coil, twine, entwine, wrap (also palupot)
 pumadyak	to stamp the feet
 pumalit	to substitute for
 pumanaw	to leave, depart; die
+pumapatungkol	regarding, referring to (ito ay pumapatungkol sa..)
 pumara	to stop or hail something, like a taxi
 pumasok	entered, attended
 pumayag	agreed, consented
@@ -4052,6 +4056,7 @@ ranggo	rank
 rebulto	statue
 reklámo	complain
 repaso	review, going over
+repolyo	cabbage
 reseta	prescription
 resibo	receipt
 ríles	rails, train rails, railroad rails (sp. carriles)
@@ -4263,6 +4268,7 @@ sibuyas	onion
 sidlan	to fill a container
 sigà	bully
 sigâ	blaze; bonfire
+sigalót	quarrel, dispute, alitan, kagalitan, hidwaan
 sigaw	shout, scream, yell
 sige	go on, go ahead, proceed, continue part. go on, proceed, continue
 sige na	an expression of beseeching someone to fulfill a request: pretty please!, come on!, go on!
@@ -4310,6 +4316,7 @@ singganda	as beautiful as
 singhap	loss of breath, gasping for breath
 singíl	price quoted, charge, collection of payment of debt (-um-:-in)
 singkahulugan	synonym
+singot	inhale, langháp
 singsíng	a ring (jewelry)
 sinibak	fired, dismissed, axed (slang)
 sinigang	meat or fish stew with condiments
@@ -4369,6 +4376,7 @@ sugapà	addict
 sugaról	gambler
 súgat	cut, sore, wound
 sugatán	wounded person, casualty
+sugnáy	clause (grammatical)
 sugò	delegate, messenger, envoy, ambassador, emissary
 sugod	to dash at, to rush forward
 sugudin	to rush, lunge forward
@@ -5036,3 +5044,8 @@ yumarì	to manufacture, construct
 yumì	modesty; refinement; tenderness; softness
 yung	informal "ang" marker
 yungib	cave, dome, den
+pigsá	a boil or carbuncle
+kagaw	mite, germ, mikrobyo
+piskál	prosecuting attorney, abogadong tagausig para sa panig ng gobyérno
+manás	swelling, redness of skin
+apog	lime, as in the powder used for cleaning, disinfecting, whatever

@@ -222,7 +222,14 @@ i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
 i-	INSTRUMENT
 	Ano pala ang itátálí ko rito?	What should I tie around this?
-ika-	ACTOR: to CAUSE or be REASON for state/condition/circumstance (or OBJCECT: to BE caused to..)
+ika-	ACTOR: to CAUSE or be REASON for state/condition/circumstance
+	ika-, ikina-, ikinaCV-, ikaCV-
+	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
+	ikinabubuhay  |  way of making a living
+	ikagAgalak ko  |  it would make me happy
+	Ikamámatáy ko kung maghíhiwaláy tayo.  |  I will die if we separate.
+	Anó ang kaniyáng ikinamatáy?  |  What did he die from?
+	Ikasasawî mo ang katigasan ng ulo mo.  |  Your stubbornness will kill you.
 | NOTE: Generally, intransitive -um- verbs of 'becoming' (cf. §5.6, class J) have corresponding causative—focus
 | verbs formed with either i- or ika-, the two occurring as free alternants.
 | Examples: i(ka)ganda, i(ka)yaman, i(ka)payat
@@ -238,13 +245,6 @@ ika-	ACTOR: to CAUSE or be REASON for state/condition/circumstance (or OBJCECT: 
 | Thus:
 |
 | Ikinaluha ni Nena ang usok.	'The smoke made Nena shed tears.'
-	ika-, ikina-, ikinaCV-, ikaCV-
-	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
-	ikinabubuhay  |  way of making a living
-	ikagAgalak ko  |  it would make me happy
-	Ikamámatáy ko kung maghíhiwaláy tayo.  |  I will die if we separate.
-	Anó ang kaniyáng ikinamatáy?  |  What did he die from?
-	Ikasasawî mo ang katigasan ng ulo mo.  |  Your stubbornness will kill you.
 ika-	first, second, third, etc. (ikalawá -> second)
 ikapag-	causative + instrumental focus, makes nouns causers of action (mag- verbs)
 ikapang-	causative + instrumental focus, makes nouns causers of action (mang- verbs)
@@ -374,6 +374,12 @@ ma-	(adjective) of quality or large amount of something
 ma-	verbs..
   "ma-" forms transitive AF and OF major verbs, and intransitive verbs.
   Most transitive AF ma- verbs are the AF counterparts of DF ka-an verbs (cf. (2), above).
+  Major verbs: As an AF affix, and in intransitive verbs other than pseudo-transitives, ma- is normally pronounced 
+with a short vowel: thus, /magu*lat/, /mali*go'/, /mabingih/. In OF and pseudo-transitive verbs, and in the 
+AF verb matuto, ma- is usually pronounced with a long vowel: thus, /ma*ki*tah/, /ma*tu*toh/. Vowel 
+length in these latter cases is, however, not distinctive in the usage of most younger speakers, and 
+pronunciations like /maki*tah/ and /matu*toh/ also occur (cf. the discussion of vowel length in the derived 
+affix ma- in §5.13). 
 
 ma-	(AF major, DF counterpart) mental/emotional
 	noun roots of emotion/feeling

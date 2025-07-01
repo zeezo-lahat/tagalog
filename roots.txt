@@ -3877,8 +3877,8 @@ pag-imbitá (imbita) pag_ [noun] inviting
 nakakaimbyerna (imbiyerna) nakaka_ [adjective] annoying
 imbiyerna (imbiyerna) rt_ [noun] annoyance
 ma-imbiyerna (imbiyerna) ma_ [verb] to get annoyed
-umimík (imik) _um_ [verb] to make a sound; to speak; to break the silence; to mutter
-imík (imik) rt_ [noun] talk; answer; reply; utterance; peep; breaking the silence
+umimík (imik) _um_ [verb] to make a sound; to break the silence
+imík (imik) rt_ [noun] utterance, peep as distinguished from not speaking; breaking the silence
 walang-imík (imik) phr_ [adjective] reticent
 inahín (ina) _in [noun] female animal
 inakáy (ina) _ [noun] birdling; young bird; baby bird
@@ -4518,7 +4518,7 @@ magkita (kita) mag_ [verb] to meet or see someone; to meet each other accidental
 magpakita (kita) magpa_ [verb] to show; to appear; to demonstrate; to indicate; to display; to show up
 magpakítang-tao (kita) cmp_ [verb] to act humanely on the pretense
 maipakita (kita) maipa_ [verb] to be able to show something; to be able to display something; to be able to indicate something; to be able to demonstrate something
-makakita (kita) maka_ [verb] to happen to see; to see; to see one or some or many; to be able to see; to catch sight of; to be able to find
+makakita (kita) maka_ [verb] to (be able to / happen to) see or find something *non-specific*
 makipagkita (kita) makipag_ [verb] to meet up with
 makita (kita) ma_ [verb] to be able to see something; to see something; to catch sight of something
 makitaan (kita) ma_an [verb] to demonstrate; to show
@@ -9137,6 +9137,7 @@ nakatungháy (tunghay) naka_ [adjective] looking up; looking upward; with a rais
 tungháy (tunghay) rt_ [adjective] looking up
 ipatungkol (tungkol) ipa_ [verb] to dedicate something to a person (song, etc.)
 katungkulan (tungkol) ka_an [noun] task; job; duty; obligation; business; position; function; employment
+manungkulan (tungkol) mang_an [verb] to take office or serve a term in office
 panunungkulan (tungkol) pangCV_an [noun] time in office; term (ex(tungkol) presidential term)
 patungkól (tungkol) pa_ [noun] about; dedication
 tungkulin (tungkol) _in [noun] duty; responsibility; concern; mission; function; role
@@ -9534,7 +9535,7 @@ utangin (utang) _in [verb] to borrow something (money)
 waláng utang na loób (utang) phr_ [adjective] ungrateful
 utô-utô (uto) rt_rt [adjective] idiotic; foolish; cheating; easily fooled; gullible
 utuín (uto) _in [verb] to coax; to convince; to make a fool of someone
-ipag-utos (utos) ipag_ [verb] to command someone; to order someone
+ipag-utos (utos) ipag_ [verb] to command something/someone; to order something/someone
 iutos (utos) i_ [verb] to command something; to assign something; to order something (be done)
 kautusán (utos) ka_an [noun] commandment; order; edict; mandate; rule
 mag-utos (utos) mag_ [verb] to command; to give an order
@@ -10585,12 +10586,12 @@ sumawáy (saway) [verb] to rebuke; to reprimand
 himayín (himay) [verb] to study something thoroughly; to shell something; to delve into something
 himáy (himay) [noun] shelling (grains, etc.); an in-depth study; [adjective] shelled
 maghimáy (himay) [verb] to shell; to peel; to strip from a stalk
-itarak (tarak) [verb] to thrust something into
-nakatarak (tarak) [adjective] thrusted; embedded
-tarak (tarak) [noun] thrust; impalement
-tarakan (tarak) [verb] to stab someone; to impale someone
-tarák (tarak) large varieties of sweet potatoes; sweet potatoes; yams;
-tumarak (tarak) [verb] to stab someone
+itarak (tarak) i_ [verb] to thrust something into
+nakatarak (tarak) naka_ [adjective] thrusted; embedded
+tarak (tarak) rt_ [noun] thrust; impalement
+tarakan (tarak) _an [verb] to stab someone; to impale someone
+tarák (tarak) _ large varieties of sweet potatoes; sweet potatoes; yams;
+tumarak (tarak) _um_ [verb] to stab someone
 Kanlaón (laon) [noun] home of the gods and goddesses of the ancient visayans; mount kanlaon; kanlaon volcano;
 Sinabi mo! (sabi) [interjection] Exactly! You betcha! You bet!
 anikó (sabi) I said ("sabi ko" variant)
@@ -10931,8 +10932,9 @@ tagapagsalin (salin) [noun] transferrer; translator
 tagasalin (salin) [noun] translator
 apuro (puro) state of being poor; poverty; impoverished; destitute; indigent; needy;
 impuro (puro) not pure; mixed or adulterated; mixed; adulterated; contaminated; diluted; tainted;
-mapuruhan (puro) ma_an [verb] to be directly hit and severely injured, as a hit to the head in an accident (mapuruhan ang ulo)
+mapuruhan (puro) ma_an [verb] to (be/be able to) directly hit and severely injure(d), as a hit to the head in an accident (napuruhan ang ulo)
 puro (puro) rt_ [adjective] all; pure; purely; nothing but; unadulterated
+puruhan (puro) ma_an [verb] to directly hit
 akibat (akibat) rt_ [root] ownership of a large farmland; landholding; estate ownership; large-scale farming;
 mag-akibat (akibat) mag_ [verb] to wear a sash or band as an insignia
 kimkimín (kimkim) _in [verb] to suppress something (usually emotion/feelings); to restrain something; to repress something
@@ -11523,7 +11525,6 @@ magkíta-kita (kita) [verb] to see one another; to meet up; to see each other no
 magpakita (kita) [verb] to show; to appear; to demonstrate; to indicate; to display; to show up
 magpakítang-tao (kita) [verb] to act on pretense or for show
 maipakita (kita) [verb] to be able to show something; to be able to display something; to be able to indicate something; to be able to demonstrate something
-makakita (kita) [verb] to happen to see; to see; to see one or some or many; to be able to see; to catch sight of; to be able to find
 makapagpakita (kita) [verb] to be able to show
 makipagkita (kita) [verb] to meet up with
 makita (kita) [verb] to see something; to catch sight of something; to be seen
@@ -12468,3 +12469,64 @@ pagbabanal (banal) [noun] performing acts of devotion
 pagpapakabanal (banal) [noun] striving to be holy
 santurón (banal) a person who pretends to be very religious or holy; hypocrite; sanctimonious; pharisaical; pretender;
 tampím-banál (banal) tabatib; a bland vine (rhaphidophora merrillii) that climbs on the trunk of trees and has egg-shaped leaves; climbing plant; vine;
+pagsalág (salag) [noun] act of parrying, dodging or avoiding
+salagsáy (salag) the act of preventing someone from doing what they want to do; restraint; hindrance; inhibition; obstruction;
+salagín (salag) [verb] to defend against something
+salág (salag) [noun] defense; dodge
+kirí (kiri) [noun] flirt
+kumirí (kiri) [verb] to flirt
+kampante (kampante) [adjective] content; complacent; satisfied
+págkakampante (kampante) [noun] self-satisfaction
+daigdíg (daigdig) rt_ [noun] world; earth
+pandaigdigan (daigdig) pang_an [adjective] international; universal; world
+pandaigdíg (daigdig) pang_ [adjective] international; universal; world
+sandaigdigan (daigdig) sang_an [noun] the whole world
+sangdaigdigan (daigdig) sang_an [noun] the whole world; global; universal; worldwide;
+lulan (lulan) 1.) [adjective] on board; aboard; 2.) [adjective] capacity; load
+lumulan (lulan) [verb] to take off (to somewhere); to embark
+nakalulan (lulan) [adjective] aboard
+táponlulan (lulan) the act of disposing of things carried to lighten a ship or airplane during times of emergency or unexpected events; jettison; offload; discard;
+huntahan (hunta) [noun] chatting; conversation among a group
+huntá (hunta) to chat; to gossip; to talk amongst each other; chat; gossip; converse; talk;
+maghuntahan (hunta) [verb] to talk together as in a group
+di-kinakalawang (kalawang) [adjective] stainless
+kalawang (kalawang) [noun/adjective] rust; rusty
+kalawangin (kalawang) [verb] to rust; to be rusty; to get rusty (e.g., as in metal, or at a skill); to be rusting
+makalalawang (kalawang) a type of grass or herb that is considered useless or without value; weed; worthless plant;
+mangalawang (kalawang) [verb] to rust
+panangkalawan (kalawang) the window sill or ledge; window sill; window ledge;
+waláng-kalawang (kalawang) [adjective] stainless (without rust)
+imbág (imbag) bad; evil; unfavorable; wicked; negative;
+magsimot (simot) [verb] to scrape together anything left over
+masimót (simot) [verb] to be able to consume all of something
+simo (simot) the act of a dog or cat scraping off leftover food; the finishing of food remnants by animals such as dogs or cats.; scavenge; lick clean; finish off;
+simutín (simot) [verb] to consume something; to finish (consuming) something
+simót (simot) [adjective] consumed; used up; having nothing left
+sumimót (simot) [verb] to scrape up
+saimsím (simsim) [noun] boil or boiling; boil; simmer; brew;
+sayimsím (simsim) moisture; dampness; humidity; moistness; damp;
+simsím (simsim) [noun] tasting a bit; trying a little of something
+bilít (bilit) the act of tying between bamboos; binding; tying; lashing;
+sago-sago (sago) [adjective] sexually deprived (slang)
+sagó (sago) [noun] round chewy pearls, similar to tapioca pearls but made from palm starch, often used in sweet drinks or taho
+nakakawindáng (windang) [adjective] mind-blowing; flabbergasting
+windáng (windang) [adjective] torn apart; tattered; in shock
+buntóng (buntong) [noun] heap; pile
+abogong (abog) bitter yam;
+abóg (abog) [noun] noise
+kaabúg-abóg (abog) [noun] suddenness
+balarilà (balarila) [noun] grammar
+gramátikó (balarila) grammarian; a person who is an expert in grammar; linguist;
+mambabalarilà (balarila) a person who is an expert in grammar; grammarian; linguist; philologist;
+pambalarilà (balarila) pertaining to grammar; grammatical; linguistic; syntax-related;
+kinabang (kinabang) the root word for 'pakinabang'; benefit; use; advantage; gain; utility;
+makinabang (kinabang) [verb] to benefit from; to profit from; to take advantage of
+pakinabang (kinabang) [noun] benefit; profit; gain
+ituhog (tuhog) [verb] to string together with something; to use something as a skewer
+kalatuhog (tuhog) a package of pairs of palm sugar; bundle; pack; set;
+matuhog (tuhog) [verb] to be pierced with a skewer or the like
+pagtuhog (tuhog) [noun] stringing things together (beads, fish, etc.)
+papagtuhugin (tuhog) [verb] to get someone to string beads, etc. together
+tuhog (tuhog) [adjective] strung together (e.g., on a string); skewered
+tuhugin (tuhog) [verb] to skewer something; to impale something; to string something;
+túhog-dalág (tuhog) a herb used for treating wounds; medicinal herb; healing plant; wound treatment plant;

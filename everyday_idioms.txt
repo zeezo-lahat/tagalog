@@ -19,7 +19,7 @@ just in case	kung baka sakali
 provided that.., in as much as.., as long as..	yamang..
 absent minded	limút-limót
 in my estimation...	sa tantiya ko..
-For the first time..	Sa unang pagkakátaón..
+For the first time,..	Sa unang pagkakátaón,..
 unfair	hindi patas
 I can tell (see/recognize).	Natutukoy ko.
 Excuse me, passing through	(pa)sintabì
@@ -42,10 +42,10 @@ I can't help it / there's nothing I can do (about it)	walâ akong magagawâ (tun
 make the most of something	sulitin
 not yet	walâ pá / hindi pá
 this will do	pwede na ito
-unpredictable	hindi mahuhulaan
+unpredictable	hindi mahuhuláan
 for a change	para máibá namán
 by the way	siyanga pala, maibá akó
-but in reality..	pero ang totoo..
+but in reality / the truth is..	pero ang totoo..
 the same day as..	sa araw mismo ng..
 I'll be right back	babalik rin ako agad
 uncertain/indefinite/undetermined	 di-tiyák
@@ -68,8 +68,8 @@ This is going nowhere.	Walang pupuntahan ito.
 if I remember correctly	Kung tama ang pagkakaalala (ko).
 it doesn't make sense	Wala itong saysay. 
 no thanks	hindi, salamat 
-after a while	hindî nagtagál
-at first/initially..	noóng una..
+after a (little) while	hindî nagtagál
+at first/initially (in the past)..	noóng una..
 there you go again	ayan ka na naman
 you wish!	asa ka pa!
 disheartened	sirâ ang loób
@@ -120,7 +120,7 @@ yes, for sure!	oo ba
 sorry to bother you	paumanhin sa abala
 I just hope...	sana nga lang...
 too many to count	hindí mabilang
-it took me more than two hours to...	Inabot ako ng mahigit dalawang oras sa <infinitive verb>
+It took me more than two hours to translate.	Inábot ako ng mahigit dalawang oras sa pagsalin.
 I just don't get you (wtf/smh)	ewan ko sayo
 even from the start..	kahit noong una..
 I just started	kakaumpisa ko lang
@@ -130,7 +130,7 @@ the ins and outs of..	ang pasíkot-sikot sa..
 srsly?	'di nga?
 you never know		málay mo / hindi mo alam
 How much longer will it take?	Gaano pa katagál?
-I already did that..	Gawin ko na..
+I already did that..	Gawín ko na..
 I* am counting on you.	umaasa ako sa iyo.
 I don't think so	hindi yata
 I stayed out late	ginabi ako
@@ -150,13 +150,13 @@ are you sure about that?	sigurado ka ba diyan?
 as much as possible	hangga't maaari
 ask me* another time.	sakâ mo na ako tanungin
 at first/initially	noóng una
-at that time	noóng panahóng iyón
+at that time (in the past)	noóng panahóng iyón
 at this time (of day)	ganitong oras
 eventually, after a while	sa kalaunan
 eventually; in time	nang lumaon
 ever since	sapúl pa noon
 for a change	máibá namán
-fully/completely	nang ganap
+fully/completely	nang ganáp
 good for you	buti ka pa
 how long have you been here?	gaano ka na tagal dito?
 how would I know?	malay ko ba?
@@ -205,7 +205,7 @@ the vast majority	higit na marami
 who am I to you?	ano mo ba ako?
 So far, so good.	Ayos pa.
 newcomer	bagong salta
-It's a sure bet that..	malamang sa malamang..
+It's a sure bet that..	malamíng sa malamíng..
 without fail	walang palyá
 I told you so.	Sabi ko na nga ba.
 now that you're here..	ngayon nandito ka na..

@@ -1,0 +1,55 @@
+balarilà (balarila) [noun] grammar
+
+pananalitâ	(salita) pangCV_ [noun] speech; diction; way of speaking
+
+pangngalan (ngalan) pang_ [grammar] noun
+pang-urì (uri) pang_ [grammar] adjective
+pang-abay (abay) pang_ [grammar] adverb
+
+panghalíp (halip) pang_ [grammar] pronoun
+pantangì (tangi) pang_ [grammar] proper noun
+pang-ukol (ukol) pang_ [grammar] preposition
+pang-ugnáy (ugnay) pang_ [grammar] conjunction
+pangatníg       conjunction (grammar)
+pantukoy (tukoy) pang_ [grammar] article
+panuring (turing) pang_ [grammar] modifier
+
+pangungusap (usap) pangCV_ [noun] sentence (grammar); remarks; expression
+simunò (simuno) rt_ [grammar] subject
+panandâ (tanda) pang_ [grammar] marker
+palayon (layon) pa_ [grammar] objective; referring to ng words / phrases
+paarî (ari) pa_ [grammar] possessive; referring to sa words / phrases
+panauhan (tao) pang_an [grammar] person (e.g., 1st person, 2nd person, etc.)
+
+panakláw (saklaw) pang_ [grammar] indefinite
+
+pananóng (tanong) pang_ [grammar] interrogative; [noun] question mark; [adjective] interrogative
+pang-angkóp (angkop) pang_ [grammar] ligature; linker
+sugnáy	clause (grammatical)
+
+padamdám (dama) pa_ [grammar] interjection; [noun] exclamation point
+
+mabilís (bilis) ma_ [adjective] quick; fast; brisk; agile; hasty; [grammar] way of pronouncing a word where the last syllable is stressed
+
+gitlapì (lapi) git_ [grammar] infix
+hulapì (lapi) hu_ [grammar] suffix
+panlapì (lapi) pang_ [grammar] affix
+unlapì (lapi) un_ [grammar] prefix
+
+pandamdám (damdam) pang_ [noun] interjection (grammar); sense; feeling
+kabaligtarán (baligtad) ka_an [grammar] passive form; [noun] opposite; contrary; antithesis; reciprocal; wrong side;
+pánahunan (panahon) _an [grammar] grammatical tense; grammatical aspect
+maramihan (dami) ma_an [grammar] plural; [adjective] multiple; many
+
+kailanán (ilan) ka_an [grammar] plurality; count
+kaukulán (ukol) ka_an [grammar] case; [noun] relation; [adjective] related; associated
+
+turing (turing) rt_ [noun] name; the way one treats or considers another; [grammar] modifier;
+
+bahagi ng panánalitâ (salita) phrase_ [grammar] part of speech
+pangungusap na padamdám (damdam) phr_ [grammar] interjection; exclamatory sentence
+panlalaki (lalaki) pang_ [adjective] manly; for men; [grammar] masculine
+
+gramátikó (balarila) grammarian; a person who is an expert in grammar; linguist;
+mambabalarilà (balarila) a person who is an expert in grammar; grammarian; linguist; philologist;
+pambalarilà (balarila) pertaining to grammar; grammatical; linguistic; syntax-related;
