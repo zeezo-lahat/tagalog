@@ -885,6 +885,7 @@ estilo	style
 gaano	how much
 gaano kalayo	how far?
 gaano man	however/however much
+gaás	kerosine, gas
 gabáy	guide, support; handrail
 gabí	night
 gabíng-gabi	late (at night)
@@ -2460,7 +2461,7 @@ magpahangin	to get some fresh air
 magpahinga	to take a break
 magpahintulot	to permit or authorize
 magpahirap	to make matters difficult
-magpaiwan	to remain
+magpaiwan	to remain / be left behind
 magpakabaít	to be nice, to make nice
 magpakabuti	to be good
 magpakahulugan	to interpret
@@ -3782,6 +3783,7 @@ pare	a male buddy/friend; used to refer to an unknown person of the same age (al
 parehas	the same (pareho)
 pareho	both; similar, identical, equal, the same (literally, as in "the same place")
 pares	even, paired, similar, equal to, like
+parirala	phrase
 paringgán	to allude to, refer to, mention
 pariníg	 hint
 parokyano	customer
@@ -3928,6 +3930,7 @@ pipino	cucumber
 pira-piraso	pieces, bits, fragments
 piranggót	a small piece or small amount
 piraso	piece, bit, fragment, portion
+pisara	chalkboard
 pisì	twine
 pisngí	cheek
 pitágan	deference
@@ -4131,6 +4134,7 @@ saká	also, and then, besides, moreover, furthermore, and then, afterwards
 sáka	agriculture, farming
 sakâ na	some other time
 sakalì	in case, if; perhaps
+sakáng bow-legged, tao na nakabuká ang ayos ng mga hità at binti at hindi nagdidikit ang mga tuhod… (mga hapon)
 sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish

@@ -370,6 +370,14 @@ ka-an	verb - to do something or have occur in/on/at a location or to someone
 	kalimutan | to forget or overlook something
 	kasangkután - to be involved with something; to get caught up in something
 ka-in	(obj) combo of ka- noun and -in verb
+kaCV-an	NOUN katulad ka-an abstract nouns(?)
+	kagagawán (gawa) kaCV_an [noun] doing; responsibility for an undesirable act
+	kahahantungan (hantong) kaCV_an [noun] the end result; stopping point; final resting place; the final result
+	kahihiyán (hiya) kaCV_an [noun] shame; humiliation; embarrassment; dishonor; shyness
+	kalálabasán (labas) kaCV_an [noun] outcome; end result
+	kalalakihan (lalaki) kaCV_an [noun] gentlemen; group of males; manhood
+	katatawanán (tawa) kaCV_an [noun] joke; humor; comedy
+	kahihiyán (hiya) kaCV_an [noun] shame; embarrassment; shyness; humiliation; dishonor;
 ma-	(adjective) of quality or large amount of something
 ma-	verbs..
   "ma-" forms transitive AF and OF major verbs, and intransitive verbs.
