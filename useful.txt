@@ -95,7 +95,7 @@ Kaya kayo daw dapat ang hingán ko.	So you're the ones I'm supposed to ask for i
 Bakit hindî mo akó kinákausap?	Why aren't you talking to me?
 Kung ako ikaw, titigil na ako sa paninigarilyo.	If I were you I would stop smoking.
 Huwag ako ang kausapin mo.	I'm not the one you should be talking to.
-Bakit hindî natin gawán itó ng paraán?	Why don't we try to fix / resolve this?
+Bakit hindî natin gawán itó ng paraán?	Why don't we find a way to fix / resolve *this*?
 Gustó mong gawán ka ng mesa ng kaibigan ko?	Would you like my friend to make a table for you?
 Basta gawan mo na lang ng paraan.	Just find a way.
 Pinagtatakhan ng ina niya kung bakit ang lumang pares pa rin ang pinipilit niyang suotin.	His mother was puzzled by why he insisted on wearing his old pair.
@@ -214,3 +214,7 @@ Gúgustuhín pa ni Rose na mamatáy kaysa magpakasál kay George.	Rose would rat
 May hallway akong pinasukan at maya-maya may narating akong isang pintuan.	I entered into a hallway and shortly afterward I arrived at a door.
 Hindi ako halos nakapagsalita.	I was almost unable to speak.
 Siyempre.  Sino ba namang ayaw.	Of course.  Who wouldn't?
+Matagal nang lumalaban si Osbourne sa mga seryosong karamdaman.	Osbourne* had long been fighting serious illness.
+Paalala ng Torrijos Municipal Police Station, maging mai­ngat umano sa pagmamaneho lalo na tuwing umuulan dahil madulas ang daanan.	The popo advise to be careful driving, especially when it rains as the road is slippery.
+Hindi nagtagal ay nagsimula na kaming mabahala at mabaliw sa kakaisip ng kaibigan ko.	After a little while, my friend and I started to get nervous and crazy from overthinking.
+Hindi man lang kami nag-abalang lumingon para tingnan ito.	We didn't even bother to look back to see it.

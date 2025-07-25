@@ -16,6 +16,7 @@ pantukoy (tukoy) pang_ [grammar] article
 panuring (turing) pang_ [grammar] modifier
 
 pangungusap (usap) pangCV_ [noun] sentence (grammar); remarks; expression
+talatà	(tala) sp_ [noun] paragraph
 simunò (simuno) rt_ [grammar] subject
 panandâ (tanda) pang_ [grammar] marker
 palayon (layon) pa_ [grammar] objective; referring to ng words / phrases

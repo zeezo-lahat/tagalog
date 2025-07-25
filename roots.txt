@@ -2262,11 +2262,11 @@ daungán (daong) _an [verb] to dock
 daóng (daong) rt_ [noun] ship; ark
 dumaong (daong) _um_ [verb] to land; to dock; to anchor
 idaóng (daong) i_ [verb] to dock
-daos (daos) rt_ [noun] celebration; act of holding an event or party
-idaos (daos) i_ [verb] to hold an event; to celebrate an event
-magdaos (daos) mag_ [verb] to hold an event; to celebrate
-makadaos (daos) maka_ [verb] to be able to hold an event; to be able to celebrate
-pagdaraos (daos) pagCV_ [noun] celebration; celebrating; holding an event
+daos (daos) rt_ [noun] taking place, holding of an event or activity
+idaos (daos) i_ [verb] to hold an event
+magdaos (daos) mag_ [verb] to hold an event
+makadaos (daos) maka_ [verb] to be able to hold an event
+pagdaraos (daos) pagCV_ [noun] the taking place of an event
 pagdausan (daos) pag_an [verb] to hold an event
 dapaán (dapa) _an [verb] to lie prostrate or flat on something
 dapâ (dapa) rt_ [adjective] lying face down
@@ -7829,7 +7829,9 @@ sukat (sukat) rt_ [noun] measurement; size; dimensions; gauge
 sukatan (sukat) _an [verb] to measure someone (i.e., for clothing)
 sukatin (sukat) _in [verb] to measure something; to gauge something; to fit out something
 sumukat (sukat) _um_ [verb] to measure
-sukdulan (sukdol) _an [adjective] limit; supreme; radical; rank; extreme; full of
+pagsusukdól (sukdol) pa_ [noun] climax; isang uri ng pagpapahayag - baitang-baitang na pataas na nagsasaad ng mga bagay at pangyayari hanggang umabot sa pinakamahalaga o karurukan.
+pasukdól (sukdol) pa_ [adjective] superlative
+sukdulan (sukdol) _an [noun] extremity, limit, abot sa hanggahan o dulo
 sukdól (sukdol) rt_ [adjective] huge; enormous; monstrous; vast; voluminous; immense
 suklám (suklam) rt_ [noun] loathing; disgust; aversion
 masuklám (suklam) ma_ [verb] to abhor; to detest
@@ -12610,3 +12612,39 @@ pulót (pulot) [noun] molasses
 pulót-pukyutan (pulot) [noun] honey
 pulút-pukyutan (pulot) [noun] honey
 pumulot (pulot) [verb] to pick up (from the floor or ground); to glean
+isaklób (saklob) [verb] to use to cover one's head/body/etc.
+saklób (saklob) [noun] concave lid
+salakoban (saklob) a tube with covered holes; cover; shield; protector;
+hulíng-habilin (habilin) the testament of a person who is about to die; last will; final testament; dying wish; final instructions;
+ihabilin (habilin) [verb] to entrust something
+paghabilinan (habilin) [verb] to be entrusted with something
+italagá (talaga) [verb] to dedicate something; to devote something; to assign something/someone; to consecrate something
+katalagahán (talaga) [noun] laws of Nature; God's will
+magtalagá (talaga) [verb] to assign; to appoint
+nakatalagá (talaga) [adjective] prepared
+pagkakatalagá (talaga) [noun] intention; appropriation; role
+pagtátalagá (talaga) [noun] appointment; dedication
+talagá (talaga) 1.) [adverb] really; indeed; certainly; definitely; in fact; downright; surely; 2.) [adjective] real; actual;
+kapás (kapas) rt_ [root] having the ability or capability; capable; able; competent;
+magpatistis (tistis) magpa_ [verb] to have oneself operated on (surgically)
+magtistis (tistis) mag_ [verb] to perform a surgical operation
+matistis (tistis) ma_ [verb] to be able to operate on (surgically)
+máninistís (tistis) mangCV_ [noun] surgeon
+pagtitistís (tistis) pagCV_ [noun] operating on (medically); doing surgery
+pantistís (tistis) pang_ [noun] an instrument used for operating on a patient; scalpel; surgical knife;
+tistisin (tistis) _in [verb] to perform a surgical operation
+tistís (tistis) rt_ [noun] surgery; procedure
+garaan (gara) _an [verb] to make elegant
+garà (gara) rt_ [noun] gallantry; elegance; elegant clothing
+kagaraan (gara) ka_an [noun] elegance in dress
+magarà (gara) ma_ [adjective] elegant; fancy; lavish; resplendent
+magmagara (gara) magma_ [verb] to make a show of elegance
+antás (antas) rt_ [noun] level; degree; rate;
+antás-antás (antas) rt_rt [adjective] arranged in accordance with a series of size, length, level, and other standards; graduated; tiered; sequential; hierarchical;
+talaantasan (antas) tala_an [noun] scale (of degrees)
+bai-baitang na lupa (baitang) phr_ [noun] terrace
+baitáng (baitang) rt_ [noun] step (staircase); rung (ladder); grade or degree; school grade level
+baí-baitáng (baitang) rt_rt [adjective] graded; gradual; step by step
+mabaitáng (baitang) ma_ [adjective] having many steps
+karurukan (rurok) ka_an [noun] the peak of a mountain or a place; summit; peak; pinnacle; apex;
+rurok (rurok) rt_ [noun] climax; pinnacle; peak; acme
