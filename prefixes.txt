@@ -19,7 +19,7 @@ with major affixes are 'major verbs'.
 
 verbs in 'basic form' are uninflected for aspect, ie 'magtrabaho' and not 'nagtrabaho'.
 
-verbs are not actor-focus are 'goal-focus' verbs, of which there are at least 8 types wrt semantic
+verbs which are not actor-focus are 'goal-focus' verbs, of which there are at least 8 types wrt semantic
 relation.  basic sentences include only two of these types: 'object-focus' and 'directional-focus'.
 
 in some cases when there are two objects in a sentence, object focus corresponds to english direct
@@ -63,9 +63,7 @@ Some GF verbs only occur in derived sentences.
 Major affixes (17 total):
  -an, ka-an, i-, -in, ipa-, ipag-, ipang-, ma-, ma-an, maka-, mag-, mang-, pa-an, pag-an, pang-an, pang-in, -um-
 
-Some verbal predicates include, in addition to the verb itself, one or more complements. A complement of a major
-verb is one of certain structures that stand in a *non-focus* relation to the verb, but that correspond to the
-topic of a related major verb formed with the same base.
+Some verbal predicates include, in addition to the verb itself, one or more complements. A complement of a major verb is one of certain structures that stand in a *non-focus* relation to the verb, but that correspond to the topic of a related major verb formed with the same base.
 
 Major verbs are divisible into two classes on the basis of whether or not they accept complements. 
 
@@ -96,7 +94,7 @@ Derived verbs:
   pluralized verbs (5.15),
   other derived verbs (5.16). 
 
-## Note: for all "i*-" verbs, the leading "i" is optional with started forms, ie those with "in"
+## Note: for all "i*-" verbs, the leading "i" is optional with started (completed or ongoing) forms, ie those with "in"
 
 -pa-	causative
 -ki-	requestive

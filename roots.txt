@@ -6964,8 +6964,8 @@ sabog (sabog) rt_ [noun] scattering; dispersion; diffusion; things scattered aro
 sabóg (sabog) rt_ [adjective] scattered; dispersed; exploded; disoriented; hung over; high on drugs (slang)
 sumabog (sabog) _um_ [verb] to explode; to scatter
 sabuyan (saboy) _an [verb] to splatter; to dash; to douse
-saboy (saboy) rt_ [noun] the act of splattering
-isaboy (saboy) i_ [verb] to splash something
+saboy (saboy) rt_ [noun] the act of splattering, scattering something
+isaboy (saboy) i_ [verb] to splash, scatter something* around
 kasabwatín (sabwat) ka_in [verb] to get help committing a crime; to conspire
 kasabwát (sabwat) ka_ [noun] conspirator; accomplice
 magkasabwát (sabwat) magka_ [adjective] in a conspiracy
@@ -7886,6 +7886,7 @@ sumpaín (sumpa) _in [verb] to curse; to damn; to condemn
 sumpâ (sumpa) rt_ [noun] curse; promise; swearing
 sumumpâ (sumpa) _um_ [verb] to swear; to swear to something (promise); to promise; to curse
 may-sumpóng (sumpong) phr_ [adjective] moody; cranky; capricious
+sumpóng (sumpong) rt_ [root] sudden appearance of something; caprice, whim; pag-iral ng anuman nang biglaan tulad ng sakít, inis, pagkabaliw, at iba pa
 sumpungín (sumpong) _in [verb] to suffer an attack of something (a sickness, heart attack, etc.)
 kásunduan (sundo) ka_an [noun] agreement; deal; compromise; covenant; bargain; treaty; concord; contract; compact; pact
 mapagkasundô (sundo) mapagka_ [verb] to reconcile; to get along
@@ -12648,3 +12649,8 @@ baí-baitáng (baitang) rt_rt [adjective] graded; gradual; step by step
 mabaitáng (baitang) ma_ [adjective] having many steps
 karurukan (rurok) ka_an [noun] the peak of a mountain or a place; summit; peak; pinnacle; apex;
 rurok (rurok) rt_ [noun] climax; pinnacle; peak; acme
+lantáy (lantay) rt_ [adjective] pure; unadulterated; prime
+linantáy (lantay) style of ring; ring design; ring style;
+palantayan (lantay) piece of wood or bamboo used as a support for a bedstead or table; brace; support; strut;
+lunán (lunan) [noun] place; location; site
+panlunán (lunan) [grammar] locative

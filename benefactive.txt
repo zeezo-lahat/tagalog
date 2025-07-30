@@ -1,84 +1,10 @@
-"para sa"
+"para sa"/benefactive focus uses i* based verbs
 
-Benefactive-focus verbs come from um, mag-, mang- actor focus verbs.
+major(?) benefactive-focus verbs come from um, mag-, mang- actor focus verbs.
 
 um -> i
 mag -> ipag
 mang -> ipang
-
-Examples:
-AF Verb 
-bumili 'buy' 
-kumuha 'get' 
-maglaba 'launder' 
-magsaing 'cook rice' 
-manahi 'sew' 
-manguha 'gather' 
-
-BF Affix 
-ibili 'buy for' 
-ikuha 'get for' 
-ipaglaba 'launder for' 
-ipagsaing 'cook rice for' 
-ipanahi 'sew for' 
-ipanguha 'gather for'
-
-The topic of a BF verb corresponds to a nominal within a *para sa* phrase serving as a benefactive adverb 
-(cf. §6.11, subsection (l.a)) with the corresponding AF verb. Compare, for example:
-
-AF: Bumili ako ng damit para sa bata.  'I bought some clothes for the child.' 
-BF: Ibinili ko ng damit ang bata.  'I bought some clothes for the child.'
-
-A benefactive—focus verb takes an actor complement and, additionally, any other complement(s) taken 
-by the related AF verb. Examples for each of the three complement classes of transitive verbs are: 
-
-1. Object Verb: 
-AF: Mag-iihaw si Nene ng isda para kay Eddie.
-BF: Ipag-iihawni Nene ng isda si Eddie.
-'Nene will broil some fish for Eddie.' 
-
-2. Directional verb: 
-AF: Pipirma ako sa kasulatan para sa Tatay. 
-BF: Ipipirma ko sa kasulatan ang Tatay. 
-'I'll sign the document for Father.' 
-
-3. Double—object verb: 
-AF: Hihingi si Ben ng mga kopya sa titser para sa iyo.
-BF: Ihihingikani Ben ng mga kopya sa titser. 
-'Ben will ask the teacher for some copies for you.' 
-
-Examples of intransitive verbs, the BF counterparts of which take actor complements only, are: 
-
-AF: Magluluksa sila para sa pinsan nila.
-BF: Ipagluluksa nila ang pinsan nila. 
-'They will wear mourning for their cousin.' 
-
-AF: Magnunubena kami para sa kaniya.
-BF: Ipagnunubena namin siya.
-'We will say a novena for him.'
-
-In addition to BF verbs formed with i-, ipag-, and ipang-, there is a small group of -an and pag-an 
-verbs with benefactive meanings. The group includes: gawan 'make (something) for,' iwanan 'leave 
-(something) for,' paglaanan 'set aside (something) for,' and tiran 'leave (something) for.' Gawan is
-a dialectal variant of the regular BF formation igawa (cf. gumawa 'make')
-
-Iwanan, paglaanan, and tiran are ambiguously DF or BF, since the AF verbs to which they correspond 
-(respectively, mag-iwan, maglaan, and magtira) accept either directional complements (formed with sa — cf. 
-§5.25 ) or benefactive adverbs to express the one(s) for whom something is 'left' or 'set aside.' Thus:
-
-AF: Mag-iwan/Magtira ka ng pagkain (para) sa akin. 
-DF/BF: Iwanan/Tiran mo ako ng pagkain. 
-'Leave some food for me.' 
-
-AF: Maglaan ka ng sopas (para) kay Maria 
-DF/BF: Paglaanan mo ng sopas si Maria. 
-'Set aside some soup for Maria.' 
-
-There is no regular BF formation corresponding to mag-iwan — i.e., the expected *ipag-iwan fails to occur. 
-There are, however, regular BF formations corresponding to maglaan and magtira-. respectively ipaglaan and 
-ipagtira. The topics of these regular BF verbs may express either the one(s) for whom something is 'set aside' or 
-'left' (in which case they are synonymous with paglaanan and tiran respectively) or the one(s) for whose 
-benefit the action of 'setting aside something for someone' or 'leaving something for someone' is performed.
 
 All the benefactive forms:
 
@@ -105,3 +31,61 @@ Ipagpalabhan/Ipagpalaba mo siya ng damit.	Have someone wash the clothes for her.
 
 paki- can be added to make social benefactive focus
 Ipakibili mo siya ng gulay.	Please buy her some vegetables.
+
+Examples:
+AF Verb                   BF Affix 
+bumili 'buy'           ibili 'buy for' 
+kumuha 'get'           ikuha 'get for' 
+maglaba 'launder'      ipaglaba 'launder for' 
+magsaing 'cook rice'   ipagsaing 'cook rice for' 
+manahi 'sew'           ipanahi 'sew for' 
+manguha 'gather'       ipanguha 'gather for'
+
+The topic of a BF verb corresponds to a nominal within a *para sa* phrase serving as a benefactive adverb 
+(cf. §6.11, subsection (l.a)) with the corresponding AF verb. Compare, for example:
+
+AF: Bumili ako ng damit para sa bata.  'I bought some clothes for the child.' 
+BF: Ibinili ko ng damit ang bata.  'I bought some clothes for the child.'
+
+A benefactive—focus verb takes an actor complement and, additionally, any other complement(s) taken 
+by the related AF verb. Examples for each of the three complement classes of transitive verbs are: 
+
+1. Object Verb: 
+AF: Mag-iihaw si Nene ng isda para kay Eddie.  'Nene will broil some fish for Eddie.' 
+BF: Ipag-iihaw ni Nene ng isda si Eddie.  'Nene will broil some fish for Eddie.' 
+
+2. Directional verb: 
+AF: Pipirma ako sa kasulatan para sa Tatay.  'I'll sign the document for Father.' 
+BF: Ipipirma ko sa kasulatan ang Tatay.  'I'll sign the document for Father.' 
+
+3. Double—object verb: 
+AF: Hihingi si Ben ng mga kopya sa titser para sa iyo.  'Ben will ask the teacher for some copies for you.' 
+BF: Ihihingi ka ni Ben ng mga kopya sa titser.  'Ben will ask the teacher for some copies for you.' 
+
+Examples of intransitive verbs, the BF counterparts of which take actor complements only, are: 
+
+AF: Magluluksa sila para sa pinsan nila.  'They will wear mourning for their cousin.' 
+BF: Ipagluluksa nila ang pinsan nila.  'They will wear mourning for their cousin.' 
+AF: Magnunubena kami para sa kaniya.  'We will say a novena for him.'
+BF: Ipagnunubena namin siya.  'We will say a novena for him.'
+
+In addition to BF verbs formed with i-, ipag-, and ipang-, there is a small group of -an and pag-an 
+verbs with benefactive meanings. The group includes: 
+gawan 'make (something) for'  ('gawan' is a dialectal variant of the BF form 'igawa', from 'gumawa'/'make')
+iwanan 'leave (something) for' 
+paglaanan 'set aside (something) for'
+tiran 'leave (something) for' 
+
+Iwanan, paglaanan, and tiran are ambiguously DF or BF, since the AF verbs to which they correspond 
+(respectively, mag-iwan, maglaan, and magtira) accept either directional complements (formed with sa — cf. 
+§5.25 ) or benefactive adverbs to express the one(s) for whom something is 'left' or 'set aside.' Thus:
+
+AF: Mag-iwan/Magtira ka ng pagkain (para) sa akin.  'Leave some food for me.' 
+DF: / BF: Iwanan/Tiran mo ako ng pagkain.  'Leave some food for me.' 
+
+AF: Maglaan ka ng sopas (para) kay Maria 'Set aside some soup for Maria.' 
+DF: / BF: Paglaanan mo ng sopas si Maria.  'Set aside some soup for Maria.' 
+
+There is no regular BF formation corresponding to mag-iwan — i.e., the expected *ipag-iwan fails to occur. 
+There are, however, regular BF formations corresponding to maglaan and magtira respectively: ipaglaan and ipagtira. 
+The topics of these regular BF verbs may express either the one(s) for whom something is 'set aside' or 'left' (in which case they are synonymous with paglaanan and tiran respectively) or the one(s) for whose benefit the action of 'setting aside something for someone' or 'leaving something for someone' is performed.
