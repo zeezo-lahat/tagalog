@@ -15,7 +15,7 @@ Optional Non-pre-enclitics
 (When a phrase introduced by buhat appears in an inverted *adverbial* phrase, however, buhat is always N with
  respect to enclitic pronouns. Thus: 
 
-* Buhat sa Maynila siya maglalakad.	'He will walk from Manila.' 
+x Buhat sa Maynila siya maglalakad.	'He will walk from Manila.' 
 never: *Buhat siya sa Maynila maglalakad. 
 
 This is because, as was noted under I.B.6, non-final components of inverted *adverbial* phrases not linked to
@@ -28,7 +28,7 @@ This is because, as was noted under I.B.6, non-final components of inverted *adv
 * Patalikod sa ilog sila. / Patalikod sila sa ilog.	'They have their backs to the river.'
 
 (Pararap and patalikod are never N with respect to the monosyllabic pronoun ka. Thus: 
-* Paharap ka sa akin.	'You are facing me.' 
+x Paharap ka sa akin.	'You are facing me.' 
 never: *Paharap sa akin ka
 
 (The treatment of paharap and patalikod as P is preferred in other cases, but the treatment 
@@ -38,11 +38,11 @@ of them as N is also possible.)
 * Bakit tinanong mo siya? / Bakit mo siya tinanong?	'Why did you ask him?' 
 
 (Other interrogative words are never N. Thus: 
-* Kailan mo siya tinanong?	'When did you ask him?' 
+x Kailan mo siya tinanong?	'When did you ask him?' 
 never: *Kailan tinanong mo siya?) 
 
 (6) The adverbs baka 'maybe' and tila 'it seems': e.g., 
-* Baka aalis siya ngayon. / Bakit siya aalis ngayon.	'Maybe he'll leave today.' 
+* Baka aalis siya ngayon. / Baka siya aalis ngayon.	'Maybe he'll leave today.' 
 * Tila nagustuhan niya ang bahay. / Tila niya nagustuhan ang bahay.	'It seems he liked the house.'
 
 (7) Certain subordinating and coordinating conjunctions (cf. § §6.] 4 through 6.18 and 7.19). 
@@ -57,8 +57,8 @@ Non-Spanish conjunctions belonging to this class are: (at)saka 'and then,' (ka)p
 (Most conjunctions other than those listed here are obligatorily N — see class I.A.8, above.
 There are, however, at least two conjunctions, bago 'before' and kundi (a contraction of kung hindi) 'if not,'
 that are never N. Thus: 
-* Bago kayo umalis, hugasan mo ang mga pinggan.	'Before you leave, wash the dishes.'
-* Kundi ko siya nakita, nakaalis sana siya.	'If I handn't seen him, he would have left.' 
+x Bago kayo umalis, hugasan mo ang mga pinggan.	'Before you leave, wash the dishes.'
+x Kundi ko siya nakita, nakaalis sana siya.	'If I handn't seen him, he would have left.' 
 never: *Bago umalis kayo...  *Kundi nakita ko siya...
 
 (8) Distributive numerals in the recipient-topic construction (cf. §4.5, subsection (a)), when 
@@ -98,9 +98,9 @@ N -cf.I.B.8 , above.)
 
 (The adjective in such constructions is never N with respect to ka. Thus: 
 
-* Bagay ka (para) sa kaniya.	'You are suitable for him.'
+x Bagay ka (para) sa kaniya.	'You are suitable for him.'
+never: *Bagay (para) sa kaniya ka.
 
-Never: *Bagay (para) sa kaniya ka. 
 The treatment of the adjective as P is preferred in other cases, but the treatment of them as N is also possible.)
 
 (C) One-word adverbs, and both final and non-final components of adverbial phrases, that begin the 

@@ -5,11 +5,11 @@ import sys
 from collections import defaultdict
 
 # expand matches for the vowels, so that eg "a" matches "à", "á", etc.
-_a = '[aAáàâ]'
-_e = '[eEé]'
-_i = '[iIíìî]'
-_o = '[oOóòô]'
-_u = '[uUú]'
+_a = '[aáàâAÁÀÂ]'
+_e = '[eéEÉ]'
+_i = '[iíìîIÍÌÎ]'
+_o = '[oóòôOÓÒÔ]'
+_u = '[uúUÚ]'
 
 _d = defaultdict(int)
 

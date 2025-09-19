@@ -136,6 +136,7 @@ alituntunin	law, rules, principles, regulations (e.g. traffic rules)
 aliwalas	airiness, spaciousness (waag, luwang, luwag, kahanginan, kapreskuhan); brightness, pleasantness, coziness (waag, liwanag, ganda, ayos, ginhawa; (by extension) pleasant or joyful disposition or appearance (of a person) (saya, kasayahan)
 alkalde	mayor
 alkansya	piggy bank, penny bank, money box
+almiról	fabric starch
 almusal	breakfast
 alók	an offer
 alon	waves (as at a beach, hair, etc.)
@@ -307,7 +308,7 @@ bahâ	flood
 bahág	G-string (loin-cloth)
 bahág-hari	rainbow
 bahagi	part, fraction, segment
-bahaginan	to share, give a part of something
+bahaginan	to share, give a part of something with someone*
 bahagyâ	slight, little, scant; slightly, scarcely, barely, partly, hardly
 bahala	care/responsibility
 bahay-kalakal	a business
@@ -525,7 +526,7 @@ bigtihin	to hang or strangle oneself
 biguín	to disappoint or fail someone
 bigyan	to give to someone
 bihira	seldom
-bílang	number; "as X"; "serves as", "counts as" (pseudo verb) (Bilang pera ito. "This counts as money.") 
+bílang	number, count (noun); "as X"; "serves as", "counts as" (pseudo verb) (Bilang pera ito. "This counts as money.") 
 bilanggo	prisoner, captive
 bilangguan	jail
 bilas	husband of one's sister-in-law; wife of one's brother-in-law, asawa ng bayáw
@@ -704,6 +705,7 @@ buwelta	pagbabalik, return (also bwelta)
 buwis	tax, tariff, cropshare
 buwísit	a nuisance
 buwitre	vulture
+buyangyáng	exposed and without protection
 chichirya	snacks / junk food
 daán	hundred
 daán	road, path, way
@@ -872,8 +874,10 @@ dumoon	to go there
 dumulas	to slip
 dumulóg	to appear before someone, to turn to someone for help
 dumumí	to defecate
+dunggít	protruding end or tip
 dúnong	knowledge, wisdom, learning, education
 dupók	fragility
+dutdót	using a finger or sharp/elongated object to poke at or mix something; also a euphemism for female masturbation
 duwág	coward
 duyan	cradle, hammock, swing
 e di	"eh, kung hindi", "well if not, then..", so.., therefore..
@@ -989,6 +993,7 @@ grasa	grease
 grasáhan	to grease
 gripo	faucet, tap
 gubat	forest, jungle
+gugò	shampoo
 guhò	landslide; collapse; ruins
 guhúnan	collapsed
 gulang	age
@@ -1039,6 +1044,7 @@ hablot	grab
 habol	pursue, run after, chase
 hábong	hut, pavilion, temporary shelter
 hadlang	obstacle, obstruction
+hagalpak	halakhak, malakas na tawa
 hagdán	ladder, stairs
 hagikgíkan	snicker, giggle
 haginit	cracking sound; swishing sound of swiftly passing vehicles
@@ -1126,6 +1132,8 @@ hatinggabi	midnight
 hawa	infection, contagion
 hawak	hold, grasp; unwanted touch
 hawakan	to take hold of
+háwan	clearing made in the forest, pag-aalis ng hadlang, liwásan ("paghahawan ng malaking bato sa ilog")
+hawán	kawalang ulap sa kalangitan, tahaw, walang sukal, maaliwalas
 hawíg	similar, alike, akin
 hawla	cage
 hayà	tolerance of an act; threatening gesture
@@ -1174,6 +1182,7 @@ hinaan	to lower the volume
 hinaíng	complaint, grievance, frustration, supplication, earnest request (daíng)
 hinalà	suspicion
 hinanakít	resentment, grudge, bitterness
+hindarâ	sitting with legs splayed out, sprawled, splayed
 hindí kailanmán	never
 hindî na	not any more, no more, no longer; not now, no further; never; never mind
 hindí	no/not (as in do not, cannot, is not, am not, will not, would not; so as not to..)
@@ -1211,6 +1220,7 @@ hubo’t hubad	completely naked
 hugas	wash, rinse
 hugasan	to wash, rinse
 hugis	shape, form
+hugos	onslaught, influx, glut (obscure)
 hugot	to pull or draw out; coll. drawing out feelings from deep within
 hugpóng	joint
 hukay	excavation, hole, pit, crater; grave
@@ -1296,6 +1306,7 @@ ihalik	'kiss (someone) for'
 ihayag	disclose, reveal, divulte
 ihingî	to ask (ng) for something (ng) for someone/something  (the focus) Ihingî mo ng patawad ang mali mo.
 ihinto	to cause to stop
+ihugos	to let down a rope (obscure)
 iilan	very few
 iisa	only one, single, one and the same
 iká	said by ("ang wika")
@@ -1660,6 +1671,9 @@ kamtan	get, obtain, attain (kamit)
 kamukha	look like someone
 kamungawan	comprehension
 kamusmusan	innocence (as a child)
+kanâ	síkap o pagsi-sikap; laban, gaya ng buntálan o suntúkan; pagtatakda ng parusa, sahod, o kabayaran
+kanâ	isinaayos o inilagay sa dapat kalagyan; inihanda, gaya sa bitag, baril, at iba pang panlinlang
+kanaín	slang for "hurt/hit someone"(?)
 kanais-nais	desirable
 kanan	right (vs. left)
 kanayunan	center of a village/barrio; a remote rural area (also nayon)
@@ -1932,6 +1946,8 @@ kugon	a type of tall grass
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
 kuko	fingernail, toenail, talon, hoof
 kukunin	will take/get
+kulá	bleaching clothes
+kulahín	to bleach
 kulam	sorcery, witchcraft, bewitchment
 kúlang	deficient, lacking, inadequate
 kulay	color
@@ -1989,6 +2005,7 @@ kupkop	kept and protected under care; held against the chest
 kurípot	stingy
 kuro	comment, tenet, viewpoint, notion, point of view, belief
 kuró-kuró	personal opinion (palagay, opinyon) point of view; notion; belief; concept (kuru-kuro)
+kursunada	object of interest/desire
 kusà	deliberately, voluntarily
 kusang-loób	free will
 kusang palo	self-starter
@@ -2004,6 +2021,7 @@ kutsara	spoon
 kutsero	driver of horse-drawn vehicle, coachman
 kutsilyo	table or kitchen knife
 kutsón	mattress, cushion
+kutyâ	scorn
 kuwago	owl
 kuwán	whatchamacallit/thingie/so-and-so
 kuwarto	room, bedroom
@@ -2169,10 +2187,12 @@ likas	exodus, evacuation
 likás	natural, inherent, innate, characteristic, unwritten
 likha	a creation; thing produced by intelligence and skill
 likhain	to create
+likido	liquid
 likô	turn ("likô hô")
 liku-likong	zigzag
 lila	lilac, violet, purple
 lilim	a partly dark place, not in the sunshine
+limì	pag-iisip mabuti hinggil sa isang bagay o pangyayari
 limitahán	to limit something
 limlim	body warmth; impending darkness
 limos	alms; stipend
@@ -2362,6 +2382,7 @@ magaling	to be good at something; to improve at something, recover, get better
 maganáp	to happen, take place (syn. mangyari)
 magandá	good in appearance or quality, beautiful, pretty, lovely
 magarbo	graceful, elegant
+magasin	magazine
 magastos	costly
 magawâ	to be able to do; to happen or be done
 magbabâ	to lower something
@@ -2485,6 +2506,7 @@ magpanggáp	to pretend, to profess
 magpanggáp	to pretend/profess to be
 magpaniwala	to cause (sa) to believe, to convince (sa) of (ng)
 magpapalimos	beggar (pulubi)
+magparunggit	to make an allusion or indirect reference
 magpasikat	to show off
 magpasunod	set; arrange; fix for others to follow
 magpatakbó	to make run; to operate
@@ -2787,6 +2809,7 @@ mángingisdâ	a fisherman
 mangisáy	to convulse
 manginíg	to shake, shiver, tremble (nginig)
 mangisdâ	to fish
+mangkok	a bowl
 manglamang	advantage over others (noun)
 mangmáng	uneducated, ignorant, illiterate
 mangulila	to yearn (as like an orphan)
@@ -3027,6 +3050,8 @@ mongha	nun
 moóg	thick stone wall; fort
 morena	brown skinned (also kayumanggi)
 mudmód	distribution
+mugmóg	softened up by beating
+múgmog	saturated
 mukha	face; seems, appears to be, apparently, "looks ..", "looks like .."
 mulâ	originate, start from, stem from
 mulát	with open eyes; educated; trained (dilát)
@@ -3272,6 +3297,7 @@ ni hindi	not even (Ni lapis, hindi siya nagdala.  He didn't even bring a pencil.
 ni isá	not even one
 ni walá	not even (Ni lapis, walá ako./Ni walá akong lapis.  I don't even have a pencil.)
 nilalamán	content(s) (noun, laman)
+nililimi	pondering, considering, contemplating
 nilito	was confused by something
 ninang	godmother; sponsor
 ningas	flame
@@ -3301,6 +3327,7 @@ obrero	laborer
 ogis	albino (anak-araw)
 oras	hour, time
 ordinaryo	ordinary
+ótob	beak, tukâ1
 pa	still, yet, else, more
 pa lang	indicates that something is just about to be done, has only recently happened, or "so far"/"until now"
 pa pala	implies mild surprise that a condition still exists
@@ -3406,6 +3433,7 @@ pagdinig	a hearing (judicial, etc.)
 pagdiriwang	ceremony, celebration
 pagdugo	bleeds / act of bleeding
 pagdurugo	bleeding
+paggagamítan	gámit, use (noun), necessity
 paggalang	respecting
 paggambala	interruption
 paggigiit	assertion, insistence of one's rights
@@ -3627,6 +3655,7 @@ paliban	postponement
 palibhasa	"for this reason", expresses that what follows is stated as a reason (also palibasa)
 palibhasa	the reason being..., because; seeing as; knowing that; for as much; to the end that; (often used sarcastically)
 paligid	vicinity; circumference
+paligoy-ligoy	beating around the bush
 páligsahan	a competition
 palihis	deviated, deflected, erroneous, incorrect
 palikuran	a toilet, especially an outhouse
@@ -3660,6 +3689,7 @@ pamigay	giveaway
 pamilíhan	market, marketplace (bili)
 pamiliin	to let someone choose
 pamilya	family
+pamilyado	may asawa/anak ("pamilyadong tao")
 paminsan-minsan	occasionally, from time to time
 pampang	river bank (origin of the name "Pampanga"), or shore of sea, etc.
 pampanitikan	literary
@@ -3794,6 +3824,7 @@ paringgán	to allude to, refer to, mention
 pariníg	 hint
 parokyano	customer
 paroon-dili	undecided, hesitant
+parunggít	innuendo, masakít na puna na dinadaan sa parinig
 parúsa	punishment
 parusahan	to punish
 pasa	to pass
@@ -3897,6 +3928,7 @@ pilak	silver (the metal)
 pilapil	a dike, embankment
 pílay	lame, limp, crippled; sprain, dislocation
 pili	choice, selection
+pilíg	shaking off to dry off like a dog or a bird or something
 piliin	to choose
 piliin sa	"choose from"
 pilipit	wring, squeeze, twist; twisty, awry, contorted
@@ -4006,6 +4038,9 @@ pumili	to choose
 pumitík	to snap one's fingers, to topple or push with a flip of the fingers mamitik, pitikin (mang-:-in)
 pumuwesto	to take a position
 puná	criticism, remark, observation
+pundí	burned out, broken, extinguished, blown fuse
+pundido	burned out
+pungás	confused due to abrupt awakening from sleep
 púnong-kahoy	tree; tree trunk; wooden tree (in contrast to, for example, a palm tree)
 punò	tree; chief, leader; origin, source, base
 punô	full, filled
@@ -4016,6 +4051,7 @@ puntó	(speaking) accent, intonation
 punto	point
 puntos	"points" a numerical score or record, such as points in a game, etc.
 pupulsuhán	wrist
+purgá	purge, purgative, laxative
 puri	praise
 puro	pure, unmixed; entirely, all (puro reklamo ka -> all you do is complain)
 purók	district (smaller than a barangay)
@@ -4141,7 +4177,7 @@ saká	also, and then, besides, moreover, furthermore, and then, afterwards
 sáka	agriculture, farming
 sakâ na	some other time
 sakalì	in case, if; perhaps
-sakáng bow-legged, tao na nakabuká ang ayos ng mga hità at binti at hindi nagdidikit ang mga tuhod… (mga hapon)
+sakáng	bow-legged, tao na nakabuká ang ayos ng mga hità at binti at hindi nagdidikit ang mga tuhod… (mga hapon/Japanese)
 sakáy	passenger, load
 sákáyan	loading place
 sakim	avaricious, covetous, greedy, selfish
@@ -4373,6 +4409,7 @@ siyento	hundred
 soberanya	sovereignty
 sóbra	too much, excessive; intense
 sobre	envelope
+soli	sa uli
 sona	zone
 sopas	soup
 sorpresahin	to surprise someone
@@ -4397,6 +4434,7 @@ sukab	treacherous, traitorous, perfidious
 sukal	garbage, flotsam, dirt
 sukat	size, measurement
 sukátin	measure
+sukbít	root carrying something on waist or over shoulder, eg a shotgun worn by security guard
 sukdúlan	utmost
 suklay	comb
 suklî	the change that you get back from a monetary transaction (Chinese origin)
@@ -4404,6 +4442,7 @@ sukò	to give up, surrender
 sukob	sharing cover/shelter (umbrella, shed, blanket, etc.)
 sukol	cornered, driven into a corner
 sulat	writing, letter
+sulások	stomach turning stench, matinding pagkasuya o pandidiri na may kahalòng pagsusuká o pagduwal
 súliranin	a problem
 sulit	worth it, a good deal; a test
 suló	binti ng hayop; pagkasilaw; baluktot
@@ -4566,7 +4605,7 @@ talangkâ	crab
 talasalitaan	vocabulary
 talím	blade; knife or dagger blade; edge; point
 talíno	smarts, talent
-talinghagà	metaphor, aphorism
+talinghagà	metaphor, aphorism, proverb
 talipapâ	a temporary market (esp.for fish)
 talipapang bayan	a public market
 talipapang gala	a traveling wet market
@@ -4598,16 +4637,16 @@ tampisáw	splashing/playing in water
 tampó	sulking
 tampók	center of attraction
 tanán	madla, lahat, bala na, pawa, all, everyone, entire, whole
+tánan	alis na walang paalam, takas, puga
 tanáw	view
 tandâ	sign, mark; signal; evidence
 tandaan	to remember
-tangáy	carried away (by force, seizure, abduction, mouth)
-tangáy	carried away (by wind, current, bird or prey, or emotions)
+tangáy	carried away (by force, wind, current, abduction, mouth, emotions)
 tange	stupid (less harsh than tanga) also "tangi"
 tangengot	stupid
 tanggál	remove by unfastening, detaching
 tanggalín	to detach, to loosen, to take off, to eliminate
-tanggap	to accept, receive (in-, ma-, mag-)
+tanggap	to accept, receive (-in, ma-, mag-)
 tanggí	refusal, denial, negation
 tanggúlan	fortification
 tanghál	to be shown, on display
@@ -4621,6 +4660,7 @@ tangkíl	gentle or delicate handling; gentle grasp; delicate touch; light hold
 tangkílik	tagúyod
 tangkilikin	to patronize, as in a business, etc.
 tangó	nod
+tangwáy	peninsula
 tanikalâ	chain
 taním	a plant; ill-feeling planted in the heart, grudge
 tanod	guard
@@ -4650,6 +4690,8 @@ taranta	confusion, bewilderment
 tarantá	disconcerted, perturbed, upset; confusion, bewilderment; di-malaman ang gagawin, magulo ang isip; matulig, matuliro, malito
 tarantádo	foolish, shameless, disrespectful; moron, asshole
 tarantahín	to confuse, baffle, bewilder
+tarók	thorough understanding
+tarukín	to understand thoroughly, to fathom
 tása	a cup; estimate, assessment
 tastás	unravelled, unravelling, unstitched, falling apart (clothing or cloth)
 tatág	establishment, stability; solidarity, security; established, organized
@@ -4690,6 +4732,7 @@ tiím	nakaimpit ang labì, ngipin, o bagáng sa pagpipigil o pagtitimpi ng galit
 tiisin	to endure something (free alt/dialectical of pagtiisan)
 tikbalang	mythical demon horse
 tikim	to taste, to try
+tikin	pole
 tiklô	caught; arrested by the police (syn. huli)
 tikmâ	agreement, pact, deal, accord
 tikmán	to taste something (tikim)
@@ -4699,10 +4742,12 @@ tilapon	toss randomly (possibly related to 'tapon')
 tilî	shriek, screech
 timbóg	caught, arrested
 tímbre	a stamp/seal; a button like a doorbell; a musical tone
+timò	pierce, penetrate
 timog	south
 timplada	mixture, compound
 timtím	the ability to endure hardship and to restrain the outburst of emotions; restraint; self-control; endurance; forbearance; patience
 timyás	genuineness or purity of love, loyalty, etc.
+tinapá	smoked or cured meat
 tínaw	paglalagay ng tubâ sa mga tapayan
 tináw	luminaw ang likido pagbabâ ng mga latak o dumi; hinugasan nang maraming ulit ang isang bagay; nakaupô sa sahig, damo, at katulad
 tinda	selling, merchandise
@@ -4744,6 +4789,7 @@ todas	killed (slang)
 todo	all, all of, the whole of
 tokwa	tofu
 tol	colloquial/informal term for one's brother or sister; buddy. (also utol)
+tólda	canvas, tent
 tong	contribution of money
 tono	tone (as in tone of voice)
 torótot	party horn, toy trumpet
@@ -4820,6 +4866,7 @@ tumestigo	testify
 tumigil	to stop
 tumilà	to cease (usually referring to rain)
 tumilî	shrieked, screeched
+tumimò	pierced or (figuratively) affected by something, eg, have something embedded in your character
 tumínag	to budge
 tumingkad	to become brighter/clearer (as colors)
 tumitingin-tingin	browsing
@@ -4844,6 +4891,7 @@ tuntón	tracing the path, source, origin; giving guidance at the start
 tuntóng	stepping on; getting in to (also 'tungtóng')
 tuntunan	basis, rule, principle
 tuntungan	to step, set the foot down
+tuntúngan	anumang maaaring tapakán
 tuntunin	rules, regulations, laws (also "alituntunin")
 tupád	fulfilment, implementation of a duty, promise; compliance, observance
 tupada	picnic; illegal cockfighting
@@ -4900,6 +4948,7 @@ uli	again (use muli at beginning of sentence)
 ulí-ulí	"next time"
 ulila	orphan
 uling	charcoal
+ulirán	exemplar, gold standard
 ulirat	consciousness, sense
 ulit	repetition
 ulit-ulit	again and again, repeatedly (also paulit-ulit)
@@ -4950,6 +4999,7 @@ unano	dwarf, pigmy, midget
 unawa	to understand, comprehend (like intindi)
 unawain	to understand, to grasp mentally
 ungkát	mentioning or bringing up something that happened
+ungót	mumble, as a shy child
 ungkatin	to bring up again
 unós	tempest, storm
 untî	bit, small amount

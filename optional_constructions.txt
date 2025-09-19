@@ -9,3 +9,15 @@ first word of the sentence + any enclytics:
 
 Natutulog ba ang lahat ng mga bata?	Are all of the children sleeping.
 Natutulog bang lahat ang mga bata?	Are all of the children sleeping.
+Kahapon pa / Mula pa kahapon nawawala ang libro.	The book has been missing since yesterday.
+Binili ba itong lahat ng Nanay? / Binili bang lahat ng Nanay ito?	Did Mother buy all of these?
+Maaksaya ang magtapon ng damit. / Maaksayang magtapon ng damit. / Maaksayang itapon ang damit.	'To throw away the clothing is wasteful.'
+Matrabaho ang magluto ng lumpia. / Matrabahong magluto ng lumpia.	'Cooking lumpia involves a lot of work.' 
+Kalokohan ang magsugal. / Kalokohang magsugal.	'Gambling is foolishness.' 
+Binalak ko ang mamalengke. / Binalak kong mamalengke.	'I planned to go shopping at the palengke.' 
+Inilagan ni Juan ang mag-aral ng Kastila. / Inilagan ni Juang mag-aral ng Kastila.	'Juan avoided studying Spanish.' 
+Nag-usap sina Rudy tungkol sa giyera. / Pinag-usapan nina Rudy ang (tungkol sa) giyera.	'Rudy and the others talked about matters concerning the war.'
+Nag-away sila tungkol sa pera. / Pinag-awayan nila ang (tungkol sa) pera.	'They quarreled about the money.'
+Nag-isip siya tungkol sa paglalakbay niya. / Nag-isip siya ng paglalakbay niya. / Inisip niya ang paglalakbay niya.	'He thought about his trip.'
+Magkwento ka tungkol doon. / Magkwento ka noon. / Ikwento mo iyon.	'Tell a story about that.' 
+Naglihim sila tungkol sa gawain nila. / Naglihim sila ng gawain nila. / Ipinaglihim nila ang gawain nila.	'They were secretive about their activities.' 

@@ -194,7 +194,6 @@ p-	'abstract of action or a hypostatic state'
 	Nilálagdaán na nilá ang iyóng hilíng na pondo.  |  They are signing your request for funds.
 	Lálagdaán bukas ang mga paanyaya para sa kumperénsiyá.  |  The invitations for the conference will be signed tomorrow.
 i-	can be goal, benefactive, or instrument focus
-	Ano pala ang itAtAlI ko rito?	What should I tie around this?
 i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clothes, throw - trash, give - wallet
 	Iniakyát ko ang kahón sa kuwarto.  |  I brought the box upstairs to the room.
 	Ibinábalík ko ang pera niyá.  |  I am giving back his money.
@@ -214,18 +213,18 @@ i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang
 	no "sa".)
 	i- benefactive form tends to go with roots which don't have i- object focus, and/or which also normally don't
 	have "mag" forms
-	Ibinilí kitá ng tinapay.  |  I bought you bread.
-	Ibinilí ko siyá ng damít.  |  I bought her clothes.
+	examples: ibasa ibilí igawâ ihanap ihiwà ikopya ikuha itahî iyarì isulat ilibre
 	Ibilí mo ang nanay ng sapatos.  |  Buy shoes for Mom.
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
 i-	INSTRUMENT
-	Ano pala ang itátálí ko rito?	What should I tie around this?
-ika-	ACTOR: to CAUSE or be REASON for state/condition/circumstance
+	Ano pala ang itátalí ko rito?	What should I tie around this?
+ika-	ACTOR: to CAUSE state/condition/circumstance
 	ika-, ikina-, ikinaCV-, ikaCV-
-	ikawala - cause one to lose, ikagalit, ikamatay) (actor/causer)
+	ikagalit, ikamatay
+	ikawala - cause one to lose
 	ikinabubuhay  |  way of making a living
-	ikagAgalak ko  |  it would make me happy
-	Ikamámatáy ko kung maghíhiwaláy tayo.  |  I will die if we separate.
+	ikagágalak ko  |  it would make me happy
+	Ikamámatáy ko kung maghíhiwaláy tayo.  |  I will kill me if we separate.
 	Anó ang kaniyáng ikinamatáy?  |  What did he die from?
 	Ikasasawî mo ang katigasan ng ulo mo.  |  Your stubbornness will kill you.
 | NOTE: Generally, intransitive -um- verbs of 'becoming' (cf. §5.6, class J) have corresponding causative—focus
@@ -373,9 +372,7 @@ kaCV-an	NOUN katulad ka-an abstract nouns(?)
 	kahahantungan (hantong) kaCV_an [noun] the end result; stopping point; final resting place; the final result
 	kahihiyán (hiya) kaCV_an [noun] shame; humiliation; embarrassment; dishonor; shyness
 	kalálabasán (labas) kaCV_an [noun] outcome; end result
-	kalalakihan (lalaki) kaCV_an [noun] gentlemen; group of males; manhood
 	katatawanán (tawa) kaCV_an [noun] joke; humor; comedy
-	kahihiyán (hiya) kaCV_an [noun] shame; embarrassment; shyness; humiliation; dishonor;
 ma-	(adjective) of quality or large amount of something
 ma-	verbs..
   "ma-" forms transitive AF and OF major verbs, and intransitive verbs.
@@ -637,29 +634,36 @@ mang-	to become something PARTIALLY or TEMPORARILY (ex. manigas - to become hard
 mang-	to do a recreational or CASUAL ACTIVITY (visiting, boating) (actor)
 mangCV-	nouns of FREQUENT ACTION, referring to a person associated with something (ex. manlalaro, mamamayan)
 manga-	to do COLLECTIVE ACTIONS involving/happening to many people (actor)
+mapa- "mápa" (actor) happen to be of a particular age: mapabata, mapamatanda, mapasanggol
+mapa- "mápa" (actor) inadvertently caused to do/become something.  "sa" or "na" causer moreso than "ng"
+	* flipside of ika?
+	happened to do: mapatakbo, mapailíng, mapaiyak, mapa-isip, mapatingín, mapatilî
+        happened to be: mapahiya, mapasama
+	mapahiya - become humiliated
+	mapasama - become included
+	mapaiyak - caused to cry
+	mapatigil - caused to stop
+	Napápailíng akó sa pinagsasabí mo.	I am shaking my head in disbelief at what you're saying.
+mapa- "mápa" (object) incidental/abilitave of pa-in verbs
+        if there is agent, it is ang
+	Napaligaya mo ako.	You made me happy.
 	Walâ kang magagawâ para mapatigil itó.  |  There's nothing you can do to stop it.
 	Kailangan nating mapatigil ang kónstruksiyón ng gusalì.  |  We need to stop the construction of the building.
-	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo.  |  We can only stop the passage of the bill if we unite.
-mapa- "mápa" (actor) incidentally or happening to do (verb root) or be (noun root) something.  
-	* flipside of the object focus version for when there is no real causer of the action.
-	happen to do: mapailing, mapaiyak, mapa-isip, mapasama, mapatingín, mapatilî
-	happen to be: mapabata, mapamatanda, mapasanggol
-	mapahiya - become humiliated
-	mapaiyak - caused to cry
+	Mapápatigil lang natin ang pagpasá ng pánukaláng batás kapág nagkáisá tayo.  |  We can only stop the passage of the bill once we've united.
 	Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.
-	Napápailíng akó sa pinagsasabí mo.	I am shaking my head in disbelief at what you're saying.
-mapa- "mápa" (object) ability/possibility to (ng) CAUSE someone (ang) to do something. (actor) to be CAUSED to do/become something involuntarily or inadvertently.
-	This is abilitative/incidental of pa-in.
-	Napaligaya mo ako.	You made me happy.
-	Sinikap ni Gary na mapangitî si Patrick.	Gary strived to make Patrick smile.
-mapag-	(adj) PERSONAL CHARACTERISTIC (ex. mapagbigay - generous, mapag-isip - thoughtful)
+mapag-	(adj) mapág PERSONAL CHARACTERISTIC (ex. mapágbigay - generous, mapag-isip - thoughtful)
+	see mapag.txt for many examples
 	* these come from mag- verbs
 	The pronunciation of the base in the mapag- adjective is identical with its pronunciation in the mag- verb
 	Mapagdala ng mga regalo sa kanila si Juan.	'Juan is fond of bringing presents to them.'
-mapag-an	ability/possiblity involving JOINT ACTION, form of pag-in (obj.) ("got to" / "able to" do something)
+mapag-	verb, incidental, object focus of mag 
+	mapaghiwalay, mapagbintang
+	Benjamin Magalong mismo na napagbintang
+	At mula non sa makalipas at sumunod na mga taon ay hindi na sila mapaghiwalay.
+mapag-an	incidental/abilitive of mag-an mutual-action.
+	Napagbásketbulán namin ang 'covered court' sa poblasyón.  We got to play basketball in the covered court in the town proper.
 mapag-an (obj) abilitative of pag-an
 	Nang makababa ng sasakyan ay napagmasdan niya ang eskuwaylahan.
-	Napagbásketbulán namin and 'covered court' sa poblasyón.  We got to play basketball in the covered court in the town proper.
 	May mapagkukunan ba ng prutas doon?	Is there a place we can get fruit there? *note use as noun here*
 mapag-an ()
 	Natuwâ siyá nang mapag-alamáng magiging amá siyá.  |  He was happy when he realized that he would be a dad.
@@ -695,7 +699,8 @@ pag-	gerund former for -um-, -in verbs, the act or manner of doing an action
 pag-	upon doing the action of the root
 pagCV-	gerund former for mag-, -an verbs
 pagCV-	the act or manner of doing an action repeatedly
-pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
+pag-an	(object) object form of certain mag- verbs
+	* pag-isipan, pag-aralan
 	Pag-isipan mong mabuti bago ka sumagót.  |  Think about it carefully before you answer.
 	Dapat pinag-íisipan nang mabuti ang pag-aasawa.  |  Getting married should be thought about a lot.
 	Teka, pinag-íisipan ko pa.  |  Wait, I'm still thinking about it.
@@ -703,7 +708,7 @@ pag-an	(object) (ng) does something WITH/REGARDING ang (obj)
 	Matagál kong pinag-isipan ang desisyón na itó.  |   I took me a long time to consider this decision.
 	Ipagpatuloy natin ang pinag-áaralan natin kahapon.  |  Let's continue with what we were studying yesterday.
 	Pag-aralan mo ang mga pangungusap.  |  Study the sentences.
-pag-an	(locative) locative focus for mag- verbs
+pag-an	locative focus for mag- verbs
 	directional focus counterpart of mag- in directional and double-object verbs
 	there is a mag/ipag/pag-an correspondence group which includes roots bili (sell to), kaila (deny), kait (refuse
 	to give to), tapat (confess to)

@@ -1085,11 +1085,11 @@ bumalisá (balisa) _um_ [verb] to disquiet; to trouble
 mabalisâ (balisa) ma_ [verb] to be upset; to be disturbed; to be anxious
 nakakabalisâ (balisa) nakaka_ [adjective] anxiety-inducing; causing anxiety or unease
 pagkabalisâ (balisa) pagka_ [noun] uneasiness; anxiety
-balitaan (balita) _an [verb] to inform someone of the news
+balitaan (balita) _an [verb] to inform someone* of the news (object focus)
 balità (balita) rt_ [noun] news; report; heard news
 balítang-kutsero (balita) [noun] hearsay
 ibalità (balita) i_ [verb] to report something; to report news; to broadcast something; to give news about something
-mabalitaan (balita) ma_an [verb] to be informed of something on the news; to hear some news
+mabalitaan (balita) ma_an [verb] to be informed of something* on the news; to hear some news* (object focus)
 magbalità (balita) mag_ [verb] to report (news)
 makabalità (balita) maka_ [verb] to hear as rumor; to receive word
 mapabalità (balita) mapa_ [verb] to report something
@@ -4448,7 +4448,7 @@ magkákilala (kilala) magka_ [verb] to know each other; to be acquainted with ea
 magpakilala (kilala) magpa_ [verb] to make known; to reveal; to introduce oneself to someone
 makilala (kilala) ma_ [verb] to meet someone; to get to know someone; to become acquainted with someone; to come to know someone/something; to recognize someone
 makipagkilala (kilala) makipag_ [verb] to meet; to know someone; to meet each other
-makákilala (kilala) maka_ [verb] to recognize; to get to know; to get a chance to meet
+makákilala (kilala) maka_ [verb] to recognize, meet, know or get to know someone.  if specific person, sa/kay kundi, ng.  Can be used intransitively in ongoing aspect to mean "able to recognize" or "give attention to"
 pagkakakilala (kilala) pagkaka_ having known
 pagkilala (kilala) pag_ [noun] honor; acknowledgement; identification; recognition
 pagkákakilanlán (kilala) pagkaka_an [noun] identity; individuality
@@ -4792,22 +4792,30 @@ lagás (lagas) rt_ [adjective] fallen; fallen off; something fallen off of somet
 malagas (lagas) ma_ [verb] to fall off; to fall out; to fall out (as in an armed force)
 nalagas (lagas) na_ [adjective] fallen; fallen off
 taglagás (lagas) tag_ [noun] autumn; fall
+lumagdâ (lagda) _um_ [verb] to sign; to sign off on
+di-mápalagáy (lagay) [adjective] (Leo) (1) uncomfortable; uneasy; restless; (2) fidgety; (3) impatient; (4) to be on edge; disturbed; nervous; on pins and needles;
 ilagáy (lagay) i_ [verb] to place something; to put something; to lay something
 ipalagáy (lagay) ipa_ [verb] to consider; to suppose; to assume; to attribute; to conclude; to deem
-kalagayan (lagay) ka_an [noun] condition; position; situation; circumstance
-kinalalagyán (lagay) kinaCV_an [noun] position; location
+kalagayan (lagay) ka_an [noun] condition; situation; status; position; place; circumstance
+kinalalagyán (lagay) kinaCV_an [noun] position; location; holding area
+kákalagáy (lagay) kaCV_ [adjective] just placed
+lagayan (lagay) _an [noun] bribing
 lagyán (lagay) _an [verb] to place on/in something; to put on/in something; to bribe someone
 lagáy (lagay) rt_ [noun] condition; position; bribe; bet (in gambling)
 lalagyán (lagay) CV_an [noun] container
 maglagáy (lagay) mag_ [verb] to place; to apply; to put; to situate; to bribe
 magpalagáy (lagay) magpa_ [verb] to have something placed
 mailagáy (lagay) mai_ [verb] to be able to place or deposit something
+malagyán (lagay) ma_an [verb] to (be able to) put something somewhere/on something; to bribe someone
 malagáy (lagay) ma_ [verb] to be placed in/on
-nakalagáy (lagay) naka_ [adjective] placed; situated
+nakalagáy (lagay) naka_ [adjective] placed; situated; positioned; installed
+pagkakalagáy (lagay) pagkaka_ [noun] positioning; position
 paglagáy (lagay) pag_ [noun] application; putting; placing; laying; the act of putting or placing something
-paglalagáy (lagay) pagCV_ [noun] putting; placing; laying
+paglalagáy (lagay) pagCV_ [noun] putting; placing; laying; positioning
+pagpapalagáy (lagay) pagpapa_ [noun] speculation; having something placed (on)
+pakilagáy (lagay) paki_ please put
+palagyán (lagay) pa_an [verb] to have someone put something somewhere;
 palagáy (lagay) pa_ [noun] opinion; estimation; estimate; assumption
-lumagdâ (lagda) _um_ [verb] to sign; to sign off on
 lagdâ (lagda) rt_ (noun) signature; court decision
 lagdaán (lagda) _an [verb] to sign (a document, contract, etc.)
 paglagdâ (lagda) pag_ [noun] signing
@@ -6920,7 +6928,7 @@ ipasabi (sabi) ipa_ [verb] to have someone relay a message; to make someone say 
 kakasabi (sabi) kaka_ just said
 kasabihán (sabi) ka_an [noun] proverb; household word; expression; byword; saying; precept; idiom; adage
 magpasabi (sabi) magpa_ [verb] to have (someone) tell
-magsabi (sabi) mag_ [verb] to say; to tell; to state; to mention; to make known; to allege; to declare
+magsabi (sabi) mag_ [verb] to say; to tell; to state; to mention; to make known; to allege; to declare, "nagsabi ako sa kanya ng insidente"
 magsabihán (sabi) mag_an [verb] to tell each other; to share with each other; (reciprocal verb)
 makapagsabi (sabi) makapag_ [verb] to be able to say; to be able to tell/relay
 mapagsabihan (sabi) mapag_an [verb] to be able to say something to someone; to be able to reprimand someone
@@ -6969,6 +6977,7 @@ isaboy (saboy) i_ [verb] to splash, scatter something* around
 kasabwatín (sabwat) ka_in [verb] to get help committing a crime; to conspire
 kasabwát (sabwat) ka_ [noun] conspirator; accomplice
 magkasabwát (sabwat) magka_ [adjective] in a conspiracy
+magsabwatan (sabwat) mag_an [verb] to conspire together
 pakikipagsabwatan (sabwat) pakikipag_an [noun] complicity; conspiring together
 sabwatan (sabwat) _an [noun] conspiracy
 sabwát (sabwat) rt_ [noun] getting someone as an accomplice in crime
@@ -9765,7 +9774,7 @@ barí (bari) rt_ [noun] to imitate the speaker; mimic; imitate; copy; echo; parr
 pagtutuyaan (tuya) pagCV_an [noun] exchange of sarcastic remarks
 panunuyâ (tuya) pangCV_ [noun] mockery; ridicule; sarcasm
 tuyâ (tuya) rt_ [noun] mockery; ridicule
-mangutyâ (ngutya) mang_ [verb] to scoff
+mangutyâ (ngutya) ma_ [verb] to scoff
 pangungutyâ (ngutya) pangCV_ [noun] scoffing; mocking
 nakasagasà (sagasa) naka_ [adjective] having been hit; hit by a car/vehicle
 sagasaan (sagasa) _an [verb] to run over someone/something
@@ -9776,8 +9785,8 @@ ligaligin (ligalig) _in [verb] to harass someone
 maligalig (ligalig) ma_ [adjective] troubled; mentally distressed
 manligalig (ligalig) mang_ [verb] to cause perturbation all around
 mapanligalig (ligalig) mapang_ [adjective] prone to cause trouble all around
-mukhang ligalig (ligalig) phr_ [noun] careworn
-panliligalig (ligalig) pangCV_ [noun/adjective] making trouble all around
+mukhang ligalig (ligalig) phr_ [phr] careworn
+panliligalig (ligalig) pangCV_ [noun] making trouble all around
 magwarì (wari) mag_ [verb] to ponder; to meditate; to consider
 mawarì (wari) ma_ [verb] to discern something; to perceive something
 pagwawari-wari (wari) pagCV_rt_rt [noun] act of reflecting/deliberating
@@ -10167,6 +10176,7 @@ lantahín (lanta) [verb] to cause to wither
 lantá (lanta) rt_ [adjective] withered; wilted
 pananalantá (lanta) [noun] destruction
 hilatà (hilata) [noun] slumping; slouched over; loafing
+hílod	scrubbing of skin to remove grime
 hulaláy (hilata) lying down or resting on a chair or seat; reclining; lounging; lying down; resting;
 humilatà (hilata) [verb] to slump; to flop down (lie down)
 mapahilata (hilata) [verb] to happen to skid and fall on one's back
@@ -11155,36 +11165,6 @@ magulang (gulang) 1.) [noun] parent; parents; 2.) [adjective] mature; shrewd; ri
 may-gulang (gulang) [adjective] adult
 nasa hustóng gulang (gulang) [adjective] adult
 atupag (atupag) [noun] occupation; task
-ipalagáy (palagay) [verb] to assume something; to consider something; to suppose something; to attribute something; to conclude something; to deem something;
-kapalagayán (palagay) complete tranquility and not easily disturbed by anyone who possesses it; serenity; peacefulness; calmness; tranquility;
-kapalagáy (palagay) pile or heap of unhusked rice; pile; heap; stack;
-kapálagáyang-loób (palagay) a person who is trusted with even the secrets of life; confidant; trusted friend; intimate; close friend;
-palá-palagáy (palagay) various opinions or impressions; assumptions; beliefs; views; impressions; notions;
-di-mápalagáy (lagay) [adjective] (Leo) (1) uncomfortable; uneasy; restless; (2) fidgety; (3) impatient; (4) to be on edge; disturbed; nervous; on pins and needles;
-ilagáy (lagay) [verb] to place something; to put something; to lay something
-ipalagáy (lagay) [verb] to have something placed; to have something put
-kalagayan (lagay) [noun] condition; situation; status; position; place; circumstance
-kinalalagyán (lagay) [noun] position; location; holding area
-kákalagáy (lagay) [adjective] just placed
-lagayan (lagay) [noun] bribing
-lagayráy (lagay) a type of plant;
-lagyán (lagay) 1.) [verb] to place on/in something; to put on/in something; 2.) to bribe someone
-lagáy (lagay) 1.) [noun] condition; position; situation; 2.) [noun] bribe; 3.) [noun] bet (in gambling)
-lalagyán (lagay) [noun] container
-maglagáy (lagay) 1.) [verb] to place; to apply; to put; to situate; 2.) [verb] to bribe
-magpalagáy (lagay) [verb] to have something placed
-mailagáy (lagay) [verb] to be able to place or deposit something
-malagyán (lagay) 1.) [verb] to be able to put something somewhere/on something; 2.) [verb] to be able to bribe someone
-malagáy (lagay) [verb] to be placed in/on
-mapalagáy (lagay) [verb] to be at peace; to be at rest; to be or become silent; to be tranquil
-nakalagáy (lagay) [adjective] placed; situated; positioned; installed
-pagkakalagáy (lagay) [noun] positioning; position
-paglagáy (lagay) [noun] application; putting; placing; laying; the act of putting or placing something
-paglalagáy (lagay) [noun] putting; placing; laying; positioning
-pagpapalagáy (lagay) [noun] speculation; having something placed (on)
-pakilagáy (lagay) please put
-palagyán (lagay) [verb] to have someone put something somewhere;
-palagáy (lagay) [noun] opinion; estimation; estimate; assumption
 hagilap (hagilap) [noun] trying to get hold of; trying to grasp at
 mahagilap (hagilap) [verb] to be able to grasp something
 paghagilap (hagilap) [noun] groping for something
