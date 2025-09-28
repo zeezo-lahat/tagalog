@@ -93,7 +93,7 @@ maagap (agap) ma_ [adjective] prompt; alert; punctual; quick; [adverb] promptly;
 agapan (agap) _an [verb] to anticipate something; to be on the alert for something; to prevent something
 agap (agap) rt_ [noun] quickness; promptness; anticipation; prevention
 agapay (agapay) rt_ [adjective] side by side; [adverb] alongside
-iagapay (agapay) _ [verb] to put alongside another
+iagapay (agapay) i_ [verb] to put alongside another
 kaagapay (agapay) ka_ [noun] someone by one's side
 nakaagapay (agapay) naka_ [adjective] side by side
 maagnás (agnas) ma_ [verb] to decompose; to erode
@@ -160,6 +160,7 @@ akin (ako) conj_ [pronoun] my; mine; me; I
 akuin (ako) _in [verb] to take responsibility for something; to take over something
 akó (ako) rt_ [pronoun] I; me; (first person pronoun); self
 akó ay (ako) phr_ [phrase] I am
+ipaako (ako) ipa_ [verb] to assign responsibility for something* (to someone (sa))
 makaakó (ako) maka_ [adjective] conceited; egotistical
 nakó (ako) contraction_ shortened / informal for "na ako" or "na ko" (now + I)
 pa akó (ako) phr_ I still
@@ -221,6 +222,7 @@ mag-alagà (alaga) mag_ [verb] to take care of; to care; to raise; to baby sit; 
 makapag-alagà (alaga) makapag_ [verb] to be able to take care of
 mangalagà (alaga) mang_ [verb] to protect; to care for
 mapangalagaan (alaga) mapang_an [verb] to be able to take care of something
+mapag-alagà (alaga) makapag_ [adjective] of a caretaking nature
 pag-aalagà (alaga) pagCV_ [noun] care; protection
 pangalagaan (alaga) pang_an [verb] to take care of something
 pangángalagà (alaga) panCV_ [noun] care; caring; concern; custody
@@ -1241,7 +1243,7 @@ mabasag (basag) ma_ [verb] to break accidentally; to break unintentionally; to c
 magbaság (basag) mag_ [verb] to crack (e.g., the silence, or glass, or something fragile); to break; to break glass
 makabasag (basag) maka_ [verb] to be able to break
 bastá (basta) rt_ [adverb] just so long as; provided that; only; just; simply; enough; that's all; sufficient; as long as; make sure you; [interjection] stop!; for no reason!; just because!; anything for (you/him/her)
-basta-bastá (basta) rt_rt [adverb] merely; lightly; [adjective] just any (person/thing/etc.)
+basta-bastá (basta) rt_rt [adverb] merely; lightly; [adjective] just any (person/thing/etc.), "just like that"/"so easily"
 bastá na lang (basta) phr_ anything at all just so something might happen
 basura (basura) rt_ [noun] garbage; trash; garbage truck; debris; rubbish
 basurero (basura) sp_ [noun] garbage collector; trash man/woman
@@ -1372,6 +1374,7 @@ magpabayad (bayad) magpa_ [verb] to let pay; to have pay
 makabayad (bayad) maka_ [verb] to be able to pay
 makapagbayad (bayad) makapag_ [verb] to be able to pay
 pagbabayad (bayad) pagCV_ [noun] paying; paying back
+pagbayarin (bayad) pag_in [verb] to make someone* pay
 pagbayaran (bayad) pag_an [verb] to make up for something; to atone for something
 pambayad (bayad) pang_ [noun] payment; something to make a payment with
 paúnang-bayad (bayad) pa_cmp_ [noun] deposit; down payment
@@ -3153,6 +3156,7 @@ humanay (hanay) _um_ [verb] to line up in a row or file
 ihanay (hanay) i_ [verb] to rank something; to order something; to arrange something in order; to align something;
 kahanay (hanay) ka_ [adjective] in the same line
 nakahanay (hanay) naka_ [adjective] in a row; in a file
+taláhanayán (hanay) tala_an [noun] table
 handaan (handa) _an [noun] party; feast
 handáng-handá rt_na_rt (handa) [adjective] very ready; extremely ready
 handâ (handa) rt_ [adjective] ready; prepare; prepared; handy
@@ -3259,7 +3263,7 @@ hatiran (hatid) _an [noun] time or place of delivery
 hatíd (hatid) rt_ [noun] bringing; escorting; accompanying
 ihatíd (hatid) i_ [verb] to drop off someone/something; to bring something; to take something to
 maghatíd (hatid) mag_ [verb] to drop off; to bring; to send; to escort; to convey
-magpahatíd (hatid) magpa_ [verb] to ask or let someone escort someone/something else
+magpahatíd (hatid) magpa_ [verb] (actor) to have someone (sa) escort someone/something else
 maihatíd (hatid) mai_ [verb] to be able to drop off someone/something; to be able to bring something; to be able to take something to
 paghahatíd (hatid) pagCV_ [noun] accompanying; transmission; delivery
 pahatíd (hatid) pa_ [noun] message; dispatch; communication
@@ -4018,7 +4022,7 @@ mag-isá (isa) mag_ [verb] to be alone; to do something alone; to be the only on
 magkáisá (isa) magka_ [verb] to unite; to be united; to have unity; to come together; to join together
 maisahán (isa) ma_an [verb] to outmatch someone
 makiisá (isa) maki_ [verb] to unite with; to become one with; to join in
-mapag-isá (isa) mapag_ [adjective] alone
+mapag-isá (isa) mapag_ [adjective] tending to be alone
 nag-íisá (isa) nagCV_ [adjective] alone; only; solitary; single; unique
 pag-iisá (isa) pagCV_ [noun] loneliness; privacy; union
 pagkakaisá (isa) pagkaka_ [noun] unity; alliance; harmony
@@ -7073,7 +7077,7 @@ ansakít (sakit) phr_ [adjective] very painful; how painful!
 hinanakít (sakit) hinang_ [noun] grievance; ill will; grudge; displeasure
 magkasakít (sakit) magka_ [verb] to become sick; to get ill; to break down
 makasakít (sakit) maka_ [verb] to hurt
-manakit (sakit) mang_ [verb] to hurt someone (OF); to be in pain (AF)
+manakit (sakit) mang_ [verb] to hurt someone (AF); to be in pain (OF)
 masaktán (sakit) ma_an [verb] to be hurt (AF); to be injured (AF); to have one's feelings hurt (AF); to be offended (AF); to hurt someone's feelings (DF)
 masakít (sakit) ma_ [adjective] painful; hurts; hurting
 may sakít (sakit) phr_ [adjective] sick; ill; to be sick
@@ -8245,9 +8249,9 @@ tagatalâ (tala) taga_ [noun] registrar
 talaan (tala) _an [noun] list; record; table
 talatà (tala) sp_ [noun] paragraph
 talà (tala) rt_ [noun] star (in the sky)
-taláarawan (tala) cmp_ [noun] journal; diary
-taláhanayán (tala) _anayan [noun] table
-talátinigan (tala) cmp_ [noun] glossary
+taláarawan (tala) tala_an [noun] journal; diary
+taláhanayán (tala) tala_an [noun] table
+talátinigan (tala) tala_an [noun] glossary
 talâ (tala) rt_ [noun] list; record; notes
 tumaláb (talab) _um_ [verb] to take effect; to affect; to have an effect
 taláb (talab) rt_ [noun] effective
@@ -8374,6 +8378,7 @@ pananáw (tanaw) pang_ [noun] vision; point of view
 tanawin (tanaw) _in [noun] landscape; scene; view
 tanawín (tanaw) _in [verb] to look at from a distance; to view as
 tanáw (tanaw) rt_ [adjective] within eye sight
+tanáw (tanaw) rt_ [root] a verb root denoting "view"
 tumanáw (tanaw) _um_ [verb] to look in the distance; to look afar
 ábot-tanáw (tanaw) cmp_ [adjective] within sight
 itandâ (tanda) i_ [verb] to use as marker
@@ -9574,7 +9579,7 @@ waláng utang na loób (utang) phr_ [adjective] ungrateful
 utô-utô (uto) rt_rt [adjective] idiotic; foolish; cheating; easily fooled; gullible
 utuín (uto) _in [verb] to coax; to convince; to make a fool of someone
 ipag-utos (utos) ipag_ [verb] to command something/someone; to order something/someone
-iutos (utos) i_ [verb] to command something; to assign something; to order something (be done)
+iutos (utos) i_ [verb] to command/assign/order something* (be done).  if there is an agent, it is 'sa'
 kautusán (utos) ka_an [noun] commandment; order; edict; mandate; rule
 mag-utos (utos) mag_ [verb] to command; to give an order
 mapag-utusan (utos) mapag_an [verb] to be ordered
@@ -9582,7 +9587,7 @@ pag-utusan (utos) pag_an [verb] to be subjected to serve; to be under someone's 
 pag-uutos (utos) pagCV_ [noun] commanding; requisition
 pautós (utos) pa_ [adjective] imperative
 utos (utos) rt_ [noun] command; order; rules; directions; will; edict; decree
-utusan (utos) _an [verb] to give orders to someone; to command someone; to admonish someone
+utusan (utos) _an [verb] to give orders to or command someone*
 utusán (utos) _an [noun] servant
 iuwî (uwi) i_ [verb] to bring something home; to take something home
 kakauwî (uwi) kaka_ just returned home
@@ -10046,7 +10051,7 @@ masangguni (sangguni) ma_ [verb] to be able to seek advice of someone
 pasangguni (sangguni) [verb] to ask help of someone in order to consult third party (e.g. an expert)
 sangguniin (sangguni) [verb] to consult with someone/something
 sanggunián (sangguni) [noun] reference; citation; council
-sanggunì (sangguni) rt_ [noun] consulted; consulting
+sanggunì (sangguni) rt_ [noun] council, official council; consult
 sumanggunì (sangguni) _um_ [verb] to consult; to refer to
 tagapagsangguni (sangguni) tagapag_ [noun/adjective] person who seeks advice from someone on behalf of another
 tagasangguni (sangguni) taga_ [noun/adjective] person who seeks advice from someone on behalf of another

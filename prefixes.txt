@@ -519,19 +519,25 @@ magkA-RT-RT	intensive attainment of state
 magkaka-	adj. of 3+ persons or things having something in common (extension of magka- adjectives)
 magkang-	do something hurriedly
 magma-	trying, pretending, showing off, sim. to mag-root-root-an, "ma" begins adj. (actor)
-magpa-	indirect cause an action (ang -> sa)  
+magpa-	this is used in lots of different ways eg:
+	indirect/causing action (ang -> ng)
+	having action caused on you (magpasundo)
+	etc.  there's lots of these
+	magpalaki, magpasundo, magpahatid, magpadala, magpagupit, magpagaling
 	magpatakbó ng páaralán	run a school
 	magpatakbó ng trak	drive a truck
-	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.	The town will be flooded once the dam releases water.
 	Magpagaling ka agad.	Get well soon.
+	Hindi ka na lang nagpasundo?	Weren't you picked up?
+	Magpahatid ka na lang sa driver natin.	Just get our driver to take you.
 magpa-an	take part in a contest
-magpaka-	being/becoming X through/via great effort
+magpaka-	being/becoming X through/via great effort _OR_ causing a state?  (eg magpakawala)
 	magpakabaít - to be nice; to make nice
 	magpakamatáy - to commit suicide
 	magpakapagod - to work hard until tired
 	magpakatotoó - to be truthful/honest; to strive to be truthful/honest
+	Babahâ sa bayan kapág nagpakawalâ na ng tubig ang dam.	The town will be flooded once the dam releases water.
+	Mabíbigyán ka ng biyayà kung magpápakabaít ka.  |  You will be given blessings (blessed) if you try to be good.
 	Sinaksák niyá ang kaniyáng asawa at saká nagpakamatáy.  |  He stabbed his wife and committed suicide.
-	Mabíbigyán ka ng biyayà kung magpápakabaít ka.  |  You will be given blessings (blessed) if you become nice.
 magpasa-	enter or exist in condition of X
 magpati-	do something violent to yourself; allow something to happen to yourself (both actor)
 	these are actor-focus reflexive (self/self) indirect-action (magpa-) verbs with 'ti-'

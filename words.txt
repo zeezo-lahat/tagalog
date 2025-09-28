@@ -641,7 +641,8 @@ bulók	rotten, spoiled, decaying; corrupt
 bulóng	murmur, whisper; a magical incantation
 bulsá	pocket
 bulung-bulungan	rumour, street chatter (bulóng)
-bulusok	sinking with the feet into soft mud; swishing sound; swift plunge downward by airplane
+bulúsok	sudden downward descent, often used figuratively for eg, bagsak
+bulwágan	hall, corridor, lobby
 bumaba	to go lower
 bumadya	to signal, to indicate
 bumagsak	to fail
@@ -2292,6 +2293,8 @@ lunos	pity, compassion
 lunti	green
 luntian	green, greenish (old fashioned. berde is common.)
 lupa	earth
+lupasáy	naupô nang pasalampak : LAPIGÂ, TALAMÁK
+lupásay	pag-upô nang sayád ang puwit sa sahig.
 lupaypáy	prostrate, limp; walang lakas o enerhiya at ganap na nakahandusay o nakabagsak (also 'lupipáy')
 lupít	cruelty, mercilessness, savageness, harshness
 lupon	committee, board, body, group
@@ -3417,6 +3420,7 @@ pagbabarilín	to shoot up something/somewhere; to shoot down something
 pagbangon	rebuilding; rising from a lying position
 pagbasura sa kaso	throwing out the (legal) case
 pagbayaran	to pay for something
+pagbayarin	to make someone* pay
 pagbibigay	providing
 pagbibigay-katauhan	(personification)
 pagbidahan	to star in something (movie, TV show, etc.)
@@ -3839,6 +3843,7 @@ pasama	from better to worse
 pasamain	to make worse
 pasarapin	to make delicious
 pasaríng	insinuation, innuendo, quip
+pasasà	overindulgence
 pasawáy	contrarian, hardheaded, stubborn, difficult
 pasikat	showy
 pasíkot-sikot	roundabout, ins and outs, twists and turns; way around, getting around
@@ -4189,6 +4194,7 @@ saklolo	succor, aid, help
 saknong	stanza; section of a ricefield assigned to one for harvesting
 sakop	territory over which jurisdiction extends; person who is under the power of another, vassal; conquest
 sakote	catch, arrest
+sakristán	acolyte; sacristan; alter boy  
 saksí	witness
 saktán	1. to be hurt by <ng>; 2. to have a pain in (adjunctive, no actor complement/adjunct)
 sakunâ	accident, mishap, calamity
