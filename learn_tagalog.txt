@@ -122,7 +122,7 @@ mahalaga ang kalusugan sa lahat	good health is important to everyone
 kapaki-pakinabang	useful
 kapaki-pakinabang ang kanyang nagawa	what he/she did was useful
 walang saysay	nonsense
-walang saysay ang kangang sinabi	what he/she said was nonsense
+walang saysay ang kanyang sinabi	what he/she said was nonsense
 
 # lesson 63
 karamihan sa atin	most of us

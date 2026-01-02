@@ -493,7 +493,7 @@ magka-	adj. of two persons or things having something in common, similar to ka-
 	magkasama - together; the two
 	magkapareho - alike; the same
 	magkatabí - side by side; beside one another; beside each other; abreast
-magka-	to non-deliberately acquire/become, come to have (actor)
+magka-	to acquire/become, come to have (actor)
 	magka-aberyá (aberya) magka_ [verb] to encounter an unexpected problem; to hit a snag
 	magkaanák (anak) magka_ [verb] to have a child; to have a baby
 	magkaganoón (ganoon) magka_ [verb] to get like that; to come to be like that
@@ -510,7 +510,7 @@ magka-	to non-deliberately acquire/become, come to have (actor)
 	magkatotoó (totoo) magka_ [verb] to become true
 	magkabaklas (baklas) magka_ [verb] to become disjoined, detached, etc.
 	magkabisá	to memorize
-magkA-	    MULTIPLE ACTOR group/multiple action (denoted by "ka", from "ka" nouns, eg "kaklase") (magkAkA-, nagkAkA-)
+magkA-	MULTIPLE ACTOR group/multiple action (denoted by "ka", from "ka" nouns, eg "kaklase") (magkAkA-, nagkAkA-)
 	gulo, isa, iba, sama, sundo
 magka-an    MULITPLE ACTOR reciprocal action (denoted by "ka") ma- root verbs mainly
 magkA-RT-RT	intensive attainment of state
@@ -598,7 +598,7 @@ makapag-an	abilitative
 makapagpaka-	abilitative
 makapang-	abilitative
 		makapanAkot  |  to (be able to) frighten
-maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um-
+maki-	to JOIN/PARTICIPATE (ang) in something with someone (sa), social form of -um- and often used with mag- verbas also
 maki-	to USE (ang) SOMEONE'S (sa) things/space. etc.
 makipag-	(ACTOR, directional) to engage in something with someone (sa).  
 	* often same roots as magkA- mutual action verbs (usap, kilala, pulong)

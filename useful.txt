@@ -43,7 +43,7 @@ Nakikita ko ang ilaw.	I can see the light.
 Walang nakikinig.	Nobody listens.
 Walang nakikipag-usap sa akin.	No one speaks with me.
 Pakíkinggán ka naming kumantá.	We will listen to you sing.
-Natátanggál ang pagod ko kapág nakíkiníg akó ng music.	My fatigue goes away when I listen to music.
+Natátanggál ang pagod ko kapág nakíkiníg akó ng music.	My fatigue is removed when I listen to music.
 Sundan mo ako at ipakikita ko sa iyo ang daan.	Follow me and I will show you the way.
 Di masyadong marunong magpranses si Tomas.	Tom couldn't speak French well.
 Hindi ako marunong mag-maneho.	I don’t know how to drive.
@@ -179,7 +179,7 @@ Baka magtanggál tayo sa trabaho kay Mrs. Alba.	We might get fired by Mrs. Alba.
 Lagyan ako ng singsing sa aking diliri.	Put a ring on my finger.
 Pagbilhán mo ako ng lima.	Sell me five. / I'll take five.
 May tinakbuhán sila sa Maynila.	They're running away from something in Manila. / They had to skip town in Manila.
-Hindi naman sigura nalalayo yung edad natin sa isa't isa e.	We're probably close to the same age.
+Hindi naman sigura nalalayo yung edad natin sa isa't isa e.	Our ages probably aren't far from each other.
 May nakakatawa ba sa sinabi ko.	Did I say something funny?
 Marunong akong mag-ingat.	I know how to take care of myself.
 Wala pa alas singko.	It's not yet 5 o'clock.
@@ -241,3 +241,9 @@ Iyan ang kotse ng dumating kahapon.	That's the one who arrived yesterday's car.
 Pilit niyáng ináangkín ang hindî sa kaniyá.	He is persistently claiming what is not his.
 Ináabót (base form abutín) pilit ng bata ang mansanas sa ibabaw ng mesa.	The child is striving to reach the apple* from the top of the table.
 Kaya sa susunod, huwag kang basta-basta na lang pupunta sa kung saan.	Next time, don't just go wherever.
+Kumain ka pagkakain ko.	You eat when I've finished eating.
+*Kung kailan* lumalakad *na* ang bus, *at saka pa* hihingi ng inumin ang bata.	Now that the bus is moving, the child asks for a drink.
+Kung kailan dumarating na ang mga bisita, at saka ka pa maglilinis ng bahay.	Now that the guests are arriving, you clean the house.
+Naging mabait ka sana at nang hindi ka niya nakagalitan.	You should have been good so that he would not get mad at you.
+Hindi na ito ipina-test pa samantala.	It has not yet, for the time being, been tested.
+Wala na rin akong naging balita tungkol kay ate Melissa.	I never heard anything more regarding Melissa.
