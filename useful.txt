@@ -1,12 +1,12 @@
 Aling bus ang papuntá sa Davao?	Which bus goes to Davao?
 Ito ba ang papuntá ng Manila?	Is this the way to Manila?
 May mamang nagtanong sa akin ang papunta sa paaralan.	A stranger asked me the way to the school.
-Lumakad lamang ako papunta.	I was going on foot.
+Lumakad lamang ako papunta.	I just walked (going there).
 Kasali táyong lahát sa laban kontra Covid-19.	We are all involved in the fight against Covid-19.
 Mahirap labanan ang kaaway na hindî nakikita.	It's difficult to fight against an unseen enemy.
 Lumakad lamang ako papunta.	I was going on foot.
 Muntik na akóng maligáw papuntá dito.	I almost got lost coming here.
-May dinádalá ka bang samâ ng loób sa akin?	Are you holding a grudge against me?
+May dinádalá ka bang samâ ng loób sa akin?	Are you holding a grudge / bringing bad feelings against me?
 Nanlálabán nang hustó si Mina sa lalaki.	Mina fights hard against the man.
 Pinaalala niyang huwag niyang gawin.	She advised him against doing it.
 Sino ang nanindigan laban kay Mr. Tan?	Who took a stand against Mr. Tan?
@@ -15,10 +15,10 @@ Gináganáp ngayón sa Mendiola ang mga protesta.	The protests are happening rig
 Higít diyán ang nadáramá kong kalugurán.	My feeling of being pleased goes beyond that.
 Hindî mo nasaksihán kung paano ko naipanalo ang patimpalák.	You were not able to witness how I was able to win the contest.
 waláng kaalám-alám ako	I don't have the faintest idea
-Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be pleased by her test score?
+Ikatutuwa kayâ ni Eleanor ang kaniyáng marká sa pagsusulit?	Is Eleanor going to be pleased by her test score*?
 Inabangán namin ang pagsali ni Carrie sa patímpalák.	We kept an eye out for Carrie's participation in the contest.
 Mahirap masiguro na pápasá akó sa pagsusulit.	It's difficult to be sure that I will pass the test.
-May aangal ba kung hindî táyo magkákaroón ng Christmas party?	Would anybody protest if we will not be holding a Christmas party?
+May aangal ba kung hindî táyo magkákaroón ng Christmas party?	Will anybody whine if we don't have a Christmas party?
 Pinanalunan ko ang kotse sa paligsahan.	'I won the car as a prize in the contest.'
 Pinagbalaan kami ng titser na ang test ay magiging mahirap.	The teacher warned us that the test would be hard.
 Mahirap tukuyin kung sino ang may sala.	It's difficult to say who is at fault.
@@ -32,7 +32,7 @@ Hindî mo kinákailangan na magpaalam pa kung kailangan mong kumain.	You don't n
 Kinailangan ni Richard na magpahingá nang isáng buwán pagkatapos niyáng magkasakít.	Richard needed to rest for a month after he got sick.
 Kinailangan kong magpápalít ng salapî.	I had to exchange currency.
 Paano kung siyá ang mangailangan ngayón?	What if he's the one in need this time?
-Nangailangan ng panahón ang rehabilitasyón niyá.	His rehabilitation took time.
+Nangailangan ng panahón ang rehabilitasyón niyá.	His rehabilitation took/needed time.
 Makíkiníg ka kapág tinúturuan kitá.	Pay attention/listen when I'm teaching you.
 Hindî mo na ba akó nakíkilala?	Don't you recognize me anymore?
 Makíkipag-ugnayan ba ang nanay mo sa mga kamag-anak ninyó?	Will your mother get in touch with your relatives?
@@ -54,38 +54,38 @@ Ano ang sasakyán ko papuntáng Pasig?	What will I take to get to Pasig?
 Unang beses kong papuntang dalampasigan.	This is the first time I've gone to the beach.
 Dalawampung kilometro ang papuntáng airport.	It's twenty kilometers to the airport.
 Gustó mo bang papuntahín natin si Rose dito?	Would you like us to have Rose come over?
-Paano ko maitatalâ ang mga natutuhan ko?	How do I record what I learn?
+Paano ko maitatalâ ang mga natutuhan ko?	How can/will I record what I learn(ed)?
 Dinamay mo pati ang mga pinsan mo na walang kinalaman diyan.	You even involved your cousins who have nothing to do with that.
 Nagkulang ako sa iyo.	I didn’t do enough for you.
 Papasukin mo ang aso sa bahay.	Let the dog into the house.
 Kailangang magbayad muna táyo bago nilá táyo papasukin.	We need to pay first before they'd allow us to go in.
-Panáy ang tulak nilá sa akin na umarte sa entablado.	They always push me to act on stage.
+Panáy ang tulak nilá sa akin na umarte sa entablado.	They always/regularly push me to act on stage.
 Huwág kang mawawalâ sa paningín ko.	Don't disappear from my sight.
 Hindî mo kamí bíbiguín. You won't disappoint us.
 Ayaw kong amínin itó, pero nabigô akó.	I don't want to admit this, but I failed.
-Dinamdám ko ang masamáng sinabi ni Farrah.	I took offense to Farrah's mean words.
+Dinamdám ko ang masamáng sinabi ni Farrah.	I took offense to the bad things Farrah said.
 Ang lakíng pagkakáibá nitó sa kalayaan sa karagatán!	What a contrast to the freedom of the sea!
 Napatigil si Marga sa kaniyáng ginagawâ nang dumatíng si Kristoff.	Marga stopped what she was doing when Kristoff arrived.
 Maraming mámamayán ang magpápahayág ng katulad na damdamin.	Many citizens will express similar sentiments.
 Katulad ng akin ang sulat-kamáy mo.	Your handwriting is similar to mine.
 Kamayán mo akó.	Shake my hand.
 Anó ang magagawâ mo para mabawasan ang panganib na masugatan?	What can you do to reduce the risk of injury?
-Multó lang ang magpápatakbó sa akin.	Only a ghost will make me run.
+Multó lang ang magpápatakbó sa akin.	Only a ghost* will make me run.
 Tátangayín siyá nitó mulâ sa kinatátayuán niyá.	It will sweep him away from where he is standing.
 Mas pipilíin ko ang pulang palda.	I'd rather choose the red skirt.
 Ipinagmalaki niya sa kanila ang trophy niya.	He proudly showed them his trophy.
 Inalaláyan ko si Lolo sa pag-akyat.	I helped Grampo climb up.
 Huwág mo siyáng híhingán ng pera.	Don't ask him for money.
 Ipaalam mo sa akin kung saan ka mananatili.	Let me know where you're staying.
-Hindî ko kaagád naapulà ang galit ko kay Ben.	I was not able to immediately arrest my anger towards Ben.
+Hindî ko kaagád naapulà ang galit ko kay Ben.	I could not immediately suppress my anger* towards Ben.
 Hindî na kamí nagkakáisá tungo sa parehong layunin.	We are no longer uniting towards a common goal.
-Nabalitaan mo ba ang kontrobérsiyáng iniúugnáy sa akin?	Have you heard of the controversy associated with me?
+Nabalitaan mo ba ang kontrobérsiyáng iniúugnáy sa akin?	Were you informed of the controversy* associated with me?
 Walóng taón siyáng inalagaan ng lola niyá.	Her grandma took care of her for eight years.
 Ang sigurado siya ay nakahanap na siya ng regalo para sa anak.	What she was sure of was that she had found a gift for her child.
 Wala man lang masarap na pagkain dito.	There's not even any decent food here.
 Saan ko kaya makikita ang bahay nila Mich?	Where the heck is Mich's house?
 Kaya kong sabihin sayo na hindi yun nangyari.	I can tell you that it didn't happen.
-Ipapatikim ko sayo ang beer namin.	I'll have you taste our beer.
+Ipapatikim/Papatikman ko sayo ang beer namin.	I'll have you taste our beer.
 Anong masama doon?	What's the problem/wrong with that?
 Huwág mo akóng paasahin nang higít sa tátamuhín ko.	Don't lead me to expect more than I will get.
 Nagutom akó sa kahihintáy sa iyó.	I got hungry waiting for you.
@@ -108,7 +108,7 @@ Huwág kayóng mag-away kasí pwede namáng mapag-usapan iyán nang maayos.	Don'
 May nalalakaran na.	There's someone walking on it now.
 Buti sana kung hindi ko kayo pinagsabihan.	It would be better if I didn't have to scold you about it.
 Bakit mo siyá pinahintulutang maglakwatsa?	Why did you allow him* to wander around?
-Napipilitan ka lang sa mga ginagawa mo para sa pamilya mo.	You are obligated to do certain things for your family.
+Napipilitan ka lang sa mga ginagawa mo para sa pamilya mo.	You* are (just) obligated/forced to do (various) things for your family.
 Pagbibigyan kita.	I'll let you have what it is you want.
 Pinatalsík sa páaralán ang barumbadong binatà.	The delinquent young man was expelled from school.
 Ayaw niyáng magaya ang gawâ niyá.	He doesn't want his work* to be imitated.
@@ -121,11 +121,11 @@ Bilisan ma baka mahuli ka sa trabaho mo.	Hurry up or you'll be late for work.
 sa pamamagitan ng pagtatanóng mako-kontrol mo ang pag-uusap	by asking questions, you control the conversation
 Kanino puwedeng magtanóng dito kung anóng oras daratíng ang trén?	Who here can I ask what time the train will arrive?
 May bakuna laban sa trangkaso.	There’s a vaccine against the flu.
-Nagkaroón ng trangkaso ang anák ko kahapon.	My child got/had the flu yesterday.
-Mabábawasan ang kabá mo kung matutukoy mo ang kinatátakutan mo.	You can reduce your anxiety if you identify your fears.
+Nagkaroón ng trangkaso ang anák ko kahapon.	My child* came down with the flu yesterday.
+Mabábawasan ang kabá mo kung matutukoy mo ang kinatátakutan mo.	You can reduce your anxiety* if you identify can identify what scares you.
 PinabaUnan nila ako ng asin at kalamansi.	
 Hapon na kami pumunta doon.	It was afternoon when we went there.
-Nápapáyag ko sila na ihatid nila ko.	I convinced them to take me.
+Nápapáyag ko sila na ihatid nila ko.	I was able to convince them* to take me.
 Padilim na.	It was getting dark.
 Lahat kami naririto.	We're all here.
 Túturuan kitáng bumasa.	I will teach you* how to read.
@@ -153,13 +153,13 @@ Nagawán mo ba ng paraán?	Were you able to make a way (to solve it)?
 Ikinataka at ikinagulat ko ito.	It puzzled and surprised me.
 Noong akmáng lalapit na ako ay bigla itong umalis sa lugar.	When I was about to approach, it suddenly left.
 Alám na alám mong hulí lamang akó ng apat na minuto.	You know very well I'm only four minutes late.
-Hindî silá nagkalayô kailanmán.	They were never apart.
-May naitutulong ba ang panalangin?	Does it do any good to pray?
+Hindî silá nagkalayô kailanmán.	They were never apart (far from each other).
+May naitutulong ba ang panalangin?	Is helped anything helped by praying?
 May sakit ang nanay at tatay ko.	My mother and father are sick.
 May-sumpóng ang tatay mo kayâ inúunahan na kitá.	Your dad is in a bad mood so I'm giving you a heads-up about it.
 Paki-bilisan lang, mama, at may hinahabol ako.	Please speed up, mister, I am in a hurry.
 May mga alalahanín akó.	I have concerns.
-Wala akong maitutulong sayo.	There's nothing I can do to help you.
+Wala akong maitutulong sayo.	There's nothing I can help you with.
 Bale tatawag ka bukas?	So you'll call tomorrow?
 Nahabol ng pulisya ang suspect halos kalahating oras matapos ang pamamaril.	The police caught up to the suspect almost a half an hour after the shooting.
 Dumating ang sagot matapos ang tatlong araw.	The reply came after three days.
@@ -171,17 +171,17 @@ Pinilit ng mga sundalo ang mga binata na lumahók sa hukbo.	The soldiers forced 
 Umiyák siyá nang mapuntá sa kampo ng sápilitáng pagtátrabaho.	She cried when she was sent to a forced labor camp.
 Ni hindi mabigyan ng mga itong kahit kaunting rekognisyon ang isang baguhang pintor na tulad niya.	These (people) couldn't even give the smallest amount of recognition to a newby paintor like him.
 Bagay na labis na ipinagdamdam niya.	It's something took great offense to.
-Dapat ay kinampihan mo ako, bagkus tumawa ka pa.	You should’ve supported me; instead, you laughed.
+Dapat ay kinampihan mo ako, bagkus tumawa ka pa.	You should’ve taken my side; instead/but rather, you laughed.
 Bagay na welcome naman daw sa mga driver.	It's something the drivers are said to welcome.
 Sana ganun din si nanay sa inyo tay.	I wish mom was that way also, like you dad.
 Labas mo dito.	Bring it out here.
-Baka magtanggál tayo sa trabaho kay Mrs. Alba.	We might get fired by Mrs. Alba.
+Baka magtanggál tayo sa trabaho kay Mrs. Alba.	We* might get fired by Mrs. Alba.
 Lagyan ako ng singsing sa aking diliri.	Put a ring on my finger.
-Pagbilhán mo ako ng lima.	Sell me five. / I'll take five.
+Pagbilhán mo ako ng lima.	Sell me* five.
 May tinakbuhán sila sa Maynila.	They're running away from something in Manila. / They had to skip town in Manila.
 Hindi naman sigura nalalayo yung edad natin sa isa't isa e.	Our ages probably aren't far from each other.
 May nakakatawa ba sa sinabi ko.	Did I say something funny?
-Marunong akong mag-ingat.	I know how to take care of myself.
+Marunong akong mag-ingat.	I know how to be careful.
 Wala pa alas singko.	It's not yet 5 o'clock.
 Mag-init ka na ng tubig at makapagkape na tayo.	Heat up the water and we can have coffee.
 Kumalat ang natapong tubig sa sahig.	The spilled water spread all over the floor.
@@ -213,13 +213,13 @@ Huwág mo akóng paasahin nang higít sa tátamuhín ko.	Don't lead me to expect
 Gúgustuhín pa ni Rose na mamatáy kaysa magpakasál kay George.	Rose would rather die than marry George.
 May hallway akong pinasukan at maya-maya may narating akong isang pintuan.	I entered into a hallway and shortly afterward I arrived at a door.
 Hindi ako halos nakapagsalita.	I was almost unable to speak.
-Siyempre.  Sino ba namang ayaw.	Of course.  Who wouldn't?
+Siyempre.  Sino ba namang ayaw.	Of course.  Who wouldn't (want/like to/it/that)?
 Matagal nang lumalaban si Osbourne sa mga seryosong karamdaman.	Osbourne* had long been fighting serious illness.
-Paalala ng Torrijos Municipal Police Station, maging mai­ngat umano sa pagmamaneho lalo na tuwing umuulan dahil madulas ang daanan.	The popo advise to be careful driving, especially when it rains as the road is slippery.
+Paalala ng Torrijos Municipal Police Station, maging maingat umano sa pagmamaneho lalo na tuwing umuulan dahil madulas ang daanan.	The popo advise to be careful driving, especially when it rains as the road is slippery.
 Hindi nagtagal ay nagsimula na kaming mabahala at mabaliw sa kakaisip ng kaibigan ko.	After a little while, my friend and I started to get nervous and crazy from overthinking.
 Hindi man lang kami nag-abalang lumingon para tingnan ito.	We didn't even bother to look back to see it.
 Sabihan mo akó kung maglálabá ka.	Let me know if you're going to do the laundry.
-Huwág na tayong tumulóy.	Let's not go anymore.
+Huwág na tayong tumulóy.	Let's not go anymore / go through with it.
 Dapat ko bang ikatuwâ na walâ na akóng trabaho?	Should I be glad I don't have a job anymore?
 Sa malayò, parang lumang kastilyo ang malakíng bató.	Seen from a distance, the big rock looks like an old castle.
 Nagpahayág si Laila ng poót sa gumawâ sa kaniyá ng masamâ.	Laila expressed wrath upon the person who wronged her.
@@ -229,18 +229,18 @@ Huwag humawak ng kahit ano.	Don't touch anything.
 Bakit ka tinítitigan nung lalaking iyón?	Why is that guy over there staring at you?
 Naabutan mo ba si Charles sa canteen kanina?	Was Charles still at the canteen when you went there earlier?
 Minsan tanghalì nang nakákapasok si Jack sa opisina.	At times Jack is late in going to the office.
-Hindî silá makákalayà roón!	They're never getting out of there!
-Dapat kang humingi ng tawad sa kanya, at ngayon din.	You must apologize to her, and do it at once.
+Hindî silá makákalayà roón!	They're never getting out of / going to be free from there!
+Dapat kang humingi ng tawad sa kanya, at ngayon din.	You must apologize / ask for forgiveness from her, and do it at once.
 Napatunayan ba ni Fernan ang katapatan niyá?	Did Fernan prove his loyalty?
-Wala kang kailangang ikahiya.	You have nothing whatever to be embarrassed about.
+Wala kang kailangang ikahiya.	You have nothing you need to be embarrassed about.
 Muntik na nating ikamatáy ang pangyayaring iyón pero sa awa ng Dios, waláng dugóng dumának.	What happened almost killed us but my God's mercy, no blood was spilled.
 Inilibot ko ang mga paningin ko.	I looked around.
-Hindi gaano/gagaano ang kape.	There's not much coffee.
+Hindi gaano/gagaano ang kape.	The coffee is not much (in amount).
 Binili ba itong lahat ng Nanay? / Binili bang lahat ng Nanay ito?	Did Mother buy all of these?
 Iyan ang kotse ng dumating kahapon.	That's the one who arrived yesterday's car.
 Pilit niyáng ináangkín ang hindî sa kaniyá.	He is persistently claiming what is not his.
 Ináabót (base form abutín) pilit ng bata ang mansanas sa ibabaw ng mesa.	The child is striving to reach the apple* from the top of the table.
-Kaya sa susunod, huwag kang basta-basta na lang pupunta sa kung saan.	Next time, don't just go wherever.
+Kaya sa susunod, huwag kang basta-basta na lang pupunta sa kung saan.	So next time, don't just randomly go wherever.
 Kumain ka pagkakain ko.	You eat when I've finished eating.
 *Kung kailan* lumalakad *na* ang bus, *at saka pa* hihingi ng inumin ang bata.	Now that the bus is moving, the child asks for a drink.
 Kung kailan dumarating na ang mga bisita, at saka ka pa maglilinis ng bahay.	Now that the guests are arriving, you clean the house.

@@ -442,6 +442,8 @@ barkó	a ship
 barò	dress; gown; apparel
 barò at sayá	the traditional/native attire for women, including a top blouse and skirt
 baróng	traditional filipino dress shirt
+barumbada	coarse, uncouth woman
+barumbado	coarse, uncouth, impulsively aggressive man
 bárung-barong	a shanty
 baryá	change, loose money
 baryahín	to exchange money for change
@@ -794,7 +796,7 @@ dáti	former(ly), previous(ly), old, ex, same, for a long time already
 dati-rati	formerly, previously
 datig	adjoining, near, contiguous; lining for clothes
 datihan	used to, accustomed
-dating	arrival
+datíng	arrival, first impression, ugali
 datnan	to find or discover upon arrival (dating)
 datos	data
 dáwit	entangle, be implicated (idáwit, madáwit, magdáwit)
@@ -807,6 +809,7 @@ dedma	the act of ignoring, feigning unawareness ("dead malice")
 dédmahín	to ignore someone, to brush someone off
 dekada	decade
 dekano	dean
+delikadesa	tact, refinement
 delikado	dangerous, risky; fastidious, delicate; crucial, critical; arduous
 desintunado	out of tune; off key (also "sintonado")
 despachadora	a saleslady
@@ -1055,7 +1058,7 @@ habágat	southwest, often ref. to storm winds
 hábang	(haba + na) while, throughout, during
 hábang-buhay	lifelong, "while alive" (var: habambuhay)
 habang-panahon	"while time", forever
-habas	prudence, discretion
+habas	prudence, discretion; satiety
 habilin	will (legal document); something entrusted to someone; trust (habil)
 hablot	grab
 habol	pursue, run after, chase
@@ -1089,7 +1092,7 @@ halina	Come along!, Let's go!, Come here!
 hálinhínan	taking turns
 halintulad	parallel, analogous
 halip	stead, alternative, substitute (sa halip: instead)
-haliparot	flirtatious, loose woman
+haliparót	flirtatious, alembong, kiri, malandi
 hálos	almost, nearly; approximately, about
 hámak	lowly, humble; mean, petty, shabby
 hamakin	to belittle, scorn
@@ -1143,6 +1146,7 @@ hataw	thrashing, beating; (slang): eat food with gusto; (slang): go faster
 hati	sharing, taking part in, dividing
 hati-hati	dividing
 hatid	escorting; conducting; accompanying
+hatid-sundô	routine taking of someone place to place ("Hatid-sundo niya ang kanyang nobya.")
 hating-gabi na	it's late (at night)
 hating-kapatid	half-sibling
 hatinggabi	midnight
@@ -1583,6 +1587,7 @@ kahón	a box
 kahoy	wood, lumber, tree
 kahulugán	meaning, significance; interpretation
 kahuyán	woodland, forest
+kaiba	"unlike", "different (from)"
 kaibahán	a difference
 kaibig-ibig	lovable, adorable
 kaibigang putik	“mud” friend = fake friend
@@ -1746,6 +1751,7 @@ kapit-kamay	holding hands
 kapit-kuwarto	roommate
 kapit-tukô	“gripping like a gecko” clinging or holding on very tight
 kapitan	to hold, to grasp
+kapítuló	chapter
 kapkáp	frisking e.g. of pockets; feeling or groping something not seen
 kapós	insufficient, lacking, inadequate; short in length
 kapote	raincoat
@@ -2198,6 +2204,7 @@ libingan	grave, cemetery
 liblíb	remote area; nása dako o pook na hindi gaanong batid o nararatíng ng tao; malayòng pook
 libo	thousand
 libu-libo	thousands
+liderato	leadership
 ligáw	wild, uncultivated, stray
 lígaw	to get lost, to stray
 lígaw	to woo, court
@@ -2415,12 +2422,12 @@ magandá	good in appearance or quality, beautiful, pretty, lovely
 magarbo	graceful, elegant
 magasin	magazine
 magastos	costly
-magawâ	to be able to do; to happen or be done
+magawâ	to be able to do; to happen or be done, to "manage" to do something*
 magbabâ	to lower something
 magbabád	to soak, to linger
 magbagá	to burn brightly/hot
 magbago	to change, reform, mend
-magbaka-sakali	speculate, take a chance, risk for future gain
+magbaka-sakali	speculate, take a chance, risk for future gain (also "magbakasakali")
 magbanat	to "go hard"
 magbawas	to reduce
 magbenta	to sell something
@@ -2804,6 +2811,7 @@ manalángin	to pray (Actor Focus), to pray for something (Object Focus)
 manalasà	to attack, to assault
 manalig	to have faith/entrust (in/"sa"). actor focus (salig)
 mánang	elder sister; a familiar term for a woman in her 40’s or thereabouts even if not related to her
+mananambal	albularyo
 mananghalian	have lunch (together?)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
@@ -3311,6 +3319,7 @@ natatakam	is being tantalized
 natatandaan	to remember (like naaalala)
 natilapon	was wildly thrown
 natipák	tinanggal ang isang malaking bahagi; Kol nakatipák, tumipák: nagkaroon ng malaking suwerte.
+natitipuhan	"type", eg "natitipuhan kong babae" -> "my type of woman"
 natunaw	melted
 naturang	such, said, mentioned, aforementioned (sym in use to sarili)
 natutúnan	learned, something learned
@@ -3790,6 +3799,7 @@ panggáp	pretending/professing to be something
 panggáp	to pretend, to profess
 panghabang buhay	lifelong
 panghanda	preparation for
+panghahawakan	"something to hold on to" (?)
 panghimagas	dessert
 pángil	snake fang; canine tooth
 pangingikil	extortion
@@ -3905,7 +3915,7 @@ pasuyò	please can you do me a favor?
 patagalin	to make longer
 patagilid	tilted, slanted, sideways
 patak	drop
-pátakarán	by-laws, basic or guiding principles, policies, rules, principles, moral guidelines (root)
+pátakarán	by-laws, basic or guiding principles, policies, rules, principles, moral guidelines (tákad: base, foundation, system (batayán)
 patalastas	an advertisement
 patalím	a knife or any sharp cutting instrument
 patapatan	cause something to be placed in front of something else
@@ -4093,6 +4103,7 @@ púnong-kahoy	tree; tree trunk; wooden tree (in contrast to, for example, a palm
 punò	tree; chief, leader; origin, source, base
 punô	full, filled
 puno't dulo	start and end, start to finish
+punot	coconut shell/husk/bark
 puntahán	to go to a person or place
 puntód	mound; tomb
 puntó	(speaking) accent, intonation
@@ -4202,6 +4213,7 @@ sabláy	missed, didn’t hit the target, out of sync
 sabog	explosion, scattering
 sabón	soap
 sabong	cockfight; cock-fight
+sabsaban	manger
 sabungan	cockpit (cockfighting gallery)
 sábunután	hair-pulling quarrel
 sadlák	falling into shame
@@ -4647,6 +4659,7 @@ takot	fear
 takót	scared, fearful
 takpán	to cover something (takíp)
 taksil	not to be trusted; traitor; traitorous
+takták	tapping one end of a hollow tube to dislodge something that is stuck near the other end
 takutin	to frighten
 takwíl	renunciation
 talâ	a list, record; notes
@@ -4670,6 +4683,7 @@ taliwás	deviating from a rule or pattern, contrary to, opposite
 talo	defeated, losing
 talón	jump
 talóng	eggplant
+talúdtod	verse (as in bible verse) or line from a poem
 talukap	eyelid
 talumpati	speech, oration, address
 talunan	underdog; beaten, defeated (talo)
@@ -5171,4 +5185,4 @@ pigsá	a boil or carbuncle
 kagaw	mite, germ, mikrobyo
 piskál	prosecuting attorney, abogadong tagausig para sa panig ng gobyérno
 manás	swelling, redness of skin
-apog	lime, as in the powder used for cleaning, disinfecting, whatever
+apog	limestone, lime, as in the powder used for cleaning, disinfecting, concrete
