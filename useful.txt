@@ -88,7 +88,7 @@ Kaya kong sabihin sayo na hindi yun nangyari.	I can tell you that it didn't happ
 Ipapatikim/Papatikman ko sayo ang beer namin.	I'll have you taste our beer.
 Anong masama doon?	What's the problem/wrong with that?
 Huwág mo akóng paasahin nang higít sa tátamuhín ko.	Don't lead me to expect more than I will get.
-Nagutom akó sa kahihintáy sa iyó.	I got hungry waiting for you.
+Nagutom akó sa kahihintáy sa iyó.	I got hungry waiting (so long) for you.
 Sa bahay na ibinigay ni Aling Seling ang regalo sa anak.	At the house, Aling Seling geve the gift to her daughter.
 Áanhín mo naman ang pera?	What is the money for?
 Kaya kayo daw dapat ang hingán ko.	So you're the ones I'm supposed to ask for it from.
@@ -112,9 +112,9 @@ Napipilitan ka lang sa mga ginagawa mo para sa pamilya mo.	You* are (just) oblig
 Pagbibigyan kita.	I'll let you have what it is you want.
 Pinatalsík sa páaralán ang barumbadong binatà.	The delinquent young man was expelled from school.
 Ayaw niyáng magaya ang gawâ niyá.	He doesn't want his work* to be imitated.
-Gawang bubog ang kastilyo niya.	His castle was made of broken glass.
+Gawang / Gawa sa / Yari sa bubog ang kastilyo niya.	His castle was made of broken glass.
 Ikinamatáy niyá ang rabies mulâ sa kagát ng aso.	Rabies from a dog bite caused his death.
-Nagdaán akó sa palengke patungo sa opisina.	I passed the market on my way to the office.
+Nagdaán akó sa palengke patungo sa opisina.	I passed the market when I was heading to the office.
 Malay ko ba kung anong pakay mo.	How would I know what you plan to do?
 Maligo ka nga din para hindi ka nangangamoy.	Bathe please so you don't smell.
 Bilisan ma baka mahuli ka sa trabaho mo.	Hurry up or you'll be late for work.
@@ -122,7 +122,7 @@ sa pamamagitan ng pagtatanóng mako-kontrol mo ang pag-uusap	by asking questions
 Kanino puwedeng magtanóng dito kung anóng oras daratíng ang trén?	Who here can I ask what time the train will arrive?
 May bakuna laban sa trangkaso.	There’s a vaccine against the flu.
 Nagkaroón ng trangkaso ang anák ko kahapon.	My child* came down with the flu yesterday.
-Mabábawasan ang kabá mo kung matutukoy mo ang kinatátakutan mo.	You can reduce your anxiety* if you identify can identify what scares you.
+Mabábawasan ang kabá mo kung matutukoy mo ang kinatátakutan mo.	You can reduce your anxiety* if you identify can identify what* scares you.
 PinabaUnan nila ako ng asin at kalamansi.	
 Hapon na kami pumunta doon.	It was afternoon when we went there.
 Nápapáyag ko sila na ihatid nila ko.	I was able to convince them* to take me.
@@ -148,7 +148,7 @@ Utangin mo na lang yung pampagawa mo.	Just utang your repair cost.
 Gawán mo ako ng pagkain.	Make me some food.
 Gawán mo ng paraán.	Make a way (to solve it).
 Gawán mo silá ng bahay.	Make them a house.
-Ginagawán mo ng problema.	You’re making a problem out of it.
+Ginagawán mo ng problema.	You’re making (it into) a problem.
 Nagawán mo ba ng paraán?	Were you able to make a way (to solve it)?
 Ikinataka at ikinagulat ko ito.	It puzzled and surprised me.
 Noong akmáng lalapit na ako ay bigla itong umalis sa lugar.	When I was about to approach, it suddenly left.
@@ -175,7 +175,7 @@ Dapat ay kinampihan mo ako, bagkus tumawa ka pa.	You should’ve taken my side; 
 Bagay na welcome naman daw sa mga driver.	It's something the drivers are said to welcome.
 Sana ganun din si nanay sa inyo tay.	I wish mom was that way also, like you dad.
 Labas mo dito.	Bring it out here.
-Baka magtanggál tayo sa trabaho kay Mrs. Alba.	We* might get fired by Mrs. Alba.
+Baka matanggál tayo sa trabaho kay Mrs. Alba.	We* might lose our jobs to Mrs. Alba.
 Lagyan ako ng singsing sa aking diliri.	Put a ring on my finger.
 Pagbilhán mo ako ng lima.	Sell me* five.
 May tinakbuhán sila sa Maynila.	They're running away from something in Manila. / They had to skip town in Manila.
@@ -233,7 +233,7 @@ Hindî silá makákalayà roón!	They're never getting out of / going to be free
 Dapat kang humingi ng tawad sa kanya, at ngayon din.	You must apologize / ask for forgiveness from her, and do it at once.
 Napatunayan ba ni Fernan ang katapatan niyá?	Did Fernan prove his loyalty?
 Wala kang kailangang ikahiya.	You have nothing you need to be embarrassed about.
-Muntik na nating ikamatáy ang pangyayaring iyón pero sa awa ng Dios, waláng dugóng dumának.	What happened almost killed us but my God's mercy, no blood was spilled.
+Muntik na nating ikamatáy ang pangyayaring iyón pero sa awa ng Dios, waláng dugóng dumának.	What happened almost killed us but by God's mercy, no blood was spilled.
 Inilibot ko ang mga paningin ko.	I looked around.
 Hindi gaano/gagaano ang kape.	The coffee is not much (in amount).
 Binili ba itong lahat ng Nanay? / Binili bang lahat ng Nanay ito?	Did Mother buy all of these?
@@ -247,3 +247,11 @@ Kung kailan dumarating na ang mga bisita, at saka ka pa maglilinis ng bahay.	Now
 Naging mabait ka sana at nang hindi ka niya nakagalitan.	You should have been good so that he would not get mad at you.
 Hindi na ito ipina-test pa samantala.	It has not yet, for the time being, been tested.
 Wala na rin akong naging balita tungkol kay ate Melissa.	I never heard anything more regarding Melissa.
+Ang mga asal niya ay hindi tulad ng isang babae.	Her manners are not those of a lady.
+Dapat buhayin natin ang mga magandáng asal.	We have to revive the good values.
+Hindî ko masasabing kakaibá ang ipinapakitang asal ni Tamara.	I can't say that Tamara's behavior is strange.
+Ikinatutuwâ ng magulang ang mabuting asal ng mga anák.	Parents are happy about the children's good behavior.
+Isinulong ng punong gurò ang pagpapakita ng mabuting asal.	The principal promoted the display of good conduct.
+Pinayagan si Benjie na umiskór para sa kagandahang asal.	Benjie was allowed to earn a point for good conduct.
+Kung papaano siyang dumaan doon kaninang kukuha pa lang siya ng cellphone ay ganoon pa din ang pagdaan niya noong isauli niya ang cellphone niya.	The way she passed by there earlier to get her cellphone is the same way she passed by when she returned it.
+Gagawin nilang impyerno ang buhay mo.	They'll make your life (into) hell.

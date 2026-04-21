@@ -823,3 +823,8 @@ masagap	(sagap) ma_ [verb] to pick up some piece of news or information; to scoo
 kalakíp	(lakip) ka_ [adjective] enclosed; with; attached; [noun] enclosure; attachment
 pinamilí	(bili) pa_in [noun] purchase; purchased item; items purchased
 katitíng	very small (size or amount), tiny, minute; particle; bit; iota; very small amount (napakaliit)
+pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
+pangunahin	(una) pang_in [adjective] primary; major; main; chief; ultimate; central; guest (main); dominant
+napipintó	on the threshold; forthcoming; imminent; impending; upcoming
+napipintó	(pinto) naCV_ [adjective] on the threshold; forthcoming; imminent; impending; upcoming
+mag-abalá	(abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)

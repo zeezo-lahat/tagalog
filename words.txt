@@ -1973,6 +1973,7 @@ kugon	a type of tall grass
 kuha	act of taking/getting (inc as in taking a picture); engagement, hiring of someone to work; meal (to visitors)
 kuko	fingernail, toenail, talon, hoof
 kukunin	will take/get
+kukúti	salitang kalsada meaning utak/ulo "ayusin yung kukuti mo!"
 kulá	bleaching clothes
 kulahín	to bleach
 kulam	sorcery, witchcraft, bewitchment
@@ -2595,6 +2596,7 @@ magtungo	to head toward, to head somewhere
 magturing	to consider, regard, think of
 magulang	parent, of age, old; ripened; deceptive, sly
 magulat	to be shocked
+magulumihanan	to be disturbed or disordered mentally
 magwalâ	to go amuck
 magwalang-bahala	to not pay atention to
 magwalís	to sweep (as a floor)
@@ -2708,6 +2710,7 @@ makipaghiwalay	to split up
 makipagkapwa-tao	to get along with others
 makipagkasundo	to make a contract with someone, to reconcile or come to terms with someone
 makipagkita	to meet up with (actor) -> sa
+makipagkumpitensya	to compete
 makipagpalitan	to exchange, to barter
 makipagtagísan	to compete (in brains or speech)
 makipagtalik	to have sex
@@ -2854,7 +2857,7 @@ manglamang	advantage over others (noun)
 mangmáng	uneducated, ignorant, illiterate
 mangulila	to yearn (as like an orphan)
 mangulo	to head, preside
-mangyari	to happen, take place
+mangyari	to happen, take place, "It happens that.." as an word as an explainer followed by "ay" or pause, equiv to "Kasi.."
 manhid	numbness; torpor, torpid condition
 manî	peanut
 manibughô	to be jealous
@@ -3843,7 +3846,7 @@ pantás	specialist; academic; learned person
 pantay	level, equal
 pantinig	vocal
 pantog	bladder
-pánukála	a proposal, proposition, arrangement
+pánukála	a plan; a proposal, proposition, arrangement
 pánukálang-batás	draft legislation; draft bill; proposed legislation
 panulukan	corner
 panunukso	the act of tempting (someone); teasing
@@ -3938,6 +3941,7 @@ patnúbay	guide, companion, escort; guidance
 patók	a sure winner, a big hit
 patos	displaced; metal wedge, metal reinforcement, horseshoe
 patotohanan	to prove something
+patpát	a piece of split bamboo, as used as a switch for smacking someone
 patpatin	thin, skinny
 patuloy	constant, continuous, ongoing
 patúnay	proof, testimony
@@ -4217,7 +4221,7 @@ sabsaban	manger
 sabungan	cockpit (cockfighting gallery)
 sábunután	hair-pulling quarrel
 sadlák	falling into shame
-sadyâ	intent, purpose, aim; intended; purposefully, intentionally
+sadyâ	intent, purpose, aim; intended; purposefully, intentionally; talaga, actually, in truth
 sagabal	hindrance, obstacle
 saganà	labis-labis ang dami
 sagasà	to run over
@@ -4424,7 +4428,7 @@ sinangág	fried rice
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
 singa	act of blowing one's nose
-singáw	steam, fog
+singáw	steam, fog, leak of steam, etc.
 singganda	as beautiful as
 singhap	loss of breath, gasping for breath
 singíl	price quoted, charge, collection of payment of debt (-um-:-in)
@@ -4707,7 +4711,7 @@ tamis	sweetness; pleasure
 tampisáw	splashing/playing in water
 tampó	sulking
 tampók	center of attraction
-tanán	madla, lahat, bala na, pawa, all, everyone, entire, whole
+tanán	entire, whole, lahat, bala na, pawa, all, everyone, madla
 tánan	alis na walang paalam, takas, puga
 tanáw	view
 tandâ	sign, mark; signal; evidence
@@ -4878,6 +4882,7 @@ tsekwa	derogatory term for chinese
 tsikitíng	little, small, tiny, small kids (from spanish "chiquitin")
 tsugi	slang word from "tsug!" (stabbing sound) in comics meaning "dead" or referring to some unpleasant happening
 tsupér	chauffeur, driver
+tsupon	nipple, as of baby bottle
 tubo	growing; tube, pipe; gain, profit
 tubò	native
 tudyó	tukso, biro, siste, kantiyaw; tuya

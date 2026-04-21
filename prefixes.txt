@@ -97,12 +97,11 @@ Derived verbs:
 ## Note: for all "i*-" verbs, the leading "i" is optional with started (completed or ongoing) forms, ie those with "in"
 
 -pa-	causative
--ki-	requestive
--ki-	joint/mutual action
--ag-	"bound deliberative".  joins with pa to become 'pag', ma to become 'mag'
+-ki-	social - requestive, joint/mutual action
+-ag-	deliberateness - "bound deliberative".  joins with pa to become 'pag', ma to become 'mag'
 	"mag" implies deliberateness, whereas "um" is more "casual"
--ma-	having, existence
--ka-	being and manner, state
+-ma-	existence
+-ka-	state - being and manner
 -si-	plural (magsi- deliberate action by plural actors) *A Restatement of Tagalog Grammar, p. 3
 hing-	1) 'a simulated state or action' (hinanakit - grudge : hing + sakit) *A Restatement of Tagalog Grammar, p. 3
 	2) prefix indicating removal or cleaning (no longer productive)
@@ -112,21 +111,22 @@ hing-	1) 'a simulated state or action' (hinanakit - grudge : hing + sakit) *A Re
 	  him- + pasok (“to enter, go in”) → himasok (“to meddle, interfere”)
 	  him- + patay (“dead, to kill”) → himatay (“to lose consciousness, faint”)
 	  hin- + sakit (“sickness, pain”) (with CV- reduplication) → hinanakit (“grudge, ill will”)
--al-	similar to what the stem denotes
+-al-	relatedness - similarity
         mala- "state of being similar" (malahininga - breathlike, malapapaya - papaya-like)
         pala- "characterized by" (palaasa - hopeful, optimistic, palabiro - given to joking)
-        tala- "list of similar items" (talaarawan - calendar, talatinigin - vocabulary)
--ti-	'unexpected, sudden'
+        tala- "list of related/similar items" (talaarawan - calendar, talatinigin - vocabulary)
+-ti-	unexpected, sudden
         pati- caused by unexpected action (patirapa - unexpected falling)
--ki-	doing together
+-ki-	togetherness
         maki- 'act together' (makiani - to cooperate in harvesting ("ani" is harvest)
         (pakikipag-usap - talking together)
-p-	'abstract of action or a hypostatic state'
+p-	abstract action - hypostatic state
         pag- 'abstract *comprehensive* action' (pagbasa - reading, pagtatanong - asking)
         pang- 'abstract *habitual* action or habitual use of/for' (pang-aagaw - snatching, pang-ayos - arranging)
         paki- 'abstract *cooperative* action' (paki-usap - supplication)
--kang-	'involuntary'
+-kang-	involuntary
         magkang- involuntary comprehensive action (magkakangdarapa - will stumble accidentally)
+-an	place, direction, usage
 -an	nouns of place, period, tools, joint performance
 	kilusán | a movement, campaign, activity, crusade
 -an	adverb/adjective
@@ -193,8 +193,8 @@ p-	'abstract of action or a hypostatic state'
 	Nilagdaán mo ba ang kásunduan?  |  Did you sign the agreement?
 	Nilálagdaán na nilá ang iyóng hilíng na pondo.  |  They are signing your request for funds.
 	Lálagdaán bukas ang mga paanyaya para sa kumperénsiyá.  |  The invitations for the conference will be signed tomorrow.
-i-	can be goal, benefactive, or instrument focus
-i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clothes, throw - trash, give - wallet
+i-	binary, yes/no, this-vs-that rather than degree - can be goal, benefactive, or instrument focus
+i-	to cause an object to undergo change of state (on -> off, me -> you, in -> out)
 	Iniakyát ko ang kahón sa kuwarto.  |  I brought the box upstairs to the room.
 	Ibinábalík ko ang pera niyá.  |  I am giving back his money.
 	Ibalík mo iyán sa akin.  |  Give that back to me.
@@ -211,9 +211,9 @@ i-	to cause (ng) an object (ang) to undergo action - teach - lesson, soak - clot
 	Umurong ba si April sa gawaing iniatas mo sa kaniyá?  |  Did April balk at the task you assigned her?
 i-	BENEFACTIVE (ng) does something (bring, read, ask, ...) FOR someone else (ang).  DO is usually "ng" (generally
 	no "sa".)
-	i- benefactive form tends to go with roots which don't have i- object focus, and/or which also normally don't
-	have "mag" forms
-	examples: ibasa ibilí igawâ ihanap ihiwà ikopya ikuha itahî iyarì isulat ilibre
+	i- benefactive
+	Examples: ikuha ibilí igawâ ihanap ibasa iyarì isulat ilibre ihiwà ikopya itahî
+	tends to go with roots which don't have i- object focus, and/or which also normally don't have "mag" forms
 	Ibilí mo ang nanay ng sapatos.  |  Buy shoes for Mom.
 	Ibinilí niyá ng bigás sa gróserí ang pamilya.  |  He bought rice for the family from the grocery store.
 i-	INSTRUMENT
@@ -284,7 +284,8 @@ ipa-	OBJECT "causative" with the focus on the thing acted on rather than the cau
 	Hindî ko pa naibíbigáy kay Bill yung ipinadalá mong regalo.  |  I have not yet given Bill the gift you sent me to give him.
 	Anó ang ipápangalan natin sa aso natin?  |  What should we name our dog?
 	Ipaalala mo sa akin.  |  Remind me.
-ipag-	(ng) does something FOR (ang).  generally no "sa".  (benefactor) -> like i- but with mag- verbs where there is generally an i- non-benefactive form.
+ipag-	Benefactor
+	* like i- but with mag- verbs where there is generally an i- non-benefactive form.
 	Ipaglutò mo ang nanay ng pansít.  |  Cook pansit for Mom. (Iluto mo ang pansit.  Cook the pansit.)
 	Ipaghugas mo siyá ng mga plato.  |  Do the dishes for him.
 	Ipaghandâ mo si Mary ng damít.  |  Prepare clothes for Mary. (Ihanda mo ang damit.  Prepare the clothes.)
@@ -310,7 +311,7 @@ ipagpa-	causative/benefactive - person 1 (ang) - person 2 (ng) for the benefit o
 ipaki-	request a third party to do something; request/please (like paki- but benefactor focus)
 ipang-	INSTRUMENT FOCUS, normally just shortened to i- (p.66 TS) itali, ibili
 	PTSI2 p.367 says "some roots" have the pang included:
-	IpangpUpUtol/IpApangpUtol ko na lang itong kutsilyo.	I'll just use this knife to cut it.
+	Ipangpúpútol/Ipápangpútol ko na lang itong kutsilyo.	I'll just use this knife to cut it.
 ipang-	DISTRIBUTIVE BENEFACTIVE FOCUS (*like ipag- but with mang- verbs instead of mag-)
 	Ipanghiram mo siya ng pera.	Borrow money for him.
 ipapang-	causative (ng -> sa using ang); instrumental focus
@@ -378,9 +379,9 @@ ma-	verbs..
   "ma-" forms transitive AF and OF major verbs, and intransitive verbs.
   Most transitive AF ma- verbs are the AF counterparts of DF ka-an verbs (cf. (2), above).
   Major verbs: As an AF affix, and in intransitive verbs other than pseudo-transitives, ma- is normally pronounced 
-with a short vowel: thus, /magu*lat/, /mali*go'/, /mabingih/. In OF and pseudo-transitive verbs, and in the 
-AF verb matuto, ma- is usually pronounced with a long vowel: thus, /ma*ki*tah/, /ma*tu*toh/. Vowel 
-length in these latter cases is, however, not distinctive in the usage of most younger speakers, and 
+with a short vowel: thus, /magu*lat/, /mali*go'/, /mabingih/.  /ma*tu*toh/ is an exception.
+	In OF and pseudo-transitive verbs, ma- is usually pronounced with a long vowel: thus, /ma*ki*tah/
+	Vowel length in these latter cases is, however, not distinctive in the usage of most younger speakers, and 
 pronunciations like /maki*tah/ and /matu*toh/ also occur (cf. the discussion of vowel length in the derived 
 affix ma- in §5.13). 
 
