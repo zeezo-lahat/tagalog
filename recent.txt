@@ -828,3 +828,5 @@ pangunahin	(una) pang_in [adjective] primary; major; main; chief; ultimate; cent
 napipintó	on the threshold; forthcoming; imminent; impending; upcoming
 napipintó	(pinto) naCV_ [adjective] on the threshold; forthcoming; imminent; impending; upcoming
 mag-abalá	(abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)
+mapagkukunan	(kunan) mapagCV_ [noun] resources
+hukluban	decrepit, old and feeble (person, used as noun)

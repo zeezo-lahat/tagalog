@@ -391,7 +391,7 @@ balón	a well (water well)
 balot	wrapper, wrapping
 balsa	a float, raft, ferry
 balugà	Aeta people, dark skinned indigenous people. Usually used in an impolite / slang manner.  
-baluktót	curved, bent, crooked; wicked, bad; curl in thread, rope, string; curve; coiled; distorted; mixed up; in a wrong order; askew
+baluktót	curved, bent, crooked; wicked, perverted; curl in thread, rope, string; curve; coiled
 balutì	armor, breastplate
 balyena	whale
 bambo	beating with a stick, palo
@@ -1248,6 +1248,7 @@ hugpóng	joint
 hukay	excavation, hole, pit, crater; grave
 Húkbalaháp	The People's Army Against the Japanese (Hukbo ng Bayan Laban sa Hapon)
 hukbo	army
+hukluban	decrepit, old and feeble (person, used as noun)
 hukuman	a court of law (also "hukoman")
 hukoman	a court of law (also "hukuman")
 hulà	guess, forecast
@@ -1904,7 +1905,7 @@ káya	ability, competence; able, is able
 kaysá	than, rather than
 kayumanggi	brown
 keso	cheese
-kesyo	used to enumerate one or some of the flimsy and/or exasperating excuses someone else gave for doing something: saying that; saying because; one of the reasons said being; reasoning that (placed before the excuse)
+kesyo	"the reason being.."
 ketong	leprosy, sakit sa balat
 kidlát	lightning
 kíkilanlín	will recognize/acknowledge
@@ -2815,7 +2816,7 @@ manalasà	to attack, to assault
 manalig	to have faith/entrust (in/"sa"). actor focus (salig)
 mánang	elder sister; a familiar term for a woman in her 40’s or thereabouts even if not related to her
 mananambal	albularyo
-mananghalian	have lunch (together?)
+mananghalian	have lunch (actor focus)
 manatili	to remain, to stay, to be permanent, to keep, to maintain
 mandahas	violate; use force against
 mandaraya	cheater, one who goes around the rules

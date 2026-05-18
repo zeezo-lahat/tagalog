@@ -1,3 +1,4 @@
+wala sa oras	happening unexpectedly, at the wrong time, being off schedule
 hanggang sa isang araw..	until one day..
 noong sumunod na gabi	the next night
 kung sa kasalukuyan..	currently..
@@ -15,7 +16,7 @@ sinusubUkan ko	I'm trying
 kung sakalì	in case
 Gagawin ko ang aking makakaya.	I'll do my best.
 Walá kang pakialám!	It's none of your business.
-akin na <foo>	give me the <foo>
+akin na <foo>	the <foo> is mine
 sana <infinitive> mo ang ...	I hope you'll <verb> ...
 kAya mo yan	you can do it
 hindi ako magtAtagal	I won't be long
@@ -156,9 +157,9 @@ kulang sa pansin	lacking in attention
 saan man	anywhere
 di bale	doesn’t matter
 di bale na lang.	never mind.
-the same	magkapareho(ng), magkakapareho(ng)
-different	magkaiba(ng)
-you're useless	wala kang silbi
+magkapareho(ng), magkakapareho(ng)	the same
+magkaiba(ng)	different
+wala kang silbi	you're useless
 kahit saan	everywhere
 na naman	again
 kItang-kIta	obvious
@@ -218,7 +219,7 @@ kapál ng mukhâ	arrogance, obnoxiousness, impudence, shamelessness, disrespect;
 kayâ	used idiomatically to express doubt, question or surprise
 masamâ ang loób	harboring a grudge; with an ill feeling
 sirâ ang loób	discouraged, disheartened; lacking confidence
-hindí maipintá ang mukhâ	'unable to paint the face' - describes someone who is frowning
+hindí maipintá ang mukhâ	'the face is not paintable' - describes someone who is frowning
 abot tenga ang ngitî	said of a person who is grinning 'ear to ear'
 isulat sa tubig	'written on water' - forget about it
 itagá mo sa bató	mark my word
