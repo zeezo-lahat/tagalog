@@ -1475,6 +1475,7 @@ bigkás (bigkas) rt_ [noun] pronunciation
 bumigkás (bigkas) _um_ [verb] to speak; to pronounce; to enunciate
 mabigkás (bigkas) ma_ [verb] be able to recite
 malíng bigkás (bigkas) phr_ [noun] mispronunciation
+pagkakabigkás (bigkas) pagkaka_ [noun] pronunciation; statement, proclamation, saying of something
 timpalák-bigkasan (bigkas) cmp_ [noun] speech competition; rhetoric contest
 bigkisán (bigkis) _an [verb] to bundle
 bigkisín (bigkis) _in [verb] to bind something; to tie up something
@@ -4459,7 +4460,7 @@ kibuín (kibo) _in [verb] to move; to break the silence
 walang-kibô (kibo) cmp_ [adjective] silent; motionless
 pangingikil (kikil) pangCV_ [noun] extortion; shakedown
 kikilan (kikil) _an [verb] to extort
-kikil (kikil) rt_ [noun] extortion; filing down; nail filing
+kikil (kikil) rt_ [noun] a file; extortion; filing down; nail filing
 kumikil (kikil) _um_ [verb] to extort
 kakilá-kilabot (kilabot) ka_rt_rt [adjective] terrifying; horrifying
 kilabot (kilabot) rt_ [noun] terror; goose bumps; goose pimples
@@ -4761,25 +4762,32 @@ labág sa kalooban (labag) phr_ [phrase] against one's will
 lumabág (labag) _um_ [verb] to go against; to violate; to infringe; to trespass
 paglabág (labag) pag_ [noun] breach; violation; infraction; transgression
 ilaban (laban) i_ [verb] to fight for something; to pit
-ipaglaban (laban) ipag_ [verb] to fight a battle for something
-kalaban (laban) ka_ [noun] opponent; adversary; enemy; antagonist; competitor
+ipaglaban (laban) ipag_ [verb] to fight for something
+kalaban (laban) ka_ [noun] opponent; enemy; adversary; opposition; antagonist; competitor; fellow competitor; foe; rival
+kalabanin (laban) ka_in [verb] to fight something/someone
 laban (laban) rt_ [noun] fight; match; contest; charge; against
 labanan (laban) _an [verb] to fight against something; to oppose something; to defy something
 labanán (laban) _an [noun] fight; conflict; duel; battle; bout; race; fight with words; contest; combat
 lumaban (laban) _um_ [verb] to fight against; to oppose; to fight back
+lában-laban (laban) rt_rt [noun] a fight or competition of different groups or sides; contest; competition; battle; match;
+magkakalaban (laban) magkaka_ [noun] competitors
+magkalaban (laban) magka_ [verb] to fight each other
 maglaban (laban) mag_ [verb] to fight; to fight with one another; to fight back; to compete
 maglabanán (laban) mag_an [verb] to compete; to fight each other; to struggle
 maipaglaban (laban) maipag_ [verb] to be able to fight a battle for something
 makalaban (laban) maka_ [verb] to fight for; to fight
 makipaglaban (laban) makipag_ [verb] to contend with; to fight with
+makipaglabanan (laban) makipag_an [verb] to fight with
 malabanan (laban) ma_an [verb] to be able to fight against something; to be able to oppose something; to be able to defy something.
 manlabán (laban) mang_ [verb] to resist; to defend oneself
+mapaglabanan (laban) mapag_an [verb] to be able to fight something off
 paglaban (laban) pag_ [noun] fighting; fight; defiance
 paglabanan (laban) pag_an [verb] to fight something; to fight against something
 paglalaban (laban) pagCV_ [noun] fight; combat; match; competition
 pakikipaglaban (laban) pakikipag_ [noun] fighting; contention
 palabán (laban) pa_ [noun] fighter
 panlaban (laban) pang_ [noun] contestant; resisting; for fighting
+panlalabán (laban) pangCV_ [noun] fighting
 waláng laban (laban) phr_ [adjective] helpless
 Labás! (labas) exp_ [interjection] Get out!; Out!
 ilabás (labas) i_ [verb] to take out something; to put something outside
@@ -7945,6 +7953,7 @@ pagsukò (suko) pag_ [noun] surrendering; submitting
 pasukuin (suko) pa_in [verb] to subdue; to make someone surrender
 sukò (suko) rt_ [noun] surrender; submission; giving up
 sumukò (suko) _um_ [verb] to give up; to surrender
+sukuan (suko) _an [verb] to give up on someone
 masukól (sukol) ma_ [verb] to be surrounded; to be cornered
 isuksók (suksok) i_ [verb] to insert something; to put something into; to stuff something in; to stash something away
 nakasuksók (suksok) naka_ [adjective] inserted
@@ -8132,7 +8141,7 @@ tumabâ (taba) _um_ [verb] to get fat; to become fat; to gain weight
 Pasintabi pô (tabi) phr_ [phrase] Please step aside; Please let me pass.
 isantabí (tabi) isan_ [verb] to put something aside; to put something beside; to lay something aside; to keep something;.
 itabí (tabi) i_ [verb] to put something aside; to put something beside; to lay something aside; to keep something;
-katabí (tabi) ka_ [adjective] adjacent; near; beside; close to
+katabí (tabi) ka_ [noun] adjacent; near; beside; close to
 magkatabí (tabi) magka_ [adjective] side by side; beside one another; beside each other; abreast
 magtabí (tabi) mag_ [verb] to keep; to save; to pull over; to put aside
 tabihán (tabi) _an [verb] to go beside something
@@ -9363,7 +9372,7 @@ matutunan (tuto) ma_an [verb] to learn something; to find something out; to expe
 pagkatuto (tuto) pagka_ [adjective] learning
 tuto (tuto) rt_ [noun] learning; gaining knowledge or skill
 itutok (tutok) i_ [verb] to point a weapon at; to focus; to aim at
-manutok (tutok) ma_ [verb] to hold someone up at gunpoint; to rob
+manutók (tutok) mang_ [verb] to point a gun at someone
 nakatutók (tutok) naka_ [adjective] focused on; aimed at
 pagtutók (tutok) pag_ [noun] focusing; focusing on
 tumutok (tutok) _um_ [verb] to concentrate; to focus
@@ -11256,20 +11265,21 @@ maaninag (aninag) ma_ [verb] to be able to see something; to be able to make out
 mangatál (ngatal) ma_ [verb] to tremble; to shake; to quiver
 ngatál (ngatal) rt_ [noun] shivering; shivers from fear or being cold
 gulang (gulang) [noun] age; old; of age; adult; taking advantage; getting one over on
-gulangan (gulang) [verb] to take advantage of someone; to be taken advantage of by someone
+gulangan (gulang) _an [verb] to take advantage of someone; to be taken advantage of by someone
 gúlang-gulang (gulang) [noun] fruit that is at the highest part of the tree; topmost fruit; highest fruit;
-kagulangan (gulang) [noun] aged
-magkasinggulang (gulang) [adjective] of the same age
-magulang (gulang) 1.) [noun] parent; parents; 2.) [adjective] mature; shrewd; ripe
-may-gulang (gulang) [adjective] adult
+kagulangan (gulang) ka_an [noun] aged
+magkasinggulang (gulang) makasing_ [adjective] of the same age
+magulang (gulang) ma_ 1.) [noun] parent; parents; 2.) [adjective] mature; shrewd; ripe
+may-gulang (gulang) cmp_ [adjective] adult
 nasa hustóng gulang (gulang) [adjective] adult
-atupag (atupag) [noun] occupation; task
-hagilap (hagilap) [noun] trying to get hold of; trying to grasp at
-mahagilap (hagilap) [verb] to be able to grasp something
-paghagilap (hagilap) [noun] groping for something
-galugad (galugad) [noun] scouring for something
-galugarin (galugad) [verb] to scour something; to explore something; to search intensely
-paggalugad (galugad) [noun] scouring
+atupag (atupag) rt_ [noun] occupation; task
+atupagin (atupag) _in [verb] to attend to or do as a task or occupation
+hagilap (hagilap) rt_ [noun] trying to get hold of; trying to grasp at
+mahagilap (hagilap) ma_ [verb] to be able to grasp something
+paghagilap (hagilap) pag_ [noun] groping for something
+galugad (galugad) rt_ [noun] scouring for something
+galugarin (galugad) _in [verb] to scour something; to explore something; to search intensely
+paggalugad (galugad) pag_ [noun] scouring
 ilibre (libre) i_ [verb] to treat someone; to foot the bill for someone; to pay for someone; to make free for someone
 libre (libre) rt_ [adjective] free; free of charge; exempt
 libreng oras (libre) phr_ [noun] free time
@@ -11671,10 +11681,6 @@ mabulunan (bulon) ma_an [verb] to choke something
 makabulon (bulon) maka_ [verb] to be temporarily choked by food in the throat
 dalaban (laban) the exchange of gifts, help, or favors between parents-in-law; reciprocity; exchange of gifts; mutual support;
 halabhaban (laban) grilled meat of an animal won in a game; prize meat; game-winning grilled meat;
-ilaban (laban) [verb] to fight for something; to insist on something; to pit
-ipaglaban (laban) [verb] to fight for something
-kalaban (laban) [noun] opponent; enemy; adversary; opposition; antagonist; competitor; fellow competitor; foe; rival
-kalabanin (laban) [verb] to fight something/someone
 laban (laban) [noun] fight; match; contest; charge; against; long live (expression)
 laban kay (laban) [preposition] against (used with names of a living being);
 laban sa (laban) [preposition] against (not used with names of a living being);
@@ -13066,6 +13072,7 @@ pambabastós (bastos) pangCV_ [noun] rudeness; insolence; vulgarity
 bisiro (bisiro) [noun] foal; colt; filly; baby / young horse
 tatwâ (tatwa) rt_ [noun] refusal; denial
 itatwâ (tatwa) i_ [noun] to refuse/deny something*
+magtatwâ (tatwa) mag_ [noun] to refuse/deny something
 butál (butal) rt_ [adjective] extra; extra change; left over
 habilin (habil) _in [noun] will (legal document); something entrusted to someone; trust
 putong (putong) [noun] crown; head covering
@@ -13110,3 +13117,79 @@ bungkál (bungkal) [noun] tilling soil; digging; [adjective] dug up
 magbungkál (bungkal) [verb] to dig up; to till (soil); to cultivate
 pagbubungkál (bungkal) [noun] digging up; tilling
 putós (putos) [adjective] stuffed; packed; [noun] package; bundle; parcel; packet; wrapped; bundled
+mag-umpukan (umpok) mag_an [verb] to gather together
+umpukan (umpok) _an [noun] group; group of people; small group of people
+umpók (umpok) rt_ [root] a small group of people facing each other, usually for playing, chatting, and the like; cluster; huddle; group; gathering;
+masagwâ (sagwa) [adjective] disagreeable; improper; immodest; awful; gaudy; unpleasant
+pasagwaín (sagwa) [verb] to make indecent, etc.
+sagwaan (sagwa) [verb] to make indecent/vulgar
+sagwâ (sagwa) [noun] obscenity; indecency; awful; inappropriate; unsightly
+sumagwâ (sagwa) [verb] to act indecently
+bumbunan (bumbunan) [noun] top of the head; soft spot on top of a baby's head
+limahid (limahid) [noun] excessive dirtiness, especially on the body and clothing; filthiness; grime; dirtiness; scratched up
+ikalula (lula) [verb] to make dizzy
+kalula (lula) offspring or generation of slaves who remain in the status of slavery; descendant of slaves; progeny of slaves;
+lulain (lula) [verb] to make dizzy
+lulà (lula) [noun] dizziness (usually when in a high place looking down or when overwhelmed); vertigo; seasickness
+makalula (lula) [verb] to make dizzy
+malulain (lula) [adjective] easily getting seasick or carsick
+malulà (lula) [verb] to feel dizzy; to feel overwhelmed
+nakakalulà (lula) [adjective] dizzying
+hampikót (pikot) feigning a limp in one's walk; limping; sham limp; affected limp; pretended limp;
+mapikot (pikot) [verb] to be cornered (be forced into a difficult position)
+pikot (pikot) [noun] besieging; compulsion;
+pikutin (pikot) [verb] to coerce someone; to entrap someone; to besiege something; to compel someone;
+may topak (topak) [adjective] insane; psychotic; having a mental disorder;
+topak (topak) [noun] madness; bad mood; craziness; foul mood
+topakin (topak) [verb] to be in a bad mood; to act crazily; to be moody
+gulumihan (gulomi) [noun] disturbance or disorder of the mind, especially from fear or worry
+halungkatín (halungkat) [verb] to rummage through something; to ransack something; to search through thoroughly
+halungkát (halungkat) [noun] ransacking and searching; rummaging through
+halungkáy (halungkat) the act of searching or rummaging through a place; search; rummage; forage; sift; dig through;
+pagháhalungkát (halungkat) [noun] meticulous search turning things over in a topsy-turvy way
+pinting (pintig) a weak heartbeat or pulse; faint pulse; weak throb; feeble heartbeat;
+pintíg (pintig) [noun] beat; throb; beating; throbbing
+pumintíg (pintig) [verb] to throb; to pulsate; to beat
+lagím (lagim) [noun] horror; terror; gloom; dread; desolation
+malagím (lagim) [adjective] horrifying; ghastly; fear mongering
+bilao (bilao) 1.) [noun] a flat circular tray or basket, usually made with woven bamboo; 2.) [noun] a flat round-shaped rice winnower;
+bilaos (bilao) a low-lying area that is frequently flooded, typically muddy and inhabited by water; a swamp or marsh; swamp; marsh; wetland; bog; fen;
+boso (boso) [noun] peep; secretly looking
+bosô (boso) [noun] name for the youngest child (in a family); the youngest child; the youngest sibling
+bukol (bukol) [noun] lump; bump; swelling; bulge; tumor; cyst;
+bukulan (bukol) [verb] to make something swell
+bumukol (bukol) [verb] to swell
+mamukol (bukol) [verb] to swell; to bulge
+pamumukol (bukol) [noun] bulge; swelling; budding
+entablatura (tabla) the upper part of a classical building that rests on posts or a colonnade; entablature;
+entable (tabla) the position of each piece on the board; setup; arrangement; configuration;
+magtablá (tabla) [verb] to end in a draw (game, contest)
+maitablá (tabla) [verb] to be able to tie something (a game / competition)
+makapal na tabla (tabla) [noun] plank
+tablawan (tabla) a barrier against the heat of the sun or the pour of rain; sunshade; canopy; awning; shelter;
+tablá (tabla) [noun] board; plank; wooden plank; tie or draw
+tablán (tabla) 1.) [verb] to have an effect on something; 2.) [verb] to be a match for something;
+tumablá (tabla) [verb] to tie (end in a draw in a game or contest)
+bigwasán (bigwas) [verb] to jerk something/someone; to hit something
+bigwás (bigwas) [noun] jerk; punch; strike
+biwas (bigwas) a strike; a swift or forceful blow; strike; blow; hit; punch;
+bumigwás (bigwas) [verb] to smite; to jerk the rod and line
+magsustento (sustento) [verb] to sustain; to support
+sumustento (sustento) [verb] to sustain
+sustento (sustento) [noun] sustenance; alimony
+demanda (demanda) rt_ [noun] demand; legal demand
+demandante (demanda) _ [noun] prosecution; prosecutor
+idemanda (demanda) i_ [verb] to sue someone/something; to accuse someone/something
+magdemanda (demanda) mag_ [verb] to demand; to sue
+mapademanda (demanda) mapa_ [verb] to be accused in court
+pagdedemanda (demanda) pagCV_ [noun] litigation
+may-piring (piring) cmp_ [adjective] blindfolded
+nakapiring (piring) naka_ [adjective] blindfolded
+piring (piring) rt_ [noun] blindfold
+piringán (piring) _an [verb] to blindfold someone
+kabutí (kabuti) rt_ [noun] mushroom
+isuplóng (suplong) i_ [verb] to report someone; to turn someone in (to the police); to file a complaint against someone;
+magsuplóng (suplong) mag_ [verb] to complain or report (to the authorities); to sue
+suplóng (suplong) rt_ [root] accusation; charge; indictment;
+hilís (hilis) rt_ [root] slant, incline
+pahilís (hilis) pa_ [noun] accent mark that leans up and to the right, indicating stress in a word

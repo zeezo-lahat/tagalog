@@ -950,7 +950,7 @@ Hindî ko pa nami-meét ang nobyo mo.	I haven't met your boyfriend yet.
 Hindî ko pa napúpuntahán ang Niagara Falls.	I have not been to the Niagara Falls yet.
 Hindî ko pa siyá nakakasalubong ngayón.	I haven't met him yet today.
 Hindî ko silá masisisi kung nagtatampó silá sa akin.	I can't blame them if they're giving me the silent treatment.
-Hindî ko silá matulungan kahit gustó ko.	I'm not able to help them even if I want to.
+Hindî ko silá matulungan kahit gustó ko.	I'm not able to help them* even if I want to.
 Hindî ko títigilan ang pagpapadalá sa iyó ng pera habang walâ ka pang trabaho.	I won't stop sending you money while you're still jobless.
 Hindî ko áaminin ang hindî ko namán ginawâ.	I will not own up to what I did not do.
 Hindî lang bastá magandá, matalino pa.	Not just beautiful, but smart too.
@@ -1357,7 +1357,7 @@ Ináabangán ko ang súsunód na pelíkulá ni James Bond.	I am anticipating the
 Ináabután ko si Mary ng mansanas nang mabitawan ko itó.	I was handing an apple to Mary when I accidentally dropped it.
 Ináabót (base form abutín) pilit ng bata ang mansanas sa ibabaw ng mesa.	The child is striving to reach the apple* from the top of the table.
 Ináaresto na ngayón ang masamáng polítiko.	The evil politician is being arrested right now.
-Ináasahan ng pangulo na matátamó ng bansâ ang suporta ng Estados Unidos.	The president expects that the country will get the support of the United States.
+Ináasahan ng pangulo na matátamó ng bansâ ang suporta ng Estados Unidos.	The president expects that the country will receive the support* of the United States.
 Ináatake na namán silá ng kabobohan.	They're suffering again from a bout of stupidity.
 Ináatake ng nerbyos si Lucy.	Lucy is having an anxiety attack.
 Iníimbitahán kitáng dumaló sa binyág ng anák ko.	I'm inviting you to attend my son's christening.
@@ -1369,14 +1369,12 @@ Ipaglutò mo ang nanay ng pansít.	Cook pancit for Mom.
 Ipakilala mo akó sa kaibigan mo.	Introduce me to your friend.
 Ipakita mo sa akin kung paano gamitin itó.	Show me how to use this.
 Ipakita mo sa akin.	Show me.
-Ipakita niyo sa akin.	Show me.
 Ipakita sa akin.	Show me.
 Ipapakilala kita sa aking mga magulang.	I will introduce you to my parents.
 Ipapatikim/Papatikman ko sayo ang beer namin.	I'll have you taste our beer.
 Ipinagbabawal kitang manigarilyo!	I forbid you to smoke!
 Ipinagmalaki niya sa kanila ang trophy niya.	He proudly showed them his trophy.
-Ipinagmamalaki kita.	I'm proud of you.
-Ipinagmámalakí kitá, Roy.	I'm proud of you, Roy.
+Ipinagmámalakí kitá.	I'm proud of you.
 Ipinakilala kamí ni Lloyd sa tindera.	Lloyd introduced us to the saleswoman.
 Ipinalabás sa telebisyón ang kasál niná Anne at Erwan.	Anne and Erwan's Wedding was shown on television.
 Ipinamigáy ba niyá itó sa inyó?	Did she pass it out to you?
@@ -1818,7 +1816,7 @@ Magtátaás ng suweldo ang kompanyá niná Bert.	Bert's company will raise salar
 Magugustuhan ako ni Tom.	Tom will like me.
 Magwawagî ka kung nasa panig ka ng katotohanan.	You'll prevail if you're on the side of the truth.
 Mahaba ba o maikli ang daan?	Is the road short or long?
-Mahahanap mo rin ang nawawalâ mong hikaw.	You will eventually find your missing earring.
+Mahahanap mo rin ang nawawalâ mong hikaw.	You will (indeed) find your missing earring.
 Mahal ako ni Tom.	Tom loves me.
 Mahal din niya ang mga aklat.	She loves books too.
 Mahal kita, Tom.	I love you, Tom.
@@ -2103,9 +2101,9 @@ Muntikan ko nang makalimutan ang aking payong.	I almost forgot my umbrella.
 Mámahalín kitá habang buhay.	I will love you all my life / forever.
 Mámahalín mo ang mga bagay na ibiníbigáy sa iyó ng lola mo.	You should treasure the items that your grandma gives you.
 Naaalala mo ba?	Do you remember?
-Naaalala ni Tom.	Tom remembers.
+Naaalala ni Tom.	Tom remembers (it).
 Naaasár akó sa tatló kong ate.	I'm frustrated with my three big sisters.
-Naaayos na ang isyu niná Gloria at Alex.	Gloria and Alex's issue are already being resolved.
+Naaayos na ang isyu niná Gloria at Alex.	Gloria and Alex's issue* is being resolved now.
 Naabutan mo ba si Charles sa canteen kanina?	Was Charles still at the canteen when you went there earlier?
 Naalala ko na!	Now I remember! / I remembered it now!
 Naalala ni Tom.	Tom remembered.
@@ -3102,7 +3100,7 @@ Tumirá akó sa California at sa New York, pero sa California akó nagtagál.	I 
 Tumirá si Vincent dito nang limáng taón.	Vincent lived here for five years.
 Tumitigil ba dito ang bus?	Does the bus make a stop here?
 Tumubò ang pera ni Bill sa bangko nang limáng porsyento.	Bill's money in the bank made a profit of five percent.
-Tumugtóg ka namán.	Please play something (for me/us).
+Tumugtóg ka namán.	Please play music.
 Tumulog ka nang konti, ayos ba?	Get some sleep, okay?
 Tumulóy na akó.	I let myself in.
 Tumunóg ang kampanà ng simbahan nang tatlóng beses.	The church bell tolled three times.
@@ -3354,3 +3352,4 @@ waláng kaalám-alám ako	I don't have the faintest idea
 Pinuná ko ang malíng pamamalakad ng kompanyá.	I criticized the company's poor policies.
 Sinasabi po ni Ezekial na baka maipagsabi ko po siya kay mama na kung puwede po makahiram ng pera.	Ezekial would say that maybe I could say for him to mama that maybe he could borrow money.
 Ang pagkikita ay pagsasampalataya!	Seeing is believing.
+Wala pang tumawag sa kanya ng sir kahit kailan.	No one has ever called him sir.

@@ -1071,6 +1071,7 @@ haginit	cracking sound; swishing sound of swiftly passing vehicles
 hagkán	to kiss someone (variant of halikan)
 hagók	snore (also harók)
 hagpís	sorrow
+hagunot	roar of wind, ugong ng malakas na hihip ng hangin, haginit
 hagupít	whipping; beating; devastation; stroke with a whip; thrashing; repeated strokes of a whip
 hain	food on a table; offering in sacrifice; tribute
 háka-hakà	a myth, rumor, supposition; imaginary
@@ -3063,6 +3064,7 @@ mawalán	to lose something (actor focus!)
 mawalang-galang	apologies for being disrespectful
 mawari	discern, perceive, distinguish, comprehend
 mawawala	will be lost, vanish, disappear
+maya	sparrow
 may-arì	owner
 may-gulang	adult
 may gustó ka ba sa	do you like X?
@@ -4274,6 +4276,7 @@ salangsáng	to oppose, contravene, resist, defy, counteract, oppose
 salanta	badly injured or damaged, weakened
 salapáng	harpoon, trident
 salapi	money, currency
+salas	living room
 salawal	underwear
 salbáhe	naughty
 sali	participation
@@ -4874,6 +4877,7 @@ totoó	true, real, genuine
 traidór	traitor
 traidurín	to betray someone
 trapál	tarp, tarpaulin
+trapo	rag (basahan)
 trigo	wheat
 tripulante	a crew (as in a ship, etc.)
 troso	log
@@ -4881,6 +4885,7 @@ tsaka	(atsaka) slangy way of saying “and” or “as well as” (at + saka)
 tsansa	chance
 tsekwa	derogatory term for chinese
 tsikitíng	little, small, tiny, small kids (from spanish "chiquitin")
+tsimay	degradint term for kasambahay
 tsugi	slang word from "tsug!" (stabbing sound) in comics meaning "dead" or referring to some unpleasant happening
 tsupér	chauffeur, driver
 tsupon	nipple, as of baby bottle
