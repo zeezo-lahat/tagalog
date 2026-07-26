@@ -2681,7 +2681,6 @@ magpadalá sa galit (galit) phr_ [verb] allow oneself to be carried away with an
 manggalaiti (galit) mang_ [verb] to be infuriated
 manggalit (galit) mang_ [verb] to displease; to vex
 matindíng galít (galit) phr_ [noun] fury
-nagngangalit (galit) _ [adjective] raging
 pagalitan (galit) pa_an [verb] to scold someone; to reprimand someone; to get angry at someone
 pagalít (galit) pa_ [adverb] angrily
 pagkagalit (galit) pagka_ [noun] being angry
@@ -4564,7 +4563,7 @@ makakita (kita) maka_ [verb] to (be able to / happen to) see or find something *
 makipagkita (kita) makipag_ [verb] to meet up with
 makita (kita) ma_ [verb] to be able to see something; to see something; to catch sight of something
 makitaan (kita) ma_an [verb] to demonstrate; to show
-mapakita (kita) mapa_ [verb] to be able to show something
+mapakita (kita) mapa_ [verb] to appear (active); to be able to show something
 pagkakakitaan (kita) pagkaka_an [noun] earning a living
 pagkakita (kita) pagka_ [noun] observation; seeing; upon seeing
 pagkikita (kita) pagCV_ [noun] meeting
@@ -5923,6 +5922,7 @@ masíd (masid) rt_ [noun] stare; observation
 nakamasíd (masid) naka_ [adjective] watching; observing; staring
 tagamasíd (masid) taga_ [noun] observer; supervisor
 kalumatá (mata) kalu_ [noun] dark circles (under the eyes)
+mangalulumatá (mata) mangkalu_ [verb] to have dark circles (under the eyes)
 malik-matá (mata) cmp_ [noun] illusion; transfiguration; being deceived by one's vision; seeing things; eyes playing tricks on you
 mamalik-matá (mata) mang_ [verb] to have one's eyes playing tricks on oneself; to be seeing things
 mamataán (mata) ma_an [verb] to catch sight of something; to happen to see something
@@ -8544,6 +8544,7 @@ natatangì (tangi) nata_ [adjective] outstanding; unique; distinct; standing apa
 pantangì (tangi) pang_ [grammar] proper noun
 tangì (tangi) rt_ [adjective] only; special; exceptional; exclusive; particular; proper; the very; [noun] only thing
 tinatangi (tangi) CV_in_ [noun] special someone; special person
+manangis (tangis) mang_ [verb] to wail in lamentation
 tumangis (tangis) _um_ [verb] to weep; to wail
 pagtangis (tangis) pag_ [noun] weeping; wailing
 tangis (tangis) rt_ [noun] wail; weep
@@ -8558,7 +8559,9 @@ matangkarán (tangkad) ma_an [verb] to grow or become tall
 pinakamatangkád (tangkad) pinakama_ [adjective] tallest (person)
 tangkád (tangkad) rt_ [noun] tall; tallness; height (of a person)
 tumangkád (tangkad) _um_ [verb] to get taller; to grow taller
-tumingkayád (tangkad) _um_ [verb] to stand on tip toes
+nakatingkayád (tingkayad) naka_ [adjective] standing on tip toes
+patingkayád (tingkayad) pa_ [adverb] standing on tip toes
+tumingkayád (tingkayad) _um_ [verb] to stand on tip toes
 pagtangkilik (tangkilik) pag_ [noun] support; patronage
 tangkilik (tangkilik) rt_ [noun] patronage; support; backing; help; auspices
 tangkilikin (tangkilik) _in [verb] to support something/someone; to patronize something/someone; to back something/someone; to rise in popularity
@@ -12012,12 +12015,13 @@ aklás (aklas) rt_ [noun] strike
 mag-aklasan (aklas) mag_an [verb] to stage a strike collectively
 mag-aklás (aklas) mag_ [verb] to strike
 lingas (ningas) variant of 'ningas'; flame; blaze; flicker; glow;
-magningas (ningas) [verb] to ignite; to burn (a flame)
-ningas (ningas) [noun] flame
-níngas-kugon (ningas) [noun] an action or project that does not last long; only earnest or diligent or enthusiastic in the beginning; short-lived interest or desire.; flash in the pan; short-lived enthusiasm; fleeting effort; temporary zeal;
+magningas (ningas) mag_ [verb] to ignite; to burn (a flame)
+maningas (ningas) ma_ [adjective] flaming
+ningas (ningas) rt_ [noun] flame
+níngas-kugon (ningas) cmp_ [noun] an action or project that does not last long; only earnest or diligent or enthusiastic in the beginning; short-lived interest or desire.; flash in the pan; short-lived enthusiasm; fleeting effort; temporary zeal;
 paningaan (ningas) a tool or implement used in the making of coping stones; stone carving tool; mason's tool;
-ginsá (ginsa) [adverb] suddenly; abruptly
-kaginsá-ginsá (ginsa) [adjective] suddenly; all of a sudden; unexpectedly
+ginsá (ginsa) rt_ [adverb] suddenly; abruptly
+kaginsá-ginsá (ginsa) ka_rt_rt [adjective] suddenly; all of a sudden; unexpectedly
 kuból (kubol) rt_ [noun] tent; booth
 huwád (huwad) rt_ [adjective] fake; counterfeit; false; bogus; imitating
 manghuhuwad (huwad) [noun] counterfeiter
@@ -12996,11 +13000,11 @@ ugaog (uga) strong and successive shaking of a tree to make the fruits fall off;
 ugaín (uga) _in [verb] to shake something; to wobble something
 ugâ (uga) rt_ [noun] shaking; trembling; tremor
 umugâ (uga) _um_ [verb] to shake; to tremble
-hinhín (hinhin) [noun] modesty
-kahinhinan (hinhin) [adjective] modesty
-mahinhín (hinhin) [adjective] demure; modest; chaste; decent; refined
-malahinhín (hinhin) lukewarm water; characterized by mild warmth; tepid; warmish; mildly warm;
-pagtimtim (timtim) [noun] tasting without swallowing
+hinhín (hinhin) rt_ [noun] modesty
+kahinhinan (hinhin) ka_an [adjective] modesty
+mahinhín (hinhin) ma_ [adjective] demure; modest; chaste; decent; refined
+malahinhín (hinhin) mala_ [adjective] lukewarm water; characterized by mild warmth; tepid; warmish; mildly warm;
+pagtimtim (timtim) pag_ [noun] tasting without swallowing
 tagimtím (timtim) a pleasing lightness of spirit experienced after performing an act of kindness; contentment; satisfaction; fulfillment;
 deskalso (kalso) [adjective] barefoot; without shoes or any foot covering; unshod; shoeless; barefooted;
 kalsadór (kalso) a tool used for slipping on shoes when putting them on; shoe horn; shoehorn;
@@ -13193,3 +13197,59 @@ magsuplóng (suplong) mag_ [verb] to complain or report (to the authorities); to
 suplóng (suplong) rt_ [root] accusation; charge; indictment;
 hilís (hilis) rt_ [root] slant, incline
 pahilís (hilis) pa_ [noun] accent mark that leans up and to the right, indicating stress in a word
+dukwangín (dukwang) _in [verb] to yank something; to grab something
+dukwáng (dukwang) rt_ [root] a way of reaching out with the arm extended and the body leaning forward; reach out; stretch out; extend;
+dumukwáng (dukwang) _um_ [verb] to stretch the arm in order to reach for; to reach over for
+mandukwang (dukwang) mang_ [verb] to stretch the arm in order to reach for something
+magngitngit (ngitngit) ma_ [verb] to feel anger but to be suppressing it
+ngalitngít (ngitngit) the sound created by gnawing or nibbling.; gnawing sound; nibbling noise;
+ngayitngít (ngitngit) [noun] the act of gritting or grinding one's teeth upon biting into something like sand.; gritting; grinding;
+ngitngít (ngitngit) rt_ [noun] fury; wrath; [adjective] furious; boiling with anger;
+dalubhalman (halaman) [noun] botanist
+dalubhalmanan (halaman) [noun] botany;
+halaman (halaman) rt_ [noun] plant; vegetation
+halamanin (halaman) _in [noun] plant for cultivation or planting in an orchard, etc.
+halamanin (halaman) _in [verb] to cultivate plants in an orchard/garden
+halamanán (halaman) _an [noun] garden; orchard; vegetation
+halmanan (halaman) [noun] garden (botanical)
+maghalaman (halaman) mag_ [verb] to take care of a garden
+paghahalaman (halaman) pagCV_ [noun] horticulture
+palahalmanan (halaman) [noun] horticulture;
+gupiling (gupiling) rt_ [root] light sleep; shallow sleep; doze; nap; catnap; snooze;
+paggupiling (gupiling) pag_ [noun] light but restful sleep
+patók (patok) rt_ [adjective] popular; really fast (jeepney, bus, etc.); [noun] sure winner in a horse race (slang)
+pumatók (patok) _um_ [verb] to be popular
+ireto (reto) i_ [verb] to pair something/someone up
+magreto (reto) mag_ [verb] to pair something/someone up
+reto (reto) rt_ [noun] challenge; to "set up" as in arrange a couple to meet
+lagpakan (lagpak) _an [noun] falling together
+lagpák (lagpak) rt_ [noun] crash; failure; drop
+malagpakan (lagpak) ma_an [verb] to fall on [locative focus]
+tilagpák (lagpak) a sudden and loud fall or collapse onto the floor; thud; slam; plunk; crash;
+kalipumpón (pumpon) a variant of 'kalibungbong'; cluster; bunch; gathering;
+pumpón (pumpon) rt_ [noun] bouquet (e.g., of flowers); bunch; bundle; cluster
+magkauhay (uhay) magka_ [verb] to sprout/bloom as in a field
+uhay (uhay) [noun] blade of grain; stem of grains
+luhog (luhog) plea or act of pleading; supplication; plea; entreaty; petition;
+damba`an (damba) rudder of a boat; helm; tiller;
+dambahán (damba) _an [verb] to rise on one's hind legs; to fall all over someone; to rear up
+dambahín (damba) _in [verb] to pounce on something; to strike something by an animal rising on its hind legs
+dambangan (damba) a trough; a large wooden or stone hollowed out container used as a feeding place for domestic animals.; trough; feed container; feeding station;
+dambá (damba) rt_ [noun] rising on hind legs; rearing up
+dumambá (damba) _um_ [verb] to rise on one's hind legs; to jump on
+pagdamba (damba) pag_ [noun] rising on hind legs (four-footed animals)
+magputahe (putahe) mag_ [verb] to cook a special dish
+putahe (putahe) rt_ [noun] dish; course (in a meal)
+putahihin (putahe) _in [verb] to cook something into a choice dish
+lantakán (lantak) _an [verb] to attack something violently
+lanták (lantak) rt_ [noun] violent attack
+lumanták (lantak) _um_ [verb] to attack violently
+balato (balato) rt_ [noun] gambling winnings
+balatuhan (balato) _an [verb] to give someone a share of one's winning
+balatuhin (balato) _in [verb] to take a share from another's winnings
+bumalato (balato) _um_ [verb] to ask for a share of another's winnings
+magbalato (balato) mag_ [verb] to give a share of winnings in gambling
+pabalato (balato) pa_ [noun] share of money given to another by one who wins in gambling
+pabalatuhin (balato) [verb] to give a share of something to someone else
+magngalit (ngalit) mag_ [verb] to grind the teeth
+nagngangalit (ngalit) nagCV_ [adjective] raging

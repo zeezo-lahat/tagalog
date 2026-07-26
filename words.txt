@@ -791,7 +791,7 @@ daplís	grazing, tangential, just barely hitting
 darating	will come somewhere
 dasal	prayer
 dasalan	book of prayer, place of prayer
-datapwat	however
+datapwat	however, yet
 dáti	former(ly), previous(ly), old, ex, same, for a long time already
 dati-rati	formerly, previously
 datig	adjoining, near, contiguous; lining for clothes
@@ -1045,6 +1045,7 @@ gunggóng	moron, idiot
 guni-guní	hallucination; imagination; illusion; figment; mirage
 gunitâ	memory, recollection
 gunting	scissors
+guráng	old person (nakakainsultong salita, parang "lagás")
 guro	teacher
 gusali	building, structure
 gusgós	dirtiness
@@ -1790,6 +1791,7 @@ karukhaán	poverty; lack, deficiency (dukhâ)
 karumal-dumal	loathsome, nasty
 karunúngan	wisdom; knowledge, education, talent, ability (dúnong)
 karunúngang bayan	folk wisdom
+karwahe	a chariot or coach
 kasabáy	together, at the same time, simultaneously (sabáy)
 kasagsagán	in the thick of (something); at the height of (something). (sagsag) "season of abundance"
 kasakáy	fellow passenger
@@ -3710,8 +3712,7 @@ palayók	earthen pot
 palda	skirt
 palengke	a traditional marketplace, especially a wet market
 paliban	postponement
-palibhasa	"for this reason", expresses that what follows is stated as a reason (also palibasa)
-palibhasa	the reason being..., because; seeing as; knowing that; for as much; to the end that; (often used sarcastically)
+palibhasa	the reason being..., because.., seeing as .. (often used sarcastically)
 paligid	vicinity; circumference
 paligoy-ligoy	beating around the bush
 páligsahan	a competition
@@ -3740,6 +3741,7 @@ pamangkín	niece or nephew
 pamantásan	university
 pamasahe	money used to pay for fare (transport)
 pamatay-apoy	fire extinguisher
+pamatok	yolk (as in of an ox, etc.)
 pamaypáy	fan (manual); paper fan; folding fan
 pambansâ	national
 pambatà	for kids; infantile

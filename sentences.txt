@@ -2271,7 +2271,7 @@ Nagwagî siyá ng Emmy para sa pagganáp sa karaktér ng killer na si Andrew Cun
 Nagwowori kami sa inyo.	We are worried about you.
 Nagyakapan sila.	They embraced.
 Nagyakapan sila.	They hugged.
-Nagyáyabáng ang lalaki tungkól sa regalong hindî namán niyá ibinigáy.	A man is boasting about a gift he has never given.
+Nagyáyabáng ang lalaki tungkól sa regalong hindî namán niyá ibinigáy.	The man is boasting about the gift that he didn't even give.
 Nagyáyabáng ba siyá?	Is he bragging?
 Nagúgustuhán ko na dito.	I am beginning to like it here.
 Nagúgustuhán mo ba dito sa New York?	Do you like it here in New York?
@@ -3353,3 +3353,4 @@ Pinuná ko ang malíng pamamalakad ng kompanyá.	I criticized the company's poor
 Sinasabi po ni Ezekial na baka maipagsabi ko po siya kay mama na kung puwede po makahiram ng pera.	Ezekial would say that maybe I could say for him to mama that maybe he could borrow money.
 Ang pagkikita ay pagsasampalataya!	Seeing is believing.
 Wala pang tumawag sa kanya ng sir kahit kailan.	No one has ever called him sir.
+Pinagsarhan ako ng pintuan ng babae.	The woman closed the door on me*.
