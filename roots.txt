@@ -1626,6 +1626,7 @@ kabiruán (biro) ka_an [noun] someone with whom one jokes; fellow jokester
 mabirò (biro) ma_ [adjective] humorous
 magbiruán (biro) mag_an [verb] to joke around together
 magbirô (biro) mag_ [verb] to joke; to crack a joke; to tease; to banter
+mapagbirò (biro) mapag_ [adjective] prone to making jokes
 pabirô (biro) pa_ [adverb] jokingly; in a joking way
 pagbibirô (biro) pagCV_ [noun] joking; joking around
 palabirô (biro) pala_ [adjective] likes to joke around; joker
@@ -1885,7 +1886,7 @@ makabuntís (buntis) maka_ [verb] to get a woman (or a female animal) pregnant
 pagbubuntís (buntis) pagCV_ [noun] pregnancy
 pagpipigil sa pagbubuntis (buntis) phr_ [noun] contraception; birth control
 buntunan (bunton) _an [noun] dump
-buntón (bunton) rt_ [noun] pile; collection; batch
+buntón (bunton) rt_ [noun] heap (from the Spanish montón)
 ibuntón (bunton) i_ [verb] to heap up something; to pile something on
 bumuntót (buntot) _um_ [verb] to trail
 buntót (buntot) rt_ [noun] tail; bodyguard
@@ -3209,6 +3210,7 @@ pahangain (hanga) pa_in [verb] to impress someone; to astound someone; to amaze 
 taga-hangà (hanga) taga_ [noun] fan; admirer
 tagahangà (hanga) taga_ [noun] admirer
 hangarín (hangad) _in [verb] to desire something; to aspire to something; to seek something; to intend something; to have the goal of doing something; to aim to accomplish for something
+hangarin (hangad) _in [noun] a goal, desire or intention
 hangád (hangad) rt_ [noun] desire; purpose; ambition; intention; aspiration; seeking
 maghangád (hangad) mag_ [verb] to desire; to seek; to intend; to aspire
 hangos (hangos) rt_ [noun] gasp; [adjective] out of breath (due to hurry or excitement); breathlessly
@@ -3286,6 +3288,7 @@ humatì (hati) _um_ [verb] to divide in two; to divide
 kalahatì (hati) kala_ [adjective/noun] half; half of
 maghatì (hati) mag_ [verb] to divide; to cut in half; to apportion; to bisect
 mahatì (hati) ma_ [verb] to be divided or broken into two; to be halved
+paghatian (hati) pag_an [verb] to divide something* (up)
 hatiran (hatid) _an [noun] time or place of delivery
 hatíd (hatid) rt_ [noun] bringing; escorting; accompanying
 ihatíd (hatid) i_ [verb] to drop off someone/something; to bring something; to take something to
@@ -3333,12 +3336,12 @@ hayà (haya) rt_ [noun] tolerance of an act
 hayagan (hayag) _an [adverb] in public; openly; without restraint
 hayág (hayag) rt_ [adjective] conspicuous; easily seen; public
 ihayág (hayag) i_ [verb] to declare something; to announce something; to express something; to reveal something
-ipahayág (hayag) ipa_ [verb] to announce; to declare; to express
+ipahayág (hayag) ipa_ [verb] to declare/express/state/claim something*
 maghayág (hayag) mag_ [verb] to reveal
 magpahayág (hayag) magpa_ [verb] to declare; to express; to announce; to assert
 mámamahayág (hayag) mangCV_ [noun] journalist
 pagpapahayág (hayag) pagpapa_ [noun] expression; proclamation
-pahayág (hayag) pa_ [noun] statement; press release; declaration; claim
+pahayág (hayag) pa_ [noun] statement, declaration, claim
 pahayág ng bangko (hayag) phr_ [noun] bank statement
 pamamahayág (hayag) pangpaCV_ [noun] journalism
 páhayagán (hayag) pa_an [noun] newspaper
@@ -5122,7 +5125,7 @@ lumantád (lantad) _um_ [verb] to expose; to be revealed; to be prominent
 maglantád (lantad) mag_ [verb] to expose
 mailantád (lantad) mai_ [verb] to be able to expose something
 malantád (lantad) ma_ [verb] to be exposed (AF); to expose something (OF)
-kalaunan (laon) ka_an [adjective] eventually; after a while; in time; as time went on; long time
+kalaunan (laon) ka_an [adjective] later in time
 nang lumaon (laon) phr_ [phrase] eventually; in time
 laon (laon) rt_ [noun] long (in time)
 malaon (laon) ma_ [adjective] long in time
@@ -7285,7 +7288,7 @@ waláng-salitâ (salita) cmp_ [adjective] speechless (because of fear, shame or 
 ipasaló (salo) ipa_ [verb] to have someone catch something; to have someone continue paying for something
 kasalo (salo) ka_ [noun] partaker
 magsalo (salo) mag_ [verb] to share; to share in eating
-pagsaluhan (salo) pag_an [verb] to share
+pagsaluhan (salo) pag_an [verb] to share something*
 panaló (salo) pang_ [noun] support (from falling); container for falling objects, etc.; something used for catching
 saluhín (salo) _in [verb] to catch; to support; to pay for someone else
 saló (salo) rt_ [noun] a catch of something thrown
@@ -8268,6 +8271,7 @@ ipagtaká (taka) ipag_ [verb] to cause surprise; to surprise
 katakataká (taka) ka_rt_rt [adjective] puzzling; curiously strange
 magtaká (taka) mag_ [verb] to be surprised; to wonder
 nakapagtátaká (taka) nakapagCV_ [adjective] surprising; magic; magical; wondrous
+nakakapagtaká (taka) nakakapag_ [adjective] surprising; magic; magical; wondrous
 pagtataká (taka) pagCV_ [noun] wondering; feeling surprised; surprise
 taká (taka) rt_ [noun] wonder; surprise
 itakas (takas) i_ [verb] to hide away; to run away with
@@ -8937,6 +8941,7 @@ makapagtimpî (timpi) makapag_ [verb] to be able to control one's self
 matimpiin (timpi) ma_in [adjective] reserved; self-controlled; restrained
 pagtitimpî (timpi) pagCV_ [noun] controlling one's self; self control; self restraint
 timpî (timpi) rt_ [noun] temperance; moderation; self-control
+ipagtimplá (timpla) ipag_ [verb] to mix/prepare coffee, etc. for someone*
 magtimplá (timpla) mag_ [verb] to mix
 pagtimplá (timpla) pag_ [noun] mixing
 panimplá (timpla) pa_ [noun] seasoning; flavoring
@@ -9019,6 +9024,7 @@ tirhán (tira) _an [verb] to set aside; to populate; to reside somewhere; to liv
 tirá (tira) rt_ [noun] leftover; residual
 tumira (tira) _um_ [verb] to hit/attack someone; to make a move in game; to verbally attack someone
 tumirá (tira) _um_ [verb] to reside; to live (somewhere); to stay
+kinatitirikan (tirik) kinaCV_an [noun] place where something is erected
 itirik (tirik) i_ [verb] to erect something
 magtirik (tirik) mag_ [verb] to light (e.g. a candle); to erect
 nakatirík (tirik) naka_ [adjective] rolled back (usually eyes)
@@ -9291,15 +9297,15 @@ tungkulin (tungkol) _in [noun] duty; responsibility; concern; mission; function;
 tungkól (tungkol) rt_ [preposition] about; regarding
 itungó (tungo) i_ [verb] to bend one's head
 magtungo (tungo) mag_ [verb] to head toward; to go toward
-makitungo (tungo) maki_ [verb] to deal with; to act toward
+makitungo (tungo) maki_ [verb] to act toward others
 nakatungó (tungo) naka_ [adjective] downcast
 pagtungò (tungo) pag_ [noun] going to a certain place
 pakikitungo (tungo) pakiki_ [noun] treatment; dealing; relationship; pleasantry
-pakitungo (tungo) paki_ [noun] behavior
+pakitungo (tungo) paki_ [noun] treatment of others
 patungo (tungo) pa_ [preposition] toward; [adjective] headed to
 patútunguhan (tungo) paCV_an [noun] destination
 tumungò (tungo) _um_ [verb] to go to; to proceed to
-tungo (tungo) rt_ [preposition] toward
+tungo (tungo) rt_ [root] toward
 tunguhin (tungo) _in [noun] trend; goal; objective
 tunguhin (tungo) _in [verb] to head toward something*
 tungó (tungo) rt_ [adjective] head bowed
@@ -9479,10 +9485,10 @@ iukol (ukol) i_ [verb] to allot; to attribute; to dedicate; to devote
 kaukulán (ukol) ka_an [grammar] case; [noun] relation; [adjective] related; associated
 kinaúukulan (ukol) kinaCV_an [noun] authorities
 mag-ukol (ukol) mag_ [verb] to set aside
-nakaukol (ukol) naka_ [adjective] intended for; destined; proper; suitable
+nakaukol (ukol) naka_ [adjective] intended for; destined
 pag-uukol (ukol) pagCV_ [noun] use; application
 pang-ukol (ukol) pang_ [grammar] preposition
-ukol (ukol) rt_ [adjective] intended for; about; destined; proper; suitable
+ukol (ukol) rt_ [prep] "regarding", eg "ukol sa", related to "tungkol"
 inulán (ulan) _in rained
 magpaulán (ulan) magpa_ [verb] to get oneself wet in the rain
 maulanán (ulan) ma_an [verb] to be rained on; to get wet by rain
@@ -9808,6 +9814,7 @@ yakap (yakap) rt_ [noun] hug; embrace
 yakapin (yakap) _in [verb] to hug someone/something; to embrace someone/something; to cuddle something/someone
 yumakap (yakap) _um_ [verb] to hug; to embrace
 anak-mayaman (yaman) cmp_ [noun] rich kid; rich child
+ikayaman (yaman) ika_ [verb] to become wealthy from something (eg, a business) (object focus)
 ingatáng-yaman (yaman) cmp_ [noun] treasury
 kayamanan (yaman) ka_an [noun] riches; wealth; being wealthy
 likás-yaman (yaman) cmp_ [noun] natural treasure; natural wonder; natural riches
@@ -10485,8 +10492,9 @@ kumináng (kinang) _um_ [verb] to shine; to sparkle; to shimmer
 magsikinang (kinang) magsi_ [verb] to shine or sparkle
 makináng (kinang) ma_ [adjective] brilliant; shining; * commonly used to describe jewelry
 basowás (suway) not obedient; unruly; disobedient; rebellious; defiant; insubordinate;
+masuwayin (suway) ma_in [adjective] disobedient
 pagkamasuwayin (suway) pagkama_in [noun] disobedience
-pagsuwáy (suway) pag_ [noun] violation
+pagsuwáy (suway) pag_ [noun] disobedience, violation
 pasuwáy (suway) pa_ [noun] violator
 sumuwáy (suway) _um_ [verb] to violate; to disobey
 suwayín (suway) in_ [verb] to disobey something (a command, the law, etc.); to defy something; to violate something; to transgress something
@@ -13038,6 +13046,7 @@ lurhán (lura) _an [noun] to spit at/on something*
 malura (lura) ma_ [adjective] full of saliva or spittle
 bihilya (ngilin) abstinence; avoidance of luxury or indulgence; something that is forbidden, such as abstaining from meat on days set by religion; fasting; self-restraint; temperance; prohibition;
 ipangilin (ngilin) ipa_ [verb] to observe and honor (as a holiday, etc.)
+mangilin (ngilin) ma_ [verb] to abstain (as from vices)
 ngilin (ngilin) rt_ [root] abstention from indulgence; abstinence; temperance; self-restraint; self-control;
 ngiling (ngilin) abstinence; the act of refraining from indulgence; something that is forbidden, such as abstaining from meat on days designated by religion; fasting; prohibition; refraining; self-denial;
 pangilinan (ngilin) pa_an [verb] to be the cause of abstinence;
@@ -13253,3 +13262,46 @@ pabalato (balato) pa_ [noun] share of money given to another by one who wins in 
 pabalatuhin (balato) [verb] to give a share of something to someone else
 magngalit (ngalit) mag_ [verb] to grind the teeth
 nagngangalit (ngalit) nagCV_ [adjective] raging
+bakól (bakol) the process of cooking chicken in a bamboo container; bamboo cooking; chicken in bamboo;
+binakól (bakol) chicken soup with coconut meat; chicken coconut soup;
+bákul-bakulan (bakol) a small basket; small basket; little basket;
+puso ng saging (saging) [noun] banana blossom
+saging (saging) [noun] banana
+sagíng-sagingan (saging) a type of wild tree; wild banana; false banana; banana-like plant;
+sinasá (saging) a type of banana; banana;
+ságing-matsíng (saging) a variety of banana; monkey banana;
+ságing-saging (saging) a cluster or bunch similar to that of bananas; bunch; cluster;
+kaluwatan (luwat) ka_an [noun] long time
+luwát (luwat) rt_ [noun] a long time
+maluwatan (luwat) ma_an [verb] to have to wait a long time and then become impatient
+matagtág (tagtag) ma_ [adjective] bumpy (road, etc.)
+tagtág (tagtag) rt_ [noun] biglang galaw ng isang bagay o tao dahil sa pagkaumpog, pagkabunggo, o pagkabagok
+mamaos (paos) mang_ [verb] to get hoarse
+mapaós (paos) ma_ [verb] to become hoarse
+pamamaos (paos) pangCV_ [noun] hoarseness
+payaós (paos) pa_ [adjective] hoarse from too much shouting; hoarse; gruff; raspy;
+paós (paos) rt_ [adjective] hoarse; hoarse voice
+masikmura (sikmura) ma_ [verb] to be able to stomach something
+sikmurain (sikmura) _in [verb] to have stomach trouble; to have a stomach ache
+sikmuraín (sikmura) _in [adjective] prone or subject to stomach trouble
+sikmurà (sikmura) rt_ [noun] stomach (usually the internal organ, not the external stomach/belly); gut
+impisín (impis) _in [verb] to deflate something
+impís (impis) rt_ [adjective] deflated; thin; fit; tight
+kuyumpís (impis) to become less full or deflated; deflated; decreased; diminished; reduced;
+umimpís (impis) _um_ [verb] to deflate
+bálaná (balana) rt_ [pronoun] anyone
+di-pambalaná (balana) [grammar] proper noun of a person (si)
+pambálaná (balana) pang_ [grammar] common noun
+arangkada (arangkada) rt_ [noun] suddenly accelerating or starting, sudden burst of speed
+umarangkada (arangkada) _um_ [verb] to suddenly start or accelerate
+hagibis (hagibis) rt_ [noun] swoosh; darting; flashing by
+humagibis (hagibis) _um_ [verb] to rush; to speed
+pahagibisin (hagibis) pa_in [verb] to cause to move along with great speed/force
+niyaón (yaon) [adjective] refers to things that are distant and not visible to both the speaker and the listener, a contraction of 'ng' + 'yaon'; those; that over there;
+yaón (yaon) [pronoun] that of; variant of "iyon"
+paldó (paldo) [noun] bundle; loaded (with cash)
+soro (soro) [noun] fox
+sorò (soro) small spoon; teaspoon;
+barang (barang) [noun] hex (curse)
+mostra (mostra) signaling through the use of the hand; gesture; signal; sign; indicating;
+mostradór (mostra) a store that usually has a glass front; showcase; display case; shop front; storefront;
