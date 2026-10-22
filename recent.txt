@@ -823,9 +823,7 @@ masagap	(sagap) ma_ [verb] to pick up some piece of news or information; to scoo
 kalakíp	(lakip) ka_ [adjective] enclosed; with; attached; [noun] enclosure; attachment
 pinamilí	(bili) pa_in [noun] purchase; purchased item; items purchased
 katitíng	very small (size or amount), tiny, minute; particle; bit; iota; very small amount (napakaliit)
-pangunahin	primary, major, main, chief, ultimate, central, dominant (una)
 pangunahin	(una) pang_in [adjective] primary; major; main; chief; ultimate; central; guest (main); dominant
-napipintó	on the threshold; forthcoming; imminent; impending; upcoming
 napipintó	(pinto) naCV_ [adjective] on the threshold; forthcoming; imminent; impending; upcoming
 mag-abalá	(abala) mag_ [verb] to bother with; to worry about; to trouble (oneself)
 mapagkukunan	(kunan) mapagCV_ [noun] resources
@@ -838,3 +836,19 @@ pasadyâ	(sadya) pa_ [adjective] customized
 dápit-hapon (hapon) cmp_ [adjective] late afternoon; twilight; dusk
 gumayák	(gayak) [verb] to dress up
 iwaksí	(waksi) [verb] to banish something; to renounce something;
+pungás	confused due to abrupt awakening from sleep
+impís	(impis) rt_ [adjective] deflated; thin; fit; tight
+bálaná	(balana) rt_ [pronoun] anyone
+arangkada	(arangkada) rt_ [noun] suddenly accelerating or starting, sudden burst of speed
+hagibis	(hagibis) rt_ [noun] swoosh; darting; flashing by
+paldó	(paldo) rt_ [noun] bundle; loaded (with cash)
+soro	(soro) rt_ [noun] fox
+barang	(barang) rt_ [noun] hex (curse)
+mostra	(mostra) rt_ [root] signaling through the use of the hand; gesture; signal; sign; indicating;
+nababagay	(bagay) naCV_ [adjective] suitable; fitting
+maatím	(atim) ma_ [verb] to tolerate something; to handle (endure) something;
+paringgán	to allude to, refer to, mention
+ipaintindí	(intindi) ipa_ [verb] to get convey understanding* (to someone <sa>) "Mahirap ipaintindi sa nanay ko ang pagkakaiba."
+silakbó	(silakbo) [noun] outburst; surge; flash
+suplóng	(suplong) rt_ [root] accusation; charge; indictment;
+sapáw	(sapaw) rt_ [noun] overshadowing, blocking the view of something
