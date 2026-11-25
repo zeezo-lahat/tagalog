@@ -165,6 +165,7 @@ amoy	smell, odor
 amoy-araw	smell of sweat after being in the sun
 ampalaya	balsam apple; bitter gourd
 ampát	the act of stopping or controlling the flow or drip of blood, water, and similar substances
+ampáw	walang laman ang loob
 ampón	adoptee
 amuyin	to smell something
 anag-ág	faint light, glimmer of light
@@ -250,6 +251,7 @@ atay	liver
 atikabó	enthusiasm, lively spirit; sudden outburst, e.g. of applause
 atim	tolerance, bearing with, sufferance
 atin	[sa pronoun] our, ours, us, by us (inclusive)
+atíp	roof covering, pantakip sa bubong; pagtitipon para mag-usap sa isang bagay
 atraso	arrears, lateness; slang - to wrong someone "may atraso"
 atribido	daring, show-off, ksp (also atribida)
 atubilí	hesitation, reluctance (syn. bantulót)
@@ -507,7 +509,7 @@ bayawak	iguana, monitor lizard
 baybáy	edge, border, coast; spelling
 baybáyin	to enumerate
 bayong	a large bag; bag or sack made of woven palm leaves
-bayot	bakla
+bayot	bakla (waray waray)
 bayúbay	dangling, hanging, lawít, layláy, bitín, sabit
 baywáng	waist
 benta	sell
@@ -540,7 +542,7 @@ bihira	seldom
 bílang	number, count (noun); "as X"; "serves as", "counts as" (pseudo verb) (Bilang pera ito. "This counts as money.") 
 bilanggo	prisoner, captive
 bilangguan	jail
-bilas	husband of one's sister-in-law; wife of one's brother-in-law, asawa ng bayáw
+bilás	spouse of spouse's sibling - husband of one's sister-in-law; wife of one's brother-in-law, asawa ng bayáw o hipag
 bilasa	stale, putrid, spoilt (referring to fish)
 bilíb	confidence in someone or something (colloquial term for 'believe')
 bilibid	jail
@@ -754,6 +756,7 @@ dakót	fist, handful
 dalá	carried, brought; accompanied/caused by
 dalâ	to be wary
 dalaga	a young/single woman; teenage girl; unmarried woman
+dalaginding	teenage female, dalagita
 dalagita	teenage female, preteen girl
 dalamhatì	anguish, affliction, grief, extreme sorrow
 dalampasígan	seashore
@@ -906,6 +909,7 @@ embahada	embassy
 ensáyo	practice
 epal	(pertaining to) person who butts in to business of others due to needing attention or whatever
 eskinita	alley
+esmiringhoy	bembangan
 estánte	shelf, showcase, bookcase
 estero	estuary
 estilo	style
@@ -952,6 +956,8 @@ ganoong	equivalent to English 'in spite of the fact that' or 'even though.', imp
 gantí	revenge, retribution, return
 ganundin	likewise (ganoon din)
 ganyán	like that (gaya + niyan)
+gapás	napútol na, kung damo at katulad; naani na, kung sa palay at katulad
+gápas	pagpútol sa damo, talahib, palay, trigo, at katulad na haláman
 gapok	rotten inside (wood); fragile (wood, clothes, etc. due to age)
 garapál	openly shameless, brazen, shamelessly greedy.  often used regarding polititions
 garapón	mason jar
@@ -1167,6 +1173,7 @@ hayaàn mo na lang	just let it be
 hayág	out in the open, easily seen, public, exposed view
 háyo	forward!, move ahead
 hayop	animal
+hepa	hepatitis (sometimes said of someone na may maniláw-niláw na balat: "may hepa ang balat")
 heto	"here"
 hibáng	a crazy person; delirious
 hibla	thread
@@ -1646,6 +1653,7 @@ kalapati	dove, pigeon
 kalapit	person or place nearby; neighboring, nearby
 kalarô	playmate, play partner
 kalás	detached; unstitched; freed from (e.g. betrothal)
+kalaság	pananggâ, shield
 kalát	widespread, known everywhere; rampant; scattered, disordered; spreading as on internet
 kalaw	hornbill (bird)
 kalawakan	space, especially referring to outer space
@@ -4460,6 +4468,7 @@ sinangág	fried rice
 sinayang	(verb) wasted something
 sindi	lighter, a thing that lights
 singa	act of blowing one's nose
+singásing	exhaling vapor, often refers to the panting of tired animals such as bulls that exhale steam out their nostrils
 singáw	steam, fog, leak of steam, etc.
 singganda	as beautiful as
 singhap	loss of breath, gasping for breath
@@ -4770,6 +4779,7 @@ tangkáy	stalk, stem
 tangkíl	gentle or delicate handling; gentle grasp; delicate touch; light hold
 tangkílik	tagúyod
 tangkilikin	to patronize, as in a business, etc.
+tanglad	lemongrass
 tangó	nod
 tangwáy	peninsula
 tanikalâ	chain
@@ -4797,6 +4807,7 @@ tapós	to be finished with something
 tápos	then; done, complete, finished
 tará	"let's go"; term for bribes made to Customs officials
 tarakan	to stab with (a knife or dagger)
+tarangka	lock (tarangkahan, magtarangka)
 taranta	confusion, bewilderment
 tarantá	disconcerted, perturbed, upset; confusion, bewilderment; di-malaman ang gagawin, magulo ang isip; matulig, matuliro, malito
 tarantádo	foolish, shameless, disrespectful; moron, asshole

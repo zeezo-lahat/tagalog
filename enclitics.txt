@@ -6,11 +6,11 @@ na/pa                                        1
 man - even (if, though), although (as kahit) 1
 ------- 3a never follow class 4 ---------
 nga - indeed, affirmation                    1
-ba                                           1
 din/rin                                      1
 lang/lamang                                  1
-kasí                                         2
 po/ho                                        1
+ba                                           1
+kasí                                         2
 -------- 3b may follow class 4 -----------
 daw/raw                                      1
 muna - for now, first, beforehand            2
@@ -22,7 +22,7 @@ sana - hope, unrealized condition            2
 tulóy - cause and effect, as a result        2
 yatà - it seems, apparently                  2
 
-3a and 3b can intermingle, however, this is the most commonly used ordering:
+3a and 3b can intermingle, however, this is the most commonly used ordering for class 3:
 nga rin/din lamang/lang daw/raw po/ho ba muna naman kasi
 
 two-syllable personal pronouns follow the above:
